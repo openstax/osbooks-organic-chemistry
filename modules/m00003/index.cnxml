@@ -1,13 +1,29 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Test Section Module</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Atomic Structure: The Nucleus</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Test Section Module</md:title>
+    <md:title>Atomic Structure: The Nucleus</md:title>
     <md:content-id>m00003</md:content-id>
     <md:uuid>c19a15a0-a63e-47f5-aa0c-42d09482b85d</md:uuid>
   </metadata>
   <content>
     <para id="para-00001">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      As you might remember from your general chemistry course, an atom consists of a dense, positively charged nucleus surrounded at a relatively large distance by negatively charged electrons <link target-id="OChem_01_01_001.jpg"/>. The nucleus consists of subatomic particles called neutrons, which are electrically neutral, and protons, which are positively charged. Because an atom is neutral overall, the number of positive protons in the nucleus and the number of negative electrons surrounding the nucleus are the same.
+    </para>
+    <figure id="OChem_01_01_001.jpg">
+        <title>A schematic view of an atom.</title>
+        <media alt="An illustration with two images shows the structure of an atom. The first image shows the nucleus with protons and neutrons at the center. Text pointing to the surrounding electrons reads: Volume around nucleus occupied by orbiting electrons. The second illustration image shows a dense circle enclosed by a dim netted ring.">
+          <image mime-type="image/jpeg" src="../../media/OChem_01_01_001.jpg"/>
+        </media>
+      <caption>The dense, positively charged nucleus contains most of the atom’s mass and is surrounded by negatively charged electrons. The three-dimensional view on the right shows calculated electron-density surfaces. Electron density increases steadily toward the nucleus and is 40 times greater at the <span class="cyan-text">blue solid surface</span> than at the <span class="gray-text">gray mesh surface</span>.</caption>
+    </figure>
+    <para id="para-00002">
+      Although extremely small—about <m:math><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>14</m:mn></m:mrow></m:msup></m:math> to <m:math><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>15</m:mn></m:mrow></m:msup></m:math> meter (m) in diameter—the <term class="no-emphasis" id="term-00001">nucleus</term> nevertheless contains essentially all the mass of the atom. Electrons have negligible mass and circulate around the nucleus at a distance of approximately <m:math><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:msup></m:math> m. Thus, the diameter of a typical <term class="no-emphasis" id="term-00002">atom</term> is about <m:math><m:mn>2</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:msup></m:math> m, or 200 <term class="no-emphasis" id="term-00003">picometer</term>s (pm), where 1 pm = <m:math><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>12</m:mn></m:mrow></m:msup></m:math> m. To give you an idea of how small this is, a thin pencil line is about 3 million carbon atoms wide. Most chemists throughout the world use the International System (SI) of units and describe small distances in picometers, but many organic chemists and biochemists in the United States still use the unit <term class="no-emphasis" id="term-00004">angstrom</term> <m:math><m:mo>(</m:mo><m:mi>Å</m:mi><m:mo>)</m:mo></m:math> to express atomic distances, where 1 <m:math><m:mi>Å</m:mi></m:math> = 100 pm = <m:math><m:msup><m:mn>10</m:mn><m:mrow><m:mo>-</m:mo><m:mn>10</m:mn></m:mrow></m:msup></m:math> m. As you probably did in your general chemistry course, however, we’ll stay with SI units in this book.
+    </para>
+    <para id="para-00003">
+      A specific atom is described by its <term id="term-00005">atomic number (Z)</term>, which gives the number of protons (or electrons) it contains, and its <term id="term-00006">mass number (<emphasis effect="italics">A</emphasis>)</term>, which gives the total number of protons and neutrons in its nucleus. All the atoms of a given element have the same atomic number: 1 for hydrogen, 6 for carbon, 15 for phosphorus, and so on; but they can have different mass numbers depending on how many neutrons they contain. <term class="no-emphasis" id="term-00007">Atom</term>s with the same atomic number but different mass numbers are called <term id="term-00008">isotope</term><emphasis effect="bold">s</emphasis>. The element carbon, for instance has three isotopes that occur naturally, with mass numbers of 12, 13, and 14. Carbon-12 has a natural abundance of 98.89%, carbon-13 has a natural abundance of 1.11%, and carbon-14 has only a negligible natural abundance.
+    </para>
+    <para id="para-00004">
+      The weighted average mass of an element’s naturally occurring isotopes is called the element’s <term id="term-00009">atomic weight</term> and is given in <term id="term-00010">atomic mass</term> <emphasis effect="bold">units (amu)</emphasis> where 1 amu is defined as one twelfth the mass of one atom of carbon-12. Thus, the atomic weight is 1.008 amu for hydrogen, 12.011 amu for carbon, 30.974 amu for phosphorus, and so on. Atomic weights of all elements are given in the periodic table in the front of this book.
     </para>
   </content>
 </document>
