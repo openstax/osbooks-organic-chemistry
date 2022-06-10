@@ -23,7 +23,7 @@
       <caption>An <emphasis effect="italics">s</emphasis> orbital is spherical, a <emphasis effect="italics">p</emphasis> orbital is dumbbell-shaped, and four of the five <emphasis effect="italics">d</emphasis> orbitals are cloverleaf-shaped. <emphasis effect="bold"><span class="cyan-text">Different</span> <span class="red-text">lobes</span></emphasis> of <emphasis effect="italics">p</emphasis> and <emphasis effect="italics">d</emphasis> orbitals are often drawn for convenience as teardrops, but their actual shape is more like that of a doorknob, as indicated.</caption>
     </figure>
     <para id="para-00004">
-      The orbitals in an atom are organized into different layers around the nucleus called <term id="term-00010">electron shell</term><emphasis effect="bold">s</emphasis>, which are centered around the nucleus and have successively larger size and energy. Different <term class="no-emphasis" id="term-00011">shell</term>s contain different numbers and kinds of orbitals, and each orbital within a shell can be occupied by two electrons. The first shell contains only a single <emphasis effect="italics">s</emphasis> orbital, denoted 1<emphasis effect="italics">s</emphasis>, and thus holds only 2 electrons. The second shell contains one 2<emphasis effect="italics">s</emphasis> orbital and three 2<emphasis effect="italics">p</emphasis> orbitals and thus holds a total of 8 electrons. The third shell contains a 3<emphasis effect="italics">s</emphasis> orbital, three 3<emphasis effect="italics">p</emphasis> orbitals, and five 3d orbitals, for a total capacity of 18 electrons. These <term class="no-effect" id="term-00012">orbital</term> groupings and their energy levels are shown in <link target-id=""/>.
+      The orbitals in an atom are organized into different layers around the nucleus called <term id="term-00010">electron shell</term><emphasis effect="bold">s</emphasis>, which are centered around the nucleus and have successively larger size and energy. Different <term class="no-emphasis" id="term-00011">shell</term>s contain different numbers and kinds of orbitals, and each orbital within a shell can be occupied by two electrons. The first shell contains only a single <emphasis effect="italics">s</emphasis> orbital, denoted 1<emphasis effect="italics">s</emphasis>, and thus holds only 2 electrons. The second shell contains one 2<emphasis effect="italics">s</emphasis> orbital and three 2<emphasis effect="italics">p</emphasis> orbitals and thus holds a total of 8 electrons. The third shell contains a 3<emphasis effect="italics">s</emphasis> orbital, three 3<emphasis effect="italics">p</emphasis> orbitals, and five 3d orbitals, for a total capacity of 18 electrons. These <term class="no-effect" id="term-00012">orbital</term> groupings and their energy levels are shown in <link target-id="OChem_01_02_002.jpg"/>.
     </para>
     <figure id="OChem_01_02_002.jpg">
       <title>The energy levels of electrons in an atom.</title>
@@ -33,7 +33,62 @@
       <caption>The first shell holds a maximum of 2 electrons in one <span class="red-text">1<emphasis effect="italics">s</emphasis></span> orbital; the second shell holds a maximum of 8 electrons in one <span class="red-text">2<emphasis effect="italics">s</emphasis></span> and three <span class="cyan-text">2<emphasis effect="italics">p</emphasis></span> orbitals; the third shell holds a maximum of 18 electrons in one <span class="red-text">3<emphasis effect="italics">s</emphasis></span>, three <span class="cyan-text">3<emphasis effect="italics">p</emphasis></span>, and <span class="green-text">3<emphasis effect="italics">d</emphasis></span> orbitals; and so on. The two electrons in each orbital are represented by five up and down arrows, <span class="red-text">⇅</span>. Although not shown, the energy level of the <span class="red-text">4<emphasis effect="italics">s</emphasis></span> orbital falls between <span class="blue-text">3<emphasis effect="italics">p</emphasis></span> and <span class="green-text">3<emphasis effect="italics">d</emphasis></span>.</caption>
     </figure>
     <para id="para-00005">
-      The three different <emphasis effect="italics">p</emphasis> orbitals within a given <term class="no-effect" id="term-00013">shell</term> are oriented in space along mutually perpendicular directions, denoted px, py, and pz. As shown in [link]Figure 01_02_80485-01-05_2pOrbital[/link], the two lobes of each p orbital are separated by a region of zero electron density called a node. Furthermore, the two orbital regions separated by the node have different algebraic signs, + and −, in the wave function, as represented by the different colors in [link]Figure 01_02_80485-01-03_Orbitals[/link] and [link]Figure 01_02_80485-01-05_2pOrbital[/link]. We’ll see in [link]Describing Chemical Bonds: Molecular Orbital Theory[/link] that these algebraic signs for different orbital lobes have important consequences with respect to chemical bonding and chemical reactivity.
+      The three different <emphasis effect="italics">p</emphasis> orbitals within a given <term class="no-effect" id="term-00013">shell</term> are oriented in space along mutually perpendicular directions, denoted
+      <m:math><m:msub><m:mi>p</m:mi><m:mi>x</m:mi></m:msub></m:math>, <m:math><m:msub><m:mi>p</m:mi><m:mi>y</m:mi></m:msub></m:math>, and <m:math><m:msub><m:mi>p</m:mi><m:mi>z</m:mi></m:msub></m:math>. As shown in
+      <link target-id="OChem_01_02_003.jpg"/>, the two lobes of each <emphasis effect="italics">p</emphasis> orbital are separated by a region of zero electron density called a <term id="term-00014">node</term>. Furthermore, the two orbital regions separated by the node have different algebraic signs, + and −, in the wave function, as represented by the different colors in
+      <link target-id="OChem_01_02_001.jpg"/> and <link target-id="OChem_01_02_003.jpg"/>. We’ll see in <link document="m00013">Describing Chemical Bonds: Molecular Orbital Theory</link> that these algebraic signs for different orbital lobes have important consequences with respect to chemical bonding and chemical reactivity.
     </para>
+    <figure id="OChem_01_02_003.jpg">
+      <title>Shapes of the 2<emphasis effect="italics">p</emphasis> orbitals.</title>
+        <media alt="An illustration shows three images representing 2 px, 2py, and 2pz orbitals. Each image shows three axes: x, y, and z. In the first image the 2px orbital is along the x-axis with blue lobe on the left and red lobe on the right. In the second image the 2py orbital is along the y-axis with blue lobe at the bottom and red lobe at the top. In the third image the 2pz orbital is along the z-axis with blue lobe at the top and red lobe at the bottom.">
+          <image mime-type="image/jpeg" src="../../media/OChem_01_02_003.jpg"/>
+        </media>
+      <caption>Each of the three mutually perpendicular, dumbbell-shaped orbitals has two lobes separated by a node. The <span class="cyan-text">two</span> <span class="red-text">lobes</span> have different algebraic signs in the corresponding wave function, as indicated by the different colors.</caption>
+    </figure>
+
   </content>
+
+  <glossary>
+<definition id="def-00001">
+  <term>quantum mechanical model</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00002">
+  <term>atom</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00003">
+  <term>wave equation</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00004">
+  <term>wave function</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00005">
+  <term>orbital</term>
+  <meaning>a wave function, which describes the volume of space around a nucleus in which an electron is most likely to be found</meaning>
+</definition>
+<definition id="def-00006">
+  <term><emphasis effect="italics">s</emphasis> orbital</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00007">
+  <term><emphasis effect="italics">p</emphasis> orbital</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00008">
+  <term><emphasis effect="italics">d</emphasis> orbital</term>
+  <meaning>need definition</meaning>
+</definition>
+<definition id="def-00009">
+  <term>electron shell</term>
+  <meaning>a group of an atom’s electrons with the same principal quantum number</meaning>
+</definition>
+<definition id="def-00010">
+  <term>node</term>
+  <meaning>a surface of zero electron density within an orbital. For example, a <emphasis effect="italics">p</emphasis> orbital has a nodal plane passing through the center of the nucleus, perpendicular to the axis of the orbital</meaning>
+</definition>
+
+  </glossary>
 </document>

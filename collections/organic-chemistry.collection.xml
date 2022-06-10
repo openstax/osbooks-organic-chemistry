@@ -1,7 +1,7 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-  <md:content-id>col00005</md:content-id>  
-  <md:title>Organic Chemistry</md:title>
+    <md:content-id>col00005</md:content-id>
+    <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
@@ -15,6 +15,16 @@
         <col:module document="m00002"/>
         <col:module document="m00003"/>
         <col:module document="m00004"/>
+        <col:module document="m00005"/>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+        <col:module document="m00014"/>
       </col:content>
     </col:subcollection>
   </col:content>

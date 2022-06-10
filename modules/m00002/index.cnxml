@@ -7,13 +7,13 @@
   </metadata>
   <content class="introduction">
 
-    <!-- <figure id="Figure 01_00_80485-CO-01_Ribbon.jpg" class="splash">
+    <figure id="image1.jpeg" class="splash">
       <media alt="An illustration shows the ribbon model of HMG–CoA reductase. It shows green, pink, white, and yellow ribbons coiled.">
-        <image mime-type="image/jpg" src="Figure 01_00_80485-CO-01_Ribbon.jpg"/>
+        <image mime-type="image/jpg" src="../../media/image1.jpeg"/>
       </media>
       <caption>The enzyme HMG–CoA reductase, shown here as a so-called ribbon model, catalyzes a crucial step in the body’s synthesis of cholesterol. Understanding how this enzyme functions has led to the development of drugs credited with saving millions of lives. 
       </caption>
-    </figure>-->
+    </figure>
     <note class="why-this-chp" id="note-00001">
       <para id="para-00002">
         We’ll ease into the study of organic chemistry by first reviewing some ideas about atoms, bonds, and molecular geometry that you may recall from your general chemistry course. Much of the material in this chapter and the next is likely to be familiar to you, but it’s nevertheless a good idea to make sure you understand it before moving on.
@@ -23,7 +23,7 @@
       What is <term class="no-emphasis" id="term-00001">organic chemistry</term>, and why should you study it? The answers to these questions are all around you. Every living organism is made of organic chemicals. The proteins that make up your hair, skin, and muscles; the DNA that controls your genetic heritage; the foods that nourish you; and the medicines that heal you are all organic chemicals. Anyone with a curiosity about life and living things, and anyone who wants to be a part of the remarkable advances taking place in medicine and the biological sciences, must first understand organic chemistry. Look at the following drawings for instance, which show the chemical structures of some molecules whose names might be familiar to you. Although the drawings may appear unintelligible at this point, don’t worry. They’ll make perfectly good sense before long, and you’ll soon be drawing similar structures for any substance you’re interested in.
     </para>
     <figure id="OChem_01_00_001.jpg" class="unnumbered">
-     <media alt="Insert Alt Text">
+     <media alt="MISSING">
         <image mime-type="image/jpeg" src="../../media/OChem_01_00_001.jpg"/>
       </media>
     </figure>
@@ -48,6 +48,16 @@
 <para id="para-00006">
   Not all carbon compounds are derived from living organisms, however. Modern chemists have developed a remarkably sophisticated ability to design and synthesize new organic compounds in the laboratory—medicines, dyes, polymers, and a host of other substances. Organic chemistry touches the lives of everyone. Its study can be a fascinating undertaking.
 </para>
-
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>organic chemistry</term>
+      <meaning>the study of carbon compounds</meaning>
+    </definition>
+    <definition id="def-00002">
+      <term>organic compounds</term>
+      <meaning>need definition</meaning>
+    </definition>
+  </glossary>
 </document>

@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Atomic Structure: Electron Configurations</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Atomic Structure: Electron Configurations</md:title>
+    <md:content-id>m00005</md:content-id>
+    <md:uuid>3a2b4db9-a3a8-4c68-a8bd-baa4ba7bd43c</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">
+      The lowest-energy arrangement, or <term id="term-00001">ground-state electron</term> configuration, of an <term id="term-00002">atom</term> is a list of the orbitals occupied by its electrons. We can predict this arrangement by following three rules.
+    </para>
+    <para id="para-00002">
+      <span class="red-text">RULE 1</span> The lowest-energy orbitals fill up first, according to the order 
+      <m:math>
+        <m:mn>1</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo>
+        <m:mn>2</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>➝</m:mo>
+        <m:mn>3</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo><m:mn>3</m:mn><m:mi>p</m:mi><m:mo>➝</m:mo>
+        <m:mn>4</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo><m:mn>3</m:mn><m:mi>d</m:mi><m:mo>➝</m:mo>
+      </m:math>, a statement called the <term id="term-00003">Aufbau principle</term>. Note that the 4<emphasis effect="italics">s</emphasis> orbital lies between the 3<emphasis effect="italics">p</emphasis> and 3<emphasis effect="italics">d</emphasis> orbitals in energy.
+    </para>
+    <para id="para-00003">
+      <span class="red-text">RULE 2</span> Electrons act in some ways as if they were spinning around an axis, somewhat as the earth spins. This spin can have two orientations, denoted as up (<span class="red-text">🠑</span>) and down (<span class="red-text">U+1F813</span>). Only two electrons can occupy an orbital, and they must have opposite spins, a statement called the <term id="term-00004">Pauli exclusion principle</term>.
+    </para>
+    <para id="para-00004">
+      <span class="red-text">RULE 3</span> If two or more empty orbitals of equal energy are available, one electron occupies each with spins parallel until all orbitals are half-full, a statement called <term id="term-00005">Hund’s rule</term>.
+    </para>
+    <para id="para-00005">
+      Some examples of how these rules apply are shown in <link target-id="OChem_01_03_001"/>. Hydrogen, for instance, has only one electron, which must occupy the lowest-energy orbital. Thus, hydrogen has a 1<emphasis effect="italics">s</emphasis> ground-state configuration. <term id="term-00006">Carbon</term> has six electrons and the ground-state configuration
+      <m:math><m:mrow>
+        <m:mn>1</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup>
+        <m:mn>2</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup>
+        <m:mn>2</m:mn><m:msup><m:mrow><m:msub><m:mi>p</m:mi><m:mi>x</m:mi></m:msub></m:mrow><m:mn>1</m:mn></m:msup>
+        <m:mn>2</m:mn><m:msup><m:mrow><m:msub><m:mi>p</m:mi><m:mi>y</m:mi></m:msub></m:mrow><m:mn>1</m:mn></m:msup>
+      </m:mrow></m:math>, and so forth. Note that a superscript is used to represent the number of electrons in a particular orbital.
+    </para>
+    <table id="OChem_01_03_001" summary="Ground-State Electron Configurations of Some Elements">
+      <title>Ground-State Electron Configurations of Some Elements</title>
+      <tgroup cols="7">
+        <thead>
+          <row>
+            <entry>Element</entry>
+            <entry>Atomic number</entry>
+            <entry>Configuration</entry>
+            <entry/>
+            <entry>Element</entry>
+            <entry>Atomic number</entry>
+            <entry>Configuration</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Hydrogen</entry>
+            <entry>1</entry>
+            <entry><media alt="MISSING" display="inline"><image mime-type="image/jpg" src="../../media/OChem_01_03_001a.jpg"/></media></entry>
+            <entry/>
+            <entry>Phosphorus</entry>
+            <entry>15</entry>
+            <entry><media alt="MISSING" display="inline"><image mime-type="image/jpg" src="../../media/OChem_01_03_001c.jpg"/></media></entry>
+          </row>
+          <row>
+            <entry>Carbon</entry>
+            <entry>6</entry>
+            <entry><media alt="MISSING" display="inline"><image mime-type="image/jpg" src="../../media/OChem_01_03_001b.jpg"/></media></entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  
+    <section class="section-exercises" id="sect-00001">
+      <exercise id="exer-00001">
+        <problem id="prob-00001">
+          <para id="para-00006">What is the ground-state electron configuration of each of the following elements:
+            <list list-type="enumerated" number-style="lower-alpha" id="list-00001">
+              <item>Oxygen</item>
+              <item>Nitrogen</item>
+              <item>Sulfur</item>
+            </list>
+          </para>
+        </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+          <para id="para-00007">How many electrons does each of the following biological trace elements have in its outermost electron shell?
+            <list list-type="enumerated" number-style="lower-alpha" id="list-00002">
+              <item>Magnesium</item>
+              <item>Cobalt</item>
+              <item>Selenium</item>
+            </list>
+          </para>
+        </problem>
+      </exercise>
+    </section>
+  
+  </content>
+<glossary>
+  <definition id="def-00001">
+    <term> ground-state electron configuration</term>
+    <meaning>the most stable, lowest-energy electron configuration of a molecule or atom</meaning>
+  </definition>
+  <definition id="def-00002">
+    <term>atom</term>
+    <meaning>need definition</meaning>
+  </definition>
+  <definition id="def-00003">
+    <term>Aufbau principle</term>
+    <meaning>the rules for determining the electron configuration of an atom</meaning>
+  </definition>
+  <definition id="def-00004">
+    <term>Pauli exclusion principle</term>
+    <meaning/>
+  </definition>
+  <definition id="def-00005">
+    <term>Hund’s rule</term>
+    <meaning>if two or more empty orbitals of equal energy are available, one electron occupies each, with their spins parallel, until all are half-full</meaning>
+  </definition>
+  <definition id="def-00006">
+    <term>Carbon</term>
+    <meaning>need definition</meaning>
+  </definition>
+</glossary>
+
+</document>
