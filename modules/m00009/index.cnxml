@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>sp3 Hybrid Orbitals and the Structure of Ethane</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>sp3 Hybrid Orbitals and the Structure of Ethane</md:title>
@@ -6,6 +6,23 @@
     <md:uuid>0ee4799c-680b-49c7-ae38-66183e01ddb3</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">fdlkjfds</para>
+    <para id="para-00001">The same kind of <term id="term-00001">orbital</term> hybridization that accounts for the methane structure also accounts for the bonding together of carbon atoms into chains and rings to make possible many millions of organic compounds. Ethane, C<sub>2</sub>H<sub>6</sub>, is the simplest molecule containing a carbon–carbon bond.
+    </para>
+    <figure id="OChem_01_07_001.jpg" class="unnumbered">
+      <media alt="An illustration shows the Lewis structure, Kekulé structure, and structural formula of ethane. The Lewis structure shows two carbon atoms sharing a pair of electrons between them; each carbon shows three pairs of electrons and three hydrogens. The Kekulé structure shows two carbons single bonded to each other; each carbon is bonded to three hydrogens. The structural formula shows two methyl groups bonded to each other.">
+        <image mime-type="image/jpg" src="../../media/OChem_01_07_001.jpg"/>
+      </media>
+    </figure>
+    <para id="para-00002">
+      We can picture the <term id="term-00002">ethane</term> molecule by imagining that the two carbon atoms bond to each other by head-on sigma (σ) overlap of an <emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbital from each (<link target-id="OChem_01_07_002.jpg"/>). The remaining three <emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals on each carbon overlap with the 1<emphasis effect="italics">s</emphasis> orbitals of three hydrogens to form the six C–H bonds. The C–H bonds in ethane are similar to those in methane, although a bit weaker: 421 kJ/mol (101 kcal/mol) for <term id="term-00003">ethane</term> versus 439 kJ/mol for methane. The C–C bond is 153 pm in length and has a strength of 377 kJ/mol (90 kcal/mol). All the bond angles of <term id="term-00004">ethane</term> are near, although not exactly at, the tetrahedral value of 109.5°.
+    </para>
+    <figure id="OChem_01_07_002.jpg">
+      <title>The structure of <term id="term-00005">ethane</term>.</title>
+      <media alt="An illustration shows the formation of sp3-sp3 sigma bond in ethane. The structural formula and ball-and-stick models of ethane are also shown. Two sp3 carbons hybridize to form sp3-sp3 sigma bond. Each sp3 carbon shows a tetrahedral orbital with the carbon at the center and a dot each in the four lobes. The structural formula shows two carbon atoms single bonded to each other. Each carbon is dash bonded to a hydrogen single bonded to a hydrogen and wedge bonded to a hydrogen. The angle between the C-C bond and the top hydrogen of the right carbon is 111.2 degrees. The length of C-C bond is 153 pm. The ball-and-stick model shows gray balls (carbons) and white balls (hydrogens).">
+        <image mime-type="image/jpg" src="../../media/OChem_01_07_002.jpg"/>
+      </media>
+      <caption>The carbon–carbon bond is formed by σ overlap of two <span class="green-text"><emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals</span>.  For clarity, the smaller lobes of the <emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals are not shown.</caption>
+    </figure>
+   
   </content>
 </document>
