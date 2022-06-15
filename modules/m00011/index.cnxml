@@ -28,7 +28,7 @@
       <caption>The two carbon atoms are joined by one <emphasis effect="italics">sp</emphasis>–<emphasis effect="italics">sp</emphasis> σ bond and two <emphasis effect="italics">p</emphasis>–<emphasis effect="italics">p</emphasis> <m:math><m:mi>π</m:mi></m:math> bonds.</caption>
     </figure>
     <para id="para-00003">
-      As suggested by <emphasis effect="italics">sp</emphasis> hybridization, acetylene is a linear molecule with H–C–C bond angles of 180°. The C–H bonds have a length of 106 pm and a strength of 558 kJ/mol (133 kcal/mol). The C–C bond length in acetylene is 120 pm, and its strength is about 965 kJ/mol (231 kcal/mol), making it the shortest and strongest of any carbon–carbon bond. A comparison of <emphasis effect="italics">sp</emphasis>, <emphasis effect="italics">sp</emphasis><sup>2</sup>, and <emphasis effect="italics">sp</emphasis><sup>3</sup> hybridization is given in <link target-id=""/>. 
+      As suggested by <emphasis effect="italics">sp</emphasis> hybridization, acetylene is a linear molecule with H–C–C bond angles of 180°. The C–H bonds have a length of 106 pm and a strength of 558 kJ/mol (133 kcal/mol). The C–C bond length in acetylene is 120 pm, and its strength is about 965 kJ/mol (231 kcal/mol), making it the shortest and strongest of any carbon–carbon bond. A comparison of <emphasis effect="italics">sp</emphasis>, <emphasis effect="italics">sp</emphasis><sup>2</sup>, and <emphasis effect="italics">sp</emphasis><sup>3</sup> hybridization is given in <link target-id="table-00001"/>. 
     </para>
     <table summary="MISSING" id="table-00001">
       <title>Comparison of C−C and C−H Bonds in Methane, Ethane, Ethylene, and Acetylene</title>
@@ -37,18 +37,15 @@
         <colspec colname="col4" colnum="4"/>
         <thead>
         <row>
-          <entry>Molecule</entry>
-          <entry>Bond</entry>
+          <entry morerows="1">Molecule</entry>
+          <entry morerows="1">Bond</entry>
           <entry namest="col3" nameend="col4">Bond strength</entry>
-          <entry>Bond length (pm)</entry>
+          <entry morerows="1">Bond length (pm)</entry>
         </row>
         <row>
-          <entry/>
-          <entry/>
           <entry>(kJ/mol)</entry>
           <entry>(kcal/mol)</entry>
-          <entry/>
-        </row>
+         </row>
       </thead>
         <tbody>
           <row>
@@ -104,6 +101,25 @@
       </tgroup>
 <caption/>
     </table>
-
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term><emphasis effect="italics">sp</emphasis> hybrid orbitals</term>
+      <meaning>hybrid orbitals derived from the combination of an <emphasis effect="italics">s</emphasis> and a <emphasis effect="italics">p</emphasis> atomic orbital. The two <emphasis effect="italics">sp</emphasis> orbitals that result from hybridization are oriented at an angle of 180° to each other</meaning>
+    </definition>
+    <definition id="def-00002">
+      <term>triple bond</term>
+      <meaning>need definition</meaning>
+    </definition>
+    <definition id="def-00003">
+      <term>acetylene</term>
+      <meaning>need definition</meaning>
+    </definition>
+    <definition id="def-00004">
+      <term>orbital</term>
+      <meaning>a wave function, which describes the volume of space around a nucleus in which an electron is most likely to be found</meaning>
+    </definition>
+
+  </glossary>
 </document>
