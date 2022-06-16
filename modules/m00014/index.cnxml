@@ -19,9 +19,9 @@
     <para id="para-00003">
       Even simpler than condensed structures are <term id="term-00003">skeletal structures</term> such as those shown in <link target-id=""/>. The rules for drawing skeletal structures are straightforward.
     </para>
-    <para id="para-00004"><span class="red-text">RULE 1</span> Carbon atoms aren’t usually shown. Instead, a carbon atom is assumed to be at each intersection of two lines (bonds) and at the end of each line. Occasionally, a carbon atom might be indicated for emphasis or clarity.</para>
-    <para id="para-00005"><span class="red-text">RULE 2</span> Hydrogen atoms bonded to carbon aren’t shown. Because carbon always has a valence of 4, we mentally supply the correct number of hydrogen atoms for each carbon.</para>
-    <para id="para-00006"><span class="red-text">RULE 3</span> Atoms other than carbon and hydrogen are shown.</para>
+    <para id="para-00004"><emphasis effect="bold"><span class="magenta-text">RULE 1</span></emphasis> Carbon atoms aren’t usually shown. Instead, a carbon atom is assumed to be at each intersection of two lines (bonds) and at the end of each line. Occasionally, a carbon atom might be indicated for emphasis or clarity.</para>
+    <para id="para-00005"><emphasis effect="bold"><span class="magenta-text">RULE 2</span></emphasis> Hydrogen atoms bonded to carbon aren’t shown. Because carbon always has a valence of 4, we mentally supply the correct number of hydrogen atoms for each carbon.</para>
+    <para id="para-00006"><emphasis effect="bold"><span class="magenta-text">RULE 3</span></emphasis> Atoms other than carbon and hydrogen are shown.</para>
     <para id="para-00007">
       One further comment: Although such groupings as –CH3, –OH, and –NH2 are usually written with the C, O, or N atom first and the H atom second, the order of writing is sometimes inverted to H3C–, HO–, and H2N– if needed to make the bonding connections clearer. Larger units such as –CH2CH3 are not inverted, though; we don’t write H3CH2C– because it would be confusing. There are, however, no well-defined rules that cover all cases; it’s largely a matter of preference.
     </para>
@@ -53,7 +53,7 @@
         <media display="inline" alt="MISSING">
           <image mime-type="image/jpeg" src="../../media/OChem_01_12_004.jpg"/>
         </media>
-      <para id="para-00009"><title><span class="red-text">Strategy</span></title> The end of a line represents a carbon atom with 3 hydrogens, CH3; a two-way intersection is a carbon atom with 2 hydrogens, CH2; a three-way intersection is a carbon atom with 1 hydrogen, CH; and a four-way intersection is a carbon atom with no attached hydrogens.</para>
+      <para id="para-00009"><title><emphasis effect="bold"><span class="magenta-text">Strategy</span></emphasis></title> The end of a line represents a carbon atom with 3 hydrogens, CH3; a two-way intersection is a carbon atom with 2 hydrogens, CH2; a three-way intersection is a carbon atom with 1 hydrogen, CH; and a four-way intersection is a carbon atom with no attached hydrogens.</para>
       <para id="para-00010"><title>Solution</title>
           <media display="inline" alt="MISSING">
             <image mime-type="image/jpeg" src="../../media/OChem_01_12_005.jpg"/>
