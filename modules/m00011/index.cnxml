@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">In addition to forming single and double bonds by sharing two and four electrons, respectively, carbon also can form a <term class="no-emphasis" id="term-00001"><emphasis effect="italics">triple</emphasis> bond</term> by sharing six electrons. To account for the triple bond in a molecule such as <term id="term-00002">acetylene</term>,
-      <m:math><m:mrow><m:mi>H</m:mi><m:mo>-</m:mo><m:mi>C</m:mi><m:mo>≡</m:mo><m:mi>C</m:mi><m:mo>-</m:mo><m:mi>H</m:mi></m:mrow></m:math>, we need a third kind of hybrid <term id="term-00003">orbital</term>, an <emphasis effect="bold"><emphasis effect="italics">sp</emphasis> hybrid</emphasis>. Imagine that, instead of combining with two or three <emphasis effect="italics">p</emphasis> orbitals, a carbon 2<emphasis effect="italics">s</emphasis> orbital hybridizes with only a single <emphasis effect="italics">p</emphasis> orbital. Two <emphasis effect="italics">sp</emphasis> hybrid orbitals result, and two <emphasis effect="italics">p</emphasis> orbitals remain unchanged. The two <emphasis effect="italics">sp</emphasis> orbitals are oriented 180° apart on the right-left (<emphasis effect="italics">x</emphasis>) axis, while the <emphasis effect="italics">p</emphasis> orbitals are perpendicular on the up-down (<emphasis effect="italics">y</emphasis>) axis and the in-out (<emphasis effect="italics">z</emphasis>) axis, as shown in <link target-id=""/>]Figure 01_09_80485-01-15_spHybrid[/link].
+      <m:math><m:mrow><m:mi>H</m:mi><m:mo>-</m:mo><m:mi>C</m:mi><m:mo>≡</m:mo><m:mi>C</m:mi><m:mo>-</m:mo><m:mi>H</m:mi></m:mrow></m:math>, we need a third kind of hybrid <term class="no-emphasis" id="term-00003">orbital</term>, an <emphasis effect="bold"><emphasis effect="italics">sp</emphasis> hybrid</emphasis>. Imagine that, instead of combining with two or three <emphasis effect="italics">p</emphasis> orbitals, a carbon 2<emphasis effect="italics">s</emphasis> orbital hybridizes with only a single <emphasis effect="italics">p</emphasis> orbital. Two <emphasis effect="italics">sp</emphasis> hybrid orbitals result, and two <emphasis effect="italics">p</emphasis> orbitals remain unchanged. The two <emphasis effect="italics">sp</emphasis> orbitals are oriented 180° apart on the right-left (<emphasis effect="italics">x</emphasis>) axis, while the <emphasis effect="italics">p</emphasis> orbitals are perpendicular on the up-down (<emphasis effect="italics">y</emphasis>) axis and the in-out (<emphasis effect="italics">z</emphasis>) axis, as shown in <link target-id=""/>.
     </para>
     <figure id="OChem_01_09_001.jpg">
       <title><emphasis effect="italics">sp</emphasis> Hybridization.</title>
@@ -101,6 +101,15 @@
       </tgroup>
 <caption/>
     </table>
+
+    <section class="section-exercises" id="sect-00001">
+      <title>Assessments: Problems</title>
+    <exercise id="exer-00001">
+      <problem id="prob-00001">
+        <para id="para-00004"><link class="os-embed" url="#exercise/OrgChem_C01_Q013"/></para>
+      </problem>
+    </exercise>
+      </section>
   </content>
 
   <glossary>
