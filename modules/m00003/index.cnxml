@@ -6,6 +6,15 @@
     <md:uuid>c19a15a0-a63e-47f5-aa0c-42d09482b85d</md:uuid>
   </metadata>
   <content>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00005">By the end of this section you should be able to</para>
+        <list id="list-00001">
+          <item>Lorem ipsum dolor sit amet.</item>
+          <item>Consectetur adipiscing elit.</item>
+          <item>This is to test learning objective feature if we add it.</item>
+        </list>
+    </section>
     <para id="para-00001">
       As you might remember from your general chemistry course, an atom consists of a dense, positively charged nucleus surrounded at a relatively large distance by negatively charged electrons <link target-id="OChem_01_01_001.jpg"/>. The nucleus consists of subatomic particles called <emphasis effect="italics">neutrons</emphasis>, which are electrically neutral, and <emphasis effect="italics">protons</emphasis>, which are positively charged. Because an atom is neutral overall, the number of positive protons in the nucleus and the number of negative electrons surrounding the nucleus are the same.
     </para>
