@@ -27,7 +27,7 @@
       Why, though, do atoms bond together, and how can chemical bonds be described electronically? The <emphasis effect="italics">why</emphasis> question is relatively easy to answer: atoms bond together because the compound that results is more stable and lower in energy than the separate atoms. Energy—usually as heat—is always released and flows out of the chemical system when a bond forms. Conversely, energy is added to the chemical system when a bond breaks. Making bonds always releases energy, and breaking bonds always absorbs energy. The <emphasis effect="italics">how</emphasis> question is more difficult. To answer it, we need to know more about the electronic properties of atoms.
     </para>
     <para id="para-00005">
-      We know through observation that eight electrons (an electron <term class="no-emphasis" id="term-00007"><emphasis effect="italics">octet</emphasis></term>) in an atom’s outermost shell, or <term id="term-00008">valence shell</term>, impart special stability to the noble-gas elements in group 8A of the periodic table: 
+      We know through observation that eight electrons (an electron <term class="no-emphasis" id="term-00007"><emphasis effect="italics">octet</emphasis></term>) in an atom’s outermost shell, or <term id="term-00008">valence shell</term>, impart special stability to the noble-gas elements in group 8A of the periodic table:
       Ne (2+<emphasis effect="italics">8</emphasis>);
       Ar (2+8+<emphasis effect="italics">8</emphasis>);
       Kr (2+8+18+<emphasis effect="italics">8</emphasis>). We also know that the chemistry of the main-group elements on the left and right sides of the periodic table is governed by their tendency to take on the electron configuration of the nearest noble gas. The alkali metals such as sodium in group 1A, for example, achieve a noble-gas configuration by losing the single <emphasis effect="italics">s</emphasis> electron from their valence shell to form a cation, while the halogens such as chlorine in group 7A achieve a noble-gas configuration by gaining a <emphasis effect="italics">p</emphasis> electron to fill their valence shell and form an anion. The resultant ions are held together in compounds like Na<sup>+</sup> Cl<sup>–</sup> by the electrical attraction of unlike charges that we call an <term id="term-00009">ionic bond</term>.
@@ -62,7 +62,7 @@
         <m:mn>2</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup>
       <m:mspace width="0.2em"/>
       <m:mn>2</m:mn><m:msup><m:mi>p</m:mi><m:mn>6</m:mn></m:msup>
-      </m:mrow></m:math>), so it forms four bonds. Nitrogen has five valence electrons 
+      </m:mrow></m:math>), so it forms four bonds. Nitrogen has five valence electrons
       (<m:math><m:mrow>
         <m:mn>2</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup>
         <m:mspace width="0.2em"/>
@@ -87,18 +87,14 @@
       </media>
   </figure>
   <example id="exam-00001">
-    <title>1.1: Predicting the Number of Bonds Formed by Atoms in Molecules</title>
-    <exercise id="exer-00001">
-    <problem id="prob-00001"><para id="para-00010">How many hydrogen atoms does phosphorus bond to in forming phosphine, PH<sub>?</sub>?</para>
-    <para id="para-00011"><title>Strategy</title>
-      Identify the periodic group of phosphorus, and find from that how many electrons (bonds) are needed to make an octet.</para>
-    </problem>
-    <solution id="sol-00001"><para id="para-00019">Phosphorus is in group 5A of the periodic table and has five valence electrons. It thus needs to share three more electrons to make an octet and therefore bonds to three hydrogen atoms, giving PH<sub>3</sub>.</para></solution>
-  </exercise>
+    <title>Predicting the Number of Bonds Formed by Atoms in Molecules</title>
+    <para id="para-00010">How many hydrogen atoms does phosphorus bond to in forming phosphine, PH<sub>?</sub>?</para>
+    <para id="para-00011"><title>Strategy</title>Identify the periodic group of phosphorus, and find from that how many electrons (bonds) are needed to make an octet.</para>
+    <para id="para-00019"><title>Solution</title>Phosphorus is in group 5A of the periodic table and has five valence electrons. It thus needs to share three more electrons to make an octet and therefore bonds to three hydrogen atoms, giving PH<sub>3</sub>.</para>
   </example>
 
   <example id="exam-00002">
-    <title>1.2: Drawing Electron-Dot and Line-Bond Structures</title>
+    <title>Drawing Electron-Dot and Line-Bond Structures</title>
     <para id="para-00012">Draw both electron-dot and line-bond structures for chloromethane, CH<sub>3</sub>Cl.</para>
     <para id="para-00013"><title>Strategy</title> Remember that a covalent bond—that is, a pair of shared electrons—is represented as a line between atoms.</para>
     <para id="para-00014"><title>Solution</title> Hydrogen has one valence electron, carbon has four valence electrons, and chlorine has seven valence electrons. Thus, chloromethane is represented as
