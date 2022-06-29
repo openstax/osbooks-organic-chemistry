@@ -10,7 +10,7 @@
       The lowest-energy arrangement, or <term id="term-00001">ground-state electron</term> configuration, of an <term class="no-emphasis" id="term-00002">atom</term> is a list of the orbitals occupied by its electrons. We can predict this arrangement by following three rules.
     </para>
     <para id="para-00002">
-      <emphasis effect="bold"><span class="magenta-text">RULE 1</span></emphasis> The lowest-energy orbitals fill up first, according to the order 
+      <emphasis effect="bold"><span class="magenta-text">RULE 1</span></emphasis> The lowest-energy orbitals fill up first, according to the order
       <m:math>
         <m:mn>1</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo>
         <m:mn>2</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>➝</m:mo>
@@ -66,9 +66,9 @@
         </tbody>
       </tgroup>
     </table>
-  
+
     <section class="section-exercises" id="sect-00001">
-      <title>Assessments: Problems</title>
+      <title>Problems</title>
       <exercise id="exer-00001">
         <problem id="prob-00001">
           <para id="para-00006"><link class="os-embed" url="#exercise/OrgChem_C01_Q001"/>
@@ -82,7 +82,7 @@
         </problem>
       </exercise>
     </section>
-  
+
   </content>
 <glossary>
   <definition id="def-00001">
