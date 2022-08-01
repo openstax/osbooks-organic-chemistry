@@ -10,7 +10,7 @@
       The lowest-energy arrangement, or <term id="term-00001">ground-state electron</term> configuration, of an <term class="no-emphasis" id="term-00002">atom</term> is a list of the orbitals occupied by its electrons. We can predict this arrangement by following three rules.
     </para>
     <para id="para-00002">
-      <emphasis effect="bold"><span class="magenta-text">RULE 1</span></emphasis> The lowest-energy orbitals fill up first, according to the order
+      <emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis> The lowest-energy orbitals fill up first, according to the order
       <m:math>
         <m:mn>1</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo>
         <m:mn>2</m:mn><m:mi>s</m:mi><m:mo>➝</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>➝</m:mo>
@@ -19,10 +19,10 @@
       </m:math>, a statement called the <term id="term-00003">Aufbau principle</term>. Note that the 4<emphasis effect="italics">s</emphasis> orbital lies between the 3<emphasis effect="italics">p</emphasis> and 3<emphasis effect="italics">d</emphasis> orbitals in energy.
     </para>
     <para id="para-00003">
-      <emphasis effect="bold"><span class="magenta-text">RULE 2</span></emphasis> Electrons act in some ways as if they were spinning around an axis, somewhat as the earth spins. This spin can have two orientations, denoted as up (<emphasis effect="bold"><span class="magenta-text">↑</span></emphasis>) and down (<emphasis effect="bold"><span class="magenta-text">↓</span></emphasis>). Only two electrons can occupy an orbital, and they must have opposite spins, a statement called the <term id="term-00004">Pauli exclusion principle</term>.
+      <emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis> Electrons act in some ways as if they were spinning around an axis, somewhat as the earth spins. This spin can have two orientations, denoted as up (<emphasis effect="bold"><span class="magenta-text">↑</span></emphasis>) and down (<emphasis effect="bold"><span class="magenta-text">↓</span></emphasis>). Only two electrons can occupy an orbital, and they must have opposite spins, a statement called the <term id="term-00004">Pauli exclusion principle</term>.
     </para>
     <para id="para-00004">
-      <emphasis effect="bold"><span class="magenta-text">RULE 3</span></emphasis> If two or more empty orbitals of equal energy are available, one electron occupies each with spins parallel until all orbitals are half-full, a statement called <term id="term-00005">Hund’s rule</term>.
+      <emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis> If two or more empty orbitals of equal energy are available, one electron occupies each with spins parallel until all orbitals are half-full, a statement called <term id="term-00005">Hund’s rule</term>.
     </para>
     <para id="para-00005">
       Some examples of how these rules apply are shown in <link target-id="OChem_01_03_001"/>. Hydrogen, for instance, has only one electron, which must occupy the lowest-energy orbital. Thus, hydrogen has a 1<emphasis effect="italics">s</emphasis> ground-state configuration. <term class="no-emphasis" id="term-00006">Carbon</term> has six electrons and the ground-state configuration
