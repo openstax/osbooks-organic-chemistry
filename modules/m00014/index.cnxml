@@ -173,7 +173,55 @@
 </para>
 </note>
 
+<!-- LINKS AREN'T WORKING. CORGI SAYS THEY POINT TO NOWHERE.
+<section class="key-terms">
+<list id="list-00003">
 
+  <item><link document="m00013" target-id="term-00006">antibonding MO</link></item>
+  <item><link document="m00003" target-id="term-00005">atomic number (Z)</link></item>
+  <item><link document="m00005" target-id="term-00003">Aufbau principle</link></item>
+  <item><link document="m00008" target-id="term-00005">bond angle</link></item>
+  <item><link document="m00007" target-id="term-00006">bond length</link></item>
+
+  <item><link document="m00007" target-id="term-00005">bond strength</link></item>
+  <item><link document="m00013" target-id="term-00005">bonding MO</link></item>
+  <item><link target-id="term-00002">condensed structure</link></item>
+  <item><link document="m00006" target-id="term-00011">covalent bond</link></item>
+  <item><link document="m00004" target-id="term-00010">electron shell</link></item>
+
+  <item><link document="m00006" target-id="term-00014">electron-dot structure</link></item>
+  <item><link document="m00005" target-id="term-00007">ground-state electron configuration</link></item>
+  <item><link document="m00005" target-id="term-00005">Hund’s rule</link></item>
+  <item><link document="m00006" target-id="term-00009">ionic bond</link></item>
+  <item><link document="m00003" target-id="term-00008">isotope</link></item>
+
+  <item><link document="m00006" target-id="term-00015">Kekulé structure</link></item>
+  <item><link document="m00006" target-id="term-00013">Lewis structure</link></item>
+  <item><link document="m00006" target-id="term-00016">line-bond structure</link></item>
+  <item><link document="m00006" target-id="term-00018">lone-pair electrons</link></item>
+  <item><link document="m00003" target-id="term-00006">mass number</link></item>
+
+  <item><link document="m00013" target-id="term-00001">molecular orbital (MO) theory</link></item>
+  <item><link document="m00006" target-id="term-00012">molecule</link></item>
+  <item><link document="m00004" target-id="term-00014">node</link></item>
+  <item><link document="m00006" target-id="term-00017">nonbonding electrons</link></item>
+  <item><link document="m00004" target-id="term-00005">orbital</link></item>
+
+  <item><link document="m00005" target-id="term-00004">organic chemistry</link></item>
+  <item><link document="m00003" target-id="term-00004">Pauli exclusion principle</link></item>
+  <item><link document="m00010" target-id="term-00007">pi (<m:math><m:mo>π</m:mo></m:math>) bond</link></item>
+  <item><link document="m00007" target-id="term-00003">sigma (σ) bonds</link></item>
+  <item><link document="m00010" target-id="term-00013">single bond</link></item>
+
+  <item><link target-id="term-00003">skeletal structures</link></item>
+  <item><link document="m00011" target-id="term-00005"><emphasis effect="italics">sp</emphasis> hybrid orbitals</link></item>
+  <item><link document="m00010" target-id="term-00005"><emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbitals</link></item>
+  <item><link document="m00008" target-id="term-00002"><emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals</link></item>
+  <item><link document="m00007" target-id="term-00001">valence bond (VB) theory</link></item>
+
+</list>
+</section>
+-->
 
 <section class="summary" id="sect-00001">
   <title>Summary</title>
@@ -338,53 +386,7 @@
   </section>
 </section>
 
-<!-- LINKS AREN'T WORKING. CORGI SAYS THEY POINT TO NOWHERE.
-<list id="list-00003">
 
-  <item><link document="m00013" target-id="term-00006">antibonding MO</link></item>
-  <item><link document="m00003" target-id="term-00005">atomic number (Z)</link></item>
-  <item><link document="m00005" target-id="term-00003">Aufbau principle</link></item>
-  <item><link document="m00008" target-id="term-00005">bond angle</link></item>
-  <item><link document="m00007" target-id="term-00006">bond length</link></item>
-  
-  <item><link document="m00007" target-id="term-00005">bond strength</link></item>
-  <item><link document="m00013" target-id="term-00005">bonding MO</link></item>
-  <item><link target-id="term-00002">condensed structure</link></item>
-  <item><link document="m00006" target-id="term-00011">covalent bond</link></item>
-  <item><link document="m00004" target-id="term-00010">electron shell</link></item>
-  
-  <item><link document="m00006" target-id="term-00014">electron-dot structure</link></item>
-  <item><link document="m00005" target-id="term-00007">ground-state electron configuration</link></item>
-  <item><link document="m00005" target-id="term-00005">Hund’s rule</link></item>
-  <item><link document="m00006" target-id="term-00009">ionic bond</link></item>
-  <item><link document="m00003" target-id="term-00008">isotope</link></item>
-  
-  <item><link document="m00006" target-id="term-00015">Kekulé structure</link></item>
-  <item><link document="m00006" target-id="term-00013">Lewis structure</link></item>
-  <item><link document="m00006" target-id="term-00016">line-bond structure</link></item>
-  <item><link document="m00006" target-id="term-00018">lone-pair electrons</link></item>
-  <item><link document="m00003" target-id="term-00006">mass number</link></item>
-  
-  <item><link document="m00013" target-id="term-00001">molecular orbital (MO) theory</link></item>
-  <item><link document="m00006" target-id="term-00012">molecule</link></item>
-  <item><link document="m00004" target-id="term-00014">node</link></item>
-  <item><link document="m00006" target-id="term-00017">nonbonding electrons</link></item>
-  <item><link document="m00004" target-id="term-00005">orbital</link></item>
-  
-  <item><link document="m00005" target-id="term-00004">organic chemistry</link></item>
-  <item><link document="m00003" target-id="term-00004">Pauli exclusion principle</link></item>
-  <item><link document="m00010" target-id="term-00007">pi (<m:math><m:mo>π</m:mo></m:math>) bond</link></item>
-  <item><link document="m00007" target-id="term-00003">sigma (σ) bonds</link></item>
-  <item><link document="m00010" target-id="term-00013">single bond</link></item>
-  
-  <item><link target-id="term-00003">skeletal structures</link></item>
-  <item><link document="m00011" target-id="term-00005"><emphasis effect="italics">sp</emphasis> hybrid orbitals</link></item>
-  <item><link document="m00010" target-id="term-00005"><emphasis effect="italics">sp</emphasis><sup>2</sup> hybrid orbitals</link></item>
-  <item><link document="m00008" target-id="term-00002"><emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals</link></item>
-  <item><link document="m00007" target-id="term-00001">valence bond (VB) theory</link></item>
-
-</list>
--->
 
   </content>
 </document>
