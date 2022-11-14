@@ -1,20 +1,32 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:content-id>col00005</md:content-id>
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
+    <md:content-id>col12345</md:content-id>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike License</md:license>
   </col:metadata>
   <col:content>
     <col:module document="m00001"/>
     <col:subcollection>
-      <md:title>Test Subcollection</md:title>
+      <md:title>Structure and Bonding</md:title>
       <col:content>
         <col:module document="m00002"/>
         <col:module document="m00003"/>
+        <col:module document="m00004"/>
+        <col:module document="m00005"/>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+        <col:module document="m00014"/>
       </col:content>
     </col:subcollection>
+    <col:module document="m00016"/>
   </col:content>
 </col:collection>
