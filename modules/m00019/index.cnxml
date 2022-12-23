@@ -9,46 +9,47 @@
     <para id="para-00001">Just as individual bonds are often polar, molecules as a whole are often polar as well. Molecular polarity results from the vector summation of all individual bond polarities and lone-pair contributions in the molecule. As a practical matter, strongly polar substances are often soluble in polar solvents like water, whereas less polar substances are insoluble in water.</para>
 <para id="para-00002">Net molecular polarity is measured by a quantity called the <emphasis effect="italics">dipole moment</emphasis> and can be thought of in the following way: assume that there is a center of mass of all positive charges (nuclei) in a molecule and a center of mass of all negative charges (electrons). If these two centers don’t coincide, then the molecule has a net polarity.</para>
 <para id="para-00003">The <term id="term-00001">dipole moment</term>, <m:math><m:mi>μ</m:mi></m:math> (Greek mu), is defined as the magnitude of the charge <m:math><m:mi>Q</m:mi></m:math> at either end of the molecular dipole times the distance <m:math><m:mi>r</m:mi></m:math> between the charges, <m:math><m:mrow><m:mi>μ</m:mi><m:mo>=</m:mo><m:mi>Q</m:mi><m:mo>×</m:mo><m:mi>r</m:mi></m:mrow></m:math>. Dipole moments are expressed in <emphasis effect="italics">debyes</emphasis> (D), where 1 D = 3.336 × 10<sup>–30</sup> coulomb meters (C · m) in SI units. For example, the unit charge on an electron is 1.60 × 10<sup>–19</sup> C. Thus, if one positive charge and one negative charge are separated by 100 pm (a bit less than the length of a typical covalent bond), the dipole moment is 1.60 × 10<sup>–29</sup> C · m, or 4.80 D.</para>
-<para id="para-00004"><m:math>
-  <m:mtable columnalign='left'>
-   <m:mtr>
-    <m:mtd>
-     <m:mi>&#x03BC;</m:mi><m:mo>=</m:mo><m:mi>Q</m:mi><m:mo>&#x00D7;</m:mo><m:mi>r</m:mi>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr>
-    <m:mtd>
-     <m:mi>&#x03BC;</m:mi><m:mo>=</m:mo><m:mo stretchy='false'>(</m:mo><m:mn>1.60</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
-      <m:mn>10</m:mn>
-      <m:mrow>
-       <m:mo>&#x2212;</m:mo><m:mn>19</m:mn></m:mrow>
-     </m:msup>
-     <m:mtext>C)(100</m:mtext><m:mo>&#x00D7;</m:mo><m:msup>
-      <m:mn>10</m:mn>
-      <m:mrow>
-       <m:mo>&#x2212;</m:mo><m:mn>12</m:mn></m:mrow>
-     </m:msup>
-     <m:mtext>m</m:mtext><m:mo stretchy='false'>)</m:mo><m:mfenced>
-      <m:mrow>
-       <m:mfrac>
-        <m:mrow>
-         <m:mn>1</m:mn><m:mtext>D</m:mtext></m:mrow>
-        <m:mrow>
-         <m:mn>3.336</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
-          <m:mrow>
-           <m:mn>10</m:mn></m:mrow>
-          <m:mrow>
-           <m:mo>&#x2212;</m:mo><m:mn>30</m:mn></m:mrow>
-         </m:msup>
-         <m:mtext>C</m:mtext><m:mo>&#x22C5;</m:mo><m:mtext>m</m:mtext></m:mrow>
-       </m:mfrac>
-       </m:mrow>
-     </m:mfenced><m:mo>=</m:mo><m:mn>4.80</m:mn><m:mtext>&#x200A;</m:mtext><m:mtext>&#x200A;</m:mtext><m:mtext>D</m:mtext>
-    </m:mtd>
-   </m:mtr>
-  </m:mtable> 
- </m:math>
- </para>
+<equation class="unnumbered" id="eq-00001"><label/>
+  <m:math display="block">
+<m:mtable columnalign="left">
+<m:mtr>
+<m:mtd>
+<m:mi>μ</m:mi><m:mo>=</m:mo><m:mi>Q</m:mi><m:mo>×</m:mo><m:mi>r</m:mi>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mi>μ</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1.60</m:mn><m:mo>×</m:mo><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mo>−</m:mo><m:mn>19</m:mn></m:mrow>
+</m:msup>
+<m:mtext>C)(100</m:mtext><m:mo>×</m:mo><m:msup>
+<m:mn>10</m:mn>
+<m:mrow>
+<m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
+</m:msup>
+<m:mtext>m</m:mtext><m:mo stretchy="false">)</m:mo><m:mfenced>
+<m:mrow>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn><m:mtext>D</m:mtext></m:mrow>
+<m:mrow>
+<m:mn>3.336</m:mn><m:mo>×</m:mo><m:msup>
+<m:mrow>
+<m:mn>10</m:mn></m:mrow>
+<m:mrow>
+<m:mo>−</m:mo><m:mn>30</m:mn></m:mrow>
+</m:msup>
+<m:mtext>C</m:mtext><m:mo>⋅</m:mo><m:mtext>m</m:mtext></m:mrow>
+</m:mfrac>
+</m:mrow>
+</m:mfenced><m:mo>=</m:mo><m:mn>4.80</m:mn><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext>D</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable> 
+</m:math>
+</equation>
 <figure class="unnumbered" id="fig-00001">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/FPO.jpg"/><!--Figure

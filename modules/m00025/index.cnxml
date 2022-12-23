@@ -62,7 +62,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
 <equation class="unnumbered" id="eq-00002"><label/><m:math display="block"><m:mrow><m:mtext>p</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mo>−</m:mo><m:mi>log</m:mi><m:mtext> </m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow></m:math></equation>
 <para id="para-00004">A <emphasis effect="italics">stronger</emphasis> acid (larger <emphasis effect="italics">K</emphasis><sub>a</sub>) has a <emphasis effect="italics">smaller</emphasis> p<emphasis effect="italics">K</emphasis><sub>a</sub>, and a <emphasis effect="italics">weaker</emphasis> acid (smaller <emphasis effect="italics">K</emphasis><sub>a</sub>) has a <emphasis effect="italics">larger</emphasis> p<emphasis effect="italics">K</emphasis><sub>a</sub>. <link>Figure 02_08_T-AcidSt_img</link> lists the p<emphasis effect="italics">K</emphasis><sub>a</sub>’s of some common acids in order of their strength, and a more comprehensive table is given in <link>Appendix B</link>.</para>
 <para id="para-00005">Notice that the p<emphasis effect="italics">K</emphasis><sub>a</sub> value shown in <link>Figure 02_08_T-AcidSt_img</link> for water is 15.74, which results from the following calculation. Because water is both the acid and the solvent, the equilibrium expression is</para>
-<equation class="unnumbered" id="eq-00003"><label/><m:math>
+<equation class="unnumbered" id="eq-00003"><label/><m:math display="block">
   <m:mtable columnalign="left">
   <m:mtr>
   <m:mtd>
@@ -71,15 +71,15 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   <m:mtext>2</m:mtext>
   </m:msub>
   <m:msub>
-  <m:mtext>O°+°H</m:mtext>
+  <m:mtext>O&#x00A0;+&#x00A0;H</m:mtext>
   <m:mtext>2</m:mtext>
   </m:msub>
-  <m:mtext>O°°</m:mtext><m:mo>⇄</m:mo><m:msup>
-  <m:mtext>°°OH</m:mtext>
-  <m:mo>−</m:mo>
+  <m:mtext>O&#x00A0;</m:mtext><m:mo>&#x21C4;</m:mo><m:msup>
+  <m:mtext>&#x00A0;OH</m:mtext>
+  <m:mo>&#x2212;</m:mo>
   </m:msup>
   <m:msup>
-  <m:mtext>°+°H3O</m:mtext>
+  <m:mtext>&#x00A0;+&#x00A0;H3O</m:mtext>
   <m:mtext>+</m:mtext>
   </m:msup>
   </m:mtd>
@@ -102,7 +102,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   </m:msup>
   <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup>
   <m:mtext>A</m:mtext>
-  <m:mo>−</m:mo>
+  <m:mo>&#x2212;</m:mo>
   </m:msup>
   <m:mo stretchy="false">]</m:mo></m:mrow>
   <m:mrow>
@@ -121,7 +121,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup>
   <m:mrow>
   <m:mtext>OH</m:mtext></m:mrow>
-  <m:mo>−</m:mo>
+  <m:mo>&#x2212;</m:mo>
   </m:msup>
   <m:mo stretchy="false">]</m:mo></m:mrow>
   <m:mrow>
@@ -133,17 +133,17 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   </m:mfrac>
   <m:mo>=</m:mo><m:mfrac>
   <m:mrow>
-  <m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
+  <m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
   <m:mrow>
   <m:mn>10</m:mn></m:mrow>
   <m:mrow>
-  <m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
+  <m:mo>&#x2212;</m:mo><m:mn>7</m:mn></m:mrow>
   </m:msup>
-  <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
+  <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
   <m:mrow>
   <m:mn>10</m:mn></m:mrow>
   <m:mrow>
-  <m:mo>−</m:mo><m:mn>7</m:mn></m:mrow>
+  <m:mo>&#x2212;</m:mo><m:mn>7</m:mn></m:mrow>
   </m:msup>
   <m:mo stretchy="false">]</m:mo></m:mrow>
   <m:mrow>
@@ -152,7 +152,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   <m:mo>=</m:mo><m:mn>1.8</m:mn><m:mo>=</m:mo><m:msup>
   <m:mn>10</m:mn>
   <m:mrow>
-  <m:mo>−</m:mo><m:mn>16</m:mn></m:mrow>
+  <m:mo>&#x2212;</m:mo><m:mn>16</m:mn></m:mrow>
   </m:msup>
   </m:mtd>
   </m:mtr>
