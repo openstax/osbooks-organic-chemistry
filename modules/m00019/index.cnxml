@@ -22,12 +22,12 @@
 <m:mi>μ</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1.60</m:mn><m:mo>×</m:mo><m:msup>
 <m:mn>10</m:mn>
 <m:mrow>
-<m:mo>−</m:mo><m:mn>19</m:mn></m:mrow>
+<m:mtext>−</m:mtext><m:mn>19</m:mn></m:mrow>
 </m:msup>
-<m:mtext>C)(100</m:mtext><m:mo>×</m:mo><m:msup>
+<m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>100</m:mtext><m:mo>×</m:mo><m:msup>
 <m:mn>10</m:mn>
 <m:mrow>
-<m:mo>−</m:mo><m:mn>12</m:mn></m:mrow>
+<m:mtext>−</m:mtext><m:mn>12</m:mn></m:mrow>
 </m:msup>
 <m:mtext>m</m:mtext><m:mo stretchy="false">)</m:mo><m:mfenced>
 <m:mrow>
@@ -39,15 +39,15 @@
 <m:mrow>
 <m:mn>10</m:mn></m:mrow>
 <m:mrow>
-<m:mo>−</m:mo><m:mn>30</m:mn></m:mrow>
+<m:mtext>−</m:mtext><m:mn>30</m:mn></m:mrow>
 </m:msup>
 <m:mtext>C</m:mtext><m:mo>⋅</m:mo><m:mtext>m</m:mtext></m:mrow>
 </m:mfrac>
 </m:mrow>
-</m:mfenced><m:mo>=</m:mo><m:mn>4.80</m:mn><m:mtext> </m:mtext><m:mtext> </m:mtext><m:mtext>D</m:mtext>
+</m:mfenced><m:mo>=</m:mo><m:mn>4.80</m:mn><m:mtext>&#160;</m:mtext><m:mtext>&#160;</m:mtext><m:mtext>D</m:mtext>
 </m:mtd>
 </m:mtr>
-</m:mtable> 
+</m:mtable>
 </m:math>
 </equation>
 <figure class="unnumbered" id="fig-00001">
@@ -59,22 +59,22 @@
 <para id="para-00005">Dipole moments for some common substances are given in <link target-id="fig-00001"/>. Of the compounds shown in the table, sodium chloride has the largest dipole moment (9.00 D) because it is ionic. Even small molecules like water (<m:math><m:mi>µ</m:mi></m:math> = 1.85 D), methanol (CH<sub>3</sub>OH; <m:math><m:mi>µ</m:mi></m:math> = 1.70 D), and ammonia (<m:math><m:mi>µ</m:mi></m:math> = 1.47 D), have substantial dipole moments, however, both because they contain strongly electronegative atoms (oxygen and nitrogen) and because all three molecules have lone-pair electrons. The lone-pair electrons on oxygen and nitrogen stick out into space away from the positively charged nuclei, giving rise to a considerable charge separation and making a large contribution to the dipole moment.</para>
 <figure class="unnumbered" id="fig-00002">
 <media alt="An illustration shows three images. The first image titled “Water: mu value shown as 1.85 D) shows two pink lobes with a pair of electrons on each. The molecular structure of water shows an oxygen atom line bonded with two hydrogen atoms. A crossed arrow is shown facing up. The second image titled “Methanol : μ value 1.70 D) shows two pink lobes with a pair of electrons on each. The molecular structure shows a carbon atom wedge bonded dash bonded and line bonded with three hydrogen atoms. It also has a line bond with an oxygen atom which in turn is further. A crossed-arrow is shown diagonally facing up. The kekulé line bond structure of methanol shows a carbon atom line bonded dash bonded and wedge bonded to three hydrogen atoms. The carbon atom is also single bonded to an oxygen atom which in turn is bonded to a hydrogen atom. The third image titled “Ammonia μ value 1.47 D” shows a blue lobe with a pair of electrons. The kekulé line bond structure shows a nitrogen atom line bonded dash bonded and wedge bonded to three hydrogen atoms. A crossed-arrow is shown facing up.">
-<image mime-type="image/jpeg" src="../../media/Figure 02_02_OChem-02-02-002_80485-02-u003_Dipole_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/OChem_02_02_002.jpg"/>
 </media>
 </figure>
 <para id="para-00006">In contrast with water, methanol, and ammonia, molecules such as carbon dioxide, methane, ethane, and benzene have zero dipole moments. Because of the symmetrical structures of these molecules, the individual bond polarities and lone-pair contributions exactly cancel.</para>
 <figure class="unnumbered" id="fig-00003">
 <media alt="An illustration shows 4 images. The first image shows the kekulé line bond structure of carbon dioxide with a carbon atom double bonded to two oxygen atoms on its sides. The second image shows the kekulé line bond structure of methane with a central carbon atom having a dash bonded and wedge bonded hydrogen atoms and also line bonded with 2 hydrogen atoms. The third image shows the kekulé line bond structure of ethane with 2 carbon atoms with a single bond between them and a line bonded dash bonded and wedge bonded hydrogen atoms for each. The fourth image shows the kekulé line bond structure of benzene with hexagonal carbon ring with each of these carbon atoms line bonded to a hydrogen atom.">
-<image mime-type="image/jpeg" src="../../media/Figure 02_02_OChem-02-02-003_80485-02-u004_ZeroDipole_img.jpg"/>
+<image mime-type="image/jpeg" src="../../media/OChem_02_02_003.jpg"/>
 </media>
 </figure>
 <example id="exam-00001">
 <title>Predicting the Direction of a Dipole Moment</title>
 <para id="para-00007">Make a three-dimensional drawing of methylamine, CH<sub>3</sub>NH<sub>2</sub>, a substance responsible for the odor of rotting fish, and show the direction of its dipole moment (<m:math><m:mi>µ</m:mi></m:math> = 1.31).</para>
 <para id="para-00008"><title><span class="red-text">Strategy</span></title>Look for any lone-pair electrons, and identify any atom with an electronegativity substantially different from that of carbon. (Usually, this means O, N, F, Cl, or Br.) Electron density will be displaced in the general direction of the electronegative atoms and the lone pairs.</para>
-<para id="para-00009"><title><span class="cyan-text">Solution</span></title>Methylamine contains an electronegative nitrogen atom with a lone pair of electrons. The dipole moment thus points generally from  –CH<sub>3</sub> toward the lone pair.</para>
+<para id="para-00009"><title><span class="cyan-text">Solution</span></title>Methylamine contains an electronegative nitrogen atom with a lone pair of electrons. The dipole moment thus points generally from –CH<sub>3</sub> toward the lone pair.</para>
 <figure class="unnumbered" id="fig-00004">
-<media alt="An illustration of methylamine (μ = 1.31) shows a blue lobe with a pair of electrons. The kekulé line bond structure shows a carbon atom having a line bonded, dash bonded, and wedge bonded each to a hydrogen atom. The carbon shares a single bond with a nitrogen atom which is dash bonded and wedge bonded each to a hydrogen atom."><image mime-type="image/jpeg" src="../../media/Figure 02_02_OChem-02-02-004_80485-02-u005_WE-Methyl_img.jpg"/></media>
+<media alt="An illustration of methylamine (μ = 1.31) shows a blue lobe with a pair of electrons. The kekulé line bond structure shows a carbon atom having a line bonded, dash bonded, and wedge bonded each to a hydrogen atom. The carbon shares a single bond with a nitrogen atom which is dash bonded and wedge bonded each to a hydrogen atom."><image mime-type="image/jpeg" src="../../media/OChem_02_02_004.jpg"/></media>
 </figure>
 </example>
   <section class="section-exercises" id="sect-00001">
