@@ -73,9 +73,9 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   <m:mtext>O</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext>
   <m:mn>2</m:mn>
   </m:msub>
-  <m:mtext>O</m:mtext><m:mo>&#x21C4;</m:mo><m:msup>
+  <m:mtext>O</m:mtext><m:mo>⇄</m:mo><m:msup>
   <m:mtext>OH</m:mtext>
-  <m:mtext>&#x2212;</m:mtext>
+  <m:mtext>−</m:mtext>
   </m:msup>
   <m:mo>+</m:mo>
   <m:msub>
@@ -102,7 +102,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   </m:msup>
   <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup>
   <m:mtext>A</m:mtext>
-  <m:mtext>&#x2212;</m:mtext>
+  <m:mtext>−</m:mtext>
   </m:msup>
   <m:mo stretchy="false">]</m:mo></m:mrow>
   <m:mrow>
@@ -121,7 +121,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup>
   <m:mrow>
   <m:mtext>OH</m:mtext></m:mrow>
-  <m:mtext>&#x2212;</m:mtext>
+  <m:mtext>−</m:mtext>
   </m:msup>
   <m:mo stretchy="false">]</m:mo></m:mrow>
   <m:mrow>
@@ -133,17 +133,17 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   </m:mfrac>
   <m:mo>=</m:mo><m:mfrac>
   <m:mrow>
-  <m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
+  <m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
   <m:mrow>
   <m:mn>10</m:mn></m:mrow>
   <m:mrow>
-  <m:mtext>&#x2212;</m:mtext><m:mn>7</m:mn></m:mrow>
+  <m:mtext>−</m:mtext><m:mn>7</m:mn></m:mrow>
   </m:msup>
-  <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
+  <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:mn>1.0</m:mn><m:mo>×</m:mo><m:msup>
   <m:mrow>
   <m:mn>10</m:mn></m:mrow>
   <m:mrow>
-  <m:mtext>&#x2212;</m:mtext><m:mn>7</m:mn></m:mrow>
+  <m:mtext>−</m:mtext><m:mn>7</m:mn></m:mrow>
   </m:msup>
   <m:mo stretchy="false">]</m:mo></m:mrow>
   <m:mrow>
@@ -152,13 +152,21 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
   <m:mo>=</m:mo><m:mn>1.8</m:mn><m:mo>=</m:mo><m:msup>
   <m:mn>10</m:mn>
   <m:mrow>
-  <m:mtext>&#x2212;</m:mtext><m:mn>16</m:mn></m:mrow>
+  <m:mtext>−</m:mtext><m:mn>16</m:mn></m:mrow>
   </m:msup>
   </m:mtd>
   </m:mtr>
   </m:mtable>
   </m:math></equation>
-<!--<alt>A reversible chemical equation shows water as an acid when
+  <equation class="unnumbered" id="eq-00004"><label/><m:math display="block">
+<m:mrow>
+<m:mtext>p</m:mtext><m:msub>
+<m:mi>K</m:mi>
+<m:mtext>a</m:mtext>
+</m:msub>
+<m:mo>=</m:mo><m:mn>15.74</m:mn></m:mrow>
+</m:math></equation>
+  <!--<alt>A reversible chemical equation shows water as an acid when
 mixed with water as a solvent releasing a hydroxide negative molecule
 and a hydronium molecule. The second expression shows the chemical constant K subscript a as the product of hydronium represented as &#8220;H subscript 3 O superscript plus&#8221; and &#8220;A superscript minus&#8221; divided by &#8220;HA.&#8221; This equals to the product of a hydronium molecule and a hydroxide negative molecule divided by water molecule represented as &#8220;H subscript 2 O.&#8221; This equals to the product of 1 and 10 superscript minus 7 multiplied by the product of 1 and 10 superscript minus 7 divided by 55.4. This gives the result &#8220;1.8.&#8221; The final result shown is 10 superscript minus 16. The last expression shows the value of acid strength represented as &#8220;pK subscript a&#8221; to be &#8220;15.74.&#8221;</alt>-->
 <para id="para-00006">The numerator in this expression is the so-called ion-product constant for water, <emphasis effect="italics">K</emphasis><sub>w</sub> = [H<sub>3</sub>O<sup>+</sup>][OH<sup>-</sup>] = 1.00 × 10<sup>–14</sup>, and the denominator is the molar concentration of pure water, [H<sub>2</sub>O] = 55.4 M at 25 °C. The calculation is artificial in that the concentration of “solvent” water is ignored while the concentration of “acid” water is not, but it is nevertheless useful for making a comparison of water with other weak acids on a similar footing.</para>
