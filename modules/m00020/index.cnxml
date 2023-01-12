@@ -7,31 +7,31 @@
   </metadata>
   <content>
     <para id="para-00001">Closely related to the ideas of bond polarity and dipole moment is the assignment of <emphasis effect="italics">formal charges</emphasis> to specific atoms within a molecule, particularly atoms that have an apparently “abnormal” number of bonds. Look at dimethyl sulfoxide (CH<sub>3</sub>SOCH<sub>3</sub>), for instance, a solvent commonly used for preserving biological cell lines at low temperature. The sulfur atom in dimethyl sulfoxide has three bonds rather than the usual two and has a formal positive charge. The oxygen atom, by contrast, has one bond rather than the usual two and has a formal negative charge. Note that an electrostatic potential map of dimethyl sulfoxide shows the oxygen as negative (red) and the sulfur as relatively positive (blue), in accordance with the formal charges.</para>
-    <figure class="unnumbered" id="fig-00001">
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
       <media alt="An illustration shows a central positively charged sulfur atom with a pair of electrons on one side and single bonded with 2 carbon atoms. Both the carbon atoms are line bonded wedge bonded and dash bonded with 3 hydrogen atoms each. The sulfur atom is single bonded to a negatively charged oxygen atom that shows three pairs of electrons around it. The electrostatic potential map shows colors ranging from red to blue with predominantly green and all over. A ball-and-stick-model of Dimethyl sulfoxide is shown on the map. It shows 2 gray balls representing carbon atoms 6 ivory balls representing hydrogen atoms a yellow ball representing sulfur atom with a positive charge and a red ball representing negative charge on oxygen atom.">
       <image mime-type="image/jpeg" src="../../media/OChem_02_03_001.jpg"/>
       </media>
       </figure>
       <para id="para-00002">Formal charges, as the name suggests, are a formalism and don’t imply the presence of actual ionic charges in a molecule. Instead, they’re a device for electron “bookkeeping” and can be thought of in the following way: a typical covalent bond is formed when each atom donates one electron. Although the bonding electrons are shared by both atoms, each atom can still be considered to “own” one electron for bookkeeping purposes. In methane, for instance, the carbon atom owns one electron in each of the four C–H bonds. Because a neutral, isolated carbon atom has four valence electrons, and because the carbon atom in methane still owns four, the methane carbon atom is neutral and has no formal charge.</para>
-      <figure class="unnumbered" id="fig-00002">
+      <figure class="unnumbered scaled-down-30" id="fig-00002">
       <media alt="An illustration shows two figures. The first figure shows a carbon atom with an electron on all its four sides. The supporting text reads “An isolated carbon atom owns 4 valence electrons.” The second figure shows a carbon atom with a pair of electrons and a hydrogen atom on all its four sides. The supporting text reads “This carbon atom also owns 8 over 2 equals 4 valence electrons.”">
       <image mime-type="image/jpeg" src="../../media/OChem_02_03_002.jpg"/>
       </media>
       </figure>
       <para id="para-00003">The same is true for the nitrogen atom in ammonia, which has three covalent N–H bonds and two nonbonding electrons (a lone pair). Atomic nitrogen has five valence electrons, and the ammonia nitrogen also has five—one in each of three shared N–H bonds plus two in the lone pair. Thus, the nitrogen atom in ammonia has no formal charge.</para>
-      <figure class="unnumbered" id="fig-00003">
+      <figure class="unnumbered scaled-down-30" id="fig-00003">
       <media alt="An illustration shows two figures. The first figure shows a nitrogen atom with a pair of electrons on one side and a single electron on the other three sides. The supporting text reads “An isolated nitrogen atom owns 5 valence electrons.” The second figure shows a nitrogen atom with a pair of electrons on all the four sides and a hydrogen atom on three sides. The supporting text reads “This nitrogen atom also owns 6 over 2 plus 2 equals 5 valence electrons.”">
       <image mime-type="image/jpeg" src="../../media/OChem_02_03_003.jpg"/>
       </media>
       </figure>
-      <para id="para-00004">The situation is different in dimethyl sulfoxide. Atomic sulfur has six valence electrons, but the dimethyl sulfoxide sulfur owns only <emphasis effect="italics">five</emphasis>—one in each of the two S–C single bonds, one in the S–O single bond, and two in a lone pair. Thus, the sulfur atom has formally lost an electron and therefore has a positive charge. A similar calculation for the oxygen atom shows that it has formally gained an electron and has a negative charge. Atomic oxygen has six valence electrons, but the oxygen in dimethyl sulfoxide has seven—one in the O–S bond and two in each of three lone pairs.</para>
-      <figure class="unnumbered" id="fig-00004">
+      <para id="para-00004">The situation is different in dimethyl sulfoxide. Atomic sulfur has six valence electrons, but the dimethyl sulfoxide sulfur owns only <emphasis effect="italics">five</emphasis>—one in each of the two S–C single bonds, one in the S–O single bond, and two in a lone pair. Thus, the sulfur atom has formally lost an electron and therefore has a positive formal charge. A similar calculation for the oxygen atom shows that it has formally gained an electron and has a negative charge. Atomic oxygen has six valence electrons, but the oxygen in dimethyl sulfoxide has seven—one in the O–S bond and two in each of three lone pairs. Thus, the oxygen has formally gained an electron and has a negative formal charge.</para>
+      <figure class="unnumbered scaled-down" id="fig-00004">
       <media alt="An illustration shows a central positively charged sulfur atom with a pair of electrons on one side and single bonded with 2 carbon atoms. Both the carbon atoms are line bonded wedge bonded and dash bonded with 3 hydrogen atoms each. The sulfur atom is single bonded to a negatively charged oxygen atom that shows three pairs of electrons around it. The adjacent calculation for sulfur shows the number of sulfur valence electrons as 6; number of sulfur bonding electrons as 6 and sulfur nonbonding electrons as 2. The formal charge is shown as +1. The calculation for oxygen shows the number of oxygen valence electrons as 6; oxygen bonding electrons as 2 and oxygen nonbonding electrons as 6; The formal charge is shown as -1.">
       <image mime-type="image/jpeg" src="../../media/OChem_02_03_004.jpg"/>
       </media>
       </figure>
       <para id="para-00005">To express the calculations in a general way, the <term id="term-00001">formal charge</term> on an atom is equal to the number of valence electrons in a neutral, isolated atom minus the number of electrons owned by that bonded atom in a molecule. The number of electrons in the bonded atom, in turn, is equal to half the number of bonding electrons plus the nonbonding, lone-pair electrons.</para>
-      <figure class="unnumbered" id="fig-00005">
+      <figure class="unnumbered scaled-down" id="fig-00005">
       <media alt="Alt text placeholder">
       <image mime-type="image/jpeg" src="../../media/OChem_02_03_005.jpg"/>
       </media>
