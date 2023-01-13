@@ -8,52 +8,59 @@
   <content>
     <para id="para-00001">Different acids differ in their ability to donate H<sup>+</sup>. Stronger acids, such as HCl, react almost completely with water, whereas weaker acids, such as acetic acid (CH<sub>3</sub>CO<sub>2</sub>H), react only slightly. The exact strength of a given acid HA in water solution is described using the <term id="term-00001">acidity constant (<emphasis effect="italics">K</emphasis><sub>a</sub>)</term> for the acid-dissociation equilibrium. Recall from general chemistry that the concentration of solvent is ignored in the equilibrium expression and that brackets [ ] around a substance refer to the concentration of the enclosed species in moles per liter.</para>
 <equation class="unnumbered" id="eq-00001"><label/><m:math display='block'>
-  <m:mrow>
-    <m:mtext>HA</m:mtext><m:mo>+</m:mo><m:msub>
-     <m:mtext>H</m:mtext>
-     <m:mn>2</m:mn>
-    </m:msub>
-    <m:mtext>O</m:mtext><m:munder>
-     <m:mo>&#x21C4;</m:mo>
-     <m:mrow>
-      <m:msub>
-       <m:mi>K</m:mi>
-       <m:mtext>a</m:mtext>
-      </m:msub>
-      <m:mo>=</m:mo><m:mfrac>
-       <m:mrow>
-        <m:mo stretchy='false'>[</m:mo><m:msub>
-         <m:mtext>H</m:mtext>
-         <m:mn>3</m:mn>
-        </m:msub>
-        <m:msup>
-         <m:mtext>O</m:mtext>
-         <m:mo>+</m:mo>
-        </m:msup>
-        <m:mo stretchy='false'>]</m:mo><m:mo stretchy='false'>[</m:mo><m:msup>
-         <m:mtext>A</m:mtext>
-         <m:mo>&#x2212;</m:mo>
-        </m:msup>
-        <m:mo stretchy='false'>]</m:mo></m:mrow>
-       <m:mrow>
-        <m:mtext>[HA]</m:mtext></m:mrow>
-      </m:mfrac>
-      </m:mrow>
-    </m:munder>
-    <m:msup>
-     <m:mtext>A</m:mtext>
-     <m:mo>&#x2212;</m:mo>
-    </m:msup>
-    <m:mo>+</m:mo><m:msub>
-     <m:mtext>H</m:mtext>
-     <m:mn>3</m:mn>
-    </m:msub>
-    <m:msup>
-     <m:mtext>O</m:mtext>
-     <m:mo>+</m:mo>
-    </m:msup>
-    </m:mrow>
-  </m:math>
+  <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mtext>HA</m:mtext><m:mo>+</m:mo><m:msub>
+      <m:mtext>H</m:mtext>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mtext>O</m:mtext><m:munder>
+      <m:mo>&#x21C4;</m:mo>
+      <m:mrow></m:mrow>
+     </m:munder>
+     <m:msup>
+      <m:mtext>A</m:mtext>
+      <m:mo>&#x2212;</m:mo>
+     </m:msup>
+     <m:mo>+</m:mo><m:msub>
+      <m:mtext>H</m:mtext>
+      <m:mn>3</m:mn>
+     </m:msub>
+     <m:msup>
+      <m:mtext>O</m:mtext>
+      <m:mo>+</m:mo>
+     </m:msup>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>K</m:mi>
+      <m:mtext>a</m:mtext>
+     </m:msub>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mo stretchy='false'>[</m:mo><m:msub>
+        <m:mtext>H</m:mtext>
+        <m:mn>3</m:mn>
+       </m:msub>
+       <m:msup>
+        <m:mtext>O</m:mtext>
+        <m:mo>+</m:mo>
+       </m:msup>
+       <m:mo stretchy='false'>]</m:mo><m:mo stretchy='false'>[</m:mo><m:msup>
+        <m:mtext>A</m:mtext>
+        <m:mo>&#x2212;</m:mo>
+       </m:msup>
+       <m:mo stretchy='false'>]</m:mo></m:mrow>
+      <m:mrow>
+       <m:mtext>[HA]</m:mtext></m:mrow>
+     </m:mfrac>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable> 
+ </m:math>
   </equation>
 <!--<alt>A chemical equation shows the reaction on combining acid and
 water represented by &#8220;HA&#8221; and &#8220;H subscript 2 O&#8221; upon reversible reaction releases &#8220;A superscript
