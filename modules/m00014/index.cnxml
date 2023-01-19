@@ -69,6 +69,64 @@
         </tbody>
       </tgroup>
     </table>
+
+    <table id="OChem_01_03_001" summary="Dipole Moments of Some Compounds">
+      <title>Dipole Moments of Some Compounds</title>
+      <tgroup cols="5">
+        <thead>
+          <row>
+            <entry>Compound</entry>
+            <entry>Dipole moment (D)</entry>
+            <entry>Compound</entry>
+            <entry>Dipole moment (D)</entry> 
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>NaCl</entry>
+            <entry>9.00</entry>
+            <entry>NH<sub>3</sub></entry>
+            <entry>1.47</entry>
+          </row>
+          <row>
+            <entry>CH<sub>2</sub>O</entry>
+            <entry>2.33</entry>
+            <entry>CH<sub>3</sub>NH<sub>2</sub></entry>
+            <entry>1.31</entry>
+          </row>
+          <row>
+            <entry>CH<sub>3</sub>Cl</entry>
+            <entry>1.87</entry>
+            <entry>CO<sub>2</sub></entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>H<sub>2</sub>O</entry>
+            <entry>1.85</entry>
+            <entry>CH<sub>4</sub></entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>CH<sub>3</sub>OH</entry>
+            <entry>1.70</entry>
+            <entry>CH<sub>3</sub>CH<sub>3</sub></entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>CH<sub>3</sub>CO<sub>2</sub>H</entry>
+            <entry>1.70</entry>
+            <entry></entry>
+            <entry>0</entry>
+          </row>
+          <row>
+            <entry>CH<sub>3</sub>SH</entry>
+            <entry>1.52</entry>
+            <entry></entry>
+            <entry></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
     <example id="exam-00001">
       <title>Interpreting a Line-Bond Structure</title>
       <para id="para-00008"><term class="no-emphasis" id="term-00004">Carvone</term>, a substance responsible for the odor of spearmint, has the following structure. Tell how many hydrogens are bonded to each carbon, and give the molecular formula of carvone.</para>
