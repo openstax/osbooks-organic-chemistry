@@ -1,16 +1,16 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
-  <title>Polar Covalent Bonds and Dipole Moments</title>
-  <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Polar Covalent Bonds and Dipole Moments</md:title>
+ <title>Polar Covalent Bonds and Dipole Moments</title>
+ <metadata xmlns:md="http://cnx.rice.edu/mdml">
+   <md:title>Polar Covalent Bonds and Dipole Moments</md:title>
     <md:content-id>m00019</md:content-id>
     <md:uuid>09960c00-bd1d-4a6f-a6d3-7571f232a8e8</md:uuid>
-  </metadata>
-  <content>
+ </metadata>
+ <content>
     <para id="para-00001">Just as individual bonds are often polar, molecules as a whole are often polar as well. Molecular polarity results from the vector summation of all individual bond polarities and lone-pair contributions in the molecule. As a practical matter, strongly polar substances are often soluble in polar solvents like water, whereas less polar substances are insoluble in water.</para>
 <para id="para-00002">Net molecular polarity is measured by a quantity called the <emphasis effect="italics">dipole moment</emphasis> and can be thought of in the following way. Assume  that there is a center of mass of all positive charges (nuclei) in a molecule and a center of mass of all negative charges (electrons). If these two centers don’t coincide, then the molecule has a net polarity.</para>
 <para id="para-00003">The <term id="term-00001">dipole moment</term>, <emphasis effect="italics">μ</emphasis> (lowercase Greek letter mu), is defined as the magnitude of the charge <emphasis effect="italics">Q</emphasis> at either end of the molecular dipole times the distance <emphasis effect="italics">r</emphasis> between the charges, <emphasis effect="italics">μ</emphasis> = <emphasis effect="italics">Q</emphasis> × <emphasis effect="italics">r</emphasis>. Dipole moments are expressed in <emphasis effect="italics">debyes</emphasis> (D), where 1 D = 3.336 × 10<sup>–30</sup> coulomb meters (C · m) in SI units. For example, the unit charge on an electron is 1.60 × 10<sup>–19</sup> C. Thus, if one positive charge and one negative charge are separated by 100 pm (a bit less than the length of a typical covalent bond), the dipole moment is 1.60 × 10<sup>–29</sup> C · m, or 4.80 D.</para>
 <equation class="unnumbered" id="eq-00001"><label/>
-  <m:math display='block'>
+  <m:math display="block">
  <m:mtable columnalign='left'>
   <m:mtr>
    <m:mtd>
@@ -44,7 +44,9 @@
         <m:mtext>&#x00A0;C&#x00A0;</m:mtext><m:mo>&#x22C5;</m:mo><m:mtext>&#x00A0;m</m:mtext></m:mrow>
       </m:mfrac>
       </m:mrow>
-    </m:mfenced><m:mtext>&#x00A0;</m:mtext><m:mo>=</m:mo><m:mn>4.80</m:mn><m:mtext>&#x00A0;D</m:mtext>
+    </m:mfenced>
+    <m:mtext>&#x00A0;</m:mtext>
+    <m:mo>=</m:mo><m:mn>4.80</m:mn><m:mtext>&#x00A0;D</m:mtext>
    </m:mtd>
   </m:mtr>
  </m:mtable>
