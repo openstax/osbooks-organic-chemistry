@@ -209,7 +209,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
         <entry></entry>
         <entry>Acid</entry>
         <entry>Name</entry>
-        <entry>pKa</entry>
+        <entry>p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
         <entry>Conjugate base</entry>
         <entry>Name</entry>
         <entry></entry>
@@ -218,7 +218,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
     <tbody>
       <row>
         <entry morerows="7"><media alt="MISSING"><image mime-type="image/jpg" src="../../media/OChem_02_08_001.jpg"/></media></entry>
-        <entry>CH<sub>3</sub>CH<sub>2</sub>O<span class="red-text">H</span></entry>
+        <entry>CH<sub>3</sub>CH<sub>2</sub>O<span class="magenta-text">H</span></entry>
         <entry>Ethanol</entry>
         <entry>16.00</entry>
         <entry>CH<sub>3</sub>CH<sub>2</sub>O<sup>–</sup></entry>
@@ -227,7 +227,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
       </row>
       <row>
         
-        <entry><span class="red-text">H<sub>2</sub></span>O</entry>
+        <entry><span class="magenta-text">H<sub>2</sub></span>O</entry>
         <entry>Water</entry>
         <entry>15.74</entry>
         <entry>HO<sup>–</sup></entry>
@@ -236,7 +236,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
       </row>
       <row>
         
-        <entry><span class="red-text">H</span>CN</entry>
+        <entry><span class="magenta-text">H</span>CN</entry>
         <entry>Hydrocyanic acid</entry>
         <entry>9.31</entry>
         <entry>CN<sup>–</sup></entry>
@@ -245,7 +245,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
       </row>
       <row>
         
-        <entry><span class="red-text">H<sub>2</sub></span>PO<sub>4</sub><sup>–</sup></entry>
+        <entry><span class="magenta-text">H<sub>2</sub></span>PO<sub>4</sub><sup>–</sup></entry>
         <entry>Dihydrogen phosphate ion</entry>
         <entry>7.21</entry>
         <entry>HPO<sub>4</sub><sup>2–</sup></entry>
@@ -254,7 +254,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
       </row>
       <row>
         
-        <entry>CH<sub>3</sub>CO<sub>2</sub><span class="red-text">H</span></entry>
+        <entry>CH<sub>3</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
         <entry>Acetic acid</entry>
         <entry>4.76</entry>
         <entry>CH<sub>3</sub>CO<sub>2</sub><sup>–</sup></entry>
@@ -263,7 +263,7 @@ and a hydronium molecule. The second expression shows the chemical constant K su
       </row>
       <row>
         
-        <entry><span class="red-text">H<sub>3</sub></span>PO<sub>4</sub></entry>
+        <entry><span class="magenta-text">H<sub>3</sub></span>PO<sub>4</sub></entry>
         <entry>Phosphoric acid</entry>
         <entry>2.16</entry>
         <entry>H<sub>2</sub>PO<sub>4</sub><sup>–</sup></entry>
@@ -272,18 +272,18 @@ and a hydronium molecule. The second expression shows the chemical constant K su
       </row>
       <row>
         
-        <entry><span class="red-text">H</span>NO<sub>3</sub></entry>
+        <entry><span class="magenta-text">H</span>NO<sub>3</sub></entry>
         <entry>Nitric acid</entry>
-        <entry>-1.3</entry>
+        <entry>–1.3</entry>
         <entry>NO<sub>3</sub><sup>–</sup></entry>
         <entry>Nitrate ion</entry>
         
       </row>
       <row>
         
-        <entry><span class="red-text">H</span>Cl</entry>
+        <entry><span class="magenta-text">H</span>Cl</entry>
         <entry>Hydrochloric acid</entry>
-        <entry>-7.0</entry>
+        <entry>–7.0</entry>
         <entry>Cl<sup>–</sup></entry>
         <entry>Chloride ion</entry>
         
