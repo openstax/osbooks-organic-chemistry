@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-   <book slug="organic-chemistry" style="organic-chemistry" href="../collections/organic-chemistry.collection.xml" />
+   <book slug="organic-chemistry" collection-id="col12345" style="organic-chemistry" href="../collections/organic-chemistry.collection.xml" />
 </container>
