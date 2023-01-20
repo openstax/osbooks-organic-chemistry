@@ -49,7 +49,7 @@
 </problem>
 </exercise>
 </section>
-<note class="chemistry-matters" id="note-00001">
+<section class="chemistry-matters" id="note-00001">
   <title>Alkaloids: From Cocaine to Dental Anesthetics</title>
   <para id="para-00008">Just as ammonia (NH<sub>3</sub>) is a weak base, there are a large number of nitrogen-containing organic compounds called <emphasis effect="italics">amines</emphasis> that are also weak bases. In the early days of organic chemistry, basic amines derived from natural sources were known as vegetable alkali, but they are now called <term id="term-00008">alkaloids</term>. More than 20,000 alkaloids are known. Their study provided much of the impetus for the growth of organic chemistry in the nineteenth century and remains today an active and fascinating area of research.</para>
   <figure id="fig-00005" class="scaled-down-30">
@@ -76,7 +76,7 @@
   </media>
   </figure>
   <para id="para-00012">An estimate from the U.S. National Academy of Sciences is that less than 1% of all living species have been characterized. Thus, alkaloid chemistry remains an active area of research, and innumerable substances with potentially useful properties have yet to be discovered. Undoubtedly even the caine anesthetics will become obsolete at some point, perhaps supplanted by newly discovered alkaloids.</para>
-  </note>
+</section>
   <section class="key-terms" id="sect-00002">
   <list id="list-00001">
   <item><link document="m00025" target-id="term-00001">acidity constant (<emphasis effect="italics">K</emphasis><sub>a</sub>)</link></item>
@@ -350,6 +350,6 @@
     </problem>
   </exercise>
     </section>
-    
+
   </content>
 </document>
