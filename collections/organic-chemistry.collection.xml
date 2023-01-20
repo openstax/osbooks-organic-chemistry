@@ -5,6 +5,7 @@
     <md:language>en</md:language>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+    <md:content-id>col12345</md:content-id>
   </col:metadata>
   <col:content>
     <col:module document="m00001"/>
@@ -45,5 +46,6 @@
       </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
+    <col:module document="m00030"/>
   </col:content>
 </col:collection>
