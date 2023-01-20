@@ -45,25 +45,25 @@
         <table id="table-00001" summary="">
           <title>A Summary of Common Formal Charges</title>
           <tgroup cols="11">
-            <colspec colnum="col1" colname="col1"/>
-            <colspec colnum="col2" colname="col2"/>
-            <colspec colnum="col3" colname="col3"/>
-            <colspec colnum="col4" colname="col4"/>
-            <colspec colnum="col5" colname="col5"/>
-            <colspec colnum="col6" colname="col6"/>
-            <colspec colnum="col7" colname="col7"/>
-            <colspec colnum="col8" colname="col8"/>
-            <colspec colnum="col9" colname="col9"/>
-            <colspec colnum="col10" colname="col10"/>
-            <colspec colnum="col11" colname="col11"/>
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+            <colspec colnum="4" colname="col4"/>
+            <colspec colnum="5" colname="col5"/>
+            <colspec colnum="6" colname="col6"/>
+            <colspec colnum="7" colname="col7"/>
+            <colspec colnum="8" colname="col8"/>
+            <colspec colnum="9" colname="col9"/>
+            <colspec colnum="10" colname="col10"/>
+            <colspec colnum="11" colname="col11"/>
             <thead>
               <row>
                 <entry>Atom</entry>
                 <entry namest="col2" nameend="col4">C</entry>
                 <entry namest="col5" nameend="col6"><span class="cyan-text">N</span></entry>
-                <entry namest="col7" nameend="col8"><span class="red-text">O</span></entry>
+                <entry namest="col7" nameend="col8"><span class="magenta-text">O</span></entry>
                 <entry namest="col9" nameend="col10"><span class="green-text">S</span></entry>
-                <entry><span class="magenta-text">P</span></entry>
+                <entry><span class="gray-text">P</span></entry>
               </row>
             </thead>
             <tbody>
@@ -122,15 +122,15 @@
               <row>
                 <entry>Formal charge</entry>
                 <entry><span class="green-text">0</span></entry>
-                <entry><span class="red-text">+1</span></entry>
+                <entry><span class="magenta-text">+1</span></entry>
                 <entry><span class="cyan-text">–1</span></entry>
-                <entry><span class="red-text">+1</span></entry>
+                <entry><span class="magenta-text">+1</span></entry>
                 <entry><span class="cyan-text">–1</span></entry>
-                <entry><span class="red-text">+1</span></entry>
+                <entry><span class="magenta-text">+1</span></entry>
                 <entry><span class="cyan-text">–1</span></entry>
-                <entry><span class="red-text">+1</span></entry>
+                <entry><span class="magenta-text">+1</span></entry>
                 <entry><span class="cyan-text">–1</span></entry>
-                <entry><span class="red-text">+1</span></entry>
+                <entry><span class="magenta-text">+1</span></entry>
               </row>
             </tbody>
           </tgroup>
