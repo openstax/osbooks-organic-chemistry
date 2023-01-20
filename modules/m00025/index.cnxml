@@ -65,7 +65,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
 <para id="para-00002">Stronger acids have their equilibria toward the right and thus have larger acidity constants, whereas weaker acids have their equilibria toward the left and have smaller acidity constants. The range of <emphasis effect="italics">K</emphasis><sub>a</sub> values for different acids is enormous, running from about 10<sup>15</sup> for the strongest acids to about 10<sup>–60</sup> for the weakest. Common inorganic acids such as H<sub>2</sub>SO<sub>4</sub>, HNO<sub>3</sub>, and HCl have <emphasis effect="italics">K</emphasis><sub>a</sub>’s in the range of 10<sup>2</sup> to 10<sup>9</sup>, while organic acids generally have <emphasis effect="italics">K</emphasis><sub>a</sub>’s in the range of 10<sup>–5</sup> to 10<sup>–15</sup>. As you gain experience, you’ll develop a rough feeling for which acids are “strong” and which are “weak” (always remembering that the terms are relative, not absolute).</para>
 <para id="para-00003">Acid strengths are normally expressed using p<emphasis effect="italics">K</emphasis><sub>a</sub> values rather than <emphasis effect="italics">K</emphasis><sub>a</sub> values, where the <term id="term-00002">p<emphasis effect="italics">K</emphasis><sub>a</sub></term> is the negative common logarithm of the <emphasis effect="italics">K</emphasis><sub>a</sub>:</para>
 <equation class="unnumbered" id="eq-00002"><label/><m:math display="block"><m:mrow><m:mtext>p</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mtext>log</m:mtext><m:mtext> </m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub></m:mrow></m:math></equation>
-<para id="para-00004">A <emphasis effect="italics">stronger</emphasis> acid (larger <emphasis effect="italics">K</emphasis><sub>a</sub>) has a <emphasis effect="italics">smaller</emphasis> p<emphasis effect="italics">K</emphasis><sub>a</sub>, and a <emphasis effect="italics">weaker</emphasis> acid (smaller <emphasis effect="italics">K</emphasis><sub>a</sub>) has a <emphasis effect="italics">larger</emphasis> p<emphasis effect="italics">K</emphasis><sub>a</sub>. <link target-id="table-00001"/> lists the p<emphasis effect="italics">K</emphasis><sub>a</sub>’s of some common acids in order of their strength, and a more comprehensive table is given in <link>Appendix B</link>.</para>
+<para id="para-00004">A <emphasis effect="italics">stronger</emphasis> acid (larger <emphasis effect="italics">K</emphasis><sub>a</sub>) has a <emphasis effect="italics">smaller</emphasis> p<emphasis effect="italics">K</emphasis><sub>a</sub>, and a <emphasis effect="italics">weaker</emphasis> acid (smaller <emphasis effect="italics">K</emphasis><sub>a</sub>) has a <emphasis effect="italics">larger</emphasis> p<emphasis effect="italics">K</emphasis><sub>a</sub>. <link target-id="table-00001"/> lists the p<emphasis effect="italics">K</emphasis><sub>a</sub>’s of some common acids in order of their strength, and a more comprehensive table is given in <link document="m00030"/>.</para>
 <para id="para-00005">Notice that the p<emphasis effect="italics">K</emphasis><sub>a</sub> value shown in <link target-id="table-00001"/> for water is 15.74, which results from the following calculation. Because water is both the acid and the solvent, the equilibrium expression is</para>
 <equation class="unnumbered" id="eq-00003"><label/>
   <m:math display='block'>
@@ -103,7 +103,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
        <m:msup>
         <m:mtext>O</m:mtext>
         <m:mo>+</m:mo>
-       </m:msup>       
+       </m:msup>
       </m:mtd>
      </m:mtr>
      <m:mtr>
@@ -175,7 +175,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
         <m:mn>10</m:mn>
         <m:mrow>
          <m:mo>&#x2212;</m:mo><m:mn>16</m:mn></m:mrow>
-       </m:msup>       
+       </m:msup>
       </m:mtd>
      </m:mtr>
      <m:mtr>
@@ -226,68 +226,68 @@ and a hydronium molecule. The second expression shows the chemical constant K su
         <entry morerows="7"><media alt="MISSING"><image mime-type="image/jpg" src="../../media/OChem_02_08_002.jpg"/></media></entry>
       </row>
       <row>
-        
+
         <entry><span class="magenta-text">H<sub>2</sub></span>O</entry>
         <entry>Water</entry>
         <entry>15.74</entry>
         <entry>HO<sup>–</sup></entry>
         <entry>Hydroxide ion</entry>
-        
+
       </row>
       <row>
-        
+
         <entry><span class="magenta-text">H</span>CN</entry>
         <entry>Hydrocyanic acid</entry>
         <entry>9.31</entry>
         <entry>CN<sup>–</sup></entry>
         <entry>Cyanide ion</entry>
-        
+
       </row>
       <row>
-        
+
         <entry><span class="magenta-text">H<sub>2</sub></span>PO<sub>4</sub><sup>–</sup></entry>
         <entry>Dihydrogen phosphate ion</entry>
         <entry>7.21</entry>
         <entry>HPO<sub>4</sub><sup>2–</sup></entry>
         <entry>Hydrogen phosphate ion</entry>
-        
+
       </row>
       <row>
-        
+
         <entry>CH<sub>3</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
         <entry>Acetic acid</entry>
         <entry>4.76</entry>
         <entry>CH<sub>3</sub>CO<sub>2</sub><sup>–</sup></entry>
         <entry>Acetate ion</entry>
-        
+
       </row>
       <row>
-        
+
         <entry><span class="magenta-text">H<sub>3</sub></span>PO<sub>4</sub></entry>
         <entry>Phosphoric acid</entry>
         <entry>2.16</entry>
         <entry>H<sub>2</sub>PO<sub>4</sub><sup>–</sup></entry>
         <entry>Dihydrogen phosphate ion</entry>
-        
+
       </row>
       <row>
-        
+
         <entry><span class="magenta-text">H</span>NO<sub>3</sub></entry>
         <entry>Nitric acid</entry>
         <entry>–1.3</entry>
         <entry>NO<sub>3</sub><sup>–</sup></entry>
         <entry>Nitrate ion</entry>
-        
+
       </row>
       <row>
-        
+
         <entry><span class="magenta-text">H</span>Cl</entry>
         <entry>Hydrochloric acid</entry>
         <entry>–7.0</entry>
         <entry>Cl<sup>–</sup></entry>
         <entry>Chloride ion</entry>
-        
-      </row>           
+
+      </row>
     </tbody>
   </tgroup>
 </table>
