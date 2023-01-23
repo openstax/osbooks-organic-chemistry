@@ -17,12 +17,7 @@
       </m:msub>
       <m:mtext>O</m:mtext>
       <m:munder>
-        <m:mover>
-            <m:mo>&#x2190;</m:mo>
-          <m:mpadded width="0.05em">  
-            <m:mo>&#x2192;</m:mo>
-          </m:mpadded>
-        </m:mover>
+        <m:mo stretchy="true" minsize="1em">&#x21C4;</m:mo>
        <m:mrow>
         <m:msub>
          <m:mi>K</m:mi>
@@ -78,7 +73,7 @@
         <m:munder>
           <m:mover>
             <m:mo>&#x2190;</m:mo>
-          <m:mpadded width=".75em">  
+          <m:mpadded height="-.75em">  
             <m:mo>&#x2192;</m:mo>
           </m:mpadded>
         </m:mover>
@@ -137,10 +132,10 @@
           <m:munder>
             <m:mover>
               <m:mo>&#x2190;</m:mo>
-            <m:mpadded width="1em">  
-              <m:mo>&#x2192;</m:mo>
-            </m:mpadded>
-          </m:mover>
+              <m:mpadded height="-.05em">
+                <m:mo>&#x2192;</m:mo>
+              </m:mpadded>
+            </m:mover>
            <m:mrow>
             <m:msub>
              <m:mi>K</m:mi>
