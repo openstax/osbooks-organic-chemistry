@@ -18,7 +18,7 @@
   <m:munder>
     <m:mover>
       <m:mo>&#x2190;</m:mo>
-      <m:mpadded width="1em">
+      <m:mpadded height="-.1em" width=".05em">
         <m:mo>&#x2192;</m:mo>
       </m:mpadded>
     </m:mover>
@@ -76,8 +76,8 @@
     <m:mtext>O</m:mtext>
     <m:munder>
       <m:mover>
-        <m:mo>&#x2190;</m:mo>
-        <m:mpadded width="2em">
+        <m:mpadded height="-.1em" width=".05em">  
+          <m:mo>&#x2190;</m:mo>
           <m:mo>&#x2192;</m:mo>
         </m:mpadded>
       </m:mover>
@@ -134,9 +134,12 @@
       </m:msub>
       <m:mtext>O</m:mtext>
       <m:munder>
-          <m:mpadded width="1em">
-            <m:mo>&#x21C4;</m:mo>
+        <m:mover>
+            <m:mo>&#x2190;</m:mo>
+          <m:mpadded height="-.1em" width="1em">  
+            <m:mo>&#x2192;</m:mo>
           </m:mpadded>
+        </m:mover>
        <m:mrow>
         <m:msub>
          <m:mi>K</m:mi>
@@ -190,9 +193,12 @@
         </m:msub>
         <m:mtext>O</m:mtext>
         <m:munder>
-            <m:mpadded width="2em">
-              <m:mo>&#x21C4;</m:mo>
-            </m:mpadded>
+          <m:mover>
+            <m:mo>&#x2190;</m:mo>
+          <m:mpadded height="-.1em" width=".05em" depth=".05em">  
+            <m:mo>&#x2192;</m:mo>
+          </m:mpadded>
+        </m:mover>
          <m:mrow>
           <m:msub>
            <m:mi>K</m:mi>
@@ -253,9 +259,6 @@
             <m:mo>&#x2192;</m:mo>
           </m:mpadded>
         </m:mover>
-        <m:mpadded height="-.1em">
-          <m:mo>&#x21C4;</m:mo>
-        </m:mpadded> 
         <m:mrow>
         <m:msub>
          <m:mi>K</m:mi>
