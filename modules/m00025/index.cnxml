@@ -18,7 +18,7 @@
   <m:munder>
     <m:mover>
       <m:mo>&#x2190;</m:mo>
-      <m:mpadded height="-.1em">
+      <m:mpadded width="3em">
         <m:mo>&#x2192;</m:mo>
       </m:mpadded>
     </m:mover>
@@ -77,7 +77,7 @@
     <m:munder>
       <m:mover>
         <m:mo>&#x2190;</m:mo>
-        <m:mpadded width="7em">
+        <m:mpadded width="4em">
           <m:mo>&#x2192;</m:mo>
         </m:mpadded>
       </m:mover>
@@ -135,6 +135,12 @@
       </m:msub>
       <m:mtext>O</m:mtext>
       <m:munder>
+        <m:mover>
+          <m:mo>&#x2190;</m:mo>
+          <m:mpadded height="-.1em">
+            <m:mo>&#x2192;</m:mo>
+          </m:mpadded>
+        </m:mover>
         <m:mpadded height="-.1em">
           <m:mo>&#x21C4;</m:mo>
         </m:mpadded> 
