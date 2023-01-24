@@ -19,7 +19,7 @@
       <m:munder>
         <m:mover>
         <m:mpadded width="1em">  
-          <m:mo>&#x2190;</m:mo>
+          <m:mo>&#8652;</m:mo>
         </m:mpadded>
         <m:mpadded width="1em">  
           <m:mo>&#x2192;</m:mo>
@@ -79,10 +79,7 @@
         <m:mtext>O</m:mtext>
         <m:munder>
           <m:mover>
-          <m:mpadded width="1em">   
-            <m:mo>&#x2190;</m:mo> 
-            <m:mo>&#x2192;</m:mo>
-          </m:mpadded>
+            <m:mo stretchy="true">&#8652;</m:mo> 
         </m:mover>
          <m:mrow>
           <m:msub>
