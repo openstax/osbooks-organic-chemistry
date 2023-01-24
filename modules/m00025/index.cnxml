@@ -17,9 +17,7 @@
       </m:msub>
       <m:mtext>O</m:mtext>
       <m:munder>
-        <m:mpadded width=".05em">  
-          <m:mo>&#8652;</m:mo>
-        </m:mpadded>
+        <m:mo stretchy="true" maxsize="1em">&#8652;</m:mo>
        <m:mrow>
         <m:msub>
          <m:mi>K</m:mi>
@@ -73,7 +71,7 @@
         </m:msub>
         <m:mtext>O</m:mtext>
         <m:munder>
-            <m:mo stretchy="true">&#8652;</m:mo> 
+          <m:mo stretchy="true" maxsize=".75em">&#8652;</m:mo>
          <m:mrow>
           <m:msub>
            <m:mi>K</m:mi>
