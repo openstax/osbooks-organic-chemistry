@@ -17,7 +17,7 @@
       </m:msub>
       <m:mtext>O</m:mtext>
       <m:munder>
-        <m:mo stretchy="true" maxsize="1em">&#8652;</m:mo>
+        <m:mo stretchy="true" minsize="3em">&#8652;</m:mo>
        <m:mrow>
         <m:msub>
          <m:mi>K</m:mi>
@@ -229,7 +229,7 @@
       </m:mrow>
     </m:math>
       </equation>
-    
+
 
 <equation class="unnumbered" id="eq-00001"><label/>
   <m:math display="block">
@@ -328,7 +328,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
        <m:msup>
         <m:mtext>O</m:mtext>
         <m:mo>+</m:mo>
-       </m:msup>       
+       </m:msup>
       </m:mtd>
      </m:mtr>
      <m:mtr>
@@ -400,7 +400,7 @@ minus&#8221; and a hydronium ion represented by &#8220;H subscript 3 O superscri
         <m:mn>10</m:mn>
         <m:mrow>
          <m:mo>&#x2212;</m:mo><m:mn>16</m:mn></m:mrow>
-       </m:msup>       
+       </m:msup>
       </m:mtd>
      </m:mtr>
      <m:mtr>
