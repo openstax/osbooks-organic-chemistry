@@ -1,5 +1,6 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
+    <md:content-id>col12345</md:content-id>
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
@@ -45,5 +46,6 @@
       </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
+    <col:module document="m00030"/>
   </col:content>
 </col:collection>
