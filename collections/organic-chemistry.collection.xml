@@ -5,7 +5,6 @@
     <md:language>en</md:language>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-    <md:content-id>col12345</md:content-id>
   </col:metadata>
   <col:content>
     <col:module document="m00001"/>
@@ -43,6 +42,12 @@
         <col:module document="m00027"/>
         <col:module document="m00028"/>
         <col:module document="m00029"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Organic Compounds: Alkanes and Their Stereochemistry</md:title>
+      <col:content>
+        <col:module document="m00031"/>
       </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
