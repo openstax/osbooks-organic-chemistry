@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Naming Alkanes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Naming Alkanes</md:title>
+    <md:content-id>m00035</md:content-id>
+    <md:uuid>789fbc76-9363-4c5e-90b9-f42df51f3951</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">In earlier times, when relatively few pure organic chemicals were known, new compounds were named at the whim of their discoverer. Thus, urea (CH<sub>4</sub>N<sub>2</sub>O) is a crystalline substance isolated from urine; morphine (C<sub>17</sub>H<sub>19</sub>NO<sub>3</sub>) is an analgesic (painkiller) named after Morpheus, the Greek god of dreams; and acetic acid, the primary organic constituent of vinegar, is named from the Latin word for vinegar, <emphasis effect="italics">acetum</emphasis>.</para>
+    <para id="para-00002">As the science of organic chemistry slowly grew in the 19th century, so too did the number of known compounds and the need for a systematic method of naming them. The system of naming (nomenclature) we’ll use in this book is that devised by the International Union of Pure and Applied Chemistry (IUPAC, usually spoken as <emphasis effect="bold">eye</emphasis>-you-pac).</para>
+    <para id="para-00003">A chemical name typically has four parts in the IUPAC system: parent, prefix, locant, and suffix. The <emphasis effect="bold">parent</emphasis> name identifies the main part of the molecule and tells how many carbon atoms are in that part. <emphasis effect="bold">Prefixes</emphasis> identify the various <term id="term-00001"><emphasis effect="bold">substituent</emphasis></term> groups attached to the parent. <emphasis effect="bold">Locants</emphasis> give the positions of the attached substituents. And the <emphasis effect="bold">suffix</emphasis> identifies the primary functional group attached to the parent.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows parts of a chemical name according to the IUPAC system of nomenclature. The chemical name comprises of four parts: “Locant” representing “Where are the substituents and functional groups?”; “Prefix” representing “What are the substituents?”; “Parent” representing “How many carbons?” and “Suffix” representing “What is the primary functional group?”">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">As we cover new functional groups in later chapters, the applicable IUPAC rules of nomenclature will be given. In addition, <link>Appendix A</link> at the back of this book gives an overall view of organic nomenclature and shows how compounds that contain more than one functional group are named. (If preferred, you can study that appendix now.) For the present, let’s see how to name branched-chain alkanes and learn some general rules that are applicable to all compounds.</para>
+    <para id="para-00005">All but the most complex branched-chain alkanes can be named by following four steps. For a very few compounds, a fifth step is needed.</para>
+    <para id="para-00006"><emphasis effect="bold"><span class="red-text">STEP 1</span></emphasis></para>
+    <para id="para-00007"><emphasis effect="bold">Identify the parent hydrocarbon.</emphasis></para>
+    <para id="para-00008"><emphasis effect="bold">(a)</emphasis> Find the longest continuous chain of carbon atoms in the molecule, and use the name of that chain as the parent name. The longest chain may not always be apparent from the manner of writing; you may have to “turn corners.”</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows structures of two substituted alkanes. The first structure reads “Named as a substituted hexane” wherein hexane is written in pink. It shows a methyl group bonded to two consecutive methylene groups bonded to a methine group having an upward bond with a methylene group bonded to methyl group; this entire substitution is written in pink and shown bonded to a methyl group. The second structure reads “Named as a substituted heptane” wherein heptane is written in pink. It shows a methyl group bonded to a substituent group comprising of two methine groups wherein the carbon of first methine group shows an upward bond with a methylene group whose carbon further shows an upward bond with a methyl group; the second methine shows a downward bond with two consecutive methylene groups bonded to a methyl group; the entire substituent group is written in pink and is shown bonded to an ethyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009"><emphasis effect="bold">(b)</emphasis> If two different chains of equal length are present, choose the one with the larger number of branch points as the parent.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <media alt="An illustration shows the correct and incorrect naming of a structure. The first structure reads “Named as hexane with two substituents” and shows a carbon chain comprising of a methyl group bonded to two consecutive methine groups bonded to two consecutive methylene groups bonded to a methyl group; the entire chain is written in pink; the first methine shows an upward bond with a methyl group and the methine shows a downward bond with an ethyl group shown as CH2CH3. The second structure reads “Not” named “as a hexane with one substituent” and shows a methyl group bonded to a methine group having an upward bond with a methyl group; the methine is further bonded to a substituent comprising of a methine group bonded to two methylene groups bonded to a methyl group; the methine group shows a downward bond with an ethyl group shown as CH2CH3; the entire substituent group is written in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010"><emphasis effect="bold"><span class="red-text">STEP 2</span></emphasis></para>
+    <para id="para-00011"><emphasis effect="bold">Number the atoms in the longest chain.</emphasis></para>
+    <para id="para-00012"><emphasis effect="bold">(a)</emphasis> Beginning at the end nearer the first branch point, number each carbon atom in the parent chain.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the correct and incorrect naming of a structure. The first structure with three tiers shows the carbon atoms labeled from 1 to 7. It shows a methyl group (labeled 1) bonded to a methine group (labeled 2) in the first tier. The methine group is bonded to a methine group (labeled 3) at the bottom that is bonded to another methine group (labeled 4). Methine group (3) is bonded to a methyl group. Methine group (4) is bonded to an ethyl group on the right and a propyl group at the bottom (labeled 5 6 and 7). The entire substituent group is shown in pink. The second structure that is not correctly numbered shows the same structure as previously described except that the pink coloration is absent and the numbering begins from the downward bonded methyl group as “1” followed by the two methylene groups as “2” and “3” two methine groups as “4” and “5” followed by the methylene group as “6” and methyl group as “7.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00013">The first branch occurs at C3 in the proper system of numbering, not at C4.</para>
+    <para id="para-00014"><emphasis effect="bold">(b)</emphasis> If there is branching an equal distance away from both ends of the parent chain, begin numbering at the end nearer the second branch point.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the correct and incorrect naming of a structure. The first structure shows a methyl group at the left side bonded to a substituent group comprising of a methine group bonded to two methylene groups attached to two consecutive methine groups bonded to a methylene group attached to a methyl group located at the right side; the first methine shows an upward bond with a methylene group bonded to a methyl group; the numbering begins from the methyl group as “1” the methylene group as “2” two methine groups as “3” and “4” followed by two methylene groups at “5” and “6” a methine group at “7” the upward bonded methylene group as “8” and methyl group as “9” the entire group mentioned so far is written in pink; the methine at position “4” shows an upward bond with a methyl group; the methine at position “3” shows an upward bond with an ethyl group CH2CH3. The second structure shows incorrect numbering in the same structure wherein all the groups are written in black color and numbering is shown in pink; the numbering begins from the upward bonded methyl group as “1” and methylene group as “2” followed by the methine group at “3” methylene groups at “4” and “5” methine groups at “6” and “7” methylene group at “8” and methyl group at “9.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00015"><emphasis effect="bold"><span class="red-text">STEP 3</span></emphasis></para>
+    <para id="para-00016"><emphasis effect="bold">Identify and number the substituents.</emphasis></para>
+    <para id="para-00017"><emphasis effect="bold">(a)</emphasis> Assign a number to each substituent to locate its point of attachment to the parent chain.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration of a structure labeled as “named as a nonane” shows a methyl group written in green bonded to a seven carbon chain having a methyl group at the right end of the chain numbered as “1” followed by a methylene group at “2” two methine groups at “3” and “4” followed by two methylene groups at “5” and “6” methine group at “7” the methine at C7 shows an upward bond to a carbon of methylene labeled as “8” bonded to a methyl group labeled as “9”; the carbon of methine at position&quot;4” shows an upward bond with a methyl group shown in blue; the carbon of methine at position “3” shows an upward bond with a methylene bonded to a methyl group shown in pink color. The substituents “On C3” CH2CH3 written in pink is (3-ethyl) ; “On C4” CH3 written in blue is (4-methyl); “ On C7” CH3 written in green is (7-methyl).">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00018"><emphasis effect="bold">(b)</emphasis> If there are two substituents on the same carbon, give both the same number. There must be as many numbers in the name as there are substituents.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <media alt="An illustration shows a structure “named as a hexane” with a six-carbon chain starting from methyl group placed at right side labeled as “1.” It is bonded to a methine group labeled as “2” bonded to a methylene group numbered as “3” bonded to a carbon numbered as “4” that is further bonded to a methylene group at “5” that is bonded to a methyl group at “6”; at C4 an upward bond with a methyl group is shown and a downward bond with methylene bonded to a methyl group is shown; at C2 an upward bond with methyl group is shown. The substituents are “On C2 CH3” called as (2-methyl) is written in pink; “On C4 CH3” called as (4-methyl) is written in blue; “On C4 CH2CH3” called as (4-ethyl) is written in green.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00019"><emphasis effect="bold"><span class="red-text">STEP 4</span></emphasis></para>
+    <para id="para-00020"><emphasis effect="bold">Write the name as a single word.</emphasis></para>
+    <para id="para-00021">Use hyphens to separate the different prefixes, and use commas to separate numbers. If two or more different substituents are present, cite them in alphabetical order. If two or more identical substituents are present on the parent chain, use one of the multiplier prefixes <emphasis effect="italics">di</emphasis>-, <emphasis effect="italics">tri</emphasis>-, <emphasis effect="italics">tetra</emphasis>-, and so forth, but don’t use these prefixes for alphabetizing. Full names for some of the examples we have been using are as follows:</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows five structures with numbering in pink. The first structure “3-Methylhexane” having methyl written in pink shows a six-carbon chain. C1 is a methyl group bonded to C2 a methylene group that is bonded to a methine group labeled as “3” bonded to two consecutive methylene groups labeled “4” and “5” and then bonded to a methyl group labeled “6.” The methine group at 3 is bonded to a pink methyl group on the right. The second structure “3-Ethyl-4 7-dimethylnonane” having 3-ethyl- in pink and 4 7-dimethyl in blue shows a nine-carbon chain numbered from right side of the structure; a methyl group labeled “1” is bonded to a methylene group labeled “2” bonded to a methine group labeled “3”; the methine shows an upward bond with an ethyl group; the methine is further bonded to another methine labeled “4” having an upward bond with a methyl group; the methine is further bonded to two consecutive methylene groups labeled “5” and “6”; methylene at C6 is bonded to a methine labeled “7” having an upward bond to a methylene group labeled “8” bonded to a methyl group at “9”; the methine shows a side bond to a methyl group at the left side. The third structure “3-Ethyl-2-methylhexane” having 3-ethyl group in pink and 2-methyl in blue shows a six carbon chain numbered from left side of the structure; a methyl group labeled “1” is bonded to two consecutive methine groups labeled “2” and “3” bonded to two methylene groups labeled “4” and “5” further bonded to a methyl group labeled “6”; methine group at C2 shows an upward bond with a methyl group; methine at C3 shows a downward bond with an ethyl group. The fourth structure “4-Ethyl-3-methylheptane” having 4-Ethyl- in pink and 3-methyl in blue shows a seven-carbon chain shown in three tiers. The middle tier from the left side shows a methyl group bonded to a seven carbon chain; the methyl group is bonded to two consecutive methine groups labeled “3” and “4” bonded to an ethyl group; the methine group at C3 shows an upward bond to methylene group labeled “2” that is bonded to a methyl group labeled “1”; the methine at C4 shows a downward bond with two consecutive methylene groups labeled “5” and “6” bonded to a methyl group labeled “7.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_008.jpg"/>
+    </media>
+    </figure>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="The fifth structure is of “4-Ethyl-2 4-dimethylhexane” having “4-Ethyl-” in pink and “2 4-dimethyl” in blue; the structure shows a six-carbon chain numbered from the right; a methyl group labeled “1” is bonded to a methine group labeled “2” having an upward bond with a methyl group shown as blue; the methine group is bonded to a methyl group labeled “3” bonded to a carbon labeled “4” that is further bonded to a methylene group labeled “5” bonded to a methyl group labeled “6”; at C4 a downward bond to an ethyl group (pink) and an upward bond with a methyl group (blue) are shown.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00022"><emphasis effect="bold"><span class="red-text">STEP 5</span></emphasis></para>
+    <para id="para-00023"><emphasis effect="bold">Name a branched substituent as though it were itself a compound.</emphasis></para>
+    <para id="para-00024">In some particularly complex cases, a fifth step is necessary. It occasionally happens that a substituent on the main chain is itself branched. In the following case, for instance, the substituent at C6 is a three-carbon chain with a methyl group. To name the compound fully, the branched substituent must first be named.</para>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows the structure of a compound “Named as a 2 3 6-trisubstituted decane” having a ten-carbon chain. The numbering done in pink begins from the left side of the chain; a methyl group at “1” is shown bonded to two consecutive methine groups placed at “2” and “3” bonded to two consecutive methylene groups at “5” and “6” having a downward bond with three consecutive methylene groups labeled as “7” “8” and “9” bonded to a methyl group labeled as “10”; the methine group at C2 shows an upward bond to a methyl group shown in pink and the methine at C4 shows a downward bond to a methyl group shown in pink; the methine at C6 shows a bond to a substituent shown in blue having a methylene group bonded to a methine group having an upward and a side bond with methyl groups. An inset enclosed in a parenthesis and labeled as “a 2-methylpropyl substituent” shows the numbering in substituent; an open bond attached to methylene group at position “1” is shown intersected by a pink spiral line the methylene is bonded to a methine group at position “2” sharing an upward bond with a methyl group and a side bond with another methyl group labeled “3.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_010.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00025">Number the branched substituent beginning at the point of its attachment to the main chain, and identify it—in this case, a 2-methylpropyl group. The substituent is treated as a whole and is alphabetized according to the first letter of its complete name, including any numerical prefix. It is set off in parentheses when naming the entire molecule.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <media alt="An illustration shows the structure of “2 3-Dimethyl-6-(2-methylpropyl)decane” having 2 3-Dimethyl- in pink and 6-(2-methylpropyl) in blue. It shows a 10-carbon chain with the numbering done in pink from left to right. C1 to C6 are in the top row where C7 to C10 are at the bottom row. A methyl group at “1” is bonded to two consecutive methine groups at “2” and “3” and bonded to two methylene groups at “4” and “5” bonded to a methine group at “6” that shows a downward bond with three consecutive methylene groups at “7” “8” and “9” and further bonded to a methyl group at “10”; the methine group at C6 is bonded to a 3-carbon chain in blue comprising of a central methine group bonded to methylene on the left and a methyl group at the top and a methyl group on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_011.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00026">As a further example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00012">
+    <media alt="An illustration shows the structure of 5-(1 2-Dimethylpropyl)-2-methylnonane having a nine-carbon chain showing 5-(1 2-Dimethylpropyl) in pink and 2-methyl in blue. The numbering done in pink begins from the right side of the chain; a methyl group at “1” is bonded to a methine group at “2” having an upward bond with a methyl group shown as blue; the methine is bonded to two consecutive methylene groups at positions “3” and “4”; C4 shows a downward bond to a methine at position “5” bonded to three consecutive methylene groups at positions “6’ “7” and “8” with a methyl group at “9”; C5 shows a side bond to a chain with two methine groups wherein each group shows a downward bond to a methyl group; the second methine is shown bonded to a methyl group. An inset shown enclosed in a parenthesis shows “1 1 2-dimethylpropyl group” comprising of a free bond attached to methine group at position “1” bonded to another methine group at “2” bonded to a methyl group at “3”; both C1 and C2 are bonded to a methyl group each at the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_012.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00027">For historical reasons, some of the simpler branched-chain alkyl groups also have nonsystematic, common names, as noted earlier.</para>
+    <figure class="unnumbered scaled-down" id="fig-00013">
+    <media alt="An illustration shows seven alkyl groups categorized into three groups. The first group labeled as “3-Carbon alkyl group” comprising shows a methyl group bonded to a methine group bonded to another methyl group; the methine group shows an open upward bond intersected by a pink spiral line. The second group labeled as “4-Carbon alkyl groups” shows three structures; the first structure labeled “sec-Butyl (sec-Bu) shows a methyl group bonded to methylene group bonded to a methine group having an open upward intersected bond; the methine group is further bonded to a methyl group. The second structure labeled as “Isobutyl” shows a centrally located methine group bonded to two methyl groups in an upward and side bond; the methine is further bonded to methylene having an open side bond that is intersected. The third structure labeled as tert-Butyl (t-butyl or t-Bu) shows a centrally located carbon having three bonds with methyl groups the fourth bond is an open intersected bond. The third group labeled as “5-Carbon alkyl groups” shows three structures; the first structure “Isopentyl also called isoamyl (i-amyl) shows a methine group bonded to two methyl groups in a side and an upward bond the methine group is further bonded to two consecutive methylene groups that further show an open intersected bond. The second structure labeled as “Neopentyl” shows a centrally located carbon bonded to three methyl groups on its three sides and a methylene group having an open intersected bond. The third structure labeled as “tert-Pentyl also called tert-amyl (t-amyl) shows a centrally located carbon having a side bond with an ethyl group and an upward and downward bond with methyl groups; the fourth side shows an open intersected bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_013.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00028">The common names of these simple alkyl groups are so well entrenched in the chemical literature that IUPAC rules make allowance for them. Thus, the following compound is properly named either 4-(1-methylethyl)heptane or 4-isopropylheptane. There’s no choice but to memorize these common names; fortunately, there are only a few of them.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00014">
+    <media alt="An illustration shows structure of “4-(1-Methylethyl)heptane or 4-Isopropylheptane” where 4-(-Methylethyl) and 4-Isopropyl are shown in pink; the structure shows a seven-carbon chain wherein a centrally located methine group is bonded to two consecutive methylene groups bonded to a methyl group on both left and right side of the chain; the methine shows an upward bond with a pink isopropyl group comprising of a methyl group bonded to a methine group that is bonded to a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_014.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00029">When writing an alkane name, the nonhyphenated prefix iso- is considered part of the alkyl-group name for alphabetizing purposes, but the hyphenated and italicized prefixes <emphasis effect="italics">sec</emphasis>- and <emphasis effect="italics">tert</emphasis>- are not. Thus, isopropyl and isobutyl are listed alphabetically under <emphasis effect="italics">i,</emphasis> but <emphasis effect="italics">sec</emphasis>-butyl and <emphasis effect="italics">tert</emphasis>-butyl are listed under <emphasis effect="italics">b</emphasis>.</para>
+    <example id="exam-00001">
+    <title>Naming Alkanes</title>
+    <para id="para-00030">What is the IUPAC name for the following alkane?</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00015">
+    <media alt="An illustration shows an eight-carbon chain wherein a methyl group is bonded to a methine group having an upward bond with an ethyl group; on the right the methine group is further bonded to three consecutive methylene groups and then a methine having an upward bond with a methyl group and a side bond with a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_015.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00031"><title><span class="red-text">Strategy</span></title> Find the longest continuous carbon chain in the molecule, and use that as the parent name. This molecule has a chain of eight carbons—octane—with two methyl substituents. (You have to turn corners to see it.) Numbering from the end nearer the first methyl substituent indicates that the methyls are at C2 and C6.</para>
+    <para id="para-00032"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00016">
+    <media alt="An illustration shows 2 6-Dimethyloctane wherein 2 6-Dimethyl is written in pink; the structure shows an eight-carbon chain wherein the numbering starts from the right to left. A methyl group labeled “1” is bonded to a methine group labeled “2” having an upward bond with a methyl group; the methine group is further bonded to three consecutive methylene groups labeled as “3 ” “4” and “5” and then bonded to a methine group labeled “6” having an upward bond with a methylene group labeled “7” bonded to a methyl group labeled “8”; the methine group is further bonded to a methyl group; the upward methyl group bonded to C2 and the methyl group bonded to C6 are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_016.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <example id="exam-00002">
+    <title>Converting a Chemical Name into a Structure</title>
+    <para id="para-00033">Draw the structure of 3-isopropyl-2-methylhexane.</para>
+    <para id="para-00034"><title><span class="red-text">Strategy</span></title> This is the reverse of <link>Worked Example 3.2</link> and uses a reverse strategy. Look at the parent name (hexane), and draw its carbon structure.</para>
+    <para id="para-00035"><emphasis class="centered-text">C舁–舁C舁–舁C舁–舁C舁–舁C舁–舁C  <emphasis effect="bold">Hexane</emphasis></emphasis></para>
+    <para id="para-00036">proNext, find the substituents (3-isopropyl and 2-methyl), and place them on the proper carbons.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <media alt="An illustration shows a six-carbon chain wherein six carbons are numbered from the left to right; at C2 a downward bond with a blue methyl group is bonded and is labeled as “a methyl group at C2”; at C3 an upward bond with pink isopropyl group comprising of a methyl group bonded to a methine bonded to another methyl group is shown and is labeled as “an isopropyl group at C3.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_017.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00037">Finally, add hydrogens to complete the structure.</para>
+    <para id="para-00038"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down-30" id="fig-00018">
+    <media alt="An illustration shows the structure of “3-Isopropyl-2-methylhexane” wherein 3-Isopropyl- is written in pink and 2-methyl is written in blue; the coloring in the name of compound corresponds with that in the structure; a six-carbon chain shows a methyl group bonded two consecutive methine groups and then two methylene groups and then a methyl group; the numbering is done from the left to right. C2 is bonded to a blue methyl group at the bottom. C3 is bonded to a pink isopropyl group at the top.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_04_018.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00039"><link class="os-embed" url="#exercise/03-04-OC-P11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00040"><link class="os-embed" url="#exercise/03-04-OC-P12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00041"><link class="os-embed" url="#exercise/03-04-OC-P13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00042"><link class="os-embed" url="#exercise/03-04-OC-P14"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
