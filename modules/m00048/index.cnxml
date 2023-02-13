@@ -51,7 +51,7 @@
     </problem>
     </exercise>
     </section>
-    <note class="chemistry-matters" id="note-00001">
+    <section class="chemistry-matters" id="note-00001">
     <title>Molecular Mechanics</title>
     <para id="para-00009">All the structural models in this book are computer-drawn. To make sure they accurately represent bond angles, bond lengths, torsional interactions, and steric interactions, the most stable geometry of each molecule has been calculated on a desktop computer using a commercially available <emphasis effect="italics">molecular mechanics</emphasis> program based on work by Norman Allinger at the University of Georgia.</para>
     <para id="para-00010">The idea behind molecular mechanics is to begin with a rough geometry for a molecule and then calculate a total strain energy for that starting geometry, using mathematical equations that assign values to specific kinds of molecular interactions. Bond angles that are too large or too small cause angle strain; bond lengths that are too short or too long cause stretching or compressing strain; unfavorable eclipsing interactions around single bonds cause torsional strain; and nonbonded atoms that approach each other too closely cause steric, or <emphasis effect="italics">van der Waals,</emphasis> strain.</para>
@@ -70,7 +70,7 @@
     </media>
     <caption><emphasis effect="bold">The structure of Tamiflu (oseltamivir), an antiviral agent active against type A influenza</emphasis>, along with a molecular model of its minimum-energy conformation as calculated by molecular mechanics.</caption>
     </figure>
-    </note>
+  </section>
     <section class="key-terms" id="sect-00002">
     <list id="list-00001">
     <item><link document="" target-id="">1,3-diaxial interaction</link></item>

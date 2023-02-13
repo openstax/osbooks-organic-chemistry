@@ -49,7 +49,7 @@
 </problem>
 </exercise>
 </section>
-<note class="chemistry-matters" id="note-00001">
+<section class="chemistry-matters" id="note-00001">
   <title>Alkaloids: From Cocaine to Dental Anesthetics</title>
   <para id="para-00008">Just as ammonia (NH<sub>3</sub>) is a weak base, there are a large number of nitrogen-containing organic compounds called amines that are also weak bases. In the early days of organic chemistry, basic amines derived from natural sources were known as vegetable alkali, but they are now called <term id="term-00008">alkaloids</term>. More than 20,000 alkaloids are known. Their study provided much of the impetus for the growth of organic chemistry in the nineteenth century and remains today an active and fascinating area of research.</para>
   <figure id="fig-00005" class="scaled-down-30">
@@ -76,7 +76,7 @@
   </media>
   </figure>
   <para id="para-00012">An estimate from the U.S. National Academy of Sciences is that less than 1% of all living species have been characterized. Thus, alkaloid chemistry remains an active area of research, and innumerable substances with potentially useful properties have yet to be discovered. Undoubtedly even the caine anesthetics will become obsolete at some point, perhaps supplanted by newly discovered alkaloids.</para>
-  </note>
+</section>
   <section class="key-terms" id="sect-00002">
   <list id="list-00001">
   <item><link document="m00025" target-id="term-00001">acidity constant (<emphasis effect="italics">K</emphasis><sub>a</sub>)</link></item>
@@ -103,9 +103,9 @@
   <item><link document="m00021" target-id="term-00001">resonance form</link></item>
   <item><link document="m00021" target-id="term-00002">resonance hybrid</link></item>
   <item><link document="m00029" target-id="term-00006">van der Waals force</link></item>
-  
-  
-  
+
+
+
   </list>
   </section>
   <section class="summary" id="sect-00003">
@@ -117,7 +117,7 @@
   <para id="para-00017">Acidity and basicity are closely related to the ideas of polarity and electronegativity. A <emphasis effect="bold">Brønsted–Lowry acid</emphasis> is a compound that can donate a proton (hydrogen ion, H<sup>+</sup>), and a <emphasis effect="bold">Brønsted–Lowry base</emphasis> is a compound that can accept a proton. The strength of a Brønsted–Lowry acid or base is expressed by its <emphasis effect="bold">acidity constant, <emphasis effect="italics">K</emphasis><sub>a</sub></emphasis>, or by the negative logarithm of the acidity constant, <emphasis effect="bold">p<emphasis effect="italics">K</emphasis><sub>a</sub></emphasis>. The larger the p<emphasis effect="italics">K</emphasis><sub>a</sub>, the weaker the acid. More useful is the Lewis definition of acids and bases. A <emphasis effect="bold">Lewis acid</emphasis> is a compound that has a low-energy empty orbital that can accept an electron pair; Mg<sup>2<emphasis effect="bold">+</emphasis></sup>, BF<sub>3</sub>, AlCl<sub>3</sub>, and H<sup>+</sup> are examples. A <emphasis effect="bold">Lewis base</emphasis> is a compound that can donate an unshared electron pair; NH<sub>3</sub> and H<sub>2</sub>O are examples. Most organic molecules that contain oxygen and nitrogen can act as Lewis bases toward sufficiently strong acids.</para>
   <para id="para-00018">A variety of <emphasis effect="bold">noncovalent interactions</emphasis> have a significant effect on the properties of large biomolecules. <emphasis effect="bold">Hydrogen bonding</emphasis>—the attractive interaction between a positively polarized hydrogen atom bonded to an oxygen or nitrogen atom with an unshared electron pair on another O or N atom, is particularly important in giving proteins and nucleic acids their shapes.</para>
   </section>
-  
+
 <section class="visualizing-chemistry" id="sect-00004">
   <title>Visualizing Chemistry</title>
   <exercise id="exer-00002">
@@ -164,11 +164,11 @@
     </problem>
   </exercise>
   </section>
-  
+
   <section class="additional-problems" id="sect-00006">
   <title>Additional Problems</title>
   <para id="para-00027"><emphasis effect="bold"><span class="red-text">Electronegativity and Dipole Moments</span></emphasis></para>
-  
+
   <exercise id="exer-00010">
     <problem id="prob-00010">
       <para id="para-00028"><link class="os-embed" url="#exercise/02-99-OC-AP28"/></para>
@@ -205,7 +205,7 @@
     </problem>
   </exercise>
   <para id="para-00035"><emphasis effect="bold"><span class="red-text">Formal Charges</span></emphasis></para>
-  
+
   <exercise id="exer-00017">
     <problem id="prob-00017">
       <para id="para-00036"><link class="os-embed" url="#exercise/02-99-OC-AP35"/></para>

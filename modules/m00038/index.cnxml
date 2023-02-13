@@ -128,7 +128,7 @@
     </problem>
     </exercise>
     </section>
-    <note class="chemistry-matters" id="note-00001">
+    <section class="chemistry-matters" id="note-00001">
     <title>Gasoline</title>
     <para id="para-00017">British Foreign Minister Ernest Bevin once said that “The Kingdom of Heaven runs on righteousness, but the Kingdom of Earth runs on alkanes.” (Actually, he said “runs on oil” not “runs on alkanes,” but they’re essentially the same.) By far, the major sources of alkanes are the world’s natural gas and petroleum deposits. Laid down eons ago, these deposits are thought to be derived primarily from the decomposition of tiny single-celled marine organisms called foraminifera. Natural gas consists chiefly of methane but also contains ethane, propane, and butane. Petroleum is a complex mixture of hydrocarbons that must be separated into fractions and then further refined before it can be used.</para>
     <figure class="scaled-down-30" id="fig-00008">
@@ -146,7 +146,7 @@
     </media>
     </figure>
     <para id="para-00021">Because straight-run gasoline burns so poorly in engines, petroleum chemists have devised numerous methods for producing higher-quality fuels. One of these methods, <emphasis effect="italics">catalytic cracking</emphasis>, involves taking the high-boiling kerosene cut (C<sub>11</sub>–C<sub>14</sub>) and “cracking” it into smaller branched molecules suitable for use in gasoline. Another process, called <emphasis effect="italics">reforming</emphasis>, is used to convert C<sub>6</sub>–C<sub>8</sub> alkanes to aromatic compounds such as benzene and toluene, which have substantially higher octane numbers than alkanes. The final product that goes in your tank has an approximate composition of 15% C<sub>4</sub>–C<sub>8</sub> straight-chain alkanes, 25% to 40% C<sub>4</sub>–C<sub>10</sub> branched-chain alkanes, 10% cyclic alkanes, 10% straight-chain and cyclic alkenes, and 25% arenes (aromatics).</para>
-    </note>
+  </section>
     <section class="key-terms" id="sect-00002">
     <list id="list-00001">
       <item><link document="m00032" target-id="term-00006">alcohol</link></item>
