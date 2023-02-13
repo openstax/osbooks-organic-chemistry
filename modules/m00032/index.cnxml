@@ -107,7 +107,7 @@
     </media>
     </entry>
     <entry valign="top" align="left"><emphasis effect="italics">phosphate</emphasis></entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">OPO</m:mtext></m:mrow><m:mn style="color: magenta">3</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mrow><m:mn style="color: magenta">2</m:mn><m:mo style="color: magenta">&#x2212;</m:mo></m:mrow></m:msup></m:mrow></m:math> Methyl phosphate</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">OPO</m:mtext></m:mrow><m:mn style="color: magenta">3</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mrow><m:mn style="color: magenta">2</m:mn><m:mo style="color: magenta">&#x2212;</m:mo></m:mrow></m:msup></m:mrow></m:math> <newline />Methyl phosphate</entry>
     </row>
     <row>
     <entry valign="top" align="left">Diphosphate</entry>
@@ -117,7 +117,7 @@
     </media>
     </entry>
     <entry valign="top" align="left"><emphasis effect="italics">diphosphate</emphasis></entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">OP</m:mtext></m:mrow><m:mn style="color: magenta">2</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">O</m:mtext></m:mrow><m:mn style="color: magenta">6</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mrow><m:mn style="color: magenta">3−</m:mn></m:mrow></m:msup></m:mrow></m:math> Methyl diphosphate</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">OP</m:mtext></m:mrow><m:mn style="color: magenta">2</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">O</m:mtext></m:mrow><m:mn style="color: magenta">6</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mrow><m:mn style="color: magenta">3−</m:mn></m:mrow></m:msup></m:mrow></m:math> <newline />Methyl diphosphate</entry>
     </row>
     <row>
     <entry valign="top" align="left">Amine</entry>
@@ -127,7 +127,7 @@
     </media>
     </entry>
     <entry valign="top" align="left">-<emphasis effect="italics">amine</emphasis></entry>
-    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">NH<sub>2</sub></span> Methylamine</entry>
+    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">NH<sub>2</sub></span> <newline />Methylamine</entry>
     </row>
     <row>
     <entry valign="top" align="left">Imine (Schiff base)</entry>
@@ -147,7 +147,7 @@
     <entry valign="top" align="left">Nitrile</entry>
     <entry valign="top" align="left"><m:math><m:mrow><m:mtext>–</m:mtext><m:mtext>C</m:mtext><m:mo style="color: magenta">≡</m:mo><m:mtext style="color: magenta">N</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">-<emphasis effect="italics">nitrile</emphasis></entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>C</m:mtext><m:mo style="color: magenta">≡</m:mo><m:mtext style="color: magenta">N</m:mtext></m:mrow></m:math> Ethanenitrile</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>C</m:mtext><m:mo style="color: magenta">≡</m:mo><m:mtext style="color: magenta">N</m:mtext></m:mrow></m:math> <newline />Ethanenitrile</entry>
     </row>
     <row>
     <entry valign="top" align="left">Thiol</entry>
@@ -157,7 +157,7 @@
     </media>
     </entry>
     <entry valign="top" align="left">-<emphasis effect="italics">thiol</emphasis></entry>
-    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">SH</span> Methanethiol</entry>
+    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">SH</span> <newline />Methanethiol</entry>
     </row>
     <row>
     <entry valign="top" align="left">Sulfide</entry>
@@ -167,7 +167,7 @@
     </media>
     </entry>
     <entry valign="top" align="left"><emphasis effect="italics">sulfide</emphasis></entry>
-    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">S</span>CH<sub>3</sub> Dimethyl sulfide</entry>
+    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">S</span>CH<sub>3</sub> <newline />Dimethyl sulfide</entry>
     </row>
     <row>
     <entry valign="top" align="left">Disulfide</entry>
@@ -177,7 +177,7 @@
     </media>
     </entry>
     <entry valign="top" align="left"><emphasis effect="italics">disulfide</emphasis></entry>
-    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">SS</span>CH<sub>3</sub> Dimethyl disulfide</entry>
+    <entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">SS</span>CH<sub>3</sub> <newline />Dimethyl disulfide</entry>
     </row>
     <row>
     <entry valign="top" align="left">Sulfoxide</entry>
