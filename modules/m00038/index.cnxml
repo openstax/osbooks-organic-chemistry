@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">Propane, the next-higher member in the alkane series, also has a torsional barrier that results in hindered rotation around the carbon–carbon bonds. The barrier is slightly higher in propane than in ethane—a total of 14 kJ/mol (3.4 kcal/mol) versus 12 kJ/mol.</para>
-    <para id="para-00002">The eclipsed conformation of propane has three interactions—two ethane-type hydrogen–hydrogen interactions and one additional hydrogen–methyl interaction. Since each eclipsing <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction is the same as that in ethane and thus has an energy “cost” of 4.0 kJ/mol, we can assign a value of 14舁–舁(2 × 4.0)舁=舁6.0 kJ/mol (1.4 kcal/mol) to the eclipsing <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> interaction ([Figure 03_07_OChem-03-07-001_80485-03-08_NewmanProp]).</para>
+    <para id="para-00002">The eclipsed conformation of propane has three interactions—two ethane-type hydrogen–hydrogen interactions and one additional hydrogen–methyl interaction. Since each eclipsing <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction is the same as that in ethane and thus has an energy “cost” of 4.0 kJ/mol, we can assign a value of 14舁–舁(2 × 4.0)舁=舁6.0 kJ/mol (1.4 kcal/mol) to the eclipsing <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> interaction (<link target-id="fig-00001"/>).</para>
     <figure id="fig-00001">
     <media alt="An illustration shows the conversion of staggered propane to eclipsed propane by rotation of rear carbon 60 degree. Both conformations are shown in ball-and-stick models and Newman projections. The Newman projection of staggered propane shows a darkened tripod bonded to a pink methyl group at the top and two green hydrogens at the base; the back carbon shows an inverted tripod such that two blue hydrogens are bonded at the top and a blue hydrogen is bonded at the base. The ball-and-stick model shows three carbons wherein the left side carbon is bonded to three blue hydrogens; the upper carbon is bonded to three red hydrogens and the lower carbon is bonded to two green hydrogens. The Newman projection of eclipsed propane shows superimposition of both front and carbon bonds; the front carbon having an upward bond with a pink methyl group and two lower bonds with green hydrogens; the back carbon shows an upward bond with hydrogen and two lower bonds with hydrogens; the torsional strain between the methyl group and blue hydrogen is 6.0 kJ/mol; the torsional strain between both groups of lower hydrogens at the base is shown as 4.0 kJ/mol. The ball-and-stick model shows three carbons wherein the left side carbon shows bonds to three blue hydrogens that are shown rotated by 60 degree; the upward right side carbon is bonded to three red hydrogens; the central carbon is bonded to two green hydrogens.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_07_001.jpg"/>
@@ -147,46 +147,46 @@
     </note>
     <section class="key-terms" id="sect-00002">
     <list id="list-00001">
-    <item><link>alcohol</link></item>
-    <item><link>aldehyde</link></item>
-    <item><link>aliphatic</link></item>
-    <item><link>alkane</link></item>
-    <item><link>alkene</link></item>
-    <item><link>alkyl group</link></item>
-    <item><link>alkyl halide</link></item>
-    <item><link>alkyne</link></item>
-    <item><link>amide</link></item>
-    <item><link>amine</link></item>
-    <item><link>anti conformation</link></item>
-    <item><link>arene</link></item>
-    <item><link>branched-chain alkane</link></item>
-    <item><link>carbonyl group</link></item>
-    <item><link>carboxylic acid</link></item>
-    <item><link>conformation</link></item>
-    <item><link>conformational isomer</link></item>
-    <item><link>conformer</link></item>
-    <item><link>constitutional isomer</link></item>
-    <item><link>eclipsed conformation</link></item>
-    <item><link>ester</link></item>
-    <item><link>ether</link></item>
-    <item><link>functional group</link></item>
-    <item><link>gauche conformation</link></item>
-    <item><link>hydrocarbon</link></item>
-    <item><link>isomer</link></item>
-    <item><link>ketone</link></item>
-    <item><link>Newman projection</link></item>
-    <item><link>nitrile</link></item>
-    <item><link>R group</link></item>
-    <item><link>saturated</link></item>
-    <item><link>sawhorse representation</link></item>
-    <item><link>staggered conformation</link></item>
-    <item><link>stereochemistry</link></item>
-    <item><link>steric strain</link></item>
-    <item><link>straight-chain alkane</link></item>
-    <item><link>substituent</link></item>
-    <item><link>sulfide</link></item>
-    <item><link>thiol</link></item>
-    <item><link>torsional strain</link></item>
+      <item><link document="m00032" target-id="term-00006">alcohol</link></item>
+      <item><link document="m00032" target-id="term-00013">aldehyde</link></item>
+      <item><link document="m00033" target-id="term-00004">aliphatic</link></item>
+      <item><link document="m00033" target-id="term-00001">alkane</link></item>
+      <item><link document="m00032" target-id="term-00002">alkene</link></item>
+      <item><link document="m00034" target-id="term-00001">alkyl group</link></item>
+      <item><link document="m00032" target-id="term-00005">alkyl halide</link></item>
+      <item><link document="m00032" target-id="term-00003">alkyne</link></item>
+      <item><link document="m00032" target-id="term-00018">amide</link></item>
+      <item><link document="m00032" target-id="term-00008">amine</link></item>
+      <item><link document="m00038" target-id="term-00001">anti conformation</link></item>
+      <item><link document="m00032" target-id="term-00004">arene</link></item>
+      <item><link document="m00033" target-id="term-00006">branched-chain alkane</link></item>
+      <item><link document="m00032" target-id="term-00012">carbonyl group</link></item>
+      <item><link document="m00032" target-id="term-00015">carboxylic acid</link></item>
+      <item><link document="m00037" target-id="term-00002">conformation</link></item>
+      <item><link document="m00037" target-id="term-00003">conformational isomer</link></item>
+      <item><link document="m00037" target-id="term-00004">conformer</link></item>
+      <item><link document="m00033" target-id="term-00008">constitutional isomer</link></item>
+      <item><link document="m00037" target-id="term-00008">eclipsed conformation</link></item>
+      <item><link document="m00032" target-id="term-00016">ester</link></item>
+      <item><link document="m00032" target-id="term-00007">ether</link></item>
+      <item><link document="m00032" target-id="term-00001">functional group</link></item>
+      <item><link document="m00038" target-id="term-00002">gauche conformation</link></item>
+      <item><link document="m00033" target-id="term-00002">hydrocarbon</link></item>
+      <item><link document="m00033" target-id="term-00007">isomer</link></item>
+      <item><link document="m00032" target-id="term-00014">ketone</link></item>
+      <item><link document="m00037" target-id="term-00006">Newman projection</link></item>
+      <item><link>nitrile</link></item>
+      <item><link document="m00034" target-id="term-00002">R group</link></item>
+      <item><link document="m00033" target-id="term-00003">saturated</link></item>
+      <item><link document="m00037" target-id="term-00005">sawhorse representation</link></item>
+      <item><link document="m00037" target-id="term-00007">staggered conformation</link></item>
+      <item><link document="m00037" target-id="term-00001">stereochemistry</link></item>
+      <item><link document="m00038" target-id="term-00003">steric strain</link></item>
+      <item><link document="m00033" target-id="term-00005">straight-chain alkane</link></item>
+      <item><link document="m00035" target-id="term-00001">substituent</link></item>
+      <item><link document="m00032" target-id="term-00010">sulfide</link></item>
+      <item><link document="m00032" target-id="term-00009">thiol</link></item>
+      <item><link document="m00037" target-id="term-00009">torsional strain</link></item>
     </list>
     </section>
     <section class="summary" id="sect-00003">
