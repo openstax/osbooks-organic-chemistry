@@ -1,0 +1,59 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Conformations of Cycloalkanes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Conformations of Cycloalkanes</md:title>
+    <md:content-id>m00043</md:content-id>
+    <md:uuid>5a69b8d8-af79-469d-8011-78d7227c82db</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+    <title>Cyclopropane</title>
+    <para id="para-00001">Cyclopropane is the most strained of all rings, primarily due to the angle strain caused by its 60° C−C−C bond angles. In addition, cyclopropane has considerable torsional strain because the C−H bonds on neighboring carbon atoms are eclipsed (<link>Figure 04_04_OChem-04-04-001_80485-04-04_Eclipsed</link>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows two parts. The first part shows a space and ball model of a cyclopropane that shows a merged grey central area representing carbon and white balls representing hydrogen atoms; the ball and stick model shows three carbons wherein each carbon is bonded to two hydrogens. The second part shows a Newman projection of cyclopropane wherein a darkened tripod in 180 degree orientation shows a carbon bonded to two pink hydrogens to its right side; the carbon also shows upward and downward angled bonds with two hydrogen atoms to its left side; the center of tripod is encircled with a circle; a thinner tripod shows the carbon bonded to two pink hydrogen atoms. Both the pairs of hydrogens on the right side are labeled as “eclipsed.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_04_001.jpg"/>
+    </media>
+    <caption>The structure of cyclopropane, showing the eclipsing of neighboring C−H bonds that gives rise to torsional strain. Part <emphasis effect="bold">(b)</emphasis> is a Newman projection along a C−C bond.</caption>
+    </figure>
+    <para id="para-00002">How can the hybrid-orbital model of bonding account for the large distortion of bond angles from the normal 109° tetrahedral value to 60° in cyclopropane? The answer is that cyclopropane has <emphasis effect="italics">bent bonds.</emphasis> In an unstrained alkane, maximum bonding is achieved when two atoms have their overlapping orbitals pointing directly toward each other. In cyclopropane, though, the orbitals can’t point directly toward each other; instead, they overlap at a slight angle. The result is that cyclopropane bonds are weaker and more reactive than typical alkane bonds—255 kJ/mol (61 kcal/mol) for a C−C bond in cyclopropane versus 370 kJ/mol (88 kcal/mol) for a C−C bond in open-chain propane.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows two parts. The first part shows “typical alkane C-C bonds” wherein a carbon shows bonds to two carbons in the form of dashed lines; the angle between two carbons is shown as “109 degree”; the bonds are represented as dashed lines intersecting each other; over the dashed lines on both the bonds are shown two pairs of balloon shaped structures fused at their inflated sides; the angle of deviation between the two lower carbons is “109 degree.” The second part labeled as “typical bent cyclopropane C-C bonds” shows three pairs of fused inflated balloon shaped structures are aligned in a way to resemble a triangular shape; at each fused joint is placed a carbon; two dashed lines pass through the top and left basal carbon these lines intersect at the left side fused balloon structure.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_04_002.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Cyclobutane</title>
+    <para id="para-00003">Cyclobutane has less angle strain than cyclopropane but has more torsional strain because of its larger number of ring hydrogens. As a result, the total strain for the two compounds is nearly the same—110 kJ/mol (26.4 kcal/mol) for cyclobutane versus 115 kJ/mol (27.5 kcal/mol) for cyclopropane. Cyclobutane is not quite flat but is slightly bent so that one carbon atom lies about 25° above the plane of the other three (<link>Figure 04_04_OChem-04-04-003_80485-04-05_NotEclipse</link>). The effect of this slight bend is to increase angle strain but to decrease torsional strain, until a minimum-energy balance between the two opposing effects is achieved.</para>
+    <figure id="fig-00003">
+    <media alt="An illustration shows three parts. The first part is a ball and stick model of cyclobutane having four carbons wherein each carbon is shown bonded to two hydrogens; the grey balls represent carbon and white balls represent hydrogen. The second part shows chair conformation of cyclobutane that appears as a triangular structure having two clearly demarcated sides whereas the third and fourth side appears as a thickened bond; the other two sides are shown as a thickened bond that appears almost as a straight line; all four carbons are each bonded to two hydrogens; the two carbons at the left side are shown bonded to two green hydrogens each; the labeling of positions starts from the left side of the base as “1”; the numbering follows a clockwise direction and ends at the center of two thickened bonds labeled as “4”; an eye is shown at the left the angle of vision is shown as a dashed line which passes through positions “1” and “2.” The third part shows a Newman projection having a darkened tripod; the center of tripod is encircled with a circle and beneath it is shown another tripod having lighter bonds; the left sides of both the tripods are bonded to green hydrogens and are labeled as “not quite eclipsed”; the right side bond of darkened tripod is labeled as “4” and is bonded to two hydrogens in an upward and a side bond; the right side bond of the lighter tripod is bonded to a carbon labeled “3” bonded to two hydrogens in an upward angled bond and a downward bond; the two angled hydrogen bonds belonging to darkened and lighter tripod are shown to intersect; a darkened bond between “3” and “4” is shown representing the fourth side of cyclobutane.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_04_003.jpg"/>
+    </media>
+    <caption>The conformation of cyclobutane. Part <emphasis effect="bold">(c)</emphasis> is a Newman projection along a C−C bond, showing that neighboring C−H bonds are not quite eclipsed.</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Cyclopentane</title>
+    <para id="para-00004">Cyclopentane was predicted by Baeyer to be nearly strain-free, but it actually has a total strain energy of 26 kJ/mol (6.2 kcal/mol). Although planar cyclopentane has practically no angle strain, it has a large torsional strain. Cyclopentane therefore twists to adopt a puckered, nonplanar conformation that strikes a balance between increased angle strain and decreased torsional strain. Four of the cyclopentane carbon atoms are in approximately the same plane, with the fifth carbon atom bent out of the plane. Most of the hydrogens are nearly staggered with respect to their neighbors (<link>Figure 04_04_OChem-04-04-004_80485-04-06_Observer</link>).</para>
+    <figure id="fig-00004">
+    <media alt="An illustration shows three parts. The first part is a ball and stick model of a cyclopentane having four carbons wherein each carbon is shown bonded to two hydrogens; the grey balls represent carbon and white balls represent hydrogen. The second part shows chair conformation of cyclopentane shown as a quadrilateral with a sunken base; every carbon of five positions is shown bonded to two hydrogens; the two carbons at left side of cyclopentane are shown bonded to two green hydrogens each; the numbering begins from the left side base of cyclopentane as “1” and continues clockwise as “2” “3” “4” and “5” at the sunken position; an eye is placed below the structure and a line of vision passes through the left basal side of the ring at “1” and exits at “2.” The third part shows a Newman projection wherein a darkened tripod is placed over a lighter tripod; the center of tripod labeled as “2” is encircled by a circle whose circumference is labeled as “3”; the left sides of both tripods are bonded to green hydrogens; the third position of darkened tripod bonds to a carbon labeled as “5” that is attached to two hydrogens; the carbon further bonds to another carbon labeled as “4” that is bonded to two hydrogens; between “1” and “4” is shown a carbon labeled as “3” that is bonded to two hydrogens; positions 1 3 4 and 5 are bonded together to appear as a quadrilateral.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_04_004.jpg"/>
+    </media>
+    <caption>The conformation of cyclopentane. Carbons 1, 2, 3, and 4 are nearly coplanar, but carbon 5 is out of the plane. Part <emphasis effect="bold">(c)</emphasis> is a Newman projection along the C1–C2 bond, showing that neighboring C−H bonds are nearly staggered.</caption>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00004">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005"><link class="os-embed" url="#exercise/04-04-OC-P10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00006"><link class="os-embed" url="#exercise/04-04-OC-P11"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
