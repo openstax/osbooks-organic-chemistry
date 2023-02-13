@@ -1,0 +1,320 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Conformations of Polycyclic Molecules</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Conformations of Polycyclic Molecules</md:title>
+    <md:content-id>m00048</md:content-id>
+    <md:uuid>45588cd4-266f-4b7a-933d-504ecb7ca20d</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">The final point we’ll consider about cycloalkane stereochemistry is to see what happens when two or more cycloalkane rings are fused together along a common bond to construct a <term id="term-00001"><emphasis effect="bold">polycyclic molecule</emphasis></term>—for example, decalin.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows the structure of “Decalin - two fused cyclohexane rings” having a cyclohexane fused to another cyclohexane; their upper and lower points of fusion are bonded to hydrogen atoms; the numbering in pink begins from the upper fusion point as “1” and continues clockwise till “6” at the lower point of fusion it further continues clockwise till “10” at the tip of left side ring.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Decalin consists of two cyclohexane rings joined to share two carbon atoms (the <emphasis effect="italics">bridgehead</emphasis> carbons, C1 and C6) and a common bond. Decalin can exist in either of two isomeric forms, depending on whether the rings are trans fused or cis fused. In <emphasis effect="italics">cis</emphasis>-decalin, the hydrogen atoms at the bridgehead carbons are on the same side of the rings; in <emphasis effect="italics">trans</emphasis>-decalin, the bridgehead hydrogens are on opposite sides. <link>Figure 04_09_OChem-04-09-002_80485-04-17_cisDecalin</link> shows how both compounds can be represented using chair cyclohexane conformations. Note that the two decalin isomers are not interconvertible by ring-flips or other rotations. They are cis–trans stereoisomers and have the same relationship to each other that <emphasis effect="italics">cis</emphasis>- and <emphasis effect="italics">trans</emphasis>-1,2-dimethylcyclohexane have.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows two parts; the first part labeled as “cis-Decalin” shows a molecular structure “equal” to its chair conformations; the molecular structure shows two fused cyclohexane having wedge bonds to two pink hydrogens at their upper and lower points of fusion; the chair conformation shows two fused cyclohexanes such that the first conformation is at 90 degree and the second conformation at 180 degree is fused to the lower left side of previous conformation; the points of fusion are bonded to pink hydrogens; the ball and stick model resembles the chair conformation wherein a vertically placed cyclohexane is fused with a horizontally placed hexane ring; a cyclohexane having six carbons wherein each carbon shown as grey ball except two are bonded to two hydrogens; the upper left side of ring shares an upward bond with red ball denoting hydrogen; the carbon is further bonded to another carbon attached to two hydrogen atoms; the carbon shares a downward bond with two consecutive carbons bonded to two hydrogens; the second carbon side bonds with another carbon having two hydrogens; the carbon shares an upward bond with the lower left side carbon of the horizontal cyclohexane which shares a side bond with red hydrogen; the structure contains two red hydrogens and rest of them are white. The second part labeled as “trans- Decalin” shows a molecular structure equal to chair conformation; the molecular structure shows two fused cyclohexane having wedge bonds to two pink hydrogens at their upper and lower points of fusion; the chair conformation shows two fused cyclohexanes in horizontal plane; their points of fusion show pink hydrogen bonds. The ball and stick model resembles chair conformation; grey balls denote carbon white and red balls denote hydrogen; a cyclohexane is shown fused with another cyclohexane; their points of fusion show bonds to red hydrogens; each position is bonded to two hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_002.jpg"/>
+    </media>
+    <caption>Representations of <emphasis effect="italics">cis</emphasis>- and <emphasis effect="italics">trans</emphasis>-decalin. <emphasis effect="bold"><span class="magenta-text">Hydrogen atoms</span></emphasis> at the bridgehead carbons are on the same face of the rings in the cis isomer but on opposite faces in the trans isomer.</caption>
+    </figure>
+    <para id="para-00003">Polycyclic compounds are common in nature, and many valuable substances have fused-ring structures. For example, steroids, such as the male hormone testosterone, have three six-membered rings and one five-membered ring fused together. Although steroids look complicated compared with cyclohexane or decalin, the same principles that apply to the conformational analysis of simple cyclohexane rings apply equally well (and often better) to steroids.</para>
+    <figure class="unnumbered" id="fig-00003">
+    <media alt="An illustration shows three structures of “testosterone (a steroid)”; the first structure shows a cyclohexenone having pink oxygen fused to a cyclohexane; the second cyclohexane is fused to third cyclohexane that is fused to a cyclopentane; the upper point of fusion between the cyclohexenone and cyclohexane shows an upward wedge bond with a methyl group; the right side shows an upward wedge bond with a hydrogen. the upper point of fusion between the cyclohexane and cyclopentane shows a wedge bond with a methyl group and lower point of fusion shows a dashed bond with hydrogen; the upper right position of cyclopentane shows a wedge bond with a pink hydroxyl group and a dashed bond with hydrogen. The placement of fused rings in chair conformation resembles the molecular structure; a cyclohexenone having pink oxygen is fused to cyclohexane; the point of fusion shows an upward bond with the methyl group; the cyclohexane fused above the basal cyclohexane is fused to a cyclopentane having a bond with the pink hydroxyl group; the lower left side of upper cyclohexane shows a downward bond with hydrogen; the central position shows an upward bond with hydrogen; the upper right side shows an upward bond with a methyl group and lower right side shows a downward bond with hydrogen. The ball and stick model shows shape resembling the chair conformation wherein grey balls denote carbon white balls denote hydrogen and red balls denote oxygen; the cyclohexane at the left shows a double bond with the red ball and a double bond within the ring; the upper right position is bonded to a methyl group; the second fused cyclohexane shows two carbons bonded to two hydrogens; the third cyclohexane fused to the second hexane ring shows its lower positions bonded to hydrogens; the upper left and central positions are bonded to two hydrogens; the upper right carbon is bonded to a methyl group; the cyclopentane fused to it shows two carbons bonded to two hydrogens; the upper central carbon shows a downward bond with hydrogen and upward bond to oxygen bonded to hydrogen; the right side forming tip of pentane ring is bonded to two hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Another common ring system is the norbornane, or bicyclo[2.2.1]heptane, structure. Like decalin, norbornane is a bicycloalkane, so called because two rings would have to be broken open to generate an acyclic structure. Its systematic name, bicyclo[2.2.1]heptane, reflects the fact that the molecule has seven carbons, is bicyclic, and has three “bridges” of 2, 2, and 1 carbon atoms connecting the two bridgehead carbons.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows chair conformation and ball and stick model of “Norbornane (bicyclo [2.2.1] heptane)”; the chair conformation shows a three dimensional heptane ring wherein a part of ring is shown raised above the horizontal portion; the lower part of the structure shows six positions of which four are encircled in blue color the left and right sides of ring are blue and are labeled as “A 2-carbon bridge” and the upper and lower central positions encircled in green color are labeled as “bridgehead carbons”; the tip of raised structure shows a pink circle labeled as “A 1-carbon bridge.” The ball and stick model shows similar shape as the chair conformation wherein carbon atoms are denoted by grey balls and hydrogens are denoted by white balls; of the six carbons on the lower plane five are shown bonded to two hydrogens; the lower central carbon is bonded to a hydrogen and the upper central carbon is bonded to a hydrogen and shares an upward bond with another carbon bonded to two hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Norbornane has a conformationally locked boat cyclohexane ring (<link>Section 4.5</link>) in which carbons 1 and 4 are joined by an additional CH<sub>2</sub> group. In drawing this structure, a break in the rear bond indicates that the vertical bond crosses in front of it. Making a molecular model is particularly helpful when trying to see the three-dimensionality of norbornane.</para>
+    <para id="para-00006">Substituted norbornanes, such as camphor, are found widely in nature, and many have been important historically in developing organic structural theories.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <media alt="An illustration shows chair conformation and ball and stick model of “Camphor”; the chair conformation shows a three dimensional heptane ring wherein a part of ring is shown raised above the horizontal portion; the upper right side of the lower plane shows a double bond with pink oxygen; the upper central position is bonded to a methyl group and the tip of two raised sides shows bonds to two methyl groups. The ball and stick model shows similar shape as the chair conformation wherein carbon atoms are denoted by grey balls and hydrogens are denoted by white balls; the seven carbons that are found to overlap in some places are bonded to hydrogens; two carbons are bonded to two hydrogens; the two carbons bonded to the raised portion as well as the central carbon are shown bonded to methyl groups; the carbon at extreme right shares a double bond with red ball denoting oxygen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_005.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/04-09-OC-P20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/04-09-OC-P21"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <note class="chemistry-matters" id="note-00001">
+    <title>Molecular Mechanics</title>
+    <para id="para-00009">All the structural models in this book are computer-drawn. To make sure they accurately represent bond angles, bond lengths, torsional interactions, and steric interactions, the most stable geometry of each molecule has been calculated on a desktop computer using a commercially available <emphasis effect="italics">molecular mechanics</emphasis> program based on work by Norman Allinger at the University of Georgia.</para>
+    <para id="para-00010">The idea behind molecular mechanics is to begin with a rough geometry for a molecule and then calculate a total strain energy for that starting geometry, using mathematical equations that assign values to specific kinds of molecular interactions. Bond angles that are too large or too small cause angle strain; bond lengths that are too short or too long cause stretching or compressing strain; unfavorable eclipsing interactions around single bonds cause torsional strain; and nonbonded atoms that approach each other too closely cause steric, or <emphasis effect="italics">van der Waals,</emphasis> strain.</para>
+    <para id="para-00011"><emphasis class="centered-text"><emphasis effect="italics">E</emphasis><sub>total</sub> = <emphasis effect="italics">E</emphasis><sub>bond stretching</sub> + <emphasis effect="italics">E</emphasis><sub>angle strain</sub> + <emphasis effect="italics">E</emphasis><sub>torsional strain</sub> + <emphasis effect="italics">E</emphasis><sub>van der Waals</sub></emphasis></para>
+    <figure class="scaled-down-30" id="fig-00006">
+    <media alt="A person views a computer screen showing a 3D molecular model.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_007.jpg"/>
+    </media>
+    <caption>Computer programs make it possible to accurately represent molecular geometry. (credit: “Molecular geometry” by Jane Whitney/Flickr, CC BY 4.0)</caption>
+    </figure>
+    <para id="para-00012">After calculating a total strain energy for the starting geometry, the program automatically changes the geometry slightly in an attempt to lower strain—perhaps by lengthening a bond that is too short or decreasing an angle that is too large. Strain is recalculated for the new geometry, more changes are made, and more calculations are done. After dozens or hundreds of iterations, the calculation ultimately converges on a minimum energy that corresponds to the most favorable, least strained conformation of the molecule.</para>
+    <para id="para-00013">Similar calculations have proven to be particularly useful in pharmaceutical research, where a complementary fit between a drug molecule and a receptor molecule in the body is often the key to designing new pharmaceutical agents (<link>Figure 04_09_OChem-04-98-008_80485-04-18_Tamiflu</link>).</para>
+    <figure class="scaled-down" id="fig-00007">
+    <media alt="An illustration shows structures of “Tamiflu (oseltamivir)”; the molecular structure shows a cyclohexene having its flat side at top and base; the upper left side shows a wedge bond to hydrogen and a dashed bond to pink oxygen that is bonded to a carbon attached to two carbon chains on either sides; the central left position shows a wedge bond to nitrogen that is bonded to hydrogen in an upward side bond and to carbon in a downward side bond that further shows a double bond with pink oxygen and a single bond with the methyl group; the lower side of hexene ring shows a dashed bond to a blue ammonia cation and a wedge bond to hydrogen; the right central position is bonded to a carbon having an angled downward double bond with a pink oxygen and a single bond to another pink oxygen bonded to a two carbon chain. The ball and stick model shows similar structure as the molecular structure; the carbons are represented as grey balls hydrogens as white balls; oxygen atoms as red balls and nitrogen as blue balls.">
+    <image mime-type="image/jpeg" src="../../media/OChem_04_09_008.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The structure of Tamiflu (oseltamivir), an antiviral agent active against type A influenza</emphasis>, along with a molecular model of its minimum-energy conformation as calculated by molecular mechanics.</caption>
+    </figure>
+    </note>
+    <section class="key-terms" id="sect-00002">
+    <list id="list-00001">
+    <item><link document="" target-id="">1,3-diaxial interaction</link></item>
+    <item><link document="" target-id="">alicyclic</link></item>
+    <item><link document="" target-id="">angle strain</link></item>
+    <item><link document="" target-id="">axial position (cyclohexane)</link></item>
+    <item><link document="" target-id="">boat cyclohexane</link></item>
+    <item><link document="" target-id="">Bridgehead atom</link></item>
+    <item><link document="" target-id="">chair conformation</link></item>
+    <item><link document="" target-id="">cis–trans isomers</link></item>
+    <item><link document="" target-id="">conformational analysis</link></item>
+    <item><link document="" target-id="">cycloalkanes</link></item>
+    <item><link document="" target-id="">Equatorial position (cyclohexane)</link></item>
+    <item><link document="" target-id="">polycyclic molecule</link></item>
+    <item><link document="" target-id="">ring-flip (cyclohexane)</link></item>
+    <item><link document="" target-id="">stereoisomer</link></item>
+    <item><link document="" target-id="">steric strain</link></item>
+    <item><link document="" target-id="">torsional strain</link></item>
+    <item><link document="" target-id="">twist-boat conformation</link></item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00003">
+    <title>Summary</title>
+    <para id="para-00014">Cyclic molecules are so commonly encountered throughout organic and biological chemistry that it’s important to understand the consequences of their cyclic structures. Thus, we’ve taken a close look at cyclic structures in this chapter.</para>
+    <para id="para-00015"><emphasis effect="bold">Cycloalkanes</emphasis> are saturated cyclic hydrocarbons with the general formula C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis></sub>. In contrast to open-chain alkanes, where nearly free rotation occurs around C−C bonds, rotation is greatly reduced in cycloalkanes. Disubstituted cycloalkanes can therefore exist as <emphasis effect="bold">cis–trans isomers</emphasis>. The cis isomer has both substituents on the same side of the ring; the trans isomer has substituents on opposite sides. Cis–trans isomers are just one kind of <emphasis effect="bold">stereoisomer</emphasis>—compounds that have the same connections between atoms but different three-dimensional arrangements.</para>
+    <para id="para-00016">Not all cycloalkanes are equally stable. Three kinds of strain contribute to the overall energy of a cycloalkane: (1) <emphasis effect="bold">angle strain</emphasis> is the resistance of a bond angle to compression or expansion from the normal 109° tetrahedral value, (2) torsional strain is the energy cost of having neighboring C−H bonds eclipsed rather than staggered, and (3) steric strain is the repulsive interaction that arises when two groups attempt to occupy the same space.</para>
+    <para id="para-00017">Cyclopropane (115 kJ/mol strain) and cyclobutane (110.4 kJ/mol strain) have both angle strain and torsional strain. Cyclopentane is free of angle strain but has a substantial torsional strain due to its large number of eclipsing interactions. Both cyclobutane and cyclopentane pucker slightly away from planarity to relieve torsional strain.</para>
+    <para id="para-00018">Cyclohexane is strain-free because it adopts a puckered <emphasis effect="bold">chair conformation</emphasis>, in which all bond angles are near 109° and all neighboring C–H bonds are staggered. Chair cyclohexane has two kinds of positions: <emphasis effect="bold">axial</emphasis> and <emphasis effect="bold">equatorial</emphasis>. Axial positions are oriented up and down, parallel to the ring axis, while equatorial positions lie in a belt around the equator of the ring. Each carbon atom has one axial and one equatorial position.</para>
+    <para id="para-00019">Chair cyclohexanes are conformationally mobile and can undergo a <emphasis effect="bold">ring-flip</emphasis>, which interconverts axial and equatorial positions. Substituents on the ring are more stable in the equatorial position because axial substituents cause <emphasis effect="bold">1,3-diaxial interactions</emphasis>. The amount of 1,3-diaxial steric strain caused by an axial substituent depends on its size.</para>
+    </section>
+    <section class="visualizing-chemistry" id="sect-00004">
+    <title>Visualizing Chemistry</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00020"><link class="os-embed" url="#exercise/04-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00021"><link class="os-embed" url="#exercise/04-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00022"><link class="os-embed" url="#exercise/04-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00023"><link class="os-embed" url="#exercise/04-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00024"><link class="os-embed" url="#exercise/04-99-OC-VC05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="additional-problems" id="sect-00005">
+    <title>Additional Problems</title>
+    <para id="para-00025"><emphasis effect="bold"><span class="red-text">Cycloalkane Isomers</span></emphasis></para>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00026"><link class="os-embed" url="#exercise/04-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00027"><link class="os-embed" url="#exercise/04-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00028"><link class="os-embed" url="#exercise/04-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00029"><link class="os-embed" url="#exercise/04-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00030"><link class="os-embed" url="#exercise/04-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00031"><link class="os-embed" url="#exercise/04-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00032"><link class="os-embed" url="#exercise/04-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00033"><emphasis effect="bold"><span class="red-text">Cycloalkane Conformation and Stability</span></emphasis></para>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00034"><link class="os-embed" url="#exercise/04-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00035"><link class="os-embed" url="#exercise/04-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00036"><link class="os-embed" url="#exercise/04-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00037"><link class="os-embed" url="#exercise/04-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00038"><link class="os-embed" url="#exercise/04-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00039"><link class="os-embed" url="#exercise/04-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00040"><link class="os-embed" url="#exercise/04-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00041"><link class="os-embed" url="#exercise/04-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00042"><emphasis effect="bold"><span class="red-text">Cyclohexane Conformational Analysis</span></emphasis></para>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00043"><link class="os-embed" url="#exercise/04-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00044"><link class="os-embed" url="#exercise/04-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00045"><link class="os-embed" url="#exercise/04-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00046"><link class="os-embed" url="#exercise/04-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00047"><link class="os-embed" url="#exercise/04-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00048"><link class="os-embed" url="#exercise/04-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00049"><link class="os-embed" url="#exercise/04-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00050"><link class="os-embed" url="#exercise/04-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00051"><link class="os-embed" url="#exercise/04-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00052"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00053"><link class="os-embed" url="#exercise/04-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00054"><link class="os-embed" url="#exercise/04-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00055"><link class="os-embed" url="#exercise/04-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00056"><link class="os-embed" url="#exercise/04-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00057"><link class="os-embed" url="#exercise/04-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00058"><link class="os-embed" url="#exercise/04-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00059"><link class="os-embed" url="#exercise/04-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00060"><link class="os-embed" url="#exercise/04-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00061"><link class="os-embed" url="#exercise/04-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00062"><link class="os-embed" url="#exercise/04-99-OC-AP34"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00063"><link class="os-embed" url="#exercise/04-99-OC-AP35"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00064"><link class="os-embed" url="#exercise/04-99-OC-AP36"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
