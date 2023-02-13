@@ -19,13 +19,15 @@
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
-    <tbody>
+    <thead>
     <row valign="top">
     <entry valign="top" align="left">Alkane</entry>
     <entry valign="top" align="left">Name</entry>
     <entry valign="top" align="left">Alkyl group</entry>
     <entry valign="top" align="left">Name (abbreviation)</entry>
     </row>
+    </thead>
+    <tbody>
     <row valign="top">
     <entry valign="top" align="left">CH<sub>4</sub></entry>
     <entry valign="top" align="left">Methane</entry>
@@ -66,7 +68,7 @@
     </media>
     <caption>Alkyl groups generated from straight-chain alkanes.</caption>
     </figure>
-    <para id="para-00003">One further comment about naming alkyl groups: the prefixes <emphasis effect="italics">sec</emphasis>- (for secondary) and <emphasis effect="italics">tert</emphasis>- (for tertiary) used for the C<sub>4</sub> alkyl groups in <link target-id="fig-00003"/> refer to the number of other carbon atoms attached to the branching carbon atom. There are four possibilities: primary (1°), secondary (2°), tertiary (3°), and quaternary (4°).</para>
+    <para id="para-00003">One further comment about naming alkyl groups: the prefixes <emphasis effect="italics">sec</emphasis>- (for secondary) and <emphasis effect="italics">tert</emphasis>- (for tertiary) used for the C<sub>4</sub> alkyl groups in <link target-id="fig-00002"/> refer to the number of other carbon atoms attached to the branching carbon atom. There are four possibilities: primary (1°), secondary (2°), tertiary (3°), and quaternary (4°).</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="An illustration shows four ways of naming alkyl groups. The carbons shown in the groups are colored pink and the R are colored blue. The first group labeled as “Primary carbon (1 degree) is bonded to one other carbon” shows a centrally located carbon bonded to R on the upper left side and three hydrogen atoms are shown bonded on three sides. The second group labeled as “Secondary carbon (two degree) is bonded to three other carbons” shows a centrally located carbon bonded to two R and two hydrogen atoms. The third group labeled as “Tertiary carbon (three degree) is bonded to three other carbons” shows a centrally located carbon bonded to three R and one hydrogen atom. The fourth group “Quaternary carbon (four degree) is bonded to four other carbons” shows a centrally located carbon bonded to four R.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_03_003.jpg"/>
