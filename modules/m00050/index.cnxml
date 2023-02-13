@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Enantiomers and the Tetrahedral Carbon</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Enantiomers and the Tetrahedral Carbon</md:title>
+    <md:content-id>m00050</md:content-id>
+    <md:uuid>771c5ffe-5153-43a8-b272-8d9dff4782a4</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">What causes molecular handedness? Look at generalized molecules of the type CH<sub>3</sub>X, CH<sub>2</sub>XY, and CHXYZ shown in <link>Figure 05_01_OChem-05-01-001_80485-05-01_CH3XMirror</link>. On the left are three molecules, and on the right are their images reflected in a mirror. The CH<sub>3</sub>X and CH<sub>2</sub>XY molecules are identical to their mirror images and thus are not handed. If you make a molecular model of each molecule and its mirror image, you find that you can superimpose one on the other so that all atoms coincide. The CHXYZ molecule, by contrast, is not identical to its mirror image. You can’t superimpose a model of this molecule on a model of its mirror image for the same reason that you can’t superimpose a left hand on a right hand: they simply aren’t the same.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the structural formulas and ball-and-stick models of three molecules: CH3X CH2XY and CHXYZ. The structural formula of CH3X shows a carbon bonded to X at the top. The carbon is single bonded to a hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen. The structural formula of CH2XY shows a carbon bonded to X at the top. The carbon is single bonded to a hydrogen dash bonded to Y and wedge bonded to a hydrogen. The structural formula of CHXYZ shows a carbon bonded to X at the top. The carbon is single bonded to a hydrogen dash bonded to Y and wedge bonded to Z. The ball-and-stick models show gray balls (carbon atoms) white balls (hydrogen atoms) red balls (X) blue balls (Y) and yellow balls (Z). The mirror images of the ball-and-stick models are also shown.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_01_001.jpg"/>
+    </media>
+    <caption>Tetrahedral carbon atoms and their mirror images. Molecules of the type CH<sub>3</sub>X and CH2XY are identical to their mirror images, but a molecule of the type CHXYZ is not. A CHXYZ molecule is related to its mirror image in the same way a right hand is related to a left hand.</caption>
+    </figure>
+    <para id="para-00002">A molecule that is not identical to its mirror image is a kind of stereoisomer (<link>Section 4.2</link>) called an <term id="term-00001"><emphasis effect="bold">enantiomer</emphasis></term> (e-nan-tee-oh-mer, from the Greek enantio<emphasis effect="italics">,</emphasis> meaning “opposite”). Enantiomers are related to each other as a right hand is related to a left hand and result whenever a tetrahedral carbon is bonded to four different substituents (one need not be H). For example, lactic acid (2-hydroxypropanoic acid) exists as a pair of enantiomers because there are four different groups ( − H,  − OH,  − CH<sub>3</sub>,  − CO<sub>2</sub>H) bonded to the central carbon atom. The enantiomers are called (+)-lactic acid and (−)-lactic acid. Both are found in sour milk, but only the (+) enantiomer occurs in muscle tissue.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structural formulas and ball-and-stick models of lactic acid. In the first row the first structure shows a carbon bonded to a hydrogen hydroxyl group methyl group and carboxyl group. The second structure shows a carbon bonded to a hydrogen X Y and Z. Text reads: Lactic acid: a molecule of the general formula CHXYZ. In the second row (plus)-Lactic acid shows a carbon bonded to a hydrogen at the top dash bonded to a hydroxyl group on the left carboxyl group on the right and wedge bonded to a methyl group at the bottom. A mirror image is shown next to it. (Minus)-Lactic acid shown next is the mirror image of (plus)-Lactic acid. The ball-and-stick models show gray balls (carbon atom and hydrogen atom) red balls (hydroxyl group) green balls (carboxyl group) and blue balls (methyl group).">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_01_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">No matter how hard you try, you can’t superimpose a molecule of (+)-lactic acid on a molecule of (−)-lactic acid. If any two groups match up, say  − H and  − CO<sub>2</sub>H, the remaining two groups don’t match (<link>Figure 05_01_OChem-05-01-003_80485-05-02_Mismatch</link>).</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows two structures each showing two molecules of lactic acid. The first structure shows two carbon atoms each bonded to a hydrogen hydroxyl group methyl group and carboxyl group. An arrow pointing to the methyl group of the first molecule and carboxyl group of the second molecule reads: Mismatch. Another arrow pointing to the carboxyl group of the first molecule and methyl group of the second molecule reads: Mismatch. The second structure shows two carbon atoms each bonded to a hydrogen hydroxyl group methyl group and carboxyl group. An arrow pointing to the hydroxyl group of the first molecule and hydrogen of the second molecule reads: Mismatch. Another arrow pointing to the hydrogen of the first molecule and hydroxyl group of the second molecule reads: Mismatch.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_01_003.jpg"/>
+    </media>
+    <caption>Attempts at superimposing the mirror-image forms of lactic acid. <emphasis effect="bold">(a)</emphasis> When the  − H and  − OH substituents match up, the  − CO<sub>2</sub>H and  − CH<sub>3</sub> substituents don’t; <emphasis effect="bold">(b)</emphasis> when  − CO<sub>2</sub>H and  − CH<sub>3</sub> match up,  − H and  − OH don’t. Regardless of how the molecules are oriented, they aren’t identical.</caption>
+    </figure>
+    </content>
+</document>
