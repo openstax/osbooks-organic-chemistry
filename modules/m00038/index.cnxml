@@ -50,13 +50,13 @@
     <colspec colnum="4" colname="c4"/>
     <tbody>
     <row valign="top">
-    <entry valign="top" align="left" morerows="1">Interaction</entry>
-    <entry valign="top" align="left" morerows="1">Cause</entry>
-    <entry valign="top" align="left" namest="c3" nameend="c4">Energy cost</entry>
+    <entry valign="bottom" align="left" morerows="1">Interaction</entry>
+    <entry valign="bottom" align="left" morerows="1">Cause</entry>
+    <entry valign="bottom" align="left" namest="c3" nameend="c4">Energy cost</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left">(kJ/mol)</entry>
-    <entry valign="top" align="left">(kcal/mol)</entry>
+    <entry valign="bottom" align="left">(kJ/mol)</entry>
+    <entry valign="bottom" align="left">(kcal/mol)</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">H ↔舁H eclipsed</entry>
