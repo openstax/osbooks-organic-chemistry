@@ -6,7 +6,7 @@
     <md:uuid>30d6fe6d-9c57-4028-827c-e2ba91c46bd2</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">If you imagine removing a hydrogen atom from an alkane, the partial structure that remains is called an <term id="term-00001"><emphasis effect="bold">alkyl group</emphasis></term>. Alkyl groups are not stable compounds themselves, they are simply parts of larger compounds and are named by replacing the -<emphasis effect="italics">ane</emphasis> ending of the parent alkane with an -<emphasis effect="italics">yl</emphasis> ending. For example, removal of a hydrogen from methane, CH<sub>4</sub>, generates a methyl group, &#8201;–&#8201;CH<sub>3</sub>, and removal of a hydrogen from ethane, CH<sub>3</sub>CH<sub>3</sub>, generates an ethyl group, &#8201;–&#8201;CH<sub>2</sub>CH<sub>3</sub>. Similarly, removal of a hydrogen atom from the end carbon of any straight-chain alkane gives the series of straight-chain alkyl groups shown in <link target-id="table-00001"/>. Combining an alkyl group with any of the functional groups listed earlier makes it possible to generate and name many thousands of compounds. For example:</para>
+    <para id="para-00001">If you imagine removing a hydrogen atom from an alkane, the partial structure that remains is called an <term id="term-00001"><emphasis effect="bold">alkyl group</emphasis></term>. Alkyl groups are not stable compounds themselves, they are simply parts of larger compounds and are named by replacing the -<emphasis effect="italics">ane</emphasis> ending of the parent alkane with an -<emphasis effect="italics">yl</emphasis> ending. For example, removal of a hydrogen from methane, CH<sub>4</sub>, generates a methyl group, &#8201;<span class="magenta-text">–</span>&#8201;CH<sub>3</sub>, and removal of a hydrogen from ethane, CH<sub>3</sub>CH<sub>3</sub>, generates an ethyl group, &#8201;<span class="magenta-text">–</span>&#8201;CH<sub>2</sub>CH<sub>3</sub>. Similarly, removal of a hydrogen atom from the end carbon of any straight-chain alkane gives the series of straight-chain alkyl groups shown in <link target-id="table-00001"/>. Combining an alkyl group with any of the functional groups listed earlier makes it possible to generate and name many thousands of compounds. For example:</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows four molecular structures and their corresponding ball-and-stick models. The first structure “methane” shows a centrally located carbon bonded to four hydrogen atoms; the ball-and-stick model shows a centrally located carbon bonded to four hydrogens; the grey balls denote carbon atoms and white balls denote hydrogen atoms. The second structure “a methyl group” shows a centrally located carbon bonded to three hydrogen atoms and a fourth open bond intersected by a short pink spiral line; the ball-and-stick model shows carbon bonded to three hydrogens and the fourth bond being cut off by a short pink spiral line. The third structure “methyl alcohol (methanol)” shows a centrally located carbon bonded to three hydrogen atoms on three sides and an oxygen written in pink color shown to its right the oxygen is bonded to hydrogen; the ball-and-stick model shows a carbon bonded to three hydrogens and to its right is shown a red ball representing an oxygen bonded to a hydrogen. The fourth structure “methylamine” shows a carbon bonded to three hydrogen atoms the carbon is further bonded to a nitrogen written in blue color having a downward and a side bond with hydrogen; the ball and stick model shows a carbon bonded to three hydrogens the carbon is bonded to a blue ball representing nitrogen that is bonded to two hydrogens.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_03_001.jpg"/>
@@ -31,31 +31,31 @@
     <row valign="top">
     <entry valign="top" align="left">CH<sub>4</sub></entry>
     <entry valign="top" align="left">Methane</entry>
-    <entry valign="top" align="left">– CH<sub>3</sub></entry>
+    <entry valign="top" align="left"><span class="magenta-text">–</span> CH<sub>3</sub></entry>
     <entry valign="top" align="left">Methyl (Me)</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">CH<sub>3</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Ethane</entry>
-    <entry valign="top" align="left">–&#8201;CH<sub>2</sub>CH<sub>3</sub></entry>
+    <entry valign="top" align="left"><span class="magenta-text">–</span>&#8201;CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Ethyl (Et)</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Propane</entry>
-    <entry valign="top" align="left">–&#8201;CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+    <entry valign="top" align="left"><span class="magenta-text">–</span>&#8201;CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Propyl (Pr)</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Butane</entry>
-    <entry valign="top" align="left">–&#8201;CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+    <entry valign="top" align="left"><span class="magenta-text">–</span>&#8201;CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Butyl (Bu)</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Pentane</entry>
-    <entry valign="top" align="left">–&#8201;CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+    <entry valign="top" align="left"><span class="magenta-text">–</span>&#8201;CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Pentyl, or amyl</entry>
     </row>
     </tbody>
@@ -75,7 +75,7 @@
     </media>
     </figure>
     <para id="para-00004">The symbol <emphasis effect="bold">R</emphasis> is used here and throughout organic chemistry to represent a generalized organic group. The <term id="term-00002"><emphasis effect="bold">R group</emphasis></term> can be methyl, ethyl, propyl, or any of a multitude of others. You might think of <emphasis effect="bold">R</emphasis> as representing the <emphasis effect="bold">R</emphasis>est of the molecule, which isn’t specified.</para>
-    <para id="para-00005">The terms <emphasis effect="italics">primary, secondary, tertiary,</emphasis> and <emphasis effect="italics">quaternary</emphasis> are routinely used in organic chemistry, and their meanings need to become second nature. For example, if we were to say, “Citric acid is a tertiary alcohol,” we would mean that it has an alcohol functional group (&#8201;–&#8201;OH) bonded to a carbon atom that is itself bonded to three other carbons.</para>
+    <para id="para-00005">The terms <emphasis effect="italics">primary, secondary, tertiary,</emphasis> and <emphasis effect="italics">quaternary</emphasis> are routinely used in organic chemistry, and their meanings need to become second nature. For example, if we were to say, “Citric acid is a tertiary alcohol,” we would mean that it has an alcohol functional group (&#8201;<span class="magenta-text">–</span>&#8201;OH) bonded to a carbon atom that is itself bonded to three other carbons.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00004">
     <media alt="An illustration shows two structures. The first structure labeled as “General class of tertiary alcohols R3COH” shows a centrally located carbon having an upward bond with a hydroxyl group written in pink and three bonds with R written in blue. The second structure labeled as “Citric acid - a specific tertiary alcohol” shows a centrally located carbon having an upward bond with a hydroxyl group written in pink; the three groups bonded on other three sides are shown in blue; a group comprising of a methylene group bonded to a carbon dioxide bonded to hydrogen are shown on both left and right sides of carbon; the carbon shows a downward bond with bicarbonate HCO2.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_03_004.jpg"/>
