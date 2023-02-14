@@ -34,7 +34,7 @@
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
     <colspec colnum="5" colname="c5"/>
-    <tbody>
+    <thead>
     <row valign="top">
     <entry valign="top" align="left">Stereoisomer</entry>
     <entry valign="top" align="left">Melting point (<emphasis effect="bold">°</emphasis>C)</entry>
@@ -42,6 +42,8 @@
     <entry valign="top" align="left">Density (g/cm<sup>3</sup>)</entry>
     <entry valign="top" align="left">Solubility at 20 <emphasis effect="bold">°</emphasis>C<newline/>(g/100 mL H<sub>2</sub>O)</entry>
     </row>
+    </thead>
+    <tbody>
     <row valign="top">
     <entry valign="top" align="left">(+)</entry>
     <entry valign="top" align="left">168–170</entry>

@@ -22,12 +22,14 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
-    <tbody>
+    <thead>
     <row valign="top">
     <entry valign="top" align="left">Stereoisomer</entry>
     <entry valign="top" align="left">Enantiomer</entry>
     <entry valign="top" align="left">Diastereomer</entry>
     </row>
+    </thead>
+    <tbody>
     <row valign="top">
     <entry valign="top" align="left">2<emphasis effect="italics"><span class="magenta-text">R</span></emphasis>,3<emphasis effect="italics"><span class="magenta-text">R</span></emphasis></entry>
     <entry valign="top" align="left">2<emphasis effect="italics"><span class="cyan-text">S</span></emphasis>,3<emphasis effect="italics"><span class="cyan-text">S</span></emphasis></entry>
