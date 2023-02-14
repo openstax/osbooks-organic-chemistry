@@ -1,6 +1,5 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:content-id>col12345</md:content-id>
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
@@ -89,6 +88,12 @@
         <col:module document="m00059"/>
         <col:module document="m00060"/>
         <col:module document="m00061"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Alkenes: Structure and Reactivity</md:title>
+      <col:content>
+        <col:module document="m00062"/>
       </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
