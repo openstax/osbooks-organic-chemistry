@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Industrial Preparation and Use of Alkenes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Industrial Preparation and Use of Alkenes</md:title>
+    <md:content-id>m00063</md:content-id>
+    <md:uuid>8583e724-fe5a-4162-8a9d-82a9a94e1af1</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Ethylene and propylene, the simplest alkenes, are the two most important organic chemicals produced industrially. Approximately 220 million tons of ethylene and 138 million tons of propylene are produced worldwide each year for use in the synthesis of polyethylene, polypropylene, ethylene glycol, acetic acid, acetaldehyde, and a host of other substances (<link>Figure 07_01_OChem-07-01-001_80485-07-01_EthylPropy</link>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the products of Ethylene: Ethanol (CH3CH2OH) Ethylene glycol (HOCH2CH2OH) Ethylene dichloride (ClCH2CH2Cl) Acetaldehyde (CH3CHO) Acetic acid (CH3COOH) Ethylene oxide (CH2OCH2) Vinyl acetate (CH2CHOCOCH3 a double bond is shown between CH2 and CHO) Polyethylene (n units of CH2CH2) Vinyl chloride (CH2CHCl a double bond is between CH2 and CH). the products of Propylene (propene) are Isopropyl alcohol (CH3CHOHCH3) Propylene oxide (CH2OCHCH3) Polypropylene (n units of CH2CHCH3) and Cumene. Ethylene shows two methylene groups double bonded. Propene shows a methylene group double bonded to a carbon bonded to hydrogen and methyl group. cumene shows a benzene bonded to a carbon that is bonded to hydrogen and two methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_01_001.jpg"/>
+    </media>
+    <caption>Compounds derived industrially from ethylene and propylene.</caption>
+    </figure>
+    <para id="para-00002">Ethylene, propylene, and butene are synthesized from (C<sub>2</sub>–C<sub>8</sub>) alkanes by a process called <emphasis effect="italics">steam cracking</emphasis> at temperatures up to 900 °C.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the steam cracking of an alkane at 850 to 900 degree C. The alkane shows a methyl group bonded to n methylene groups and a methyl group. n is 0 to 6. the products are hydrogen ethylene propylene and butene. Propylene shows a methylene group double bonded to a carbon bonded to hydrogen and methyl group. Butene shows a methylene group double bonded to a methine group bonded to ethyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_01_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">The cracking process is complex, although it undoubtedly involves radical reactions. The high-temperature reaction conditions cause spontaneous breaking of C − C and C − H bonds, with the resultant formation of smaller fragments. We might imagine, for instance, that a molecule of butane splits into two ethyl radicals, each of which then loses a hydrogen atom to generate two molecules of ethylene.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the steam cracking of a butane at 900 degree C to produce two ethyl radicals that produce two ethylene molecules and hydrogen. The butane shows a methyl group bonded to 2 methylene groups and then a methyl group. two arrows from the C2-C3 bond point outward. The ethyl radical shows a methyl group bonded to a methylene group. The carbon of methylene group shows an electron. ethylene shows two methylene groups double bonded.">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_01_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Steam cracking is an example of a reaction whose energetics are dominated by entropy (Δ<emphasis effect="italics">S</emphasis>°) rather than by enthalpy (Δ<emphasis effect="italics">H</emphasis>°) in the free-energy equation Δ<emphasis effect="italics">G</emphasis>° = Δ<emphasis effect="italics">H</emphasis>° − <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>° discussed in <link>Section 6.7</link>. Although the bond dissociation energy <emphasis effect="italics">D</emphasis> for a carbon–carbon single bond is relatively high (about 370 kJ/mol) and cracking is endothermic, the large positive entropy change resulting from the fragmentation of one large molecule into several smaller pieces, together with the high temperature, makes the <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>° term larger than the Δ<emphasis effect="italics">H</emphasis>° term, thereby favoring the cracking reaction.</para>
+    </content>
+</document>
