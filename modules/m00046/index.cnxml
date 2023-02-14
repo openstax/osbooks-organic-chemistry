@@ -21,7 +21,7 @@
     </media>
     <caption>Interconversion of axial and equatorial methylcyclohexane, represented in several formats. The equatorial conformation is more stable than the axial conformation by 7.6 kJ/mol.</caption>
     </figure>
-    <para id="para-00004">The 1,3-diaxial steric strain in substituted methylcyclohexane is already familiar—we saw it previously as the steric strain between methyl groups in gauche in 3.7 <link document="m00038"/>). Gauche butane is less stable than anti butane by 3.8 kJ/mol (0.9 kcal/mol) because of steric interference between hydrogen atoms on the two methyl groups. Comparing a four-carbon fragment of axial methylcyclohexane with gauche butane shows that the steric interaction is the same in both (<link target-id="fig-00003"/>). Because axial methylcyclohexane has two such interactions, it has 2 × 3.8 = 7.6 kJ/mol of steric strain. Equatorial methylcyclohexane has no such interactions and is therefore more stable.</para>
+    <para id="para-00004">The 1,3-diaxial steric strain in substituted methylcyclohexane is already familiar—we saw it previously as the steric strain between methyl groups in gauche in <link document="m00038"/>). Gauche butane is less stable than anti butane by 3.8 kJ/mol (0.9 kcal/mol) because of steric interference between hydrogen atoms on the two methyl groups. Comparing a four-carbon fragment of axial methylcyclohexane with gauche butane shows that the steric interaction is the same in both (<link target-id="fig-00003"/>). Because axial methylcyclohexane has two such interactions, it has 2 × 3.8 = 7.6 kJ/mol of steric strain. Equatorial methylcyclohexane has no such interactions and is therefore more stable.</para>
     <figure class="scaled-down" id="fig-00003">
     <media alt="An illustration shows two parts each containing two structures. The first part shows a Newman projection labeled as “Gauche butane (3.8 kJ/mol) having a darkened tripod with a pink methyl group bonded at the top and two green hydrogens bonded to the base; the center of tripod is shown encircled; an inverted lighter tripod shows bond to a pink methyl group at the left blue hydrogens at the right side and base. The ball and stick structure shows four grey balls representing carbon atoms; the left side and upper carbons are bonded to three red balls; the carbon at the front is bonded to two green hydrogens whereas the overlapping carbon beneath shows bonds to two blue hydrogens. The second part of the illustration shows a ball and stick model having three grey balls denoting carbons forming the dome of a triangle; the carbon at left side shows an upward bond with red ball denoting hydrogen and three side bonds with green balls denoting hydrogens; the central carbon shows an upward bond to red ball; the carbon at right side is shown bonded to two blue and one green hydrogen; the right side carbon further shares an upward bond with another carbon bonded to three red hydrogens; a green ball denoting hydrogen shares a downward bond with another green ball. The Newman projection labeled as “axial methylcyclohexane (7.6 kJ/mol strain) shows two darkened tripods with joined arms and encircled centers; the darkened tripods are intersected by inverted lighter tripods; the upper bond of left side darkened tripod shows a pink hydrogen; the upper bond of the right side darkened tripod shows a pink methyl group; the lower left side and right side arms of the darkened tripods are bonded to green hydrogens; the fusion point of darkened tripod arms shows a downward bond with green hydrogen; the lighter tripod at the left side shows bonds to two green hydrogens and the lighter tripod at the right side shows bonds to two blue hydrogens; the upward arms of lighter tripods are fused at a point that shows an upward bond with a pink hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_07_003.jpg"/>
@@ -36,10 +36,10 @@
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
-    <tbody>
+    <thead>
     <row valign="top">
-    <entry valign="top" align="left" morerows="1"><emphasis effect="bold"><span class="magenta-text">Y</span></emphasis></entry>
-    <entry valign="top" align="left" namest="c2" nameend="c3"><emphasis effect="bold">1,3-Diaxial strain</emphasis></entry>
+    <entry valign="top" align="left" morerows="1"><span class="magenta-text">Y</span></entry>
+    <entry valign="top" align="left" namest="c2" nameend="c3">1,3-Diaxial strain</entry>
     <entry valign="top" align="left" morerows="1">
     <figure class="unnumbered scaled-down-30" id="fig-00004">
     <media alt="">
@@ -49,9 +49,11 @@
     </entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left"><emphasis effect="bold">(kJ/mol)</emphasis></entry>
-    <entry valign="top" align="left"><emphasis effect="bold">(kcal/mol)</emphasis></entry>
+    <entry valign="top" align="left">(kJ/mol)</entry>
+    <entry valign="top" align="left">(kcal/mol)</entry>
     </row>
+    </thead>
+    <tbody>
     <row valign="top">
     <entry valign="top" align="left">F</entry>
     <entry valign="top" align="left">0.63</entry>
