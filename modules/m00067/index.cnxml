@@ -6,65 +6,65 @@
     <md:uuid>a5199b87-0559-4803-af5c-a5ca1a0f7968</md:uuid>
   </metadata>
   <content>
-    <para>The cis&#8211;trans naming system used in the previous section works only with disubstituted alkenes&#8212;compounds that have two substituents other than hydrogen on the double bond. With trisubstituted and tetrasubstituted double bonds, a more general method is needed for describing double-bond geometry. (<emphasis effect="italics">Trisubstituted</emphasis> means three substituents other than hydrogen on the double bond; <emphasis effect="italics">tetrasubstituted</emphasis> means four substituents other than hydrogen.)</para>
-    <para>The method used for describing alkene stereochemistry is called the <term><emphasis effect="bold"><emphasis effect="italics">E,Z</emphasis> system</emphasis></term> and employs the same Cahn&#8211;Ingold&#8211;Prelog sequence rules given in <link>Section 5.5</link> for specifying the configuration of a chirality center. Let&#8217;s briefly review the sequence rules and then see how they&#8217;re used to specify double-bond geometry. For a more thorough review, reread <link>Section 5.5</link>.</para>
-    <para><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis> Considering each of the double-bond carbons separately, look at the two substituents attached and rank them according to the atomic number of the first atom in each (8 for oxygen, 6 for carbon, 1 for hydrogen, and so forth). An atom with higher atomic number ranks higher than an atom with lower atomic number.</para>
-    <para><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis> If a decision can&#8217;t be reached by ranking the first atoms in the two substituents, look at the second, third, or fourth atoms away from the double-bond until the first difference is found.</para>
-    <para><emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis> Multiple-bonded atoms are equivalent to the same number of single-bonded atoms.</para>
-    <para>Once the two groups attached to each double-bonded carbon have been ranked as either higher or lower, look at the entire molecule. If the higher-ranked groups on each carbon are on the same side of the double bond, the alkene is said to have a <term><emphasis effect="bold"><emphasis effect="italics">Z</emphasis> configuration</emphasis></term>, for the German <emphasis effect="italics">zusammen,</emphasis> meaning &#8220;together.&#8221; If the higher-ranked groups are on opposite sides, the alkene has an <term><emphasis effect="bold"><emphasis effect="italics">E</emphasis> configuration</emphasis></term>, for the German <emphasis effect="italics">entgegen,</emphasis> meaning &#8220;opposite.&#8221; (For a simple way to remember which is which, note that the groups are on &#8220;ze zame zide&#8221; in the <emphasis effect="italics">Z</emphasis> isomer.)</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00001">The cis–trans naming system used in the previous section works only with disubstituted alkenes—compounds that have two substituents other than hydrogen on the double bond. With trisubstituted and tetrasubstituted double bonds, a more general method is needed for describing double-bond geometry. (<emphasis effect="italics">Trisubstituted</emphasis> means three substituents other than hydrogen on the double bond; <emphasis effect="italics">tetrasubstituted</emphasis> means four substituents other than hydrogen.)</para>
+    <para id="para-00002">The method used for describing alkene stereochemistry is called the <term id="term-00001"><emphasis effect="bold"><emphasis effect="italics">E,Z</emphasis> system</emphasis></term> and employs the same Cahn–Ingold–Prelog sequence rules given in <link>Section 5.5</link> for specifying the configuration of a chirality center. Let’s briefly review the sequence rules and then see how they’re used to specify double-bond geometry. For a more thorough review, reread <link>Section 5.5</link>.</para>
+    <para id="para-00003"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis> Considering each of the double-bond carbons separately, look at the two substituents attached and rank them according to the atomic number of the first atom in each (8 for oxygen, 6 for carbon, 1 for hydrogen, and so forth). An atom with higher atomic number ranks higher than an atom with lower atomic number.</para>
+    <para id="para-00004"><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis> If a decision can’t be reached by ranking the first atoms in the two substituents, look at the second, third, or fourth atoms away from the double-bond until the first difference is found.</para>
+    <para id="para-00005"><emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis> Multiple-bonded atoms are equivalent to the same number of single-bonded atoms.</para>
+    <para id="para-00006">Once the two groups attached to each double-bonded carbon have been ranked as either higher or lower, look at the entire molecule. If the higher-ranked groups on each carbon are on the same side of the double bond, the alkene is said to have a <term id="term-00002"><emphasis effect="bold"><emphasis effect="italics">Z</emphasis> configuration</emphasis></term>, for the German <emphasis effect="italics">zusammen,</emphasis> meaning “together.” If the higher-ranked groups are on opposite sides, the alkene has an <term id="term-00003"><emphasis effect="bold"><emphasis effect="italics">E</emphasis> configuration</emphasis></term>, for the German <emphasis effect="italics">entgegen,</emphasis> meaning “opposite.” (For a simple way to remember which is which, note that the groups are on “ze zame zide” in the <emphasis effect="italics">Z</emphasis> isomer.)</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows the structures of two compounds. The first compound shows two carbons double bonded; the first carbon is bonded to lower group at the top and higher group at the bottom. The second carbon is bonded to higher group at the top and lower group at the bottom. Text reads: E double bond (Higher-ranked groups are on opposite sides.) The second compound shows two carbons double bonded; each carbon is bonded to higher group at the top and lower group at the bottom. Text reads: Z double bond (Higher-ranked groups are on the same side.)">
     <image mime-type="image/jpeg" src="../../media/OChem_07_05_001.jpg"/>
     </media>
     </figure>
-    <para>As an example, look at the following two isomers of 2-chloro-2-butene. Because chlorine has a higher atomic number than carbon, a  &#8722; Cl substituent is ranked higher than a  &#8722; CH<sub>3</sub> group. Methyl is ranked higher than hydrogen, however, so isomer <emphasis effect="bold">(a)</emphasis> is designated <emphasis effect="italics">E</emphasis> because the higher-ranked groups are on opposite sides of the double bond. Isomer <emphasis effect="bold">(b)</emphasis> has a <emphasis effect="italics">Z</emphasis> configuration because its higher-ranked groups are on ze zame zide of the double bond.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00007">As an example, look at the following two isomers of 2-chloro-2-butene. Because chlorine has a higher atomic number than carbon, a  − Cl substituent is ranked higher than a  − CH<sub>3</sub> group. Methyl is ranked higher than hydrogen, however, so isomer <emphasis effect="bold">(a)</emphasis> is designated <emphasis effect="italics">E</emphasis> because the higher-ranked groups are on opposite sides of the double bond. Isomer <emphasis effect="bold">(b)</emphasis> has a <emphasis effect="italics">Z</emphasis> configuration because its higher-ranked groups are on ze zame zide of the double bond.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="An illustration shows the structures of (E)-2-Chloro-2-butene and (Z)-2-Chloro-2-butene. (E)-2-Chloro-2-butene shows two carbons double bonded; the first carbon is bonded to hydrogen at the top (low rank) and methyl group (high rank) at the bottom. The second carbon is bonded to chlorine (high rank) at the top and methyl group (low rank) at the bottom.(z)-2-Chloro-2-butene is similar to the first structure but the second carbon is bonded to methyl group (low rank) at the top and chlorine (high rank) at the bottom.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_05_002.jpg"/>
     </media>
     </figure>
-    <para>For further practice, work through each of the following examples to convince yourself that the assignments are correct:</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00008">For further practice, work through each of the following examples to convince yourself that the assignments are correct:</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="An illustration shows the structures of (E)-3-Methyl-1 3-pentadiene (E)-1-Bromo-2-isopropyl-1 3-butadiene and (Z)-2-Hydroxymethyl-2-butenoic acid. (E)-3-Methyl-1 3-pentadiene shows two carbons double bonded. The first carbon is bonded to a hydrogen and methyl group. The second carbon is bonded to methyl group and a methine double bonded to methylene group. (E)-1-Bromo-2-isopropyl-1 3-butadiene shows two carbons double bonded. The first carbon is bonded to two methine groups. One methine is double bonded to methylene group and another is bonded to two methyl groups. (Z)-2-Hydroxymethyl-2-butenoic acid shows two carbons double bonded. The first carbon is bonded to a hydrogen and methyl group. The second carbon is bonded to hydroxy methyl group and carboxyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_05_003.jpg"/>
     </media>
     </figure>
-    <example>
+    <example id="exam-00001">
     <title>Assigning <emphasis effect="italics">E</emphasis> and <emphasis effect="italics">Z</emphasis> Configurations to Alkenes</title>
-    <para>Assign <emphasis effect="italics">E</emphasis> or <emphasis effect="italics">Z</emphasis> configuration to the double bond in the following compound:</para>
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00009">Assign <emphasis effect="italics">E</emphasis> or <emphasis effect="italics">Z</emphasis> configuration to the double bond in the following compound:</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00004">
     <media alt="An illustration shows the structure of a compound. it shows two carbons double bonded. The first carbon is bonded to a hydrogen and methyl group. The second carbon is bonded to a hydroxy methyl group and methine group bonded to two methyl groups.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_05_004.jpg"/>
     </media>
     </figure>
-    <para><title><span class="red-text">Strategy</span></title> Look at the two substituents connected to each double-bonded carbon, and determine their ranking using the Cahn&#8211;Ingold&#8211;Prelog rules. Then, check whether the two higher-ranked groups are on the same or opposite sides of the double bond.</para>
-    <para><title><span class="cyan-text">Solution</span></title> The left-hand carbon has  &#8722; H and  &#8722; CH<sub>3</sub> substituents, of which  &#8722; CH<sub>3</sub> ranks higher by sequence rule 1. The right-hand carbon has  &#8722; CH(CH<sub>3</sub>)<sub>2</sub> and  &#8722; CH<sub>2</sub>OH substituents, which are equivalent by rule 1. By rule 2, however,  &#8722; CH<sub>2</sub>OH ranks higher than  &#8722; CH(CH<sub>3</sub>)<sub>2</sub> because the substituent  &#8722; CH<sub>2</sub>OH has an oxygen as its highest second atom, but  &#8722; CH(CH<sub>3</sub>)<sub>2</sub> has a carbon as its highest second atom. The two higher-ranked groups are on the same side of the double bond, so we assign a <emphasis effect="italics">Z</emphasis> configuration.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00010"><title><span class="red-text">Strategy</span></title> Look at the two substituents connected to each double-bonded carbon, and determine their ranking using the Cahn–Ingold–Prelog rules. Then, check whether the two higher-ranked groups are on the same or opposite sides of the double bond.</para>
+    <para id="para-00011"><title><span class="cyan-text">Solution</span></title> The left-hand carbon has  − H and  − CH<sub>3</sub> substituents, of which  − CH<sub>3</sub> ranks higher by sequence rule 1. The right-hand carbon has  − CH(CH<sub>3</sub>)<sub>2</sub> and  − CH<sub>2</sub>OH substituents, which are equivalent by rule 1. By rule 2, however,  − CH<sub>2</sub>OH ranks higher than  − CH(CH<sub>3</sub>)<sub>2</sub> because the substituent  − CH<sub>2</sub>OH has an oxygen as its highest second atom, but  − CH(CH<sub>3</sub>)<sub>2</sub> has a carbon as its highest second atom. The two higher-ranked groups are on the same side of the double bond, so we assign a <emphasis effect="italics">Z</emphasis> configuration.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows the Z configuration of a compound. It shows two carbons double bonded. The first carbon is bonded to a hydrogen at the top (low) and methyl group at the bottom (high). The second carbon is bonded to a hydroxy methyl group (high) at the bottom (text reads: O H H bonded to this carbon) and methine group bonded to two methyl groups (low) at the top (text reads: C C H bonded to this carbon).">
     <image mime-type="image/jpeg" src="../../media/OChem_07_05_005.jpg"/>
     </media>
     </figure>
     </example>
-    <section class="section-exercises">
+    <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-05-OC-P11"/></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00012"><link class="os-embed" url="#exercise/07-05-OC-P11"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-05-OC-P12"/></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00013"><link class="os-embed" url="#exercise/07-05-OC-P12"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-05-OC-P13"/></para>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00014"><link class="os-embed" url="#exercise/07-05-OC-P13"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-05-OC-P14"/></para>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00015"><link class="os-embed" url="#exercise/07-05-OC-P14"/></para>
     </problem>
     </exercise>
     </section>

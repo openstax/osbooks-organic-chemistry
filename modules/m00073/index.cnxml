@@ -6,62 +6,62 @@
     <md:uuid>1b32e2c3-3422-4dc2-8e58-edbfa055e1f5</md:uuid>
   </metadata>
   <content>
-    <para>How do we know that the carbocation mechanism for electrophilic addition reactions of alkenes is correct? The answer is that we <emphasis effect="italics">don&#8217;t</emphasis> know it&#8217;s correct; at least we don&#8217;t know with complete certainty. Although an incorrect reaction mechanism can be disproved by demonstrating that it doesn&#8217;t account for observed data, a correct reaction mechanism can never be entirely proven. The best we can do is to show that a proposed mechanism is consistent with all known facts. If enough facts are accounted for, the mechanism is probably correct.</para>
-    <para>One of the best pieces of evidence supporting the carbocation mechanism for the electrophilic addition reaction was discovered during the 1930s by F. C. Whitmore of Pennsylvania State University, who found that structural rearrangements often occur during the reaction of HX with an alkene. For example, reaction of HCl with 3-methyl-1-butene yields a substantial amount of 2-chloro-2-methylbutane in addition to the &#8220;expected&#8221; product, 2-chloro-3-methylbutane.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00001">How do we know that the carbocation mechanism for electrophilic addition reactions of alkenes is correct? The answer is that we <emphasis effect="italics">don’t</emphasis> know it’s correct; at least we don’t know with complete certainty. Although an incorrect reaction mechanism can be disproved by demonstrating that it doesn’t account for observed data, a correct reaction mechanism can never be entirely proven. The best we can do is to show that a proposed mechanism is consistent with all known facts. If enough facts are accounted for, the mechanism is probably correct.</para>
+    <para id="para-00002">One of the best pieces of evidence supporting the carbocation mechanism for the electrophilic addition reaction was discovered during the 1930s by F. C. Whitmore of Pennsylvania State University, who found that structural rearrangements often occur during the reaction of HX with an alkene. For example, reaction of HCl with 3-methyl-1-butene yields a substantial amount of 2-chloro-2-methylbutane in addition to the “expected” product, 2-chloro-3-methylbutane.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows 3-Methyl-1-butene reacting with HCl to produce 2-Chloro-3-methylbutane (approx. 50%) and 2-Chloro-2-methylbutane (approx. 50%). 3-Methyl-1-butene shows a methine group bonded to two methyl groups and another methine group which is double bonded to a methylene group. 2-Chloro-3-methylbutane shows a methine group bonded to two methyl groups and a carbon bonded to hydrogen chlorine and methyl group. 2-Chloro-3-methylbutane shows a carbon bonded to two methyl groups chlorine and a methine group bonded to a methyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_001.jpg"/>
     </media>
     </figure>
-    <para>If the reaction takes place in a single step, it would be difficult to account for rearrangement, but if the reaction takes place in several steps, rearrangement is more easily explained. Whitmore suggested that it is a carbocation intermediate that undergoes rearrangement. The secondary carbocation intermediate formed by protonation of 3-methyl-1-butene rearranges to a more stable tertiary carbocation by a <term><emphasis effect="bold">hydride shift</emphasis></term>&#8212;the shift of a hydrogen atom and its electron pair (a hydride ion, <emphasis effect="bold">:</emphasis>H<sup>&#8722;</sup>) between neighboring carbons.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00003">If the reaction takes place in a single step, it would be difficult to account for rearrangement, but if the reaction takes place in several steps, rearrangement is more easily explained. Whitmore suggested that it is a carbocation intermediate that undergoes rearrangement. The secondary carbocation intermediate formed by protonation of 3-methyl-1-butene rearranges to a more stable tertiary carbocation by a <term id="term-00001"><emphasis effect="bold">hydride shift</emphasis></term>—the shift of a hydrogen atom and its electron pair (a hydride ion, <emphasis effect="bold">:</emphasis>H<sup>−</sup>) between neighboring carbons.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="An illustration shows two reactions: In the first reaction 3-Methyl-1-butene reacts with HCl to yield a secondary carbocation or a tertiary carbocation. Secondary carbocation reacts with Cl minus to yield 2-Chloro-3-methylbutane. Tertiary carbocation reacts with Cl minus to yield 2-Chloro-2-methylbutane. 3-methyl-1-butene shows a carbon bonded to 2 methyl groups a hydrogen and methine group. The methine group is double bonded to a methylene group. An arrow from the double bond points to H in HCl. an arrow from the H-Cl bond points to Cl. Secondary carbocation shows a carbon bonded to 2 methyl groups a hydrogen and methine group. The methine group is bonded to a methyl group. 2-Chloro-3-methylbutane shows a carbon bonded to 2 methyl groups a hydrogen and methine group. The methine group is bonded to a chlorine and methyl group. Tertiary carbocation shows a carbon cation bonded to 2 methyl groups and methine group. The methine group is bonded to a methyl group. 2-Chloro-2-methylbutane shows a carbon bonded to 2 methyl groups a chlorine and a methylene group. The methylene group is bonded to a methyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_002.jpg"/>
     </media>
     </figure>
-    <para>Carbocation rearrangements can also occur by the shift of an alkyl group with its electron pair. For example, reaction of 3,3-dimethyl-1-butene with HCl leads to an equal mixture of unrearranged 3-chloro-2,2-dimethylbutane and rearranged 2-chloro-2,3-dimethylbutane. In this instance, a secondary carbocation rearranges to a more stable tertiary carbocation by the shift of a methyl group.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00004">Carbocation rearrangements can also occur by the shift of an alkyl group with its electron pair. For example, reaction of 3,3-dimethyl-1-butene with HCl leads to an equal mixture of unrearranged 3-chloro-2,2-dimethylbutane and rearranged 2-chloro-2,3-dimethylbutane. In this instance, a secondary carbocation rearranges to a more stable tertiary carbocation by the shift of a methyl group.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="An illustration shows two reactions: In the first reaction 3 3-Dimethyl-1-butene reacts with HCl to yield a secondary carbocation or a tertiary carbocation. Secondary carbocation reacts with Cl minus to yield 3-Chloro-2 2-dimethylbutane. Tertiary carbocation reacts with Cl minus to yield 2-Chloro-2 3-dimethylbutane. 3 3-Dimethyl-1-butene shows a carbon bonded to 3 methyl groups and a methine group. The methine group is double bonded to a methylene group. An arrow from the double bond points to H in HCl. an arrow from the H-Cl bond points to Cl. Secondary carbocation shows a carbon bonded to 3 methyl groups and a positively-charged methine group. The methine group is bonded to a methyl group. 3-Chloro-2 2-dimethylbutane shows a carbon bonded to 3 methyl groups and methine group. The methine group is bonded to a chlorine and methyl group. Tertiary carbocation shows a carbon cation bonded to 2 methyl groups and a carbon; the carbon is bonded to a hydrogen and 2 methyl groups. 2-Chloro-2 3-dimethylbutane shows a carbon bonded to 2 methyl groups a carbon and chlorine; the carbon is bonded to a hydrogen and 2 methyl groups.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_003.jpg"/>
     </media>
     </figure>
-    <para>Note the similarities between the two carbocation rearrangements: in both cases, a group (<m:math><m:mrow><m:mo>:</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>&#x2212;</m:mo></m:msup></m:mrow></m:math> or <m:math><m:mrow><m:mo>:</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mo>&#x2212;</m:mo></m:msup></m:mrow></m:math>) moves to an adjacent positively charged carbon, taking its bonding electron pair with it. Also in both cases, a less stable carbocation rearranges to a more stable ion. Rearrangements of this kind are a common feature of carbocation chemistry and are particularly important in the biological pathways by which steroids and related substances are synthesized. An example is the following hydride shift that occurs during the biosynthesis of cholesterol.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00005">Note the similarities between the two carbocation rearrangements: in both cases, a group (<m:math><m:mrow><m:mo>:</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>−</m:mo></m:msup></m:mrow></m:math> or <m:math><m:mrow><m:mo>:</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math>) moves to an adjacent positively charged carbon, taking its bonding electron pair with it. Also in both cases, a less stable carbocation rearranges to a more stable ion. Rearrangements of this kind are a common feature of carbocation chemistry and are particularly important in the biological pathways by which steroids and related substances are synthesized. An example is the following hydride shift that occurs during the biosynthesis of cholesterol.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows a hydride shift of a tertiary carbocation to an isomeric tertiary carbocation. The tertiary carbocation shows 3 cyclohexane rings fused to a cyclopentane ring. The first ring is bonded to hydroxyl group and 2 methyl groups. The first and second rings share two hydrogens. The third ring is bonded to a methyl group and hydrogen. The last 2 rings share a hydrogen and a methyl group. A carbon of the last ring is a carbocation bonded to a 6 carbon chain with double bond at C4. C1 and C5 are bonded to a methyl group. A part of the last ring and C1 of the chain are enclosed in a dashed circle. an arrow from a hydrogen shared by the last 2 rings points to the positive charge. The isomeric tertiary carbocation is similar to the reactant but the hydrogen and carbocation positions are interchanged and the chain is wedge bonded to the last ring.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_004.jpg"/>
     </media>
     </figure>
-    <para>As always, when looking at any complex chemical transformation, whether biochemical or not, focus on the part of the molecule where the change is occurring and don&#8217;t worry about the rest. The tertiary carbocation just pictured looks complicated, but all the chemistry is taking place in the small part of the molecule inside the red circle.</para>
-    <section class="section-exercises">
+    <para id="para-00006">As always, when looking at any complex chemical transformation, whether biochemical or not, focus on the part of the molecule where the change is occurring and don’t worry about the rest. The tertiary carbocation just pictured looks complicated, but all the chemistry is taking place in the small part of the molecule inside the red circle.</para>
+    <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-11-OC-P21"/></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/07-11-OC-P21"/></para>
     </problem>
     </exercise>
     </section>
     <section class="chemistry-matters" id="note-00001">
     <title>Bioprospecting: Hunting for Natural Products</title>
-    <para>Most people know the names of the common classes of biomolecules&#8212;proteins, carbohydrates, lipids, and nucleic acids&#8212;but there are many more kinds of compounds in living organisms than just those four. All living organisms also contain a vast diversity of substances usually grouped under the heading <emphasis effect="italics">natural products</emphasis>. The term <emphasis effect="bold">natural product</emphasis> really refers to any naturally occurring substance but is generally taken to mean a so-called secondary metabolite&#8212;a small molecule that is not essential to the growth and development of the producing organism and is not classified by structure.</para>
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00008">Most people know the names of the common classes of biomolecules—proteins, carbohydrates, lipids, and nucleic acids—but there are many more kinds of compounds in living organisms than just those four. All living organisms also contain a vast diversity of substances usually grouped under the heading <emphasis effect="italics">natural products</emphasis>. The term <emphasis effect="bold">natural product</emphasis> really refers to any naturally occurring substance but is generally taken to mean a so-called secondary metabolite—a small molecule that is not essential to the growth and development of the producing organism and is not classified by structure.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00005">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_006.jpg"/>
     </media>
-    <caption>Rapamycin an immunosuppressant natural product used during organ transplants was originally isolated from a soil sample found on Easter Island or Rapa Nui an island 2200 miles off the coast of Chile known for its giant Moai statues. (credit: modification of work &#8220;Moai facing inland at Ahu Tongariki&#8221; by Ian Sewell/Wikimedia Commons, CC BY 2.5)</caption>
+    <caption>Rapamycin an immunosuppressant natural product used during organ transplants was originally isolated from a soil sample found on Easter Island or Rapa Nui an island 2200 miles off the coast of Chile known for its giant Moai statues. (credit: modification of work “Moai facing inland at Ahu Tongariki” by Ian Sewell/Wikimedia Commons, CC BY 2.5)</caption>
     </figure>
-    <para>It has been estimated that well over 300,000 secondary metabolites exist, and it&#8217;s thought that their primary function is to increase the likelihood of an organism&#8217;s survival by repelling or attracting other organisms. Alkaloids, such as morphine; antibiotics, such as erythromycin and the penicillins; and immunosuppressive agents, such as rapamycin (sirolimus) prescribed for liver transplant recipients, are examples.</para>
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00009">It has been estimated that well over 300,000 secondary metabolites exist, and it’s thought that their primary function is to increase the likelihood of an organism’s survival by repelling or attracting other organisms. Alkaloids, such as morphine; antibiotics, such as erythromycin and the penicillins; and immunosuppressive agents, such as rapamycin (sirolimus) prescribed for liver transplant recipients, are examples.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00006">
     <media alt="An illustration shows the structure of Rapamycin (Sirolimus). A hexane ring is dash bonded to a hydroxyl group and wedge bonded to methoxy group and a 29 carbon cyclic chain. C2 C12 and C26 of the chain are wedge bonded to methyl group. C5 C11 C28 and C29 are carbonyl groups. C6 and C14 are dash bonded to a methyl group. A double bond is at C7 C15 C17 and C19. C8 and C20 are bonded to a methyl group. C9 and C27 are wedge bonded to hydroxyl group. C10 is dash bonded to methoxy group. C21 is bonded to a methoxy group. C23 is bonded to an oxygen bonded to C27. C29 is bonded to a hexane ring with a nitrogen. the ring is bonded to a carboxyl group bonded to C3.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_007.jpg"/>
     </media>
     </figure>
-    <para>Where do these natural products come from, and how are they found? Although most chemists and biologists spend their working time in the laboratory, a few spend their days scuba diving on South Pacific islands or trekking through the rainforests of South America and Southeast Asia at work as bioprospectors. Their job is to hunt for new and unusual natural products that might be useful as drugs.</para>
-    <para>As noted in the <link>Chapter 6 <emphasis effect="italics">Chemistry Matters</emphasis></link>, more than half of all new drug candidates come either directly or indirectly from natural products. Morphine from the opium poppy, prostaglandin E<sub>1</sub> from sheep prostate glands, erythromycin A from a <emphasis effect="italics">Streptomyces erythreus</emphasis> bacterium cultured from a Philippine soil sample, and benzylpenicillin from the mold <emphasis effect="italics">Penicillium notatum</emphasis> are examples. The immunosuppressive agent rapamycin, whose structure is shown on the previous page, was first isolated from a <emphasis effect="italics">Streptomyces hygroscopicus</emphasis> bacterium found in a soil sample from Easter Island (Rapa Nui), located 2200 miles off the coast of Chile.</para>
-    <para>With less than 1% of living organisms yet investigated, bioprospectors have a lot of work to do. But there is a race going on. Rainforests throughout the world are being destroyed at an alarming rate, causing many species of both plants and animals to become extinct before they can even be examined. The governments in many countries seem aware of the problem, but there is as yet no international treaty on biodiversity that could help preserve vanishing species.</para>
+    <para id="para-00010">Where do these natural products come from, and how are they found? Although most chemists and biologists spend their working time in the laboratory, a few spend their days scuba diving on South Pacific islands or trekking through the rainforests of South America and Southeast Asia at work as bioprospectors. Their job is to hunt for new and unusual natural products that might be useful as drugs.</para>
+    <para id="para-00011">As noted in the <link>Chapter 6 <emphasis effect="italics">Chemistry Matters</emphasis></link>, more than half of all new drug candidates come either directly or indirectly from natural products. Morphine from the opium poppy, prostaglandin E<sub>1</sub> from sheep prostate glands, erythromycin A from a <emphasis effect="italics">Streptomyces erythreus</emphasis> bacterium cultured from a Philippine soil sample, and benzylpenicillin from the mold <emphasis effect="italics">Penicillium notatum</emphasis> are examples. The immunosuppressive agent rapamycin, whose structure is shown on the previous page, was first isolated from a <emphasis effect="italics">Streptomyces hygroscopicus</emphasis> bacterium found in a soil sample from Easter Island (Rapa Nui), located 2200 miles off the coast of Chile.</para>
+    <para id="para-00012">With less than 1% of living organisms yet investigated, bioprospectors have a lot of work to do. But there is a race going on. Rainforests throughout the world are being destroyed at an alarming rate, causing many species of both plants and animals to become extinct before they can even be examined. The governments in many countries seem aware of the problem, but there is as yet no international treaty on biodiversity that could help preserve vanishing species.</para>
     </section>
-    <section class="key-terms">
-    <list>
-    <item><link document="" target-id="">alkene (R<sub>2</sub>C&#61;CR<sub>2</sub>)</link></item>
+    <section class="key-terms" id="sect-00002">
+    <list id="list-00001">
+    <item><link document="" target-id="">alkene (R<sub>2</sub>C=CR<sub>2</sub>)</link></item>
     <item><link document="" target-id="">allyl group</link></item>
     <item><link document="" target-id="">degree of unsaturation</link></item>
     <item><link document="" target-id=""><emphasis effect="italics">E</emphasis> configuration</link></item>
@@ -70,7 +70,7 @@
     <item><link document="" target-id="">Hammond postulate</link></item>
     <item><link document="" target-id="">hydride shift</link></item>
     <item><link document="" target-id="">hyperconjugation</link></item>
-    <item><link document="" target-id="">Markovnikov&#8217;s rule</link></item>
+    <item><link document="" target-id="">Markovnikov’s rule</link></item>
     <item><link document="" target-id="">methylene group</link></item>
     <item><link document="" target-id="">regiospecific reaction</link></item>
     <item><link document="" target-id="">unsaturated</link></item>
@@ -78,286 +78,286 @@
     <item><link document="" target-id=""><emphasis effect="italics">Z</emphasis> configuration</link></item>
     </list>
     </section>
-    <section class="summary">
+    <section class="summary" id="sect-00003">
     <title>Summary</title>
-    <para>Carbon&#8211;carbon double bonds are present in most organic and biological molecules, so a good understanding of their behavior is needed. In this chapter, we&#8217;ve looked at some consequences of alkene stereoisomerism and at the details of the broadest class of alkene reactions&#8212;the electrophilic addition reaction.</para>
-    <para>An <emphasis effect="bold">alkene</emphasis> is a hydrocarbon that contains a carbon&#8211;carbon double bond. Because they contain fewer hydrogens than alkanes with the same number of carbons, alkenes are said to be <emphasis effect="bold">unsaturated</emphasis>.</para>
-    <para>Because rotation around the double bond can&#8217;t occur, substituted alkenes can exist as cis&#8211;trans stereoisomers. The configuration of a double bond can be specified by applying the Cahn&#8211;Ingold&#8211;Prelog sequence rules, which rank the substituents on each double-bond carbon. If the higher-ranking groups on each carbon are on the same side of the double bond, the configuration is <emphasis effect="bold"><emphasis effect="italics">Z</emphasis></emphasis> (<emphasis effect="italics">zusammen,</emphasis> &#8220;together&#8221;); if the higher-ranking groups on each carbon are on opposite sides of the double bond, the configuration is <emphasis effect="bold"><emphasis effect="italics">E</emphasis></emphasis> (<emphasis effect="italics">entgegen,</emphasis> &#8220;apart&#8221;).</para>
-    <para>Alkene chemistry is dominated by <emphasis effect="bold">electrophilic addition reactions</emphasis>. When HX reacts with an unsymmetrically substituted alkene, <emphasis effect="bold">Markovnikov&#8217;s rule</emphasis> predicts that the H will add to the carbon having fewer alkyl substituents and the X group will add to the carbon having more alkyl substituents. Electrophilic additions to alkenes take place through carbocation intermediates formed by reaction of the nucleophilic alkene <emphasis effect="italics">&#960;</emphasis> bond with electrophilic H<sup>&#43;</sup>. Carbocation stability follows the order</para>
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00013">Carbon–carbon double bonds are present in most organic and biological molecules, so a good understanding of their behavior is needed. In this chapter, we’ve looked at some consequences of alkene stereoisomerism and at the details of the broadest class of alkene reactions—the electrophilic addition reaction.</para>
+    <para id="para-00014">An <emphasis effect="bold">alkene</emphasis> is a hydrocarbon that contains a carbon–carbon double bond. Because they contain fewer hydrogens than alkanes with the same number of carbons, alkenes are said to be <emphasis effect="bold">unsaturated</emphasis>.</para>
+    <para id="para-00015">Because rotation around the double bond can’t occur, substituted alkenes can exist as cis–trans stereoisomers. The configuration of a double bond can be specified by applying the Cahn–Ingold–Prelog sequence rules, which rank the substituents on each double-bond carbon. If the higher-ranking groups on each carbon are on the same side of the double bond, the configuration is <emphasis effect="bold"><emphasis effect="italics">Z</emphasis></emphasis> (<emphasis effect="italics">zusammen,</emphasis> “together”); if the higher-ranking groups on each carbon are on opposite sides of the double bond, the configuration is <emphasis effect="bold"><emphasis effect="italics">E</emphasis></emphasis> (<emphasis effect="italics">entgegen,</emphasis> “apart”).</para>
+    <para id="para-00016">Alkene chemistry is dominated by <emphasis effect="bold">electrophilic addition reactions</emphasis>. When HX reacts with an unsymmetrically substituted alkene, <emphasis effect="bold">Markovnikov’s rule</emphasis> predicts that the H will add to the carbon having fewer alkyl substituents and the X group will add to the carbon having more alkyl substituents. Electrophilic additions to alkenes take place through carbocation intermediates formed by reaction of the nucleophilic alkene <emphasis effect="italics">π</emphasis> bond with electrophilic H<sup>+</sup>. Carbocation stability follows the order</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_07_EC_001.jpg"/>
     </media>
     </figure>
-    <para>Markovnikov&#8217;s rule can be restated by saying that, in the addition of HX to an alkene, a more stable carbocation intermediate is formed. This result is explained by the <emphasis effect="bold">Hammond postulate</emphasis>, which says that the transition state of an exergonic reaction step structurally resembles the reactant, whereas the transition state of an endergonic reaction step structurally resembles the product. Since an alkene protonation step is endergonic, the stability of the more highly substituted carbocation is reflected in the stability of the transition state leading to its formation.</para>
-    <para>Evidence in support of a carbocation mechanism for electrophilic additions comes from the observation that structural rearrangements often take place during reaction. Rearrangements occur by shift of either a hydride ion, <emphasis effect="bold">:</emphasis>H<sup>&#8722;</sup> (a <emphasis effect="bold">hydride shift</emphasis>), or an alkyl anion, <emphasis effect="bold">:</emphasis>R<sup>&#8722;</sup>, from a carbon atom to the neighboring positively charged carbon. This results in isomerization of a less stable carbocation to a more stable one.</para>
+    <para id="para-00017">Markovnikov’s rule can be restated by saying that, in the addition of HX to an alkene, a more stable carbocation intermediate is formed. This result is explained by the <emphasis effect="bold">Hammond postulate</emphasis>, which says that the transition state of an exergonic reaction step structurally resembles the reactant, whereas the transition state of an endergonic reaction step structurally resembles the product. Since an alkene protonation step is endergonic, the stability of the more highly substituted carbocation is reflected in the stability of the transition state leading to its formation.</para>
+    <para id="para-00018">Evidence in support of a carbocation mechanism for electrophilic additions comes from the observation that structural rearrangements often take place during reaction. Rearrangements occur by shift of either a hydride ion, <emphasis effect="bold">:</emphasis>H<sup>−</sup> (a <emphasis effect="bold">hydride shift</emphasis>), or an alkyl anion, <emphasis effect="bold">:</emphasis>R<sup>−</sup>, from a carbon atom to the neighboring positively charged carbon. This results in isomerization of a less stable carbocation to a more stable one.</para>
     </section>
-    <section class="visualizing-chemistry">
+    <section class="visualizing-chemistry" id="sect-00004">
     <title>Visualizing Chemistry</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-VC01"/></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00019"><link class="os-embed" url="#exercise/07-99-OC-VC01"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-VC02"/></para>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00020"><link class="os-embed" url="#exercise/07-99-OC-VC02"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-VC03"/></para>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00021"><link class="os-embed" url="#exercise/07-99-OC-VC03"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-VC04"/></para>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00022"><link class="os-embed" url="#exercise/07-99-OC-VC04"/></para>
     </problem>
     </exercise>
     </section>
-    <section class="visualizing-chemistry">
+    <section class="visualizing-chemistry" id="sect-00005">
     <title>Mechanism Problems</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP01"/></para>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00023"><link class="os-embed" url="#exercise/07-99-OC-MP01"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP02"/></para>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00024"><link class="os-embed" url="#exercise/07-99-OC-MP02"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP03"/></para>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00025"><link class="os-embed" url="#exercise/07-99-OC-MP03"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP04"/></para>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00026"><link class="os-embed" url="#exercise/07-99-OC-MP04"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP05"/></para>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00027"><link class="os-embed" url="#exercise/07-99-OC-MP05"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP06"/></para>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00028"><link class="os-embed" url="#exercise/07-99-OC-MP06"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP07"/></para>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00029"><link class="os-embed" url="#exercise/07-99-OC-MP07"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-MP08"/></para>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00030"><link class="os-embed" url="#exercise/07-99-OC-MP08"/></para>
     </problem>
     </exercise>
     </section>
-    <section class="additional-problems">
+    <section class="additional-problems" id="sect-00006">
     <title>Additional Problems</title>
-    <para><emphasis effect="bold"><span class="red-text">Calculating a Degree of Unsaturation</span></emphasis></para>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP01"/></para>
+    <para id="para-00031"><emphasis effect="bold"><span class="red-text">Calculating a Degree of Unsaturation</span></emphasis></para>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00032"><link class="os-embed" url="#exercise/07-99-OC-AP01"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP02"/></para>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00033"><link class="os-embed" url="#exercise/07-99-OC-AP02"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP03"/></para>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00034"><link class="os-embed" url="#exercise/07-99-OC-AP03"/></para>
     </problem>
     </exercise>
-    <para><emphasis effect="bold"><span class="red-text">Naming Alkenes</span></emphasis></para>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP04"/></para>
+    <para id="para-00035"><emphasis effect="bold"><span class="red-text">Naming Alkenes</span></emphasis></para>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00036"><link class="os-embed" url="#exercise/07-99-OC-AP04"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP05"/></para>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00037"><link class="os-embed" url="#exercise/07-99-OC-AP05"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP06"/></para>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00038"><link class="os-embed" url="#exercise/07-99-OC-AP06"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP07"/></para>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00039"><link class="os-embed" url="#exercise/07-99-OC-AP07"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP08"/></para>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00040"><link class="os-embed" url="#exercise/07-99-OC-AP08"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP09"/></para>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00041"><link class="os-embed" url="#exercise/07-99-OC-AP09"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP10"/></para>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00042"><link class="os-embed" url="#exercise/07-99-OC-AP10"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP11"/></para>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00043"><link class="os-embed" url="#exercise/07-99-OC-AP11"/></para>
     </problem>
     </exercise>
-    <para><emphasis effect="bold"><span class="red-text">Alkene Isomers and Their Stability</span></emphasis></para>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP12"/></para>
+    <para id="para-00044"><emphasis effect="bold"><span class="red-text">Alkene Isomers and Their Stability</span></emphasis></para>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00045"><link class="os-embed" url="#exercise/07-99-OC-AP12"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP13"/></para>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00046"><link class="os-embed" url="#exercise/07-99-OC-AP13"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP14"/></para>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00047"><link class="os-embed" url="#exercise/07-99-OC-AP14"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP15"/></para>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00048"><link class="os-embed" url="#exercise/07-99-OC-AP15"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP16"/></para>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00049"><link class="os-embed" url="#exercise/07-99-OC-AP16"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP17"/></para>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00050"><link class="os-embed" url="#exercise/07-99-OC-AP17"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP18"/></para>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00051"><link class="os-embed" url="#exercise/07-99-OC-AP18"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP19"/></para>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00052"><link class="os-embed" url="#exercise/07-99-OC-AP19"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP20"/></para>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00053"><link class="os-embed" url="#exercise/07-99-OC-AP20"/></para>
     </problem>
     </exercise>
-    <para><emphasis effect="bold"><span class="red-text">Carbocations and Electrophilic Addition Reactions</span></emphasis></para>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP21"/></para>
+    <para id="para-00054"><emphasis effect="bold"><span class="red-text">Carbocations and Electrophilic Addition Reactions</span></emphasis></para>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00055"><link class="os-embed" url="#exercise/07-99-OC-AP21"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP22"/></para>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00056"><link class="os-embed" url="#exercise/07-99-OC-AP22"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP23"/></para>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00057"><link class="os-embed" url="#exercise/07-99-OC-AP23"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP24"/></para>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00058"><link class="os-embed" url="#exercise/07-99-OC-AP24"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP25"/></para>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00059"><link class="os-embed" url="#exercise/07-99-OC-AP25"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP26"/></para>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00060"><link class="os-embed" url="#exercise/07-99-OC-AP26"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP27"/></para>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00061"><link class="os-embed" url="#exercise/07-99-OC-AP27"/></para>
     </problem>
     </exercise>
-    <para><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP28"/></para>
+    <para id="para-00062"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00063"><link class="os-embed" url="#exercise/07-99-OC-AP28"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP29"/></para>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00064"><link class="os-embed" url="#exercise/07-99-OC-AP29"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP30"/></para>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00065"><link class="os-embed" url="#exercise/07-99-OC-AP30"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP31"/></para>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00066"><link class="os-embed" url="#exercise/07-99-OC-AP31"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP32"/></para>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00067"><link class="os-embed" url="#exercise/07-99-OC-AP32"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP33"/></para>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00068"><link class="os-embed" url="#exercise/07-99-OC-AP33"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP34"/></para>
+    <exercise id="exer-00047">
+    <problem id="prob-00047">
+    <para id="para-00069"><link class="os-embed" url="#exercise/07-99-OC-AP34"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP35"/></para>
+    <exercise id="exer-00048">
+    <problem id="prob-00048">
+    <para id="para-00070"><link class="os-embed" url="#exercise/07-99-OC-AP35"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP36"/></para>
+    <exercise id="exer-00049">
+    <problem id="prob-00049">
+    <para id="para-00071"><link class="os-embed" url="#exercise/07-99-OC-AP36"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP37"/></para>
+    <exercise id="exer-00050">
+    <problem id="prob-00050">
+    <para id="para-00072"><link class="os-embed" url="#exercise/07-99-OC-AP37"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP38"/></para>
+    <exercise id="exer-00051">
+    <problem id="prob-00051">
+    <para id="para-00073"><link class="os-embed" url="#exercise/07-99-OC-AP38"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-99-OC-AP39"/></para>
+    <exercise id="exer-00052">
+    <problem id="prob-00052">
+    <para id="para-00074"><link class="os-embed" url="#exercise/07-99-OC-AP39"/></para>
     </problem>
     </exercise>
     </section>

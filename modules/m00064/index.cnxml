@@ -6,63 +6,63 @@
     <md:uuid>c04ebfe4-70fd-4b65-8fa3-587a61666650</md:uuid>
   </metadata>
   <content>
-    <para>Because of its double bond, an alkene has fewer hydrogens than an alkane with the same number of carbons&#33281;&#8212;&#33281;C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis></sub> for an alkene versus C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>&#43;2</sub> for an alkane&#33281;&#8212;&#33281;and is therefore referred to as <term><emphasis effect="bold">unsaturated</emphasis></term>. Ethylene, for example, has the formula C<sub>2</sub>H<sub>4</sub>, whereas ethane has the formula C<sub>2</sub>H<sub>6</sub>.</para>
-    <figure class="unnumbered scaled-down">
-    <media alt="An illustration shows the structures of Ethylene: C2H4 (Fewer hydrogens&#8212;Unsaturated) and Ethane: C2H6 (More hydrogens&#8212;Saturated). Ethylene shows two methylene groups double bonded. Ethane shows two carbons single bonded. Each carbon is single bonded to a hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen.">
+    <para id="para-00001">Because of its double bond, an alkene has fewer hydrogens than an alkane with the same number of carbons舁—舁C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis></sub> for an alkene versus C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>+2</sub> for an alkane舁—舁and is therefore referred to as <term id="term-00001"><emphasis effect="bold">unsaturated</emphasis></term>. Ethylene, for example, has the formula C<sub>2</sub>H<sub>4</sub>, whereas ethane has the formula C<sub>2</sub>H<sub>6</sub>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows the structures of Ethylene: C2H4 (Fewer hydrogens—Unsaturated) and Ethane: C2H6 (More hydrogens—Saturated). Ethylene shows two methylene groups double bonded. Ethane shows two carbons single bonded. Each carbon is single bonded to a hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_02_001.jpg"/>
     </media>
     </figure>
-    <para>In general, each ring or double bond in a molecule corresponds to a loss of two hydrogens from the alkane formula C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>&#43;2</sub>. Knowing this relationship, it&#8217;s possible to work backward from a molecular formula to calculate a molecule&#8217;s <term><emphasis effect="bold">degree of unsaturation</emphasis></term>&#8212;the number of rings and/or multiple bonds present in the molecule.</para>
-    <para>Let&#8217;s assume that we want to find the structure of an unknown hydrocarbon. A molecular weight determination yields a value of 82 amu, which corresponds to a molecular formula of C<sub>6</sub>H<sub>10</sub>. Since the saturated C<sub>6</sub> alkane (hexane) has the formula C<sub>6</sub>H<sub>14</sub>, the unknown compound has two fewer pairs of hydrogens (H<sub>14</sub> &#8722; H<sub>10</sub> &#61; H<sub>4</sub> &#61; 2 H<sub>2</sub>) so its degree of unsaturation is 2. The unknown therefore contains either two double bonds, one ring and one double bond, two rings, or one triple bond. There&#8217;s still a long way to go to establish its structure, but the simple calculation has told us a lot about the molecule.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00002">In general, each ring or double bond in a molecule corresponds to a loss of two hydrogens from the alkane formula C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>+2</sub>. Knowing this relationship, it’s possible to work backward from a molecular formula to calculate a molecule’s <term id="term-00002"><emphasis effect="bold">degree of unsaturation</emphasis></term>—the number of rings and/or multiple bonds present in the molecule.</para>
+    <para id="para-00003">Let’s assume that we want to find the structure of an unknown hydrocarbon. A molecular weight determination yields a value of 82 amu, which corresponds to a molecular formula of C<sub>6</sub>H<sub>10</sub>. Since the saturated C<sub>6</sub> alkane (hexane) has the formula C<sub>6</sub>H<sub>14</sub>, the unknown compound has two fewer pairs of hydrogens (H<sub>14</sub> − H<sub>10</sub> = H<sub>4</sub> = 2 H<sub>2</sub>) so its degree of unsaturation is 2. The unknown therefore contains either two double bonds, one ring and one double bond, two rings, or one triple bond. There’s still a long way to go to establish its structure, but the simple calculation has told us a lot about the molecule.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="An illustration shows the structures of 4 compounds with a molecular formula of C6H10. 4-Methyl-1 3-pentadiene (two double bonds) shows a 5 carbon chain with double bond at C1 and C3 a methyl group at C4. Cyclohexene (one ring one double bond) shows a hexene ring. Bicyclo [3.1.0] hexane (two rings) shows a cyclopropane fused to a cyclopentane. 4-Methyl-2-pentyne (one triple bond) shows a 4 carbon chain with a triple bond between C2 and C3. C4 is bonded to two methyl groups.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_02_002.jpg"/>
     </media>
     </figure>
-    <para>Similar calculations can be carried out for compounds containing elements other than just carbon and hydrogen.</para>
-    <list>
-    <item><emphasis effect="bold"><span class="green-text">Organohalogen compounds (C, H, X, where X = F, Cl, Br, or I)</span></emphasis>&#8195;A halogen substituent acts as a replacement for hydrogen in an organic molecule, so we can add the number of halogens and hydrogens to arrive at an equivalent hydrocarbon formula from which the degree of unsaturation can be found. For example, the formula C<sub>4</sub>H<sub>6</sub>Br<sub>2</sub> is equivalent to the hydrocarbon formula C<sub>4</sub>H<sub>8</sub> and thus corresponds to one degree of unsaturation.
-    <figure class="unnumbered scaled-down">
+    <para id="para-00004">Similar calculations can be carried out for compounds containing elements other than just carbon and hydrogen.</para>
+    <list id="list-00001">
+    <item><emphasis effect="bold"><span class="green-text">Organohalogen compounds (C, H, X, where X = F, Cl, Br, or I)</span></emphasis> A halogen substituent acts as a replacement for hydrogen in an organic molecule, so we can add the number of halogens and hydrogens to arrive at an equivalent hydrocarbon formula from which the degree of unsaturation can be found. For example, the formula C<sub>4</sub>H<sub>6</sub>Br<sub>2</sub> is equivalent to the hydrocarbon formula C<sub>4</sub>H<sub>8</sub> and thus corresponds to one degree of unsaturation.
+    <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="An illustration shows the structures of 2 equivalent compounds. The first compound shows two methine groups double bonded. Each methine group is bonded to a methylene group that is bonded to a bromine atom. The addition gives C4H6Br2. The second compound shows two methine groups double bonded. Each methine group is bonded to a methylene group that is bonded to a hydrogen. Text reads: Replace 2 Br by 2 H. The addition gives C4H8. Text reads: One unsaturation: one double bond">
     <image mime-type="image/jpeg" src="../../media/OChem_07_02_003.jpg"/>
     </media>
     </figure>
     </item>
-    <item><emphasis effect="bold"><span class="magenta-text">Organooxygen compounds (C, H, O)</span></emphasis>&#8195;Oxygen forms two bonds, so it doesn&#8217;t affect the formula of an equivalent hydrocarbon and can be ignored when calculating the degree of unsaturation. You can convince yourself of this by seeing what happens when an oxygen atom is inserted into an alkane bond: C &#8722; C becomes C &#8722; O &#8722; C or C &#8722; H becomes C &#8722; O &#8722; H, and there is no change in the number of hydrogen atoms. For example, the formula C<sub>5</sub>H<sub>8</sub>O is equivalent to the hydrocarbon formula C<sub>5</sub>H<sub>8</sub> and thus corresponds to two degrees of unsaturation.
-    <figure class="unnumbered scaled-down">
+    <item><emphasis effect="bold"><span class="magenta-text">Organooxygen compounds (C, H, O)</span></emphasis> Oxygen forms two bonds, so it doesn’t affect the formula of an equivalent hydrocarbon and can be ignored when calculating the degree of unsaturation. You can convince yourself of this by seeing what happens when an oxygen atom is inserted into an alkane bond: C − C becomes C − O − C or C − H becomes C − O − H, and there is no change in the number of hydrogen atoms. For example, the formula C<sub>5</sub>H<sub>8</sub>O is equivalent to the hydrocarbon formula C<sub>5</sub>H<sub>8</sub> and thus corresponds to two degrees of unsaturation.
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows the structures of 2 equivalent compounds. The first compound shows a methylene group double bonded to a methine group that is bonded to another methine double bonded to a methine group bonded to hydroxy methyl group. The addition gives C5H8O. The second compound shows a methylene group double bonded to a methine group that is bonded to another methine double bonded to a methine group bonded to methylene group which is bonded to a hydrogen. Text pointing to CH2-H bond reads: O removed from here. The addition gives C5H8. Text reads: Two unsaturations: two double bonds.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_02_004.jpg"/>
     </media>
     </figure>
     </item>
-    <item><emphasis effect="bold"><span class="cyan-text">Organonitrogen compounds (C, H, N)</span></emphasis>&#8195;Nitrogen forms three bonds, so an organonitrogen compound has one more hydrogen than a related hydrocarbon. We therefore subtract the number of nitrogens from the number of hydrogens to arrive at the equivalent hydrocarbon formula. Again, you can convince yourself of this by seeing what happens when a nitrogen atom is inserted into an alkane bond: C &#8722; C becomes C &#8722; NH &#8722; C or C &#8722; H becomes C &#8722; NH<sub>2</sub>, meaning that one additional hydrogen atom has been added. We must therefore subtract this extra hydrogen atom to arrive at the equivalent hydrocarbon formula. For example, the formula C<sub>5</sub>H<sub>9</sub>N is equivalent to C<sub>5</sub>H<sub>8</sub> and thus has two degrees of unsaturation.
-    <figure class="unnumbered scaled-down">
+    <item><emphasis effect="bold"><span class="cyan-text">Organonitrogen compounds (C, H, N)</span></emphasis> Nitrogen forms three bonds, so an organonitrogen compound has one more hydrogen than a related hydrocarbon. We therefore subtract the number of nitrogens from the number of hydrogens to arrive at the equivalent hydrocarbon formula. Again, you can convince yourself of this by seeing what happens when a nitrogen atom is inserted into an alkane bond: C − C becomes C − NH − C or C − H becomes C − NH<sub>2</sub>, meaning that one additional hydrogen atom has been added. We must therefore subtract this extra hydrogen atom to arrive at the equivalent hydrocarbon formula. For example, the formula C<sub>5</sub>H<sub>9</sub>N is equivalent to C<sub>5</sub>H<sub>8</sub> and thus has two degrees of unsaturation.
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows the structures of 2 equivalent compounds. The first compound shows a cyclopentene in which two methine groups are double bonded. two methylene groups are bonded to a methine group bonded to a nitrogen. The nitrogen is bonded to two hydrogen atoms. The addition gives C5H9N. The second compound shows a cyclopentene in which two methine groups are double bonded. two methylene groups are bonded to a methylene group bonded to a nitrogen. The nitrogen is bonded to two hydrogen atoms. The addition gives C5H9N. The second compound shows a cyclopentene in which two methine groups are double bonded. two methylene groups are bonded to a methine group bonded to a hydrogen. A nitrogen monohydride is removed. The addition gives C5H8. Text reads: Two unsaturations: one ring and one double bond">
     <image mime-type="image/jpeg" src="../../media/OChem_07_02_005.jpg"/>
     </media>
     </figure></item>
     </list>
-    <para>To summarize:</para>
-    <list>
+    <para id="para-00005">To summarize:</para>
+    <list id="list-00002">
     <item><emphasis effect="bold"><span class="green-text">Add</span></emphasis> the number of <span class="green-text">halogens</span> to the number of hydrogens.</item>
     <item><emphasis effect="bold"><span class="magenta-text">Ignore</span></emphasis> the number of <span class="magenta-text">oxygens</span>.</item>
     <item><emphasis effect="bold"><span class="cyan-text">Subtract</span></emphasis> the number of <span class="cyan-text">nitrogens</span> from the number of hydrogens.</item>
     </list>
-    <section class="section-exercises">
+    <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-02-OC-P01"/></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/07-02-OC-P01"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-02-OC-P02"/></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00007"><link class="os-embed" url="#exercise/07-02-OC-P02"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-02-OC-P03"/></para>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00008"><link class="os-embed" url="#exercise/07-02-OC-P03"/></para>
     </problem>
     </exercise>
     </section>

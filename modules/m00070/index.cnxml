@@ -6,77 +6,77 @@
     <md:uuid>ae46b113-747f-485f-b291-a474d3195c72</md:uuid>
   </metadata>
   <content>
-    <para>Look carefully at the electrophilic addition reactions shown in the previous section. In each case, an unsymmetrically substituted alkene has given a single addition product rather than the mixture that might be expected. For example, 2-methylpropene might react with HCl to give both 2-chloro-2-methylpropane and 1-chloro-2-methylpropane, but it doesn&#8217;t. It gives only 2-chloro-2-methylpropane as the sole product. Similarly, it&#8217;s invariably the case in biological alkene addition reactions that only a single product is formed. We say that such reactions are <term><emphasis effect="bold">regiospecific</emphasis></term> (<emphasis effect="bold">ree</emphasis>-jee-oh-specific) when only one of two possible orientations of an addition occurs.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00001">Look carefully at the electrophilic addition reactions shown in the previous section. In each case, an unsymmetrically substituted alkene has given a single addition product rather than the mixture that might be expected. For example, 2-methylpropene might react with HCl to give both 2-chloro-2-methylpropane and 1-chloro-2-methylpropane, but it doesn’t. It gives only 2-chloro-2-methylpropane as the sole product. Similarly, it’s invariably the case in biological alkene addition reactions that only a single product is formed. We say that such reactions are <term id="term-00001"><emphasis effect="bold">regiospecific</emphasis></term> (<emphasis effect="bold">ree</emphasis>-jee-oh-specific) when only one of two possible orientations of an addition occurs.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows 2-Methylpropene reacting with HCl to produce 2-Chloro-2-methylpropane (Sole product). 2-Methylpropene shows a carbon bonded to two methyl groups and double bonded to methylene group. 2-Chloro-2-methylpropane shows a carbon bonded to three methyl groups and a chlorine. The 1 product not formed is 1-Chloro-2-methylpropane that shows a methine group bonded to two methyl groups and a methylene group bonded to chlorine.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_001.jpg"/>
     </media>
     </figure>
-    <para>After looking at the results of many such reactions, the Russian chemist Vladimir Markovnikov proposed in 1869 what has become known as:</para>
-    <quote><para><emphasis effect="bold"><span class="magenta-text">Markovnikov&#8217;s rule</span></emphasis></para>
-    <para>In the addition of HX to an alkene, the H attaches to the carbon with fewer alkyl substituents and the X attaches to the carbon with more alkyl substituents.</para></quote>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00002">After looking at the results of many such reactions, the Russian chemist Vladimir Markovnikov proposed in 1869 what has become known as:</para>
+    <quote id="quote-00001"><para id="para-00003"><emphasis effect="bold"><span class="magenta-text">Markovnikov’s rule</span></emphasis></para>
+    <para id="para-00004">In the addition of HX to an alkene, the H attaches to the carbon with fewer alkyl substituents and the X attaches to the carbon with more alkyl substituents.</para></quote>
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="An illustration shows 2 reactions. 2-Methylpropene reacts with HCl in the presence of Ether to produce 2-Chloro-2-methylpropane. 2-Methylpropene shows a carbon bonded to two methyl groups and double bonded to methylene group. Text pointing to carbon reads: 2 alkyl groups on this carbon. Text pointing to methylene group reads: No alkyl groups on this carbon. 2-Chloro-2-methylpropane shows a carbon bonded to three methyl groups and a chlorine. 1-Methylcyclohexene reacts with HBr in the presence of Ether to produce 1-Bromo-1-methylcyclohexane. 1-Methylcyclohexene shows a hexene bonded to a methyl group and hydrogen. text pointing to the carbon bonded to methyl group reads: 2 alkyl groups on this carbon. text pointing to the carbon bonded to hydrogen reads: 1 alkyl group on this carbon.1-Bromo-1-methylcyclohexane shows a hexane bonded to bromine and methyl group at C1 and two hydrogens at C2.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_002.jpg"/>
     </media>
     </figure>
-    <para>When both double-bonded carbon atoms have the same degree of substitution, a mixture of addition products results.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00005">When both double-bonded carbon atoms have the same degree of substitution, a mixture of addition products results.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="An illustration shows 2-Pentene reacting with HBr in the presence of Ether to produce 2-Bromopentane and 3-Bromopentane. 2-Pentene shows two methine groups double bonded. the first methine is bonded to ethyl group. Text reads: 1 alkyl group on this carbon. The second methine is bonded to methyl group. Text reads: 1 alkyl group on this carbon. 2-Bromopentane shows a propyl group bonded to a methine group bonded to Br and methyl group. 3-Bromopentane shows an ethyl group bonded to a methine group bonded to Br and ethyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_003.jpg"/>
     </media>
     </figure>
-    <para>Because carbocations are involved as intermediates in these electrophilic addition reactions, Markovnikov&#8217;s rule can be restated in the following way:</para>
-    <quote><para><emphasis effect="bold"><span class="magenta-text">Markovnikov&#8217;s rule restated</span></emphasis></para>
-    <para>In the addition of HX to an alkene, the more highly substituted carbocation is formed as the intermediate rather than the less highly substituted one.</para></quote>
-    <para>For example, addition of H<sup>&#43;</sup> to 2-methylpropene yields the intermediate <emphasis effect="italics">tertiary</emphasis> carbocation rather than the alternative primary carbocation, and addition to 1-methylcyclohexene yields a tertiary cation rather than a secondary one. Why should this be?</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00006">Because carbocations are involved as intermediates in these electrophilic addition reactions, Markovnikov’s rule can be restated in the following way:</para>
+    <quote id="quote-00002"><para id="para-00007"><emphasis effect="bold"><span class="magenta-text">Markovnikov’s rule restated</span></emphasis></para>
+    <para id="para-00008">In the addition of HX to an alkene, the more highly substituted carbocation is formed as the intermediate rather than the less highly substituted one.</para></quote>
+    <para id="para-00009">For example, addition of H<sup>+</sup> to 2-methylpropene yields the intermediate <emphasis effect="italics">tertiary</emphasis> carbocation rather than the alternative primary carbocation, and addition to 1-methylcyclohexene yields a tertiary cation rather than a secondary one. Why should this be?</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows two reactions: In the first reaction 2-Methylpropene reacts with HCl to yield tert-Butyl carbocation (tertiary) or Isobutyl carbocation (primary). tert-Butyl carbocation reacts with Cl minus to yield 2-Chloro-2-methylpropane. Isobutyl carbocation reacts with Cl minus to yield 1-Chloro-2-methylpropane (Not formed). 2-methylpropene shows a carbon bonded to 2 methyl groups and double bonded to methylene group. 2-Chloro-2-methylpropane shows a carbon bonded to three methyl groups and chlorine. Isobutyl carbocation shows a carbon bonded to two methyl groups a hydrogen and methylene group (positively charged). 1-Chloro-2-methylpropane shows a carbon bonded to two methyl groups a hydrogen and methylene group bonded to chlorine. In the second reaction 1-Methylcyclohexene reacts with HBr to yield A tertiary carbocation or A secondary carbocation. tertiary carbocation reacts with Br minus to yield 1-Bromo-1-methylcyclohexane. 1-Methylcyclohexene shows a cyclohexene bonded to hydrogen and methyl group. A tertiary carbocation shows a cyclohexane with positive charge on a carbon bonded to hydrogen and methyl group. 1-Bromo-1-methylcyclohexane shows a cyclohexane bonded to 2 hydrogens a bromine and methyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_004.jpg"/>
     </media>
     </figure>
-    <example>
+    <example id="exam-00001">
     <title>Predicting the Product of an Electrophilic Addition Reaction</title>
-    <para>What product would you expect from reaction of HCl with 1-ethylcyclopentene?</para>
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00010">What product would you expect from reaction of HCl with 1-ethylcyclopentene?</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00005">
     <media alt="An illustration shows the reaction of 1-ethylcyclopentene with hydrochloric acid to yield unknown product. 1-Ethylcyclopentene shows a cyclopentene with an ethyl group at C1.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_005.jpg"/>
     </media>
     </figure>
-    <para><title><span class="red-text">Strategy</span></title> When solving a problem that asks you to predict a reaction product, begin by looking at the functional group(s) in the reactants and deciding what kind of reaction is likely to occur. In the present instance, the reactant is an alkene that will probably undergo an electrophilic addition reaction with HCl. Next, recall what you know about electrophilic addition reactions to predict the product. You know that electrophilic addition reactions follow Markovnikov&#8217;s rule, so H<sup>&#43;</sup> will add to the double-bond carbon that has one alkyl group (C2 on the ring) and the Cl will add to the double-bond carbon that has two alkyl groups (C1 on the ring).</para>
-    <para><title><span class="cyan-text">Solution</span></title> The expected product is 1-chloro-1-ethylcyclopentane.
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00011"><title><span class="red-text">Strategy</span></title> When solving a problem that asks you to predict a reaction product, begin by looking at the functional group(s) in the reactants and deciding what kind of reaction is likely to occur. In the present instance, the reactant is an alkene that will probably undergo an electrophilic addition reaction with HCl. Next, recall what you know about electrophilic addition reactions to predict the product. You know that electrophilic addition reactions follow Markovnikov’s rule, so H<sup>+</sup> will add to the double-bond carbon that has one alkyl group (C2 on the ring) and the Cl will add to the double-bond carbon that has two alkyl groups (C1 on the ring).</para>
+    <para id="para-00012"><title><span class="cyan-text">Solution</span></title> The expected product is 1-chloro-1-ethylcyclopentane.
+    <figure class="unnumbered scaled-down-30" id="fig-00006">
     <media alt="An illustration shows the reaction of 1-ethylcyclopentene with hydrochloric acid to yield 1-Chloro-1-ethylcyclopentane. 1-ethylcyclopentene shows a cyclopentene with an ethyl group at C1. 1-Chloro-1-ethylcyclopentane shows a cyclopentane bonded to chlorine and ethyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_006.jpg"/>
     </media>
     </figure></para>
     </example>
-    <example>
+    <example id="exam-00002">
     <title>Synthesizing a Specific Compound</title>
-    <para>What alkene would you start with to prepare the following alkyl halide? There may be more than one possibility.</para>
-    <figure class="unnumbered scaled-down-30">
+    <para id="para-00013">What alkene would you start with to prepare the following alkyl halide? There may be more than one possibility.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
     <media alt="An illustration shows an unknown reactant yielding an alkyl halide. The alkyl halide shows a carbon bonded to two ethyl groups a methyl group and a chlorine.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_007.jpg"/>
     </media>
     </figure>
-    <para><title><span class="red-text">Strategy</span></title> When solving a problem that asks how to prepare a given product, always work backward. Look at the product, identify the functional group(s) it contains, and ask yourself, &#8220;How can I prepare that functional group?&#8221; In the present instance, the product is a tertiary alkyl chloride, which can be prepared by reaction of an alkene with HCl. The carbon atom bearing the  &#8722; Cl atom in the product must be one of the double-bond carbons in the reactant. Draw and evaluate all possibilities.</para>
-    <para><title><span class="cyan-text">Solution</span></title> There are three possibilities, all of which could give the desired product according to Markovnikov&#8217;s rule.
-    <figure class="unnumbered scaled-down">
+    <para id="para-00014"><title><span class="red-text">Strategy</span></title> When solving a problem that asks how to prepare a given product, always work backward. Look at the product, identify the functional group(s) it contains, and ask yourself, “How can I prepare that functional group?” In the present instance, the product is a tertiary alkyl chloride, which can be prepared by reaction of an alkene with HCl. The carbon atom bearing the  − Cl atom in the product must be one of the double-bond carbons in the reactant. Draw and evaluate all possibilities.</para>
+    <para id="para-00015"><title><span class="cyan-text">Solution</span></title> There are three possibilities, all of which could give the desired product according to Markovnikov’s rule.
+    <figure class="unnumbered scaled-down" id="fig-00008">
     <media alt="An illustration shows three possible reactants reacting with HCl to produce a product. The first product shows two methine groups double bonded. the first methine is bonded to methyl group. The second methine is bonded to methyl group and propyl group. The second product shows a carbon bonded to a methyl group ethyl group and double bonded to a methine group bonded to ethyl group. The third product shows a carbon bonded to an ethyl group propyl group and double bonded to methylene group. The product shows a carbon bonded to methyl group ethyl group propyl group and chlorine.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_008.jpg"/>
     </media>
     </figure></para>
     </example>
-    <section class="section-exercises">
+    <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-08-OC-P16"/></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00016"><link class="os-embed" url="#exercise/07-08-OC-P16"/></para>
     </problem>
     </exercise>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/07-08-OC-P17"/></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00017"><link class="os-embed" url="#exercise/07-08-OC-P17"/></para>
     </problem>
     </exercise>
     </section>
