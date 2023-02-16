@@ -12,7 +12,7 @@
     <media alt="An illustration shows the conversion of staggered propane to eclipsed propane by rotation of rear carbon 60 degree. Both conformations are shown in ball-and-stick models and Newman projections. The Newman projection of staggered propane shows a darkened tripod bonded to a pink methyl group at the top and two green hydrogens at the base; the back carbon shows an inverted tripod such that two blue hydrogens are bonded at the top and a blue hydrogen is bonded at the base. The ball-and-stick model shows three carbons wherein the left side carbon is bonded to three blue hydrogens; the upper carbon is bonded to three red hydrogens and the lower carbon is bonded to two green hydrogens. The Newman projection of eclipsed propane shows superimposition of both front and carbon bonds; the front carbon having an upward bond with a pink methyl group and two lower bonds with green hydrogens; the back carbon shows an upward bond with hydrogen and two lower bonds with hydrogens; the torsional strain between the methyl group and blue hydrogen is 6.0 kJ/mol; the torsional strain between both groups of lower hydrogens at the base is shown as 4.0 kJ/mol. The ball-and-stick model shows three carbons wherein the left side carbon shows bonds to three blue hydrogens that are shown rotated by 60 degree; the upward right side carbon is bonded to three red hydrogens; the central carbon is bonded to two green hydrogens.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_07_001.jpg"/>
     </media>
-    <caption>Newman projections of propane showing staggered and eclipsed conformations. The staggered conformer is lower in energy by 14 kJ/mol.</caption>
+    <caption><emphasis effect="bold">Newman projections of propane showing staggered and eclipsed conformations. The staggered conformer is lower in energy by 14 kJ/mol.</emphasis></caption>
     </figure>
     <para id="para-00003">The conformational situation becomes more complex for larger alkanes because not all staggered conformations have the same energy and not all eclipsed conformations have the same energy. In butane, for instance, the lowest-energy arrangement, called the <term id="term-00001"><emphasis effect="bold">anti conformation</emphasis></term>, is the one in which the two methyl groups are as far apart as possible—180° away from each other. As rotation around the C2–C3 bond occurs, an eclipsed conformation is reached where there are two <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interactions and one <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction. Using the energy values derived previously from ethane and propane, this eclipsed conformation is more strained than the anti conformation by 2 × 6.0 kJ/mol + 4.0 kJ/mol (two <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interactions plus one <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction), for a total of 16 kJ/mol (3.8 kcal/mol).</para>
     <figure class="unnumbered" id="fig-00002">
@@ -37,7 +37,7 @@
     <media alt="An illustration shows a graph of potential energy versus dihedral angle between methyl groups in butane; the horizontal axis shows “dihedral angle between methyl groups” starting from 180 degrees labeled as “anti” further towards right 120 degree is shown followed by 60 degree labeled as “gauche” is followed by 0 degree and the scale further reads as “60 degree” labeled as “gauche” 120 degree and 180 degrees labeled as “anti.” The vertical axis shows a large upward pointing arrow labeled energy. At 180 degree the butane structure shows the front carbon bonded to a pink methyl group at the top and two hydrogens at the base; the back carbon is shown bonded to two hydrogens above and a pink methyl group below which forms the point of reference for rotation in the proceeding structures; at 180 degree a trough is shown; throughout the graph the front carbon and its bonds remain unchanged while the bonds of back carbon are shown to change. At 120 degree the pink methyl group of the back carbon moves to the left from center; a crest is shown at 120 degree; the energy required is 16 kJ/mol. At 60 degree “gauche” the pink methyl of the back carbon moves to the upper left side; the graph shows a trough and energy required is 3.8 kJ/mol. At 0 degree the pink methyl group moves to top center such that both front and back carbon bonds seem superimposed on each other. At 60 degree “gauche” the pink methyl group moves 60 degree to the right side; the graph shows a trough and the energy required is 19 kJ/mol. At 120 degree the pink methyl group of the back carbon moves to lower right position; the graph shows a crest. At 180 degree “anti” the pink methyl group of the back carbon occupies the lower central position and the graph shows a trough.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_07_005.jpg"/>
     </media>
-    <caption>A plot of potential energy versus rotation for the C2−C3 bond in butane. The energy maximum occurs when the two methyl groups eclipse each other, and the energy minimum occurs when the two methyl groups are 180° apart (anti).</caption>
+    <caption><emphasis effect="bold">A plot of potential energy versus rotation for the C2−C3 bond in butane.</emphasis> The energy maximum occurs when the two methyl groups eclipse each other, and the energy minimum occurs when the two methyl groups are 180° apart (anti).</caption>
     </figure>
     <para id="para-00007">The notion of assigning definite energy values to specific interactions within a molecule is very useful, and we’ll return to it in the next chapter. A summary of what we’ve seen thus far is given in <link target-id="table-00001"/>.</para>
     <para id="para-00008">The same principles just developed for butane apply to pentane, hexane, and all higher alkanes. The most favorable conformation for any alkane has the carbon–carbon bonds in staggered arrangements, with large substituents arranged anti to one another. A generalized alkane structure is shown in <link target-id="fig-00006"/>.</para>
@@ -135,7 +135,7 @@
     <media alt="Photograph of Edwin Drake’s first oil well.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_07_xxx.jpg"/>
     </media>
-    <caption>Gasoline is a finite resource. It won’t be around forever. (credit: “The first oil well” by Unknown/Library of Congress)</caption>
+    <caption>Gasoline is a finite resource. It won’t be around forever. (credit: <link url="https://www.loc.gov/item/2010649522/">“The first oil well”</link> by Unknown/Library of Congress)</caption>
     </figure>
     <para id="para-00018">The petroleum era began in August 1859, when the world’s first oil well was drilled by Edwin Drake near Titusville, Pennsylvania. The petroleum was distilled into fractions according to boiling point, but it was high-boiling kerosene, or lamp oil, rather than gasoline that was primarily sought. Literacy was becoming widespread at the time, and people wanted better light for reading than was available from candles. Gasoline was too volatile for use in lamps and was initially considered a waste by-product. The world has changed greatly since those early days, however, and it is now gasoline rather than lamp oil that is prized.</para>
     <para id="para-00019">Petroleum refining begins by fractional distillation of crude oil into three principal cuts according to boiling point (bp): straight-run gasoline (bp 30–200 °C), kerosene (bp 175–300 °C), and heating oil, or diesel fuel (bp 275–400 °C). Further distillation under reduced pressure then yields lubricating oils and waxes and leaves a tarry residue of asphalt. The distillation of crude oil is only the first step in gasoline production, however. Straight-run gasoline turns out to be a poor fuel in automobiles because of engine knock, an uncontrolled combustion that can occur in a hot engine causing potentially serious damage.</para>
@@ -153,14 +153,14 @@
       <item><link document="m00032" target-id="term-00013">aldehyde</link></item>
       <item><link document="m00033" target-id="term-00004">aliphatic</link></item>
       <item><link document="m00033" target-id="term-00001">alkane</link></item>
-      <item><link document="m00032" target-id="term-00002">alkene</link></item>
+      <item>alkene</item>
       <item><link document="m00034" target-id="term-00001">alkyl group</link></item>
       <item><link document="m00032" target-id="term-00005">alkyl halide</link></item>
-      <item><link document="m00032" target-id="term-00003">alkyne</link></item>
+      <item>alkyne</item>
       <item><link document="m00032" target-id="term-00018">amide</link></item>
       <item><link document="m00032" target-id="term-00008">amine</link></item>
       <item><link document="m00038" target-id="term-00001">anti conformation</link></item>
-      <item><link document="m00032" target-id="term-00004">arene</link></item>
+      <item>arene</item>
       <item><link document="m00033" target-id="term-00006">branched-chain alkane</link></item>
       <item><link document="m00032" target-id="term-00012">carbonyl group</link></item>
       <item><link document="m00032" target-id="term-00015">carboxylic acid</link></item>
@@ -177,8 +177,8 @@
       <item><link document="m00033" target-id="term-00007">isomer</link></item>
       <item><link document="m00032" target-id="term-00014">ketone</link></item>
       <item><link document="m00037" target-id="term-00006">Newman projection</link></item>
-      <item>[link]nitrile[/link]</item>
-      <item><link document="m00034" target-id="term-00002">R group</link></item>
+      <item>nitrile</item>
+      <item>R group</item>
       <item><link document="m00033" target-id="term-00003">saturated</link></item>
       <item><link document="m00037" target-id="term-00005">sawhorse representation</link></item>
       <item><link document="m00037" target-id="term-00007">staggered conformation</link></item>
