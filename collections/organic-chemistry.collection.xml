@@ -2,6 +2,7 @@
   <col:metadata>
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
+    <md:content-id>col00000</md:content-id>
     <md:language>en</md:language>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
@@ -105,6 +106,12 @@
         <col:module document="m00071"/>
         <col:module document="m00072"/>
         <col:module document="m00073"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Future Chapter</md:title>
+      <col:content>
+        <col:module document="m00074"/>
       </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
