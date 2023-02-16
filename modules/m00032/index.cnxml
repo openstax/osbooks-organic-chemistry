@@ -11,7 +11,7 @@
     <media alt="An illustration shows reactions of ethylene and menthene in the presence of bromine to yield a product each; also shown are the elpot images of ethylene and menthene. The structure of ethylene shows two carbon atoms double bonded to each other; each carbon is bonded to two hydrogen atoms. The product of bromination shows two carbon atoms single bonded to each other; each carbon is bonded to two hydrogen atoms and a bromine atom. The structure of menthene shows a carbon double bonded to another carbon atom; the left carbon shows an upward angled bond with a methyl group and the carbon on the right is bonded to a hydrogen; the carbon atoms form a part of a hexane ring that also shows three methylene groups and a methine group. The methine group is bonded to a carbon that is further bonded to a hydrogen and two methyl groups. The product of bromination is similar to menthene but the double bond is broken and the carbon atoms are single bonded to each other. The two carbon atoms are bonded to a bromine atom each. The double bonds and the bromine atoms are shown in pink. An arrow points to the places where bromine atoms are added. The elpot images show the ball-and-stick model with grey balls (carbon atoms) and white balls (hydrogen atoms). The double bonds are pointed by arrows. In the elpot images the area around the double bond between the carbon atoms are yellowish-orange surrounded by grey and green.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_01_001.jpg"/>
     </media>
-    <caption><emphasis effect="bold">The reactions of ethylene and menthene with bromine</emphasis>. In both molecules, the carbon–carbon double-bond functional group has a similar polarity pattern, so both molecules react with Br2 in the same way. The size and complexity of the molecules are not important.</caption>
+    <caption><emphasis effect="bold">The reactions of ethylene and menthene with</emphasis> bromine. In both molecules, the carbon–carbon double-bond functional group has a similar polarity pattern, so both molecules react with Br<sub>2</sub> in the same way. The size and complexity of the molecules are not important.</caption>
     </figure>
     <para id="para-00002">Look at <link target-id="table-00001"/>, which lists many of the common functional groups and gives simple examples of their occurrence. Some functional groups have only carbon–carbon double or triple bonds; others have halogen atoms; and still others contain oxygen, nitrogen, or sulfur. Much of the chemistry you’ll be studying is the chemistry of these functional groups.</para>
     <section id="sect-00001">
@@ -117,7 +117,7 @@
     </media>
     </entry>
     <entry valign="top" align="left"><emphasis effect="italics">diphosphate</emphasis></entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">OP</m:mtext></m:mrow><m:mn style="color: magenta">2</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: magenta">O</m:mtext></m:mrow><m:mn style="color: magenta">6</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mrow><m:mn style="color: magenta">3−</m:mn></m:mrow></m:msup></m:mrow></m:math> <newline />Methyl diphosphate</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: #E00087">OP</m:mtext></m:mrow><m:mn style="color: #E00087">2</m:mn></m:msub><m:msub><m:mrow><m:mtext style="color: #E00087">O</m:mtext></m:mrow><m:mn style="color: #E00087">6</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mrow><m:mn style="color: #E00087">3−</m:mn></m:mrow></m:msup></m:mrow></m:math> <newline />Methyl diphosphate</entry>
     </row>
     <row>
     <entry valign="top" align="left">Amine</entry>
@@ -145,9 +145,9 @@
     </row>
     <row>
     <entry valign="top" align="left">Nitrile</entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>–</m:mtext><m:mtext>C</m:mtext><m:mo style="color: magenta">≡</m:mo><m:mtext style="color: magenta">N</m:mtext></m:mrow></m:math></entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>–</m:mtext><m:mtext>C</m:mtext><m:mo style="color: #E00087">≡</m:mo><m:mtext style="color: #E00087">N</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">-<emphasis effect="italics">nitrile</emphasis></entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>C</m:mtext><m:mo style="color: magenta">≡</m:mo><m:mtext style="color: magenta">N</m:mtext></m:mrow></m:math> <newline />Ethanenitrile</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>C</m:mtext><m:mo style="color: #E00087">≡</m:mo><m:mtext style="color: #E00087">N</m:mtext></m:mrow></m:math> <newline />Ethanenitrile</entry>
     </row>
     <row>
     <entry valign="top" align="left">Thiol</entry>
