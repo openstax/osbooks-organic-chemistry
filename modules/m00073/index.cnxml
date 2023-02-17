@@ -25,7 +25,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_003.jpg"/>
     </media>
     </figure>
-    <para id="para-00005">Note the similarities between the two carbocation rearrangements: in both cases, a group (<m:math><m:mrow><m:mo>:</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>−</m:mo></m:msup></m:mrow></m:math> or <m:math><m:mrow><m:mo>:</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math>) moves to an adjacent positively charged carbon, taking its bonding electron pair with it. Also in both cases, a less stable carbocation rearranges to a more stable ion. Rearrangements of this kind are a common feature of carbocation chemistry and are particularly important in the biological pathways by which steroids and related substances are synthesized. An example is the following hydride shift that occurs during the biosynthesis of cholesterol.</para>
+    <para id="para-00005">Note the similarities between the two carbocation rearrangements: in both cases, a group (<m:math><m:mrow><m:msup><m:mtext>:H</m:mtext><m:mo>−</m:mo></m:msup></m:mrow></m:math> or <m:math><m:mrow><m:msub><m:mrow><m:mtext>:CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math>) moves to an adjacent positively charged carbon, taking its bonding electron pair with it. Also in both cases, a less stable carbocation rearranges to a more stable ion. Rearrangements of this kind are a common feature of carbocation chemistry and are particularly important in the biological pathways by which steroids and related substances are synthesized. An example is the following hydride shift that occurs during the biosynthesis of cholesterol.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows a hydride shift of a tertiary carbocation to an isomeric tertiary carbocation. The tertiary carbocation shows 3 cyclohexane rings fused to a cyclopentane ring. The first ring is bonded to hydroxyl group and 2 methyl groups. The first and second rings share two hydrogens. The third ring is bonded to a methyl group and hydrogen. The last 2 rings share a hydrogen and a methyl group. A carbon of the last ring is a carbocation bonded to a 6 carbon chain with double bond at C4. C1 and C5 are bonded to a methyl group. A part of the last ring and C1 of the chain are enclosed in a dashed circle. an arrow from a hydrogen shared by the last 2 rings points to the positive charge. The isomeric tertiary carbocation is similar to the reactant but the hydrogen and carbocation positions are interchanged and the chain is wedge bonded to the last ring.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_004.jpg"/>
@@ -61,7 +61,7 @@
     </section>
     <section class="key-terms" id="sect-00002">
       <list id="list-00001">
-        <item>[link]alkene (R<sub>2</sub>C=CR<sub>2</sub>)[/link]</item>
+        <item>alkene (R<sub>2</sub>C=CR<sub>2</sub>)</item>
         <item><link document="m00065" target-id="term-00003">allyl group</link></item>
         <item><link document="m00064" target-id="term-00002">degree of unsaturation</link></item>
         <item><link document="m00067" target-id="term-00003"><emphasis effect="italics">E</emphasis> configuration</link></item>
@@ -70,9 +70,9 @@
         <item><link document="m00072" target-id="term-00001">Hammond postulate</link></item>
         <item><link document="m00073" target-id="term-00001">hydride shift</link></item>
         <item><link document="m00068" target-id="term-00001">hyperconjugation</link></item>
-        <item>[link]Markovnikov’s rule[/link]</item>
+        <item>Markovnikov’s rule</item>
         <item><link document="m00065" target-id="term-00001">methylene group</link></item>
-        <item>[link]regiospecific reaction[/link]</item>
+        <item>regiospecific reaction</item>
         <item><link document="m00064" target-id="term-00001">unsaturated</link></item>
         <item><link document="m00065" target-id="term-00002">vinyl group</link></item>
         <item><link document="m00067" target-id="term-00002"><emphasis effect="italics">Z</emphasis> configuration</link></item>
@@ -115,7 +115,7 @@
     </problem>
     </exercise>
     </section>
-    <section class="visualizing-chemistry" id="sect-00005">
+    <section class="mechanism-problems" id="sect-00005">
     <title>Mechanism Problems</title>
     <exercise id="exer-00006">
     <problem id="prob-00006">
