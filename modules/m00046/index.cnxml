@@ -38,7 +38,7 @@
     <colspec colnum="4" colname="c4"/>
     <thead>
     <row valign="top">
-    <entry valign="bottom" align="left" morerows="1"><span class="magenta-text">Y</span></entry>
+    <entry valign="top" align="left"></entry>
     <entry valign="top" align="left" namest="c2" nameend="c3">1,3-Diaxial strain</entry>
     <entry valign="top" align="left" morerows="1">
     <figure class="unnumbered scaled-down-30" id="fig-00004">
@@ -49,6 +49,7 @@
     </entry>
     </row>
     <row valign="top">
+    <entry valign="top" align="left"><span class="magenta-text">Y</span></entry>
     <entry valign="top" align="left">(kJ/mol)</entry>
     <entry valign="top" align="left">(kcal/mol)</entry>
     </row>

@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Conformations of Polycyclic Molecules</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Conformations of Polycyclic Molecules</md:title>
@@ -55,7 +55,7 @@
     <title>Molecular Mechanics</title>
     <para id="para-00009">All the structural models in this book are computer-drawn. To make sure they accurately represent bond angles, bond lengths, torsional interactions, and steric interactions, the most stable geometry of each molecule has been calculated on a desktop computer using a commercially available <emphasis effect="italics">molecular mechanics</emphasis> program based on work by Norman Allinger at the University of Georgia.</para>
     <para id="para-00010">The idea behind molecular mechanics is to begin with a rough geometry for a molecule and then calculate a total strain energy for that starting geometry, using mathematical equations that assign values to specific kinds of molecular interactions. Bond angles that are too large or too small cause angle strain; bond lengths that are too short or too long cause stretching or compressing strain; unfavorable eclipsing interactions around single bonds cause torsional strain; and nonbonded atoms that approach each other too closely cause steric, or <emphasis effect="italics">van der Waals,</emphasis> strain.</para>
-    <para id="para-00011"><emphasis effect="italics">E</emphasis><sub>total</sub> = <emphasis effect="italics">E</emphasis><sub>bond stretching</sub> + <emphasis effect="italics">E</emphasis><sub>angle strain</sub> + <emphasis effect="italics">E</emphasis><sub>torsional strain</sub> + <emphasis effect="italics">E</emphasis><sub>van der Waals</sub></para>
+    <equation id="eq-00001" class="unnumbered"><m:math><m:msub><m:mi>E</m:mi><m:mtext>total</m:mtext></m:msub><m:mo>=</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>bond stretching</m:mtext></m:msub><m:mo>+</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>angle strain</m:mtext></m:msub><m:mo>+</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>torsional strain</m:mtext></m:msub> <m:mo>+</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>van der Waals</m:mtext></m:msub></m:math></equation>
     <figure class="scaled-down-30" id="fig-00006">
     <media alt="A person views a computer screen showing a 3D molecular model.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_09_007.jpg"/>
