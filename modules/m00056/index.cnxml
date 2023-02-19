@@ -23,7 +23,7 @@
     <media alt="An illustration shows the structural formula and ball-and-stick model of meso-tartaric acid. The structure shows two carbon atoms single bonded vertically with a symmetry plane in between them. The top carbon is wedge bonded to hydroxyl group on the left CO2H on the right and hydrogen at the top. The bottom carbon is wedge bonded to hydroxyl group on the left and CO2H on the right and dash bonded to a hydrogen at the bottom. The ball-and-stick model shows gray balls (carbon atoms) red balls (hydroxyl groups) blue ball (hydrogen atoms) and green balls (CO2H groups).">
     <image mime-type="image/jpeg" src="../../media/OChem_05_07_003.jpg"/>
     </media>
-    <caption>A symmetry plane through the C2–C3 bond of <emphasis effect="italics">meso</emphasis>-tartaric acid makes the molecule achiral.</caption>
+    <caption><emphasis effect="bold">A symmetry plane through the C2–C3 bond of <emphasis effect="italics">meso</emphasis>-tartaric acid makes the molecule achiral.</emphasis></caption>
     </figure>
     <para id="para-00004">Some physical properties of the three stereoisomers are listed in <link target-id="table-00001"/>. The (+)- and (−)-tartaric acids have identical melting points, solubilities, and densities, but they differ in the sign of their rotation of plane-polarized light. The meso isomer, by contrast, is diastereomeric with the (+) and (−) forms. It has no mirror-image relationship to (+)- and (−)-tartaric acids, is a different compound altogether, and thus has different physical properties.</para>
     <table summary="" id="table-00001">
@@ -61,7 +61,7 @@
     <row valign="top">
     <entry valign="top" align="left">Meso</entry>
     <entry valign="top" align="left">146–148</entry>
-    <entry valign="top" align="left"> 0</entry>
+    <entry valign="top" align="left">&#8199;&#8199;0</entry>
     <entry valign="top" align="left">1.6660</entry>
     <entry valign="top" align="left">125.0</entry>
     </row>
@@ -72,7 +72,7 @@
     <example id="exam-00001">
     <title>Distinguishing Chiral Compounds from Meso Compounds</title>
     <para id="para-00005">Does <emphasis effect="italics">cis</emphasis>-1,2-dimethylcyclobutane have any chirality centers? Is it chiral?</para>
-    <para id="para-00006"><title><span class="red-text">Strategy</span></title> To see whether a chirality center is present, look for a carbon atom bonded to four different groups. To see whether the molecule is chiral, look for the presence or absence of a symmetry plane. Not all molecules with chirality centers are chiral overall—meso compounds are an exception.</para>
+    <para id="para-00006"><title><span class="red-text">Strategy</span></title> To see whether a chirality center is present, look for a carbon atom bonded to four different groups. To see whether the molecule is chiral, look for the presence or absence of a symmetry plane. Not all molecules with chirality centers are chiral overall&#8212;meso compounds are an exception.</para>
     <para id="para-00007"><title><span class="cyan-text">Solution</span></title> A look at the structure of <emphasis effect="italics">cis</emphasis>-1,2-dimethylcyclobutane shows that both methyl-bearing ring carbons (C1 and C2) are chirality centers. Overall, though, the compound is achiral because there is a symmetry plane bisecting the ring between C1 and C2. Thus, the molecule is a meso compound.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00004">
     <media alt="An illustration shows the structure of cis-1 2-dimethylcyclobutane. A trapezium like structure (symmetry plane) is shown with a mirror at the center. The lower left end is labeled C1 and the lower right end is labeled C2. C1 and C2 are bonded to a methyl group at the top and hydrogen at the bottom.">
