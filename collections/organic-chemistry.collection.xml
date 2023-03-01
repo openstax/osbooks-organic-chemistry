@@ -1,6 +1,5 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:content-id>col00000</md:content-id>
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
@@ -97,10 +96,10 @@
         <col:module document="m00076"/>
         <col:module document="m00077"/>
         <col:module document="m00078"/>
-        <col:module document="m00079"/>
         <col:module document="m00080"/>
         <col:module document="m00081"/>
         <col:module document="m00082"/>
+        <col:module document="m00079"/>
         <col:module document="m00083"/>
         <col:module document="m00084"/>
         <col:module document="m00085"/>
