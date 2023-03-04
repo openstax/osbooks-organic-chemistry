@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Halogenation of Alkenes: Addition of X2</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Halogenation of Alkenes: Addition of X2</md:title>
+    <md:content-id>m00090</md:content-id>
+    <md:uuid>86e61968-95e2-4353-abae-c11cd3431cb3</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Bromine and chlorine add rapidly to alkenes to yield 1,2-dihalides, a process called <emphasis effect="italics">halogenation</emphasis>. For example, nearly 50 million tons of 1,2-dichloroethane (ethylene dichloride) are synthesized worldwide each year, much of it by addition of Cl<sub>2</sub> to ethylene. The product is used both as a solvent and as starting material for the manufacture of poly(vinyl chloride), PVC, the third most widely synthesized polymer in the world afterpolyethelyne and polypropolyne. Fluorine is too reactive and difficult to control for most laboratory applications, and iodine does not react with most alkenes.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows a chemical reaction. Ethylene reacts with diatomic chlorine to 1 2-Dichlorethane (Ethylene dichloride). Ethylene shows two a carbon bonded to two hydrogen atoms to a second carbon atom also bonded to two hydrogen atoms by a double bond. 1 2-Dichlorethane shows a carbon bonded to two hydrogen atoms and chlorine atom to a second carbon atom also bonded to two hydrogen atoms and a chlorine atom by a single bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Based on what we’ve seen thus far, a possible mechanism for the reaction of bromine with alkenes might involve electrophilic addition of Br<sup>+</sup> to the alkene, giving a carbocation intermediate that could undergo further reaction with Br<sup>−</sup> to yield the dibromo addition product.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows a possible mechanism for the reaction of bromine with ethylene to form 1 2-Dibromoethane. Pink arrows indicate the direction of electron transfer; a pink arrow points from the double bond in ethylene to the closer bromine atom in the diatomic halogen molecule and another pink arrow points from the single bond between the two bromine atoms to the second constituent bromine atom. In the transition state a bromine atom is bonded to the first carbon; a pink arrow points from the now negative bromide anion with eight electrons to the second carbon which shows a positive charge of the alkene. In the next step ethylene bromide shows a bromine atom bonded to each carbon in a cis configuration.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Although this mechanism seems plausible, it’s not fully consistent with known facts. In particular, it doesn’t explain the stereochemistry of the addition reaction. That is, the mechanism doesn’t account for which product stereoisomer is formed.</para>
+    <para id="para-00004">When the halogenation reaction is carried out on a cycloalkene, such as cyclopentene, only the <emphasis effect="italics">trans</emphasis> stereoisomer of the dihalide addition product is formed, rather than the mixture of cis and trans isomers that might have been expected if a planar carbocation intermediate were involved. We say that the reaction occurs with <term id="term-00001">anti stereochemistry</term>, meaning that the two bromine atoms come from opposite faces of the double bond—one from the top face and one from the bottom face.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a chemical reaction. Cyclopentene reacts with bromine to trans-1 2-Dibromocyclopentane which is the sole product. Cyclopentene shows a five-membered ring with a double bond between C-1 and C-2. trans-1 2-Dibromocyclopentane shows cyclopentane with the bromine atoms of the diatomic halogen and hydrogen on opposite sides of the C1-C2 bond. cis-1 2 Dibromopentane which is not formed shows the hydrogen atoms on the top face of the C1-C2 bond and the bromine atoms lie on the bottom face.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">An explanation for the observed stereochemistry of addition was suggested in 1937 by George Kimball and Irving Roberts, who proposed that the reaction intermediate is not a carbocation but is instead a <term id="term-00002">bromonium ion</term>, <m:math><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mi>R</m:mi></m:mstyle><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mi>B</m:mi><m:mi>r</m:mi></m:mstyle><m:mo>+</m:mo></m:mrow></m:math>, formed by electrophilic addition of Br<sup>+</sup> to the alkene. (Similarly, a chloronium ion contains a positively charged, divalent chlorine, <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow><m:mtext>Cl</m:mtext></m:mrow><m:mo>+</m:mo></m:msup></m:mrow></m:math>.) The bromonium ion is formed in a single step by interaction of the alkene with Br<sub>2</sub> and the simultaneous loss of Br<sup>−</sup>.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <media alt="An illustration shows a chemical reaction. An alkene reacts with bromine to form a bromonium ion and a bromine anion with four pairs of electrons. Pink arrows indicate the direction of electron transfer; a pink arrow points from the double bond in the alkene to the closer bromine atom in the diatomic halogen molecule and another pink arrow points from the single bond between the two bromine atoms to the second constituent bromine atom. Each bromine has three lone pairs of electrons. The bromonium ion shows a three-atom cyclic structure with a central positively charged bromine atom with two pairs of electrons bonded to a carbon on each side.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">How does the formation of a bromonium ion account for the observed anti stereochemistry of addition to cyclopentene? If a bromonium ion is formed as an intermediate, we can imagine that the large bromine atom might “shield” one side of the molecule. Reaction with Br<sup>−</sup> ion in the second step could then occur only from the opposite, unshielded side to give the trans product.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the mechanism for the conversion of Cyclopentene to trans-1 2-Dibromocyclopentane via a bromonium ion intermediate. Pink arrows indicate the direction of electron transfer; a pink arrow points from the double bond between C-1 and C-2 in the alkene to the closer bromine atom which has three electron pairs in the diatomic halogen molecule and vice versa. Another pink arrow points from the single bond between the two bromine atoms to the second constituent bromine atom. In the intermediate a positively charged bromine ion with two pairs of electrons forms a three-atom cyclic structure with C-1 and C-2. A pink arrow points from the other bromine ion which is negatively charged and has four electron pairs on the top side to C-2. Another pink arrow points from the bond between C-2 and the bromine of the bromonium ion to the positively charged bromine of the halonium ion. Arrows from the top and bottom of the structure lead from text that reads Top side open to attack and Bottom side shielded from attack respectively. trans-1 2-Dibromocyclopentane shows a hydrogen and a bromine atom bonded to C-1 and C-2; both substituents are added to opposite sides of the C-1 -C-2 bond; the nearer bromine ion is bonded to C-1 and the other bromine ion is bonded to C-2. An adjacent illustration shows an electrostatic potential energy diagram color coded in green and blue with a ball-and-stick representation of the bromonium ion where black spheres represent carbon beige spheres represent hydrogen and a brown sphere represents bromine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">The bromonium ion postulate, made more than 85 years ago to explain the stereochemistry of halogen addition to alkenes, is a remarkable example of deductive logic in chemistry. Arguing from experimental results, chemists were able to make a hypothesis about the intimate mechanistic details of alkene electrophilic reactions. Subsequently, strong evidence supporting the mechanism came from the work of George Olah at the University of Southern California, who prepared and studied stable solutions of cyclic bromonium ions in liquid SO<sub>2</sub>. There’s no question that bromonium ions exist.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a chemical reaction. It shows the formation of a stable cyclic bromonium ion in liquid sulfur dioxide and antimony pentafluoride (SbF5) from 1-Bromo-2-fluoropentane; hexafluoroantimonate anion is also generated. Pink arrows indicate the direction of electron transfer; a pink arrow points from the negatively charged bromine ion with three electron pairs to the carbon to which the fluorine is bonded. Another arrow points from the bond between carbon and fluorine to SbF5.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">Alkene halogenation reactions occur in nature just as they do in the laboratory but are limited primarily to marine organisms living in halide-rich environments. These biological halogenation reactions are carried out by enzymes called <emphasis effect="italics">haloperoxidases</emphasis>, which use H<sub>2</sub>O<sub>2</sub> to oxidize Br<sup>−</sup> or Cl<sup>−</sup> ions to a biological equivalent of Br<sup>+</sup> or Cl<sup>+</sup>. Electrophilic addition to the double bond of a substrate molecule then yields a bromonium or chloronium ion intermediate just as in the laboratory, and reaction with another halide ion completes the process. Halomon, for example, an antitumor pentahalide isolated from red alga, is thought to arise by a route that involves twofold addition of BrCl through the corresponding bromonium ions.</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows a chemical reaction. It shows the formation of Halomon from an octadiene with double bonds at C-1 and C-6 and C-3 bonded to a substituent by a double bond. In the first step two positively charged bromine ions are added and in the second step two negatively charged chlorine ions are added to give 6-Bromo-3-bromoethyl-7-methyl-2 3 7-trichloro-1-octene (Halomon).">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_02_007.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/08-02-OC-P03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00010"><link class="os-embed" url="#exercise/08-02-OC-P04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
