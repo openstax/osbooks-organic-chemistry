@@ -1,0 +1,476 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Reaction Stereochemistry: Addition of H2O to a Chiral Alkene</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Reaction Stereochemistry: Addition of H2O to a Chiral Alkene</md:title>
+    <md:content-id>m00101</md:content-id>
+    <md:uuid>ea581398-870a-4198-a1bb-cdc838c6689e</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">The reaction discussed in the previous section involves an addition to an achiral reactant and forms an optically inactive, racemic mixture of two enantiomeric products. What would happen, though, if we were to carry out the reaction on a single enantiomer of a chiral reactant? For example, what stereochemical result would be obtained from addition of H<sub>2</sub>O to a chiral alkene, such as (<emphasis effect="italics">R</emphasis>)-4-methyl-1-hexene? The product of the reaction, 4-methyl-2-hexanol, has two chirality centers and so has four possible stereoisomers.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows a chemical reaction. A chiral alkene (R) -4-Methyl-1-hexene undergoes Acid catalyst represented by water highlighted in pink to form 4-Methyl-2-hexanol (Chiral). (R) -4-Methyl-l-hexene shows a hydroxyl group with double bonds at C-4 highlighted in pink. 4-Methyl-2-hexanol (Chiral) which shows a hydroxyl group linked by a bond to C-4 to the right of the hydrogen on C-4.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_13_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Let’s think about the two chirality centers separately. What about the configuration at C4, the methyl-bearing carbon atom? Since C4 has the <emphasis effect="italics">R</emphasis> configuration in the starting material and this chirality center is unaffected by the reaction, its configuration is unchanged. Thus, the configuration at C4 in the product remains <emphasis effect="italics">R</emphasis> (assuming that the relative rankings of the four attached groups are not changed by the reaction).</para>
+    <para id="para-00003">What about the configuration at C2, the newly formed chirality center? As shown in <link>Figure 08_13_OChem-08-13-002_80485-08-12_ChiralAlk</link>, the stereochemistry at C2 is established by reaction of H<sub>2</sub>O with a carbocation intermediate in the usual manner. But this carbocation doesn’t have a plane of symmetry; it is chiral because of the chirality center at C4. Because the carbocation is chiral and has no plane of symmetry, it doesn’t react equally well from the top and bottom faces. One of the two faces is likely, for steric reasons, to be a bit more accessible than the other, leading to a mixture of <emphasis effect="italics">R</emphasis> and <emphasis effect="italics">S</emphasis> products in some ratio other than 50 : 50. Thus, two diastereomeric products, (2<emphasis effect="italics">R</emphasis>,4<emphasis effect="italics">R</emphasis>)-4-methyl-2-hexanol and (2<emphasis effect="italics">S</emphasis>,4<emphasis effect="italics">R</emphasis>)-4-methyl-2-hexanol, are formed in unequal amounts, and the mixture is optically active.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows a chemical reaction. A chiral alkene (R)-4-methyl-1-hexene undergoes acid hydrolysis represented by the hydronium ion highlighted in green to form (2S 4R)-4-Methyl-2-hexanol and (2R 4R)-4-Methyl-2-hexanol via a chiral carbocation intermediate. (R)-4-methyl-1-hexene shows a carbon bonded to a hydrogen via a dashed line and to another hydrogen via solid wedge all highlighted in blue; this first carbon is also bonded to a second carbon which is bonded to a hydrogen by a dashed bond via a double bond. The third carbon is bonded to two hydrogen atoms and to the fourth carbon which is bonded to a hydrogen via a dashed bond and a methyl group via a solid wedge. The octet of the fifth and sixth carbons are satisfied by bonding with hydrogen. Pink arrows indicate the direction of electron transfer. In the carbocation intermediate an arrow points toward the upper lobe of the p-orbital shaded pink of C-1 and another points toward the lower lobe shaded blue from water highlighted in pink; the oxygen has two pairs of electrons. C-1 has a positive charge. The reaction of the intermediate from the top generates (2S 4R)-4-Methyl-2-hexanol which shows a hydroxyl group linked to C-2 by a solid wedge bond to the left of the hydrogen on C-2. The reaction of the intermediate from the bottom generates (2R 4R)-4-Methyl-2-hexanol which shows a hydroxyl group linked by a dashed bond to C-2 to the right of the hydrogen on C-2.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_13_002.jpg"/>
+    </media>
+    <caption>Stereochemistry of the acid-catalyzed addition of H<sub>2</sub>O to the chiral alkene, (<emphasis effect="italics">R</emphasis>)-4-methyl-1-hexene. A mixture of diastereomeric 2<emphasis effect="italics">R</emphasis>,4<emphasis effect="italics">R</emphasis> and 2<emphasis effect="italics">S</emphasis>,4<emphasis effect="italics">R</emphasis> products is formed in unequal amounts because reaction of the chiral carbocation intermediate is not equally likely from top and bottom. The product mixture is optically active.</caption>
+    </figure>
+    <para id="para-00004">As a general rule, the formation of a new chirality center by a chiral reactant leads to unequal amounts of diastereomeric products. If the chiral reactant is optically active because only one enantiomer is used rather than a racemic mixture, then the products are also optically active.</para>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005"><link class="os-embed" url="#exercise/08-13-OC-P20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00006"><link class="os-embed" url="#exercise/08-13-OC-P21"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="sect-00002">
+    <title>Terpenes: Naturally Occurring Alkenes</title>
+    <para id="para-00007">Ever since its discovery in Persia around 1000 A.D., it has been known that <emphasis effect="italics">steam distillation</emphasis>, the distillation of plant materials together with water, produces a fragrant mixture of liquids called essential oils. The resulting oils have long been used as medicines, spices, and perfumes, and their investigation played a major role in the emergence of organic chemistry as a science during the 19th century.</para>
+    <figure class="scaled-down-30" id="fig-00003">
+    <media alt="A photo of a bay laurel tree’s leaves and fruit.">
+    <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_08_98_BayLaurel.jpg"/>
+    </media>
+    <caption>The wonderful fragrance of leaves from the California bay laurel is due primarily to myrcene, a simple terpene. (credit: “California Bay Umbellularia californica” by Don Loaire/Flickr, CC BY 2.0)</caption>
+    </figure>
+    <para id="para-00008">Chemically, plant essential oils consist largely of mixtures of compounds called terpenoids—small organic molecules with an immense diversity of structure. More than 35,000 different terpenoids are known. Some are open-chain molecules, and others contain rings; some are hydrocarbons, and others contain oxygen. Hydrocarbon terpenoids, in particular, are known as terpenes, and all contain double bonds. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structural formula of four terpenes. The first structure shows myrcene (oil of bay). It shows an octadiene skeleton with double bonds at C-1 and C-6 a methylene group at C-3 and a methyl group at C-7. The second structure shows alpha-pinene (turpentine). It shows a bicyclic heptene with one methyl group at C-2 and two methyl groups at C-6 and a double bond. The third structure shows humulene (oil of hops). It shows an 11-membered macrocycle consisting of three isoprene units with three double bonds at C-1 C-4 and C-8; two methyl groups are bonded to C-11 and a methyl group is bonded to C-4 and C-8. The fourth structure shows beta-Santalene (sandalwood oil). It shows a bicyclo [2.2.1] heptane with a methylidene group at C-2 and a methyl group at C-3; at C-3 a substituent shows a five-carbon chain with a double bond at the third carbon and a methyl group at the fourth carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_13_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Regardless of their apparent structural differences, all terpenoids are related. According to a formalism called the isoprene rule, they can be thought of as arising from head-to-tail joining of 5-carbon isoprene units (2-methyl-1,3-butadiene). Carbon 1 is the head of the isoprene unit, and carbon 4 is the tail. For example, myrcene contains two isoprene units joined head to tail, forming an 8-carbon chain with two 1-carbon branches. <emphasis effect="bold"><emphasis effect="italics">α</emphasis></emphasis>-Pinene similarly contains two isoprene units assembled into a more complex cyclic structure, and humulene contains three isoprene units. See if you can identify the isoprene units in <emphasis effect="bold"><emphasis effect="italics">α</emphasis></emphasis>-pinene, humulene, and <emphasis effect="bold"><emphasis effect="italics">β</emphasis></emphasis>-santalene.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_13_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010">Terpenes (and terpenoids) are further classified according to the number of 5-carbon units they contain. Thus, monoterpenes are 10-carbon substances derived from two isoprene units, sesquiterpenes are 15-carbon molecules derived from three isoprene units, diterpenes are 20-carbon substances derived from four isoprene units, and so on. Monoterpenes and sesquiterpenes are found primarily in plants, but the higher terpenoids occur in both plants and animals, and many have important biological roles. The triterpenoid lanosterol, for instance, is the biological precursor from which all steroid hormones are made.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <media alt="An illustration shows the structure of lanosterol (a triterpenes C30). It shows a 30-carbon skeleton with three six-membered rings fused with a five-membered ring with double bonds at C-8 and C-24 and at an 8-carbon chain at C-17. It shows a hydroxyl group bonded by a solid wedge at C-3 and two methyl groups bonded by a dashed line and solid wedge at C-4; methyl groups form C-18 and C-19 and C-14 bonding to the ring system by solid wedges and a dashed line respectively. Hydrogen atoms at C-5 and C-17 are bonded by dashed lines.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_13_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011">Isoprene itself is not the true biological precursor of terpenoids. Nature instead uses two “isoprene equivalents”—isopentenyl diphosphate and dimethylallyl diphosphate—which are themselves made by two different routes depending on the organism. Lanosterol, in particular, is biosynthesized from acetic acid by a complex pathway that has been worked out in great detail. We’ll look at the subject more closely in [link]Section 27.5[/link] and [link]Section 27.7[/link].</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows the structure of Isopentenyl diphosphate and Dimethylallyl diphosphate. Isopentenyl diphosphate shows two phosphate groups bonded to C-4 of an isoprene unit. Dimethylallyl diphosphate shows butene with a double bond at C-2 and a methyl group at C-3; two phosphate groups are bonded to C-1.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_13_007.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="key-terms" id="sect-00003">
+    <list id="list-00001">
+    <item>anti stereochemistry</item>
+    <item>bromonium ion</item>
+    <item>carbene, R<sub>2</sub>C</item>
+    <item>chain-growth polymer</item>
+    <item>epoxide</item>
+    <item>glycol</item>
+    <item>halohydrin</item>
+    <item>hydroboration</item>
+    <item>hydrogenated</item>
+    <item>hydroxylation</item>
+    <item>monomer</item>
+    <item>oxidation</item>
+    <item>oxirane</item>
+    <item>oxymercuration–demercuration</item>
+    <item>ozonide</item>
+    <item>polymer</item>
+    <item>reduction</item>
+    <item>Simmons–Smith reaction</item>
+    <item>stereospecific</item>
+    <item>syn stereochemistry</item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title>Summary</title>
+    <para id="para-00012">With the background needed to understand organic reactions now covered, this chapter has begun the systematic description of major functional groups.</para>
+    <para id="para-00013">Alkenes are generally prepared by an elimination reaction, such as dehydrohalogenation, the elimination of HX from an alkyl halide, or dehydration, the elimination of water from an alcohol. The converse of this elimination reaction is the addition of various substances to the alkene double bond to give saturated products.</para>
+    <para id="para-00014">HCl, HBr, and HI add to alkenes by a two-step electrophilic addition mechanism. Initial reaction of the nucleophilic double bond with H<sup>+</sup> gives a carbocation intermediate, which then reacts with halide ion. Bromine and chlorine add to alkenes via three-membered-ring <emphasis effect="bold">bromonium ion</emphasis> or chloronium ion intermediates to give addition products having <emphasis effect="bold">anti stereochemistry</emphasis>. If water is present during the halogen addition reaction, a <emphasis effect="bold">halohydrin</emphasis> is formed.</para>
+    <para id="para-00015">Hydration of an alkene—the addition of water—is carried out by either of two procedures, depending on the product desired. <emphasis effect="bold">Oxymercuration–demercuration</emphasis> involves electrophilic addition of Hg<sup>2+</sup> to an alkene, followed by trapping of the cation intermediate with water and subsequent treatment with NaBH<sub>4</sub>. <emphasis effect="bold">Hydroboration</emphasis> involves addition of borane (BH<sub>3</sub>) followed by oxidation of the intermediate organoborane with alkaline H<sub>2</sub>O<sub>2</sub>. The two hydration methods are complementary: oxymercuration–demercuration gives the product of Markovnikov addition, whereas hydroboration–oxidation gives the product with non-Markovnikov <emphasis effect="bold">syn stereochemistry</emphasis>.</para>
+    <para id="para-00016">Alkenes are <emphasis effect="bold">reduced</emphasis> by addition of H<sub>2</sub> in the presence of a catalyst such as platinum or palladium to yield alkanes, a process called catalytic <emphasis effect="bold">hydrogenation</emphasis>. Alkenes are also <emphasis effect="bold">oxidized</emphasis> by reaction with a peroxyacid to give <emphasis effect="bold">epoxides</emphasis>, which can be converted into trans-1,2-diols by acid-catalyzed hydrolysis. The corresponding cis-1,2-diols can be made directly from alkenes by <emphasis effect="bold">hydroxylation</emphasis> with OsO<sub>4</sub>. Alkenes can also be cleaved to produce carbonyl compounds by reaction with ozone, followed by reduction with zinc metal. In addition, alkenes react with divalent substances called <emphasis effect="bold">carbenes,</emphasis> <m:math><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>R</m:mtext></m:mstyle><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>C</m:mtext><m:mo>:</m:mo></m:mstyle></m:mrow></m:math>, to give cyclopropanes. Nonhalogenated cyclopropanes are best prepared by treatment of the alkene with CH<sub>2</sub>I<sub>2</sub> and zinc–copper, a process called the <emphasis effect="bold">Simmons–Smith reaction</emphasis>.</para>
+    <para id="para-00017">Alkene <emphasis effect="bold">polymers</emphasis>—large molecules resulting from repetitive bonding of many hundreds or thousands of small <emphasis effect="bold">monomer</emphasis> units—are formed by chain-reaction polymerization of simple alkenes. Polyethylene, polypropylene, and polystyrene are examples. As a general rule, radical addition reactions are not common in the laboratory but occur frequently in biological pathways.</para>
+    <para id="para-00018">Many reactions give chiral products. If the reactants are optically inactive, the products are also optically inactive. If one or both of the reactants is optically active, the products can also be optically active.</para>
+    </section>
+    <note id="note-00001">
+    <title>Learning Reactions</title>
+    <para id="para-00019">What’s seven times nine? Sixty-three, of course. You didn’t have to stop and figure it out; you knew the answer immediately because you long ago learned the multiplication tables. Learning the reactions of organic chemistry requires the same approach: reactions have to be learned for quick recall if they are to be useful.</para>
+    <para id="para-00020">Different people take different approaches to learning reactions. Some people make flashcards; others find studying with friends to be helpful. To help guide your study, most chapters in this book end with a summary of the reactions just presented. In addition, the accompanying <emphasis effect="italics">Study Guide and Solutions Manual</emphasis> has several appendixes that organize organic reactions from other perspectives. Fundamentally, though, there are no shortcuts. Learning organic chemistry does take effort.</para>
+    </note>
+    <section class="summary-reactions" id="sect-00005">
+    <title>Summary of Reactions</title>
+    <para id="para-00021"><emphasis effect="bold"><span class="red-text">No stereochemistry is implied unless specifically indicated with wedged, solid, and dashed lines.</span></emphasis></para>
+    <list list-type="enumerated" id="list-00002">
+    <item>Addition reactions of alkenes
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+    <item>Addition of HCl, HBr, and HI (<link document="m00069">Section 7.7</link> and <link document="m00070">Section 7.8</link>)<newline/>
+    Markovnikov regiochemistry occurs, with H adding to the less highly substituted alkene carbon and halogen adding to the more highly substituted carbon.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00008">
+    <media alt="An illustration shows the addition of a hydrogen halide to an alkene. An alkene represented by two carbons linked by a double bond reacts with a hydrogen halide HX in ether to form haloalkane where the double bond is converted to a single bond and the hydrogen bonds to C-1 and the halogen to C-2. HX is highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_001.jpg"/>
+    </media>
+    </figure></item>
+    <item>Addition of halogens Cl<sub>2</sub> and Br<sub>2</sub> (<link document="m00090">Section 8.2</link>)<newline/>
+    Anti addition is observed through a halonium ion intermediate.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <media alt="An illustration shows the addition of a halogen to an alkene. An alkene reacts with halogen X2 and dichloromethane to form an alkane with each halogen atom on opposite sides of the carbon-carbon bond. Halogen is highlighted in pink. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_002.jpg"/>
+    </media>
+    </figure></item>
+    <item>Halohydrin formation (<link document="m00091">Section 8.3</link>)<newline/>
+    Markovnikov regiochemistry and anti stereochemistry occur.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00010">
+    <media alt="An illustration shows halohydrin formation. An alkene reacts with a halogen X2 highlighted in pink and water highlighted in green to form HX where H is highlighted in green and X in pink and a halohydrin represented by a halogen and a hydroxyl bonded on opposite sides to the adjacent carbon atoms; the hydroxyl group is highlighted in green and the halogen in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_003.jpg"/>
+    </media>
+    </figure></item>
+    <item>Addition of water by oxymercuration–demercuration (<link document="m00092">Section 8.4</link>)<newline/>
+    Markovnikov regiochemistry occurs.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <media alt="An illustration shows the addition of water by oxymercuration–demercuration. An alkene represented by two carbons linked by a double bond reacts first with mercury (II) acetate and aqueous tetrahydrofuran both highlighted in pink and then with sodium borohydride highlighted in blue to form an alcohol where a hydroxyl group highlighted in pink is bonded to the first carbon and a hydrogen highlighted in blue is bonded to the other carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_004.jpg"/>
+    </media>
+    </figure></item>
+    <item>Addition of water by hydroboration–oxidation (<link document="m00093">Section 8.5</link>)<newline/>
+    Non-Markovnikov syn addition occurs.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00012">
+    <media alt="An illustration shows the addition of water by hydroboration–oxidation. An alkene reacts first with borane highlighted in blue and tetrahydrofuran and then with basic hydrogen peroxide highlighted in pink to form an alcohol where a hydroxyl group highlighted in pink is bonded to the second carbon and a hydrogen highlighted in blue is bonded to the first carbon. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_005.jpg"/>
+    </media>
+    </figure></item>
+    <item>Catalytic hydrogenation (<link document="m00094">Section 8.6</link>)<newline/>
+    Syn addition occurs.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00013">
+    <media alt="An illustration shows catalytic dehydrogenation. An alkene reacts with hydrogen highlighted in pink and palladium on charcoal or platinum dioxide as catalyst to form an alkane; the two hydrogen atoms added to the two carbons are highlighted in pink. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_006.jpg"/>
+    </media>
+    </figure></item>
+    <item>Epoxidation with a peroxyacid (<link document="m00095">Section 8.7</link>)<newline/>
+    Syn addition occurs.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00014">
+    <media alt="An illustration shows epoxidation by a peroxyacid. An alkene reacts with a peroxyacid to form an epoxide. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon. The oxygen of the three-atom ether is highlighted in pink; one of the oxygen atoms of the acid is highlighted in pink. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_007.jpg"/>
+    </media>
+    </figure></item>
+    <item>Hydroxylation with OsO<sub>4</sub> (<link document="m00095">Section 8.7</link>)<newline/>
+    Syn addition occurs.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00015">
+    <media alt="An illustration shows hydroxylation with osmium tetroxide. An alkene reacts first with osmium tetroxide highlighted in pink and then with sodium bisulfite water or osmium tetroxide and NMO to form a diol. In the diol a hydroxyl group highlighted in pink is bonded to each carbon on the same side of the C–C bond. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_008.jpg"/>
+    </media>
+    </figure></item>
+    <item>Addition of carbenes to yield cyclopropanes (<link document="m00097">Section 8.9</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00004">
+    <item>Dichlorocarbene addition<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00016">
+    <media alt="An illustration shows dichlorocarbene addition. An alkene forms a cis-cyclopropane when trichloromethane highlighted in pink reacts with potassium hydroxide. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon. The cyclopropane shows two chlorine atoms bonded to the apex carbon of the three-carbon ring.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_009.jpg"/>
+    </media>
+    </figure></item>
+    <item>Simmons–Smith reaction<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <media alt="An illustration shows the Simmons-Smith reaction. An alkene reacts with diiodomethane highlighted in pink in the presence of Zinc–Copper in ether to form cyclopropane which shows two hydrogen atoms bonded to the apex carbon all highlighted in pink of the three-carbon ring.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_010.jpg"/>
+    </media>
+    </figure></item></list>
+    </item></list></item>
+    <item>Hydroxylation by acid-catalyzed epoxide hydrolysis (<link document="m00095">Section 8.7</link>)<newline/>
+    Anti stereochemistry occurs.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00018">
+    <media alt="An illustration shows hydroxylation by acid-catalyzed epoxide hydrolysis. An epoxide reacts with an acid represented by a hydronium ion highlighted in pink to form a trans-1 2-diol. The epoxide shows an oxygen highlighted in pink bonded to two carbon atoms to form a three-atom ring. The diol shows a hydroxyl group highlighted in pink bonded to each carbon on opposite sides of the C–C bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_011.jpg"/>
+    </media>
+    </figure></item>
+    <item>Oxidative cleavage of alkenes (<link document="m00096">Section 8.8</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
+    <item>Reaction with ozone followed by zinc in acetic acid<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00019">
+    <media alt="An illustration shows reaction of an alkene with ozone and zinc in acetic acid. An alkene reacts first with ozone highlighted in pink and then with zinc highlighted in blue in acid which is represented by a hydronium ion to form two carbonyl compounds. The alkene shows two carbons linked by a double bond; each carbon is bonded to two groups denoted by R. Each carbonyl compound shows a carbon bonded to an oxygen highlighted in pink by a double bond and to two R groups by single bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_012.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reaction with KMnO<sub>4</sub> in acidic solution<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00020">
+    <media alt="An illustration shows the reaction of two different alkenes with potassium permanganate in acidic reaction. The first alkene reacts with potassium permanganate in acidic solution represented by a hydronium ion to form two carbonyl compounds. Potassium permanganate in acidic solution is highlighted in pink. The alkene shows two carbons linked by a double bond; each carbon is bonded to two groups denoted by R. Each carbonyl compound shows a carbon bonded to an oxygen highlighted in pink by a double bond and to two R groups by single bonds. The second alkene reacts with potassium permanganate in acidic solution represented by a hydronium ion to form an acid and carbon dioxide. Potassium permanganate in acidic solution is highlighted in pink. The alkene shows two carbons linked by a double bond; one carbon is bonded to a hydrogen and a group denoted by R and the other carbon is bonded to two groups denoted by R. The acid shows a carbon bonded to an oxygen highlighted in pink by a double bond and a hydroxyl group highlighted in pink by a single bond; the carbon is also bonded to R.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_013.jpg"/>
+    </media>
+    </figure></item></list>
+    </item>
+    <item>Cleavage of 1,2-diols (<link document="m00096">Section 8.8</link>)<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00021">
+    <media alt="An illustration shows the cleavage of 1 2-diols. A 1 2-diol reacts with aqueous periodic acid to form two carbonyl groups represented by a carbon bonded to an oxygen highlighted in pink by a double bond. In the diol a hydroxyl group highlighted in pink is bonded to each carbon on the same side of the C–C bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_EC_014.jpg"/>
+    </media>
+    </figure>
+    </item></list>
+    </section>
+    <section class="visualizing-chemistry" id="sect-00006">
+    <title>Visualizing Chemistry</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00022"><link class="os-embed" url="#exercise/08-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00023"><link class="os-embed" url="#exercise/08-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00024"><link class="os-embed" url="#exercise/08-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00025"><link class="os-embed" url="#exercise/08-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="visualizing-chemistry" id="sect-00007">
+    <title>Mechanism Problems</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00026"><link class="os-embed" url="#exercise/08-99-OC-MP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00027"><link class="os-embed" url="#exercise/08-99-OC-MP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00028"><link class="os-embed" url="#exercise/08-99-OC-MP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00029"><link class="os-embed" url="#exercise/08-99-OC-MP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00030"><link class="os-embed" url="#exercise/08-99-OC-MP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00031"><link class="os-embed" url="#exercise/08-99-OC-MP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00032"><link class="os-embed" url="#exercise/08-99-OC-MP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00033"><link class="os-embed" url="#exercise/08-99-OC-MP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00034"><link class="os-embed" url="#exercise/08-99-OC-MP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00035"><link class="os-embed" url="#exercise/08-99-OC-MP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00036"><link class="os-embed" url="#exercise/08-99-OC-MP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00037"><link class="os-embed" url="#exercise/08-99-OC-MP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00038"><link class="os-embed" url="#exercise/08-99-OC-MP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00039"><link class="os-embed" url="#exercise/08-99-OC-MP16"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="additional-problems" id="sect-00008">
+    <title>Additional Problems</title>
+    <para id="para-00040"><emphasis effect="bold"><span class="red-text">Reactions of Alkenes</span></emphasis></para>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00041"><link class="os-embed" url="#exercise/08-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00042"><link class="os-embed" url="#exercise/08-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00043"><link class="os-embed" url="#exercise/08-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00044"><link class="os-embed" url="#exercise/08-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00045"><link class="os-embed" url="#exercise/08-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00046"><link class="os-embed" url="#exercise/08-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00047"><link class="os-embed" url="#exercise/08-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00048"><link class="os-embed" url="#exercise/08-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00049"><emphasis effect="bold"><span class="red-text">Synthesis Using Alkenes</span></emphasis></para>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00050"><link class="os-embed" url="#exercise/08-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00051"><link class="os-embed" url="#exercise/08-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00052"><link class="os-embed" url="#exercise/08-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00053"><link class="os-embed" url="#exercise/08-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00054"><link class="os-embed" url="#exercise/08-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00055"><emphasis effect="bold"><span class="red-text">Polymers</span></emphasis></para>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00056"><link class="os-embed" url="#exercise/08-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00057"><link class="os-embed" url="#exercise/08-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00058"><link class="os-embed" url="#exercise/08-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00059"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00060"><link class="os-embed" url="#exercise/08-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00061"><link class="os-embed" url="#exercise/08-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00062"><link class="os-embed" url="#exercise/08-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00063"><link class="os-embed" url="#exercise/08-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00064"><link class="os-embed" url="#exercise/08-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00065"><link class="os-embed" url="#exercise/08-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00066"><link class="os-embed" url="#exercise/08-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00067"><link class="os-embed" url="#exercise/08-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00068"><link class="os-embed" url="#exercise/08-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00069"><link class="os-embed" url="#exercise/08-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00047">
+    <problem id="prob-00047">
+    <para id="para-00070"><link class="os-embed" url="#exercise/08-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00048">
+    <problem id="prob-00048">
+    <para id="para-00071"><link class="os-embed" url="#exercise/08-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00049">
+    <problem id="prob-00049">
+    <para id="para-00072"><link class="os-embed" url="#exercise/08-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00050">
+    <problem id="prob-00050">
+    <para id="para-00073"><link class="os-embed" url="#exercise/08-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00051">
+    <problem id="prob-00051">
+    <para id="para-00074"><link class="os-embed" url="#exercise/08-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
