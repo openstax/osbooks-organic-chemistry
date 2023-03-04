@@ -112,7 +112,7 @@
     <para id="para-00021"><emphasis effect="bold"><span class="red-text">No stereochemistry is implied unless specifically indicated with wedged, solid, and dashed lines.</span></emphasis></para>
     <list list-type="enumerated" id="list-00002">
     <item>Addition reactions of alkenes
-    <list mark-prefix="(" mark-suffix=")" number-style="lower-alpha" id="list-00003">
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
     <item>Addition of HCl, HBr, and HI (<link document="m00069">Section 7.7</link> and <link document="m00070">Section 7.8</link>)<newline/>
     Markovnikov regiochemistry occurs, with H adding to the less highly substituted alkene carbon and halogen adding to the more highly substituted carbon.<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00008">
@@ -170,7 +170,7 @@
     </media>
     </figure></item>
     <item>Addition of carbenes to yield cyclopropanes (<link document="m00097">Section 8.9</link>)
-    <list mark-prefix="(" mark-suffix=")" id="list-00004">
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00004">
     <item>Dichlorocarbene addition<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00016">
     <media alt="An illustration shows dichlorocarbene addition. An alkene forms a cis-cyclopropane when trichloromethane highlighted in pink reacts with potassium hydroxide. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon. The cyclopropane shows two chlorine atoms bonded to the apex carbon of the three-carbon ring.">
