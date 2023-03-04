@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Halohydrins from Alkenes: Addition of HO-X</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Halohydrins from Alkenes: Addition of HO-X</md:title>
+    <md:content-id>m00091</md:content-id>
+    <md:uuid>db461549-23df-484a-91d9-9b331f845aeb</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Another example of an electrophilic addition is the reaction an alkene with either Br<sub>2</sub> or Cl<sub>2</sub> in the presence of water to yield a 1,2-halo alcohol, called a <term id="term-00001">halohydrin</term>.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows a chemical reaction. An alkene reacts with a halogen denoted by X2 in the presence of water to form a halohydrin and a hypohalous acid HX. The halohydrin shows a halogen X and a hydroxyl group bonded to two adjacent carbon atoms on opposite sides.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_03_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">We saw in the previous section that when Br<sub>2</sub> reacts with an alkene, the cyclic bromonium ion intermediate reacts with the only nucleophile present, Br<sup>−</sup> ion. If the reaction is carried out in the presence of an additional nucleophile, however, the intermediate bromonium ion can be intercepted by the added nucleophile and diverted to a different product. In the presence of a high concentration of water, for instance, water competes with Br<sup>−</sup> ion as a nucleophile and reacts with the bromonium ion intermediate to yield a <emphasis effect="italics">bromohydrin</emphasis>. The net effect is addition of HO − Br to the alkene by the pathway shown in <link>Figure 08_03_OChem-08-03-002_80485-08-01_ M-Bromohy</link>.</para>
+    <figure class="mechanism-figure scaled-down" id="fig-00002">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows the mechanism for the reaction of an alkene with bromine Br2 in the presence of water. In Step 1 trans-2-butene reacts with bromine to yield a bromonium ion and a negatively charge bromine anion. A positively charged bromine ion with two electron pairs forms a three-atom cyclic structure with C-2 and C-3 of butene. Pink arrows indicate the direction of electron transfer. An arrow points from a water molecule with two electron pairs on the oxygen to C-3. Another pink arrow points from the bond linking C-3 and the bromine to the bromine. In Step 2 C-3 is bonded to the water molecule where oxygen has a positive charge and a pair of electrons. A bromine is bonded to C-1 on the opposite side. A pink arrow points from another water molecule OH2 with two electron pairs to one of the hydrogen atoms bonded to the hydroxide at C-3; another arrow points from the bond between that hydrogen and the positive oxygen to the electron pair on the latter. In Step 3 a proton is removed at C-3 to give 3-Bromo-2-butanol and a hydronium ion.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_03_002.jpg"/>
+    </media>
+    <caption>Bromohydrin formation by reaction of an alkene with <span class="magenta-text"><emphasis effect="bold">Br<sub>2</sub></emphasis></span> in the presence of <span class="green-text"><emphasis effect="bold">water</emphasis></span>. Water acts as a nucleophile in step 2 to react with the intermediate bromonium ion.</caption>
+    </figure>
+    <para id="para-00003">In practice, few alkenes are soluble in water, and bromohydrin formation is often carried out in a solvent such as aqueous dimethyl sulfoxide, CH<sub>3</sub>SOCH<sub>3</sub> (DMSO), using a reagent called <emphasis effect="italics">N</emphasis>-bromosuccinimide (NBS) as a source of Br<sub>2</sub>. NBS is a stable, easily handled compound that slowly decomposes in water to yield Br<sub>2</sub> at a controlled rate. Bromine itself can also be used in the addition reaction, but it is more dangerous and more difficult to handle than NBS.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a chemical reaction. Styrene reacts with N-bromosuccinimide in the presence of aqueous dimethyl sulfoxide to form 70 percent 2-Bromo-1-phenylethanol. Styrene shows a benzene ring with an ethenyl group bonded to one of the ring carbons. N-bromosuccinimide shows a nitrogen containing five-membered pyrrolidine ring with a ketone group at C-2 and C-5 and bromine bonded to N-1. Dimethyl sulfoxide shows two methyl groups linked by a sulfinyl (SO) group. 2-Bromo-1-phenylethanol shows a benzene ring with one of its ring carbons bonded to another carbon which is in turn bonded to a hydrogen atom a hydroxide group and another carbon. The second carbon is bonded to two hydrogen atoms and a bromine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_03_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Notice that the aromatic ring in the above example does not react with Br<sub>2</sub>, even though it appears to have three carbon–carbon double bonds. As we’ll see in [link]Section 15.2[/link], aromatic rings are a good deal more stable and less reactive than might be expected.</para>
+    <para id="para-00005">There are a number of biological examples of halohydrin formation, particularly in marine organisms. As with halogenation (<link document="m00090">Section 8.2</link>), halohydrin formation is carried out by <emphasis effect="italics">haloperoxidases</emphasis>. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a chemical reaction. It shows the action of bromoperoxidase in an aqueous solution of an alkene which shows a hydroxymethyl group bonded to ethenylbenzene dilute hydrogen peroxide and bromine anion at pH 3 to form a halohydrin. The halohydrin shows a benzene ring bonded to a carbon bonded to a hydrogen atom a hydroxide group (from the peroxide) and another carbon which is in turn bonded a bromine a hydrogen atom and a hydroxymethyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_03_004.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/08-03-OC-P05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00007"><link class="os-embed" url="#exercise/08-03-OC-P06"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
