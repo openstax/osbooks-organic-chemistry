@@ -1,0 +1,64 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oxidation of Alkenes: Cleavage to Carbonyl Compounds</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Oxidation of Alkenes: Cleavage to Carbonyl Compounds</md:title>
+    <md:content-id>m00096</md:content-id>
+    <md:uuid>54be7317-2cc2-4ed8-a6e4-706aadf8d5e2</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">In all the alkene addition reactions we’ve seen thus far, the carbon–carbon double bond has been converted into a single bond but the carbon skeleton has been unchanged. There are, however, powerful oxidizing reagents that will cleave C=C bonds and produce two carbonyl-containing fragments.</para>
+    <para id="para-00002">Ozone (O<sub>3</sub>) is perhaps the most useful double-bond cleavage reagent. Prepared by passing a stream of oxygen through a high-voltage electrical discharge, ozone adds rapidly to a C=C bond at low temperature to give a cyclic intermediate called a <emphasis effect="italics">molozonide</emphasis>. Once formed, the molozonide spontaneously rearranges to form an <term id="term-00001">ozonide</term>. Although we won’t study the mechanism of this rearrangement in detail, it involves the molozonide coming apart into two fragments that then recombine in a different way.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows two chemical reactions. The first shows the formation of 3 molecules of ozone by passing 3 molecules of oxygen through an electric discharge. The second shows the reaction of an alkene with ozone and dichloromethane at minus 78 degrees Celsius to form a molozonide intermediate which shows a five-membered ring formed by three oxygen atoms and two carbon atoms. The molozonide rearranges to form an ozonide which shows a five-membered ring with oxygen flanked by two carbon atoms and the other two oxygen atoms form the base. In the next step ozonide reacts with zinc highlighted in blue in acetic acid to form two carbonyl compounds represented by a carbon bonded to an oxygen by a double bond. All oxygen atoms oxygen and ozone are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_08_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Low-molecular-weight ozonides are explosive and therefore not isolated. Instead, the ozonide is immediately treated with a reducing agent, such as zinc metal in acetic acid, to produce carbonyl compounds. The net result of the ozonolysis/reduction sequence is that the C=C bond is cleaved and an oxygen atom becomes doubly bonded to each of the original alkene carbons. If an alkene with a tetrasubstituted double bond is ozonized, two ketone fragments result; if an alkene with a trisubstituted double bond is ozonized, one ketone and one aldehyde result; and so on.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows two chemical reaction. First reaction: Isopropylidenecyclohexane (tetrasubstituted) reacts with ozone followed by treatment with zinc in acid to form 84 percent of two ketones—Cyclohexanone which shows one of the carbon atoms of cyclohexane bonded to oxygen by a double bond and acetone which shows a carbon bonded to two methyl groups and to an oxygen atom via a double bond. Second reaction: Methyl 9-octadecenoate (disubstituted) reacts with ozone followed by treatment with zinc in acid to form 78 percent of two aldehydes—nonanal and methyl 9-oxononanoate. Methyl 9-octadecenoate shows a methyl group bonded via seven methanediyl groups to a carbon; this carbon is bonded to a hydrogen and via a double bond to another carbon which is in turn bonded to a hydrogen and via seven methanediyl groups to ethanoate. Nonanal shows a methyl group bonded to a carbonyl carbon bonded to a hydrogen via seven methylene bridges. Methyl 9-oxononanoate shows a methyl group bonded to a carbonyl carbon bonded to a hydrogen via an oxygen; the carbonyl carbon is bonded to another carbon bonded to another carbonyl carbon and a hydrogen via seven methylene bridges.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_08_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Several oxidizing reagents other than ozone also cause double-bond cleavage, although such reactions are not often used. For example, potassium permanganate (KMnO<sub>4</sub>) in neutral or acidic solution cleaves alkenes to give carbonyl-containing products. If hydrogens are present on the double bond, carboxylic acids are produced; if two hydrogens are present on one carbon, CO<sub>2</sub> is formed.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a chemical reaction. 3 7-Dimethyl-1-octene reacts with potassium permanganate in acidic solution highlighted in pink to form 45 percent 2 6-Dimethylheptanoic acid and carbon dioxide. 3 7-Dimethyl-1-octene shows octene with a double bond at C-1 and two methyl groups at C-7. 2 6-Dimethylheptanoic acid shows a methyl group at C-2 and C-6 of heptanoic acid. The oxygen atoms in the products along with the hydrogen of the acidic group are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_08_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">In addition to direct cleavage with ozone or KMnO<sub>4</sub>, an alkene can also be cleaved in a two-step process by initial hydroxylation to a 1,2-diol, as discussed in the previous section, followed by treatment of the diol with periodic acid, HIO<sub>4</sub>. If the two  − OH groups are in an open chain, two carbonyl compounds result. If the two  − OH groups are on a ring, a single, open-chain dicarbonyl compound is formed. As indicated in the following examples, the cleavage reaction takes place through a cyclic periodate intermediate.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows two chemical reaction. First reaction: A 1 2-diol is cleaved by periodic acid THF and water into 86 percent open-chain 6-Oxoheptanal via a cyclic periodate intermediate. 1 2-diol shows cyclohexane with two hydroxyl groups highlighted in pink at C-1 and C-2; a methyl group is also bonded to C-1 and a hydrogen to C-2. In the cyclic periodate intermediate the hydrogen of each hydroxyl group of the diol is removed; oxygen atoms are bonded to Iodine atom which is in turn bonded to a hydroxyl group and via double bonds to two other oxygen atoms. Periodic acid is highlighted in green. In 6-Oxoheptanal the bond between C-1 and C-2 is split; C-1 and C-2 bonded to an oxygen each highlighted in pink via a double bond. Second reaction: A cyclic 1 2-diol is cleaved by periodic acid THF and water into 2 molecules of 81 percent Cyclopentanone via a cyclic periodate intermediate. The diol shows a cyclopentanol bonded to another cyclopentanol. In the cyclic periodate intermediate the hydrogen of each hydroxyl group of the diol is removed; oxygen atoms are bonded to Iodine atom which is in turn bonded to a hydroxyl group and via double bonds to two other oxygen atoms. Periodic acid is highlighted in green; the hydroxyl groups and oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_08_004.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Reactant in an Ozonolysis Reaction</title>
+    <para id="para-00006">What alkene would yield a mixture of cyclopentanone and propanal on treatment with ozone followed by reduction with zinc?</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the chemical reaction in a problem. In the problem statement a substance that is to be determined is treated with ozone and then reduced with zinc in acetic acid to give cyclopentanone and propanal.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_08_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007"><title><span class="red-text">Strategy</span></title> Reaction of an alkene with ozone, followed by reduction with zinc, cleaves the C=C bond and becomes two C=O bonds. Working backward from the carbonyl-containing products, the alkene precursor can be found by removing the oxygen from each product and joining the two carbon atoms.</para>
+    <para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows the chemical reaction of the solution the oxygen atoms highlighted in pink from the carbonyl- containing cyclopentanone and propanal are removed indicated by a dashed circle around the oxygen atoms. An arrow points backward from the alkene precursor to be determined. The alkene shows the C-1 of a cyclopentane ring bonded to a three-carbon chain via a double bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_08_006.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/08-08-OC-P15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00010"><link class="os-embed" url="#exercise/08-08-OC-P16"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
