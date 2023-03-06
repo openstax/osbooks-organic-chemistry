@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>An Introduction to Organic Synthesis</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>An Introduction to Organic Synthesis</md:title>
@@ -6,6 +6,464 @@
     <md:uuid>1100f799-07f4-4d88-9223-ec48fad89def</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">123</para>
-  </content>
+    <para id="para-00001">As mentioned in the introduction, one of the purposes of this chapter is to use alkyne chemistry as a vehicle to begin looking at some of the general strategies used in organic synthesis—the construction of complex molecules in the laboratory. There are many reasons for carrying out the laboratory synthesis of an organic compound. In the pharmaceutical industry, new molecules are designed and synthesized in the hope that some might be useful new drugs. In the chemical industry, syntheses are done to devise more economical routes to known compounds. In academic laboratories, the synthesis of extremely complex molecules is sometimes done just for the intellectual challenge involved in mastering so difficult a subject. The successful synthesis route is a highly creative work that is sometimes described by such subjective terms as <emphasis effect="italics">elegant</emphasis> or <emphasis effect="italics">beautiful</emphasis>.</para>
+    <para id="para-00002">In this book, too, we will often devise syntheses of molecules from simpler precursors, but the purpose here is to learn. The ability to plan a successful multistep synthetic sequence requires a working knowledge of the uses and limitations of many different organic reactions. Furthermore, it requires the practical ability to piece together the steps in a sequence such that each reaction does only what is desired without causing changes elsewhere in the molecule. Planning a synthesis makes you approach a chemical problem in a logical way, draw on your knowledge of chemical reactions, and organize that knowledge into a workable plan—it helps you learn organic chemistry.</para>
+    <para id="para-00003">There’s no secret to planning an organic synthesis: all it takes is a knowledge of the different reactions and some practice. The only real trick is to work backward in what is often called a <term id="term-00001">retrosynthetic</term> direction. Don’t look at a potential starting material and ask yourself what reactions it might undergo. Instead, look at the final product and ask, “What was the immediate precursor of that product?” For example, if the final product is an alkyl halide, the immediate precursor might be an alkene, to which you could add HX. If the final product is a cis alkene, the immediate precursor might be an alkyne, which you could hydrogenate using the Lindlar catalyst. Having found an immediate precursor, work backward again, one step at a time, until you get back to the starting material. You have to keep the starting material in mind, of course, so that you can work back to it, but you don’t want that starting material to be your main focus.</para>
+    <para id="para-00004">Let’s work several examples of increasing complexity.</para>
+    <example id="exam-00001">
+    <title>Devising a Synthesis Route</title>
+    <para id="para-00005">How would you synthesize <emphasis effect="italics">cis</emphasis>-2-hexene from 1-pentyne and an alkyl halide? More than one step is needed.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reaction between “1-pentyne” and “alkyl halide” to yield cis-2-Hexene; two reaction arrows are shown toward the product formed. The structure of 1-pentyne shows a methyl group bonded to two consecutive methylene groups bonded to a carbon triple bonded to a methine group. Alkyl halide is shown as “RX.” The structure of cis-2-hexene shows a carbon double bonded to another carbon; the carbon at left shows an upward bond with a propyl group and a downward bond with a hydrogen. The carbon at the right side shows an upward bond with a methyl group and a downward bond with hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006"><title><span class="red-text">Strategy</span></title> When undertaking any synthesis problem, you should look at the product, identify the functional groups it contains, and then ask yourself how those functional groups can be prepared. Always work retrosynthetically, one step at a time.</para>
+    <para id="para-00007">The product in this case is a cis-disubstituted alkene, so the first question is, “What is an immediate precursor of a cis-disubstituted alkene?” We know that an alkene can be prepared from an alkyne by reduction and that the right choice of experimental conditions will allow us to prepare either a trans-disubstituted alkene (using lithium in liquid ammonia) or a cis-disubstituted alkene (using catalytic hydrogenation over the Lindlar catalyst). Thus, reduction of 2-hexyne by catalytic hydrogenation using the Lindlar catalyst should yield <emphasis effect="italics">cis</emphasis>-2-hexene.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows 2-hexyne reacting in the presence of hydrogen and a Lindlar catalyst to form cis-2-hexene. The structure of 2-hexyne shows a methyl group bonded to two consecutive methylene group bonded to a carbon triple bonded to another carbon attached to a methyl group. The structure of cis-2-hexene shows a carbon double bonded to another carbon; the carbon at left shows an upward bond with a propyl group and a downward bond with a pink hydrogen. The carbon at the right side shows an upward bond with a methyl group and a downward bond with a pink hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">Next ask, “What is an immediate precursor of 2-hexyne?” We’ve seen that an internal alkyne can be prepared by alkylation of a terminal alkyne anion. In the present instance, we’re told to start with 1-pentyne and an alkyl halide. Thus, alkylation of the anion of 1-pentyne with iodomethane should yield 2-hexyne.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009"><title><span class="cyan-text">Solution</span></title> <emphasis effect="italics">cis</emphasis>-2-Hexene can be synthesized from the given starting materials in three steps.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a reaction wherein 1-pentyne reacts with sodium amide ammonia methyl iodide and THF to yield “2-hexyne” which in the presence of hydrogen and Lindlar catalysts forms “cis-2-Hexene.” The structure of 1-pentyne shows a methyl group bonded to two consecutive methylene groups bonded to a carbon triple bonded to a methine group having a pink hydrogen. The structure of 2-hexyne shows a methyl group bonded to two consecutive methylene groups bonded to a carbon triple bonded to another carbon attached to a methyl group. The structure of cis-2-hexene shows a carbon double bonded to another carbon; the carbon at left shows an upward bond with a propyl group and a downward bond with a pink hydrogen. The carbon at the right side shows an upward bond with a methyl group and a downward bond with a pink hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_004.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <example id="exam-00002">
+    <title>Devising a Synthesis Route</title>
+    <para id="para-00010">How would you synthesize 2-bromopentane from acetylene and an alkyl halide? More than one step is needed.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <media alt="An illustration shows a reaction between “acetylene” and “alkyl halide” pointing with double arrows to the product “2-Bromopentane.” Acetylene is shown as a methine group triple bonded to another methine group. The alkyl halide is shown as RX. The structure of 2-bromopentane is shown as a methyl group bonded to two consecutive methylene groups bonded to a methine group bonded to a bromine at the top and a methyl group on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011"><title><span class="red-text">Strategy</span></title> Identify the functional group in the product (an alkyl bromide) and work the problem retrosynthetically. What is an immediate precursor of an alkyl bromide? Perhaps an alkene plus HBr. Of the two possibilities, Markovnikov addition of HBr to 1-pentene looks like a better choice than addition to 2-pentene because the latter reaction would give a mixture of isomers.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <media alt="An illustration shows a reaction comprising of two optional reactants that react in the presence of hydrogen bromide and an ether to form an alkyl bromide. The optional reactant is 1-pentene or 2-pentene. The structural formula of 1-pentene shows a methyl group bonded to two consecutive methylene groups bonded to a methine group double bonded to a methylene group. The structure of 2-pentene shows a methyl group bonded to a methylene group bonded to a methine group double bonded to another methine group bonded to a methyl group. The structure of alkyl bromide shows a methyl group bonded to two consecutive methylene groups bonded to a methine group sharing an upward bond with a pink bromine and a side bond with a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012">What is an immediate precursor of an alkene? Perhaps an alkyne, which could be reduced.</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00013">What is an immediate precursor of a terminal alkyne? Perhaps sodium acetylide and an alkyl halide.</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00014"><title><span class="cyan-text">Solution</span></title></para>
+    <para id="para-00015">The desired product can be synthesized in four steps from acetylene and 1-bromopropane.</para>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="An illustration shows a 3-step reaction where acetylene reacts in the presence of sodium amide ammonia propyl bromide and THF to yield “1-pentyne” which in the presence of hydrogen and a Lindlar catalyst yields “1-Pentene” that reacts in the presence of hydrogen bromide and ether to form “2-bromopentane.” Acetylene is shown as a methine group triple bonded to another methine group. The structure of 1-pentyne shows a methyl group bonded to two consecutive methylene groups bonded to a carbon triple bonded to a methine group. The structural formula of 1-pentene shows a methyl group bonded to two consecutive methylene groups bonded to a methine group double bonded to a methylene group. The structure of 2-bromopentane is shown as a methyl group bonded to two consecutive methylene groups bonded to a methine group whose carbon has a downward bond with a bromine and a side bond with a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_009.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <example id="exam-00003">
+    <title>Devising a Synthesis Route</title>
+    <para id="para-00016">How would you synthesize 5-methyl-1-hexanol (5-methyl-1-hydroxyhexane) from acetylene and an alkyl halide?</para>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows a reaction between acetylene and alkyl halide pointing with double arrows to yield “5-methyl-1-hexanol.” Acetylene is shown as a methine group triple bonded to another methine group. Alkyl halide is shown as RX. The structure of 5-methyl-1-hexanol shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is bonded to four consecutive methylene groups bonded to a hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_010.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00017"><title><span class="red-text">Strategy</span></title> What is an immediate precursor of a primary alcohol? Perhaps a terminal alkene, which could be hydrated with non-Markovnikov regiochemistry by reaction with borane followed by oxidation with H<sub>2</sub>O<sub>2</sub>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00011">
+    <media alt="An illustration shows a terminal alkene reacting in the presence of borane hydrogen peroxide and sodium hydroxide to yield a primary alcohol. The structural formula of the alkene shows a methyl group bonded to a methine group whose carbon shares an upward bond to a methyl group; the methine is further bonded to two consecutive methylene groups bonded to a methine group double bonded to a methylene group. The structure of primary alcohol shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is bonded to four consecutive methylene groups bonded to a pink hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_011.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00018">What is an immediate precursor of a terminal alkene? Perhaps a terminal alkyne, which could be reduced.</para>
+    <figure class="unnumbered scaled-down" id="fig-00012">
+    <media alt="An illustration shows an alkyne reacting in the presence of hydrogen and a Lindlar catalyst to yield an alkene. The structural formula of alkyne shows a methyl group bonded to a methine group whose carbon shares an upward bond to a methyl group; the methine is further bonded to two consecutive methylene groups bonded to a carbon triple bonded to a methine group. The structure of alkene shows a methyl group bonded to a methine group whose carbon shares an upward bond to a methyl group; the methine group is further bonded to two consecutive methylene groups bonded to a methine group double bonded to a methylene group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_012.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00019">What is an immediate precursor of 5-methyl-1-hexyne? Perhaps acetylene and 1-bromo-3-methylbutane.</para>
+    <figure class="unnumbered scaled-down" id="fig-00013">
+    <media alt="An illustration shows a reaction wherein acetylene reacts in the presence of sodium amide and 1-bromo-3-methylbutane to yield “5-methyl-1-hexyne” that further in the presence of hydrogen and Lindlar catalyst forms “5-methyl-1-hexene” that further reacts in the presence of borane hydrogen peroxide and sodium hydroxide and yields “5-methyl-1-hexanol.” Acetylene is shown as a methine group having a pink hydrogen triple bonded to another methine group. The structural formula of 1-bromo-3-methylbutane shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is further bonded to two consecutive methylene groups bonded to a pink bromine. The structure of 5-methyl-1-hexyne shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is further bonded to two consecutive methylene groups bonded to a carbon having a triple bond with a methine group. The structure of 5-methyl-1-hexene shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is further bonded to two consecutive methylene groups bonded to a methine group having a double bond with a methylene group. The structure of 5-methyl-1-hexanol shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is further bonded to four consecutive methylene groups bonded to a pink hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_013.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00020"><title><span class="cyan-text">Solution</span></title> The synthesis can be completed in four steps from acetylene and 1-bromo-3-methylbutane:</para>
+    <figure class="unnumbered scaled-down" id="fig-00014">
+    <media alt="An illustration shows acetylene reacting in the presence of sodium amide to form an intermediate anion that reacts in the presence of “1-bromo-3-methylbutane” to yield “5-methyl-1-hexyne.” Acetylene is shown as a methine group having a pink hydrogen triple bonded to another methine group. The intermediate anion shows a blue sodium cation placed beside a carbon anion triple bonded to a methine group. The structural formula of 1-bromo-3-methylbutane shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is further bonded to two consecutive methylene groups bonded to a pink bromine. The structure of 5-methyl-1-hexyne shows a methyl group bonded to a methine group whose carbon shares an upward bond with a methyl group the methine group is further bonded to two consecutive methylene groups bonded to a carbon having a triple bond with a methine group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_014.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00021"><link class="os-embed" url="#exercise/09-09-OC-P12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00022"><link class="os-embed" url="#exercise/09-09-OC-P13"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="sect-00002">
+    <title>The Art of Organic Synthesis</title>
+    <figure class="scaled-down-30" id="fig-00015">
+    <media alt="A sludge-waste municipal tank">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_98_VitaminB12.jpg"/>
+    </media>
+    <caption>Vitamin B<sub>12</sub> has been synthesized from scratch in the laboratory, but the bacteria growing on sludge from municipal sewage plants do a much better job. (credit: “Aeration and sludge-wasting” by U.S. Department of Agriculture/Flickr, Public Domain)</caption>
+    </figure>
+    <para id="para-00023">If you think some of the synthesis problems at the end of this chapter are difficult, try devising a synthesis of vitamin B<sub>12</sub> starting only from simple substances you can buy in a chemical catalog. This extraordinary achievement was reported in 1973 as the culmination of a collaborative effort headed by Robert B. Woodward of Harvard University and Albert Eschenmoser of the Swiss Federal Institute of Technology in Zürich. More than 100 graduate students and postdoctoral associates contributed to the work, which took more than a decade to complete.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00016">
+    <media alt="An illustration shows the molecular structure of Vitamin B12. The three dimensional structure shows four pyrrole-like subunits that are organized into a fully conjugated ring with alternating double bonds and single bonds; A methyl group is bonded to each of the four positions connecting the pyrrole-like subunits; a centrally placed Co(III) is bonded to a cyanide atom. The cobalt ion is bonded to four nitrogen atoms that are part of the four pyrrole-like subunits. Each of the two subunits at the top is bonded to a hydrogen methyl group and two methylene groups; each methylene group is bonded to an amide group. The subunit at the bottom right is bonded to a hydrogen two methyl groups and two methylene groups; the second methylene group is bonded to an amide group. The subunit at the bottom left is bonded to a hydrogen methyl group and a methylene group bonded to an amide group. This subunit is bonded to a 2-carbon chain at the bottom. C2 of the chain is bonded to a carbonyl group bonded to a nitrogen monohydride. The nitrogen is bonded to a methylene group bonded to a carbon. The carbon is dash bonded to a hydrogen wedge bonded to a methyl group and single bonded to a phosphate group that is bonded to a furanose ring. The furanose ring is bonded to a hydroxy methyl group a hydroxyl group and a nitrogen of a 5-membered ring that shows a second nitrogen bonded to the cobalt ion. The 5-membered ring is fused to a benzene ring bonded to two methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_016.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00024">Why put such extraordinary effort into the laboratory synthesis of a molecule so easily obtained from natural sources? There are many reasons. On a basic human level, a chemist might be motivated primarily by the challenge, much as a climber might be challenged by the ascent of a difficult peak. Beyond the pure challenge, the completion of a difficult synthesis is also valuable in that it establishes new standards and raises the field to a new level. If vitamin B<sub>12</sub> can be made, then why can’t any molecule found in nature be made? Indeed, the decades that have passed since the work of Woodward and Eschenmoser have seen the laboratory synthesis of many enormously complex and valuable substances. Sometimes these substances—for instance, the anticancer compound paclitaxel, trade named Taxol—are not easily available in nature, so laboratory synthesis is the only method for obtaining larger quantities.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <media alt="An illustration shows the structure of “Paclitaxel (Taxol)” having a benzene bonded to a carbonyl group that is bonded to nitrogen monohydride; the nitrogen is dash boded to a methine group bonded to a benzene at the bottom left and a two-carbon chain at the bottom right. C1 is dash bonded to a hydroxyl group and C2 is a carboxyl group dash bonded to a cyclohexene ring. This ring is single bonded to three methyl groups wedge bonded to a hydrogen and hydroxyl group and bonded to another 2-carbon chain at the top. C1 of the chain is wedge bonded to an oxygen atom bonded to a methyl acetate. C2 is a carbonyl group bonded to a hexane ring. The hexane is wedge bonded to a hydroxyl group methyl group and a 4-membered ring with an oxygen atom. The hexane is dash bonded to an oxygen bonded to methyl acetate group. The hexane ring is bonded to a methine group dash bonded to an oxygen that is also bonded to the cyclohexene ring. The oxygen is bonded to a carbonyl group bonded to a benzene ring.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_09_017.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00025">But perhaps the most important reason for undertaking a complex synthesis is that, in so doing, new reactions and new chemistry are discovered. It invariably happens in a complex synthesis that a point is reached at which the planned route fails. At such a time, the only alternatives are either to quit or to devise a way around the difficulty. New reactions and new principles come from such situations, and it is in this way that the science of organic chemistry grows richer. In the synthesis of vitamin B<sub>12</sub>, for example, unexpected findings emerged that led to the understanding of an entire new class of reactions—the <emphasis effect="italics">pericyclic</emphasis> reactions that are the subject of the chapter on [link]Orbitals and Organic Chemistry: Pericyclic Reactions[/link] in this book. From synthesizing vitamin B<sub>12</sub> to understanding pericyclic reactions—no one could have possibly predicted such a link at the beginning of the synthesis, but that is the way of science.</para>
+    </section>
+    <section class="key-terms" id="sect-00003">
+    <list id="list-00001">
+    <item>acetylide anion</item>
+    <item>alkylation</item>
+    <item>alkyne</item>
+    <item>enol</item>
+    <item>Lindlar Catalyst</item>
+    <item>retrosynthetic</item>
+    <item>tautomer</item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title>Summary</title>
+    <para id="para-00026">Alkynes are less common than alkenes, both in the laboratory and in living organisms, so we haven’t covered them in great detail. The real importance of this chapter is that alkyne chemistry is a useful vehicle for looking at the general strategies used in organic synthesis—the construction of complex molecules in the laboratory.</para>
+    <para id="para-00027">An <emphasis effect="bold">alkyne</emphasis> is a hydrocarbon that contains a carbon–carbon triple bond. Alkyne carbon atoms are <emphasis effect="italics">sp</emphasis>-hybridized, and the triple bond consists of one <emphasis effect="italics">sp</emphasis>–<emphasis effect="italics">sp σ</emphasis> bond and two <emphasis effect="italics">p–p π</emphasis> bonds. There are relatively few general methods of alkyne synthesis. Two favorable ones are the alkylation of an acetylide anion with a primary alkyl halide and the twofold elimination of HX from a vicinal dihalide.</para>
+    <para id="para-00028">The chemistry of alkynes is dominated by electrophilic addition reactions, similar to those of alkenes. Alkynes react with HBr and HCl to yield vinylic halides and with Br<sub>2</sub> and Cl<sub>2</sub> to yield 1,2-dihalides (vicinal dihalides). Alkynes can be hydrated by reaction with aqueous sulfuric acid in the presence of mercury(II) catalyst. The reaction leads to an intermediate <emphasis effect="bold">enol</emphasis> that immediately <emphasis effect="bold">tautomerizes</emphasis> to yield a ketone. Because the addition reaction occurs with Markovnikov regiochemistry, a methyl ketone is produced from a terminal alkyne. Alternatively, hydroboration–oxidation of a terminal alkyne yields an aldehyde.</para>
+    <para id="para-00029">Alkynes can be reduced to yield alkenes and alkanes. Complete reduction of the triple bond over a palladium hydrogenation catalyst yields an alkane; partial reduction by catalytic hydrogenation over a <emphasis effect="bold">Lindlar catalyst</emphasis> yields a cis alkene. Reduction of the alkyne with lithium in ammonia yields a trans alkene.</para>
+    <para id="para-00030">Terminal alkynes are weakly acidic. The alkyne hydrogen can be removed by a strong base such as <m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:msup><m:mo>·</m:mo><m:mo>−</m:mo></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math> to yield an <emphasis effect="bold">acetylide anion</emphasis>. An acetylide anion acts as a nucleophile and can displace a halide ion from a primary alkyl halide in an <emphasis effect="bold">alkylation</emphasis> reaction. Acetylide anions are more stable than either alkyl anions or vinylic anions because their negative charge is in a hybrid orbital with 50% <emphasis effect="italics">s</emphasis> character, allowing the charge to be closer to the nucleus.</para>
+    </section>
+    <section class="summary-reactions" id="sect-00005">
+    <title>Summary of Reactions</title>
+    <para id="para-00031">No stereochemistry is implied unless specifically indicated with wedged, solid, and dashed lines.</para>
+    <list list-type="enumerated" id="list-00002">
+    <item>Preparation of alkynes
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+    <item>Dehydrohalogenation of vicinal dihalides (<link document="m00104">Section 9.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00018">
+    <media alt="An illustration shows two reactions. The first reaction shows a dihalide reacting in the presence of two moles of potassium hydroxide ethanol “or” two moles of sodium amide and ammonia to yield an alkyne two moles of water and two moles of potassium bromide. The structure of dihalide shows two centrally placed carbons bonded to each other; each carbon shares an upward bond with pink hydrogen and a downward bond with pink bromine; to the left carbon is bonded R and to the right side carbon is shown bonded R’. The alkyne shows R bonded to carbon triple bonded to another carbon bonded to R’. The second reaction shows an alkene reacting in the presence of potassium hydroxide ethanol “or” sodium amide and ammonia to yield an alkyne water and potassium bromide with pink bromine. The alkene shows two carbons double bonded to each other; the left side carbon shares an upward bond with pink hydrogen and R the right side carbon shares an upward bond with pink bromine and R’. The alkyne shows R bonded to carbon triple bonded to another carbon bonded to R’.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_001.jpg"/>
+    </media>
+    </figure></item>
+    <item>Alkylation of acetylide anions (<link document="m00110">Section 9.8</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00019">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_002.jpg"/>
+    </media>
+    </figure>
+    <figure class="unnumbered scaled-down" id="fig-00020">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_003.jpg"/>
+    </media>
+    </figure></item></list></item>
+    <item>Reactions of alkynes
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+    <item>Addition of HCl and HBr (<link document="m00105">Section 9.3</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00021">
+    <media alt="An illustration shows an alkyne reacting in the presence of pink HX and ether to form an alkene that reacts in the presence of pink HX and ether to yield an alkyl halide. The alkyne shows an R bonded to carbon triple bonded to another carbon bonded to R. The alkene shows carbon double bonded to another carbon; the carbon at left side bonds with pink “X” and R while the carbon at right side is bonded to R and pink H. The alkyl halide shows R bonded to carbon having upward two bonds with two pink “X”; the carbon bonds to another carbon having two downward bonds with pink hydrogens the carbon further bonds with R.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_004.jpg"/>
+    </media>
+    </figure></item>
+    <item>Addition of Cl<sub>2</sub> and Br<sub>2</sub> (<link document="m00105">Section 9.3</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00022">
+    <media alt="An illustration shows a reaction of an alkyne in the presence of X2 and dichloromethane to yield an alkene that further reacts in the presence of X2 and dichloromethane to yield an alkyl halide. The structure of alkyne shows an R bonded to carbon triple bonded to another carbon bonded to R’. The alkene shows carbon double bonded to another carbon; the carbon at the left side bonds with pink “X” and R while the carbon at the right side is bonded to R’ and pink X; the pink “X” are bonded diagonally opposite to each other. The alkyl halide shows R bonded to carbon having upward two bonds with two pink “X”; the carbon bonds to another carbon having two downward bonds with pink “X” the carbon further bonds with R’.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_005.jpg"/>
+    </media>
+    </figure></item>
+    <item>Hydration (<link document="m00106">Section 9.4</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00005">
+    <item>Mercuric sulfate catalyzed<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00023">
+    <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of sulfuric acid water and mercury sulfate to yield an enol in parentheses that further forms “a methyl ketone.” The structure of alkyne shows an R bonded to carbon is triple bonded to another carbon bonded to hydrogen. Enol shows a centrally placed carbon sharing an upward bond with a pink hydroxyl group a left side bond with R and a double bond with methylene group at the right side. A methyl ketone shows a centrally placed carbonyl group having pink oxygen; the carbon of carbonyl group is bonded to R on left side and a methyl group on the right side.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_006.jpg"/>
+    </media>
+    </figure></item>
+    <item>Hydroboration–oxidation<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00024">
+    <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of borane and hydrogen peroxide to yield an aldehyde. The structure of alkyne shows R bonded to carbon triple bonded to carbon attached to hydrogen. An aldehyde shows a carbon sharing two downward bonds with hydrogens; the carbon is bonded to R on the left side on the right side carbon bonds to a carbonyl group having pink oxygen the carbon of carbonyl group is further bonded to hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_007.jpg"/>
+    </media>
+    </figure></item></list></item>
+    <item>Reduction (<link document="m00107">Section 9.5</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00006">
+    <item>Catalytic hydrogenation<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00025">
+    <media alt="An illustration shows two reactions. The first reaction shows an alkyne reacting in the presence of two moles of hydrogen and a palladium catalyst to yield an alkyl group. The structural formula of an alkyne shows R bonded to carbon triple bonded to another carbon attached to R’. The structure of alkyl product shows a carbon bonded to R two hydrogens and another carbon that is further bonded to two hydrogens and an R’. The second reaction shows an alkyne reacting in the presence of hydrogen and Lindlar catalyst to yield “a cis alkene”. The structure of cis alkene shows two carbons double bonded to each other; the carbon at left side shows an upward bond with a pink hydrogen and a downward bond with R; the carbon on right side shares an upward bond with pink hydrogen and a downward bond with R’.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_008.jpg"/>
+    </media>
+    </figure></item>
+    <item>Lithium in liquid ammonia<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00026">
+    <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of lithium and ammonia to yield a trans alkene. The structural formula of alkyne shows R bonded to carbon triple bonded to another carbon attached to R’. The structure of a trans alkene shows two carbons double bonded to each other; the carbon at the left shares an upward bond with pink hydrogen and a downward bond with R; the carbon at the right side shows an upward bond with R’ and a downward bond with a pink hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_009.jpg"/>
+    </media>
+    </figure></item></list></item>
+    <item>Conversion into acetylide anions (<link document="m00109">Section 9.7</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00027">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_EC_010.jpg"/>
+    </media>
+    </figure></item></list>
+    </item></list>
+    </section>
+    <section class="visualizing-chemistry" id="sect-00006">
+    <title>Visualizing Chemistry</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00032"><link class="os-embed" url="#exercise/09-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00033"><link class="os-embed" url="#exercise/09-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00034"><link class="os-embed" url="#exercise/09-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00035"><link class="os-embed" url="#exercise/09-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="visualizing-chemistry" id="sect-00007">
+    <title>Mechanism Problems</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00036"><link class="os-embed" url="#exercise/09-99-OC-MP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00037"><link class="os-embed" url="#exercise/09-99-OC-MP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00038"><link class="os-embed" url="#exercise/09-99-OC-MP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00039"><link class="os-embed" url="#exercise/09-99-OC-MP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00040"><link class="os-embed" url="#exercise/09-99-OC-MP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00041"><link class="os-embed" url="#exercise/09-99-OC-MP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00042"><link class="os-embed" url="#exercise/09-99-OC-MP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00043"><link class="os-embed" url="#exercise/09-99-OC-MP08"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="additional-problems" id="sect-00008">
+    <title>Additional Problems</title>
+    <para id="para-00044"><emphasis effect="bold">Naming Alkynes</emphasis></para>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00045"><link class="os-embed" url="#exercise/09-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00046"><link class="os-embed" url="#exercise/09-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00047"><link class="os-embed" url="#exercise/09-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00048"><emphasis effect="bold">Reactions of Alkynes</emphasis></para>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00049"><link class="os-embed" url="#exercise/09-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00050"><link class="os-embed" url="#exercise/09-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00051"><link class="os-embed" url="#exercise/09-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00052"><link class="os-embed" url="#exercise/09-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00053"><link class="os-embed" url="#exercise/09-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00054"><link class="os-embed" url="#exercise/09-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00055"><link class="os-embed" url="#exercise/09-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00056"><emphasis effect="bold">Organic Synthesis</emphasis></para>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00057"><link class="os-embed" url="#exercise/09-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00058"><link class="os-embed" url="#exercise/09-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00059"><link class="os-embed" url="#exercise/09-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00060"><link class="os-embed" url="#exercise/09-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00061"><link class="os-embed" url="#exercise/09-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00062"><link class="os-embed" url="#exercise/09-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00063"><link class="os-embed" url="#exercise/09-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00064"><link class="os-embed" url="#exercise/09-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00065"><link class="os-embed" url="#exercise/09-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00066"><link class="os-embed" url="#exercise/09-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00067"><emphasis effect="bold">General Problems</emphasis></para>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00068"><link class="os-embed" url="#exercise/09-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00069"><link class="os-embed" url="#exercise/09-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00070"><link class="os-embed" url="#exercise/09-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00071"><link class="os-embed" url="#exercise/09-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00072"><link class="os-embed" url="#exercise/09-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00073"><link class="os-embed" url="#exercise/09-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00074"><link class="os-embed" url="#exercise/09-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00075"><link class="os-embed" url="#exercise/09-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00076"><link class="os-embed" url="#exercise/09-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00077"><link class="os-embed" url="#exercise/09-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00078"><link class="os-embed" url="#exercise/09-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00079"><link class="os-embed" url="#exercise/09-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
