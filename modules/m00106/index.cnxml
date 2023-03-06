@@ -1,0 +1,81 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Hydration of Alkynes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Hydration of Alkynes</md:title>
+    <md:content-id>m00106</md:content-id>
+    <md:uuid>99b32f8a-b5ad-46ef-b25e-70a95ebd1ea2</md:uuid>
+  </metadata>
+  <content>
+    <para>Like alkenes (<link document="m00092">Section 8.4</link> and <link document="m00093">Section 8.5</link>), alkynes can be hydrated by either of two methods. Direct addition of water catalyzed by mercury(II) ion yields the Markovnikov product, and indirect addition of water by a hydroboration&#8211;oxidation sequence yields the non-Markovnikov product.</para>
+    <section>
+    <title>Mercury(II)-Catalyzed Hydration of Alkynes</title>
+    <para>Alkynes don&#8217;t react directly with aqueous acid but will undergo hydration readily in the presence of mercury(II) sulfate as a Lewis acid catalyst. The reaction occurs with Markovnikov regiochemistry, so the &#8201;&#8722;&#8201;OH group adds to the more highly substituted carbon and the &#8201;&#8722;&#8201;H attaches to the less highly substituted one.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustration shows a reaction wherein 1-hexyne reacts in the presence of water sulfuric acid and mercury sulfate to yield &#8220;an enol&#8221; that further yields &#8220;2-Hexanone (78%).&#8221; The structure of 1-Hexyne shows a methyl group bonded to three consecutive methylene groups and bonded to a carbon triple bonded to a methine group. An enol shown in parentheses shows a methyl group bonded to three consecutive methylene groups bonded to a carbon that is double bonded to a methylene group. The carbon is bonded to a hydroxyl group at the top. The structure of 2-Hexanone shows a methyl group bonded to three consecutive methylene groups bonded to a carbonyl group that is bonded to a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_04_001.jpg"/>
+    </media>
+    </figure>
+    <para>Interestingly, the actual product isolated from alkyne hydration is not a vinylic alcohol, or <term>enol</term> (<emphasis effect="italics">ene</emphasis> &#43; <emphasis effect="italics">ol</emphasis>), but is instead a ketone. Although the enol is an intermediate in the reaction, it immediately rearranges into a ketone by a process called <emphasis effect="italics">keto&#8211;enol tautomerism.</emphasis> The individual keto and enol forms are said to be <term>tautomers</term>, a word used to describe two isomers that undergo spontaneous interconversion accompanied by the change in position of a hydrogen. With few exceptions, the keto&#8211;enol tautomeric equilibrium lies on the side of the ketone; enols are almost never isolated. We&#8217;ll look more closely at this equilibrium in [link]Section 22.1[/link].</para>
+    <figure class="unnumbered scaled-down-30">
+    <media alt="An illustration shows two reversible structures. The first structure is an &#8220;enol tautomer (less favored)&#8221; and the second structure is a &#8220;keto tautomer (more favored).&#8221; The enol tautomer shows two carbons double bonded to each other. The top carbon is bonded to a hydroxyl group and shows a free bond. The bottom carbon shows two free bonds. The keto tautomer shows two carbons single bonded to each other. The top carbon is double bonded to an oxygen atom and shows a free bond. The bottom carbon is bonded to a hydrogen atom and shows two free bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_04_002.jpg"/>
+    </media>
+    </figure>
+    <para>As shown in <link>Figure 09_04_OChem-09-04-003_80485-09-03_M-MercuryII</link>, the mechanism of the mercury(II)-catalyzed alkyne hydration reaction is analogous to the oxymercuration reaction of alkenes (<link document="m00092">Section 8.4</link>). Electrophilic addition of mercury(II) ion to the alkyne gives a vinylic cation, which reacts with water and loses a proton to yield a mercury-containing enol intermediate. In contrast with alkene oxymercuration, however, no treatment with NaBH<sub>4</sub> is necessary to remove the mercury. The acidic reaction conditions alone are sufficient to effect replacement of mercury by hydrogen. Tautomerization then gives the ketone.</para>
+    <figure class="mechanism-figure scaled-down">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows five steps involved in the formation of an intermediate enol. Step &#8220;1&#8221; reads: &#8220;the alkyne uses a pair of electrons to attack the electrophilic mercury (II) ion yielding a mercury containing vinylic carbocation intermediate&#8221;; the corresponding structure shows R bonded to C having a blue triple bond with carbon bonded to hydrogen; a pink arrow from the blue triple bond shows &#8220;green mercury sulfate&#8221; Hg2+ SO4 to the power two minus; the structure of carbocation shows R bonded to carbon cation having a blue double bond with another carbon bonded to hydrogen and green mercury sulfate Hg+SO4 to the power two minus; a pink arrow points from pink water molecule having an oxygen with two pairs of electrons to the carbon cation. The forthcoming structures of steps &#8220;2&#8221; to &#8220;4&#8221; are shown enclosed in horizontal parentheses. The step &#8220;2&#8221; reads: &#8220;nucleophilic attack of water on the carbocation forms a C-O bond and yields a protonated mercury containing enol&#8221;; the corresponding structure shows carbon sharing blue double bond with another carbon the left side carbon shares an upward bond with pink oxygen cation bonded to two hydrogens; the carbon at right side is bonded to hydrogen and green mercury sulfate Hg+ SO4 to the power two minus; a pink water molecule having oxygen with two pairs of electrons is shown at the upper right corner; a pink arrow points from oxygen to pink hydrogen and another pink arrow from the bond between hydrogen and oxygen to the oxygen cation. Step &#8220;3&#8221; reads: &#8220;abstraction of proton from the protonated enol by water gives an organomercury compound&#8221;; the corresponding reaction shows a pink hydronium ion and a structure comprising of a carbon sharing a blue double bond with another carbon; the left side carbon shows an upward bond with pink hydroxyl group and downward bond with R; the carbon at the right side is bonded to hydrogen and green mercury sulfate. Step &#8220;4&#8221; reads &#8220;replacement of mercury Hg2+ by proton occurs to give a neutral enol&#8221;; the corresponding reaction shows formation of water and a structure comprising of a carbon sharing blue double bond with another carbon; the left side carbon shares an upward bond with a pink hydroxyl group and a downward bond with &#8220;R&#8221;; the carbon at right side shows a bond with hydrogen and a pink hydrogen. Step &#8220;5&#8221; reads: &#8220;the enol undergoes tautomerization to give the final ketone product&#8221;; the resulting structure is shown outside the horizontal parentheses; it comprises of a carbonyl group having pink oxygen the carbon bonds to &#8220;R&#8221; on the left side and on the right side carbon bonds to another carbon bonded to three hydrogens of which two are pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_04_003.jpg"/>
+    </media>
+    <caption>Mechanism of the mercury(II)-catalyzed hydration of an alkyne to yield a ketone. The reaction occurs through initial formation of an intermediate enol, which tautomerizes to the ketone.</caption>
+    </figure>
+    <para>A mixture of both possible ketones results when an unsymmetrically substituted internal alkyne (<m:math><m:mrow><m:mtext>RC</m:mtext><m:mo>&#x2261;</m:mo><m:mtext>CR</m:mtext><m:mo>&#x2032;</m:mo></m:mrow></m:math>) is hydrated. The reaction is therefore most useful when applied to a terminal alkyne (<m:math><m:mrow><m:mtext>RC</m:mtext><m:mo>&#x2261;</m:mo><m:mtext>CH</m:mtext></m:mrow></m:math>) because only a methyl ketone is formed.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustration shows two reactions. The first reaction shows &#8220;an internal alkyne&#8221; reacting in the presence of a pink hydronium cation and mercury sulfate to yield a mixture. The alkyne shows an R bonded to C triple bonded to another C bonded to R&#8217;. The mixture comprises of two structures; the first structure shows R bonded to a carbonyl group having pink oxygen the carbon of carbonyl to its right is bonded to methylene group attached to R&#8217;; the second structure shows RCH2 bonded to a carbonyl group having pink oxygen and the carbon of carbonyl group is bonded to R&#8217;. The second reaction shows a terminal alkyne reacting in the presence of a pink hydronium cation and mercury sulfate to yield a methyl ketone. The alkyne shows R bonded to a carbon triple bonded to a methine group. The methyl ketone shows an R bonded to a carbonyl group bonded to a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_04_004.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises">
+    <title>Problems</title>
+    <exercise>
+    <problem>
+    <para><link class="os-embed" url="#exercise/09-04-OC-P04"/></para>
+    </problem>
+    </exercise>
+    <exercise>
+    <problem>
+    <para><link class="os-embed" url="#exercise/09-04-OC-P05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section>
+    <title>Hydroboration&#8211;Oxidation of Alkynes</title>
+    <para>Borane adds rapidly to an alkyne just as it does to an alkene, and the resulting vinylic borane can be oxidized by H<sub>2</sub>O<sub>2</sub> to give an enol, which tautomerizes to either a ketone or an aldehyde, depending on the alkyne. Hydroboration&#8211;oxidation of an internal alkyne such as 3-hexyne is straightforward and gives a ketone, but hydroboration&#8211;oxidation of a terminal alkyne is more complex because two molecules of borane often add to the triple bond, complicating the situation. To prevent this double addition, a bulky, sterically encumbered borane such as bis(1,2-dimethylpropyl)borane, known commonly as disiamylborane is used in place of BH<sub>3</sub>. When a terminal alkyne such as 1-butene reacts with disiamylborane, addition to the triple bond occurs normally, but a second addition is hindered by the bulk of the dialkylborane. Oxidation with H<sub>2</sub>O<sub>2</sub> then gives an enol, which tautomerizes to the aldehyde.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustrations shows two reactions. In the first reaction three moles of &#8220;an internal alkyne&#8221; reacts in the presence of green borane BH3 and THF to yield &#8220;a vinylic borane&#8221; in parentheses which reacts in the presence of hydrogen peroxide water molecule and sodium hydroxide to yield three moles of &#8220;an enol&#8221; in parentheses. The enol reacts to yield three moles of &#8220;3-Hexanone.&#8221; The structural formula of alkyne shows a methyl group bonded to a methylene group attached to a carbon triple bonded to another carbon bonded to a methylene group attached to a methyl group. The structure of vinylic borane shows an open 6-membered ring with two hydrogen atoms a boron and four carbons. The carbons are double bonded to the adjacent carbons. Each carbon is bonded to an ethyl group. The boron is single bonded to a carbon bonded to an ethyl group and double bonded to a methine group bonded to an ethyl group. The structure of the enol shows two carbons double bonded to each other; the carbon on the left is bonded to a green hydrogen and an ethyl group; the carbon on the right is bonded to a pink hydroxyl group and an ethyl group. The structure of 3-hexanone shows a methyl group bonded to two methylene groups attached to carbonyl group having a pink oxygen; the carbon of carbonyl group is bonded to an ethyl group. The second reaction shows a terminal alkyne (1-hexyne) reacting in the presence of green borane and THF to yield an intermediate structure that reacts in the presence of hydrogen peroxide and water molecule at pH 8 to yield &#8220;hexanal (70%).&#8221; The structure of 1-hexyne shows a methyl group bonded to three consecutive methylene groups bonded to a carbon triple bonded to a methine group. The intermediate structure shows a methyl group bonded to four methylene groups bonded to a methine group. The methine group is bonded to two boron atoms. Each boron is bonded to two R groups. The structure of hexanal shows a methyl group bonded to four consecutive methylene groups bonded to an aldehyde group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_04_08.jpg"/>
+    </media>
+    </figure>
+        <para>The hydroboration&#8211;oxidation sequence is complementary to the direct, mercury(II)-catalyzed hydration reaction of a terminal alkyne because different products result. Direct hydration with aqueous acid and mercury(II) sulfate leads to a methyl ketone, whereas hydroboration&#8211;oxidation of the same terminal alkyne leads to an aldehyde.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustration shows two reactions of a terminal alkyne. In the first reaction it reacts in the presence of water sulfuric acid and mercury sulfate to form &#8220;a methyl ketone&#8221;; in the second reaction the terminal alkyne reacts in the presence of borane THF and hydrogen peroxide to yield &#8220;an aldehyde.&#8221; The structure of alkyne shows R bonded to C triple bonded to a methine group. The methyl ketone shows R bonded to a carbonyl group bonded to a methyl group. The structure of an aldehyde shows a carbon bonded to R two hydrogens an aldehyde group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_04_009.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises">
+    <title>Problems</title>
+    <exercise>
+    <problem>
+    <para><link class="os-embed" url="#exercise/09-04-OC-P06"/></para>
+    </problem>
+    </exercise>
+    <exercise>
+    <problem>
+    <para><link class="os-embed" url="#exercise/09-04-OC-P07"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

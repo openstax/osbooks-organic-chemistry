@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Reduction of Alkynes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Reduction of Alkynes</md:title>
+    <md:content-id>m00107</md:content-id>
+    <md:uuid>7d623ee1-3ece-428f-8e7f-413036d2b3f5</md:uuid>
+  </metadata>
+  <content>
+    <para>Alkynes are reduced to alkanes by addition of H<sub>2</sub> over a metal catalyst. The reaction occurs in two steps through an alkene intermediate, and measurements show that the first step in the reaction is more exothermic than the second.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_05_001.jpg"/>
+    </media>
+    </figure>
+    <para>Complete reduction to the alkane occurs when palladium on carbon (Pd/C) is used as catalyst, but hydrogenation can be stopped at the alkene stage if the less active <emphasis effect="italics">Lindlar catalyst</emphasis> is used. The <term>Lindlar catalyst</term> is a finely divided palladium metal that has been precipitated onto a calcium carbonate support and then deactivated by treatment with lead acetate and quinoline, an aromatic amine. The hydrogenation occurs with syn stereochemistry (<link document="m00093">Section 8.5</link>), giving a cis alkene product.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustration shows a reaction wherein 4-Octyne reacts in the presence of pink hydrogen H2 and Lindlar catalyst to yield &#8220;cis-4-Octene&#8221; that reacts in the presence of pink hydrogen and palladium an carbon catalyst to yield an &#8220;Octane.&#8221; The &#8220;Quinoline&#8221; used in the process is also shown. The structural formula of 4-Octyne shows a methyl group bonded to consecutive methylene groups bonded to a carbon triple bonded to another carbon bonded to two methylene groups bonded to a methyl group. The structure of cis-4-Octene shows two carbons double bonded to each other; the carbon at the left shares an upward bond with pink hydrogen and a downward bond with a methyl group bonded to two methylene groups; the carbon at the right is bonded to a pink hydrogen and shares a downward bond with two methylene groups bonded to a methyl group. The structure of quinoline shown in a parentheses comprises of a benzene fused to a cyclohexadiene having a nitrogen embedded at its base.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_05_002.jpg"/>
+    </media>
+    </figure>
+    <para>The alkyne hydrogenation reaction has been explored extensively by the Hoffmann&#8211;LaRoche pharmaceutical company, where it is used in the commercial synthesis of vitamin A. The cis isomer of vitamin A produced initially on hydrogenation is converted to the trans isomer by heating.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustration shows an alkyne reacting in the presence of hydrogen and a Lindlar catalyst to yield &#8220;7-cis-Retinol (7-cis-vitaminA; vitamin A has a trans double bond at C7). The structure of an alkyne shows a cyclohexene bonded to three methyl groups and a carbon that is triple bonded to another carbon bonded to a six-carbon chain bonded to a hydroxymethyl group; the six-carbon chain shows alternate double bonds. C1 and C5 of the chain are bonded to a methyl group each. The structure of 7-cis-vitamin A shows a 15-carbon bent chain. C1 to C6 form a cyclohexene. C1 is bonded to two methyl groups. A double bond is shown between C7 and C8 C9 and C10 C11 and C12 and C13 and C14. C7-C8 double bond is labeled &#8216;Cis.&#8217; C15 is part of a hydroxy methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_05_003.jpg"/>
+    </media>
+    </figure>
+    <para>An alternative method for the conversion of an alkyne to an alkene uses sodium or lithium metal as the reducing agent in liquid ammonia as solvent. This method is complementary to the Lindlar reduction because it produces trans rather than cis alkenes. For example, 5-decyne gives <emphasis effect="italics">trans</emphasis>-5-decene on treatment with lithium in liquid ammonia. The mechanism is explained below.</para>
+    <figure class="unnumbered scaled-down">
+    <media alt="An illustration shows &#8220;5-Decyne&#8221; reacting in the presence of lithium and ammonia to yield &#8220;trans-5-Decene (78%).&#8221; The structure of 5-Decyne shows a methyl group bonded to three methylene groups bonded to carbon triple bonded to another carbon bonded to three methylene groups bonded to a methyl group. The structure of trans-5-Decene shows a carbon double bonded to another carbon; the left side is bonded to a three methylene groups bonded to a methyl group in an upward angled bond and to a pink hydrogen in a downward angled bond. The carbon at the right is bonded to a pink hydrogen in an upward bond and three methylene groups bonded to a methyl group in a downward angled bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_05_004.jpg"/>
+    </media>
+    </figure>
+    <para>Alkali metals dissolve in liquid ammonia at &#8722;33 &#176;C to produce a deep blue solution containing the metal cation and ammonia-solvated electrons. When an alkyne is then added to the solution, reduction occurs by the mechanism shown in <link>Figure 09_05_OChem-09-05-005_80485-09-04_M-Lithium</link>. An electron first adds to the triple bond to yield an intermediate anion radical&#8212;a species that is both an anion (has a negative charge) and a radical (has an odd number of electrons). This anion radical is a strong base, able to remove H<sup>+</sup> from ammonia to give a vinylic radical. Addition of a second electron to the vinylic radical gives a vinylic anion, which abstracts a second H<sup>+</sup> from ammonia to give trans alkene product.</para>
+    <figure class="mechanism-figure scaled-down">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows four steps involved in the production of a trans alkene. Step &#8220;1&#8221; reads &#8220;lithium metal donates an electron to the alkyne to give an anion radical.. &#8220;; the corresponding structure shows &#8220;R&#8221; bonded to &#8220;C&#8221; triple bonded to another &#8220;C&#8221; bonded to R&#8217;. An arrow labeled &#8220;1&#8221; &#8220;blue lithium&#8221; points to the reaction products enclosed in a horizontal parentheses; a blue lithium cation and a structure having R bonded to C having an electron double bonded to a carbon anion having two electrons which is further bonded to R&#8217;; beneath the structure is shown a pink hydrogen bonded to a pink amine having nitrogen with a pair of electrons; a pink arrow points from the carbon anion to pink hydrogen and another pink arrow points from the bond between hydrogen and amine to the nitrogen having a pair of electrons. An arrow labeled &#8220;2&#8221; shows formation of a pink amine anion with two pairs of electrons and a structure having an R bonded to a carbon with an electron having a blue double bond with another carbon bonded to R&#8217; and pink hydrogen. The step &#8220;3&#8221; reads &#8220;the vinylic radical accepts another electron from a second lithium atom to produce a vinylic anion...&#8221;; the arrow labeled &#8220;3&#8221; &#8220;blue lithium&#8221; shows the formation of a blue lithium cation and a structure having a carbon anion with a pair of electrons double bonded with another carbon; the carbon at left shows a downward bond to R and the carbon at right shares an upward bond with R&#8217; and downward bond with pink hydrogen; the horizontal parentheses ends below this structure. Step &#8220;4&#8221; reads &#8220;...which abstracts another proto pink amine from ammonia solvent to yield the final trans alkene product. An arrow labeled &#8220;4&#8221; shows a pink hydrogen bonded to a pink amine whose nitrogen has a pair of electrons; a pink arrow points from the carbon anion of the preceding step to the pink hydrogen; a tiny pink arrow points from the bond between hydrogen and amine to the electron pair of nitrogen. An arrow labeled &#8220;4&#8221; points to the formation of a pink amine anion whose nitrogen shows two pairs of electrons and a trans alkene having two carbons sharing a blue double bond; the left side carbon is bonded to a pink hydrogen and R and the right side carbon is bonded to R&#8217; and pink H.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_05_005.jpg"/>
+    </media>
+    <caption>Mechanism of the lithium/ammonia reduction of an alkyne to produce a trans alkene.</caption>
+    </figure>
+    <para>Trans stereochemistry of the alkene product is established during the second reduction step (3) when the less-hindered trans vinylic anion is formed from the vinylic radical. Vinylic radicals undergo rapid cis&#8211;trans equilibration, but vinylic anions equilibrate much less rapidly. Thus, the more stable trans vinylic anion is formed rather than the less stable cis anion and is then protonated without equilibration.</para>
+    <section class="section-exercises">
+    <title>Problems</title>
+    <exercise>
+    <problem>
+    <para><link class="os-embed" url="#exercise/09-05-OC-P08"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
