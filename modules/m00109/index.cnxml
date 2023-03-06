@@ -6,14 +6,14 @@
     <md:uuid>0c23179b-4827-4ae0-b5cd-f13b8189fe43</md:uuid>
   </metadata>
   <content>
-    <para>The most striking difference between alkenes and alkynes is that terminal alkynes are relatively acidic. When a terminal alkyne is treated with a strong base, such as sodium amide, <m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:msup><m:mo>&#x00B7;</m:mo><m:mo>&#x2212;</m:mo></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>, the terminal hydrogen is removed and the corresponding <term>acetylide anion</term> is formed.</para>
-    <figure class="unnumbered scaled-down">
+    <para id="para-00001">The most striking difference between alkenes and alkynes is that terminal alkynes are relatively acidic. When a terminal alkyne is treated with a strong base, such as sodium amide, <m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:msup><m:mo>·</m:mo><m:mo>−</m:mo></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>, the terminal hydrogen is removed and the corresponding <term id="term-00001">acetylide anion</term> is formed.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows a reaction between an alkyne and sodium amide to yield an acetylide anion and ammonia. The structure of alkyne shows R bonded to a carbon triple bonded to another carbon bonded to a pink hydrogen; a pink arrow points from the bond to carbon. Sodium amide is shown as an amine anion bonded to a sodium cation; the amine shows a nitrogen having two pairs of electrons; a pink arrow points from nitrogen of amine to the pink hydrogen of alkyne. The structure of acetylide anion shows R bonded to carbon triple bonded to carbon anion having a pair of electrons bonded to a sodium cation. Ammonia shows a nitrogen with a pair of electrons.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_07_001.jpg"/>
     </media>
     </figure>
-    <para>According to the Br&#248;nsted&#8211;Lowry definition (<link document="m00024">Section 2.7</link>), an acid is a substance that donates H<sup>&#43;</sup>. Although we usually think of oxyacids (H<sub>2</sub>SO<sub>4</sub>, HNO<sub>3</sub>) or halogen acids (HCl, HBr) in this context, any compound containing a hydrogen atom can be an acid under the right circumstances. By measuring dissociation constants of different acids and expressing the results as p<emphasis effect="italics">K</emphasis><sub>a</sub> values, an acidity order can be established. Recall from <link document="m00025">Section 2.8</link> that a lower p<emphasis effect="italics">K</emphasis><sub>a</sub> corresponds to a stronger acid and a higher p<emphasis effect="italics">K</emphasis><sub>a</sub> corresponds to a weaker one.</para>
-    <para>Where do hydrocarbons lie on the acidity scale? As the data in <link target-id="table-00001"/> show, both methane (p<emphasis effect="italics">K</emphasis><sub>a</sub> &#8776; 60) and ethylene (p<emphasis effect="italics">K</emphasis><sub>a</sub> &#61; 44) are very weak acids and thus do not react with any of the common bases. Acetylene, however, has p<emphasis effect="italics">K</emphasis><sub>a</sub> &#61; 25 and can be deprotonated by the conjugate base of any acid whose p<emphasis effect="italics">K</emphasis><sub>a</sub> is greater than 25. Amide ion (<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow></m:mrow><m:mo>&#x2212;</m:mo></m:msup></m:mrow></m:math>), for example, the conjugate base of ammonia (p<emphasis effect="italics">K</emphasis><sub>a</sub> &#61; 35), is often used to deprotonate terminal alkynes.</para>
+    <para id="para-00002">According to the Brønsted–Lowry definition (<link document="m00024">Section 2.7</link>), an acid is a substance that donates H<sup>+</sup>. Although we usually think of oxyacids (H<sub>2</sub>SO<sub>4</sub>, HNO<sub>3</sub>) or halogen acids (HCl, HBr) in this context, any compound containing a hydrogen atom can be an acid under the right circumstances. By measuring dissociation constants of different acids and expressing the results as p<emphasis effect="italics">K</emphasis><sub>a</sub> values, an acidity order can be established. Recall from <link document="m00025">Section 2.8</link> that a lower p<emphasis effect="italics">K</emphasis><sub>a</sub> corresponds to a stronger acid and a higher p<emphasis effect="italics">K</emphasis><sub>a</sub> corresponds to a weaker one.</para>
+    <para id="para-00003">Where do hydrocarbons lie on the acidity scale? As the data in <link target-id="table-00001"/> show, both methane (p<emphasis effect="italics">K</emphasis><sub>a</sub> ≈ 60) and ethylene (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 44) are very weak acids and thus do not react with any of the common bases. Acetylene, however, has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 25 and can be deprotonated by the conjugate base of any acid whose p<emphasis effect="italics">K</emphasis><sub>a</sub> is greater than 25. Amide ion (<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math>), for example, the conjugate base of ammonia (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 35), is often used to deprotonate terminal alkynes.</para>
     <table id="table-00001" summary="An illustration shows a table depicting the acidity of simple hydrocarbons. The family of hydrocarbons include alkyne alkene and alkane; their examples along with Ka and pKa values are given. The acidity order is in the following increasing order: alkane alkene and alkyne. The values for hydrocarbons are as follows: Alkyne; example acetylene shown as a methine group triple bonded to another methine group; Ka = 10 to the power minus 25; pKa = 25. Alkene; example ethylene shown as a methylene group bonded to another methylene group; Ka = 10 to the power minus 44; pKa = 44. Alkane; example methane shown as CH4; Ka = 10 to the power minus 60; pKa = 60.">
     <title>Acidity of Simple Hydrocarbons</title>
     <tgroup cols="5">
@@ -28,45 +28,45 @@
     <entry valign="top" align="left">Example</entry>
     <entry valign="top" align="left"><emphasis effect="italics">K</emphasis><sub>a</sub></entry>
     <entry valign="top" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
-    <entry valign="top" align="left"></entry>
+    <entry valign="top" align="left"/>
     </row>
     </thead>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left">Alkyne</entry>
-    <entry valign="top" align="left">HC&#8201;&#8801;&#8201;CH</entry>
-    <entry valign="top" align="left">10<sup>&#8722;25</sup></entry>
+    <entry valign="top" align="left">HC ≡ CH</entry>
+    <entry valign="top" align="left">10<sup>−25</sup></entry>
     <entry valign="top" align="left">25</entry>
     <entry valign="top" align="left" morerows="2"><media class="unnumbered" alt="Alt text placeholder">
       <image mime-type="image/jpeg" src="../../media/OChem_09_07_002.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alkene</entry>
-    <entry valign="top" align="left">H<sub>2</sub>C&#8201;═&#8201;CH<sub>2</sub></entry>
-    <entry valign="top" align="left">10<sup>&#8722;44</sup></entry>
+    <entry valign="top" align="left">H<sub>2</sub>C ═ CH<sub>2</sub></entry>
+    <entry valign="top" align="left">10<sup>−44</sup></entry>
     <entry valign="top" align="left">44</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alkane</entry>
     <entry valign="top" align="left">CH<sub>4</sub></entry>
-    <entry valign="top" align="left">10<sup>&#8722;60</sup></entry>
+    <entry valign="top" align="left">10<sup>−60</sup></entry>
     <entry valign="top" align="left">60</entry>
     </row>
     </tbody>
     </tgroup>
     </table>
-    <para>Why are terminal alkynes more acidic than alkenes or alkanes? In other words, why are acetylide anions more stable than vinylic or alkyl anions? The simplest explanation involves the hybridization of the negatively charged carbon atom. An acetylide anion has an <emphasis effect="italics">sp</emphasis>-hybridized carbon, so the negative charge resides in an orbital that has 50% &#8220;<emphasis effect="italics">s</emphasis> character.&#8221; A vinylic anion has a <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized carbon with 33% <emphasis effect="italics">s</emphasis> character, and an alkyl anion (<emphasis effect="italics">sp</emphasis><sup>3</sup>) has only 25% <emphasis effect="italics">s</emphasis> character. Because <emphasis effect="italics">s</emphasis> orbitals are nearer the positive nucleus and lower in energy than <emphasis effect="italics">p</emphasis> orbitals, the negative charge is stabilized to a greater extent in an orbital with higher <emphasis effect="italics">s</emphasis> character (<link>Figure 09_07_OChem-09-07-003_80485-09-05_Stability</link>).</para>
-    <figure class="scaled-down">
-    <media alt="An illustration shows hybridization states of three anions and their corresponding electrostatic potential maps; a colored arrow labeled as &#8220;stability&#8221; is shown pointing toward the right side and is placed at the base of electrostatic potential maps. The first anion is an &#8220;alkyl anion 25% s&#8221; having a carbon single bonded to a hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen; to its right the carbon is attached to a blue tear shaped structure labeled as &#8220;sp3&#8221; and has a pair of electrons. The electrostatic potential map for first anion shows a carbon (gray ball) bonded to three hydrogens (white balls); the right side of image is pink and has a blue arrow pointing on it. The second anion &#8220;vinylic anion 33% s&#8221; shows a carbon bonded to two hydrogens the carbon is double bonded to another carbon bonded to a hydrogen and a sp2 orbital; the orbital is shown as a green tear shaped structure having a pair of electrons. The electrostatic potential map for vinylic anion shows two carbons bonded to each other in a vertically angled plane; the upper carbon is bonded to two hydrogens and the lower carbon is bonded to single hydrogen; the aura at the right side is pink and shows a blue arrow pointing on it; the left side of image shows a greenish grey aura. The third anion &#8220;acetylide anion 50% s&#8221; shows a hydrogen bonded to carbon triple bonded to another carbon bonded to an &#8220;sp&#8221; orbital shown as a pink tear shaped structure having a pair of electrons. The electrostatic potential map for acetylide anion shows a hydrogen bonded to two consecutive carbons; the left side of image shows greyish aura and the right side shows pinkish aura.">
+    <para id="para-00004">Why are terminal alkynes more acidic than alkenes or alkanes? In other words, why are acetylide anions more stable than vinylic or alkyl anions? The simplest explanation involves the hybridization of the negatively charged carbon atom. An acetylide anion has an <emphasis effect="italics">sp</emphasis>-hybridized carbon, so the negative charge resides in an orbital that has 50% “<emphasis effect="italics">s</emphasis> character.” A vinylic anion has a <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized carbon with 33% <emphasis effect="italics">s</emphasis> character, and an alkyl anion (<emphasis effect="italics">sp</emphasis><sup>3</sup>) has only 25% <emphasis effect="italics">s</emphasis> character. Because <emphasis effect="italics">s</emphasis> orbitals are nearer the positive nucleus and lower in energy than <emphasis effect="italics">p</emphasis> orbitals, the negative charge is stabilized to a greater extent in an orbital with higher <emphasis effect="italics">s</emphasis> character (<link>Figure 09_07_OChem-09-07-003_80485-09-05_Stability</link>).</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows hybridization states of three anions and their corresponding electrostatic potential maps; a colored arrow labeled as “stability” is shown pointing toward the right side and is placed at the base of electrostatic potential maps. The first anion is an “alkyl anion 25% s” having a carbon single bonded to a hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen; to its right the carbon is attached to a blue tear shaped structure labeled as “sp3” and has a pair of electrons. The electrostatic potential map for first anion shows a carbon (gray ball) bonded to three hydrogens (white balls); the right side of image is pink and has a blue arrow pointing on it. The second anion “vinylic anion 33% s” shows a carbon bonded to two hydrogens the carbon is double bonded to another carbon bonded to a hydrogen and a sp2 orbital; the orbital is shown as a green tear shaped structure having a pair of electrons. The electrostatic potential map for vinylic anion shows two carbons bonded to each other in a vertically angled plane; the upper carbon is bonded to two hydrogens and the lower carbon is bonded to single hydrogen; the aura at the right side is pink and shows a blue arrow pointing on it; the left side of image shows a greenish grey aura. The third anion “acetylide anion 50% s” shows a hydrogen bonded to carbon triple bonded to another carbon bonded to an “sp” orbital shown as a pink tear shaped structure having a pair of electrons. The electrostatic potential map for acetylide anion shows a hydrogen bonded to two consecutive carbons; the left side of image shows greyish aura and the right side shows pinkish aura.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_07_003.jpg"/>
     </media>
     <caption>A comparison of alkyl, vinylic, and acetylide anions. The acetylide anion, with <emphasis effect="italics">sp</emphasis> hybridization, has more <emphasis effect="italics">s</emphasis> character and is more stable. Electrostatic potential maps show that placing the negative charge closer to the carbon nucleus makes carbon appear less negative (red).</caption>
     </figure>
-    <section class="section-exercises">
+    <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
-    <exercise>
-    <problem>
-    <para><link class="os-embed" url="#exercise/09-07-OC-P09"/></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005"><link class="os-embed" url="#exercise/09-07-OC-P09"/></para>
     </problem>
     </exercise>
     </section>
