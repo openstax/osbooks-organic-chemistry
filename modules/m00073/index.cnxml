@@ -47,7 +47,7 @@
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_07_11_006.jpg"/>
     </media>
-    <caption>Rapamycin an immunosuppressant natural product used during organ transplants was originally isolated from a soil sample found on Easter Island or Rapa Nui an island 2200 miles off the coast of Chile known for its giant Moai statues. (credit: modification of work “Moai facing inland at Ahu Tongariki” by Ian Sewell/Wikimedia Commons, CC BY 2.5)</caption>
+    <caption>Rapamycin, an immunosuppressant natural product used during organ transplants, was originally isolated from a soil sample found on Easter Island or Rapa Nui, an island 2200 miles off the coast of Chile known for its giant Moai statues. (credit: modification of work “Moai facing inland at Ahu Tongariki” by Ian Sewell/Wikimedia Commons, CC BY 2.5)</caption>
     </figure>
     <para id="para-00009">It has been estimated that well over 300,000 secondary metabolites exist, and it’s thought that their primary function is to increase the likelihood of an organism’s survival by repelling or attracting other organisms. Alkaloids, such as morphine; antibiotics, such as erythromycin and the penicillins; and immunosuppressive agents, such as rapamycin (sirolimus) prescribed for liver transplant recipients, are examples.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00006">
@@ -56,12 +56,12 @@
     </media>
     </figure>
     <para id="para-00010">Where do these natural products come from, and how are they found? Although most chemists and biologists spend their working time in the laboratory, a few spend their days scuba diving on South Pacific islands or trekking through the rainforests of South America and Southeast Asia at work as bioprospectors. Their job is to hunt for new and unusual natural products that might be useful as drugs.</para>
-    <para id="para-00011">As noted in the <link document="m00074" target-id="note-00001"/>,<!--Section 6.7--><!--Chapter 6 <emphasis effect="italics">Chemistry Matters</emphasis>--> more than half of all new drug candidates come either directly or indirectly from natural products. Morphine from the opium poppy, prostaglandin E<sub>1</sub> from sheep prostate glands, erythromycin A from a <emphasis effect="italics">Streptomyces erythreus</emphasis> bacterium cultured from a Philippine soil sample, and benzylpenicillin from the mold <emphasis effect="italics">Penicillium notatum</emphasis> are examples. The immunosuppressive agent rapamycin, whose structure is shown on the previous page, was first isolated from a <emphasis effect="italics">Streptomyces hygroscopicus</emphasis> bacterium found in a soil sample from Easter Island (Rapa Nui), located 2200 miles off the coast of Chile.</para>
+    <para id="para-00011">As noted in the <link document="m00087" target-id="sect-00005"/>,<!--Section 6.7--><!--Chapter 6 <emphasis effect="italics">Chemistry Matters</emphasis>--> more than half of all new drug candidates come either directly or indirectly from natural products. Morphine from the opium poppy, prostaglandin E<sub>1</sub> from sheep prostate glands, erythromycin A from a <emphasis effect="italics">Streptomyces erythreus</emphasis> bacterium cultured from a Philippine soil sample, and benzylpenicillin from the mold <emphasis effect="italics">Penicillium notatum</emphasis> are examples. The immunosuppressive agent rapamycin, whose structure is shown on the previous page, was first isolated from a <emphasis effect="italics">Streptomyces hygroscopicus</emphasis> bacterium found in a soil sample from Easter Island (Rapa Nui), located 2200 miles off the coast of Chile.</para>
     <para id="para-00012">With less than 1% of living organisms yet investigated, bioprospectors have a lot of work to do. But there is a race going on. Rainforests throughout the world are being destroyed at an alarming rate, causing many species of both plants and animals to become extinct before they can even be examined. The governments in many countries seem aware of the problem, but there is as yet no international treaty on biodiversity that could help preserve vanishing species.</para>
     </section>
     <section class="key-terms" id="sect-00002">
       <list id="list-00001">
-        <item>alkene (R<sub>2</sub>C=CR<sub>2</sub>)</item>
+        <item><link document="m00062" target-id="term-00001">alkene (R<sub>2</sub>C=CR<sub>2</sub>)</link></item>
         <item><link document="m00065" target-id="term-00003">allyl group</link></item>
         <item><link document="m00064" target-id="term-00002">degree of unsaturation</link></item>
         <item><link document="m00067" target-id="term-00003"><emphasis effect="italics">E</emphasis> configuration</link></item>
@@ -70,9 +70,9 @@
         <item><link document="m00072" target-id="term-00001">Hammond postulate</link></item>
         <item><link document="m00073" target-id="term-00001">hydride shift</link></item>
         <item><link document="m00068" target-id="term-00001">hyperconjugation</link></item>
-        <item>Markovnikov’s rule</item>
+        <item><link document="m00070" target-id="term-00002">Markovnikov’s rule</link></item>
         <item><link document="m00065" target-id="term-00001">methylene group</link></item>
-        <item>regiospecific reaction</item>
+        <item><link document="m00070" target-id="term-00001">regiospecific reaction</link></item>
         <item><link document="m00064" target-id="term-00001">unsaturated</link></item>
         <item><link document="m00065" target-id="term-00002">vinyl group</link></item>
         <item><link document="m00067" target-id="term-00002"><emphasis effect="italics">Z</emphasis> configuration</link></item>
@@ -84,6 +84,8 @@
     <para id="para-00014">An <emphasis effect="bold">alkene</emphasis> is a hydrocarbon that contains a carbon–carbon double bond. Because they contain fewer hydrogens than alkanes with the same number of carbons, alkenes are said to be <emphasis effect="bold">unsaturated</emphasis>.</para>
     <para id="para-00015">Because rotation around the double bond can’t occur, substituted alkenes can exist as cis–trans stereoisomers. The configuration of a double bond can be specified by applying the Cahn–Ingold–Prelog sequence rules, which rank the substituents on each double-bond carbon. If the higher-ranking groups on each carbon are on the same side of the double bond, the configuration is <emphasis effect="bold"><emphasis effect="italics">Z</emphasis></emphasis> (<emphasis effect="italics">zusammen,</emphasis> “together”); if the higher-ranking groups on each carbon are on opposite sides of the double bond, the configuration is <emphasis effect="bold"><emphasis effect="italics">E</emphasis></emphasis> (<emphasis effect="italics">entgegen,</emphasis> “apart”).</para>
     <para id="para-00016">Alkene chemistry is dominated by <emphasis effect="bold">electrophilic addition reactions</emphasis>. When HX reacts with an unsymmetrically substituted alkene, <emphasis effect="bold">Markovnikov’s rule</emphasis> predicts that the H will add to the carbon having fewer alkyl substituents and the X group will add to the carbon having more alkyl substituents. Electrophilic additions to alkenes take place through carbocation intermediates formed by reaction of the nucleophilic alkene <emphasis effect="italics">π</emphasis> bond with electrophilic H<sup>+</sup>. Carbocation stability follows the order</para>
+    <para id="para-00075">Tertiary (3<sup>&#8451;</sup>) &#62; Secondary (2<sup>&#8451;</sup>) &#62; Primary (1<sup>&#8451;</sup>) &#62; Methyl</para>
+    <para id="para-00076">R<sub>3</sub>C<sup>+</sup> &#62; R<sub>2</sub>CH<sup>+</sup> &#62; RCH<sub>2</sub><sup>+</sup> &#62; CH<sub>3</sub><sup>+</sup></para>
     <figure class="unnumbered scaled-down-30" id="fig-00007">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_07_EC_001.jpg"/>

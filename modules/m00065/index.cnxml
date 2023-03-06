@@ -37,7 +37,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_07_03_005.jpg"/>
     </media>
     </figure>
-    <para id="para-00007">For historical reasons, there are a few alkenes whose names are firmly entrenched in common usage but don’t conform to the rules. For example, the alkene derived from ethane should be called <emphasis effect="italics">ethene,</emphasis> but the name <emphasis effect="italics">ethylene</emphasis> has been used for so long that it is accepted by IUPAC. <link target-id="table-00001"/> lists several other common names that are often used and are recognized by IUPAC. Note also that a =CH<sub>2</sub> substituent is called a <term id="term-00001">methylene group</term>, a H<sub>2</sub>C═CH− substituent is called a <term id="term-00002">vinyl group</term>, and a H<sub>2</sub>C═CHCH<sub>2</sub>− substituent is called an <term id="term-00003">allyl group</term>.</para>
+    <para id="para-00007">For historical reasons, there are a few alkenes whose names are firmly entrenched in common usage but don’t conform to the rules. For example, the alkene derived from ethane should be called <emphasis effect="italics">ethene,</emphasis> but the name <emphasis effect="italics">ethylene</emphasis> has been used for so long that it is accepted by IUPAC. <link target-id="table-00001"/> lists several other common names that are often used and are recognized by IUPAC. Note also that a =CH<sub>2</sub> substituent is called a <term id="term-00001">methylene group</term>, a H<sub>2</sub>C=CH− substituent is called a <term id="term-00002">vinyl group</term>, and a H<sub>2</sub>C=CHCH<sub>2</sub>− substituent is called an <term id="term-00003">allyl group</term>.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows the structures of a methylene group a vinyl group and an allyl group. The methylene group shows a double bond with a wavy structure. the vinyl group shows a methylene group double bonded to a methine group with a free bond and a wavy structure. The allyl group shows a methylene group double bonded to a methine group that is bonded to a methylene group with a free bond and a wavy structure.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_03_006.jpg"/>
@@ -68,21 +68,19 @@
     <entry valign="top" align="left">Propylene</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left"><figure class="unnumbered scaled-down-30" id="fig-00007">
+    <entry valign="top" align="left">
     <media alt="Alt text placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_07_03_007a.jpg"/>
     </media>
-    </figure>
     </entry>
     <entry valign="top" align="left">2-Methylpropene</entry>
     <entry valign="top" align="left">Isobutylene</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left"><figure class="unnumbered scaled-down-30" id="fig-00008">
+    <entry valign="top" align="left">
     <media alt="Alt text placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_07_03_007b.jpg"/>
     </media>
-    </figure>
     </entry>
     <entry valign="top" align="left">2-Methyl-1,3-butadiene</entry>
     <entry valign="top" align="left">Isoprene</entry>
