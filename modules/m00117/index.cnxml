@@ -6,5 +6,38 @@
     <md:uuid>3f1bfd0d-cffd-40f5-98c7-e3c9b15b5c33</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">The most generally useful method for preparing alkyl halides is to make them from alcohols, which themselves can be obtained from carbonyl compounds as we’ll see in <emphasis effect="bold">Sections 17.4 and 17.5</emphasis>. Because of the importance of this process, many different methods have been developed to transform alcohols into alkyl halides. The simplest method is to treat the alcohol with HCl, HBr, or HI. For reasons that will be discussed in <emphasis effect="bold">Section 11.5</emphasis>, this reaction works best with tertiary alcohols, R<sub>3</sub>COH. Primary and secondary alcohols react much more slowly and at higher temperatures.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows the reaction of an alcohol in the presence of HX to yield an alkyl halide and water. The reactivity order of 4 alcohols is also shown. In the reaction the alcohol shows a carbon with three free bonds bonded to a hydroxyl group. The halide is similar to the alcohol but the hydroxyl group is replaced by X. The reactivity of the alcohols is in the following increasing order: methyl primary secondary and tertiary. Methyl alcohol shows a carbon bonded to three hydrogen atoms and a hydroxyl group. Primary alcohol shows a carbon bonded to two hydrogen atoms R and a hydroxyl group. Secondary alcohol shows a carbon bonded to a hydrogen atom two R and a hydroxyl group. Tertiary alcohol shows a carbon bonded to three R and a hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_05_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">The reaction of HX with a tertiary alcohol is so rapid that it’s often carried out simply by bubbling pure HCl or HBr gas into a cold ether solution of the alcohol. 1-Methylcyclohexanol, for example, is converted into 1-chloro-1-methylcyclohexane by treatment with HCl.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the reaction of 1-Methylcyclohexanol in the presence of HCl (gas) and ether at 0 degree C to yield 1-Chloro-1-methylcyclohexane (90%) and water. 1-Methylcyclohexanol shows a cyclohexane ring with C1 bonded to a methyl group and a hydroxyl group. 1-Chloro-1-methylcyclohexane shows a cyclohexane ring with C1 bonded to a methyl group and a chlorine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_05_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Primary and secondary alcohols are best converted into alkyl halides by treatment with either thionyl chloride (SOCl<sub>2</sub>) or phosphorus tribromide (PBr<sub>3</sub>). These reactions, which normally take place readily under mild conditions, are less acidic and less likely to cause acid-catalyzed rearrangements than the HX method.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows two reactions. In the first reaction benzoin reacts in the presence of SOCl2 and pyridine to yield alkyl chloride (86%) SO2 and HCl. In the second reaction 3 moles of 2-butanol react in the presence of PBr3 and ether at 35 degree C to yield 3 moles of 2-Bromobutane (86%) and H3PO3. Benzoin shows a benzene bonded to a methine group that is bonded to a hydroxyl group and carbonyl group. The carbonyl group is bonded to a benzene group. The alkyl chloride is similar to benzoin but the hydroxyl group is replaced by a chlorine atom. 2-Butanol shows an ethyl group bonded to a methine group that is bonded to a hydroxyl group at the top and a methyl group on the right. 2-Bromobutane is similar to 2-butanol but the hydroxyl group is replaced by a bromine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_05_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">As the preceding examples indicate, the yields of these SOCl<sub>2</sub> and PBr<sub>3</sub> reactions are generally high and other functional groups such as ethers, carbonyls, and aromatic rings don’t usually interfere. We’ll look at the mechanisms of these and other related substitution reactions in <emphasis effect="bold">Section 11.3</emphasis>.</para>
+    <para id="para-00005">Alkyl fluorides can also be prepared from alcohols. Numerous alternative reagents are used for such reactions, including diethylaminosulfur trifluoride [(CH<sub>3</sub>CH<sub>2</sub>)<sub>2</sub>NSF<sub>3</sub>] and HF in pyridine solvent.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <media alt="An illustration shows the reaction of cyclohexanol in the presence of HF and pyridine to yield Fluorocyclohexane (99%). Cyclohexanol shows a cyclohexane ring with C1 bonded to a hydroxyl group. Fluorocyclohexane shows a cyclohexane ring with C1 bonded to a fluorine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_05_004.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/10-05-OC-P08"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
