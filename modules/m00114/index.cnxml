@@ -6,5 +6,57 @@
     <md:uuid>60759f94-493b-4a7e-a31c-1ea0805224ca</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">As we saw briefly in <link document="m00079">Section 6.6</link>, simple alkyl halides can sometimes be prepared by the radical reaction of an alkane with Cl<sub>2</sub> or Br<sub>2</sub> in the presence of ultraviolet light. The detailed mechanism is shown in <link>Figure 10_02_OChem-10-02-001_80485-10-01_M-Initiation</link> for chlorination.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the following steps of a chlorination reaction: Initiation step Propagation steps (a repeating cycle) Termination steps and Overall reaction. In the initiation step a chlorine molecule reacts in the presence of hv to yield 2 chlorine radicals. Two arrows from the Cl-Cl bond point outward. Each chlorine radical shows an electron. The propagation includes steps 1 and 2. In the first step methane reacts with chlorine radical to yield HCl and a methyl radical that shows an electron. In the second step the methyl radical reacts with chlorine molecule to yield a chlorine radical and chloromethane. The termination includes three steps: Two methyl radicals react to yield ethane. A methyl radical reacts with a chlorine radical to yield chloromethane. Two chlorine radicals react to yield a chlorine molecule. The overall reaction shows a methane reacting with a chlorine molecule to yield chloromethane and HCl. The chlorine atoms are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_02_001.jpg"/>
+    </media>
+    <caption>Mechanism of the radical chlorination of methane. Three kinds of steps are required in radical substitution reactions: initiation, propagation, and termination. The propagation steps are a repeating cycle, with Cl<emphasis effect="bold">·</emphasis> a reactant in step 1 and a product in step 2, and with <emphasis effect="bold">·</emphasis>CH<sub>3</sub> a product in step 1 and a reactant in step 2. The symbol <emphasis effect="italics">hν</emphasis> shown in the initiation step is the standard way of indicating irradiation with light (<emphasis effect="italics">ν</emphasis> is the lowercase Greek letter nu).</caption>
+    </figure>
+    <para id="para-00002">Radical substitution reactions require three kinds of steps: <emphasis effect="italics">initiation, propagation</emphasis>, and <emphasis effect="italics">termination</emphasis>. Once an initiation step has started the process by producing radicals, the reaction continues in a self-sustaining cycle. The cycle requires two repeating propagation steps in which a radical, the halogen, and the alkane yield alkyl halide product plus more radical to carry on the chain. The chain is occasionally terminated by the combination of two radicals.</para>
+    <para id="para-00003">Unfortunately, alkane halogenation is a poor synthetic method for preparing alkyl halides because mixtures of products invariably result. For example, chlorination of methane does not stop cleanly at the monochlorinated stage but continues to give a mixture of dichloro, trichloro, and even tetrachloro products.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows four steps of a chlorination reaction. It shows methane reacting with a chlorine molecule in the presence of hv to yield chloromethane and HCl. Chloromethane reacts with chlorine molecule to yield dichloromethane and HCl. Dichloromethane reacts with chlorine to yield trichloro methane and HCl. Trichloro methane reacts with chlorine to yield tetrachloro methane and HCl. The chlorine atoms are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_02_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">The situation is even worse for chlorination of alkanes that have more than one kind of hydrogen. Chlorination of butane, for instance, gives two monochlorinated products in a 30 : 70 ratio in addition to multiply chlorinated products such as dichlorobutane, trichlorobutane, and so on.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the reaction of butane and chlorine in the presence of light (hv) to yield 1-Chlorobutane and 2-Chlorobutane (30 : 70 ratio). Other products are Dichloro- trichloro- tetrachloro- and so on. Butane shows a methyl group bonded to a chain of two methylene groups and then a methyl group. 1-Chlorobutane shows a methyl group bonded to a chain of three methylene groups and then a chlorine. 2-Chlorobutane shows a methyl group bonded to a methylene group that is bonded to a methine group bonded to a methyl group; the methine group is bonded to a chlorine atom at the top. The chlorine atoms are highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_02_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">As another example, 2-methylpropane yields 2-chloro-2-methylpropane and 1-chloro-2-methylpropane in a 35 : 65 ratio, along with more highly chlorinated products.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the reaction of 2-methylpropane and chlorine in the presence of light (hv) to yield 2-Chloro-2-methylpropane and 1-Chloro-2-methylpropane (30 : 70 ratio). Other products are Dichloro- trichloro- tetrachloro- and so on. 2-Methylpropane shows a methyl group bonded to a methine group that is bonded to a methyl group. The methine group is bonded to a methyl group at the top. 2-Chloro-2-methylpropane shows a carbon bonded to a chlorine at the bottom and a methyl group on the other sides. 1-Chloro-2-methylpropane shows a methyl group bonded to a methine group that is bonded to a chloro methane group; the methine group is bonded to a methyl group at the top. The chlorine atoms are highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_02_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">From these and similar reactions, it’s possible to calculate a reactivity order toward chlorination for different kinds of hydrogen atoms in a molecule. Take the butane chlorination, for instance. Butane has six equivalent primary hydrogens ( − CH<sub>3</sub>) and four equivalent secondary hydrogens ( − CH<sub>2</sub> − ). The fact that butane yields 30% of 1-chlorobutane product means that each one of the six primary hydrogens is responsible for 30% ÷ 6 = 5% of the product. Similarly, the fact that 70% of 2-chlorobutane is formed means that each of the four secondary hydrogens is responsible for 70% ÷ 4 = 17.5% of the product. Thus, a secondary hydrogen reacts 17.5% ÷ 5% = 3.5 times as often as a primary hydrogen.</para>
+    <para id="para-00007">A similar calculation for the chlorination of 2-methylpropane indicates that each of the nine primary hydrogens accounts for 65% ÷ 9 = 7.2% of the product, while the single tertiary hydrogen (R<sub>3</sub>CH) accounts for 35% of the product. Thus, a tertiary hydrogen is 35% ÷ 7.2% = 5 times as reactive as a primary hydrogen toward chlorination.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <media alt="An illustration shows the reactivity of three groups in the following ascending order: Primary (1.0) secondary (3.5) and tertiary (5.0). The primary group shows a carbon bonded to three hydrogen atoms and an R group. The secondary group shows a carbon bonded to two hydrogen atoms and two R groups. The tertiary group shows a carbon bonded to a hydrogen and three R groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_02_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">The observed reactivity order of alkane hydrogens toward radical chlorination can be explained by looking at the bond dissociation energies given previously in Table 6-3. The data show that a tertiary C − H bond (400 kJ/mol; 96 kcal/mol) is weaker than a secondary C − H bond (410 kJ/mol; 98 kcal/mol), which is in turn weaker than a primary C − H bond (421 kJ/mol; 101 kcal/mol). Since less energy is needed to break a tertiary C − H bond than to break a primary or secondary C − H bond, the resultant tertiary radical is more stable than a primary or secondary radical.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <media alt="An illustration shows the reactivity of three radicals in the following ascending order: Primary secondary and tertiary. The primary group shows a carbon bonded to two hydrogen atoms an R group and an orbital with an electron. The secondary group shows a carbon bonded to a hydrogen atom two R groups and an orbital with an electron. The tertiary group shows a carbon bonded to three R groups and an orbital with an electron.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_02_006.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/10-02-OC-P03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00010"><link class="os-embed" url="#exercise/10-02-OC-P04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
