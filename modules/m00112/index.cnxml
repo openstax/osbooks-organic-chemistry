@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="introduction">
+  <title>Why This Chapter?</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Why This Chapter?</md:title>
+    <md:content-id>m00112</md:content-id>
+    <md:uuid>5c3cbc2f-b261-45b2-ac47-e96dd8eaf5b9</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="A volcano eruption produces a plume of gases.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_00_000.jpg"/>
+    </media>
+    <caption>The gases released during volcanic eruptions contain large amounts of organohalides, including chloromethane, chloroform, dichlorodifluoromethane, and many others. (credit: “Tavurvur volcano” by Taro Taylor, Richard Bartz/Wikimedia Commons, CC BY 2.0)</caption>
+    </figure>
+        <para id="para-00001">Alkyl halides are encountered less frequently than their oxygen-containing relatives and are not often involved in the biochemical pathways of terrestrial organisms, but some of the kinds of reactions they undergo—nucleophilic substitutions and eliminations—are encountered frequently. Thus, alkyl halide chemistry is a relatively simple model for many mechanistically similar but structurally more complex reactions found in biomolecules. We’ll begin this chapter with a look at how to name and prepare alkyl halides, and we’ll see several of their reactions. Then, in the next chapter, we’ll make a detailed study of the substitution and elimination reactions of alkyl halides—two of the most important and well-studied reaction types in organic chemistry.</para>
+    <para id="para-00002">Now that we’ve covered the chemistry of hydrocarbons, it’s time to start looking at more complex substances that contain elements in addition to C and H. We’ll begin by discussing the chemistry of <term id="term-00001">organohalides</term>, compounds that contain one or more halogen atoms.</para>
+    <para id="para-00003">Halogen-substituted organic compounds are widespread in nature, and more than 5000 organohalides have been found in algae and various other marine organisms. Chloromethane, for instance, is released in large amounts by ocean kelp, as well as by forest fires and volcanoes. Halogen-containing compounds also have a vast array of industrial applications, including their use as solvents, inhaled anesthetics in medicine, refrigerants, and pesticides.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structures of Trichloroethylene (a solvent) Halothane (an inhaled anesthetic) Dichlorodifluoromethane (a refrigerant) and Bromomethane (a fumigant). Trichloroethylene shows two carbon atoms double bonded to each other. The first carbon is bonded to a hydrogen and chlorine. The second carbon is bonded to two chlorine atoms. Haloethane shows two carbon atoms single bonded to each other. The first carbon is bonded to three fluorine atoms. The second carbon is bonded to a chlorine atom a hydrogen and a bromine atom. Dichlorodifluoromethane shows a central carbon bonded to two chlorine atoms and two fluorine atoms. Bromomethane shows a central carbon bonded to three hydrogen atoms and a bromine atom. The chlorine and bromine atoms are highlighted in the structures.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_00_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Still other halo-substituted compounds are used as medicines and food additives. The nonnutritive sweetener sucralose, marketed as Splenda, contains three chlorine atoms, for instance. Sucralose is about 600 times as sweet as sucrose, so only 1 mg is equivalent to an entire teaspoon of table sugar.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <media alt="An illustration shows the structure of sucralose. An oxygen atom in the center is bonded to a chair conformation of a hexane on the left and chair conformation of a pentane on the right. The hexane is bonded to a chlorine two hydroxyl groups and hydroxy methyl group. The pentane is bonded to two hydroxyl groups and two chloro methane groups. The chlorine atoms are highlighted.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_00_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">A large variety of organohalides are known. The halogen might be bonded to an alkynyl group (<m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext><m:mo>−</m:mo><m:mtext>X</m:mtext></m:mrow></m:math>), a vinylic group (C=C − X), an aromatic ring (Ar − X), or an alkyl group. In this chapter, however, we’ll be primarily concerned with <term id="term-00002">alkyl halides</term>, compounds with a halogen atom bonded to a saturated, <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized carbon atom.</para>
+    </content>
+</document>

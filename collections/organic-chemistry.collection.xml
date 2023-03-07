@@ -159,6 +159,20 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Organohalides</md:title>
+      <col:content>
+        <col:module document="m00112"/>
+        <col:module document="m00113"/>
+        <col:module document="m00114"/>
+        <col:module document="m00115"/>
+        <col:module document="m00116"/>
+        <col:module document="m00117"/>
+        <col:module document="m00118"/>
+        <col:module document="m00119"/>
+        <col:module document="m00120"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Future Chapter</md:title>
       <col:content>
         <col:module document="m00075"/>
