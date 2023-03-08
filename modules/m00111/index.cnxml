@@ -157,7 +157,7 @@
     <para id="para-00027">An <emphasis effect="bold">alkyne</emphasis> is a hydrocarbon that contains a carbon–carbon triple bond. Alkyne carbon atoms are <emphasis effect="italics">sp</emphasis>-hybridized, and the triple bond consists of one <emphasis effect="italics">sp</emphasis>–<emphasis effect="italics">sp σ</emphasis> bond and two <emphasis effect="italics">p–p π</emphasis> bonds. There are relatively few general methods of alkyne synthesis. Two favorable ones are the alkylation of an acetylide anion with a primary alkyl halide and the twofold elimination of HX from a vicinal dihalide.</para>
     <para id="para-00028">The chemistry of alkynes is dominated by electrophilic addition reactions, similar to those of alkenes. Alkynes react with HBr and HCl to yield vinylic halides and with Br<sub>2</sub> and Cl<sub>2</sub> to yield 1,2-dihalides (vicinal dihalides). Alkynes can be hydrated by reaction with aqueous sulfuric acid in the presence of mercury(II) catalyst. The reaction leads to an intermediate <emphasis effect="bold">enol</emphasis> that immediately <emphasis effect="bold">tautomerizes</emphasis> to yield a ketone. Because the addition reaction occurs with Markovnikov regiochemistry, a methyl ketone is produced from a terminal alkyne. Alternatively, hydroboration–oxidation of a terminal alkyne yields an aldehyde.</para>
     <para id="para-00029">Alkynes can be reduced to yield alkenes and alkanes. Complete reduction of the triple bond over a palladium hydrogenation catalyst yields an alkane; partial reduction by catalytic hydrogenation over a <emphasis effect="bold">Lindlar catalyst</emphasis> yields a cis alkene. Reduction of the alkyne with lithium in ammonia yields a trans alkene.</para>
-    <para id="para-00030">Terminal alkynes are weakly acidic. The alkyne hydrogen can be removed by a strong base such as <m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:msup><m:mo>·</m:mo><m:mo>−</m:mo></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math> to yield an <emphasis effect="bold">acetylide anion</emphasis>. An acetylide anion acts as a nucleophile and can displace a halide ion from a primary alkyl halide in an <emphasis effect="bold">alkylation</emphasis> reaction. Acetylide anions are more stable than either alkyl anions or vinylic anions because their negative charge is in a hybrid orbital with 50% <emphasis effect="italics">s</emphasis> character, allowing the charge to be closer to the nucleus.</para>
+    <para id="para-00030">Terminal alkynes are weakly acidic. The alkyne hydrogen can be removed by a strong base such as <m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:mspace width="2em"/><m:msup><m:mi>−</m:mi></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math> to yield an <emphasis effect="bold">acetylide anion</emphasis>. An acetylide anion acts as a nucleophile and can displace a halide ion from a primary alkyl halide in an <emphasis effect="bold">alkylation</emphasis> reaction. Acetylide anions are more stable than either alkyl anions or vinylic anions because their negative charge is in a hybrid orbital with 50% <emphasis effect="italics">s</emphasis> character, allowing the charge to be closer to the nucleus.</para>
     </section>
     <section class="summary-reactions" id="sect-00005">
     <title>Summary of Reactions</title>
@@ -197,33 +197,33 @@
     </media>
     </figure></item>
     <item>Hydration (<link document="m00106">Section 9.4</link>)
-    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00005">
-    <item>Mercuric sulfate catalyzed<newline/>
+    
+      <para id="para-100">(1) Mercuric sulfate catalyzed</para>
     <figure class="unnumbered scaled-down" id="fig-00023">
     <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of sulfuric acid water and mercury sulfate to yield an enol in parentheses that further forms “a methyl ketone.” The structure of alkyne shows an R bonded to carbon is triple bonded to another carbon bonded to hydrogen. Enol shows a centrally placed carbon sharing an upward bond with a pink hydroxyl group a left side bond with R and a double bond with methylene group at the right side. A methyl ketone shows a centrally placed carbonyl group having pink oxygen; the carbon of carbonyl group is bonded to R on left side and a methyl group on the right side.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_006.jpg"/>
     </media>
-    </figure></item>
-    <item>Hydroboration–oxidation<newline/>
+    </figure>
+    <para id="para-101">(2) Hydroboration–oxidation</para>
     <figure class="unnumbered scaled-down-30" id="fig-00024">
     <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of borane and hydrogen peroxide to yield an aldehyde. The structure of alkyne shows R bonded to carbon triple bonded to carbon attached to hydrogen. An aldehyde shows a carbon sharing two downward bonds with hydrogens; the carbon is bonded to R on the left side on the right side carbon bonds to a carbonyl group having pink oxygen the carbon of carbonyl group is further bonded to hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_007.jpg"/>
     </media>
-    </figure></item></list></item>
+    </figure></item>
     <item>Reduction (<link document="m00107">Section 9.5</link>)
-    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00006">
-    <item>Catalytic hydrogenation<newline/>
+    
+    <para id="para-102">(1) Catalytic hydrogenation</para>
     <figure class="unnumbered scaled-down-30" id="fig-00025">
     <media alt="An illustration shows two reactions. The first reaction shows an alkyne reacting in the presence of two moles of hydrogen and a palladium catalyst to yield an alkyl group. The structural formula of an alkyne shows R bonded to carbon triple bonded to another carbon attached to R’. The structure of alkyl product shows a carbon bonded to R two hydrogens and another carbon that is further bonded to two hydrogens and an R’. The second reaction shows an alkyne reacting in the presence of hydrogen and Lindlar catalyst to yield “a cis alkene”. The structure of cis alkene shows two carbons double bonded to each other; the carbon at left side shows an upward bond with a pink hydrogen and a downward bond with R; the carbon on right side shares an upward bond with pink hydrogen and a downward bond with R’.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_008.jpg"/>
     </media>
-    </figure></item>
-    <item>Lithium in liquid ammonia<newline/>
+    </figure>
+    <para id="para-104">(2) Lithium in liquid ammonia</para>
     <figure class="unnumbered scaled-down-30" id="fig-00026">
     <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of lithium and ammonia to yield a trans alkene. The structural formula of alkyne shows R bonded to carbon triple bonded to another carbon attached to R’. The structure of a trans alkene shows two carbons double bonded to each other; the carbon at the left shares an upward bond with pink hydrogen and a downward bond with R; the carbon at the right side shows an upward bond with R’ and a downward bond with a pink hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_009.jpg"/>
     </media>
-    </figure></item></list></item>
+    </figure></item>
     <item>Conversion into acetylide anions (<link document="m00109">Section 9.7</link>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00027">
     <media alt="Alt Text Placeholder">
@@ -255,7 +255,7 @@
     </problem>
     </exercise>
     </section>
-    <section class="visualizing-chemistry" id="sect-00007">
+    <section class="mechanism-problems" id="sect-00007">
     <title>Mechanism Problems</title>
     <exercise id="exer-00007">
     <problem id="prob-00007">
