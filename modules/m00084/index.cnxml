@@ -5,6 +5,259 @@
     <md:content-id>m00084</md:content-id>
     <md:uuid>74cb90e3-f997-4ce8-ac8c-8a602d49de8f</md:uuid>
   </metadata>
-  <content><para id="para-00001">Placeholder</para>
+  <content>
+    <para id="para-00001">We’ve just seen that heat is released (negative Δ<emphasis effect="italics">H</emphasis>) when a bond is formed because the products are more stable and have stronger bonds than the reactants. Conversely, heat is absorbed (positive Δ<emphasis effect="italics">H</emphasis>) when a bond is broken because the products are less stable and have weaker bonds than the reactants. The amount of energy needed to break a given bond to produce two radical fragments when the molecule is in the gas phase at 25 °C is a quantity called the <emphasis effect="bold">bond strength</emphasis>, or <term id="term-00001">bond dissociation energy (<emphasis effect="italics">D</emphasis>)</term>.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00001">
+<media alt="An illustration shows an equation wherein pink “A” sharing a pink and green electron with green “B” undergoes “bond dissociation” in the presence of “energy” to yield pink “A” having a pink electron and a green “B” having a green electron.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_08_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">Each specific bond has its own characteristic strength, and extensive tables of such data are available. For example, a C − H bond in methane has a bond dissociation energy <emphasis effect="italics">D</emphasis> = 439.3 kJ/mol (105.0 kcal/mol), meaning that 439.3 kJ/mol must be added to break a C − H bond of methane to give the two radical fragments ·CH<sub>3</sub> and ·H. Conversely, 439.3 kJ/mol of energy is released when a methyl radical and a hydrogen atom combine to form methane. <link target-id="table-00001"/> lists some other bond strengths.</para>
+<table summary="" id="table-00001">
+<title>Some Bond Dissociation Energies, <emphasis effect="italics">D</emphasis></title>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Bond</entry>
+<entry valign="top" align="left"><emphasis effect="italics">D</emphasis> (kJ/mol)</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">H<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">436</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<span class="magenta-text">―</span><span class="green-text">F</span></entry>
+<entry valign="top" align="left">570</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">431</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<span class="magenta-text">―</span><span class="green-text">Br</span></entry>
+<entry valign="top" align="left">366</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<span class="magenta-text">―</span><span class="green-text">I</span></entry>
+<entry valign="top" align="left">298</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CI<span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">242</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Br<span class="magenta-text">―</span><span class="green-text">Br</span></entry>
+<entry valign="top" align="left">194</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">I<span class="magenta-text">―</span><span class="green-text">I</span></entry>
+<entry valign="top" align="left">152</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">439</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">350</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">Br</span></entry>
+<entry valign="top" align="left">294</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">I</span></entry>
+<entry valign="top" align="left">239</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">OH</span></entry>
+<entry valign="top" align="left">385</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">NH<sub>2</sub></span></entry>
+<entry valign="top" align="left">386</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub><span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">421</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub><span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">352</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub><span class="magenta-text">―</span><span class="green-text">Br</span></entry>
+<entry valign="top" align="left">293</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub><span class="magenta-text">―</span><span class="green-text">I</span></entry>
+<entry valign="top" align="left">233</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub><span class="magenta-text">―</span><span class="green-text">OH</span></entry>
+<entry valign="top" align="left">391</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CH<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">410</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CH<span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">354</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CH<span class="magenta-text">―</span><span class="green-text">Br</span></entry>
+<entry valign="top" align="left">299</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>C<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">400</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>C<span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">352</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>C<span class="magenta-text">―</span><span class="green-text">Br</span></entry>
+<entry valign="top" align="left">293</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>C<span class="magenta-text">―</span><span class="green-text">I</span></entry>
+<entry valign="top" align="left">227</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CH<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">464</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CH<span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">396</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CHCH<sub>2</sub><span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">369</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CHCH<sub>2</sub><span class="magenta-text">―</span><span class="green-text">CI</span></entry>
+<entry valign="top" align="left">298</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002a.jpg"/></media></entry>
+<entry valign="top" align="left">472</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002b.jpg"/></media></entry>
+<entry valign="top" align="left">400</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002c.jpg"/></media></entry>
+<entry valign="top" align="left">375</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002d.jpg"/></media></entry>
+<entry valign="top" align="left">300</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002e.jpg"/></media></entry>
+<entry valign="top" align="left">336</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002f.jpg"/></media></entry>
+<entry valign="top" align="left">464</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HC≡C<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">558</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub><span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">377</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub><span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">370</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CH<span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">369</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>C<span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">363</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CH<span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">426</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CHCH<sub>2</sub><span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">318</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CH<sub>2</sub></entry>
+<entry valign="top" align="left">728</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002g.jpg"/></media></entry>
+<entry valign="top" align="left">427</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002h.jpg"/></media></entry>
+<entry valign="top" align="left">325</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002i.jpg"/></media></entry>
+<entry valign="top" align="left">374</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">497</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<span class="magenta-text">―</span><span class="green-text">OH</span></entry>
+<entry valign="top" align="left">211</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>O<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">440</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>S<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">366</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">C<sub>2</sub>H<sub>5</sub>O<span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">441</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_08_002j.jpg"/></media></entry>
+<entry valign="top" align="left">352</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>O<span class="magenta-text">―</span><span class="green-text">CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">355</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">NH<sub>2</sub><span class="magenta-text">―</span><span class="green-text">H</span></entry>
+<entry valign="top" align="left">450</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<span class="magenta-text">―</span><span class="green-text">CN</span></entry>
+<entry valign="top" align="left">528</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00003">Think again about the connection between bond strengths and chemical reactivity. In an exothermic reaction, more heat is released than is absorbed. But because making bonds in the products releases heat and breaking bonds in the reactants absorbs heat, the bonds in the products must be stronger than the bonds in the reactants. In other words, exothermic reactions are favored by products with strong bonds and by reactants with weak, easily broken bonds.</para>
+<para id="para-00004">Sometimes, particularly in biochemistry, reactive substances that undergo highly exothermic reactions, such as ATP (adenosine triphosphate), are referred to as “energy-rich” or “high-energy” compounds. Such a label doesn’t mean that ATP is special or different from other compounds, it only means that ATP has relatively weak bonds that require a relatively small amount of heat to break, thus leading to a larger release of heat when a strong new bond forms in a reaction. When a typical organic phosphate such as glycerol 3-phosphate reacts with water, for instance, only 9 kJ/mol of heat is released (Δ<emphasis effect="italics">H</emphasis>°′ = −9 kJ/mol), but when ATP reacts with water, 30 kJ/mol of heat is released (Δ<emphasis effect="italics">H</emphasis>°′ = −30 kJ/mol). The difference between the two reactions is due to the fact that the bond broken in ATP is substantially weaker than the bond broken in glycerol 3-phosphate. We’ll see the metabolic importance of this reaction in later chapters.</para>
+<figure class="unnumbered" id="fig-00002">
+<media alt="An illustration shows two reactions. The first reaction labeled as “delta H degree prime equals minus 9 kJ/mol” shows a “glycerol 3-phosphate” molecule which in the presence of pink water molecules yields phosphoric acid and glycerol. The structure of glycerol 3-phosphate shows a green phosphorous sharing an upward double bond with a green oxygen and a side and downward bond with oxygen anions; the phosphorous to its right side shares a pink bond with an oxygen bonded to a methylene group bonded to a methine having an upward bond with a hydroxyl group the methine is further attached to a methylene group bonded to a hydroxyl group. The structure of phosphoric acid shows a centrally located green phosphorous sharing an upward green double bond with oxygen and a side as well as a downward bond with oxygen anion; the phosphorous to its right shares a pink bond with a pink hydroxyl group. The structure of glycerol shows a hydroxyl group having a pink hydrogen is shown bonded to a methylene group bonded to a methine having an upward bond with a hydroxyl group the methine is further attached to a methylene group bonded to a hydroxyl group. The second reaction labeled as “delta H degree prime equals minus 30 kJ/mol” shows “adenosine triphosphate (ATP)” which in the presence of pink water molecule yields “adenosine diphosphate (ADP)” phosphoric acid and a proton. The structure of ATP shows a green oxygen anion sharing a green bond with green phosphorous sharing an upward green double bond with oxygen and a downward bond with a green oxygen anion; the phosphorous shares a pink bond with oxygen bonded to phosphorous having an upward double bond with oxygen a downward bond with oxygen anion and a side bond with oxygen which further bonded to a phosphorous having an upward double bond with oxygen and a downward bond with oxygen anion; to its right the phosphorous bonds to formaldehyde CH2O; the carbon of CH2O is bonded to a cyclopentane having an oxygen embedded at the central tip; the base of ring is bonded to two hydroxyl groups; to the right side of embedded oxygen is bonded a nitrogen embedded in a cyclopentene having another nitrogen embedded at its opposite point; the cyclopentene is fused to cyclohexadiene having two nitrogens embedded at alternate positions and an amine group bonded to its tip. The structure of ADP shows an oxygen anion sharing a bond with phosphorous sharing an upward double bond with oxygen and a downward bond with oxygen anion; to its right side the phosphorous shares a bond with oxygen bonded to phosphorous having an upward double bond with oxygen a downward bond with oxygen anion and a side bond with formaldehyde CH2O; the carbon of CH2O is bonded to a cyclopentane having an oxygen embedded at the central tip; the base of ring is bonded to two hydroxyl groups; to the right side of embedded oxygen is bonded a nitrogen embedded in a cyclopentene having another nitrogen embedded at its opposite point; the cyclopentene is fused to cyclohexadiene having two nitrogens embedded at alternate positions and an amine group bonded to its tip. The structure of phosphoric acid shows a centrally located green phosphorous sharing an upward green double bond with oxygen and a side as well as a downward bond with oxygen anion; the phosphorous to its right shares a pink bond with a pink hydroxyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_08_003.jpg"/>
+</media>
+</figure>
   </content>
 </document>
