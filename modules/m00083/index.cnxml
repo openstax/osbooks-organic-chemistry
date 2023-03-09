@@ -157,8 +157,8 @@
     </tgroup>
     </table>
     <para id="para-00019">Knowing the value of <emphasis effect="italics">K</emphasis><sub>eq</sub> for a reaction is useful, but it’s important to realize its limitations. An equilibrium constant tells only the position of the equilibrium, or how much product is theoretically possible. It doesn’t tell the rate of reaction, or how fast the equilibrium is established. Some reactions are extremely slow even though they have favorable equilibrium constants. Gasoline is stable at room temperature, for instance, because the rate of its reaction with oxygen is slow at 298 K. Only at higher temperatures, such as contact with a lighted match, does gasoline react rapidly with oxygen and undergo complete conversion to the equilibrium products water and carbon dioxide. Rates (how fast a reaction occurs) and equilibria (how much a reaction occurs) are entirely different.</para>
-    <equation class="unnumbered" id="eq-00009"><m:math display="block"><m:mtext>    </m:mtext><m:mrow><m:mtext style="color: #E00087">Rate</m:mtext><m:mo>→</m:mo><m:mtext>Is the reaction fast or slow?</m:mtext></m:mrow></m:math></equation>
-    <equation class="unnumbered" id="eq-00010"><m:math display="block"><m:mtext>    </m:mtext><m:mrow><m:mtext style="color: #00FFFF">Equilibrium</m:mtext><m:mo>→</m:mo><m:mtext>In what direction does the reaction proceed?</m:mtext></m:mrow></m:math></equation>
+    <equation id="eq-00009"><m:math display="block"><m:mtext>    </m:mtext><m:mrow><m:mtext style="color: #E00087">Rate</m:mtext><m:mo>→</m:mo><m:mtext>Is the reaction fast or slow?</m:mtext></m:mrow></m:math></equation>
+    <equation id="eq-00010"><m:math display="block"><m:mtext>    </m:mtext><m:mrow><m:mtext style="color: #00FFFF">Equilibrium</m:mtext><m:mo>→</m:mo><m:mtext>In what direction does the reaction proceed?</m:mtext></m:mrow></m:math></equation>
     <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
     <exercise id="exer-00001">
