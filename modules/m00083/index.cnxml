@@ -128,7 +128,7 @@
       <m:mtable columnalign="left">
        <m:mtr>
         <m:mtd>
-         <m:mtext>       </m:mtext><m:msub>
+         <m:mtext>           </m:mtext><m:msub>
           <m:mi>K</m:mi>
           <m:mrow>
            <m:mtext>eq</m:mtext></m:mrow>
@@ -147,7 +147,7 @@
        </m:mtr>
        <m:mtr>
         <m:mtd>
-         <m:mtext>       </m:mtext><m:mi>Δ</m:mi><m:msup>
+         <m:mtext>           </m:mtext><m:mi>Δ</m:mi><m:msup>
           <m:mi>G</m:mi>
           <m:mo>∘</m:mo>
          </m:msup>
@@ -161,7 +161,7 @@
        </m:mtr>
        <m:mtr>
         <m:mtd>
-         <m:mtext>               =</m:mtext><m:mo>−</m:mo><m:mtext>44,800 J/mol=</m:mtext><m:mo>−</m:mo><m:mn>44.8</m:mn><m:mtext> kJ/mol</m:mtext>
+         <m:mtext>                   =</m:mtext><m:mo>−</m:mo><m:mtext>44,800 J/mol=</m:mtext><m:mo>−</m:mo><m:mn>44.8</m:mn><m:mtext> kJ/mol</m:mtext>
         </m:mtd>
        </m:mtr>
       </m:mtable>
