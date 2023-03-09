@@ -62,7 +62,7 @@
     </media>
     </figure>
     <para id="para-00009">Because the equilibrium constant, <emphasis effect="italics">K</emphasis><sub>eq</sub>, and the standard free-energy change, Δ<emphasis effect="italics">G</emphasis>°, both measure whether a reaction is favorable, they are mathematically related by the equation</para>
-    <equation class="unnumbered" id="eq-00003"><m:math display="block">
+    <equation id="eq-00003"><m:math display="block">
      <m:mrow>
       <m:mtext>Δ</m:mtext><m:msup>
        <m:mi>G</m:mi>
@@ -89,10 +89,83 @@
       </m:msup>
       </m:mrow>
     </m:math></equation>
-    <para id="para-00010">where</para>
-    <equation class="unnumbered" id="eq-00004"/>
-    <para id="para-00011">For example, the reaction of ethylene with HBr has <emphasis effect="italics">K</emphasis><sub>eq</sub> = 7.1 × 10<sup>7</sup>, so Δ<emphasis effect="italics">G</emphasis>° = −44.8 kJ/mol (−10.7 kcal/mol) at 298 K:</para>
-    <equation class="unnumbered" id="eq-00005"/>
+        <equation id="eq-00004"><m:math display='block'>
+          <m:mtable columnalign='left'>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>where&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext><m:mi>R</m:mi><m:mo>=</m:mo><m:mn>8.314</m:mn><m:mtext>&#x00A0;J/(K</m:mtext><m:mo>&#x22C5;</m:mo><m:mtext>mol)</m:mtext><m:mo>=</m:mo><m:mtext>1</m:mtext><m:mtext>.987&#x00A0;cal/(K</m:mtext><m:mo>&#x22C5;</m:mo><m:mtext>mol)</m:mtext>
+            </m:mtd>
+           </m:mtr>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext><m:mi>T</m:mi><m:mo>=</m:mo><m:mtext>Kelvin&#x00A0;temperature</m:mtext>
+            </m:mtd>
+           </m:mtr>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext><m:mi>e</m:mi><m:mo>=</m:mo><m:mn>2.718</m:mn>
+            </m:mtd>
+           </m:mtr>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;ln&#x00A0;</m:mtext><m:msub>
+              <m:mi>K</m:mi>
+              <m:mrow>
+               <m:mtext>eq</m:mtext></m:mrow>
+             </m:msub>
+             <m:mo>=</m:mo><m:mtext>natural&#x00A0;logarithm&#x00A0;of&#x00A0;</m:mtext><m:msub>
+              <m:mi>K</m:mi>
+              <m:mrow>
+               <m:mtext>eq</m:mtext></m:mrow>
+             </m:msub>
+             
+            </m:mtd>
+           </m:mtr>
+          </m:mtable>
+        </m:math></equation>
+             <para id="para-00011">For example, the reaction of ethylene with HBr has <emphasis effect="italics">K</emphasis><sub>eq</sub> = 7.1 × 10<sup>7</sup>, so Δ<emphasis effect="italics">G</emphasis>° = −44.8 kJ/mol (−10.7 kcal/mol) at 298 K:</para>
+    <equation class="unnumbered" id="eq-00005"><m:math display='block'>
+      <m:mtable columnalign='left'>
+       <m:mtr>
+        <m:mtd>
+         <m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext><m:msub>
+          <m:mi>K</m:mi>
+          <m:mrow>
+           <m:mtext>eq</m:mtext></m:mrow>
+         </m:msub>
+         <m:mo>=</m:mo><m:mn>7.1</m:mn><m:mo>&#x00D7;</m:mo><m:msup>
+          <m:mn>10</m:mn>
+          <m:mn>7</m:mn>
+         </m:msup>
+         <m:mtext>&#x00A0;&#x00A0;&#x00A0;and&#x00A0;&#x00A0;&#x00A0;&#x00A0;ln&#x00A0;</m:mtext><m:msub>
+          <m:mi>K</m:mi>
+          <m:mrow>
+           <m:mtext>eq</m:mtext></m:mrow>
+         </m:msub>
+         <m:mo>=</m:mo><m:mn>18.08</m:mn>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr>
+        <m:mtd>
+         <m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext><m:mi>&#x0394;</m:mi><m:msup>
+          <m:mi>G</m:mi>
+          <m:mo>&#x2218;</m:mo>
+         </m:msup>
+         <m:mo>=</m:mo><m:mo>&#x2212;</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mi>ln</m:mi><m:msub>
+          <m:mi>K</m:mi>
+          <m:mrow>
+           <m:mtext>eq</m:mtext></m:mrow>
+         </m:msub>
+         <m:mo>=</m:mo><m:mo>&#x2212;</m:mo><m:mo stretchy='false'>[</m:mo><m:mn>8.314</m:mn><m:mtext>&#x00A0;J/(K</m:mtext><m:mo>&#x22C5;</m:mo><m:mtext>mol)](298&#x00A0;K)(18</m:mtext><m:mtext>.08)</m:mtext>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr>
+        <m:mtd>
+         <m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;=</m:mtext><m:mo>&#x2212;</m:mo><m:mtext>44,800&#x00A0;J/mol=</m:mtext><m:mo>&#x2212;</m:mo><m:mn>44.8</m:mn><m:mtext>&#x00A0;kJ/mol</m:mtext>
+        </m:mtd>
+       </m:mtr>
+      </m:mtable>
+     </m:math></equation>     
     <para id="para-00012">The free-energy change Δ<emphasis effect="italics">G</emphasis> is made up of two terms, an <emphasis effect="italics">enthalpy</emphasis> term, Δ<emphasis effect="italics">H</emphasis>, and a temperature-dependent <emphasis effect="italics">entropy</emphasis> term, <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. Of the two terms, the enthalpy term is often larger and more dominant.</para>
     <equation class="unnumbered" id="eq-00006"><m:math display="block">
      <m:mrow>
@@ -157,8 +230,8 @@
     </tgroup>
     </table>
     <para id="para-00019">Knowing the value of <emphasis effect="italics">K</emphasis><sub>eq</sub> for a reaction is useful, but it’s important to realize its limitations. An equilibrium constant tells only the position of the equilibrium, or how much product is theoretically possible. It doesn’t tell the rate of reaction, or how fast the equilibrium is established. Some reactions are extremely slow even though they have favorable equilibrium constants. Gasoline is stable at room temperature, for instance, because the rate of its reaction with oxygen is slow at 298 K. Only at higher temperatures, such as contact with a lighted match, does gasoline react rapidly with oxygen and undergo complete conversion to the equilibrium products water and carbon dioxide. Rates (how fast a reaction occurs) and equilibria (how much a reaction occurs) are entirely different.</para>
-    <equation id="eq-00009"><m:math display="block"><m:mtext>    </m:mtext><m:mrow><m:mtext style="color: #E00087">Rate</m:mtext><m:mo>→</m:mo><m:mtext>Is the reaction fast or slow?</m:mtext></m:mrow></m:math></equation>
-    <equation id="eq-00010"><m:math display="block"><m:mtext>    </m:mtext><m:mrow><m:mtext style="color: #00FFFF">Equilibrium</m:mtext><m:mo>→</m:mo><m:mtext>In what direction does the reaction proceed?</m:mtext></m:mrow></m:math></equation>
+    <equation id="eq-00009"><m:math display="block"><m:mtext>      </m:mtext><m:mrow><m:mtext style="color: #E00087">Rate</m:mtext><m:mo>→</m:mo><m:mtext>Is the reaction fast or slow?</m:mtext></m:mrow></m:math></equation>
+    <equation id="eq-00010"><m:math display="block"><m:mtext>      </m:mtext><m:mrow><m:mtext style="color: #00FFFF">Equilibrium</m:mtext><m:mo>→</m:mo><m:mtext>In what direction does the reaction proceed?</m:mtext></m:mrow></m:math></equation>
     <section class="section-exercises" id="sect-00001">
     <title>Problems</title>
     <exercise id="exer-00001">
