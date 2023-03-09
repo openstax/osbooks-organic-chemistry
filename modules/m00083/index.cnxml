@@ -64,7 +64,7 @@
     <para id="para-00009">Because the equilibrium constant, <emphasis effect="italics">K</emphasis><sub>eq</sub>, and the standard free-energy change, Δ<emphasis effect="italics">G</emphasis>°, both measure whether a reaction is favorable, they are mathematically related by the equation</para>
     <equation class="unnumbered" id="eq-00003"><m:math display="block">
      <m:mrow>
-      <m:mi>Δ</m:mi><m:msup>
+      <m:mtext>Δ</m:mtext><m:msup>
        <m:mi>G</m:mi>
        <m:mo>∘</m:mo>
       </m:msup>
@@ -81,7 +81,7 @@
       <m:mo>=</m:mo><m:msup>
        <m:mi>e</m:mi>
        <m:mrow>
-        <m:mo>−</m:mo><m:mi>Δ</m:mi><m:msup>
+        <m:mo>−</m:mo><m:mtext>Δ</m:mtext><m:msup>
          <m:mi>G</m:mi>
          <m:mo>∘</m:mo>
         </m:msup>
@@ -96,15 +96,15 @@
     <para id="para-00012">The free-energy change Δ<emphasis effect="italics">G</emphasis> is made up of two terms, an <emphasis effect="italics">enthalpy</emphasis> term, Δ<emphasis effect="italics">H</emphasis>, and a temperature-dependent <emphasis effect="italics">entropy</emphasis> term, <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. Of the two terms, the enthalpy term is often larger and more dominant.</para>
     <equation class="unnumbered" id="eq-00006"><m:math display="block">
      <m:mrow>
-      <m:mi>Δ</m:mi><m:msup>
+      <m:mtext>Δ</m:mtext><m:msup>
        <m:mi>G</m:mi>
        <m:mo>∘</m:mo>
       </m:msup>
-      <m:mo>=</m:mo><m:mi>Δ</m:mi><m:msup>
+      <m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msup>
        <m:mi>H</m:mi>
        <m:mo>∘</m:mo>
       </m:msup>
-      <m:mo>−</m:mo><m:mi>T</m:mi><m:mi>Δ</m:mi><m:msup>
+      <m:mo>−</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:msup>
        <m:mi>S</m:mi>
        <m:mo>∘</m:mo>
       </m:msup>
