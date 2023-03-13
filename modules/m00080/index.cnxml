@@ -20,8 +20,12 @@
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
 <thead>
 <row valign="top">
+<entry valign="top" align="left">Compound type</entry>
+<entry valign="top" align="left">Functional group structure</entry>
 <entry valign="top" align="left">Compound type</entry>
 <entry valign="top" align="left">Functional group structure</entry>
 </row>
@@ -29,51 +33,35 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003a.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003i.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003b.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003j.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003c.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003k.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003d.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003l.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003e.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003m.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003f.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003n.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003g.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003o.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003h.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003i.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003j.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003k.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003l.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003m.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003n.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003o.jpg"/></media></entry>
-</row>
-<row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003p.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c3" nameend="c4"><media alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_06_04_003p.jpg"/></media></entry>
 </row>
 </tbody>
 </tgroup>
