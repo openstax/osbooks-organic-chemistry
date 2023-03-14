@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>The SN2 Reaction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>The SN2 Reaction</md:title>
@@ -6,5 +6,94 @@
     <md:uuid>77ecf5a3-7014-4877-9f6b-e50ee76dbd80</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">In every chemical reaction, there is a direct relationship between the rate at which the reaction occurs and the concentrations of the reactants. When we measure this relationship, we measure the <term id="term-00001">kinetics</term> of the reaction. For example, let’s look at the kinetics of a simple nucleophilic substitution—the reaction of CH<sub>3</sub>Br with OH<sup>–</sup> to yield CH<sub>3</sub>OH plus Br<sup>–</sup>.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows the reaction of hydroxyl ion with bromo methane to yield methanol and bromide ion. The hydroxyl oxygen shows a negative charge and six electrons. An arrow from the electrons points to methyl group. bromine shows six electrons. an arrow from the bond between methyl group and bromine points to bromine. In methanol the oxygen shows four electrons. The bromide ion shows a negative charge and eight electrons.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_02_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">With a given temperature, solvent, and concentration of reactants, the substitution occurs at a certain rate. If we double the concentration of OH<sup>–</sup>, the frequency of encounters between reaction partners doubles and we find that the reaction rate also doubles. Similarly, if we double the concentration of CH<sub>3</sub>Br, the reaction rate again doubles. We call such a reaction, in which the rate is linearly dependent on the concentrations of two species, a <term id="term-00002">second-order reaction</term>. Mathematically, we can express this second-order dependence of the nucleophilic substitution reaction by setting up a <emphasis effect="bold">rate equation</emphasis>. As either [RX] or [<sup>–</sup>OH] changes, the rate of the reaction changes proportionately.</para>
+    <equation id="eq-00001"><m:math display="block">
+     <m:mtable columnalign="left">
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>Reaction rate</m:mtext><m:mo>=</m:mo><m:mtext>Rate of disappearance of reactant</m:mtext>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>                     </m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo>×</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>RX</m:mtext><m:mo stretchy="false">]</m:mo><m:mo>×</m:mo><m:msup>
+         <m:mo stretchy="false">[</m:mo>
+         <m:mo>−</m:mo>
+        </m:msup>
+        <m:mtext>OH</m:mtext><m:mo stretchy="false">]</m:mo>
+       </m:mtd>
+      </m:mtr>
+     </m:mtable>
+    </m:math>
+    </equation>
+    <para id="para-00003">where</para>
+    <equation id="eq-00002"><m:math display="block">
+     <m:mtable columnalign="left">
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>               </m:mtext><m:mo stretchy="false">[</m:mo><m:mtext>RX</m:mtext><m:mo stretchy="false">]</m:mo><m:mo>=</m:mo><m:msub>
+         <m:mtext>CH</m:mtext>
+         <m:mn>3</m:mn>
+        </m:msub>
+        <m:mtext>Br concentration in molarity</m:mtext>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr>
+       <m:mtd>
+        <m:msup>
+         <m:mtext>               [</m:mtext>
+         <m:mo>−</m:mo>
+        </m:msup>
+        <m:mtext>OH]</m:mtext><m:msup>
+         <m:mo>=</m:mo>
+         <m:mo>−</m:mo>
+        </m:msup>
+        <m:mtext>OH concentration in molarity</m:mtext>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>               </m:mtext><m:mi>k</m:mi><m:mo>=</m:mo><m:mtext>a constant value (the rate constant)</m:mtext>
+       </m:mtd>
+      </m:mtr>
+     </m:mtable>
+    </m:math>
+    </equation>
+    <para id="para-00004">A mechanism that accounts for both the inversion of configuration and the second-order kinetics that are observed with nucleophilic substitution reactions was suggested in 1937 by the British chemists E. D. Hughes and Christopher Ingold, who formulated what they called the <term id="term-00003">S<sub>N</sub>2 reaction</term>— short for <emphasis effect="italics">substitution, nucleophilic, bimolecular.</emphasis> (<term id="term-00004">Bimolecular</term> means that two molecules, nucleophile and alkyl halide, take part in the step whose kinetics are measured.)</para>
+    <para id="para-00005">The essential feature of the S<sub>N</sub>2 mechanism is that it takes place in a single step, without intermediates, when the incoming nucleophile reacts with the alkyl halide or tosylate (the <emphasis effect="italics">substrate</emphasis>) from a direction opposite the group that is displaced (the <emphasis effect="italics">leaving group</emphasis>). As the nucleophile comes in on one side of the substrate and bonds to the carbon, the halide or tosylate departs from the other side, thereby inverting the stereochemical configuration. The process is shown in <link>Figure OChem_11_02_002_80485-11-03_M-SN2Rxn</link> for the reaction of (<emphasis effect="italics">S</emphasis>)-2-bromobutane with HO<sup>–</sup> to give (<emphasis effect="italics">R</emphasis>)-2-butanol.</para>
+    <figure class="mechanism-figure scaled-down" id="fig-00002">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows a 2-step reaction. (S)-2-Bromobutane yields a transition state that yields (R)-2-Butanol and bromide ion. (S)-2-Bromobutane shows a carbon single bonded to bromine and ethyl group dash bonded to methyl group and wedge bonded to hydrogen. The transition state shows a carbon single bonded to ethyl group dash bonded to methyl group and wedge bonded to hydrogen. Dots link the carbon with a hydroxyl group (delta minus) on the left and a bromine (delta plus) on the right. (R)-2-Butanol shows a carbon single bonded to a hydroxyl group and ethyl group dash bonded to methyl group and wedge bonded to hydrogen. Text reads: The nucleophile –OH uses its lone-pair electrons to attack the alkyl halide carbon 180 degree away from the departing halogen. This leads to a transition state with a partially formed C–OH bond and a partially broken C–Br bond. The stereochemistry at carbon is inverted as the C–OH bond forms fully and the bromide ion departs with the electron pair from the former C–Br bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_02_002.jpg"/>
+    </media>
+    <caption>The mechanism of the SN2 reaction. The reaction takes place in a single step when the incoming nucleophile approaches from a direction 180° away from the leaving halide ion, thereby inverting the stereochemistry at carbon.</caption>
+    </figure>
+    <para id="para-00006">As shown in <link>Figure OChem_11_02_002_80485-11-03_M-SN2Rxn</link>, the S<sub>N</sub>2 reaction occurs when an electron pair on the nucleophile Nu<emphasis effect="bold">:</emphasis><sup>–</sup> forces out the group X<emphasis effect="bold">:</emphasis><sup>–</sup>, which takes with it the electron pair from the former C – X bond. This occurs through a transition state in which the new Nu – C bond is partially formed at the same time that the old C – X bond is partially broken and in which the negative charge is shared by both the incoming nucleophile and the outgoing halide ion. The transition state for this inversion has the remaining three bonds to carbon in a planar arrangement (<link>Figure OChem_11_02_003_80485-11-04_Tetrahedrl</link>).</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows the steps of SN2 reaction. The corresponding electrostatic potential maps are also shown. An alkyl halide reacts with nucleophile to yield a transition state that yields halide ion and another product. The halide shows a carbon single bonded to X. The carbon shows a free wedge bond and dash bond. The nucleophile shows two electrons and a negative charge. The transition state shows a carbon bonded to X (delta minus) and Nu (delta minus). The carbon shows a free single bond wedge bond and dash bond. The product shows a carbon single bonded to Nu. The carbon shows a free single bond wedge bond and dash bond. The electrostatic potential map shows ball-and-stick models with red balls (Nu X) gray balls (carbons) and white balls (hydrogens). The reactant and the product are tetrahedral while the transition state is planar.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_02_003.jpg"/>
+    </media>
+    <caption>The transition state of an SN2 reaction has a planar arrangement of the carbon atom and the remaining three groups. Electrostatic potential maps show that <emphasis effect="bold">negative charge</emphasis> is delocalized in the transition state.</caption>
+    </figure>
+    <para id="para-00007">The mechanism proposed by Hughes and Ingold is fully consistent with experimental results, explaining both stereochemical and kinetic data. Thus, the requirement for a backside approach of the entering nucleophile (180° away from the departing X group) causes the stereochemistry of the substrate to invert, much like an umbrella turning inside-out in the wind. The Hughes–Ingold mechanism also explains why second-order kinetics are observed: the S<sub>N</sub>2 reaction occurs in a single step that involves both alkyl halide and nucleophile. Two molecules are involved in the step whose rate is measured.</para>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008"><link class="os-embed" url="#exercise/11-02-OC-P02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00009"><link class="os-embed" url="#exercise/11-02-OC-P03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
