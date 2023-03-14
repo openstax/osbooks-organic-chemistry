@@ -13,7 +13,7 @@
     </media>
     </figure>
     <para id="para-00002">With a given temperature, solvent, and concentration of reactants, the substitution occurs at a certain rate. If we double the concentration of OH<sup>–</sup>, the frequency of encounters between reaction partners doubles and we find that the reaction rate also doubles. Similarly, if we double the concentration of CH<sub>3</sub>Br, the reaction rate again doubles. We call such a reaction, in which the rate is linearly dependent on the concentrations of two species, a <term id="term-00002">second-order reaction</term>. Mathematically, we can express this second-order dependence of the nucleophilic substitution reaction by setting up a <emphasis effect="bold">rate equation</emphasis>. As either [RX] or [<sup>–</sup>OH] changes, the rate of the reaction changes proportionately.</para>
-    <equation id="eq-00001"><m:math display="block">
+    <equation class="unnumbered" id="eq-00001"><m:math display="block">
      <m:mtable columnalign="left">
       <m:mtr>
        <m:mtd>
@@ -33,7 +33,7 @@
     </m:math>
     </equation>
     <para id="para-00003">where</para>
-    <equation id="eq-00002"><m:math display="block">
+    <equation class="unnumbered" id="eq-00002"><m:math display="block">
      <m:mtable columnalign="left">
       <m:mtr>
        <m:mtd>
