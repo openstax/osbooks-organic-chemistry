@@ -1,10 +1,23 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Why This Chapter?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Why This Chapter?</md:title>
     <md:content-id>m00121</md:content-id>
     <md:uuid>661e1d4e-41a1-49dd-9c7e-44f3ded97869</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="Two moose with antlers locked in a fight">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_00_Moose.jpg"/>
+    </media>
+    <caption>Competition occurs throughout nature. In chemistry, competition often occurs between alternative reaction pathways, such as in the substitution and elimination reactions of alkyl halides. (credit: modification of “Bull moose fight” by Grand Teton, National Parks Service/Flickr, Public Domain)</caption>
+    </figure>
+    <para id="para-00001">Nucleophilic substitution and base-induced elimination are two of the most widely occurring and versatile reactions in organic chemistry, both in the laboratory and in biological pathways. We’ll look at them closely in this chapter to see how they occur, what their characteristics are, and how they can be used. We’ll begin with substitution reactions.</para>
+    <para id="para-00002">We saw in the preceding chapter that the carbon–halogen bond in an alkyl halide is polar and that the carbon atom is electron-poor. Thus, alkyl halides are electrophiles, and much of their chemistry involves polar reactions with nucleophiles and bases. Alkyl halides do one of two things when they react with a nucleophile/base such as hydroxide ion: they either undergo <emphasis effect="italics">substitution</emphasis> of the X group by the nucleophile, or they undergo <emphasis effect="italics">elimination</emphasis> of HX to yield an alkene.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows a substitution reaction and elimination reaction of a bromoalkane with a hydroxyl group. Substitution yields an alcohol and bromide ion. Elimination yields an alkene water and bromide ion. The bromoalkane shows two carbons single bonded. The first carbon is dash bonded to hydrogen wedge bonded to hydrogen and single bonded to hydrogen. The second carbon is dash bonded to hydrogen wedge bonded to hydrogen and single bonded to bromine. The alcohol is similar but the bromine is replaced by hydroxyl group. The alkene shows two carbons double bonded. each carbon is bonded to two methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_00_001.jpg"/>
+    </media>
+    </figure>
+    </content>
 </document>
