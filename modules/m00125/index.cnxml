@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>The SN1 Reaction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>The SN1 Reaction</md:title>
@@ -6,5 +6,81 @@
     <md:uuid>dc822acf-2dad-4b74-bcd1-07641d3313bd</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Most nucleophilic substitutions take place by the S<sub>N</sub>2 pathway just discussed. The reaction is favored when carried out with an unhindered substrate and a negatively charged nucleophile in a polar aprotic solvent, but is disfavored when carried out with a hindered substrate and a neutral nucleophile in a protic solvent. You might therefore expect the reaction of a tertiary substrate (hindered) with water (neutral, protic) to be among the slowest of substitution reactions. Remarkably, however, the opposite is true. The reaction of the tertiary halide 2-Bromo-2-methylpropane (CH<sub>3</sub>)<sub>3</sub>CBr with H<sub>2</sub>O to give the alcohol 2-methyl-2-propanol is more than <emphasis effect="italics">1 million times</emphasis> faster than the corresponding reaction of CH<sub>3</sub>Br to give methanol.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows the increasing reactivity of 4 compounds in the following order: Methyl Primary Secondary Tertiary. A reaction is shown at the top. RBr reacts with water to produce ROH and hydrogen bromide. Methyl compound shows a carbon single bonded to bromine and hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen. Primary compound shows a carbon single bonded to bromine and methyl group dash bonded to a hydrogen and wedge bonded to a hydrogen. Secondary compound shows a carbon single bonded to bromine and methyl group dash bonded to a hydrogen and wedge bonded to a methyl group. Tertiary compound shows a carbon single bonded to bromine and methyl group dash bonded to a methyl group and wedge bonded to a methyl group. Relative reactivity is as follows: Methyl (less than 1) Primary (1) Secondary (12) Tertiary (1 200 000).">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_04_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">What’s going on here? Clearly, a nucleophilic substitution reaction is occurring—a hydroxyl group is replacing a halogen—yet the reactivity order seems backward. These reactions can’t be taking place by the S<sub>N</sub>2 mechanism we’ve been discussing, so we must therefore conclude that they are occurring by an alternative substitution mechanism. This alternative mechanism is called the <term id="term-00001">S<sub>N</sub>1 reaction</term>, for <emphasis effect="italics">substitution, nucleophilic,</emphasis> <term id="term-00002">unimolecular</term>.</para>
+    <para id="para-00003">In contrast to the S<sub>N</sub>2 reaction of CH<sub>3</sub>Br with OH<sup>–</sup>, the S<sub>N</sub>1 reaction of (CH<sub>3</sub>)<sub>3</sub>CBr with H<sub>2</sub>O has a rate that depends only on the alkyl halide concentration and is independent of the H<sub>2</sub>O concentration. In other words, the process is a <term id="term-00003">first-order reaction</term>; the concentration of the nucleophile does not appear in the rate equation.</para>
+    <equation id="eq-00001"><m:math display="block">
+     <m:mtable columnalign="left">
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>Reaction rate</m:mtext><m:mo>=</m:mo><m:mtext>Rate of disappearance of alkyl halide</m:mtext>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>                     </m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo>×</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>RX</m:mtext><m:mo stretchy="false">]</m:mo>
+       </m:mtd>
+      </m:mtr>
+     </m:mtable>
+    </m:math>
+    </equation>
+    <para id="para-00004">To explain this result, we need to know more about kinetics measurements. Many organic reactions occur in several steps, one of which usually has a higher-energy transition state than the others and is therefore slower. We call this step with the highest transition-state energy the <term id="term-00004"><emphasis effect="italics">rate-limiting step</emphasis></term>, or <emphasis effect="bold">rate-determining step</emphasis>. No reaction can proceed faster than its rate-limiting step, which acts as a kind of traffic jam, or bottleneck. In the S<sub>N</sub>1 reaction of (CH<sub>3</sub>)<sub>3</sub>CBr with H<sub>2</sub>O, the fact that the nucleophile concentration does not appear in the first-order rate equation means that it is not involved in the rate-limiting step and must therefore be involved in some other, non-rate-limiting step. The mechanism shown in <link>Figure OChem_11_04_002-M-SN1Rxn</link> accounts for these observations.</para>
+    <figure class="mechanism-figure scaled-down" id="fig-00002">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows a 3-step reaction. 2-bromo-2-methylpropane undergoes rate-limiting step to produce bromide ion and carbocation that reacts with water to produce protonated alcohol that reacts with water to produce neutral alcohol product and hydronium ion. 2-Bromo-2-methylpropane shows a carbon bonded to bromine and three methyl groups. Text reads: Spontaneous dissociation of the alkyl bromide occurs in a slow rate-limiting step to generate a carbocation intermediate plus bromide ion. Carbocation shows a carbon cation bonded to three methyl groups. The oxygen of water shows two electrons. An arrow from the electrons points to carbon cation. Text reads: The carbocation intermediate reacts with water as a nucleophile in a fast step to yield protonated alcohol as product. The protonated alcohol shows a carbon bonded to three methyl groups and an oxygen cation that is bonded to two hydrogens. An arrow from the electrons of water points to a hydrogen (of alcohol) bonded to oxygen. An arrow from the H-O bond points to the oxygen cation. Text reads: Loss of a proton from the protonated alcohol intermediate then gives the neutral alcohol product. The neutral alcohol shows a carbon bonded to three methyl groups and a hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_04_002.jpg"/>
+    </media>
+    <caption>The mechanism of the S<sub>N</sub>1 reaction of 2-bromo-2-methylpropane with H<sub>2</sub>O involves three steps. Step <emphasis effect="bold"><span class="magenta-text">1</span></emphasis> —the spontaneous, unimolecular dissociation of the alkyl bromide to yield a carbocation—is rate-limiting.</caption>
+    </figure>
+    <para id="para-00005">Unlike what occurs in an S<sub>N</sub>2 reaction, where the leaving group is displaced while the incoming nucleophile approaches, an S<sub>N</sub>1 reaction takes place by loss of the leaving group <emphasis effect="italics">before</emphasis> the nucleophile approaches. 2-Bromo-2-methylpropane spontaneously dissociates to the <emphasis effect="italics">tert</emphasis>-butyl carbocation (CH<sub>3</sub>)<sub>3</sub>C<sup>+</sup>, plus Br<sup>–</sup> in a slow, rate-limiting step, and the intermediate carbocation is then immediately trapped by the nucleophile water in a faster second step. Thus, water is not a reactant in the step whose rate is measured. The energy diagram is shown in <link>Figure OChem_11_04_003_EnergyGrph</link>.</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows a graph. The x-axis plots the reaction progress in increasing order and the y-axis plots the increasing energy level. A curve is shown with two peaks. RX reacts with Nu minus to yield a carbocation intermediate (R plus) and X ion. This reaction is rate limiting. The vertical distance between the starting point and the first peak is labeled delta G double dagger. The carbocation reacts to yield RNu and X ion. The vertical distance between the second trough and the second peak is labeled delta G double dagger.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_04_003.jpg"/>
+    </media>
+    <caption>An energy diagram for an S<sub>N</sub>1 reaction. The rate-limiting step is the spontaneous dissociation of the alkyl halide to give a carbocation intermediate. Reaction of the carbocation with a nucleophile then occurs in a second, faster step.</caption>
+    </figure>
+    <para id="para-00006">Because an S<sub>N</sub>1 reaction occurs through a carbocation intermediate, its stereochemical outcome is different from that of an S<sub>N</sub>2 reaction. Carbocations, as we’ve seen, are planar, <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and achiral. Thus, if we carry out an S<sub>N</sub>1 reaction on one enantiomer of a chiral reactant and go through an achiral carbocation intermediate, the product loses its optical activity (<link document="m00100">Section 8.12</link>). That is, the symmetrical intermediate carbocation can react with a nucleophile equally well from either side, leading to a racemic, 50舁:舁50 mixture of enantiomers (<link>Figure OChem_11_04_004_ChiralSubs</link>).</para>
+    <figure class="scaled-down" id="fig-00004">
+    <media alt="An illustration shows ball-and-stick model of a reaction. A chiral substrate dissociates to yield Planar achiral carbocation intermediate that reacts with nucleophile to yield two types of products: 50% inversion of configuration or 50% retention of configuration. The chiral substrate shows a gray ball bonded to green ball yellow ball brown ball and a red ball. The intermediate shows a gray ball (carbocation) bonded to green ball at the top and red ball at the bottom. A loop denotes the reaction with nucleophile. 50% inversion of configuration shows a gray ball bonded to green ball red ball yellow ball and nucleophile. 50% retention of configuration is the mirror image of 50% inversion of configuration.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_04_004.jpg"/>
+    </media>
+    <caption>Stereochemistry of the S<sub>N</sub>1 reaction. Because the reaction goes through an achiral intermediate, an enantiomerically pure reactant gives an optically inactive racemic product.</caption>
+    </figure>
+    <para id="para-00007">The conclusion that S<sub>N</sub>1 reactions on enantiomerically pure substrates should give racemic products is nearly, but not exactly, what is found. In fact, few S<sub>N</sub>1 displacements occur with complete racemization. Most give a minor (0–20%) excess of inversion. The reaction of (<emphasis effect="italics">R</emphasis>)-6-chloro-2,6-dimethyloctane with H<sub>2</sub>O, for example, leads to an alcohol product that is approximately 80% racemized and 20% inverted (80% <emphasis effect="italics">R,S</emphasis> + 20% <emphasis effect="italics">S</emphasis> is equivalent to 40% <emphasis effect="italics">R</emphasis> + 60% <emphasis effect="italics">S</emphasis>).</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows a reaction of (R)-6-Chloro-2 6-dimethyloctane with water and ethanol to produce 60% S (inversion) and 40% R (retention). The reactant shows 8-carbon chain. C2 is bonded to a methyl group. C6 is single bonded to a chlorine and wedge bonded to a methyl group. 60% S is like the mirror image of the reactant but the chlorine atom is replaced by a hydroxyl group. 40% R is the mirror image of 60% S.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_04_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">This lack of complete racemization in S<sub>N</sub>1 reactions is due to the fact that <term id="term-00005"><emphasis effect="italics">ion pairs</emphasis></term> are involved. According to this explanation, first proposed by Saul Winstein at UCLA, dissociation of the substrate occurs to give a structure in which the two ions are still loosely associated and in which the carbocation is effectively shielded from reaction on one side by the departing anion. If a certain amount of substitution occurs before the two ions fully diffuse apart, then a net inversion of configuration will be observed (<link>Figure OChem_11_04_006_IonPair</link>).</para>
+    <figure class="scaled-down" id="fig-00006">
+    <media alt="An illustration shows ball-and-stick model of a reaction. A chiral substrate dissociates to yield a carbocation intermediate that reacts with nucleophile to yield a free carbocation that further yields two products by racemization. The carbocation undergoes inversion and yields a product. The chiral substrate shows a gray ball bonded to green ball red ball brown ball and yellow ball. In the cation structure a nucleophile attacks from the left the side open to attack. The right side is shielded from attack. The free carbocation shows a carbocation bonded to red ball and yellow ball at the top and a green ball at the bottom. The racemization products are mirror images. Each product shows a gray ball bonded to green ball red ball yellow ball and nucleophile. The inversion product is similar to the first racemization product.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_04_006.jpg"/>
+    </media>
+    <caption>Ion pairs in an S<sub>N</sub>1 reaction. The leaving group shields one side of the carbocation intermediate from reaction with the nucleophile, thereby leading to some inversion of configuration rather than complete racemization.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/11-04-OC-P08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00010"><link class="os-embed" url="#exercise/11-04-OC-P09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00011"><link class="os-embed" url="#exercise/11-04-OC-P10"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
