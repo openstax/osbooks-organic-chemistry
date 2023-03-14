@@ -81,63 +81,63 @@
     <entry valign="top" align="left">Water</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">OH<sub>2</sub><sup>+</sup></span></entry>
     <entry valign="top" align="left">Methylhydronium ion</entry>
-    <entry valign="top" align="left">&#8199;&#8199;&#8199;&#8199;&#8199;1</entry>
+    <entry valign="top" align="right">&#8199;&#8199;&#8199;&#8199;&#8199;1</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">CH<sub>3</sub>CO<sub>2</sub><sup>–</sup></span></entry>
     <entry valign="top" align="left">Acetate</entry>
     <entry valign="top" align="left"><span class="cyan-text">CH<sub>3</sub>CO<sub>2</sub></span>CH<sub>3</sub></entry>
     <entry valign="top" align="left">Methyl acetate</entry>
-    <entry valign="top" align="left">&#8199;&#8199;&#8199;500</entry>
+    <entry valign="top" align="right">&#8199;&#8199;&#8199;500</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">NH<sub>3</sub></span></entry>
     <entry valign="top" align="left">Ammonia</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">NH<sub>3</sub><sup>+</sup></span></entry>
     <entry valign="top" align="left">Methylammonium ion</entry>
-    <entry valign="top" align="left">&#8199;&#8199;&#8199;700</entry>
+    <entry valign="top" align="right">&#8199;&#8199;&#8199;700</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">Cl<sup>–</sup></span></entry>
     <entry valign="top" align="left">Chloride</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">Cl</span></entry>
     <entry valign="top" align="left">Chloromethane</entry>
-    <entry valign="top" align="left">&#8199;&#8199;1,000</entry>
+    <entry valign="top" align="right">&#8199;&#8199;1,000</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">HO<sup>–</sup></span></entry>
     <entry valign="top" align="left">Hydroxide</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">OH</span></entry>
     <entry valign="top" align="left">Methanol</entry>
-    <entry valign="top" align="left">&#8199;10,000</entry>
+    <entry valign="top" align="right">&#8199;10,000</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">CH<sub>3</sub>O<sup>–</sup></span></entry>
     <entry valign="top" align="left">Methoxide</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">OCH<sub>3</sub></span></entry>
     <entry valign="top" align="left">Dimethyl ether</entry>
-    <entry valign="top" align="left">&#8199;25,000</entry>
+    <entry valign="top" align="right">&#8199;25,000</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">I<sup>–</sup></span></entry>
     <entry valign="top" align="left">Iodide</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">I</span></entry>
     <entry valign="top" align="left">Iodomethane</entry>
-    <entry valign="top" align="left">&#8199;100,000</entry>
+    <entry valign="top" align="right">100,000</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text"><sup>–</sup>CN</span></entry>
     <entry valign="top" align="left">Cyanide</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">CN</span></entry>
     <entry valign="top" align="left">Acetonitrile</entry>
-    <entry valign="top" align="left">125,000</entry>
+    <entry valign="top" align="right">125,000</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">HS<sup>–</sup></span></entry>
     <entry valign="top" align="left">Hydrosulfide</entry>
     <entry valign="top" align="left">CH<sub>3</sub><span class="cyan-text">SH</span></entry>
     <entry valign="top" align="left">Methanethiol</entry>
-    <entry valign="top" align="left">125,000</entry>
+    <entry valign="top" align="right">125,000</entry>
     </row>
     </tbody>
     </tgroup>
