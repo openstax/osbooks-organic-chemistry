@@ -6,5 +6,69 @@
     <md:uuid>f7b3c2e6-0cd8-4b3f-85bb-27b3a1640a9a</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">The <term id="term-00001">E2 reaction</term> (for <emphasis effect="italics">elimination, bimolecular</emphasis>) occurs when an alkyl halide is treated with a strong base, such as hydroxide ion or alkoxide ion (RO<sup>–</sup>). It is the most commonly occurring pathway for elimination and can be formulated as shown in <link>Figure OChem_11_08_001_M-E2Rxn</link>.</para>
+    <figure class="mechanism-figure scaled-down" id="fig-00001">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows a 2-step reaction. An alkyl halide reacts with a base to a transition state compound that reacts to produce neutral alkene B plus H and X ion. The alkyl halide shows two carbons single bonded. The right carbon is single bonded to X dash bonded to R and wedge bonded to R. The left carbon is dash bonded to R wedge bonded to R and single bonded to hydrogen. An arrow from the electrons of base points to the hydrogen. An arrow from the C-H bond points to C-C bond. Text reads: Base (B) attacks a neighboring hydrogen and begins to remove the H at the same time as the alkene double bond starts to form and the X group starts to leave. The transition state shows two carbons double bonded. The right carbon is single bonded to X (delta minus) dash bonded to R and wedge bonded to R. The left carbon is dash bonded to R wedge bonded to R and single bonded to hydrogen bonded to B (delta plus). The alkene shows two carbons double bonded. Each carbon is dash bonded to R and wedge bonded to R. Text reads: Neutral alkene is produced when the C–H bond is fully broken and the X group has departed with the C–X bond electron pair.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_001.jpg"/>
+    </media>
+    <caption>Mechanism of the E2 reaction of an alkyl halide. The reaction takes place in a single step through a transition state in which the double bond begins to form at the same time the H and X groups are leaving.</caption>
+    </figure>
+    <para id="para-00002">Like the S<sub>N</sub>2 reaction, the E2 reaction takes place in one step without intermediates. As the base begins to abstract H<sup>+</sup> from a carbon next to the leaving group, the C – H bond begins to break, a C=C bond begins to form, and the leaving group begins to depart, taking with it the electron pair from the C – X bond. Among the pieces of evidence supporting this mechanism is the fact that E2 reactions show second-order kinetics and follow the rate law: rate = <emphasis effect="italics">k</emphasis> × [RX] × [Base]. That is, both the base and alkyl halide take part in the rate-limiting step.</para>
+    <para id="para-00003">A second piece of evidence in support of the E2 mechanism is provided by a phenomenon known as the <term id="term-00002">deuterium isotope effect</term>. For reasons that we won’t go into, a carbon–hydrogen bond is weaker by about 5 kJ/mol (1.2 kcal/mol) than the corresponding carbon–deuterium bond. Thus, a C – H bond is more easily broken than an equivalent C – D bond, and the rate of C – H bond cleavage is faster. For instance, the base-induced elimination of HBr from 1-bromo-2-phenylethane proceeds 7.11 times faster than the corresponding elimination of DBr from 1-bromo-2, 2-dideuterio-2-phenylethane. This result tells us that the C – H (or C – D) bond is broken in the rate-limiting step, consistent with our picture of the E2 reaction as a one-step process. If it were otherwise, we wouldn’t observe a rate difference.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows a reaction in which a bromoalkane reacts with base to yield an alkene. The reactant shows a benzene bonded to a carbon that is bonded to bromo methane. The carbon is bonded to two hydrogen atoms (shown in blue). At the top of the two hydrogen atoms two deuterium atoms are shown in green. The product shows a benzene bonded to a carbon that is double bonded to methylene group. The carbon is bonded to a hydrogen atom (shown in blue). At the top of the hydrogen atom a deuterium atom is shown in green. H represents faster reaction. D represents slower reaction.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Yet a third piece of mechanistic evidence involves the stereochemistry of E2 eliminations. As shown by a large number of experiments, E2 reactions occur with <term id="term-00003">periplanar</term> geometry, meaning that all four reacting atoms—the hydrogen, the two carbons, and the leaving group—lie in the same plane. Two such geometries are possible: <term id="term-00004">syn periplanar</term> geometry, in which the H and the X are on the same side of the molecule, and <term id="term-00005">anti periplanar</term> geometry, in which the H and the X are on opposite sides of the molecule. Of the two, anti periplanar geometry is energetically preferred because it allows the substituents on the two carbons to adopt a staggered relationship, whereas syn geometry requires that the substituents be eclipsed.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <media alt="An illustration shows the anti periplanar geometry (staggered lower energy) and syn periplanar geometry (eclipsed higher energy) of two compounds. For both geometries the structural formula the Newman projection and ball-and-stick model are shown. Anti periplanar geometry: The structure shows two carbons single bonded. Each carbon shows two free bonds. One carbon is bonded to a hydrogen and the other is bonded to X. Newman projection shows hydrogen bonded at the top of the proximal carbon and X bonded at the bottom of the distal carbon. Syn periplanar geometry: The structure shows two carbons single bonded. Each carbon shows two free bonds. One carbon is bonded to a hydrogen and the other is bonded to X. A free bond of the second carbon lies close to the first carbon. Newman projection shows hydrogen bonded at the top of the proximal carbon and X bonded at the top of the distal carbon. The ball-and-stick models show gray balls (carbons) green balls (free groups) blue balls (hydrogen) and brown balls (X).">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">What’s so special about periplanar geometry? Because the <emphasis effect="italics">sp</emphasis><sup>3</sup> <emphasis effect="italics">σ</emphasis> orbitals in the reactant C – H and C – X bonds must overlap and become <emphasis effect="italics">p π</emphasis> orbitals in the alkene product, there must also be some overlap in the transition state. This can occur most easily if all the orbitals are in the same plane to begin with—that is, if they’re periplanar (<link>Figure OChem_11_08_004_AntiPerRea</link>).</para>
+    <figure id="fig-00004">
+    <media alt="An illustration shows the cartoon representation of 3 structures: Anti periplanar reactant Anti transition state and Alkene product. The periplanar reactant an alkyl halide shows the carbon bonded to X.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_004.jpg"/>
+    </media>
+    <caption>The transition state for the E2 reaction of an alkyl halide with base. Overlap of the developing <emphasis effect="italics">p</emphasis> orbitals in the transition state requires periplanar geometry of the reactant.</caption>
+    </figure>
+    <para id="para-00006">You can think of E2 elimination reactions with periplanar geometry as being similar to S<sub>N</sub>2 reactions with 180° geometry. In an S<sub>N</sub>2 reaction, an electron pair from the incoming nucleophile pushes out the leaving group on the opposite side of the molecule. In an E2 reaction, an electron pair from a neighboring C – H bond also pushes out the leaving group on the opposite side of the molecule.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the cartoon representation of SN2 reaction (backside attack) and E2 reaction (anti periplanar). The SN2 reaction shows a carbon bonded to X. The carbon shows a free single bond dash bond and wedge bond. An arrow from a nucleophile with two electrons points to the carbon. An arrow from the C-X bond points to X. The E2 reaction shows two carbons single bonded. The top carbon is bonded to X and shows a free dash bond and wedge bond. The bottom carbon is bonded to the nucleophile and hydrogen and shows a free dash bond and wedge bond. An arrow from the nucleophile with two electrons points to the carbon-carbon bond. An arrow from the C-X bond points to X.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">Anti periplanar geometry for E2 eliminations has specific stereochemical consequences that provide strong evidence for the proposed mechanism. To take just one example, <emphasis effect="italics">meso</emphasis>-1,2-dibromo-1,2-diphenylethane undergoes E2 elimination on treatment with base to give only the <emphasis effect="italics">E</emphasis> alkene. None of the isomeric <emphasis effect="italics">Z</emphasis> alkene is formed because the transition state leading to the <emphasis effect="italics">Z</emphasis> alkene would have to have syn periplanar geometry and would thus be higher in energy.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a reaction of meso-1 2-Dibromo-1 2-diphenylethane (anti periplanar geometry) with base in the presence of KOH and ethanol to yield (E)-1-Bromo-1 2-diphenylethylene. The structural formula and the Newman projection are shown. The reactant shows two carbons single bonded. Each carbon is bonded to a hydrogen bromine and phenyl group. Base shows two electrons. An arrow from the electrons points to a hydrogen. An arrow from the C-Br bond points to Br. The Newman projection of the reactant shows the proximal carbon bonded to a hydrogen at the top and the distal carbon bonded to a bromine at the bottom. The alkene shows two carbons double bonded. C1 is bonded to a phenyl group and bromine. C2 is bonded to a hydrogen and phenyl group. The Newman projection of the product shows the proximal carbon bonded to phenyl group and bromine and the distal carbon bonded to phenyl group and hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_006.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Double-Bond Stereochemistry of the Product in an E2 Reaction</title>
+    <para id="para-00008">What stereochemistry do you expect for the alkene obtained by E2 elimination of (1<emphasis effect="italics">S</emphasis>,2<emphasis effect="italics">S</emphasis>)-1,2-dibromo-1,2-diphenylethane?</para>
+    <para id="para-00009"><title><span class="red-text">Strategy</span></title> Draw (1<emphasis effect="italics">S</emphasis>,2<emphasis effect="italics">S</emphasis>)-1,2-dibromo-1,2-diphenylethane so that you can see its stereochemistry and so that the  – H and  – Br groups to be eliminated are anti periplanar. Then carry out the elimination while keeping all substituents in approximately the same positions, and see what alkene results.</para>
+    <para id="para-00010"><title><span class="cyan-text">Solution</span></title> Anti periplanar elimination of HBr gives (<emphasis effect="italics">Z</emphasis>)-1-bromo-1,2-diphenylethylene.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <media alt="An illustration shows a reaction of (1S 2S)-1 2-dibromo-1 2-diphenylethane with base to yield (Z)-1-bromo-1 2-diphenylethylene. The reactant shows two carbons single bonded. Each carbon is bonded to a hydrogen bromine and phenyl group. Base shows two electrons. An arrow from the electrons points to a hydrogen. An arrow from the C-Br bond points to Br. The alkene shows two carbons double bonded. C1 is bonded to a phenyl group and bromine. C2 is bonded to a hydrogen and phenyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_08_007.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00011"><link class="os-embed" url="#exercise/11-08-OC-P17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00012"><link class="os-embed" url="#exercise/11-08-OC-P18"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
