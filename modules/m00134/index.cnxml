@@ -5,6 +5,38 @@
     <md:content-id>m00134</md:content-id>
     <md:uuid>9dba890b-2259-4ec4-8eca-251074e8fa93</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="A clear mug of coffee sits atop a saucer in a tray of coffee beans.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_00_Coffee.jpg"/>
+    </media>
+    <caption>More than a thousand different chemical compounds have been isolated from coffee. Their structures were determined using various spectroscopic techniques. (credit: modification of work “Coffee, Espresso” by John Beans/myfriendscoffee.com, CC BY 4.0)</caption>
+    </figure>
+    <para id="para-00001">Finding the structures of new molecules, whether small ones synthesized in the laboratory or large proteins and nucleic acids found in living organisms, is central to progress in chemistry and biochemistry. We can only scratch the surface of structure determination in this book, but after reading this and the following two chapters, you should have a good idea of the range of structural techniques available and of how and when each is used.</para>
+    <para id="para-00002">Every time a reaction is run, the products must be identified, and every time a new compound is found in nature, its structure must be determined. Determining the structure of an organic compound was a difficult and time-consuming process until the mid-20th century, but powerful techniques and specialized instruments are now routinely used to simplify the problem. In this and the next two chapters, we’ll look at four such techniques—mass spectrometry (MS), infrared (IR) spectroscopy, ultraviolet spectroscopy (UV), and nuclear magnetic resonance spectroscopy (NMR)—and we’ll see the kind of information that can be obtained from each.</para>
+    <table summary="" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold">Mass spectrometry</emphasis></entry>
+    <entry valign="top" align="left">What is the size and formula?</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">Infrared spectroscopy</span></emphasis></entry>
+    <entry valign="top" align="left">What functional groups are present?</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="cyan-text">Ultraviolet spectroscopy</span></emphasis></entry>
+    <entry valign="top" align="left">Is a conjugated <emphasis effect="italics">π</emphasis> electron system present?</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="green-text">Nuclear magnetic resonance spectroscopy</span></emphasis></entry>
+    <entry valign="top" align="left">What is the carbon–hydrogen framework?</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </content>
 </document>

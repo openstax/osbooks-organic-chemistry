@@ -6,5 +6,120 @@
     <md:uuid>b6d3ae2a-16e4-46a2-963c-1d4fcc775baa</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">As each functional group is discussed in future chapters, mass-spectral fragmentations characteristic of that group will be described. As a preview, though, we’ll point out some distinguishing features of several common functional groups.</para>
+    <section id="sect-00001">
+    <title>Alcohols</title>
+    <para id="para-00002">Alcohols undergo fragmentation in a mass spectrometer by two pathways: <emphasis effect="italics">alpha cleavage</emphasis> and <emphasis effect="italics">dehydration</emphasis>. In the <emphasis effect="italics">α</emphasis>-cleavage pathway, a C – C bond nearest the hydroxyl group is broken, yielding a neutral radical plus a resonance-stabilized, oxygen-containing cation. This type of fragmentation is seen in the spectrum of 2-pentanol in <link>Figure 12_03_OChem-12-03-001_80485-12-09_2Pentanol</link>.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the mass spectrum of 2-pentanol (C5H12O with MW equal to 88.15). The structure shows a five-carbon chain with C2 bonded to a hydroxyl group. The horizontal axis shows m/z starting from 10 to 90 at the interval at 10 units; the relative abundance in percentage is shown on the vertical axis starting from 0 to 100 percent at the interval of 20 percent. At m/z “45” a tall peak reaching 100 percent abundance is shown; at m/z “55” a small peak about 20 percent abundance is shown; at m/z “70” a tiny peak about 1 percent abundance is shown; at m/z “73” a peak below 10 percent abundance is shown; at m/z 88 no peak is shown and the spot is labeled as “M(88).”">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_001.jpg"/>
+    </media>
+    <caption>Mass spectrum of 2-pentanol.</caption>
+    </figure>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows “alpha cleavage” in a cation to yield RCH2 radical with an electron and two reversible products shown in parentheses. The structure of cation in parentheses shows a centrally placed carbon with two free bonds at the bottom and bonded to a hydroxyl group at the top right and an RCH2 at the top left; a pink spiral line intersects the C-CH2 bond; outside the parentheses is shown an electron. The first product shows a carbon cation bonded to a hydroxyl group that shows two pairs of electrons; the carbon cation shows two open bonds; the second reversible structure shows a centrally placed carbon double bonded to a hydroxyl group that shows a pair of electrons and a positive charge; the carbon cation shows two open bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">In the dehydration pathway, water is eliminated, yielding an alkene radical cation with a mass 18 amu less than M<sup>+</sup>. For simplicity, we have drawn the dehydration below as an E2-type process. Often the hydrogen that is lost is not beta to the hydroxyl. Only a small peak from dehydration is observed in the spectrum of 2-pentanol (<link>Figure 12_03_OChem-12-03-001_80485-12-09_2Pentanol</link>).</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows “dehydration” of an alcohol cation to yield pink water molecules and an alkene radical cation. The alcohol cation placed in parentheses with an electron shows a carbon bonded to another carbon; the left carbon is bonded to a hydrogen at the top and the right carbon is bonded to a hydroxyl group at the top; each carbon shows two open downward bonds. The structure of alkene cation in parentheses shows a carbon double bonded to another carbon and each carbon shows two open bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_003.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Amines</title>
+    <para id="para-00004">The <emphasis effect="italics">nitrogen rule</emphasis> of mass spectrometry says that a compound with an odd number of nitrogen atoms has an odd-numbered molecular weight. The logic behind the rule comes from the fact that nitrogen is trivalent, thus requiring an odd number of hydrogen atoms. The presence of nitrogen in a molecule is often detected simply by observing its mass spectrum. An odd-numbered molecular ion usually means that the unknown compound has one or three nitrogen atoms, and an even-numbered molecular ion usually means that a compound has either zero or two nitrogen atoms.</para>
+    <para id="para-00005">Aliphatic amines undergo a characteristic <emphasis effect="italics">α</emphasis> cleavage in a mass spectrometer, similar to that observed for alcohols. A C – C bond nearest the nitrogen atom is broken, yielding an alkyl radical and a resonance-stabilized, nitrogen-containing cation.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows “alpha cleavage” in an aliphatic amine to yield an alkyl radical (RCH2) and two reversible cations placed in parentheses. The aliphatic amine cation in parentheses shows a centrally placed carbon with two free bonds at the bottom and bonded to NR2 at the top right and an RCH2 at the top left; a pink spiral line intersects the C-CH2 bond; outside the parentheses is shown an electron and a positive charge. The first product shows a carbon cation bonded to NR2 at the top that shows two electrons; the carbon cation shows two open bonds; the second reversible structure shows a centrally placed carbon double bonded to NR2 that shows a positive charge; the carbon cation shows two open bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">The mass spectrum of triethylamine has a base peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 86, which arises from an alpha cleavage resulting in the loss of a methyl group (<link>Figure 12_03_OChem-12-03-005_80485-12-10_Triethylam</link>).</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="An illustration shows mass spectrum of triethylamine having “MW equal to 101”; the structure shows a centrally located nitrogen bonded to three ethyl groups. The graphs show m/z on the horizontal axis starting from 10 to 105 at the interval of 5 units; the vertical axis shows relative abundance (percent) starting from 0 to 100 at the interval of 20 units. Between m/z 25 and 30 are shown five peaks with the tallest being at “30” above 35 percent abundance; between m/z 40 and 45 are shown four tiny below 10 percent and two small peaks below 20 percent abundance; between m/z 54 and 60 few tiny peaks are shown and a taller peak near 25percent abundance are shown; at m/z “86” a tall peak around 100 percent abundance is shown; at m/z 101 a peak “M(101)” is shown around 18 percent abundance.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_005.jpg"/>
+    </media>
+    <caption>Mass spectrum of triethylamine.</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Halides</title>
+    <para id="para-00007">The fact that some elements have two common isotopes gives their mass spectra a distinctive appearance. Chlorine, for example, exists as two isotopes, <sup>35</sup>Cl and <sup>37</sup>Cl, in roughly a 3 : 1 ratio. In a sample of chloroethane, three out of four molecules contain a <sup>35</sup>Cl atom and one out of four has a <sup>37</sup>Cl atom. In the mass spectrum of chloroethane (<link>Figure 12_03_OChem-12-03-006_80485-12-11_Chloroeth</link> we see the molecular ion (M) at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 64 for ions that contain a <sup>35</sup>Cl and another peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 66, called the M + 2 peak, for ions containing a <sup>37</sup>Cl. The ratio of the relative abundance of M : M + 2 is about 3 : 1, a reflection of the isotopic abundances of chlorine.</para>
+    <figure class="scaled-down-30" id="fig-00006">
+    <media alt="An illustration shows mass spectrum of chloroethane having “MW equal to 64.5”; the structure shows an ethyl group bonded to a chlorine. The graphs show m/z on the horizontal axis starting from 10 to 70 at the interval of 5 units; the vertical axis shows relative abundance (percent) starting from 0 to 100 at the interval of 20 units. Between m/z 25 and 30 are shown six peaks with the tallest being at m/z 28 at 90 percent abundance followed by 29 near 85 percent 27 near 72 percent and 26 near 28 percent whereas the peaks at m/z 25 and 30 are smallest below 10percent abundance; between m/z 45 and 51 are shown four tiny below 10 percent and a small peak above 20 percent abundance; between m/z 62 and 66 a tall peak “M(64)” is shown at 100 percent followed by a medium height peak “M + 2” at m/z 66.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_006.jpg"/>
+    </media>
+    <caption>Mass spectrum of chloroethane.</caption>
+    </figure>
+    <para id="para-00008">In the case of bromine, the isotopic distribution is 50.7% <sup>79</sup>Br and 49.3% <sup>81</sup>Br. In the mass spectrum of 1-bromohexane (<link>Figure 12_03_OChem-12-03-007_80485-12-12_1BromoHex</link>) the molecular ion appears at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 164 for <sup>79</sup>Br-containing ions and the M + 2 peak is at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 166 for <sup>81</sup>Br-containing ions. The ions at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 135 and 137 are informative as well. The two nearly equally large peaks tell us that the ions at those <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> values still contain the bromine atom. The peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 85, on the other hand, does not contain bromine because there is not a large peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 87.</para>
+    <figure class="scaled-down" id="fig-00007">
+    <media alt="An illustration shows the mass spectrum of 1-Bromohexane with MW equal to 165 and is shown as a methyl group bonded to five consecutive methylene groups bonded to a bromine. The horizontal axis shows m/z starting from 10 to 170 at the interval at 10 units; the relative abundance (percentage) is shown on the vertical axis starting from 0 to 100 at the interval of 20 units. Between m/z 25 and 30 four peaks below 20 percent are shown; between m/z 39 and 45 six peaks are shown the tallest at “43” reaching 100 percent abundance; two peaks at m/z 41 and 42 are shown near 36 percent abundance; a peak at m/z “85” is shown around 50 percent abundance; another peak “135” is shown near 50 percent abundance and a slightly shorter peak is shown at “137” around 50 percent abundance; at m/z 164 a tiny peak “M(164) is shown and a similar height peak near m/z 166 is labeled “M + 2.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_007.jpg"/>
+    </media>
+    <caption>Mass spectrum of 1-bromohexane.</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Carbonyl Compounds</title>
+    <para id="para-00009">Ketones and aldehydes that have a hydrogen on a carbon three atoms away from the carbonyl group undergo a characteristic mass-spectral cleavage called the <term id="term-00001">McLafferty rearrangement</term>. The hydrogen atom is transferred to the carbonyl oxygen, a C – C bond between the alpha and beta carbons is broken, and a neutral alkene fragment is produced. The charge remains with the oxygen-containing fragment.</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows “McLafferty rearrangement” in a cation having an electron to yield an alkene and an oxygen-containing fragment in parentheses. The structure of cation in parentheses shows a 4-carbon chain with C1 bonded to a carbonyl group that is bonded to R. The oxygen is shown in pink. C1 and C2 are bonded to two methyl groups each. C3 is bonded to two methyl groups and a hydrogen. The structure resembles an open hexane ring. An arrow from C3-H bond points to C2-C3 bond. An arrow from C1-C2 bond points to C1-carbonyl bond. An arrow from carbonyl bond points outward. The alkene shows two carbons double bonded to each other. Each carbon shows two free bonds. The oxygen containing fragment is shown in parentheses with an electron outside it; it shows a carbon with two free bonds double bonded to a second carbon that shows a free bond and is bonded to a hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010">In addition, ketones and aldehydes frequently undergo <emphasis effect="italics">α</emphasis> cleavage of the bond between the carbonyl carbon and the neighboring carbon to yield a neutral radical and a resonance-stabilized acyl cation. Because the carbon neighboring the carbonyl carbon is called the alpha carbon, the reaction is called an alpha cleavage.</para>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="An illustration shows “alpha cleavage” in a ketone to yield an R with electron and an acyl cation. The ketone placed in parentheses with an electron shows a carbonyl group having a pink oxygen; the carbon of carbonyl group is bonded to R to its left and to R’ to its right side. The acyl cation is represented by two reversible structures placed in parentheses; the first structure shows a carbon cation single bonded to R’ at the bottom and double bonded to an oxygen at the top that shows four electrons. The second structure shows a carbon single bonded to R’ at the bottom and triple bonded to an oxygen at the top that shows two electrons and a positive charge.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011">(To be more general about neighboring positions in carbonyl compounds, Greek letters are used in alphabetical order: alpha, beta, gamma, delta, and so on.)</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00010">
+    <media alt="Alt text placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_GreekLets.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012">The mass spectrum of butyrophenone illustrates both alpha cleavage and the McLafferty rearrangement (<link>Figure 12_03_OChem-12-03-010_80485-12-13_Butylpheno</link>). Alpha cleavage of the propyl substituent results in the loss of C<sub>3</sub>H<sub>7</sub> = 43 mass units from the parent ion at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 148 to give the fragment ion at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 105. A McLafferty rearrangement of butyrophenone results in the loss of ethylene, C<sub>2</sub>H<sub>4</sub> = 28 mass units, from the parent leaving the ion at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 120.</para>
+    <figure class="scaled-down" id="fig-00011">
+    <media alt="An illustration shows the mass spectrum of butyrophenone C10H12O having “MW equal to 148.20”; the structure shows a benzene bonded to a carbonyl group whose carbon bonds to a three-carbon chain. The graphs show m/z on the horizontal axis starting from 10 to 150 at the interval of 15 units; the vertical axis shows relative abundance (percent) starting from 0 to 100 at the interval of 20 units. At m/z “77” a peak reaching nearly 50 percent abundance is shown; at m/z “105” a peak reaching 100 percent is shown; at m/z “120” a short peak around 10 percent abundance is shown; at m/z 148 a peak labeled “M” near 18 percent is shown.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_010.jpg"/>
+    </media>
+    <caption>Mass spectrum of butyrophenone.</caption>
+    </figure>
+    <example id="exam-00001">
+    <title>Identifying Fragmentation Patterns in a Mass Spectrum</title>
+    <para id="para-00013">The mass spectrum of 2-methyl-3-pentanol is shown in <link>Figure 12_03_OChem-12-03-011_80485-12-14_WE-2Meth3P</link>. What fragments can you identify?</para>
+    <figure class="scaled-down" id="fig-00012">
+    <media alt="An illustration shows the mass spectrum of 2-methyl-3-pentanol. The structure shows a methyl group bonded to a chain of two methine groups and then an ethyl group. The first methine group is bonded to a methyl group at the bottom and the second methine group is bonded to a hydroxyl group at the top. The graphs show m/z on the horizontal axis starting from 10 to 140 first at the interval of 10 units followed by an interval of 20 units; the vertical axis shows relative abundance (percent) starting from 0 to 100 at the interval of 20 units. Between m/z 15 and 20 four tiny peaks below 10 percent are shown; between m/z 25 and 35 seven peaks are shown of which two highest peaks are around 40 percent two less higher peaks are around 30 percent and 20 percent whereas remaining three are below 10 percent. Between m/z 35 and 45 five peaks are below 10 percent and three peaks are ranging from 30 percent to 18 percent; between m/z 45 and 60 a tall peak is shown at 100 percent abundance and the second taller peak above 20 percent and third tallest peak below 20 percent and rest of the four tiny peaks are below 10 percent. From m/z 70 to 75 are shown few tiny peaks and tall peak at m/z 73 around 40 percent.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_011.jpg"/>
+    </media>
+    <caption>Mass spectrum of 2-methyl-3-pentanol, for <link>Worked Example 12.2</link>.</caption>
+    </figure>
+    <para id="para-00014"><title><span class="red-text">Strategy</span></title> Calculate the mass of the molecular ion, and identify the functional groups in the molecule. Then write the fragmentation processes you might expect, and compare the masses of the resultant fragments with the peaks present in the spectrum.</para>
+    <para id="para-00015"><title><span class="cyan-text">Solution</span></title> 2-Methyl-3-pentanol, an open-chain alcohol, has M<sup>+</sup> = 102 and might be expected to fragment by <emphasis effect="italics">α</emphasis> cleavage and by dehydration. These processes would lead to fragment ions of <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 84, 73, and 59. Of the three expected fragments, dehydration is not observed (no <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 84 peak), but both <emphasis effect="italics">α</emphasis> cleavages take place (<emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 73, 59).</para>
+    <figure class="unnumbered scaled-down" id="fig-00013">
+    <media alt="An illustration shows the result of alpha cleavage on 2-Methyl-3-pentanol with pink “M plus equal to 102”. The structure of the alcohol shows a five-carbon chain with a methyl group bonded to C2 and a hydroxyl group bonded to C3; a pink dashed line that cleaves the bond between C2 and C3 reads “loss of C3H7 (M plus subtracted by 43) by alpha cleavage gives a peak of mass 59.” Another pink dashed line that cleaves the bond between C3 and C4 reads “loss of C2H5 (M plus subtracted by 29) by alpha cleavage gives a peak of mass 73.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_03_012.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    <section class="section-exercises" id="sect-00005">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00016"><link class="os-embed" url="#exercise/12-03-OC-P03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00017"><link class="os-embed" url="#exercise/12-03-OC-P04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
 </document>
