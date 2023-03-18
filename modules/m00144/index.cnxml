@@ -6,5 +6,75 @@
     <md:uuid>d5863bea-2cb9-4cf6-ab5e-f797d6b6a3c1</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Many kinds of nuclei behave as if they were spinning about an axis, somewhat as the earth spins daily. Because they’re positively charged, these spinning nuclei act like tiny magnets and can interact with an external magnetic field, denoted <emphasis effect="bold"><emphasis effect="italics">B</emphasis></emphasis><sub>0</sub>. Not all nuclei act this way, but fortunately for organic chemists, both the proton (<sup>1</sup>H) and the <sup>13</sup>C nucleus do have spins. The more common <sup>12</sup>C isotope, however, does not have nuclear spin. (In speaking about NMR, the words <emphasis effect="italics">proton</emphasis> and <emphasis effect="italics">hydrogen</emphasis> are often used interchangeably, since a hydrogen nucleus is just a proton.) Let’s see what the consequences of nuclear spin are and how we can use the results.</para>
+    <para id="para-00002">In the absence of an external magnetic field, the spins of magnetic nuclei are oriented randomly. When a sample containing these nuclei is placed between the poles of a strong magnet, however, the nuclei adopt specific orientations, much as a compass needle orients in the earth’s magnetic field. A spinning <sup>1</sup>H or <sup>13</sup>C nucleus can orient so that its own tiny magnetic field is aligned either with (parallel to) or against (antiparallel to) the external field. The two orientations don’t have the same energy, however, and aren’t equally likely. The parallel orientation is slightly lower in energy by an amount that depends on the strength of the external field, making this spin state very slightly favored over the antiparallel orientation (<link>Figure 13_01_OChem-12-EC-016_80485-13-01_NucSpins</link>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows two parts. The first part shows tiny green spheres having arrows passing through them; the spheres are scattered randomly with their arrows pointing different directions. The second part shows an upward pointing large pink arrow on the left labeled as “B0” at the base; this part shows vertical alignment of pink and blue spheres; the pink arrows of pink spheres point upward whereas the blue arrows of blue spheres point downward.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_01_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">(a)</emphasis> Nuclear spins are oriented randomly in the absence of an external magnetic field but <emphasis effect="bold">(b)</emphasis> have a specific orientation in the presence of an external field, <emphasis effect="bold"><emphasis effect="italics">B</emphasis></emphasis><sub>0</sub>. Some of the spins (red) are aligned parallel to the external field while others (blue) are antiparallel. The parallel spin state is slightly lower in energy and therefore favored.</caption>
+    </figure>
+    <para id="para-00003">If the oriented nuclei are irradiated with electromagnetic radiation of the proper frequency, energy absorption occurs and the lower-energy spin state “flips” to the higher-energy state. When this spin-flip occurs, the magnetic nuclei are said to be in resonance with the applied radiation—hence the name <emphasis effect="italics">nuclear magnetic resonance.</emphasis></para>
+    <para id="para-00004">The exact frequency necessary for resonance depends both on the strength of the external magnetic field, the identity of the nucleus, and the electronic environment of the nucleus. If a very strong magnetic field is applied, the energy difference between the two spin states is larger and higher-frequency (higher-energy) radiation is required for a spin-flip. If a weaker magnetic field is applied, less energy is required to effect the transition between nuclear spin states (<link>Figure 13_01_OChem-13-01-002_80485-13-02_Strength</link>).</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows a ray diagram denoting the energy difference between nuclear spin states. A large orange colored arrow labeled “energy” is shown along the vertical axis and “strength of applied field B0 is shown on the horizontal axis. From the point of origin “a” two rays diverge; a pink sphere with an upward arrow through it is shown beside a blue sphere with a downward arrow through it; to the left of the spheres an arrow pointing to “a” is shown; further ahead in the diagram at “b” is shown a thick upward pointing pink arrow having “B0” at its base; a dashed line passes over the head of the arrow through a blue sphere with a downward pointing arrow; at the base of the arrow a pink sphere with an upward pointing arrow is shown; the difference between the dashed lines is denoted as “delta E = h multiplied by nu”; at the farthest point of diversion “c” is shown a larger upward pointing pink arrow; a dashed line passes over the head of the arrow through a blue sphere with a downward pointing arrow; at the base of the arrow a pink sphere with an upward pointing arrow is shown; the difference between the dashed lines is denoted as “delta E = h multiplied by nu.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_01_002.jpg"/>
+    </media>
+    <caption>The energy difference Δ<emphasis effect="italics">E</emphasis> between nuclear spin states depends on the strength of the applied magnetic field. Absorption of energy with frequency <emphasis effect="italics">υ</emphasis> converts a nucleus from a lower spin state to a higher spin state. <emphasis effect="bold">(a)</emphasis> Spin states have equal energies in the absence of an applied magnetic field but <emphasis effect="bold">(b)</emphasis> have unequal energies in the presence of a magnetic field. At <emphasis effect="italics">ν</emphasis> = 200 MHz, ∆<emphasis effect="italics">E</emphasis> = 8.0 × 10<sup>–5</sup> kJ/mol (1.9 × 10<sup>–5</sup> kcal/mol). <emphasis effect="bold">(c)</emphasis> The energy difference between spin states is greater at larger applied fields. At <emphasis effect="italics">ν</emphasis> = 500  MHz, ∆<emphasis effect="italics">E</emphasis> = 2.0 × 10–4 kJ/mol.</caption>
+    </figure>
+    <para id="para-00005">In practice, superconducting magnets that produce enormously powerful fields up to 23.5 tesla (T) are sometimes used, but field strengths in the range of 4.7 to 7.0 T are more common. At a magnetic field strength of 4.7 T, so-called radiofrequency (rf) energy in the 200 MHz range (1 MHz = 10<sup>6</sup> Hz) brings a <sup>1</sup>H nucleus into resonance, and rf energy of 50 MHz brings a <sup>13</sup>C nucleus into resonance. At the highest field strength currently available in commercial instruments (23.5 T), 1000 MHz energy is required for <sup>1</sup>H spectroscopy. These energies needed for NMR are much smaller than those required for IR spectroscopy; 200 MHz rf energy corresponds to only 8.0 × 10<sup>–5</sup> kJ/mol versus the 4.8 to 48 kJ/mol needed for IR spectroscopy.</para>
+    <para id="para-00006"><sup>1</sup>H and <sup>13</sup>C nuclei are not unique in their ability to exhibit the NMR phenomenon. All nuclei with an odd number of protons (<sup>1</sup>H, <sup>2</sup>H, <sup>14</sup>N, <sup>19</sup>F, <sup>31</sup>P, for example) and all nuclei with an odd number of neutrons (<sup>13</sup>C, for example) show magnetic properties. Only nuclei with even numbers of both protons and neutrons (<sup>12</sup>C, <sup>16</sup>O, <sup>32</sup>S) do not give rise to magnetic phenomena (<link target-id="table-00001"/>).</para>
+    <table summary="" id="table-00001">
+    <title>The NMR Behavior of Some Common Nuclei</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="center"><span class="magenta-text">Magnetic nuclei</span></entry>
+    <entry valign="top" align="center"><span class="cyan-text">Nonmagnetic nuclei</span></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="center"><sup>1</sup>H</entry>
+    <entry valign="top" align="center"><sup>12</sup>C</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center"><sup>13</sup>C</entry>
+    <entry valign="top" align="center"><sup>16</sup>O</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center"><sup>2</sup>H</entry>
+    <entry valign="top" align="center"><sup>32</sup>S</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center"><sup>14</sup>N</entry>
+    <entry valign="top" align="center"> </entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center"><sup>19</sup>F</entry>
+    <entry valign="top" align="center"> </entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center"><sup>31</sup>P</entry>
+    <entry valign="top" align="center"> </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/13-01-OC-P01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/13-01-OC-P02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

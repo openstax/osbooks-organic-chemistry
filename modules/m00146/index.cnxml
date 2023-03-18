@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Chemical Shifts</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Chemical Shifts</md:title>
@@ -6,5 +6,31 @@
     <md:uuid>655f230c-e363-4e43-ac65-67d99151b5fb</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">NMR spectra are displayed on charts that show the applied field strength increasing from left to right (<link>Figure 13_03_OChem-13-03-001_80485-13-05_Intensity</link>). Thus, the left part of the chart is the low-field, or <term id="term-00001">downfield</term>, side, and the right part is the high-field, or <term id="term-00002">upfield</term>, side. Nuclei that absorb on the downfield side of the chart require a lower field strength for resonance, implying that they have less shielding. Nuclei that absorb on the upfield side require a higher field strength for resonance, implying that they have more shielding.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows NMR chart having “intensity” on the vertical axis and “direction of field sweep” on the horizontal axis. The direction of field sweep is shown as a pink arrow pointing rightward; it starts from 10 ppm on the left to 0 ppm on the right. The spectrum shows ruled line for every value of the horizontal axis; a line marking the end of spectrum is shown after 0 ppm on the horizontal axis. Near 9 ppm it shows “low field” with a leftward arrow and near 1 ppm it shows “high-field.” A slightly raised “intensity” on the vertical axis is labeled as “downfield (deshielded)”; the point equally almost double the intensity of downfield is labeled as “upfield (shielded)” on the vertical axis on the right of spectrum. At 0 ppm a short darkened line drawn over the calibrated line is labeled as the “calibration peak (TMS).”">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_03_001.jpg"/>
+    </media>
+    <caption>The NMR chart. The downfield, deshielded side is on the left, and the upfield, shielded side is on the right. The tetramethylsilane (TMS) absorption is used as reference point.</caption>
+    </figure>
+    <para id="para-00002">To define the position of an absorption, the NMR chart is calibrated and a reference point is used. In practice, a small amount of tetramethylsilane [TMS; (CH<sub>3</sub>)<sub>4</sub>Si] is added to the sample so that a reference absorption peak is produced when the spectrum is run. TMS is used as reference for both <sup>1</sup>H and <sup>13</sup>C measurements because in both cases it produces a single peak that occurs upfield of other absorptions normally found in organic compounds. The <sup>1</sup>H and <sup>13</sup>C spectra of methyl acetate in <link>Figure 13_02_OChem-13-02-001_80485-13-03_ChemShift</link> have the TMS reference peak indicated.</para>
+    <para id="para-00003">The position on the chart at which a nucleus absorbs is called its <term id="term-00003">chemical shift</term>. The chemical shift of TMS is set as the zero point, and other absorptions normally occur downfield, to the left on the chart. NMR charts are calibrated using an arbitrary scale called the <term id="term-00004">delta (<emphasis effect="italics">δ</emphasis>) scale</term>, where 1 <emphasis effect="italics">δ</emphasis> equals 1 part-per-million (1 ppm) of the spectrometer operating frequency. For example, if we were measuring the <sup>1</sup>H NMR spectrum of a sample using an instrument operating at 200 MHz, 1 <emphasis effect="italics">δ</emphasis> would be 1 part per million of 200,000,000 Hz, or 200 Hz. If we were measuring the spectrum using a 500 MHz instrument, 1 <emphasis effect="italics">δ</emphasis> = 500 Hz. The following equation can be used for any absorption:</para>
+    <equation id="eq-00001"><m:math><m:mrow><m:mi>δ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Observed chemical shift (number of Hz away from TMS)</m:mtext></m:mrow><m:mrow><m:mtext>Spectrometer frequency in MHz</m:mtext></m:mrow></m:mfrac></m:mrow></m:math></equation>
+    <para id="para-00004">Although this method of calibrating NMR charts may seem complex, there’s a good reason for it. As we saw earlier, the rf frequency required to bring a given nucleus into resonance depends on the spectrometer’s magnetic field strength. But because there are many different kinds of spectrometers with many different magnetic field strengths available, chemical shifts given in frequency units (Hz) vary from one instrument to another. Thus, a resonance that occurs at 120 Hz downfield from TMS on one spectrometer might occur at 600 Hz downfield from TMS on another spectrometer with a more powerful magnet.</para>
+    <para id="para-00005">By using a system of measurement in which NMR absorptions are expressed in relative terms (parts per million relative to spectrometer frequency) rather than absolute terms (Hz), it’s possible to compare spectra obtained on different instruments. <emphasis effect="italics">The chemical shift of an NMR absorption in δ units is constant, regardless of the operating frequency of the spectrometer.</emphasis> A <sup>1</sup>H nucleus that absorbs at 2.0 <emphasis effect="italics">δ</emphasis> on a 200 MHz instrument also absorbs at 2.0 <emphasis effect="italics">δ</emphasis> on a 500 MHz instrument.</para>
+    <para id="para-00006">The range in which most NMR absorptions occur is quite narrow. Almost all <sup>1</sup>H NMR absorptions occur from 0 to 10 <emphasis effect="italics">δ</emphasis> downfield from the proton absorption of TMS, and almost all <sup>13</sup>C absorptions occur from 1 to 220 <emphasis effect="italics">δ</emphasis> downfield from the carbon absorption of TMS. Thus, there is a likelihood that accidental overlap of nonequivalent signals will occur. The advantage of using an instrument with higher field strength (say, 500 MHz) rather than lower field strength (200 MHz) is that different NMR absorptions are more widely separated at the higher field strength. The chances that two signals will accidentally overlap are therefore lessened, and interpretation of spectra becomes easier. For example, two signals that are only 20 Hz apart at 200 MHz (0.1 ppm) are 50 Hz apart at 500 MHz (still 0.1 ppm).</para>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/13-03-OC-P04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/13-03-OC-P05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
