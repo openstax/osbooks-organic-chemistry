@@ -8,9 +8,8 @@
   <content class="introduction">
     <figure class="splash" id="fig-00001">
     <media alt="A pile of assorted pills.">
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
-    <!--<image mime-type="image/jpeg" src="OSC_OChem_13_00_Medicine.jpg"/>-->
-    </media>
+    <image mime-type="image/jpeg" src="../../media/OChem_13_00_Medicine.jpg"/>
+        </media>
     <caption>NMR spectroscopy is an invaluable aid in carrying out the design and synthesis of new drugs. (credit: modification of work “Medications” by freestocks.org/Flickr, Public Domain)</caption>
     </figure>
     <para id="para-00001">Nuclear magnetic resonance (NMR) spectroscopy has far-reaching applications in many scientific fields, particular in chemical structure determination. Although we’ll just give an overview of the subject in this chapter, focusing on NMR applications with small molecules, more advanced NMR techniques are also used in biological chemistry to study protein structure and folding.</para>

@@ -6,5 +6,52 @@
     <md:uuid>1c6d3425-0689-4cf3-b0d2-ea948afe6cdc</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Numerous techniques developed in recent years have made it possible to obtain enormous amounts of information from <sup>13</sup>C NMR spectra. Among these techniques is one called <term id="term-00001"><emphasis effect="italics">DEPT–NMR</emphasis></term>, for <emphasis effect="italics">distortionless enhancement by polarization transfer,</emphasis> which makes it possible to distinguish between signals due to CH<sub>3</sub>, CH<sub>2</sub>, CH, and quaternary carbons. That is, the number of hydrogens attached to each carbon in a molecule can be determined.</para>
+    <para id="para-00002">A DEPT experiment is usually done in three stages, as shown in <link>Figure 13_12_OChem-13-12-001_80485-13-20_ChemSftABC</link> for 6-methyl-5-hepten-2-ol. The first stage is to run an ordinary spectrum (called a broadband-decoupled spectrum) to locate the chemical shifts of all carbons. Next, a second spectrum called a DEPT-90 is run, using special conditions under which only signals due to CH carbons appear. Signals due to CH<sub>3</sub>, CH<sub>2</sub>, and quaternary carbons are absent. Finally, a third spectrum called a DEPT-135 is run, using conditions under which CH<sub>3</sub> and CH resonances appear as positive signals, CH<sub>2</sub> resonances appear as negative signals—that is, as peaks below the baseline—and quaternary carbons are again absent.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows three parts. The first part shows an ordinary broadband-decoupled spectrum for 6-methyl-5-hepten-2-ol. The structure shows a 7-carbon chain with a hydroxyl group bonded to C2 a double bond at C5 and a methyl group bonded to C6. The horizontal axis shows chemical shift (delta) from 200 on the left to 0 ppm on the right at the intervals of 20 delta. The vertical axis shows increasing intensity. A small peak is shown near 133 delta followed by a peak reaching three quarter length of vertical axis at 125 delta. A tall peak having speckled surface is shown at 68 delta followed by another tall peak at 40 delta. A group of three tall peaks having almost equal length are shown at 24 26 and 28 delta; the peak at 24 delta has a speckled surface. A slightly shorter peak having a speckled lower part is shown at 18 delta. The second part shows DEPT-90 spectrum. The horizontal axis shows chemical shift (delta) from 200 on the left to 0 ppm on the right at the intervals of 20 delta. The vertical axis shows increasing intensity. A tall peak with darkened shade at the top part is shown at 126 delta followed by a taller peak having few dark spots near its base is shown at 66 delta. The third part shows a DEPT-135 spectrum divided into two halves horizontally. The horizontal axis shows chemical shift (delta) from 200 on the left to 0 ppm on the right at the intervals of 20 delta. The vertical axis shows increasing intensity. The upper zone shows positive signals and the lower zone shows negatives signals for carbons. The upper zone shows a medium length peak speckled near the base at 124 delta; a tall peak having speckled top part is shown near 68 delta. Two tall peaks of nearly same length are shown at 23 and 27 delta; a shorter peak is shown around 18 delta. The negative zone shows an inverted peak having speckled base at 23 delta; a long peak with speckled tip having the lowest intensity is shown at 40 delta.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_12_001.jpg"/>
+    </media>
+    <caption>DEPT–NMR spectra for 6-methyl-5-hepten-2-ol. Part <emphasis effect="bold">(a)</emphasis> is an ordinary broadband-decoupled spectrum, which shows signals for all eight carbons. Part <emphasis effect="bold">(b)</emphasis> is a DEPT-90 spectrum, which shows only signals for the two CH carbons. Part <emphasis effect="bold">(c)</emphasis> is a DEPT-135 spectrum, which shows positive signals for the two CH and three CH<sub>3</sub> carbons and negative signals for the two CH<sub>2</sub> carbons.</caption>
+    </figure>
+    <para id="para-00003">Putting together the information from all three spectra makes it possible to tell the number of hydrogens attached to each carbon. The CH carbons are identified in the DEPT-90 spectrum, the CH<sub>2</sub> carbons are identified as negative peaks in the DEPT-135 spectrum, the CH<sub>3</sub> carbons are identified by subtracting the CH peaks from the positive peaks in the DEPT-135 spectrum, and quaternary carbons are identified by subtracting all peaks in the DEPT-135 spectrum from the peaks in the broadband-decoupled spectrum.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the identification technique for carbons in the DEPT-90 and DEPT-135 spectrum. The broadband-decoupled carbons include carbon blue methine group green methylene group and pink methyl group. DEPT-90 includes blue methine group. DEPT-135 includes “positive: pink methyl group blue methine group” and “negative: green methylene group.” Text reads: “c: subtract DEPT-135 from broadband-decoupled spectrum; blue CH: DEPT-90; green CH2: negative DEPT-135; pink CH3: subtract DEPT-90 from positive DEPT-135.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_12_002.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Assigning a Chemical Structure from a <sup>13</sup>C NMR Spectrum</title>
+    <para id="para-00004">Propose a structure for an alcohol, C<sub>4</sub>H<sub>10</sub>O, that has the following <sup>13</sup>C NMR spectral data:</para>
+    <quote id="quote-00001"><para id="para-00005">Broadband decoupled <sup>13</sup>C NMR: 19.0, 31.7, 69.5 <emphasis effect="italics">δ</emphasis>;</para>
+    <para id="para-00006">DEPT-90: 31.7 <emphasis effect="italics">δ</emphasis>;</para>
+    <para id="para-00007">DEPT-135: positive peak at 19.0 <emphasis effect="italics">δ</emphasis>, negative peak at 69.5 <emphasis effect="italics">δ</emphasis>.</para></quote>
+    <para id="para-00008"><title><span class="red-text">Strategy</span></title> As noted in <link document="m00064">Section 7.2</link>, it usually helps with compounds of known formula but unknown structure to calculate the compound’s degree of unsaturation. In the present instance, a formula of C<sub>4</sub>H<sub>10</sub>O corresponds to a saturated, open-chain molecule.</para>
+    <para id="para-00009">To gain information from the <sup>13</sup>C data, let’s begin by noting that the unknown alcohol has four carbon atoms, yet has only three NMR absorptions, which implies that two of the carbons must be equivalent. Looking at chemical shifts, two of the absorptions are in the typical alkane region (19.0 and 31.7 <emphasis effect="italics">δ</emphasis>), while one is in the region of a carbon bonded to an electronegative atom (69.5 <emphasis effect="italics">δ</emphasis>)—oxygen in this instance. The DEPT-90 spectrum tells us that the alkyl carbon at 31.7 <emphasis effect="italics">δ</emphasis> is tertiary (CH); the DEPT-135 spectrum tells us that the alkyl carbon at 19.0 <emphasis effect="italics">δ</emphasis> is a methyl (CH<sub>3</sub>) and that the carbon bonded to oxygen (69.5 <emphasis effect="italics">δ</emphasis>) is secondary (CH<sub>2</sub>). The two equivalent carbons are probably both methyls bonded to the same tertiary carbon, (CH<sub>3</sub>)<sub>2</sub>CH – . We can now put the pieces together to propose a structure: 2-methyl-1-propanol.</para>
+    <para id="para-00010"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <media alt="An illustration shows the structure of “2-Methyl-1-propanol” having a blue carbon bonded to a hydrogen and two methyl groups having pink carbon; the absorption between the methyl groups is shown as pink “19.0” delta; the absorption of blue carbon is shown as blue “31.7” delta; the blue carbon is bonded to a green carbon bonded to two hydrogens and a hydroxyl group; the absorption for green carbon is “69.5” delta.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_12_003.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00011"><link class="os-embed" url="#exercise/13-12-OC-P20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00012"><link class="os-embed" url="#exercise/13-12-OC-P21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00013"><link class="os-embed" url="#exercise/13-12-OC-P22"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

@@ -6,5 +6,318 @@
     <md:uuid>f083cf71-a9e9-4b96-ba27-23807b141e9a</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">The information derived from <sup>13</sup>C NMR spectroscopy is extraordinarily useful for structure determination. Not only can we count the number of nonequivalent carbon atoms in a molecule, we can also get information about the electronic environment of each carbon and find how many protons are attached to each. As a result, we can address many structural questions that go unanswered by IR spectroscopy or mass spectrometry.</para>
+    <para id="para-00002">Here’s an example: how do we know that the E2 reaction of an alkyl halide follows Zaitsev’s rule (<link document="m00128">Section 11.7</link>)? Does treatment of 1-chloro-1-methylcyclohexane with a strong base give predominantly the trisubstituted alkene 1-methylcyclohexene or the disubstituted alkene methylenecyclohexane?</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reaction wherein “1-Chloro-1-methylcyclohexane” reacts in the presence of blue “potassium hydroxide and ethanol” to form “1-Methylcyclohexane” or “Methylenecyclohexene”; a question mark is shown next to Methylenecyclohexene. The structure of 1-Chloro-1-methylcyclohexane shows a cyclohexane bonded to a methyl group and a pink chlorine at C1. The structure of 1-Methylcyclohexane shows a cyclohexene bonded to a methyl group at C1. The structure of Methylenecyclohexene shows a cyclohexane double bonded to a methylene group at C1.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_13_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">1-Methylcyclohexene will have five <emphasis effect="italics">sp</emphasis><sup>3</sup>-carbon resonances in the 20 to 50 <emphasis effect="italics">δ</emphasis> range and two <emphasis effect="italics">sp</emphasis><sup>2</sup>-carbon resonances in the 100 to 150 <emphasis effect="italics">δ</emphasis> range. Methylenecyclohexane, however, because of its symmetry, will have only three <emphasis effect="italics">sp</emphasis><sup>3</sup>- carbon resonance peaks and two <emphasis effect="italics">sp</emphasis><sup>2</sup>-carbon peaks. The spectrum of the actual reaction product, shown in <link>Figure 13_13_OChem-13-13-002_80485-13-21_TMSSpect</link>, clearly identifies 1-methylcyclohexene as the product of this E2 reaction.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows 13C NMR spectrum of “1-methyl cyclohexene.” The horizontal axis shows chemical shift (delta) from 200 on the left to 0 ppm on the right at the intervals of 20 delta. The vertical axis shows increasing intensity. A short peak is shown at 136 delta; a slightly taller peak is shown at 122 delta; a medium length peak is shown at 30 delta; a set containing a tall peak at 25 delta and a cluster of four indistinct peaks is shown between 22 and 24 delta. A medium length peak labeled as pink “TM” is shown at 0 delta.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_13_002.jpg"/>
+    </media>
+    <caption>The <sup>13</sup>C NMR spectrum of 1-methylcyclohexene, the E2 reaction product from treatment of 1-chloro-1-methylcyclohexane with base.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00004"><link class="os-embed" url="#exercise/13-13-OC-P23"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="sect-00002">
+    <title>Magnetic Resonance Imaging (MRI)</title>
+    <para id="para-00005">As practiced by organic chemists, NMR spectroscopy is a powerful method of structure determination. A small amount of sample, typically a few milligrams or less, is dissolved in a small amount of solvent, the solution is placed in a thin glass tube, and the tube is placed into the narrow (1–2 cm) gap between the poles of a strong magnet. Imagine, though, that a much larger NMR instrument were available. Instead of a few milligrams, the sample size could be tens of kilograms; instead of a narrow gap between magnet poles, the gap could be large enough for a whole person to climb into so that an NMR spectrum of body parts could be obtained. That large instrument is exactly what’s used for <emphasis effect="italics">magnetic resonance imaging (MRI)</emphasis>, a diagnostic technique of enormous value to the medical community.</para>
+    <para id="para-00006">Like NMR spectroscopy, MRI takes advantage of the magnetic properties of certain nuclei, typically hydrogen, and of the signals emitted when those nuclei are stimulated by radiofrequency energy. Unlike what happens in NMR spectroscopy, though, MRI instruments use data manipulation techniques to look at the three-dimensional <emphasis effect="italics">location</emphasis> of magnetic nuclei in the body rather than at the chemical nature of the nuclei. As noted, most MRI instruments currently look at hydrogen, present in abundance wherever there is water or fat in the body.</para>
+    <para id="para-00007">The signals detected by MRI vary with the density of hydrogen atoms and with the nature of their surroundings, allowing identification of different types of tissue and even allowing the visualization of motion. For example, the volume of blood leaving the heart in a single stroke can be measured, and heart motion can be observed. Soft tissues that don’t show up well on X-ray images can be seen clearly, allowing diagnosis of brain tumors, strokes, and other conditions. This technique is also valuable in diagnosing damage to knees or other joints and is a noninvasive alternative to surgical explorations.</para>
+    <para id="para-00008">Several types of atoms in addition to hydrogen can be detected by MRI, and the applications of images based on <sup>31</sup>P atoms are being explored. This approach holds great promise for studies of metabolism.</para>
+    <figure class="scaled-down-30" id="fig-00003">
+    <media alt="An MRI of a knee">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_98_KneeMRI.jpg"/>
+    </media>
+    <caption>If you’re a runner, you really don’t want this to happen to you. The MRI of this left knee shows the presence of a ganglion cyst. (credit: “Osteochondroma MRI” by Michael R Carmont, Sian Davies, Daniel Gey van Pittius and Robin Rees/Wikimedia Commons, CC BY 2.0)</caption>
+    </figure>
+    </section>
+    <section class="key-terms" id="sect-00003">
+    <list id="list-00001">
+    <item>chemical shift</item>
+    <item>coupling</item>
+    <item>coupling constant (<emphasis effect="italics">J</emphasis>)</item>
+    <item>delta (<emphasis effect="italics">δ</emphasis>) scale</item>
+    <item>DEPT-NMR</item>
+    <item>diastereotopic</item>
+    <item>downfield</item>
+    <item>enantiotopic</item>
+    <item>FT–NMR</item>
+    <item>homotopic</item>
+    <item>integration</item>
+    <item>multiplet</item>
+    <item><emphasis effect="italics">n</emphasis> + 1 rule</item>
+    <item>nuclear magnetic resonance (NMR) spectroscopy</item>
+    <item>shielding</item>
+    <item>spin–spin splitting</item>
+    <item>upfield</item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title>Summary</title>
+    <para id="para-00009"><emphasis effect="bold">Nuclear magnetic resonance spectroscopy</emphasis>, or <emphasis effect="bold">NMR</emphasis>, is the most valuable of the numerous spectroscopic techniques used for structure determination. Although we focused in this chapter on NMR applications with small molecules, more advanced NMR techniques are also used in biological chemistry to study protein structure and folding.</para>
+    <para id="para-00010">When magnetic nuclei, such as <sup>1</sup>H and <sup>13</sup>C, are placed in a strong magnetic field, their spins orient either with or against the field. On irradiation with radiofrequency (rf) waves, energy is absorbed and the nuclei “spin-flip” from the lower energy state to the higher energy state. This absorption of rf energy is detected, amplified, and displayed as an NMR spectrum.</para>
+    <para id="para-00011">Each electronically distinct <sup>1</sup>H or <sup>13</sup>C nucleus in a molecule comes into resonance at a slightly different value of the applied field, thereby producing a unique absorption signal. The exact position of each peak is called the <emphasis effect="bold">chemical shift</emphasis>. Chemical shifts are caused by electrons setting up tiny local magnetic fields that <emphasis effect="bold">shield</emphasis> a nearby nucleus from the applied field.</para>
+    <para id="para-00012">The NMR chart is calibrated in <emphasis effect="bold">delta units (<emphasis effect="italics">δ</emphasis>)</emphasis>, where 1 <emphasis effect="italics">δ</emphasis> = 1 ppm of spectrometer frequency. Tetramethylsilane (TMS) is used as a reference point because it shows both <sup>1</sup>H and <sup>13</sup>C absorptions at unusually high values of applied magnetic field. The TMS absorption occurs on the right-hand (<emphasis effect="bold">upfield</emphasis>) side of the chart and is arbitrarily assigned a value of 0 <emphasis effect="italics">δ</emphasis>.</para>
+    <para id="para-00013"><sup>13</sup>C spectra are run on Fourier-transform NMR (<emphasis effect="bold">FT–NMR</emphasis>) spectrometers using broadband decoupling of proton spins so that each chemically distinct carbon shows a single unsplit resonance line. As with <sup>1</sup>H NMR, the chemical shift of each <sup>13</sup>C signal provides information about a carbon’s chemical environment in the sample. In addition, the number of protons attached to each carbon can be determined using the DEPT–NMR technique.</para>
+    <para id="para-00014">In <sup>1</sup>H NMR spectra, the area under each absorption peak can be electronically <emphasis effect="bold">integrated</emphasis> to determine the relative number of hydrogens responsible for each peak. In addition, neighboring nuclear spins can <emphasis effect="bold">couple</emphasis>, causing the <emphasis effect="bold">spin–spin splitting</emphasis> of NMR peaks into <emphasis effect="bold">multiplets</emphasis>. The NMR signal of a hydrogen neighbored by <emphasis effect="italics">n</emphasis> equivalent adjacent hydrogens splits into <emphasis effect="italics">n</emphasis> + 1 peaks (the <emphasis effect="bold"><emphasis effect="italics">n</emphasis> + 1 rule</emphasis>) with <emphasis effect="bold">coupling constant <emphasis effect="italics">J</emphasis></emphasis>.</para>
+    </section>
+    <section class="additional-problems" id="sect-00005">
+    <title>Additional Problems</title>
+    <para id="para-00015"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00016"><link class="os-embed" url="#exercise/13-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00017"><link class="os-embed" url="#exercise/13-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00018"><link class="os-embed" url="#exercise/13-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00019"><link class="os-embed" url="#exercise/13-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00020"><link class="os-embed" url="#exercise/13-99-OC-VC05"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00021"><emphasis effect="bold"><span class="red-text">Chemical Shifts and NMR Spectroscopy</span></emphasis></para>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00022"><link class="os-embed" url="#exercise/13-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00023"><link class="os-embed" url="#exercise/13-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00024"><link class="os-embed" url="#exercise/13-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00025"><link class="os-embed" url="#exercise/13-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00026"><link class="os-embed" url="#exercise/13-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00027"><emphasis effect="bold"><span class="red-text"><sup>1</sup>H NMR Spectroscopy</span></emphasis></para>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00028"><link class="os-embed" url="#exercise/13-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00029"><link class="os-embed" url="#exercise/13-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00030"><link class="os-embed" url="#exercise/13-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00031"><link class="os-embed" url="#exercise/13-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00032"><link class="os-embed" url="#exercise/13-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00033"><link class="os-embed" url="#exercise/13-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00034"><link class="os-embed" url="#exercise/13-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00035"><link class="os-embed" url="#exercise/13-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00036"><link class="os-embed" url="#exercise/13-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00037"><link class="os-embed" url="#exercise/13-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00038"><link class="os-embed" url="#exercise/13-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00039"><link class="os-embed" url="#exercise/13-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00040"><emphasis effect="bold"><span class="red-text"><sup>13</sup>C NMR Spectroscopy</span></emphasis></para>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00041"><link class="os-embed" url="#exercise/13-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00042"><link class="os-embed" url="#exercise/13-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00043"><link class="os-embed" url="#exercise/13-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00044"><link class="os-embed" url="#exercise/13-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00045"><link class="os-embed" url="#exercise/13-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00046"><link class="os-embed" url="#exercise/13-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00047"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00048"><link class="os-embed" url="#exercise/13-99-OC-GP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00049"><link class="os-embed" url="#exercise/13-99-OC-GP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00050"><link class="os-embed" url="#exercise/13-99-OC-GP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00051"><link class="os-embed" url="#exercise/13-99-OC-GP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00052"><link class="os-embed" url="#exercise/13-99-OC-GP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00053"><link class="os-embed" url="#exercise/13-99-OC-GP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00054"><link class="os-embed" url="#exercise/13-99-OC-GP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00055"><link class="os-embed" url="#exercise/13-99-OC-GP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00056"><link class="os-embed" url="#exercise/13-99-OC-GP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00057"><link class="os-embed" url="#exercise/13-99-OC-GP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00058"><link class="os-embed" url="#exercise/13-99-OC-GP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00059"><link class="os-embed" url="#exercise/13-99-OC-GP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00060"><link class="os-embed" url="#exercise/13-99-OC-GP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00061"><link class="os-embed" url="#exercise/13-99-OC-GP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00062"><link class="os-embed" url="#exercise/13-99-OC-GP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00063"><link class="os-embed" url="#exercise/13-99-OC-GP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00064"><link class="os-embed" url="#exercise/13-99-OC-GP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00047">
+    <problem id="prob-00047">
+    <para id="para-00065"><link class="os-embed" url="#exercise/13-99-OC-GP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00048">
+    <problem id="prob-00048">
+    <para id="para-00066"><link class="os-embed" url="#exercise/13-99-OC-GP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00049">
+    <problem id="prob-00049">
+    <para id="para-00067"><link class="os-embed" url="#exercise/13-99-OC-GP20"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
