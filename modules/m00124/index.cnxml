@@ -21,7 +21,7 @@
     <media alt="An illustration shows the structures and space-filling models of 4 compounds. Bromomethane shows a carbon single bonded to bromine and hydrogen dash bonded to hydrogen and wedge bonded to a hydrogen. Bromoethane shows a carbon single bonded to bromine and methyl group dash bonded to hydrogen and wedge bonded to a hydrogen. 2-bromopropane shows a carbon single bonded to bromine and methyl group dash bonded to a methyl group and wedge bonded to a hydrogen. 2-bromo-2-methylpropane shows a carbon single bonded to bromine and methyl group dash bonded to a methyl group and wedge bonded to a methyl group. The space-filling models show gray balls (carbons) white balls (hydrogen) and red balls (bromine atoms). An arrow points to the carbon atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_03_002.jpg"/>
     </media>
-    <caption><emphasis effect="bold">Steric hindrance to the SN2 reaction.</emphasis> As the models indicate, the carbon atom in <emphasis effect="bold">(a)</emphasis> bromomethane is readily accessible, resulting in a fast SN2 reaction. The carbon atoms in <emphasis effect="bold">(b)</emphasis> bromoethane (primary), <emphasis effect="bold">(c)</emphasis> 2-bromopropane (secondary), and <emphasis effect="bold">(d)</emphasis> 2-bromo-2-methylpropane (tertiary) are successively more hindered, resulting in successively slower SN2 reactions.</caption>
+    <caption><emphasis effect="bold">Steric hindrance to the S<sub>N</sub>2 reaction.</emphasis> As the models indicate, the carbon atom in <emphasis effect="bold">(a)</emphasis> bromomethane is readily accessible, resulting in a fast S<sub>N</sub>2 reaction. The carbon atoms in <emphasis effect="bold">(b)</emphasis> bromoethane (primary), <emphasis effect="bold">(c)</emphasis> 2-bromopropane (secondary), and <emphasis effect="bold">(d)</emphasis> 2-bromo-2-methylpropane (tertiary) are successively more hindered, resulting in successively slower S<sub>N</sub>2 reactions.</caption>
     </figure>
     <para id="para-00004">As <link target-id="fig-00002"/> shows, the difficulty of nucleophile approach increases as the three substituents bonded to the halo-substituted carbon atom increase in size. Methyl halides are by far the most reactive substrates in S<sub>N</sub>2 reactions, followed by primary alkyl halides such as ethyl and propyl. Alkyl branching at the reacting center, as in isopropyl halides (2°), slows the reaction greatly, and further branching, as in <emphasis effect="italics">tert</emphasis>-butyl halides (3°), effectively halts the reaction. Even branching one carbon away from the reacting center, as in 2,2-dimethylpropyl <emphasis effect="italics">(neopentyl)</emphasis> halides, greatly hinders nucleophilic displacement. As a result, S<sub>N</sub>2 reactions occur only at relatively unhindered sites and are normally useful only with methyl halides, primary halides, and a few simple secondary halides. Relative reactivities for some different substrates are as follows:</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
@@ -66,13 +66,14 @@
     <row valign="top">
     <entry valign="bottom" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Nucleophile</emphasis></entry>
     <entry valign="bottom" align="center" namest="c3" nameend="c4"><emphasis effect="bold">Product</emphasis></entry>
-    <entry valign="bottom" align="center" morerows="1"><emphasis effect="bold">Relative rate of reaction</emphasis></entry>
+    
     </row>
     <row valign="top">
     <entry valign="bottom" align="left"><emphasis effect="bold">Formula</emphasis></entry>
     <entry valign="bottom" align="left"><emphasis effect="bold">Name</emphasis></entry>
     <entry valign="bottom" align="left"><emphasis effect="bold">Formula</emphasis></entry>
     <entry valign="bottom" align="left"><emphasis effect="bold">Name</emphasis></entry>
+    <entry valign="bottom" align="left"><emphasis effect="bold">Relative rate of reaction</emphasis></entry>
     </row>
     </thead>
     <tbody>
@@ -224,7 +225,7 @@
     <section id="sect-00008">
     <title>A Summary of S<sub>N</sub>2 Reaction Characteristics</title>
     <para id="para-00024">The effects on S<sub>N</sub>2 reactions of the four variables—substrate structure, nucleophile, leaving group, and solvent—are summarized in the following statements and in the energy diagrams of <link target-id="fig-00013"/>:</para>
-    <table class="unnumbered" summary="" id="table-00002">
+    <table class="unnumbered" colsep="0" rowsep="0" frame="none" summary="" id="table-00002">
     <title/>
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>

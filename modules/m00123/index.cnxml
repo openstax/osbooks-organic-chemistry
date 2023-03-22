@@ -17,7 +17,7 @@
      <m:mtable columnalign="left">
       <m:mtr>
        <m:mtd>
-        <m:mtext>Reaction rate</m:mtext><m:mo>=</m:mo><m:mtext>Rate of disappearance of reactant</m:mtext>
+        <m:mtext>Reaction rate </m:mtext><m:mo>=</m:mo><m:mtext>Rate of disappearance of reactant</m:mtext>
        </m:mtd>
       </m:mtr>
       <m:mtr>
@@ -50,8 +50,10 @@
          <m:mtext>               [</m:mtext>
          <m:mo>−</m:mo>
         </m:msup>
-        <m:mtext>OH]</m:mtext><m:msup>
+        <m:mtext>OH]</m:mtext>
          <m:mo>=</m:mo>
+         <m:msup>
+         <m:mtext> </m:mtext>
          <m:mo>−</m:mo>
         </m:msup>
         <m:mtext>OH concentration in molarity</m:mtext>
