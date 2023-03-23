@@ -7,9 +7,12 @@
   </metadata>
   <content>
     <para id="para-00001">S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, E2—how can you keep it all straight and predict what will happen in any given case? Will substitution or elimination occur? Will the reaction be bimolecular or unimolecular? There are no rigid answers to these questions, but it’s possible to recognize some trends and make some generalizations.</para>
-    <para id="para-00002"><span class="magenta-text">•</span> <emphasis effect="bold"><span class="cyan-text">Primary alkyl halides</span></emphasis> S<sub>N</sub>2 substitution occurs if a good nucleophile is used, E2 elimination occurs if a strong, sterically hindered base is used, and E1cB elimination occurs if the leaving group is two carbons away from a carbonyl group.</para>
-    <para id="para-00003"><span class="magenta-text">•</span> <emphasis effect="bold"><span class="green-text">Secondary alkyl halides</span></emphasis> S<sub>N</sub>2 substitution occurs if a weakly basic nucleophile is used in a polar aprotic solvent, E2 elimination predominates if a strong base is used, and E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group. Secondary allylic and benzylic alkyl halides can also undergo S<sub>N</sub>1 and E1 reactions if a weakly basic nucleophile is used in a protic solvent.</para>
-    <para id="para-00004"><span class="magenta-text">•</span> <emphasis effect="bold"><span class="red-text">Tertiary alkyl halides</span></emphasis> E2 elimination occurs when a base is used, but S<sub>N</sub>1 substitution and E1 elimination occur together under neutral conditions, such as in pure ethanol or water. E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group.</para>
+    <list id="list-00001">
+      <item><span class="cyan-text">Primary alkyl halides</span> S<sub>N</sub>2 substitution occurs if a good nucleophile is used, E2 elimination occurs if a strong, sterically hindered base is used, and E1cB elimination occurs if the leaving group is two carbons away from a carbonyl group.</item>
+      <item><span class="green-text">Secondary alkyl halides</span> S<sub>N</sub>2 substitution occurs if a weakly basic nucleophile is used in a polar aprotic solvent, E2 elimination predominates if a strong base is used, and E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group. Secondary allylic and benzylic alkyl halides can also undergo S<sub>N</sub>1 and E1 reactions if a weakly basic nucleophile is used in a protic solvent.</item>
+      <item><span class="red-text">Tertiary alkyl halides</span> E2 elimination occurs when a base is used, but S<sub>N</sub>1 substitution and E1 elimination occur together under neutral conditions, such as in pure ethanol or water. E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group.</item>
+    </list>
+
     <example id="exam-00001">
     <title>Predicting the Product and Mechanism of Reactions</title>
     <para id="para-00005">Tell whether each of the following reactions is likely to be S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, or E2, and predict the product of each:</para>
@@ -69,7 +72,7 @@
     </figure>
     </section>
     <section class="key-terms" id="sect-00003">
-    <list id="list-00001">
+    <list id="list-00002">
       <item><link document="m00129" target-id="term-00005">anti periplanar</link></item>
       <item><link document="m00126" target-id="term-00001">benzylic</link></item>
       <item><link document="m00123" target-id="term-00004">bimolecular</link></item>
@@ -110,9 +113,9 @@
     </section>
     <section class="summary-reactions" id="sect-00005">
     <title>Summary of Reactions</title>
-    <list list-type="enumerated" id="list-00002">
+    <list list-type="enumerated" id="list-00003">
     <item>Nucleophilic substitutions
-    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
     <item>S<sub>N</sub>1 reaction of 3°, allylic, and benzylic halides (<link document="m00125">Section 11.4</link> and <link document="m00126">Section 11.5</link>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="An illustration shows the reaction of tertiary halide to yield an intermediate that reacts with nucleophile to yield halide ion and another product. The reactant shows a central carbon bonded to three R and an X. The intermediate shows a carbocation bonded to three R. The nucleophile shows a negative charge and two electrons. The product shows a central carbon bonded to three R and Nu. The halide ion shows two electrons.">
@@ -125,7 +128,7 @@
     </figure></item>
     </list></item>
     <item>Eliminations
-    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
     <item>E1 reaction (<link document="m00131">Section 11.10</link>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00009">
     <media alt="An illustration shows the reaction of a halide to yield an intermediate that further yields an alkene and HX. The reactant shows two carbons single bonded. The first carbon shows two free bonds; it is bonded to a hydrogen. The second carbon is bonded to two R and an X. An arrow from the C-X bond points to X. The intermediate is similar to the reactant but the second carbon is a cation bonded to two R. The alkene shows two carbons double bonded. The first carbon shows two free bonds. The second carbon is bonded to two R.">
