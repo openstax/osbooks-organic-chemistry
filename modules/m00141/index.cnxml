@@ -209,10 +209,12 @@
     </media>
     <caption><emphasis effect="bold">The four regions of the infrared spectrum: single bonds to hydrogen, triple bonds, double bonds, and fingerprint.</emphasis></caption>
     </figure>
-    <para id="para-00005"><span class="magenta-text">•</span> The region from 4000 to 2500 cm<sup>–1</sup> corresponds to absorptions caused by N–H, C–H, and O–H single-bond stretching motions. N–H and O–H bonds absorb in the 3300 to 3600 cm<sup>–1</sup> range; C–H bond stretching occurs near 3000 cm<sup>–1</sup>.</para>
-    <para id="para-00006"><span class="magenta-text">•</span> The region from 2500 to 2000 cm<sup>–1</sup> is where triple-bond stretching occurs. Both <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> and <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> bonds absorb here.</para>
-    <para id="para-00007"><span class="magenta-text">•</span> The region from 2000 to 1500 cm<sup>–1</sup> is where double bonds (C=O, C=N, and C=C) absorb. Carbonyl groups generally absorb in the range 1680 to 1750 cm<sup>–1</sup>, and alkene stretching normally occurs in the narrow range of 1640 to 1680 cm<sup>–1</sup>.</para>
-    <para id="para-00008"><span class="magenta-text">•</span> The region below 1500 cm<sup>–1</sup> is the fingerprint portion of the IR spectrum. A large number of absorptions due to a variety of C–C, C–O, C–N, and C–X single-bond vibrations occur here.</para>
+    <list id="list-00001">
+      <item>The region from 4000 to 2500 cm<sup>–1</sup> corresponds to absorptions caused by N–H, C–H, and O–H single-bond stretching motions. N–H and O–H bonds absorb in the 3300 to 3600 cm<sup>–1</sup> range; C–H bond stretching occurs near 3000 cm<sup>–1</sup>.</item>
+      <item>The region from 2500 to 2000 cm<sup>–1</sup> is where triple-bond stretching occurs. Both <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> and <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> bonds absorb here.</item>
+      <item>The region from 2000 to 1500 cm<sup>–1</sup> is where double bonds (C=O, C=N, and C=C) absorb. Carbonyl groups generally absorb in the range 1680 to 1750 cm<sup>–1</sup>, and alkene stretching normally occurs in the narrow range of 1640 to 1680 cm<sup>–1</sup>.</item>
+      <item>The region below 1500 cm<sup>–1</sup> is the fingerprint portion of the IR spectrum. A large number of absorptions due to a variety of C–C, C–O, C–N, and C–X single-bond vibrations occur here.</item>
+    </list>
     <para id="para-00009">Why do different functional groups absorb where they do? As noted previously, a good analogy is that of two weights (atoms) connected by a spring (a bond).. Short, strong bonds vibrate at a higher energy and higher frequency than do long, weak bonds, just as a short, strong spring vibrates faster than a long, weak spring. Thus, triple bonds absorb at a higher frequency than double bonds, which in turn absorb at a higher frequency than single bonds. In addition, C–H, O–H, and N–H bonds vibrate at a higher frequency than bonds between heavier C, O, and N atoms.</para>
     <example id="exam-00001">
     <title>Distinguishing Isomeric Compounds by IR Spectroscopy</title>
