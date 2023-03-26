@@ -3,7 +3,6 @@
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
-    <md:content-id>col12345</md:content-id>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
   </col:metadata>
@@ -25,7 +24,7 @@
         <col:module document="m00167"/>
         <col:module document="m00168"/>
         <col:module document="m00169"/>
-        </col:content>
+      </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Polar Covalent Bonds; Acids and Bases</md:title>
@@ -225,11 +224,26 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
+      <md:title>Conjugated Compounds and Ultraviolet Spectroscopy</md:title>
+      <col:content>
+        <col:module document="m00170"/>
+        <col:module document="m00171"/>
+        <col:module document="m00172"/>
+        <col:module document="m00173"/>
+        <col:module document="m00174"/>
+        <col:module document="m00175"/>
+        <col:module document="m00176"/>
+        <col:module document="m00177"/>
+        <col:module document="m00178"/>
+        <col:module document="m00179"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Future Chapter</md:title>
       <col:content>
         <col:module document="m00075"/>
         <col:module document="m00074"/>
-        </col:content>
+      </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
     <col:module document="m00030"/>
