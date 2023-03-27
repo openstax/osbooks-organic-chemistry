@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Ultraviolet Spectroscopy</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Ultraviolet Spectroscopy</md:title>
@@ -6,5 +6,123 @@
     <md:uuid>0ae0f3d1-a812-4e7d-93dc-1c07aeddd6d0</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">As we’ve seen, mass spectrometry, infrared spectroscopy, and nuclear magnetic resonance spectroscopy are techniques of structure determination applicable to all organic molecules. In addition to these three generally useful methods, there is a fourth—<term id="term-00001">ultraviolet (UV) spectroscopy</term>—that is applicable only to conjugated compounds. UV is less commonly used than the other three spectroscopic techniques because of the specialized information it gives, so we’ll only discuss it briefly.</para>
+    <table summary="" class="unnumbered" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold">Mass spectrometry</emphasis></entry>
+    <entry valign="top" align="left">Molecular size and formula</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold">IR spectroscopy</emphasis></entry>
+    <entry valign="top" align="left">Functional groups present</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold">NMR spectroscopy</emphasis></entry>
+    <entry valign="top" align="left">Carbon–hydrogen framework</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">UV spectroscopy</span></emphasis></entry>
+    <entry valign="top" align="left"><emphasis effect="bold">Nature of conjugated</emphasis> <emphasis effect="italics">π</emphasis> <emphasis effect="bold">electron systems</emphasis></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00002">The ultraviolet region of the electromagnetic spectrum extends from the short-wavelength end of the visible region (4 × 10<sup>–7</sup> m) to the long-wavelength end of the X-ray region (10<sup>–8</sup> m), but the narrow range from 2 × 10<sup>–7</sup> m to 4 × 10<sup>–7</sup> m is the part of greatest interest to organic chemists. Absorptions in this region are usually measured in nanometers (nm), where 1 nm = 10<sup>–9</sup> m. Thus, the ultraviolet range of interest is from 200 to 400 nm (<link>Figure 14_07_OChem_14_07_001_80485-14-10_Xrays</link>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the electromagnetic spectrum with six unequal divisions; their wavelengths are shown in “lambda (cm)” at the base of spectrum; above the spectrum is shown a left arrow labeled as “energy.” The spectrum starts with X-rays with wavelength of 10 to the power minus nine followed by vacuum ultraviolet with wavelength of 10 to the power minus eight to 10 to the power minus seven. The next is the ultraviolet region with wavelength of 10 to the power minus five followed by a visible spectrum followed by near infrared region having wavelength 10 to the power minus six; the next spectrum is infrared having the wavelength 10 to the power minus five. The left side boundary of ultraviolet is labeled as lambda equal to 2 x 10 to the power minus 7 m equal to 2OO nm; nu bar equal to 5 x 10 to the power 4 cm to the power minus one; the right side boundary of ultraviolet spectrum shows “lambda equal to 4 x 10 to the power minus seven cm equal to 400 nm; nu bar equal to 2.5 x 10 to the power 4 cm to the power minus one.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_07_001.jpg"/>
+    </media>
+    <caption>The ultraviolet (UV) and neighboring regions of the electromagnetic spectrum.</caption>
+    </figure>
+    <para id="para-00003">We saw in <link document="m00139">Section 12.5</link> that when an organic molecule is irradiated with electromagnetic energy, the radiation either passes through the sample or is absorbed, depending on its energy. With IR irradiation, the energy absorbed corresponds to the amount needed to increase molecular vibrations. With UV radiation, the energy absorbed corresponds to the amount needed to promote an electron from a lower-energy orbital to a higher-energy one in a conjugated molecule. The conjugated diene 1,3-butadiene, for instance, has four <emphasis effect="italics">π</emphasis> molecular orbitals, as shown previously in <link>Figure OChem_14_01-008_80485-14-02_FourIsolat</link>. The two lower-energy, bonding MOs are occupied in the ground state, and the two higher-energy, antibonding MOs are unoccupied.</para>
+    <para id="para-00004">On irradiation with ultraviolet light (<emphasis effect="italics">hυ</emphasis>), 1,3-butadiene absorbs energy and a <emphasis effect="italics">π</emphasis> electron is promoted from the <term id="term-00002">highest occupied molecular orbital (HOMO)</term> to the <term id="term-00003">lowest unoccupied molecular orbital (LUMO)</term>. Because the electron is promoted from a bonding <emphasis effect="italics">π</emphasis> molecular orbital to an antibonding <emphasis effect="italics">π</emphasis>* molecular orbital, we call this a <emphasis effect="italics">π</emphasis> → <emphasis effect="italics">π</emphasis>* excitation (read as “pi to pi star”). The energy gap between the HOMO and the LUMO of 1,3-butadiene is such that UV light of 217 nm wavelength is required to effect the <emphasis effect="italics">π</emphasis> → <emphasis effect="italics">π</emphasis>* electronic transition (<link>Figure 14_07_OChem_14_07_002_80485-14-11_FourpAtomi</link>).</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows the ground-state and excited-state of 4 p atomic orbitals shown as branching into four different molecular orbitals. The first orbital at the top (psi superscript asterisk and subscript 4) has no electrons. The second orbital (LUMO psi superscript asterisk and subscript 3) has no electrons. The third orbital (HOMO psi superscript asterisk and subscript 2) shows two electrons represented by an up arrow and down arrow. The down arrow is redirected to the second level. The fourth orbital (psi superscript asterisk and subscript 1) also shows 2 electrons. After hv (UV irradiation) the excited-state electronic configuration shows the LUMO orbital (pi superscript asterisk) with an electron (down arrow) and the HOMO orbital (pi) with an electron (up arrow).">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_07_002.jpg"/>
+    </media>
+    <caption>Ultraviolet excitation of 1,3-butadiene results in the promotion of an electron from <emphasis effect="italics">ψ</emphasis>2, the highest occupied molecular orbital (HOMO), to <emphasis effect="italics">ψ</emphasis>3*, the lowest unoccupied molecular orbital (LUMO).</caption>
+    </figure>
+    <para id="para-00005">An ultraviolet spectrum is recorded by irradiating a sample with UV light of continuously changing wavelength. When the wavelength corresponds to the energy level required to excite an electron to a higher level, energy is absorbed. This absorption is detected and displayed on a chart that plots wavelength versus <emphasis effect="italics">absorbance (A),</emphasis> defined as</para>
+    <equation class="unnumbered" id="eq-00001"><m:math display="block"><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mi>log</m:mi><m:mfrac><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mi>I</m:mi></m:mfrac></m:mrow></m:math></equation>
+    <para id="para-00006">where <emphasis effect="italics">I</emphasis><sub>0</sub> is the intensity of the incident light and <emphasis effect="italics">I</emphasis> is the intensity of the light transmitted through the sample.</para>
+    <para id="para-00007">Note that UV spectra differ from IR spectra in how they are presented. For historical reasons, IR spectra are usually displayed so that the baseline corresponding to zero absorption runs across the top of the chart and a valley indicates an absorption, whereas UV spectra are displayed with the baseline at the bottom of the chart so that a peak indicates an absorption (<link>Figure OChem_14_07_003_80485-14-12_Absorbance</link>).</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="A graph representing ultraviolet spectrum of 1 3-butadiene is shown with the horizontal axis labeled “Wavelength in nanometers” with markings “200 ” “220 ” “240 ” “260 ” “280 ” 300 ” “320 ” “340 ” “360 ” “380” and “400;” vertical axis is labeled “Absorbance” with markings “0 ” “0.2 ” “0.4 ” “0.6 ” “0.8” and “1.0.” A wave originates at a point below 0.4 of the vertical axis reaches its peak at a little above 0.8 of the vertical axis and 220 of the horizontal axis and drops down steadily till about 240 of the horizontal axis and a little above 0 of the vertical axis. The line stabilizes gradually from this point onwards and runs almost parallel to the horizontal axis. An equation near the peak reads: “lambda max” equals 217 nanometer.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_07_003.jpg"/>
+    </media>
+    <caption>The ultraviolet spectrum of 1,3-butadiene, <emphasis effect="italics">λ</emphasis>max = 217 nm.</caption>
+    </figure>
+    <para id="para-00008">The amount of UV light absorbed is expressed as the sample’s <term id="term-00004">molar absorptivity (<emphasis effect="italics">ϵ</emphasis>)</term>, defined by the equation</para>
+    <equation class="unnumbered" id="eq-00002"><m:math display="block"><m:mrow><m:mi>ε</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>A</m:mi><m:mrow><m:mi>c</m:mi><m:mo>×</m:mo><m:mi>l</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+    <para id="para-00009">where</para>
+    <equation id="eq-00003"><m:math display="block">
+     <m:mtable columnalign="left">
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>           </m:mtext><m:mi>A</m:mi><m:mo>=</m:mo><m:mtext>Absorbance</m:mtext>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>           </m:mtext><m:mi>c</m:mi><m:mo>=</m:mo><m:mtext>Concentration in mol/L</m:mtext>
+       </m:mtd>
+      </m:mtr>
+      <m:mtr>
+       <m:mtd>
+        <m:mtext>           </m:mtext><m:mi>l</m:mi><m:mo>=</m:mo><m:mtext>Sample pathlength in cm</m:mtext>
+       </m:mtd>
+      </m:mtr>
+     </m:mtable>
+    </m:math>
+    </equation>
+    <para id="para-00010">Molar absorptivity is a physical constant, characteristic of the particular substance being observed and thus characteristic of the particular <emphasis effect="italics">π</emphasis> electron system in the molecule. Typical values for conjugated dienes are in the range <emphasis effect="italics">ॉ</emphasis> = 10,000 to 25,000. The units for molar absorptivity, L/(mol <emphasis effect="bold">·</emphasis> cm), are usually dropped.</para>
+    <para id="para-00011">A particularly important use of this equation comes from rearranging it to the form <emphasis effect="italics">c</emphasis> = <emphasis effect="italics">A</emphasis>/(<emphasis effect="italics">ॉ</emphasis> · <emphasis effect="italics">l</emphasis>), which lets us measure the concentration of a sample in solution when <emphasis effect="italics">A</emphasis>, <emphasis effect="italics">ॉ</emphasis>, and <emphasis effect="italics">l</emphasis> are known. As an example, <emphasis effect="italics">β</emphasis>-carotene, the pigment responsible for the orange color of carrots, has <emphasis effect="italics">ॉ</emphasis> = 138,000 L/(mol · cm). If a sample of <emphasis effect="italics">β</emphasis>-carotene is placed in a cell with a pathlength of 1.0 cm and the UV absorbance reads 0.37, then the concentration of <emphasis effect="italics">β</emphasis>-carotene in the sample is</para>
+    <equation id="eq-00004"><m:math display="block">
+     <m:mtable columnalign="left">
+      <m:mtr>
+       <m:mtd>
+        <m:mi>c</m:mi><m:mo>=</m:mo><m:mfrac>
+         <m:mi>A</m:mi>
+         <m:mrow>
+          <m:mi>ε</m:mi><m:mi>l</m:mi></m:mrow>
+        </m:mfrac>
+        <m:mo>=</m:mo><m:mfrac>
+         <m:mrow>
+          <m:mn>0.37</m:mn></m:mrow>
+         <m:mrow>
+          <m:mfenced>
+           <m:mrow>
+            <m:mn>1.38</m:mn><m:mo>×</m:mo><m:msup>
+             <m:mrow>
+              <m:mn>10</m:mn></m:mrow>
+             <m:mn>5</m:mn>
+            </m:msup>
+            <m:mfrac>
+             <m:mtext>L</m:mtext>
+             <m:mrow>
+              <m:mtext>mol</m:mtext><m:mo>⋅</m:mo><m:mtext>cm</m:mtext></m:mrow>
+            </m:mfrac>
+            </m:mrow>
+          </m:mfenced><m:mo stretchy="false">(</m:mo><m:mn>1.00</m:mn><m:mtext> cm</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow>
+        </m:mfrac>
+        </m:mtd>
+      </m:mtr>
+      <m:mtr><m:mtd>
+        <m:mtext> </m:mtext><m:mo>=</m:mo><m:mn>2.7</m:mn><m:mo>×</m:mo><m:msup>
+         <m:mn>10</m:mn>
+         <m:mrow>
+          <m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
+        </m:msup>
+        <m:mtext>mol/L</m:mtext>
+       </m:mtd>
+      </m:mtr>
+     </m:mtable> 
+    </m:math>
+    </equation>
+    <para id="para-00012">Unlike IR and NMR spectra, which show many absorptions for a given molecule, UV spectra are usually quite simple—often only a single peak. The peak is usually broad, and we identify its position by noting the wavelength at the top of the peak—<emphasis effect="italics">λ</emphasis><sub>max</sub>, read as “lambda max.”</para>
+    </content>
 </document>
