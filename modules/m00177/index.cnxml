@@ -79,8 +79,8 @@
      </m:mtable>
     </m:math>
     </equation>
-    <para id="para-00010">Molar absorptivity is a physical constant, characteristic of the particular substance being observed and thus characteristic of the particular <emphasis effect="italics">π</emphasis> electron system in the molecule. Typical values for conjugated dienes are in the range <emphasis effect="italics">ॉ</emphasis> = 10,000 to 25,000. The units for molar absorptivity, L/(mol <emphasis effect="bold">·</emphasis> cm), are usually dropped.</para>
-    <para id="para-00011">A particularly important use of this equation comes from rearranging it to the form <emphasis effect="italics">c</emphasis> = <emphasis effect="italics">A</emphasis>/(<emphasis effect="italics">ॉ</emphasis> · <emphasis effect="italics">l</emphasis>), which lets us measure the concentration of a sample in solution when <emphasis effect="italics">A</emphasis>, <emphasis effect="italics">ॉ</emphasis>, and <emphasis effect="italics">l</emphasis> are known. As an example, <emphasis effect="italics">β</emphasis>-carotene, the pigment responsible for the orange color of carrots, has <emphasis effect="italics">ॉ</emphasis> = 138,000 L/(mol · cm). If a sample of <emphasis effect="italics">β</emphasis>-carotene is placed in a cell with a pathlength of 1.0 cm and the UV absorbance reads 0.37, then the concentration of <emphasis effect="italics">β</emphasis>-carotene in the sample is</para>
+    <para id="para-00010">Molar absorptivity is a physical constant, characteristic of the particular substance being observed and thus characteristic of the particular <emphasis effect="italics">π</emphasis> electron system in the molecule. Typical values for conjugated dienes are in the range <emphasis effect="italics">ε</emphasis> = 10,000 to 25,000. The units for molar absorptivity, L/(mol <emphasis effect="bold">·</emphasis> cm), are usually dropped.</para>
+    <para id="para-00011">A particularly important use of this equation comes from rearranging it to the form <emphasis effect="italics">c</emphasis> = <emphasis effect="italics">A</emphasis>/(<emphasis effect="italics">ε</emphasis> · <emphasis effect="italics">l</emphasis>), which lets us measure the concentration of a sample in solution when <emphasis effect="italics">A</emphasis>, <emphasis effect="italics">ε</emphasis>, and <emphasis effect="italics">l</emphasis> are known. As an example, <emphasis effect="italics">β</emphasis>-carotene, the pigment responsible for the orange color of carrots, has <emphasis effect="italics">ε</emphasis> = 138,000 L/(mol · cm). If a sample of <emphasis effect="italics">β</emphasis>-carotene is placed in a cell with a pathlength of 1.0 cm and the UV absorbance reads 0.37, then the concentration of <emphasis effect="italics">β</emphasis>-carotene in the sample is</para>
     <equation id="eq-00004"><m:math display="block">
      <m:mtable columnalign="left">
       <m:mtr>
@@ -123,6 +123,19 @@
      </m:mtable> 
     </m:math>
     </equation>
-    <para id="para-00012">Unlike IR and NMR spectra, which show many absorptions for a given molecule, UV spectra are usually quite simple—often only a single peak. The peak is usually broad, and we identify its position by noting the wavelength at the top of the peak—<emphasis effect="italics">λ</emphasis><sub>max</sub>, read as “lambda max.”</para>
+    <para id="para-00012">Unlike IR and NMR spectra, which show many absorptions for a given molecule, UV spectra are usually quite simple—often only a single peak. The peak is usually broad, and we identify its position by noting the wavelength at the top of the peak—<emphasis effect="italics">λ</emphasis><sub>max</sub>, read as “lambda max.”</para>    
+    <section class="section-exercises" id="sect-00001">
+      <title>Problems</title>
+      <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00013"><link class="os-embed" url="#exercise/14-07-OC-P13"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00002">
+        <problem id="prob-00002">
+        <para id="para-00014"><link class="os-embed" url="#exercise/14-07-OC-P14"/></para>
+        </problem>
+        </exercise>
+      </section>
     </content>
 </document>
