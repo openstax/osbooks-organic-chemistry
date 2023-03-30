@@ -6,5 +6,58 @@
     <md:uuid>70992970-73b8-4d1f-afcf-8ed31900ade0</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Let’s list what we’ve said thus far about benzene and, by extension, about other benzene-like aromatic molecules.</para>
+    <list id="list-00001">
+    <item>Benzene is cyclic and conjugated.</item>
+    <item>Benzene is unusually stable, having a heat of hydrogenation 150 kJ/mol less negative than we might expect for a conjugated cyclic triene.</item>
+    <item>Benzene is planar and has the shape of a regular hexagon. All bond angles are 120°, all carbon atoms are <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and all carbon–carbon bond lengths are 139 pm.</item>
+    <item>Benzene undergoes substitution reactions that retain the cyclic conjugation rather than electrophilic addition reactions that would destroy it.</item>
+    <item>Benzene can be described as a resonance hybrid whose structure is intermediate between two line-bond structures.</item>
+    </list>
+    <para id="para-00002">This list might seem to be a good description of benzene and other aromatic molecules, but it isn’t enough. Something else, called the <term id="term-00001">Hückel 4<emphasis effect="italics">n</emphasis> + 2 rule</term>, is needed to complete a description of aromaticity. According to a theory devised in 1931 by the German physicist Erich Hückel, a molecule is aromatic only if it has a planar, monocyclic system of conjugation and contains a total of 4<emphasis effect="italics">n</emphasis> + 2 <emphasis effect="italics">π electrons,</emphasis> where <emphasis effect="italics">n</emphasis> is an integer (<emphasis effect="italics">n</emphasis> = 0, 1, 2, 3, .). In other words, only molecules with 2, 6, 10, 14, 18, <emphasis effect="italics">π</emphasis> electrons can be aromatic. Molecules with 4<emphasis effect="italics">n π</emphasis> electrons (4, 8, 12, 16, .) can’t be aromatic, even though they may be cyclic, planar, and apparently conjugated. In fact, planar, conjugated molecules with 4<emphasis effect="italics">n π</emphasis> electrons are said to be <term id="term-00002">antiaromatic</term> because delocalization of their <emphasis effect="italics">π</emphasis> electrons would lead to their destabilization.</para>
+    <para id="para-00003">Let’s look at several examples to see how the Hückel 4<emphasis effect="italics">n</emphasis> + 2 rule works.</para>
+    <list id="list-00002">
+    <item><emphasis effect="bold"><span class="cyan-text">Cyclobutadiene</span></emphasis> has four <emphasis effect="italics">π</emphasis> electrons and is antiaromatic. As indicated by the electrostatic potential map, the <emphasis effect="italics">π</emphasis> electrons are localized in two double bonds rather than delocalized around the ring.<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows the structure and electrostatic potential map of cyclobutadiene. The structure shows a cyclobutane with two double bonds. Text reads: Two double bonds; four pi electrons. The electrostatic potential map shows gray balls (carbons) and white balls (hydrogens) with arrows pointing to the double bonds. The region around the carbons is shown in orange surrounded by yellow and green.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_03_001.jpg"/>
+    </media>
+    </figure><newline/>
+    Cyclobutadiene is highly reactive and shows none of the properties associated with aromaticity. In fact, it was not even prepared until 1965, when Rowland Pettit at the University of Texas was able to make it at low temperature. Even at –78 °C, however, cyclobutadiene is so reactive that it dimerizes by a Diels–Alder reaction. One molecule behaves as a diene and the other as a dienophile.<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the dimerization of two cyclobutadiene rings (Diels–Alder reaction) at 78 degree C to yield a product. Each cyclobutadiene shows a cyclobutane with two double bonds. The first is horizontal and the second one is vertical. Two dotted lines connect the two structures. The product shows a cyclobutane fused with two cyclobutene rings one each side.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_03_002.jpg"/>
+    </media>
+    </figure></item>
+    <item><emphasis effect="bold"><span class="cyan-text">Benzene</span></emphasis> has six <emphasis effect="italics">π</emphasis> electrons (4<emphasis effect="italics">n</emphasis> + 2 = 6 when <emphasis effect="italics">n</emphasis> = 1) and is aromatic.<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <media alt="An illustration shows the structure of benzene. Text reads: Three double bonds; six pi electrons.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_03_003.jpg"/>
+    </media>
+    </figure></item>
+    <item><emphasis effect="bold"><span class="cyan-text">Cyclooctatetraene</span></emphasis> has eight <emphasis effect="italics">π</emphasis> electrons, but when it was first prepared in 1911 by the German chemist Richard Willstätter, it was found not to be particularly stable. In fact, its <emphasis effect="italics">π</emphasis> electrons are localized into four double bonds rather than delocalized around the ring, and the molecule is tub-shaped rather than planar. It has no cyclic conjugation because neighboring <emphasis effect="italics">p</emphasis> orbitals don’t have the necessary parallel alignment for overlap, and it resembles an open-chain polyene in its reactivity.<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structure and electrostatic potential map of cyclooctatetraene. The structure shows a cyclooctane with four double bonds. Text reads: Four double bonds; eight pi electrons. The electrostatic potential map shows gray balls (carbons) and white balls (hydrogens) with arrows pointing to the double bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_03_004.jpg"/>
+    </media>
+    </figure></item>
+    </list>
+    <para id="para-00004">X-ray studies show that the C – C single bonds in cyclooctatetraene are 147 pm long and the double bonds are 134 pm long. In addition, the <sup>1</sup>H NMR spectrum shows a single sharp resonance line at 5.78 <emphasis effect="italics">δ,</emphasis> a value characteristic of an alkene rather than an aromatic molecule.</para>
+    <para id="para-00005">What’s so special about 4<emphasis effect="italics">n</emphasis> + 2 <emphasis effect="italics">π</emphasis> electrons? Why do 2, 6, 10, 14 <emphasis effect="italics">π</emphasis> electrons lead to aromatic stability, while other numbers of electrons do not? The answer comes from molecular orbital theory. When the energy levels of molecular orbitals for cyclic conjugated molecules are calculated, it turns out that there is always a single lowest-lying MO, above which the MOs come in degenerate pairs. Thus, when electrons fill the various molecular orbitals, it takes two electrons, or one pair, to fill the lowest-lying orbital and four electrons, or two pairs, to fill each of <emphasis effect="italics">n</emphasis> succeeding energy levels—a total of 4<emphasis effect="italics">n</emphasis> + 2. Any other number would leave an energy level partially filled.</para>
+    <para id="para-00006">The six <emphasis effect="italics">π</emphasis> molecular orbitals of benzene were shown previously in <link>Figure 15_02_OChem-15-02-006_80485-15-04_SixpAtomic</link>, and their relative energies are shown again in <link>Figure 15_03_OChem-15-03-005_80485-15-05_EnergyLevs</link>. The lowest-energy MO, <emphasis effect="italics">ψ</emphasis><sub>1</sub>, occurs singly and contains two electrons. The next two lowest-energy orbitals, <emphasis effect="italics">ψ</emphasis><sub>2</sub> and <emphasis effect="italics">ψ</emphasis><sub>3</sub>, are degenerate, and it therefore takes four electrons to fill both. The result is a stable six-<emphasis effect="italics">π</emphasis>-electron aromatic molecule with filled bonding orbitals.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="An illustration shows the energy levels of six benzene molecular orbitals. An up arrow labeled energy is shown. Six p orbitals are shown as six bars each with an up arrow. The first orbital at the bottom (psi subscript 1) shows a bar with an up arrow and down arrow. The second orbital (psi subscript 2) and third orbital (psi subscript 3) show a bar each with an up arrow and down arrow. The fourth orbital (psi superscript asterisk subscript 4) and fifth orbital (psi superscript asterisk subscript 5) show a bar each with no electrons. The sixth orbital (psi superscript asterisk subscript 6) shows a bar with no electrons. A dotted line demarcates the first three orbitals and the last three orbitals.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_03_005.jpg"/>
+    </media>
+    <caption>Energy levels of the six benzene <emphasis effect="italics">π</emphasis> molecular orbitals. There is a single, lowest-energy orbital, above which the orbitals come in degenerate pairs.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/15-03-OC-P05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

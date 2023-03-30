@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Naming Aromatic Compounds</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Naming Aromatic Compounds</md:title>
@@ -6,5 +6,110 @@
     <md:uuid>e91d9519-41fa-4916-ba73-3d78903e5822</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Simple aromatic hydrocarbons come from two main sources: coal and petroleum. Coal is an enormously complex mixture consisting primarily of large arrays of benzene-like rings joined together. Thermal breakdown of coal occurs when heated to 1000 °C in the absence of air, and a mixture of volatile products called <emphasis effect="italics">coal tar</emphasis> boils off. Fractional distillation of coal tar yields benzene, toluene, xylene (dimethylbenzene), naphthalene, and a host of other aromatic compounds (<link>Figure 15_01_OChem-15-01-001_80485-15-01_BenzToluXy</link>).</para>
+    <figure id="fig-00001">
+    <media alt="An illustration shows the structures of 8 compounds: Benzene (bp 80 °C) Toluene (bp 111 °C) Xylene (bp: ortho 144 °C; meta 139 °C; para 138 °C) Indene (bp 182 °C) Naphthalene (mp 80 °C) Biphenyl (mp 71 °C) Anthracene (mp 216 °C) and Phenanthrene (mp 101 °C). Toluene shows a benzene bonded to a methyl group. Xylene shows a benzene bonded to two methyl groups. Indene shows a benzene fused with a cyclopentene. Naphthalene shows a benzene fused with a cyclohexane ring that shows two double bonds. Biphenyl shows a benzene bonded to another benzene. Anthracene shows a cyclohexane ring fused with a benzene fused with another cyclohexane. The cyclohexane rings show two double bonds each. Phenanthrene shows a benzene fused with a cyclohexane fused with another benzene. The cyclohexane ring shows a double bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_01_001.jpg"/>
+    </media>
+    <caption>Some aromatic hydrocarbons found in coal tar.</caption>
+    </figure>
+    <para id="para-00002">Unlike coal, petroleum contains few aromatic compounds and consists largely of alkanes (see <link>Chapter 3 <emphasis effect="italics">Chemistry Matters</emphasis></link>). During petroleum refining, however, aromatic molecules are formed when alkanes are passed over a catalyst at about 500 °C under high pressure.</para>
+    <para id="para-00003">Aromatic substances, more than any other class of organic compounds, have acquired a large number of nonsystematic names. IUPAC rules discourage the use of most such names but do allow some of the more widely used ones to be retained (<link target-id="table-00001"/>). Thus, methylbenzene is known commonly as <emphasis effect="italics">toluene;</emphasis> hydroxybenzene as <emphasis effect="italics">phenol;</emphasis> aminobenzene as <emphasis effect="italics">aniline;</emphasis> and so on.</para>
+    <table summary="An illustration shows the structures of 8 aromatic compounds: Toluene (bp 111 °C) Phenol (mp 43 °C) Aniline (bp 184 °C) Acetophenone (mp 21 °C) Benzaldehyde (bp 178 °C) Benzoic acid (mp 122 °C) ortho-Xylene (bp 144 °C) and Styrene (bp 145 °C). Toluene shows a benzene bonded to a methyl group. Phenol shows a benzene bonded to a hydroxyl group. Aniline shows a benzene bonded to an amino group. Acetophenone shows a benzene bonded to carbonyl group bonded to methyl group. Benzaldehyde shows a benzene bonded to an aldehyde group. Benzoic acid shows a benzene bonded to a carboxyl group. ortho-Xylene shows a benzene bonded to two methyl groups. Styrene shows a benzene bonded to a methine group double bonded to a methylene group." id="table-00001">
+    <title>Common Names of Some Aromatic Compounds</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Structure</entry>
+    <entry valign="top" align="left">Name</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002a.jpg"/></media></entry>
+    <entry valign="top" align="left">Toluene<newline/>(bp 111 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002b.jpg"/></media></entry>
+    <entry valign="top" align="left">Phenol<newline/>(mp 43 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002c.jpg"/></media></entry>
+    <entry valign="top" align="left">Aniline<newline/>(bp 184 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002d.jpg"/></media></entry>
+    <entry valign="top" align="left">Acetophenone<newline/>(mp 21 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002e.jpg"/></media></entry>
+    <entry valign="top" align="left">Benzaldehyde<newline/>(bp 178 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002f.jpg"/></media></entry>
+    <entry valign="top" align="left">Benzoic acid<newline/>(mp 122 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002g.jpg"/></media></entry>
+    <entry valign="top" align="left"><emphasis effect="italics">ortho</emphasis>-Xylene<newline/>(bp 144 °C)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_15_01_002h.jpg"/></media></entry>
+    <entry valign="top" align="left">Styrene<newline/>(bp 145 °C)</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00004">Monosubstituted benzenes are named systematically in the same manner as other hydrocarbons, with -<emphasis effect="italics">benzene</emphasis> as the parent name. Thus, C<sub>6</sub>H<sub>5</sub>Br is bromobenzene, C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> is nitrobenzene, and C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> is propylbenzene.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structures of 3 aromatic compounds: Bromobenzene Nitrobenzene and Propylbenzene. Bromobenzene shows a benzene bonded to a bromine atom. Nitrobenzene shows a benzene bonded to a nitro group. Propylbenzene shows a benzene bonded to a propyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_01_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Alkyl-substituted benzenes are sometimes referred to as <term id="term-00001">arenes</term> and are named in different ways depending on the size of the alkyl group. If the alkyl substituent is smaller than the ring (six or fewer carbons), the arene is referred to as an alkyl-substituted benzene. If the alkyl substituent is larger than the ring (seven or more carbons), the compound is referred to as a phenyl-substituted alkane. The name <term id="term-00002">phenyl</term>, pronounced <emphasis effect="bold">fen</emphasis>-nil and sometimes abbreviated as Ph or <emphasis effect="italics">Ф</emphasis> (Greek <emphasis effect="italics">phi</emphasis>), is used for the  – C<sub>6</sub>H<sub>5</sub> unit when the benzene ring is considered a substituent. The word is derived from the Greek <emphasis effect="italics">pheno</emphasis> (“I bear light”), commemorating the discovery of benzene by Michael Faraday in 1825 from the oily residue left by the illuminating gas used in London street lamps. In addition, the name <term id="term-00003">benzyl</term> is used for the C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub> –  group.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structures of a phenyl group 2-Phenylheptane and a benzyl group. The phenyl group shows a benzene ring with a free bond and a wavy line above the bond. 2-Phenylheptane shows a 7-carbon chain with C2 bonded to a benzene ring. The carbon atoms of the chain are numbered from left to right. The benzyl group shows a benzene ring bonded to a methylene group that shows a free bond with a wavy line above the bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_01_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Disubstituted benzenes are named using the prefixes <term id="term-00004">ortho (<emphasis effect="italics">o</emphasis>)</term>, <term id="term-00005">meta (<emphasis effect="italics">m</emphasis>)</term>, or <term id="term-00006">para (<emphasis effect="italics">p</emphasis>)</term>. An ortho-disubstituted benzene has its two substituents in a 1,2 relationship on the ring, a meta-disubstituted benzene has its two substituents in a 1,3 relationship, and a para-disubstituted benzene has its substituents in a 1,4 relationship.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structures of ortho-Dichlorobenzene (1 2 disubstituted) meta-Dimethylbenzene (meta-xylene; 1 3 disubstituted) and para-Chlorobenzaldehyde (1 4 disubstituted). ortho-Dichlorobenzene shows a benzene ring with C1 and C2 bonded to a chlorine atom each. meta-Dimethylbenzene shows a benzene ring with C1 and C3 bonded to a methyl group each. para-Chlorobenzaldehyde shows a benzene ring with C1 bonded to an aldehyde group and C4 bonded to a chlorine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_01_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">The ortho, meta, para system of nomenclature is also useful when discussing reactions. For example, we might describe the reaction of bromine with toluene by saying, “Reaction occurs at the para position,” meaning at the position para to the methyl group already present on the ring.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the structure of a cyclic compound and the reaction of toluene in the presence of bromine and FeBr3 to yield p-bromotoluene. The cyclic compound shows a benzene bonded to X at one end. The other end is labeled ‘para.’ The carbon positions at the top right and top left are labeled ‘ortho.’ The carbon positions at the bottom right and bottom left are labeled ‘meta.’ Toluene shows a benzene bonded to a methyl group. p-Bromotoluene shows a benzene bonded to a methyl group at C1 and a bromine atom at C4 (para position).">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_01_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">As with cycloalkanes <emphasis effect="bold">(<link>Section 4.1</link>)</emphasis>, benzenes with more than two substituents are named by choosing a point of attachment as carbon 1 and numbering the substituents on the ring so that the second substituent has as low a number as possible. If ambiguity still exists, number so that the third or fourth substituent has as low a number as possible, until a point of difference is found. The substituents are listed alphabetically when writing the name.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows the structures of 4-Bromo-1 2-dimethylbenzene 2 5-Dimethylphenol and 2 4 6-Trinitrotoluene (TNT). 4-Bromo-1 2-dimethylbenzene shows a benzene ring with C1 bonded to a methyl group C2 bonded to a methyl group and C4 bonded to a bromine atom. 2 5-Dimethylphenol shows a benzene ring with C1 bonded to a hydroxyl group C2 bonded to a methyl group and C5 bonded to a methyl group. TNT shows a benzene ring with C1 bonded to a methyl group. C2 C4 and C6 are bonded to a nitro group each.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_01_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Note in the second and third examples shown that -<emphasis effect="italics">phenol</emphasis> and -<emphasis effect="italics">toluene</emphasis> are used as the parent names rather than -<emphasis effect="italics">benzene</emphasis>. Any of the monosubstituted aromatic compounds shown in <link target-id="table-00001"/> can serve as a parent name, with the principal substituent ( – OH in phenol or  – CH<sub>3</sub> in toluene) attached to C1 on the ring.</para>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00010"><link class="os-embed" url="#exercise/15-01-OC-P01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00011"><link class="os-embed" url="#exercise/15-01-OC-P02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00012"><link class="os-embed" url="#exercise/15-01-OC-P03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
