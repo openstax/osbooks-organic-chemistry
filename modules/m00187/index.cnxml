@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Spectroscopy of Aromatic Compounds</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Spectroscopy of Aromatic Compounds</md:title>
@@ -6,5 +6,400 @@
     <md:uuid>897309a6-6e3c-489d-a3a8-e87dc6dfde58</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section id="sect-00001">
+    <title>Infrared Spectroscopy</title>
+    <para id="para-00001">As we saw in the brief introduction to infrared spectroscopy (<link>Section 12.8</link>), aromatic rings show a characteristic C – H stretching absorption at 3030 cm<sup>–1</sup> and a series of peaks in the 1450 to 1600 cm<sup>–1</sup> range of the infrared spectrum. The aromatic C – H band at 3030 cm<sup>–1</sup> generally has low intensity and occurs just to the left of a typical saturated C – H band.</para>
+    <para id="para-00002">As many as four absorptions are sometimes observed in the 1450 to 1600 cm<sup>–1</sup> region because of the complex molecular motions of the ring itself. Two bands, one at 1500 cm<sup>–1</sup> and one at 1600 cm<sup>–1</sup>, are usually the most intense. In addition, aromatic compounds show weak absorptions in the 1660 to 2000 cm<sup>–1</sup> region and strong absorptions in the 690 to 900 cm<sup>–1</sup> range due to C – H out-of-plane bending. The exact position of both sets of absorptions is diagnostic of the substitution pattern of the aromatic ring (<link>Figure 12_08_OChem-12-08-006_80485-12-23_OrthoMeta</link> in <link>Section 12.8</link>).</para>
+    <table class="unnumbered" summary="An illustration reads as follows: Monosubstituted: 690–710 cm to the power of minus 1 / 730–770 cm to the power of minus 1; o-Disubstituted: 735–770 cm to the power of minus 1; m-Disubstituted: 690–710 cm to the power of minus 1 / 810–850 cm to the power of minus 1; p-Disubstituted: 810–840 cm to the power of minus 2 1; 1 2 4-Trisubstituted: 780–830 cm to the power of minus 1 / 870–900 cm to the power of minus 1; 1 2 3-Trisubstituted: 670–720 cm to the power of minus 1 / 750–790 cm to the power of minus 1; 1 3 5-Trisubstituted: 660–700 cm to the power of minus 1 / 830–900 cm to the power of minus 1." id="table-00001">
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold">Monosubstituted:</emphasis></entry>
+    <entry valign="top" align="left">690–710 cm<sup>–1</sup></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="yellow-text">1,2,4-Trisubstituted:</span></emphasis></entry>
+    <entry valign="top" align="left">780–830 cm<sup>–1</sup></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left">730–770 cm<sup>–1</sup></entry>
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left">870–900 cm<sup>–1</sup></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="cyan-text"><emphasis effect="italics">o</emphasis>-Disubstituted:</span></emphasis></entry>
+    <entry valign="top" align="left">735–770 cm<sup>–1</sup></entry>
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">1,2,3-Trisubstituted:</span></emphasis></entry>
+    <entry valign="top" align="left">670–720 cm<sup>–1</sup></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="green-text"><emphasis effect="italics">m</emphasis>-Disubstituted:</span></emphasis></entry>
+    <entry valign="top" align="left">690–710 cm<sup>–1</sup></entry>
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left">750–790 cm<sup>–1</sup></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left">810–850 cm<sup>–1</sup></entry>
+    <entry valign="top" align="left"><emphasis effect="bold">1,3,5-Trisubstituted:</emphasis></entry>
+    <entry valign="top" align="left">660–700 cm<sup>–1</sup></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold"><span class="red-text"><emphasis effect="italics">p</emphasis>-Disubstituted:</span></emphasis></entry>
+    <entry valign="top" align="left">810–840 cm<sup>–1</sup></entry>
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left">830–900 cm<sup>–1</sup></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00003">The IR spectrum of toluene in <link>Figure 15_07_OChem-15-07-001_80485-15-11_ToulenSpec</link> shows these characteristic absorptions.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the infrared spectrum of toluene. The horizontal axis shows wavenumbers in cm to the power minus one starting from 4000 on the left to 500 on the right at an interval of 500 cm to the power minus one; the vertical axis shows transmittance in percentage starting from 0 to 100 at an interval of 20 percent. The structure of toluene shows a benzene bonded to a methyl group. Labeled bands are as follows: 3000 cm to the power minus one (C-H) at 20 percent transmittance 1600-1500 cm to the power minus one (ring bonds) at 20 to 40 percent transmittance 700-800 cm to the power minus one (monosubstituted ring C-H) at 0 to 10 percent transmittance.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_001.jpg"/>
+    </media>
+    <caption>The infrared spectrum of toluene.</caption>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Ultraviolet Spectroscopy</title>
+    <para id="para-00004">Aromatic rings are detectable by ultraviolet spectroscopy because they contain a conjugated π electron system. In general, aromatic compounds show a series of bands, with a fairly intense absorption near 205 nm and a less intense absorption in the 255 to 275 nm range. The presence of these bands in the ultraviolet spectrum of a molecule is a sure indication of an aromatic ring. <link>Figure 15_07_OChem-15-07-002_80485-15-12_UVBenzene</link> shows the ultraviolet spectrum of benzene.</para>
+    <figure class="scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows the UV spectrum of benzene. The spectrum shows wavelength on the horizontal axis from 160 to 280 at an interval of 20; increasing log epsilon is shown on the vertical axis. The tallest peak is shown at 184 nm followed by one at 202 nm. About 7 peaks are shown between 225 nm to 265 nm.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_002.jpg"/>
+    </media>
+    <caption>Ultraviolet spectrum of benzene. There are primary bands at 184 and 202 nm and secondary (fine-structure) bands at 255 nm.</caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Nuclear Magnetic Resonance Spectroscopy</title>
+    <para id="para-00005">Aromatic hydrogens are strongly deshielded by the ring and absorb between 6.5 and 8.0 <emphasis effect="italics">δ.</emphasis> The spins of nonequivalent aromatic protons on substituted rings often couple with each other, giving rise to spin–spin splitting patterns that can identify the substitution of the ring.</para>
+    <para id="para-00006">Much of the difference in chemical shift between aromatic protons (6.5–8.0 <emphasis effect="italics">δ</emphasis>) and vinylic protons (4.5–6.5 <emphasis effect="italics">δ</emphasis>) is due to a property of aromatic rings called <term id="term-00001">ring-current</term>. When an aromatic ring is oriented perpendicular to a strong magnetic field, the electrons circulate around the ring, producing a small local magnetic field. This induced field opposes the applied field in the middle of the ring but reinforces the applied field outside the ring (<link>Figure 15_07_OChem-15-07-003_80485-15-13_AppMagFiel</link>). Aromatic protons therefore experience an effective magnetic field greater than the applied field and come into resonance at a lower applied field.</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows the ring-current of an aromatic ring. The aromatic ring is shown sandwiched between two oval tubular structures each denoting circulating pi electrons (ring current). A broad up arrow in the center represents the perpendicular orientation of an applied magnetic field to the aromatic ring. The ring is bonded to a hydrogen on the left and on the right. The hydrogens are labeled as protons deshielded by induced field. Two rows of elliptical dotted lines around the hydrogen pass through the ring current representing the induced magnetic field because of ring current.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_003.jpg"/>
+    </media>
+    <caption>The origin of aromatic ring-current. Aromatic protons are deshielded by the induced magnetic field caused by delocalized π electrons circulating around the aromatic ring.</caption>
+    </figure>
+    <para id="para-00007">Note that the aromatic ring-current produces different effects inside and outside the ring. If a ring were large enough to have both “inside” and “outside” protons, the protons on the outside would be deshielded and absorb at a field lower than normal but those on the inside would be shielded and absorb at a field higher than normal. This prediction has been strikingly confirmed by studies on [18]annulene, an 18-π-electron cyclic conjugated polyene that contains a Hückel number of electrons (4<emphasis effect="italics">n</emphasis> + 2 = 18 when <emphasis effect="italics">n</emphasis> = 4). The six inside protons of [18]annulene are strongly shielded by the aromatic ring-current and absorb at –3.0 <emphasis effect="italics">δ</emphasis> (that is, 3.0 ppm <emphasis effect="italics">upfield</emphasis> from TMS, off the normal chart), while the 12 outside protons are strongly deshielded and absorb in the typical aromatic region at 9.3 ppm downfield from TMS.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structure and ball-and-stick model of [18] annulene. The structure shows a fused structure of six open cyclohexane rings each bonded to a pink hydrogen atom shown in the center. Two rings are at the top and two rings are at the bottom; one ring is on the left and one ring is on the right. Alternate rings show two double bonds while the other rings show a double bond each. Each ring is bonded to two blue hydrogen atoms shown outside the ring. The ball-and-stick model shows the carbon atoms as grey balls and hydrogen atoms as white balls. The center of the structure is white; the region around the hydrogens is shown in green while the region around the carbons is shown in yellow.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">The presence of a ring-current is characteristic of all Hückel aromatic molecules and is a good test of aromaticity. For example, benzene, a six-π-electron aromatic molecule, absorbs at 7.37 <emphasis effect="italics">δ</emphasis> because of its ring-current, but cyclooctatetraene, an eight-<emphasis effect="italics">π</emphasis>-electron nonaromatic molecule, absorbs at 5.78 <emphasis effect="italics">δ.</emphasis></para>
+    <para id="para-00009">Hydrogens on carbon next to aromatic rings—<emphasis effect="italics">benzylic</emphasis> hydrogens—also show distinctive absorptions in the NMR spectrum. Benzylic protons normally absorb downfield from other alkane protons in the region from 2.3 to 3.0 <emphasis effect="italics">δ.</emphasis></para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the structure of an aromatic ring with five of the carbon atoms bonded to a pink hydrogen each. The hydrogens are labeled aryl protons (6.5–8.0 delta). The sixth carbon is bonded to a carbon bonded to an R and two blue hydrogens. The hydrogens are labeled benzylic protons (2.3–3.0 delta).">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010">The <sup>1</sup>H NMR spectrum of <emphasis effect="italics">p</emphasis>-bromotoluene, shown in <link>Figure 15_07_OChem-15-07-006_80485-15-14_ChemShift</link>, displays many of the features just discussed. The aromatic protons appear as two doublets at 7.04 and 7.37 <emphasis effect="italics">δ,</emphasis> and the benzylic methyl protons absorb as a sharp singlet at 2.26 <emphasis effect="italics">δ.</emphasis> Integration of the spectrum shows the expected 2舁:舁2舁:舁3 ratio of peak areas.</para>
+    <figure class="scaled-down" id="fig-00006">
+    <media alt="An illustration shows 1H NMR spectrum of p-bromotoluene. The structure of compound shows a blue benzene bonded to a bromine and methyl group. The hydrogen atoms of methyl group are in pink. The spectrum shows chemical shift on the horizontal axis starting from 10 ppm on the left to 0 ppm on the right and increasing intensity is shown on the vertical axis. A pink peak labeled ‘TMS’ is shown at 0 ppm. A pink peak is at 2.2 ppm; a green peak is at 7 ppm; and another green peak is at 7.4 ppm. The chemical shift values shown are 2.26 7.04 7.37. The relative areas are 1.50 1.00 1.00.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_006.jpg"/>
+    </media>
+    <caption>The <sup>1</sup>H NMR spectrum of <emphasis effect="italics">p</emphasis>-bromotoluene.</caption>
+    </figure>
+    <para id="para-00011">The carbon atoms in an aromatic ring typically absorb in the range 110 to 140 <emphasis effect="italics">δ</emphasis> in the <sup>13</sup>C NMR spectrum, as indicated by the examples in <link>Figure 15_07_OChem-15-07-007_80485-15-15_BenTouChlN</link>. These resonances are easily distinguished from those of alkane carbons but occur in the same range as alkene carbons. Thus, the presence of <sup>13</sup>C absorptions at 110 to 140 <emphasis effect="italics">δ</emphasis> does not by itself establish the presence of an aromatic ring. Supporting evidence from infrared, ultraviolet, or <sup>1</sup>H NMR spectra is needed.</para>
+    <figure class="scaled-down" id="fig-00007">
+    <media alt="An illustration shows the structures and 13C NMR absorptions of benzene toluene chlorobenzene and naphthalene. The absorption of a carbon of benzene is 128.4. Toluene shows a benzene bonded to a methyl group. The absorption of the carbon bonded to methyl group is 137.7 the methyl carbon is 21.3; the three other carbons are 125.6 128.5 129.3. Chlorobenzene shows a benzene bonded to a chlorine. The absorption of the carbon bonded to chlorine is 133.8 the three other carbons are 125.4 128.4 127.6. Naphthalene shows a benzene fused with a cyclohexane that shows two double bonds. The absorption of the fused carbon is 133.7 the two carbons of the cyclohexane ring are 128 1 126.0.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_007.jpg"/>
+    </media>
+    <caption>Some <sup>13</sup>C NMR absorptions of aromatic compounds (<emphasis effect="italics">δ</emphasis> units).</caption>
+    </figure>
+    </section>
+    <section class="chemistry-matters" id="sect-00004">
+    <title>Aspirin, NSAIDs, and COX-2 Inhibitors</title>
+    <para id="para-00012">Whatever the cause—whether tennis elbow, a sprained ankle, or a wrenched knee—pain and inflammation seem to go together. They are, however, different in their origin, and powerful drugs are available for treating each separately. Codeine, for example, is a powerful <emphasis effect="italics">analgesic,</emphasis> or pain reliever, used in the management of debilitating pain, while cortisone and related steroids are potent <emphasis effect="italics">anti-inflammatory</emphasis> agents, used for treating arthritis and other crippling inflammations. For minor pains and inflammation, both problems are often treated together by using a common over-the-counter medication called an <emphasis effect="italics">NSAID,</emphasis> or <emphasis effect="italics">nonsteroidal anti-inflammatory drug.</emphasis></para>
+    <para id="para-00013">The most common NSAID is aspirin, or acetylsalicylic acid, whose use goes back to the late 1800s. It had been known from before the time of Hippocrates in 400 BC that fevers could be lowered by chewing the bark of willow trees. The active agent in willow bark was found in 1827 to be an aromatic compound called <emphasis effect="italics">salicin,</emphasis> which could be converted by reaction with water into salicyl alcohol and then oxidized to give salicylic acid. Salicylic acid turned out to be even more effective than salicin for reducing fevers and to have analgesic and anti-inflammatory action as well. Unfortunately, it also turned out to be too corrosive to the walls of the stomach for everyday use. Conversion of the phenol  – OH group into an acetate ester, however, yielded acetylsalicylic acid, which proved just as potent as salicylic acid but less corrosive to the stomach.</para>
+    <figure class="scaled-down-30" id="fig-00008">
+    <media alt="Photo of a baseball player pitching a ball.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_98_Athlete.jpg"/>
+    </media>
+    <caption>Many athletes rely on NSAIDs to help with pain and soreness. (credit: “Dillon Gee delivers a pitch” by Arturo Pardavila III/Wikimedia Commons, CC BY 2.0)</caption>
+    </figure>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="An illustration shows the conversion of Salicyl alcohol to Salicylic acid and then to Acetylsalicylic acid (aspirin). Salicyl alcohol shows a benzene bonded to a hydroxyl group and hydroxy methyl group. Salicylic acid shows a benzene bonded to a hydroxyl group and carboxyl group. Aspirin shows a benzene bonded to a carboxyl group and acetate group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_011.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00014">Although extraordinary in its effect, aspirin is also more dangerous than commonly believed. A dose of only about 15 g can be fatal to a small child, and aspirin can cause stomach bleeding and allergic reactions in long-term users. Even more serious is a condition called <emphasis effect="italics">Reye’s syndrome,</emphasis> a potentially fatal reaction to aspirin sometimes seen in children recovering from the flu. As a result of these problems, numerous other NSAIDs have been developed in the last several decades, most notably ibuprofen and naproxen.</para>
+    <para id="para-00015">Like aspirin, both ibuprofen and naproxen are relatively simple aromatic compounds containing a side-chain carboxylic acid group. Ibuprofen, sold under the brand names Advil, Nuprin, Motrin, and others, has roughly the same potency as aspirin but is less prone to causing an upset stomach. Naproxen, sold under the names Aleve and Naprosyn, also has about the same potency as aspirin but remains active in the body six times longer.</para>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows the structures of Ibuprofen (Advil Nuprin Motrin) and Naproxen (Aleve Naprosyn). Ibuprofen shows a benzene with C1 bonded to a carbon bonded to a hydrogen methyl group and carboxyl group. C4 is bonded to a 3-carbon chain. C2 of the chain is bonded to a methyl group. Naproxen shows a benzene bonded to a methoxy group and fused with a cyclohexane ring. The cyclohexane shows two double bonds and is bonded to a carbon bonded to a hydrogen methyl group and carboxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_012.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00016">Aspirin and other NSAIDs function by blocking the cyclooxygenase (COX) enzymes that carry out the body’s synthesis of prostaglandins <emphasis effect="bold">(<link>Sections 8.11</link> and <link>27.4</link>)</emphasis>. There are two forms of the enzyme: COX-1, which carries out the normal physiological production of prostaglandins, and COX-2, which mediates the body’s response to arthritis and other inflammatory conditions. Unfortunately, both COX-1 and COX-2 enzymes are blocked by aspirin, ibuprofen, and other NSAIDs, thereby shutting down not only the response to inflammation but also various protective functions, including the control mechanism for production of acid in the stomach.</para>
+    <para id="para-00017">Medicinal chemists have therefore devised a number of drugs that act as selective inhibitors of only the COX-2 enzyme. Inflammation is thereby controlled without blocking protective functions. Originally heralded as a breakthrough in arthritis treatment, the first generation of COX-2 inhibitors, including Rofecoxib, (marketed as Vioxx), Celecoxib, (marketed as Celebrex), and Valdecoxib (marketed as Bextra), turned out to cause potentially serious heart problems, particularly in elderly or compromised patients. As a result, all three Cox-2 inhibitors were removed from the U.S. and other markets. Further studies, however, concluded that in proper doses the Cox-2 inhibitors were little different from other NSAIDs, and Vioxx returned to the market in 2017 for topical treatment of osteoarthritis.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <media alt="An illustration shows the structure of Rofecoxib (Vioxx). A 5-membered ring with a single double bond and oxygen atom is double bonded to an oxygen atom and single bonded to two benzene rings. One of the benzene rings is bonded to a sulfur single bonded to a methyl group and double bonded to two oxygen atoms.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_07_013.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="key-terms" id="sect-00005">
+    <list id="list-00001">
+    <item>antiaromatic</item>
+    <item>arene</item>
+    <item>aromatic</item>
+    <item>benzyl group</item>
+    <item>degenerate orbitals</item>
+    <item>heterocycle</item>
+    <item>Hückel 4<emphasis effect="italics">n</emphasis> + 2 rule</item>
+    <item>meta (<emphasis effect="italics">m</emphasis>)</item>
+    <item>ortho (<emphasis effect="italics">o</emphasis>)</item>
+    <item>para (<emphasis effect="italics">p</emphasis>)</item>
+    <item>phenyl group</item>
+    <item>ring current</item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00006">
+    <title>Summary</title>
+    <para id="para-00018">Aromatic rings are a common part of many biological structures and are particularly important in nucleic acid chemistry and in the chemistry of several amino acids. In this chapter, we’ve seen how and why aromatic compounds are different from such apparently related compounds as cycloalkenes.</para>
+    <para id="para-00019">The word <emphasis effect="bold">aromatic</emphasis> is used for historical reasons to refer to the class of compounds related structurally to benzene. Aromatic compounds are systematically named according to IUPAC rules, but many common names are also used. Disubstituted benzenes are referred to as <emphasis effect="bold">ortho</emphasis> (1,2 disubstituted), <emphasis effect="bold">meta</emphasis> (1,3 disubstituted), or <emphasis effect="bold">para</emphasis> (1,4 disubstituted) derivatives. The <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mtext>6</m:mtext></m:msub><m:msub><m:mtext>H</m:mtext><m:mtext>5</m:mtext></m:msub><m:mo>–</m:mo></m:mrow></m:math> unit itself is referred to as a <emphasis effect="bold">phenyl</emphasis> group, and the <m:math><m:mrow><m:msub><m:mtext>C</m:mtext><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>–</m:mo></m:mrow></m:math> unit is a <emphasis effect="bold">benzyl</emphasis> group.</para>
+    <para id="para-00020">Benzene is described by valence-bond theory as a resonance hybrid of two equivalent structures and is described by molecular orbital theory as a planar, cyclic, conjugated molecule with six <emphasis effect="italics">π</emphasis> electrons. According to the <emphasis effect="bold">Hückel rule</emphasis>, a molecule must have <emphasis effect="bold">4<emphasis effect="italics">n</emphasis></emphasis> + <emphasis effect="bold">2 <emphasis effect="italics">π</emphasis> electrons</emphasis>, where <emphasis effect="italics">n</emphasis> = 0, 1, 2, 3, and so on, to be aromatic. Planar, cyclic, conjugated molecules with other numbers of <emphasis effect="italics">π</emphasis> electrons are <emphasis effect="bold">antiaromatic</emphasis>.</para>
+    <para id="para-00021">Other substances besides benzene-like compounds are also aromatic. The cyclopentadienyl anion and the cycloheptatrienyl cation, for instance, are aromatic ions. Pyridine and pyrimidine are six-membered, nitrogen-containing, aromatic <emphasis effect="bold">heterocycles</emphasis>. Pyrrole and imidazole are five-membered, nitrogen-containing heterocycles. Naphthalene, quinoline, indole, and many others are polycyclic aromatic compounds.</para>
+    <para id="para-00022">Aromatic compounds have the following characteristics:</para>
+    <list id="list-00002">
+    <item>Aromatic compounds are cyclic, planar, and conjugated.</item>
+    <item>Aromatic compounds are unusually stable. Benzene, for instance, has a heat of hydrogenation 150 kJ/mol less than we might expect for a cyclic triene.</item>
+    <item>Aromatic compounds react with electrophiles to give substitution products, in which cyclic conjugation is retained, rather than addition products, in which conjugation is destroyed.</item>
+    <item>Aromatic compounds have 4<emphasis effect="italics">n</emphasis> + 2 <emphasis effect="italics">π</emphasis> electrons, which are delocalized over the ring.</item>
+    </list>
+    </section>
+    <section class="additional-problems" id="sect-00007">
+    <title>Additional Problems</title>
+    <para id="para-00023"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00024"><link class="os-embed" url="#exercise/15-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00025"><link class="os-embed" url="#exercise/15-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00026"><link class="os-embed" url="#exercise/15-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00027"><link class="os-embed" url="#exercise/15-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00028"><link class="os-embed" url="#exercise/15-99-OC-VC05"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00029"><emphasis effect="bold"><span class="red-text">Naming Aromatic Compounds</span></emphasis></para>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00030"><link class="os-embed" url="#exercise/15-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00031"><link class="os-embed" url="#exercise/15-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00032"><link class="os-embed" url="#exercise/15-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00033"><link class="os-embed" url="#exercise/15-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00034"><link class="os-embed" url="#exercise/15-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00035"><emphasis effect="bold"><span class="red-text">Structure of Aromatic Compounds</span></emphasis></para>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00036"><link class="os-embed" url="#exercise/15-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00037"><link class="os-embed" url="#exercise/15-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00038"><link class="os-embed" url="#exercise/15-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00039"><link class="os-embed" url="#exercise/15-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00040"><link class="os-embed" url="#exercise/15-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00041"><link class="os-embed" url="#exercise/15-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00042"><emphasis effect="bold"><span class="red-text">Aromaticity and Hückel’s Rule</span></emphasis></para>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00043"><link class="os-embed" url="#exercise/15-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00044"><link class="os-embed" url="#exercise/15-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00045"><link class="os-embed" url="#exercise/15-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00046"><link class="os-embed" url="#exercise/15-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00047"><link class="os-embed" url="#exercise/15-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00048"><link class="os-embed" url="#exercise/15-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00049"><link class="os-embed" url="#exercise/15-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00050"><link class="os-embed" url="#exercise/15-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00051"><link class="os-embed" url="#exercise/15-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00052"><link class="os-embed" url="#exercise/15-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00053"><emphasis effect="bold"><span class="red-text">Spectroscopy</span></emphasis></para>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00054"><link class="os-embed" url="#exercise/15-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00055"><link class="os-embed" url="#exercise/15-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00056"><link class="os-embed" url="#exercise/15-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00057"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00058"><link class="os-embed" url="#exercise/15-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00059"><link class="os-embed" url="#exercise/15-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00060"><link class="os-embed" url="#exercise/15-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00061"><link class="os-embed" url="#exercise/15-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00062"><link class="os-embed" url="#exercise/15-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00063"><link class="os-embed" url="#exercise/15-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00064"><link class="os-embed" url="#exercise/15-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00065"><link class="os-embed" url="#exercise/15-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00066"><link class="os-embed" url="#exercise/15-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00067"><link class="os-embed" url="#exercise/15-99-OC-AP34"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00068"><link class="os-embed" url="#exercise/15-99-OC-AP35"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00069"><link class="os-embed" url="#exercise/15-99-OC-AP36"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00070"><link class="os-embed" url="#exercise/15-99-OC-AP37"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00071"><link class="os-embed" url="#exercise/15-99-OC-AP38"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00072"><link class="os-embed" url="#exercise/15-99-OC-AP39"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>

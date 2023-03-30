@@ -6,5 +6,55 @@
     <md:uuid>d2e27e47-a32b-428b-bcfd-df05bbcb0b15</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">The Hückel rule is strictly applicable only to monocyclic compounds, but the general concept of aromaticity can be extended to include <emphasis effect="italics">polycyclic</emphasis> aromatic compounds. Naphthalene, with two benzene-like rings fused together; anthracene, with three rings; benzo[a]pyrene, with five rings; and coronene, with six rings, are all well-known aromatic hydrocarbons. Benzo[a]pyrene is particularly interesting because it is one of the cancer-causing substances found in tobacco smoke.</para>
+    <figure class="unnumbered" id="fig-00001">
+    <media alt="An illustration shows the structures of Naphthalene Anthracene Benzo[a]pyrene and Coronene. Naphthalene shows a benzene ring fused with a cyclohexane that shows two double bonds. Anthracene is similar to naphthalene but the cyclohexane on the right is fused with another cyclohexane that shows two double bonds. Benzo[a]pyrene shows five rings fused in two rows. The top row shows three rings and the bottom row shows a benzene fused with a cyclohexane that shows two double bonds. At the top the first ring shows a double bond and the other two rings show two double bonds each. Coronene shows a central cyclohexane fused with six cyclohexane rings on all the sides. The ring on the left is benzene and the ring at the bottom left shows one double bond. The other 4 rings show two double bonds each.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_06_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">All polycyclic aromatic hydrocarbons can be represented by a number of different resonance forms. Naphthalene, for instance, has three.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the three resonance forms of Naphthalene. All the forms show two cyclohexane rings fused. In the first form the first ring is benzene with three arrows inside representing the movement of each double bond to the adjacent position. The second ring shows two double bonds. The second form is like the mirror image of the first form but the arrows are in different positions. In the third form the first ring shows two double bonds and the second ring is benzene.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_06_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Naphthalene and other polycyclic aromatic hydrocarbons show many of the chemical properties associated with aromaticity. Thus, measurement of its heat of hydrogenation shows an aromatic stabilization energy of approximately 250 kJ/mol (60 kcal/mol). Furthermore, naphthalene reacts slowly with electrophiles such as Br<sub>2</sub> to give substitution products rather than double-bond addition products.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the reaction of Naphthalene with bromine iron and heat to yield 1-Bromonaphthalene (75%) and HBr. Naphthalene shows a benzene ring fused with a cyclohexane that shows two double bonds. 1-Bromonaphthalene is similar to the reactant but the cyclohexane is bonded to a bromine at C1.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_06_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">The aromaticity of naphthalene is explained by the orbital picture in <link>Figure 15_06_OChem-15-06-004_80485-15-10_Naphth4</link>. Naphthalene has a cyclic, conjugated π electron system, with <emphasis effect="italics">p</emphasis> orbital overlap both along the ten-carbon periphery of the molecule and across the central bond. Because ten π electrons is a Hückel number, there is π electron delocalization and consequent aromaticity in naphthalene.</para>
+    <figure class="scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structure cartoon representation and electrostatic potential map of naphthalene. Naphthalene shows a benzene ring fused with a cyclohexane that shows two double bonds. The cartoon representation shows 10 p orbitals each with an electron. The electrostatic potential map shows gray balls (carbons) and white balls (hydrogens). The region around the carbons is red surrounded by yellow and then green.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_06_004.jpg"/>
+    </media>
+    <caption>An orbital picture and electrostatic potential map of naphthalene, showing that the ten π electrons are fully delocalized throughout both rings.</caption>
+    </figure>
+    <para id="para-00005">Just as there are heterocyclic analogs of benzene, there are also many heterocyclic analogs of naphthalene. Among the most common are quinoline, isoquinoline, indole, and purine. Quinoline, isoquinoline, and purine all contain pyridine-like nitrogens that are part of a double bond and contribute one electron to the aromatic π system. Indole and purine both contain pyrrole-like nitrogens that contribute two π electrons.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the structures of Quinoline Isoquinoline Indole and Purine. In the first three structures the numbering of carbon atoms is anticlockwise from the second ring. In the structure of purine the numbering of carbon atoms is clockwise in the second ring and anticlockwise in the first ring. Quinoline shows two 6-membered rings fused. The first position shows a nitrogen. Isoquinoline shows two 6-membered rings fused. The second position shows a nitrogen. Indole shows a 5-membered ring fused with a benzene ring. The first position shows a nitrogen that is bonded to a hydrogen. Purine shows a 6-membered ring fused with a 5-membered ring. A nitrogen atom is shown at first third seventh and ninth positions. The nitrogen at ninth position is bonded to a hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_06_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Among the many biological molecules that contain polycyclic aromatic rings, the amino acid tryptophan contains an indole ring and the antimalarial drug quinine contains a quinoline ring. Adenine and guanine, two of the five heterocyclic amine bases found in nucleic acids, have rings based on purine.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows the structures of Tryptophan (an amino acid) Adenine (in DNA and RNA) Guanine (in DNA and RNA) and Quinine (an antimalarial agent). Tryptophan shows a benzene fused with a 5-membered ring that shows one double bond and nitrogen monohydride. The second ring is bonded to a methylene group bonded to a carbon that is bonded to a carboxylate ion wedge bonded to ammonium ion and dash bonded to a hydrogen. Adenine shows a 5-membered ring with a nitrogen and nitrogen monohydride fused with a 6-membered ring that shows two double bonds and two nitrogen atoms. The second ring is bonded to an amino group at the top. Guanine is similar to adenine but the second ring shows one double bond and one of the nitrogen atoms is bonded to a hydrogen. The ring is double bonded to an oxygen atom at the top. The other carbon is now bonded to an amino group. Quinine shows a benzene bonded to a methoxy group and fused with a 6-membered ring that shows a nitrogen. The second ring is bonded to a 5-carbon chain at the top. C1 is dash bonded to a hydrogen and wedge bonded to a hydroxyl group. C2 is bonded to a hydrogen and wedge bonded to a nitrogen. The nitrogen is wedge bonded to a methylene group at the bottom that is bonded to another methylene group bonded to C4. The nitrogen is wedge bonded to a methylene group bonded to C5. C5 is bonded to a hydrogen and a methine group double bonded to a methylene group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_15_06_006.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/15-06-OC-P11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/15-06-OC-P12"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
