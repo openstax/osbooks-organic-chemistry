@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Benzyne</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Benzyne</md:title>
+    <md:content-id>m00195</md:content-id>
+    <md:uuid>47a50b36-c66b-4de2-a1a4-2a449cec05a9</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Halobenzenes without electron-withdrawing substituents don’t react with nucleophiles under most conditions. At high temperature and pressure, however, even chlorobenzene can be forced to react. Chemists at the Dow Chemical Company discovered in 1928 that phenol could be prepared on an industrial scale by treatment of chlorobenzene with dilute aqueous NaOH at 340 °C under 170 atm pressure.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reaction in which a phenol reacts with an aryl fluoride to yield Oxyfluorfen. The phenol shows a benzene with C1 bonded to a hydroxyl group C2 bonded to a chlorine and C4 bonded to CF3. The aryl fluoride shows a benzene bonded to a fluorine nitro group and an oxygen bonded to ethyl group. Oxyfluorfen shows a benzene bonded to CF3 a chlorine and an oxygen that is bonded to a benzene bonded to a nitro group and an oxygen bonded to ethyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_07_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">A similar substitution reaction occurs with other strong bases. Treatment of bromobenzene with potassium amide (KNH<sub>2</sub>) in liquid NH<sub>3</sub> solvent, for instance, gives aniline. Curiously, though, when using bromobenzene labeled with radioactive <sup>14</sup>C at the C1 position, the substitution product has equal amounts of the label at both C1 and C2, implying the presence of a symmetrical reaction intermediate in which C1 and C2 are equivalent.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows a reaction in which bromobenzene reacts in the presence of K plus NH2 minus and ammonia to yield aniline (50:50). Bromobenzene shows a benzene with C1 a cation bonded to a bromine. The first structure of aniline shows a benzene with C1 a cation bonded to a nitro group. The second structure of aniline shows a benzene with C1 bonded to a nitro group. C2 is a cation.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_07_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Further mechanistic evidence comes from trapping experiments. When bromobenzene is treated with KNH<sub>2</sub> in the presence of a conjugated diene, such as furan, a Diels–Alder reaction <emphasis effect="bold">(<link>Section 14.4</link>)</emphasis> occurs, implying that the symmetrical intermediate is a <term id="term-00001">benzyne</term>, formed by elimination of HBr from bromobenzene. Benzyne is too reactive to be isolated as a pure compound but, in the presence of water, addition occurs to give phenol. In the presence of a diene, Diels–Alder cycloaddition takes place.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows two reactions. In the first reaction Chlorobenzene undergoes elimination to yield HCl and benzyne. Benzyne undergoes addition to yield phenol. Chlorobenzene shows benzene bonded to pink chlorine. The other carbons are bonded to a hydrogen each. One of the hydrogens is blue. An arrow from a hydroxyl group that shows six electrons points to blue hydrogen. An arrow from the C-H bond points to the adjacent double bond. An arrow from the C-Cl bond points to the chlorine. Benzyne inside parentheses shows a pink double bond outside the ring. Phenol shows a benzene bonded to 4 hydrogens a blue hydrogen and blue hydroxyl group. In the second reaction Bromobenzene reacts with NH2 minus (that shows four electrons) and ammonia to yield HBr and benzyne (symmetrical) that further reacts with ammonia to yield two aniline products (50 percent each). Bromobenzene shows a benzene with one of the carbons showing an asterisk and bonded to a pink bromine. Benzyne (symmetrical) inside parentheses shows a pink double bond outside the ring. The carbon from where the outer double bond starts shows an electron. The first structure of aniline shows a benzene ring with C1 having an asterisk and bonded to a blue nitro group. The second structure of aniline shows a benzene ring with C1 having an asterisk and C2 bonded to a blue nitro group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_07_003.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OChem_16_07_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">The electronic structure of benzyne, shown in <link>Figure 16_07_OChem-16-07-005_80485-16-19_SideView</link>, is that of a highly distorted alkyne. Although a typical alkyne triple bond uses <emphasis effect="italics">sp</emphasis>-hybridized carbon atoms, the benzyne triple bond uses <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized carbons. Furthermore, a typical alkyne triple bond has two mutually perpendicular <emphasis effect="italics">π</emphasis> bonds formed by <emphasis effect="italics">p</emphasis>–<emphasis effect="italics">p</emphasis> overlap, but the benzyne triple bond has one <emphasis effect="italics">π</emphasis> bond formed by <emphasis effect="italics">p</emphasis>–<emphasis effect="italics">p</emphasis> overlap and one <emphasis effect="italics">π</emphasis> bond formed by <emphasis effect="italics">sp</emphasis><sup>2</sup>–<emphasis effect="italics">sp</emphasis><sup>2</sup> overlap. The latter <emphasis effect="italics">π</emphasis> bond is in the plane of the ring and is very weak.</para>
+    <figure class="scaled-down" id="fig-00004">
+    <media alt="An illustration shows an orbital picture and electrostatic potential map of benzyne. The orbital picture shows the side view with 6 sp2 orbitals. Four of the carbon atoms are bonded to a hydrogen each. The other two carbons show a green orbital each Each green orbital shows an electron that are connected by two dotted lines. The electrostatic potential map shows gray balls (carbons) and white balls (hydrogens). The region around the carbons is yellow surrounded by green and blue. The region around the two carbons that are not bonded to hydrogens is red.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_07_005.jpg"/>
+    </media>
+    <caption>An orbital picture and electrostatic potential map of benzyne. The benzyne carbons are <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and the “third” bond results from weak overlap of two adjacent <emphasis effect="italics">sp</emphasis><sup>2</sup> orbitals.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005"><link class="os-embed" url="#exercise/16-07-OC-P17"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

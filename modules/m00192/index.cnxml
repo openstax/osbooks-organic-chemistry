@@ -1,0 +1,272 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Substituent Effects in Electrophilic Substitutions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Substituent Effects in Electrophilic Substitutions</md:title>
+    <md:content-id>m00192</md:content-id>
+    <md:uuid>97243847-4548-4b11-9d13-50f5cc614a4d</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Only one product can form when an electrophilic substitution occurs on benzene, but what would happen if we were to carry out a reaction on an aromatic ring that already has a substituent? The initial presence of a substituent on the ring has two effects.</para>
+    <list id="list-00001">
+    <item><emphasis effect="bold">Substituents affect the <emphasis effect="italics">reactivity</emphasis> of the aromatic ring.</emphasis> Some substituents activate the ring, making it more reactive than benzene, and some deactivate the ring, making it less reactive than benzene. In aromatic nitration, for instance, an  – OH substituent makes the ring 1000 times more reactive than benzene, while an  – NO<sub>2</sub> substituent makes the ring more than 10 million times less reactive.<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows the structures and Relative rates of nitration of 4 compounds in the following increasing order of reactivity. The first compound shows a benzene bonded to a pink nitro group. The rate is 6 multiplied by 10 to the power of minus 8. The second compound shows a benzene bonded to pink chlorine. The rate is 0.033. The third compound shows a benzene bonded to a pink hydrogen. The rate is 1. The fourth compound shows a benzene bonded to a pink hydroxyl group. The rate is 1000.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_001.jpg"/>
+    </media>
+    </figure></item>
+    <item><emphasis effect="bold">Substituents affect the <emphasis effect="italics">orientation</emphasis> of the reaction.</emphasis> The three possible disubstituted products—ortho, meta, and para—are usually not formed in equal amounts. Instead, the nature of the substituent initially present on the benzene ring determines the position of the second substitution. An  – OH group directs substitution toward the ortho and para positions, for instance, while a carbonyl group such as  – CHO directs substitution primarily toward the meta position. <link target-id="table-00001"/> lists experimental results for the nitration of some substituted benzenes.</item>
+    </list>
+    <table summary="Alt Text Placeholder" id="table-00001">
+    <title>Orientation of Nitration in Substituted Benzenes</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left" namest="c1" nameend="c4"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_16_04_002.jpg"/></media></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left" namest="c2" nameend="c4">Product (%)</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left">Ortho</entry>
+    <entry valign="top" align="left">Meta</entry>
+    <entry valign="top" align="left">Para</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left" namest="c1" nameend="c4"><emphasis effect="bold"><span class="cyan-text">Meta-directing deactivators</span></emphasis></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><m:math><m:mrow><m:msup><m:mo>–</m:mo><m:mo>+</m:mo></m:msup><m:mtext>N</m:mtext><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
+    <entry valign="top" align="left"> 2</entry>
+    <entry valign="top" align="left">87</entry>
+    <entry valign="top" align="left">11</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– NO<sub>2</sub></entry>
+    <entry valign="top" align="left"> 7</entry>
+    <entry valign="top" align="left">91</entry>
+    <entry valign="top" align="left"> 2</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– CO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">22</entry>
+    <entry valign="top" align="left">76</entry>
+    <entry valign="top" align="left"> 2</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– CN</entry>
+    <entry valign="top" align="left">17</entry>
+    <entry valign="top" align="left">81</entry>
+    <entry valign="top" align="left"> 2</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– CO<sub>2</sub>CH<sub>3</sub></entry>
+    <entry valign="top" align="left">28</entry>
+    <entry valign="top" align="left">66</entry>
+    <entry valign="top" align="left"> 6</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– COCH<sub>3</sub></entry>
+    <entry valign="top" align="left">26</entry>
+    <entry valign="top" align="left">72</entry>
+    <entry valign="top" align="left"> 2</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– CHO</entry>
+    <entry valign="top" align="left">19</entry>
+    <entry valign="top" align="left">72</entry>
+    <entry valign="top" align="left"> 9</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left" namest="c1" nameend="c4"><emphasis effect="bold"><span class="green-text">Ortho- and para-directing deactivators</span></emphasis></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– F</entry>
+    <entry valign="top" align="left">13</entry>
+    <entry valign="top" align="left">1</entry>
+    <entry valign="top" align="left">86</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– Cl</entry>
+    <entry valign="top" align="left">35</entry>
+    <entry valign="top" align="left">1</entry>
+    <entry valign="top" align="left">64</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– Br</entry>
+    <entry valign="top" align="left">43</entry>
+    <entry valign="top" align="left">1</entry>
+    <entry valign="top" align="left">56</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– I</entry>
+    <entry valign="top" align="left">45</entry>
+    <entry valign="top" align="left">1</entry>
+    <entry valign="top" align="left">54</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left" namest="c1" nameend="c4"><emphasis effect="bold"><span class="magenta-text">Ortho- and para-directing activators</span></emphasis></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– CH<sub>3</sub></entry>
+    <entry valign="top" align="left">63</entry>
+    <entry valign="top" align="left">3</entry>
+    <entry valign="top" align="left">34</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– OH</entry>
+    <entry valign="top" align="left">50</entry>
+    <entry valign="top" align="left">0</entry>
+    <entry valign="top" align="left">50</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– NHCOCH<sub>3</sub></entry>
+    <entry valign="top" align="left">19</entry>
+    <entry valign="top" align="left">2</entry>
+    <entry valign="top" align="left">79</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00002">Substituents can be classified into three groups, as shown in <link>Figure 16_04_OChem-16-04-003_80485-16-11_BenzReact</link>: <emphasis effect="italics">ortho- and para-directing activators, ortho- and para-directing deactivators,</emphasis> and <emphasis effect="italics">meta-directing deactivators.</emphasis> There are no meta-directing activators. Notice how the directing effect of a group correlates with its reactivity. All meta-directing groups are strongly deactivating, and most ortho- and para-directing groups are activating. The halogens are unique in being ortho- and para-directing but weakly deactivating.</para>
+    <figure id="fig-00002">
+    <media alt="An illustration shows the structures of some activating and deactivating groups in the following increasing order of reactivity. The first group shown in blue is Meta-directing deactivators (N plus R3 NO2 CN SO3H COCH3 COOH COOCH3 CHO). The second group shown in green is Ortho- and para-directing deactivators (I Br Cl F each with six electrons). Next is benzene (H). The next group shown in pink is Ortho- and para-directing activators (phenyl CH3 (alkyl) NHCOCH3 where N shows two electrons OCH3 where O shows four electrons OH where O shows four electrons NH2 where N shows two electrons.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_003.jpg"/>
+    </media>
+    <caption>Classification of substituent effects in electrophilic aromatic substitution. All activating groups are ortho- and para-directing, and all deactivating groups other than halogen are meta-directing. Halogens are unique in being deactivating but ortho- and para-directing.</caption>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Product of an Electrophilic Aromatic Substitution Reaction</title>
+    <para id="para-00003">Predict the major product of the sulfonation of toluene.</para>
+    <para id="para-00004"><title><span class="red-text">Strategy</span></title> Identify the substituent present on the ring, and decide whether it is ortho- and para-directing or meta-directing. According to <link>Figure 16_04_OChem-16-04-003_80485-16-11_BenzReact</link>, an alkyl substituent is ortho- and para-directing, so sulfonation of toluene will primarily give a mixture of <emphasis effect="italics">o</emphasis>-toluenesulfonic acid and <emphasis effect="italics">p</emphasis>-toluenesulfonic acid.</para>
+    <para id="para-00005"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a reaction in which toluene reacts with green SO3 and sulfuric acid to yield o-Toluenesulfonic acid and p-Toluenesulfonic acid. Toluene shows a benzene bonded to a pink methyl group. o-Toluenesulfonic acid shows a benzene bonded to a pink methyl group at C2 and SO3H at C1. p-Toluenesulfonic acid shows a benzene bonded to a pink methyl group at C4 and SO3H at C1.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_004.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/16-04-OC-P08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00007"><link class="os-embed" url="#exercise/16-04-OC-P09"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00002">
+    <title>Activating and Deactivating Effects</title>
+    <para id="para-00008">What makes a group either activating or deactivating? The common characteristic of all activating groups is that they donate electrons to the ring, thereby making the ring more electron-rich, stabilizing the carbocation intermediate, and lowering the activation energy for its formation. Conversely, the common characteristic of all deactivating groups is that they withdraw electrons from the ring, thereby making the ring more electron-poor, destabilizing the carbocation intermediate, and raising the activation energy for its formation.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structures of 3 compounds in the following increasing order of reactivity. The first compound shows benzene with an arrow pointing from C1 to blue Y. The second compound shows benzene bonded to hydrogen. The third compound shows benzene with an arrow pointing from pink Y to C1. All the compounds react with an electrophile (E plus) each. The product of first compound shows benzene with an arrow pointing from C1 to blue Y. C1 is a cation. C2 is bonded to green E and a hydrogen. Text below reads: Blue Y withdraws electrons; carbocation intermediate is less stable and ring is less reactive. The product of second compound shows benzene bonded to a hydrogen at C1 a cation. C2 is bonded to green E and a hydrogen. The product of third compound shows benzene with an arrow pointing from pink Y to C1 a cation. C2 is bonded to green E and a hydrogen. Text below reads: Y donates electrons; carbocation intermediate is more stable and ring is more reactive.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Compare the electrostatic potential maps of benzaldehyde (deactivated), chlorobenzene (weakly deactivated), and phenol (activated) with that of benzene. As shown in <link>Figure 16_04_OChem-16-04-006_80485-16-12_Benzaldehy</link>, the ring is more positive (yellow-green) when an electron-withdrawing group such as  – CHO or  – Cl is present and more negative (red) when an electron-donating group such as  – OH is present.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="An illustration shows the structures and Electrostatic potential maps of Benzaldehyde Chlorobenzene Benzene and Phenol. Benzaldehyde shows a benzene bonded to a pink aldehyde group. Chlorobenzene shows a benzene bonded to a pink chlorine. Phenol shows a benzene bonded to a pink hydroxyl group. The ball-and-stick models of the electrostatic potential maps show gray balls (carbons) white balls (hydrogens) red balls (oxygen atoms) and green ball (chlorine atom). In benzaldehyde the region around oxygen is red around carbons is shown yellow surrounded by green and then blue. The map of chlorobenzene is similar to that of benzaldehyde but the region around chlorine is yellow. In benzene the center is red surrounded by yellow and green. In phenol the region around carbons and oxygen is shown in red while that around the hydroxyl hydrogen is dark blue. The region around the other hydrogens is yellow surrounded by green.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Electrostatic potential maps of benzene and several substituted benzenes</emphasis> show that an electron-withdrawing group ( – CHO or  – Cl) makes the ring more <emphasis effect="bold"><span class="green-text">electron-poor</span></emphasis>, while an electron-donating group ( – OH) makes the ring more <emphasis effect="bold"><span class="magenta-text">electron-rich</span></emphasis>.</caption>
+    </figure>
+    <para id="para-00010">The withdrawal or donation of electrons by a substituent group is controlled by an interplay of <emphasis effect="italics">inductive effects</emphasis> and <emphasis effect="italics">resonance effects.</emphasis> As we saw in <emphasis effect="bold"><link>Section 2.1</link></emphasis>, an <term id="term-00001">inductive effect</term> is the withdrawal or donation of electrons through a <emphasis effect="italics">σ</emphasis> bond due to electronegativity. Halogens, hydroxyl groups, carbonyl groups, cyano groups, and nitro groups inductively withdraw electrons through the <emphasis effect="italics">σ</emphasis> bond linking the substituent to a benzene ring. This effect is most pronounced in halobenzenes and phenols, in which the electronegative atom is directly attached to the ring, but is also significant in carbonyl compounds, nitriles, and nitro compounds, in which the electronegative atom is farther removed. Alkyl groups, on the other hand, inductively donate electrons. This is the same hyperconjugative donating effect that causes alkyl substituents to stabilize alkenes <emphasis effect="bold">(<link>Section 7.6</link>)</emphasis> and carbocations <emphasis effect="bold">(<link>Section 7.9</link>)</emphasis>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows two sets of structures. The first set labeled Inductive electron withdrawal shows five compounds. The first compound shows benzene bonded to pink chlorine that shows delta negative charge. The second compound shows benzene bonded to pink hydroxyl group that shows delta negative charge. The third compound shows benzene bonded to carbonyl group that shows a free bond with a wavy pink line. The carbonyl oxygen is pink and shows delta negative charge. The fourth compound shows benzene bonded to a nitrile group. The nitrogen of nitrile group shows delta negative charge. The fifth compound shows benzene bonded to nitrogen cation that is single bonded to an oxygen anion and double bonded to an oxygen that shows delta positive charge. In all the compounds the carbon bonded to the groups shows delta positive charge. The second set is labeled Inductive electron donation and shows one compound. It shows benzene bonded to blue methyl group that shows delta negative charge. The carbon bonded to the methyl group shows delta positive charge.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011">A <term id="term-00002">resonance effect</term> is the withdrawal or donation of electrons through a <emphasis effect="italics">π</emphasis> bond due to the overlap of a <emphasis effect="italics">p</emphasis> orbital on the substituent with a <emphasis effect="italics">p</emphasis> orbital on the aromatic ring. Carbonyl, cyano, and nitro substituents, for example, withdraw electrons from the aromatic ring by resonance. The <emphasis effect="italics">π</emphasis> electrons flow from the ring to the substituent, leaving a positive charge in the ring. Note that substituents with an electron-withdrawing resonance effect have the general structure  –Y=Z, where the Z atom is more electronegative than Y.</para>
+    <para id="para-00012">Conversely, halogen, hydroxyl, alkoxyl ( – OR), and amino substituents donate electrons to the aromatic ring by resonance. Lone-pair electrons flow from the substituents to the ring, placing a negative charge on the ring. Substituents with an electron-donating resonance effect have the general structure <m:math><m:mrow><m:mo>–</m:mo><m:mtext>Ÿ</m:mtext></m:mrow></m:math>, where the Y atom has a lone pair of electrons available for donation to the ring.</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows the structures of eight compounds in two rows. In the first row the first structure shows benzene bonded to blue Y that shows delta positive charge and is double bonded to Z that shows delta negative charge. An arrow from a double bond of the ring points to C-Y bond. An arrow from the double bond points to Z. The second third and fourth forms are labeled Resonance electron-withdrawing groups and are shown inside parentheses. The second structure shows benzene bonded to carbonyl group that shows free bond with a wavy pink line. The carbon is blue and shows delta positive charge. The oxygen is pink and shows delta negative charge with four electrons. An arrow from a double bond of the ring points to C-carbonyl bond. An arrow from the double bond points to O. The third structure shows benzene bonded to nitrile group. The carbon is blue and shows delta positive charge. The nitrogen shows delta negative charge and two electrons. An arrow from a double bond of the ring points to C-nitrile group. An arrow from the triple bond points to N. The fourth structure shows benzene bonded to blue N that shows delta positive charge and is double bonded to an oxygen that shows delta negative charge and four electrons. The nitrogen is single bonded to an oxygen anion that shows six electrons. In the second row the first structure shows benzene bonded to pink Y that shows two electrons. An arrow from the electrons points to C-Y bond. An arrow from the double bond points to C2. The second third fourth and fifth forms are labeled Resonance electron-donating groups and are shown inside parentheses. The second structure shows benzene bonded to pink chlorine that shows six electrons. An arrow from the electrons points to C-Cl bond. An arrow from the double bond points to C2. The third structure shows benzene bonded to pink hydroxyl group that shows four electrons. An arrow from the electrons points to C-OH bond. An arrow from the double bond points to C2. The fourth structure shows benzene bonded to pink oxygen that shows four electrons and is bonded to R. An arrow from the electrons points to C-O bond. An arrow from the double bond points to C2. The fifth structure shows benzene bonded to pink amino group that shows two electrons. An arrow from the electrons points to C-N bond. An arrow from the double bond points to C2.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00013">One further point: inductive effects and resonance effects don’t necessarily act in the same direction. Halogen, hydroxyl, alkoxyl, and amino substituents, for instance, have electron-withdrawing inductive effects because of the electronegativity of the  – X,  – O, or  – N atom bonded to the aromatic ring but have electron-donating resonance effects because of the lone-pair electrons on those  – X,  – O, or  – N atoms. When the two effects act in opposite directions, the stronger effect dominates. Thus, hydroxyl, alkoxyl, and amino substituents are activators because their stronger electron-donating resonance effect outweighs their weaker electron-withdrawing inductive effect. Halogens, however, are deactivators because their stronger electron-withdrawing inductive effect outweighs their weaker electron-donating resonance effect.</para>
+    </section>
+    <section class="section-exercises" id="sect-00003">
+    <title>Problems</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00014"><link class="os-embed" url="#exercise/16-04-OC-P10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00015"><link class="os-embed" url="#exercise/16-04-OC-P11"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00004">
+    <title>Ortho- and Para-Directing Activators: Alkyl Groups</title>
+    <para id="para-00016">Inductive and resonance effects account not only for reactivity but also for the orientation of electrophilic aromatic substitutions. Take alkyl groups, for instance, which have an electron-donating inductive effect and are ortho and para directors. The results of toluene nitration are shown in <link>Figure 16_04_OChem-16-04-011_80485-16-13_MostStable</link>.</para>
+    <figure id="fig-00008">
+    <media alt="An illustration shows the nitration of toluene in three ways: at ortho position (63%) at meta position (3%) and at para position (34%) each yielding three resonance forms. Toluene shows benzene bonded to pink methyl group. Ortho position: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink methyl group. C2 is bonded to a hydrogen and green nitro group. The first form is most stable and highlighted. It shows C1 as cation and double bonds are at C3 and C5. An arrow from the double bond at C5 points to C5-C6 bond. The second form shows C5 as cation and double bonds are at C3 and C6. An arrow from the double bond at C3 points to C4-C5 bond. The third form shows C3 as cation and double bonds are at C4 and C6. Meta position: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink methyl group. C3 is bonded to a hydrogen and green nitro group. The first form shows C2 as cation and double bonds are at C4 and C6. An arrow from the double bond at C6 points to C1-C2 bond. The second form shows C6 as cation and double bonds are at C1 and C4. An arrow from the double bond at C4 points to C5-C6 bond. The third form shows C4 as cation and double bonds are at C1 and C5. Para position: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink methyl group. C4 is bonded to a hydrogen and green nitro group. The first shows C3 as cation and double bonds are at C1 and C5. An arrow from the double bond at C1 points to C2-C3 bond. The second is most stable and highlighted. It shows C1 as cation and double bonds are at C2 and C5. An arrow from the double bond at C5 points to C6-C1 bond. The third form shows C5 as cation and double bonds are at C2 and C6.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_011.jpg"/>
+    </media>
+    <caption>Carbocation intermediates in the nitration of toluene. Ortho and para intermediates are more stable than the meta intermediate because the positive charge is on a tertiary carbon rather than a secondary carbon.</caption>
+    </figure>
+    <para id="para-00017">Nitration of toluene might occur either ortho, meta, or para to the methyl group, giving the three carbocation intermediates shown in in <link>Figure 16_04_OChem-16-04-011_80485-16-13_MostStable</link>. Although all three intermediates are resonance-stabilized, the ortho and para intermediates are more stabilized than the meta intermediate. For both the ortho and para reactions, but not for the meta reaction, a resonance form places the positive charge directly on the methyl-substituted carbon, where it is in a tertiary position and can be stabilized by the electron-donating inductive effect of the methyl group. The ortho and para intermediates are thus lower in energy than the meta intermediate and form faster.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Ortho- and Para-Directing Activators: OH and NH<sub>2</sub></title>
+    <para id="para-00018">Hydroxyl, alkoxyl, and amino groups are also ortho–para activators, but for a different reason than for alkyl groups. As described earlier in this section, hydroxyl, alkoxyl, and amino groups have a strong, electron-donating resonance effect that outweighs a weaker electron-withdrawing inductive effect. When phenol is nitrated, for instance, reaction can occur either ortho, meta, or para to the  – OH group, giving the carbocation intermediates shown in <link>Figure 16_04_OChem-16-04-012_80485-16-14_Phenol</link>. The ortho and para intermediates are more stable than the meta intermediate because they have more resonance forms, including one particularly favorable form that allows the positive charge to be stabilized by electron donation from the substituent oxygen atom. The intermediate from the meta reaction has no such stabilization.</para>
+    <figure id="fig-00009">
+    <media alt="An illustration shows the nitration of phenol in three ways: at ortho position (50%) at meta position (0%) and at para position (50%) each yielding different resonance forms. Phenol shows benzene bonded to pink hydroxyl group that shows four electrons. Ortho attack: In all the four resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink hydroxyl group with four electrons. C2 is bonded to a hydrogen and green nitro group. The first form shows C1 as cation and double bonds are at C3 and C5. An arrow from the electrons points to C-OH bond. The second form is most stable and highlighted. It shows oxygen as cation and double bonds are at C3 and C5. An arrow from the double bond points to the electrons. An arrow from the double bond at C5 points to C6-C1 bond. The third form shows C5 as cation and double bonds are at C3 and C6. An arrow from the double bond at C3 points to C4-C5 bond. The fourth form shows C3 as cation and double bonds are at C4 and C6. Meta attack: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink hydroxyl group with four electrons. C3 is bonded to a hydrogen and green nitro group. The first form shows C2 as cation and double bonds are at C4 and C6. An arrow from the double bond at C6 points to C1-C2 bond. The second form shows C6 as cation and double bonds are at C1 and C4. An arrow from the double bond at C4 points to C5-C6 bond. The third form shows C4 as cation and double bonds are at C1 and C5. Para attack: In all the four resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink methyl group. C4 is bonded to a hydrogen and green nitro group. The first shows C3 as cation and double bonds are at C1 and C5. An arrow from the double bond at C1 points to C2-C3 bond. The second form shows C1 as cation and double bonds are at C2 and C5. An arrow from the electrons of hydroxyl group points to C-OH bond. The third form is most stable and highlighted. It shows the oxygen as cation and double bonds are at C2 and C5. An arrow from the double bond at C5 points to C6-C1 bond. An arrow from the C1-OH bond points to the electrons of hydroxyl group. The fourth form shows C5 as cation and double bonds are at C1 and C6.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_012.jpg"/>
+    </media>
+    <caption>Carbocation intermediates in the nitration of phenol. The ortho and para intermediates are more stable than the meta intermediate because they have more resonance forms, including one particularly favorable form that involves electron donation from the oxygen atom.</caption>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00006">
+    <title>Problems</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00019"><link class="os-embed" url="#exercise/16-04-OC-P12"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00007">
+    <title>Ortho- and Para-Directing Deactivators: Halogens</title>
+    <para id="para-00020">Halogens are deactivating because their stronger electron-withdrawing inductive effect outweighs their weaker electron-donating resonance effect. Although weak, that electron-donating resonance effect is nevertheless felt only at the ortho and para positions and not at the meta position (<link>Figure 16_04_OChem-16-04-014_80485-16-15_Chlorobenz</link>). Thus, a halogen substituent can stabilize the positive charge of the carbocation intermediates from ortho and para reaction in the same way that hydroxyl and amino substituents can. The meta intermediate, however, has no such stabilization and is therefore formed more slowly.</para>
+    <figure id="fig-00010">
+    <media alt="An illustration shows the nitration of chlorobenzene in three ways: ortho attack (35%) meta attack (1%) and para attack (64%) each yielding different resonance forms. Chlorobenzene shows benzene bonded to pink chlorine that shows six electrons. Ortho attack: In all the four resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink chlorine with four electrons. C2 is bonded to a hydrogen and green nitro group. The first form shows C1 as cation and double bonds are at C3 and C5. An arrow from the electrons points to C1-Cl bond. The second form is most stable and highlighted. It shows chlorine as cation and double bonds are at C3 and C5. An arrow from the double bond points to the electrons. An arrow from the double bond at C5 points to C6-C1 bond. The third form shows C5 as cation and double bonds are at C3 and C6. An arrow from the double bond at C3 points to C4-C5 bond. The fourth form shows C3 as cation and double bonds are at C4 and C6. Meta attack: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink chlorine with six electrons. C3 is bonded to a hydrogen and green nitro group. The first form shows C2 as cation and double bonds are at C4 and C6. An arrow from the double bond at C6 points to C1-C2 bond. The second form shows C6 as cation and double bonds are at C1 and C4. An arrow from the double bond at C4 points to C5-C6 bond. The third form shows C4 as cation and double bonds are at C1 and C5. Para attack: In all the four resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink chlorine with six electrons. C4 is bonded to a hydrogen and green nitro group. The first shows C1 as cation and double bonds are at C2 and C5. An arrow from the electrons of chlorine points to C1-Cl bond. The second form is most stable and is highlighted. It shows chlorine as cation and double bonds are at C2 and C5. An arrow from the C1-Cl double bond points to chlorine. An arrow from the C2-C3 double bond points to C1-C2 bond. The third form shows C3 as cation and double bonds are at C1 and C5. An arrow from the double bond at C1 points to C2-C3 bond. An arrow from the double bond at C5 points to the C6-C1 bond. The fourth form shows C5 as cation and double bonds are at C1 and C6.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_014.jpg"/>
+    </media>
+    <caption>Carbocation intermediates in the nitration of chlorobenzene. The ortho and para intermediates are more stable than the meta intermediate because of electron donation of the halogen lone-pair electrons.</caption>
+    </figure>
+    <para id="para-00021">Note again that halogens, hydroxyl, alkoxyl, and amino groups all withdraw electrons inductively but donate electrons by resonance. Halogens have a stronger electron-withdrawing inductive effect but a weaker electron-donating resonance effect and are thus deactivators. Hydroxyl, alkoxyl, and amino groups have a weaker electron-withdrawing inductive effect but a stronger electron-donating resonance effect and are thus activators. All are ortho and para directors, however, because of the lone pair of electrons on the atom bonded to the aromatic ring.</para>
+    </section>
+    <section id="sect-00008">
+    <title>Meta-Directing Deactivators</title>
+    <para id="para-00022">The influence of meta-directing substituents can be explained using the same kinds of arguments used for ortho and para directors. Look at the nitration of benzaldehyde, for instance (<link>Figure 16_04_OChem-16-04-015_80485-16-16_Benzaldehy</link>). Of the three possible carbocation intermediates, the meta intermediate has three favorable resonance forms, whereas the ortho and para intermediates have only two. In both ortho and para intermediates, the third resonance form is unfavorable because it places the positive charge directly on the carbon that bears the aldehyde group, where it is disfavored by a repulsive interaction with the positively polarized carbon atom of the C=O group. Hence, the meta intermediate is more favored and is formed faster than the ortho and para intermediates.</para>
+    <figure id="fig-00011">
+    <media alt="An illustration shows the nitration of benzaldehyde in three ways: ortho attack (19%) meta attack (72%) and para attack (9%) each yielding three resonance forms. Benzaldehyde shows benzene bonded to pink aldehyde group whose carbon shows delta positive charge and oxygen shows delta negative charge. Ortho attack: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink aldehyde group. C2 is bonded to a hydrogen and green nitro group. The first form is most stable and highlighted. It shows C1 as cation and double bonds are at C3 and C5. An arrow from the double bond at C5 points to C6-C1 bond. The second form shows C5 as cation and double bonds are at C3 and C6. An arrow from the double bond at C3 points to C4-C5 bond. The third form shows C3 as cation and double bonds are at C4 and C6. Meta attack: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink aldehyde group. C3 is bonded to a hydrogen and green nitro group. The first form shows C4 as cation and double bonds are at C1 and C5. An arrow from the double bond at C5 points to C4-C5 bond. The second form shows C6 as cation and double bonds are at C1 and C4. An arrow from the double bond at C1 points to C6-C1 bond. The third form shows C2 as cation and double bonds are at C4 and C6. Para attack: In all the three resonance forms a cyclohexane shows two double bonds. C1 is bonded to a pink aldehyde group. C4 is bonded to a hydrogen and green nitro group. The first shows C3 as cation and double bonds are at C1 and C5. An arrow from the double bond at C1 points to C2-C3 bond. The second form is most stable and highlighted. It shows C1 as cation and double bonds are at C2 and C5. An arrow from the double bond at C5 points to C6-C1 bond. The third form shows C5 as cation and double bonds are at C2 and C6.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_04_015.jpg"/>
+    </media>
+    <caption>Carbocation intermediates in the nitration of benzaldehyde. The ortho and para intermediates are less stable than the meta intermediate. The meta intermediate is more favorable than ortho and para intermediates because it has three favorable resonance forms rather than two.</caption>
+    </figure>
+    <para id="para-00023">In general, any substituent that has a positively polarized atom (<emphasis effect="italics">δ</emphasis><sup>+</sup>) directly attached to the ring will make one of the resonance forms of the ortho and para intermediates unfavorable and will thus act as a meta director.</para>
+    </section>
+    <section class="section-exercises" id="sect-00009">
+    <title>Problems</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00024"><link class="os-embed" url="#exercise/16-04-OC-P13"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
