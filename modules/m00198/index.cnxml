@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Synthesis of Polysubstituted Benzenes</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Synthesis of Polysubstituted Benzenes</md:title>
@@ -6,6 +6,536 @@
     <md:uuid>61414901-3d54-45d0-972a-e81bb7e8d65f</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">123</para>
-  </content>
+    <para id="para-00001">As discussed in the <emphasis effect="bold">Introduction to Organic Synthesis</emphasis> in <link document="m00111">Section 9.9</link>, one of the surest ways to learn organic chemistry is to work synthesis problems. The ability to plan a successful multistep synthesis of a complex molecule requires a working knowledge of the uses and limitations of a great many organic reactions. Not only must you know which reactions to use, you must also know when to use them because the order in which reactions are carried out is often critical to the success of the overall scheme.</para>
+    <para id="para-00002">The ability to plan a sequence of reactions in the right order is particularly important in the synthesis of substituted aromatic rings, where the introduction of a new substituent is strongly affected by the directing effects of other substituents. Planning syntheses of substituted aromatic compounds is therefore a good way to gain confidence in using the many reactions discussed in the past few chapters.</para>
+    <para id="para-00003">As we said in <emphasis effect="bold"><link document="m00111">Section 9.9</link></emphasis>, it’s usually best to work a synthesis problem backward, or <emphasis effect="italics">retrosynthetically.</emphasis> Look at the target molecule and ask yourself, “What is an immediate precursor of this compound?” Choose a likely answer and continue working backward, one step at a time, until you arrive at a simple starting material. Let’s try some examples.</para>
+    <example id="exam-00001">
+    <title>Synthesizing a Polysubstituted Benzene</title>
+    <para id="para-00004">How would you synthesize 4-bromo-2-nitrotoluene from benzene?</para>
+    <para id="para-00005"><title><span class="red-text">Strategy</span></title> Draw the target molecule, identify the substituents, and recall how each group can be introduced separately. Then plan retrosynthetically.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows the structure of 4-Bromo-2-nitrotoluene. A benzene ring is shown with C1 bonded to a methyl group C2 bonded to a nitro group and C4 bonded to a bromine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">The three substituents on the ring are a bromine, a methyl group, and a nitro group. A bromine can be introduced by bromination with Br<sub>2</sub>/FeBr<sub>3</sub>, a methyl group can be introduced by Friedel–Crafts alkylation with CH<sub>3</sub>Cl/AlCl<sub>3</sub>, and a nitro group can be introduced by nitration with HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>.</para>
+    <para id="para-00007"><title><span class="cyan-text">Solution</span></title> Ask yourself, “What is an immediate precursor of the target?” The final step will involve introduction of one of three groups—bromine, methyl, or nitro—so we have to consider three possibilities. Of the three, the bromination of <emphasis effect="italics">o</emphasis>-nitrotoluene could be used because the activating methyl group would dominate the deactivating nitro group and direct bromination to the correct position. Unfortunately, a mixture of product isomers would be formed. A Friedel–Crafts reaction can’t be used as the final step because this reaction doesn’t work on a nitro-substituted (strongly deactivated) benzene. The best precursor of the desired product is probably <emphasis effect="italics">p</emphasis>-bromotoluene, which can be nitrated ortho to the activating methyl group to give a single product.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows two possible reactions and an impossible reaction in which 4-Bromo-2-nitrotoluene is synthesized. In the first reaction o-Nitrotoluene reacts with pink bromine and FeBr3 to yield the product. The structure of o-Nitrotoluene shows a benzene with C1 bonded to blue methyl group and C2 bonded to blue nitro group. Two green arrows point to C4 and C6. Text below reads: This ring will give a mixture of isomers on bromination. In the second reaction m-Bromonitrobenzene does not yield the product. The structure of m-Bromonitrobenzene shows a benzene with C1 bonded to blue nitro group and C3 bonded to pink bromine. Text below reads: This deactivated ring will not undergo a Friedel–Crafts reaction. In the third reaction p-Bromotoluene reacts with blue nitric acid and sulfuric acid and yields the product. The structure of p-Bromotoluene shows a benzene with C1 bonded to green methyl group and C4 bonded to pink bromine. Two green arrows point to C2 and C6. Text below reads: This ring will give only the desired isomer on nitration. 4-Bromo-2-nitrotoluene shows a benzene with C1 bonded to green methyl group C2 bonded to blue nitro group and C4 bonded to pink bromine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">Next ask, “What is an immediate precursor of <emphasis effect="italics">p</emphasis>-bromotoluene?” Perhaps toluene is an immediate precursor because the methyl group would direct bromination to the ortho and para positions. Alternatively, bromobenzene might be an immediate precursor because we could carry out a Friedel–Crafts methylation and obtain a mixture of ortho and para products. Both answers are satisfactory, although both would also lead unavoidably to a mixture of products that would have to be separated.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows two reactions. In the first reaction toluene reacts with pink bromine and FeBr3 to yield p-Bromotoluene (plus ortho isomer). Toluene shows benzene bonded to green methyl group. p-Bromotoluene shows benzene with C1 bonded to green methyl group and C4 bonded to pink bromine. In the second reaction bromobenzene reacts with green CH3Cl and AlCl3 to yield p-Bromotoluene (plus ortho isomer). Bromobenzene shows benzene bonded to pink bromine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">“What is an immediate precursor of toluene?” Benzene, which could be methylated in a Friedel–Crafts reaction. Alternatively, “What is an immediate precursor of bromobenzene?” Benzene, which could be brominated.</para>
+    <para id="para-00010">The retrosynthetic analysis has provided two valid routes from benzene to 4-bromo-2-nitrotoluene.</para>
+    <figure class="unnumbered" id="fig-00004">
+    <media alt="An illustration shows two reactions. In the first reaction benzene reacts with green CH3Cl and AlCl3 to yield toluene that reacts with pink bromine and FeBr3 to yield p-Bromotoluene which reacts with blue nitric acid and sulfuric acid to yield 4-Bromo-2-nitrotoluene. Toluene shows benzene bonded to green methyl group. p-Bromotoluene shows benzene with C1 bonded to green methyl group and C4 bonded to pink bromine. 4-Bromo-2-nitrotoluene shows benzene with C1 bonded to green methyl group C2 bonded to blue nitro group and C4 bonded to pink bromine. In the second reaction benzene reacts with pink bromine and FeBr3 to yield bromobenzene that reacts with green CH3Cl and AlCl3 to yield p-Bromotoluene and the further reaction yields 4-Bromo-2-nitrotoluene. Bromobenzene shows benzene bonded to pink bromine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_004.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <example id="exam-00002">
+    <title>Synthesizing a Polysubstituted Benzene</title>
+    <para id="para-00011">Synthesize 4-chloro-2-propylbenzenesulfonic acid from benzene.</para>
+    <para id="para-00012"><title><span class="red-text">Strategy</span></title> Draw the target molecule, identify its substituents, and recall how each of the three can be introduced. Then plan retrosynthetically.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows the structure of 4-Chloro-2-propylbenzenesulfonic acid. A benzene ring is shown with C1 bonded to SO3H C2 bonded to a propyl group and C4 bonded to a chlorine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00013">The three substituents on the ring are a chlorine, a propyl group, and a sulfonic acid group. A chlorine can be introduced by chlorination with Cl<sub>2</sub>/FeCl<sub>3</sub>, a propyl group can be introduced by Friedel–Crafts acylation with CH<sub>3</sub>CH<sub>2</sub>COCl/AlCl<sub>3</sub> followed by reduction with H<sub>2</sub>/Pd, and a sulfonic acid group can be introduced by sulfonation with SO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>.</para>
+    <para id="para-00014"><title><span class="cyan-text">Solution</span></title> “What is an immediate precursor of the target?” The final step will involve introduction of one of three groups—chlorine, propyl, or sulfonic acid—so we have to consider three possibilities. Of the three, the chlorination of <emphasis effect="italics">o</emphasis>-propylbenzenesulfonic acid can’t be used because the reaction would occur at the wrong position. Similarly, a Friedel–Crafts reaction can’t be used as the final step because this reaction doesn’t work on sulfonic-acid-substituted (strongly deactivated) benzenes. Thus, the immediate precursor of the desired product is probably <emphasis effect="italics">m</emphasis>-chloropropylbenzene, which can be sulfonated to give a mixture of product isomers that must then be separated.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows two impossible reactions and a possible reaction in which 4-Chloro-2-propylbenzenesulfonic acid is synthesized. In the first reaction o-Propylbenzenesulfonic acid does not yield the product. The structure of o-Propylbenzenesulfonic acid shows a benzene with C1 bonded to blue SO3H and C2 bonded to green propyl group. Two green arrows point to C3 and C5. Text below reads: This ring will give the wrong isomer on chlorination. In the second reaction p-Chlorobenzenesulfonic acid does not yield the product. The structure of p-Chlorobenzenesulfonic acid shows a benzene with C1 bonded to blue SO3H and C4 bonded to pink chlorine. Text below reads: This deactivated ring will not undergo a Friedel–Crafts reaction. In the third reaction m-Chloropropylbenzene reacts with blue SO3 and sulfuric acid and yields the product. The structure of m-Chloropropylbenzene shows a benzene with C1 bonded to green propyl group and C3 bonded to pink chlorine. Two green arrows point to C4 and C6. Text below reads: This ring will give the desired product on sulfonation. 4-Chloro-2-propylbenzenesulfonic acid shows a benzene with C1 bonded to blue SO3H C2 bonded to green propyl group and C4 bonded to pink chlorine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00015">“What is an immediate precursor of <emphasis effect="italics">m</emphasis>-chloropropylbenzene?” Because the two substituents have a meta relationship, the first substituent placed on the ring must be a meta director so that the second substitution will take place at the proper position. Furthermore, because primary alkyl groups such as propyl can’t be introduced directly by Friedel–Crafts alkylation, the precursor of <emphasis effect="italics">m</emphasis>-chloropropylbenzene is probably <emphasis effect="italics">m</emphasis>-chloropropiophenone, which could be catalytically reduced.</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows a reaction in which m-Chloropropiophenone reacts with H2 Pd and carbon to yield m-Chloropropylbenzene. m-Chloropropiophenone shows a benzene ring with C1 bonded to an ethyl acetate group and C3 bonded to a chlorine atom. The ethyl acetate group is shown in green. m-Chloropropylbenzene shows a benzene ring with C1 bonded to a green propyl group and C3 bonded to a chlorine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00016">“What is an immediate precursor of <emphasis effect="italics">m</emphasis>-chloropropiophenone?” Propiophenone, which could be chlorinated in the meta position.</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows a reaction in which Propiophenone reacts with pink chlorine and FeCl3 to yield m-Chloropropiophenone. Propiophenone shows a benzene ring with C1 bonded to an ethyl acetate group. m-Chloropropiophenone shows a benzene ring with C1 bonded to an ethyl acetate group and C3 bonded to a pink chlorine atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00017">“What is an immediate precursor of propiophenone?” Benzene, which could undergo Friedel–Crafts acylation with propanoyl chloride and AlCl<sub>3</sub>.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <media alt="An illustration shows a reaction in which benzene reacts with green propanoyl chloride and AlCl3 to yield propiophenone. Propiophenone shows a benzene ring with C1 bonded to a green ethyl acetate group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00018">The final synthesis is a four-step route from benzene:</para>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows a four-step reaction in which benzene reacts with green propanoyl chloride and AlCl3 to yield propiophenone that further reacts with pink chlorine and FeCl3 to yield m-Chloropropiophenone which reacts with green hydrogen Pd and C to yield m-Chloropropylbenzene that reacts with blue SO3 and sulfuric acid to yield 4-Chloro-2-propylbenzenesulfonic acid. Propiophenone shows a benzene ring with C1 bonded to a green ethyl acetate group. m-Chloropropiophenone is similar to propiophenone but C3 of the ring is bonded to a pink chlorine. m-Chloropropylbenzene shows a benzene ring with C1 bonded to a green propyl group and C3 bonded to a pink chlorine. 4-Chloro-2-propylbenzenesulfonic acid shows a benzene ring with C1 bonded to a blue SO3H C2 bonded to a green propyl group and C4 bonded to a pink chlorine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_010.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00019">Planning an organic synthesis has been compared with playing chess. There are no tricks; all that’s required is a knowledge of the allowable moves (the organic reactions) and the discipline to plan ahead, carefully evaluating the consequences of each move. Practicing may not be easy, but it’s a great way to learn organic chemistry.</para>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00020"><link class="os-embed" url="#exercise/16-10-OC-P22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00021"><link class="os-embed" url="#exercise/16-10-OC-P23"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="sect-00002">
+    <title>Combinatorial Chemistry</title>
+    <para id="para-00022">Traditionally, organic compounds have been synthesized one at a time. This works well for preparing large amounts of a few substances, but it doesn’t work so well for preparing small amounts of a great many substances. This latter goal is particularly important in the pharmaceutical industry, where vast numbers of structurally similar compounds must be synthesized and screened to find an optimum drug candidate.</para>
+    <para id="para-00023">To speed the process of drug discovery, <term id="term-00001">combinatorial chemistry</term> has been developed to prepare what are called <emphasis effect="italics">combinatorial libraries,</emphasis> in which anywhere from a few dozen to several hundred thousand substances are prepared simultaneously. Among the early successes of combinatorial chemistry is the development of a benzodiazepine library, a class of aromatic compounds commonly used as antianxiety agents.</para>
+    <figure class="unnumbered scaled-down" id="fig-00011">
+    <media alt="An illustration shows the structure of a compound in which a benzene ring is fused with a 7-membered ring that shows one double bond and two nitrogen atoms. A nitrogen is bonded to R4. The 7-membered ring is single bonded to R2 and R3 and double bonded to an oxygen. R1 is pointed to benzene. Text reads: Benzodiazepine library (R1–R4 are various organic substituents).">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_012.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00024">Two main approaches to combinatorial chemistry are used—<emphasis effect="italics">parallel synthesis</emphasis> and <emphasis effect="italics">split synthesis.</emphasis> In parallel synthesis, each compound is prepared independently. Typically, a reactant is first linked to the surface of polymer beads, which are then placed into small wells on a 96-well glass plate. Programmable robotic instruments add different sequences of building blocks to the different wells, thereby making 96 different products. When the reaction sequences are complete, the polymer beads are washed and their products are released.</para>
+    <para id="para-00025">In split synthesis, the initial reactant is again linked to the surface of polymer beads, which are then divided into several groups. A different building block is added to each group of beads, the different groups are combined, and the reassembled mix is again split to form new groups. Another building block is added to each group, the groups are again combined and redivided, and the process continues. If, for example, the beads are divided into four groups at each step, the number of compounds increases in the progression <m:math><m:mrow><m:mn>4</m:mn><m:mo>→</m:mo><m:mn>16</m:mn><m:mo>→</m:mo><m:mn>64</m:mn><m:mo>→</m:mo><m:mn>256</m:mn></m:mrow></m:math>. After 10 steps, more than 1 million compounds have been prepared (<link>Figure 16_98_OChem-16-10-014_80485-16-21_SplitSyn</link>).</para>
+    <para id="para-00026">Of course, with so many different final products mixed together, the problem is to identify them. What structure is linked to what bead? Several approaches to this problem have been developed, all of which involve the attachment of encoding labels to each polymer bead to keep track of the chemistry each has undergone. Encoding labels used thus far have included proteins, nucleic acids, halogenated aromatic compounds, and even computer chips.</para>
+    <figure class="scaled-down-30" id="fig-00012">
+        <media alt="Alt Text Placeholder">
+          <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    <!--<image mime-type="image/jpeg" src="../../media/OChem_16_98_Robot.jpg"/>-->
+    </media>
+    <caption>Organic chemistry by robot means no spilled flasks!</caption>
+    </figure>
+    <figure class="scaled-down" id="fig-00013">
+    <media alt="An illustration shows a chart representing the results of split synthesis. ‘A’ after step 1 yields four compounds: AB1 (combination with B1) AB2 (combination with B2) AB3 (combination with B3) and AB4 (combination with B4). The products of step 2 are as follows: AB1C1 AB2C1 AB3C1 AB4C1 (combination with C1) AB1C2 AB2C2 AB3C2 AB4C2 (combination with C2) AB1C3 AB2C3 AB3C3 AB4C3 (combination with C3) and AB1C4 AB2C4 AB3C4 AB4C4 (combination with C4). The products of step 3 are as follows: AB1C1D1 AB2C1D1 AB3C1D1 AB4C1D1 AB1C2D1 AB2C2D1 AB3C2D1 AB4C2D1 AB1C3D1 AB2C3D1 AB3C3D1 AB4C3D1 AB1C4D1 AB2C4D1 AB3C4D1 AB4C4D1 (combination with D1) 16 products (combination with D2) 16 products (combination with D3) and 16 products (combination with D4).">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_10_014.jpg"/>
+    </media>
+    <caption>The results of split combinatorial synthesis. Assuming that 4 different building blocks are used at each step, 64 compounds result after 3 steps, and more than one million compounds result after 10 steps.</caption>
+    </figure>
+    </section>
+    <section class="key-terms" id="sect-00003">
+    <list id="list-00001">
+    <item>acyl group</item>
+    <item>acylation</item>
+    <item>alkylation</item>
+    <item>benzyne</item>
+    <item>combinatorial chemistry</item>
+    <item>electrophilic aromatic substitution</item>
+    <item>Friedel–Crafts reaction</item>
+    <item>inductive effect</item>
+    <item>nucleophilic aromatic substitution</item>
+    <item>resonance effect</item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title>Summary</title>
+    <para id="para-00027">We’ve continued the coverage of aromatic molecules in this chapter, shifting focus to concentrate on reactions. In particular, we’ve looked at the relationship between aromatic structure and reactivity, a relationship critical to understanding how numerous biological molecules and pharmaceutical agents are synthesized and why they behave as they do.</para>
+    <para id="para-00028">An <emphasis effect="bold">electrophilic aromatic substitution reaction</emphasis> takes place in two steps—initial reaction of an electrophile, <emphasis effect="bold">E<sup>+</sup></emphasis>, with the aromatic ring, followed by loss of H<sup>+</sup> from the resonance-stabilized carbocation intermediate to regenerate the aromatic ring.</para>
+    <figure class="unnumbered scaled-down" id="fig-00014">
+    <media alt="An illustration shows a two-step reaction in which benzene reacts with a pink electrophile (E plus) to yield a carbocation intermediate that reacts with a base to yield a product. An arrow from the benzene ring points to the electrophile. The intermediate shows a cyclohexane with two double bonds. C1 is bonded to pink E and blue H. C2 is a cation. An arrow from the base (that shows two electrons) points to the blue hydrogen. The product shows a benzene ring bonded to pink E.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00029">Many variations of the reaction can be carried out, including halogenation, nitration, and sulfonation. <emphasis effect="bold">Friedel–Crafts alkylation</emphasis> and <emphasis effect="bold">acylation</emphasis> reactions, which involve reaction of an aromatic ring with carbocation electrophiles, are particularly useful. They are limited, however, by the fact that the aromatic ring must be at least as reactive as a halobenzene. In addition, polyalkylation and carbocation rearrangements often occur in Friedel–Crafts alkylation.</para>
+    <para id="para-00030">Substituents on the benzene ring affect both the reactivity of the ring toward further substitution and the orientation of that substitution. Groups can be classified as ortho- and para-directing activators, ortho- and para-directing deactivators, or meta-directing deactivators. Substituents influence aromatic rings by a combination of resonance and inductive effects. <emphasis effect="bold">Resonance effects</emphasis> are transmitted through <emphasis effect="italics">π</emphasis> bonds; <emphasis effect="bold">inductive effects</emphasis> are transmitted through <emphasis effect="italics">σ</emphasis> bonds.</para>
+    <para id="para-00031">Halobenzenes undergo <emphasis effect="bold">nucleophilic aromatic substitution</emphasis> through either of two mechanisms. If the halobenzene has a strongly electron-withdrawing substituent in the ortho or para position, substitution occurs by addition of a nucleophile to the ring, followed by elimination of halide from the intermediate anion. If the halobenzene is not activated by an electron-withdrawing substituent, substitution can occur by elimination of HX to give a <emphasis effect="bold">benzyne</emphasis>, followed by addition of a nucleophile.</para>
+    <para id="para-00032">The benzylic position of an alkylbenzene can be brominated by reaction with <emphasis effect="italics">N</emphasis>-bromosuccinimide, and the entire side chain can be degraded to a carboxyl group by oxidation with aqueous KMnO<sub>4</sub>. Aromatic rings can also be reduced to cyclohexanes by hydrogenation over a platinum or rhodium catalyst, and aryl alkyl ketones are reduced to alkylbenzenes by hydrogenation over a platinum catalyst.</para>
+    </section>
+    <section class="summary-reactions" id="sect-00005">
+    <title>Summary of Reactions</title>
+    <list list-type="enumerated" id="list-00002">
+    <item>Electrophilic aromatic substitution
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+    <item>Fluorination (<link document="m00190">Section 16.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00015">
+    <media alt="An illustration shows a reaction in which benzene reacts with (F-TEDA-BF4) to yield a product. F-TEDA-BF4 shows a cyclohexane with a blue nitrogen cation at C1 and C4. C1 is bonded to chloro methane and C4 is bonded to a pink fluorine. 2BF4 minus is shown at the top. The product shows a benzene bonded to a pink fluorine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_002.jpg"/>
+    </media>
+    </figure></item>
+    <item>Bromination (<link document="m00189">Section 16.1</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00016">
+    <media alt="An illustration shows the bromination reaction of benzene in the presence of FeBr3 to yield bromobenzene and HBr. The bromine atoms are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_003.jpg"/>
+    </media>
+    </figure></item>
+    <item>Chlorination (<link document="m00190">Section 16.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00017">
+    <media alt="An illustration shows the chlorination reaction of benzene in the presence of pink chlorine and FeCl3 to yield chlorobenzene and HCl. The chlorine atoms are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_004.jpg"/>
+    </media>
+    </figure></item>
+    <item>Iodination (<link document="m00190">Section 16.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00018">
+    <media alt="An illustration shows the iodination reaction of benzene in the presence of CuCl2 to yield iodobenzene and HI. The iodine atoms are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_005.jpg"/>
+    </media>
+    </figure></item>
+    <item>Nitration (<link document="m00190">Section 16.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00019">
+    <media alt="An illustration shows the reaction of benzene with pink nitric acid in the presence of H2SO4 to yield nitrobenzene and water. The nitro group and water are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_006.jpg"/>
+    </media>
+    </figure></item>
+    <item>Sulfonation (<link document="m00190">Section 16.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00020">
+    <media alt="An illustration shows the sulfonation reaction of benzene with pink SO3 in the presence of H2SO4 to yield a benzene ring bonded to a pink SO3H.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_007.jpg"/>
+    </media>
+    </figure></item>
+    <item>Friedel–Crafts alkylation (<link document="m00191">Section 16.3</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00021">
+    <media alt="An illustration shows a reaction of benzene with pink CH3Cl in the presence of AlCl3 to yield HCl and a benzene ring bonded to a pink methyl group. Text below benzene reads: Aromatic ring. Alkyl halide. Text below the major product reads: Must be at least as reactive as a halobenzene. Primary alkyl halides undergo carbocation rearrangement.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_008.jpg"/>
+    </media>
+    </figure><newline/>
+    <m:math><m:mrow><m:mtable columnalign="left" equalrows="true" equalcolumns="true"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mtext>Aromatic ring.</m:mtext></m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow><m:mtext>Must be at least as reactive as a halobenzene.</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mtext>Alkyl halide.</m:mtext></m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow><m:mtext>Primary alkyl halides undergo carbocation rearrangement.</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></item>
+    <item>Friedel–Crafts acylation (<link document="m00191">Section 16.3</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00022">
+    <media alt="An illustration shows a reaction in which benzene reacts with pink methanoyl chloride in the presence of AlCl3 to yield HCl and another product. Methanoyl chloride shows a methyl group bonded to a carbonyl group bonded to chlorine. The product shows a benzene bonded to a pink carbonyl group bonded to pink methyl group. The chlorine atom is shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_009.jpg"/>
+    </media>
+    </figure>
+    </item></list></item>
+    <item>Reduction of aromatic nitro groups (<link document="m00190">Section 16.2</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00023">
+    <media alt="An illustration shows a reaction in which nitrobenzene reacts in the presence of blue Fe blue hydronium ion and hydroxyl ion to yield a product. Nitrobenzene shows a benzene bonded to a pink nitro group. The product shows a benzene bonded to a pink amino group in which the nitrogen is shown in pink and hydrogen atoms are shown in blue.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_010.jpg"/>
+    </media>
+    </figure></item>
+    <item>Nucleophilic aromatic substitution
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+    <item>By addition to activated aryl halides (<link document="m00194">Section 16.6</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00024">
+    <media alt="An illustration shows a reaction in which 2 4 6-Trinitrochlorobenzene reacts in the presence of blue Na plus OH minus and water to yield 2 4 6-Trinitrophenol and sodium chloride. The structure of 2 4 6-Trinitrochlorobenzene shows a benzene with C1 bonded to a pink chlorine atom. C2 C4 and C6 are bonded to a nitro group each. 2 4 6-Trinitrophenol shows a benzene ring with C1 bonded to a blue hydroxyl group. C2 C4 and C6 are bonded to a nitro group each. In NaCl Na is shown in blue and Cl is shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_011.jpg"/>
+    </media>
+    </figure></item>
+    <item>By formation of benzyne intermediate from unactivated aryl halide (<link document="m00195">Section 16.7</link>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00025">
+    <media alt="An illustration shows a reaction in which bromobenzene reacts in the presence of blue Na plus NH2 minus and ammonia to yield sodium bromide and a product. Bromobenzene shows a benzene bonded to a pink bromine atom. The product shows a benzene bonded to a pink amino group. In sodium bromide Na is shown in blue and Br is shown in blue.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_012.jpg"/>
+    </media>
+    </figure>
+    </item></list></item>
+    <item>Oxidation of alkylbenzene side chain (<link document="m00196">Section 16.8</link>)<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00026">
+    <media alt="An illustration shows a reaction in which methylbenzene reacts in the presence of pink KMnO4 and water to yield benzoic acid. Methylbenzene shows a benzene with C1 bonded to a methyl group. Benzoic acid shows a benzene with C1 bonded to a carboxyl group. The oxygen atom and hydroxyl group are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_013.jpg"/>
+    </media>
+    </figure></item>
+    <item>Benzylic bromination of alkylbenzene side chain (<link document="m00196">Section 16.8</link>)<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00027">
+    <media alt="An illustration shows a reaction in which methylbenzene reacts in the presence of N-bromosuccinimide (BzO)2 and CCl4 to yield a product. Methylbenzene shows a benzene bonded to a methyl group. N-bromosuccinimide shows a 5-membered ring with a nitrogen bonded to a pink bromine. The ring is double bonded to two oxygen atoms. The product shows a benzene bonded to a methylene group bonded to a pink bromine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_014.jpg"/>
+    </media>
+    </figure></item>
+    <item>Catalytic hydrogenation of aromatic ring (<link document="m00197">Section 16.9</link>)<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00028">
+    <media alt="An illustration shows a reaction in which benzene reacts in the presence of pink hydrogen and Rh/C catalyst to yield a cyclohexane ring.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_015.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reduction of aryl alkyl ketones (<link document="m00197">Section 16.9</link>)<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00029">
+    <media alt="An illustration shows a reaction in which an aryl alkyl ketone reacts in the presence of blue hydrogen/Pd and ethanol to yield a product. The reactant shows a benzene bonded to carbonyl group bonded to R. The carbonyl oxygen is shown in pink. The product shows a benzene bonded to carbon that is bonded to R and two blue hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_EC_016.jpg"/>
+    </media>
+    </figure>
+    </item></list>
+    </section>
+    <section class="additional-problems" id="sect-00006">
+    <title>Additional Problems</title>
+    <para id="para-00033"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00034"><link class="os-embed" url="#exercise/16-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00035"><link class="os-embed" url="#exercise/16-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00036"><link class="os-embed" url="#exercise/16-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00037"><link class="os-embed" url="#exercise/16-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="mechanism-problems" id="sect-00007">
+    <title>Mechanism Problems</title>
+    <para id="para-00038"><emphasis effect="bold"><span class="red-text">Mechanisms of Electrophilic Substitutions</span></emphasis></para>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00039"><link class="os-embed" url="#exercise/16-99-OC-MP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00040"><link class="os-embed" url="#exercise/16-99-OC-MP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00041"><link class="os-embed" url="#exercise/16-99-OC-MP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00042"><link class="os-embed" url="#exercise/16-99-OC-MP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00043"><link class="os-embed" url="#exercise/16-99-OC-MP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00044"><link class="os-embed" url="#exercise/16-99-OC-MP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00045"><link class="os-embed" url="#exercise/16-99-OC-MP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00046"><link class="os-embed" url="#exercise/16-99-OC-MP08"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00047"><emphasis effect="bold"><span class="red-text">Additional Mechanism Practice</span></emphasis></para>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00048"><link class="os-embed" url="#exercise/16-99-OC-MP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00049"><link class="os-embed" url="#exercise/16-99-OC-MP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00050"><link class="os-embed" url="#exercise/16-99-OC-MP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00051"><link class="os-embed" url="#exercise/16-99-OC-MP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00052"><link class="os-embed" url="#exercise/16-99-OC-MP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00053"><link class="os-embed" url="#exercise/16-99-OC-MP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00054"><link class="os-embed" url="#exercise/16-99-OC-MP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00055"><link class="os-embed" url="#exercise/16-99-OC-MP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00056"><link class="os-embed" url="#exercise/16-99-OC-MP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00057"><link class="os-embed" url="#exercise/16-99-OC-MP18"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00058"><emphasis effect="bold"><span class="red-text">Reactivity and Orientation of Electrophilic Substitutions</span></emphasis></para>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00059"><link class="os-embed" url="#exercise/16-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00060"><link class="os-embed" url="#exercise/16-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00061"><link class="os-embed" url="#exercise/16-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00062"><link class="os-embed" url="#exercise/16-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00063"><link class="os-embed" url="#exercise/16-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00064"><link class="os-embed" url="#exercise/16-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00065"><link class="os-embed" url="#exercise/16-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00066"><link class="os-embed" url="#exercise/16-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00067"><link class="os-embed" url="#exercise/16-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00068"><emphasis effect="bold"><span class="red-text">Organic Synthesis</span></emphasis></para>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00069"><link class="os-embed" url="#exercise/16-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00070"><link class="os-embed" url="#exercise/16-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00071"><link class="os-embed" url="#exercise/16-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00072"><link class="os-embed" url="#exercise/16-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00073"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00074"><link class="os-embed" url="#exercise/16-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00075"><link class="os-embed" url="#exercise/16-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00076"><link class="os-embed" url="#exercise/16-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00077"><link class="os-embed" url="#exercise/16-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00078"><link class="os-embed" url="#exercise/16-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00079"><link class="os-embed" url="#exercise/16-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00080"><link class="os-embed" url="#exercise/16-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00081"><link class="os-embed" url="#exercise/16-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00082"><link class="os-embed" url="#exercise/16-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00047">
+    <problem id="prob-00047">
+    <para id="para-00083"><link class="os-embed" url="#exercise/16-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00048">
+    <problem id="prob-00048">
+    <para id="para-00084"><link class="os-embed" url="#exercise/16-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00049">
+    <problem id="prob-00049">
+    <para id="para-00085"><link class="os-embed" url="#exercise/16-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00050">
+    <problem id="prob-00050">
+    <para id="para-00086"><link class="os-embed" url="#exercise/16-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00051">
+    <problem id="prob-00051">
+    <para id="para-00087"><link class="os-embed" url="#exercise/16-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00052">
+    <problem id="prob-00052">
+    <para id="para-00088"><link class="os-embed" url="#exercise/16-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00053">
+    <problem id="prob-00053">
+    <para id="para-00089"><link class="os-embed" url="#exercise/16-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00054">
+    <problem id="prob-00054">
+    <para id="para-00090"><link class="os-embed" url="#exercise/16-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00055">
+    <problem id="prob-00055">
+    <para id="para-00091"><link class="os-embed" url="#exercise/16-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00056">
+    <problem id="prob-00056">
+    <para id="para-00092"><link class="os-embed" url="#exercise/16-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00057">
+    <problem id="prob-00057">
+    <para id="para-00093"><link class="os-embed" url="#exercise/16-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
