@@ -268,5 +268,73 @@
     </problem>
     </exercise>
     </section>
+    <section id="sect-00010">
+      <title>A Summary of Substituent Effects in Electrophilic Aromatic Substitution</title>
+      <para id="para-00025">A summary of the activating and directing effects of substituents in electrophilic aromatic substitution is shown in <link target-id="table-00002"/>.</para>
+      <table summary="" id="table-00002">
+      <title>Substituent Effects in Electrophilic Aromatic Substitution</title>
+      <tgroup cols="6">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+      <colspec colnum="4" colname="c4"/>
+      <colspec colnum="5" colname="c5"/>
+      <colspec colnum="6" colname="c6"/>
+      <thead>
+      <row valign="top">
+      <entry valign="top" align="left">Substituent</entry>
+      <entry valign="top" align="left"/>
+      <entry valign="top" align="left">Reactivity</entry>
+      <entry valign="top" align="left">Orienting effect</entry>
+      <entry valign="top" align="left">Inductive effect</entry>
+      <entry valign="top" align="left">Resonance effect</entry>
+      </row>
+      </thead>
+      <tbody>
+      <row valign="top">
+      <entry valign="top" align="left">– CH<sub>3</sub></entry>
+      <entry valign="top" align="left"/>
+      <entry valign="top" align="left"><span class="magenta-text">Activating</span></entry>
+      <entry valign="top" align="left">Ortho, para</entry>
+      <entry valign="top" align="left">Weak donating</entry>
+      <entry valign="top" align="left">—</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">– OH, – NH<sub>2</sub></entry>
+      <entry valign="top" align="left"/>
+      <entry valign="top" align="left"><span class="magenta-text">Activating</span></entry>
+      <entry valign="top" align="left">Ortho, para</entry>
+      <entry valign="top" align="left">Weak withdrawing</entry>
+      <entry valign="top" align="left">Strong donating</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">– F, – Cl</entry>
+      <entry valign="top" align="left" morerows="1">}</entry>
+      <entry valign="top" align="left" morerows="1"><span class="green-text">Deactivating</span></entry>
+      <entry valign="top" align="left" morerows="1">Ortho, para</entry>
+      <entry valign="top" align="left" morerows="1">Strong withdrawing</entry>
+      <entry valign="top" align="left" morerows="1">Weak donating</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">– Br, – I</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">– NO<sub>2</sub>, – CN,</entry>
+      <entry valign="top" align="left" morerows="2">}</entry>
+      <entry valign="top" align="left" morerows="2"><span class="cyan-text">Deactivating</span></entry>
+      <entry valign="top" align="left" morerows="2">Meta</entry>
+      <entry valign="top" align="left" morerows="2">Strong withdrawing</entry>
+      <entry valign="top" align="left" morerows="2">Strong withdrawing</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left"> – CHO, – CO<sub>2</sub>R</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">–  COR, – CO<sub>2</sub>H</entry>
+      </row>
+      </tbody>
+      </tgroup>
+      </table>
+      </section>
     </content>
 </document>
