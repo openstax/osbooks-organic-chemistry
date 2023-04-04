@@ -104,7 +104,7 @@
     </media>
     </figure>
     <para id="para-00024">Two main approaches to combinatorial chemistry are used—<emphasis effect="italics">parallel synthesis</emphasis> and <emphasis effect="italics">split synthesis.</emphasis> In parallel synthesis, each compound is prepared independently. Typically, a reactant is first linked to the surface of polymer beads, which are then placed into small wells on a 96-well glass plate. Programmable robotic instruments add different sequences of building blocks to the different wells, thereby making 96 different products. When the reaction sequences are complete, the polymer beads are washed and their products are released.</para>
-    <para id="para-00025">In split synthesis, the initial reactant is again linked to the surface of polymer beads, which are then divided into several groups. A different building block is added to each group of beads, the different groups are combined, and the reassembled mix is again split to form new groups. Another building block is added to each group, the groups are again combined and redivided, and the process continues. If, for example, the beads are divided into four groups at each step, the number of compounds increases in the progression <m:math><m:mrow><m:mn>4</m:mn><m:mo>→</m:mo><m:mn>16</m:mn><m:mo>→</m:mo><m:mn>64</m:mn><m:mo>→</m:mo><m:mn>256</m:mn></m:mrow></m:math>. After 10 steps, more than 1 million compounds have been prepared (<link>Figure 16_98_OChem-16-10-014_80485-16-21_SplitSyn</link>).</para>
+    <para id="para-00025">In split synthesis, the initial reactant is again linked to the surface of polymer beads, which are then divided into several groups. A different building block is added to each group of beads, the different groups are combined, and the reassembled mix is again split to form new groups. Another building block is added to each group, the groups are again combined and redivided, and the process continues. If, for example, the beads are divided into four groups at each step, the number of compounds increases in the progression <m:math><m:mrow><m:mn>4</m:mn><m:mo>→</m:mo><m:mn>16</m:mn><m:mo>→</m:mo><m:mn>64</m:mn><m:mo>→</m:mo><m:mn>256</m:mn></m:mrow></m:math>. After 10 steps, more than 1 million compounds have been prepared (<link target-id="fig-00013"/>).</para>
     <para id="para-00026">Of course, with so many different final products mixed together, the problem is to identify them. What structure is linked to what bead? Several approaches to this problem have been developed, all of which involve the attachment of encoding labels to each polymer bead to keep track of the chemistry each has undergone. Encoding labels used thus far have included proteins, nucleic acids, halogenated aromatic compounds, and even computer chips.</para>
     <figure class="scaled-down-30" id="fig-00012">
         <media alt="Alt Text Placeholder">
@@ -122,16 +122,16 @@
     </section>
     <section class="key-terms" id="sect-00003">
     <list id="list-00001">
-    <item>acyl group</item>
-    <item>acylation</item>
-    <item>alkylation</item>
-    <item>benzyne</item>
-    <item>combinatorial chemistry</item>
-    <item>electrophilic aromatic substitution</item>
-    <item>Friedel–Crafts reaction</item>
-    <item>inductive effect</item>
-    <item>nucleophilic aromatic substitution</item>
-    <item>resonance effect</item>
+      <item><link document="m00191" target-id="term-00005">acyl group</link></item>
+      <item>[link]acylation[/link]</item>
+      <item><link document="m00191" target-id="term-00001">alkylation</link></item>
+      <item><link document="m00195" target-id="term-00001">benzyne</link></item>
+      <item><link document="m00198" target-id="term-00001">combinatorial chemistry</link></item>
+      <item><link document="m00188" target-id="term-00001">electrophilic aromatic substitution</link></item>
+      <item><link document="m00191" target-id="term-00002">Friedel–Crafts reaction</link></item>
+      <item><link document="m00192" target-id="term-00001">inductive effect</link></item>
+      <item><link document="m00194" target-id="term-00001">nucleophilic aromatic substitution</link></item>
+      <item><link document="m00192" target-id="term-00002">resonance effect</link></item>
     </list>
     </section>
     <section class="summary" id="sect-00004">
