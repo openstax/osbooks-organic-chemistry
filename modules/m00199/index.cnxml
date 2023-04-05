@@ -1,10 +1,42 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Why This Chapter?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Why This Chapter?</md:title>
     <md:content-id>m00199</md:content-id>
     <md:uuid>cd8891c1-d16b-4fb5-afd6-3f935722ba61</md:uuid>
   </metadata>
-  <content>
-  </content>
+  <content class="introduction">
+    <figure class="splash" id="fig-00001">
+    <media alt="Photo of red and purple grapes on a grapevine.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_00_Grapes.jpg"/>
+    </media>
+    <caption>The phenol resveratrol, found in the skin of red grapes, continues to be studied for its potential anti-cancer, antiarthritic, and hypoglycemic properties. (credit: “Weinreben-Ötlingen” by Pierre Likissas/Wikimedia Commons, CC BY 3.0)</caption>
+    </figure>
+    <para id="para-00001">Up to this point, we’ve focused on developing some general ideas of organic reactivity, looking at the chemistry of hydrocarbons and alkyl halides, and examining some of the tools used in structural studies. With that background, it’s now time to begin a study of the oxygen-containing functional groups that lie at the heart of organic and biological chemistry. We’ll look at alcohols in this chapter and move on to carbonyl compounds in Chapters 19 through 23.</para>
+    <para id="para-00002"><term id="term-00001">Alcohols</term> and <term id="term-00002">phenols</term> can be thought of as organic derivatives of water in which one of water’s hydrogens is replaced by an organic group: H – O – H versus R – O – H and Ar – O – H. In practice, the name <emphasis effect="italics">alcohol</emphasis> is restricted to compounds that have their  – OH group bonded to a saturated, <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized carbon atom, while compounds with their  – OH group bonded to a vinylic, <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized carbon are called <emphasis effect="italics">enols</emphasis>. We’ll look at enols in Chapter 22.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="A three-part illustration shows structures of compounds. The first part “an alcohol” shows a centrally placed carbon having an open dash bond a wedge bond and single bond; the carbon is bonded to a pink hydroxyl group at the top. The second part shows “a phenol” having a benzene bonded to a pink hydroxyl group. The third part shows “an enol” in parentheses having a carbon with two open bonds sharing a double bond with another carbon bonded to a hydroxyl group at the top and an open bond at the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_00_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Alcohols occur widely in nature and have many industrial and pharmaceutical applications. Methanol, for instance, is one of the most important of all industrial chemicals. Historically, methanol was prepared by heating wood in the absence of air and thus came to be called <emphasis effect="italics">wood alcohol.</emphasis> Today, approximately 173 million tons (50 billion gallons) of methanol is manufactured worldwide each year, most of it by catalytic reduction of carbon monoxide with hydrogen gas. Methanol is toxic to humans, causing blindness in small doses (15 mL) and death in larger amounts (100–250 mL). Industrially, it is used both as a solvent and as a starting material for production of formaldehyde (CH<sub>2</sub>O) and acetic acid (CH<sub>3</sub>CO<sub>2</sub>H).</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a reaction between carbon dioxide and two molecules of hydrogen in the presence of zinc oxide/chromia catalysts at 400 degree C to yield methanol; the ball-and-stick model of methanol shows a carbon (gray ball) bonded to three hydrogens (white balls); the carbon is further bonded to an oxygen (red ball) bonded to a hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_00_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Ethanol was one of the first organic chemicals to be prepared and purified. Its production by fermentation of grains and sugars has been carried out for perhaps 9000 years, and its purification by distillation goes back at least as far as the 12th century. Today, approximately 88 million tons (26 billion gallons) of ethanol are produced worldwide each year, most of it by fermentation of corn, barley, sorghum, and other plant sources. Almost all of this ethanol is used for bus and automobile fuel.</para>
+    <para id="para-00005">Ethanol for industrial use as a solvent or chemical intermediate is largely obtained by acid-catalyzed hydration of ethylene at high temperature.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a reaction of ethylene in the presence of pink water and phosphoric acid at 250 degree C to yield ethanol. Ethylene shows a methylene group double bonded to another methylene group. Ethanol shows an ethyl group bonded to a pink hydroxyl group; the ball-and-stick model of ethanol shows gray balls (carbons) white balls (hydrogens) and a red ball (oxygen atom).">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_00_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Phenols occur widely throughout nature and also serve as intermediates in the industrial synthesis of products as diverse as adhesives and antiseptics. Phenol itself is a general disinfectant found in coal tar; methyl salicylate is a flavoring agent found in oil of wintergreen; and urushiols are the allergenic constituents of poison oak and poison ivy. Note that the word <emphasis effect="italics">phenol</emphasis> is the name both of the specific compound (hydroxybenzene) and of the class of compounds.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="A three-part illustration shows structures of compounds. The first structure “phenol (also known as carboxylic acid)” shows a benzene bonded to a pink hydroxyl group. The second structure “methyl salicylate” shows a benzene bonded to a pink hydroxyl group at C1 and to CO2CH3 at C2. The third structure “unshields (R = different C35 alkyl and alkenyl chains)” shows a benzene bonded to two pink hydroxyl groups one at C1 and one at C2. C3 is bonded to R.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_00_004.jpg"/>
+    </media>
+    </figure>
+    </content>
 </document>

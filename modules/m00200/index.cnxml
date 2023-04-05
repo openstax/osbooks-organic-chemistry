@@ -6,5 +6,45 @@
     <md:uuid>51c77356-79fc-4839-aebd-b3ab179a9dc8</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Alcohols are classified as primary (1°), secondary (2°), or tertiary (3°), depending on the number of organic groups bonded to the hydroxyl-bearing carbon.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="A three-part illustration shows structures of compounds. The first part shows “a primary (1 degree) alcohol” wherein a centrally placed carbon is bonded to a pink hydroxyl group at the top; the carbon is dash bonded to a blue “R” wedge bonded to “H” and single bonded to another “H.” The second part “a secondary (2 degree) alcohol” shows a centrally placed carbon bonded to a pink hydroxyl group at the top; on the left the carbon is dash bonded to a blue “R” wedge bonded to another blue “R” and single bonded to an “H” on the right. The third part shows “a tertiary (3 degree) alcohol” having a centrally placed carbon bonded to a pink hydroxyl group at the top; on the left the carbon is dash bonded to a blue “R” wedge bonded to another “R” and single bonded to “R” on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_01_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Simple alcohols are named in the IUPAC system as derivatives of the parent alkane, using the suffix -<emphasis effect="italics">ol.</emphasis></para>
+    <para id="para-00003"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis> Select the longest carbon chain containing the hydroxyl group, and derive the parent name by replacing the -<emphasis effect="italics">e</emphasis> ending of the corresponding alkane with -<emphasis effect="italics">ol.</emphasis> The -<emphasis effect="italics">e</emphasis> is deleted to prevent the occurrence of two adjacent vowels: propanol rather than propaneol, for example.</para>
+    <para id="para-00004"><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis> Number the alkane chain beginning at the end nearer the hydroxyl group.</para>
+    <para id="para-00005"><emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis> Number the substituents according to their position on the chain, and write the name, listing the substituents in alphabetical order and identifying the position to which the  – OH is bonded. Note that in naming <emphasis effect="italics">cis</emphasis>-1,4-cyclohexanediol, the final <emphasis effect="italics">-e</emphasis> of cyclohexane is not deleted because the next letter, <emphasis effect="italics">d,</emphasis> is not a vowel; that is, cyclohexanediol rather than cyclohexandiol. Also, as with alkenes <emphasis effect="bold">(<link>Section 7.3</link>)</emphasis>, newer IUPAC naming recommendations place the locant immediately before the suffix rather than before the parent.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="A three-part illustration shows structures of alcohols. The first part shows structural formula of “2-methyl-2-pentanol (New: 2-Methylpentan-2-ol)” wherein the 2-methyl is green and -2-ol is pink; the structure shows a methyl group labeled as “1” bonded to a carbon labeled as “2” having a bond with pink hydroxyl group at the top and a green methyl group at the bottom; the carbon is bonded to two methylene groups “3” and “4” bonded to a methyl group “5.” The second part shows molecular structure of cis-1 4-Cyclohexanediol (New: cis-Cyclohexane-1 4-diol) wherein cis is pink and -1 4-diol is pink; the structure shows a cyclohexane whose upper tip and bottom tip have a wedge bond with pink hydroxyl group and a dash bond with hydrogen; the numbering in pink begins from the tip as “1” and continues counter clockwise till “4” at the base. The third part shows “3-Phenyl-2-butanol (New: 3-Phenylbutan-2-ol) wherein 3-Phenyl is green and -2-ol is pink shows a green benzene green bonded to two consecutive methine groups bonded to a methyl group; the methine at “2” is bonded to a pink hydroxyl group at the bottom and the methine group at “3” is bonded to a methyl group at the top; the numbering in pink starts from the methyl group right as “1” and continues till the top bonded methyl group at “4.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_01_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Some simple and widely occurring alcohols have common names that are accepted by IUPAC. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="A five-part illustration shows structures of alcohols. The first structure “benzyl alcohol (phenylmethanol)” shows a benzene bonded to methylene bonded to a pink hydroxyl group. The second structure “allyl alcohol (2-propen-1-ol) shows a methylene group double bonded to a methine group bonded to a methylene group attached to a pink hydroxyl group. The third structure “tert-Butyl alcohol (2-methyl-2-propanol) shows a centrally placed carbon bonded to three methyl groups and a pink hydroxyl group. The fourth structure “ethylene glycol (1 2-ethanediol) “ shows a pink hydroxyl group bonded to two methylene groups bonded to a pink hydroxyl group. The fifth structure “glycerol (1 2 3-propanetriol)” shows a pink hydroxyl group bonded to a methylene group attached to a methine bonded to pink hydroxyl group at the bottom; the methine group is bonded to a methylene group bonded to a pink hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_01_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">Phenols are named as described previously for aromatic compounds according to the rules discussed in <emphasis effect="bold"><link>Section 15.1</link></emphasis>, with -<emphasis effect="italics">phenol</emphasis> used as the parent name rather than -<emphasis effect="italics">benzene.</emphasis></para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="A two-part illustration shows structures of cyclic alcohols. The first structure “m-Methylphenol” wherein m-Methyl is green and phenol is pink shows a benzene bonded to a pink hydroxyl group at C1 and a green methyl group at C3. The second structure “2 4-Dinitrophenol” wherein 2 4-Dinitro is green and phenol is pink shows a benzene bonded to a pink hydroxyl group at C1; C2 and C4 are bonded to a nitro group each.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_01_004.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008"><link class="os-embed" url="#exercise/17-01-OC-P01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00009"><link class="os-embed" url="#exercise/17-01-OC-P02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
