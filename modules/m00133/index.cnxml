@@ -8,9 +8,9 @@
   <content>
     <para id="para-00001">S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, E2—how can you keep it all straight and predict what will happen in any given case? Will substitution or elimination occur? Will the reaction be bimolecular or unimolecular? There are no rigid answers to these questions, but it’s possible to recognize some trends and make some generalizations.</para>
     <list id="list-00001">
-      <item><span class="cyan-text">Primary alkyl halides</span> S<sub>N</sub>2 substitution occurs if a good nucleophile is used, E2 elimination occurs if a strong, sterically hindered base is used, and E1cB elimination occurs if the leaving group is two carbons away from a carbonyl group.</item>
-      <item><span class="green-text">Secondary alkyl halides</span> S<sub>N</sub>2 substitution occurs if a weakly basic nucleophile is used in a polar aprotic solvent, E2 elimination predominates if a strong base is used, and E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group. Secondary allylic and benzylic alkyl halides can also undergo S<sub>N</sub>1 and E1 reactions if a weakly basic nucleophile is used in a protic solvent.</item>
-      <item><span class="red-text">Tertiary alkyl halides</span> E2 elimination occurs when a base is used, but S<sub>N</sub>1 substitution and E1 elimination occur together under neutral conditions, such as in pure ethanol or water. E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group.</item>
+      <item><emphasis effect="bold"><span class="cyan-text">Primary alkyl halides</span></emphasis> S<sub>N</sub>2 substitution occurs if a good nucleophile is used, E2 elimination occurs if a strong, sterically hindered base is used, and E1cB elimination occurs if the leaving group is two carbons away from a carbonyl group.</item>
+      <item><emphasis effect="bold"><span class="green-text">Secondary alkyl halides</span></emphasis> S<sub>N</sub>2 substitution occurs if a weakly basic nucleophile is used in a polar aprotic solvent, E2 elimination predominates if a strong base is used, and E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group. Secondary allylic and benzylic alkyl halides can also undergo S<sub>N</sub>1 and E1 reactions if a weakly basic nucleophile is used in a protic solvent.</item>
+      <item><emphasis effect="bold"><span class="red-text">Tertiary alkyl halides</span></emphasis> E2 elimination occurs when a base is used, but S<sub>N</sub>1 substitution and E1 elimination occur together under neutral conditions, such as in pure ethanol or water. E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group.</item>
     </list>
 
     <example id="exam-00001">
@@ -49,7 +49,7 @@
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_11_98_GreenChem.jpg"/>
     </media>
-    <caption>Let’s hope disasters like this are never repeated.</caption>
+    <caption>Let’s hope disasters like this are never repeated. (credit: modification of work “Aerial view Norfolk Southern freight train derailment Feb 2023” by the National Transportation Safety Board/Wikimedia Commons, Public Domain)</caption>
     </figure>
     <list list-type="bulleted" bullet-style="none" id="list-00005">
     <item><label>&#8195;</label><emphasis effect="bold">Prevent waste</emphasis> – Waste should be prevented rather than treated or cleaned up after it has been created.</item>
