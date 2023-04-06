@@ -45,7 +45,7 @@
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_005.jpg"/>
       </media>
       </figure>
-      <para id="para-00006">Typical spin–spin splitting <emphasis effect="italics">is</emphasis> observed between protons on the oxygen-bearing carbon and other neighbors. For example, the signal of the two – CH<sub>2</sub>O– protons in 1-propanol is split into a triplet by coupling with the neighboring –CH<sub>2</sub>– protons (<link target-id="fig-00005"/>).</para>
+      <para id="para-00006">Typical spin–spin splitting <emphasis effect="italics">is</emphasis> observed between protons on the oxygen-bearing carbon and other neighbors. For example, the signal of the two –CH<sub>2</sub>O– protons in 1-propanol is split into a triplet by coupling with the neighboring –CH<sub>2</sub>– protons (<link target-id="fig-00005"/>).</para>
       <figure class="scaled-down" id="fig-00005">
       <media alt="An illustration shows 1H NMR spectrum of 1-propanol. The structural formula shows a methyl group (blue hydrogens) bonded to a methylene group (green hydrogens) bonded to another methylene group (pink hydrogens) bonded to a hydroxyl group. The horizontal axis shows chemical shift (delta) starting from 10 on the left to 0 ppm on the right. The vertical axis shows increasing intensity. The chemical shifts given are 0.93 1.56 3.17 3.58 and relative areas are 3.00 2.00 1.00 and 2.00. A cluster of three pink peaks having the tallest peak at the center surrounded by two shorter peaks is shown at 3.5 delta; a single sharp peak is shown near 3.2 delta; a cluster of six medium length green peaks having two tallest peaks at the center and other peaks in descending heights are shown near 1.5 delta; a cluster of three blue peaks having the tallest peak of the spectrum at the center near 0.8 ppm; a short peak labeled “TMS” is shown at 0 delta.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_006.jpg"/>
@@ -128,7 +128,7 @@
       <item>Synthesis of alcohols
       <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
       <item>Reduction of carbonyl compounds (<link document="m00203">Section 17.4</link>)
-      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00004">
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="arabic" id="list-00004">
       <item>Aldehydes<newline/>
       <figure class="unnumbered scaled-down-30" id="fig-00011">
       <media alt="An illustration shows reduction of carbonyl compound in an aldehyde. The aldehyde reacts with blue NaBH4 or LiAl4 and hydronium ion to form a “primary alcohol.” The aldehyde shows a centrally placed carbonyl group with pink oxygen bonded to R on the left and H on the right. The primary alcohol shows a centrally placed carbon bonded to a hydrogen and blue hydrogen at the top and to R and pink hydroxyl group at the bottom.">
@@ -155,7 +155,7 @@
       </figure></item></list>
       </item>
       <item>Grignard addition to carbonyl compounds (<link document="m00204">Section 17.5</link>)
-      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00005">
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="arabic" id="list-00005">
       <item>Formaldehyde<newline/>
       <figure class="unnumbered scaled-down-30" id="fig-00015">
       <media alt="An illustration shows formaldehyde reacting with blue R’MgBr ether and hydronium ion to form primary alcohol. Formaldehyde shows a centrally placed carbonyl group with pink oxygen bonded to two hydrogens at the bottom. The primary alcohol shows a centrally placed carbon bonded to two hydrogens at the top and to R’ and pink hydroxyl group at the bottom.">
@@ -184,7 +184,7 @@
       <item>Reactions of alcohols
       <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
       <item>Dehydration (<link document="m00205">Section 17.6</link>)
-      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00007">
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="arabic" id="list-00007">
       <item>Tertiary alcohols<newline/>
       <figure class="unnumbered scaled-down-30" id="fig-00019">
       <media alt="An illustration shows dehydration of tertiary alcohol in the presence of pink hydronium ion to form an alkene. The alcohol is shown as carbon bonded to another carbon; the carbon on the left is bonded to pink hydrogen at the top and shows an open dash and wedge bond at the bottom. The carbon on the right is bonded to a pink hydroxyl group at the top and a dash bond to R and wedge bond to another R. The alkene shows carbon sharing a blue double bond with another carbon; the carbon on the left shows two open bonds and the carbon on the right is bonded to two R.">
@@ -199,7 +199,7 @@
       </figure></item></list>
       </item>
       <item>Oxidation (<link document="m00206">Section 17.7</link>)
-      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" id="list-00008">
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="arabic" id="list-00008">
       <item>Primary alcohols<newline/>
       <figure class="unnumbered scaled-down-30" id="fig-00021">
       <media alt="">
