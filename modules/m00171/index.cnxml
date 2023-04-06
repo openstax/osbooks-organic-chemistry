@@ -34,9 +34,9 @@
     <colspec colnum="4" colname="c4"/>
     <thead>
     <row valign="top">
-    <entry valign="top" align="left" morerows="1">Alkene or diene</entry>
-    <entry valign="top" align="left" morerows="1">Product</entry>
-    <entry valign="top" align="left" namest="c3" nameend="c4">∆<emphasis effect="italics">H</emphasis>°<sub>hydrog</sub></entry>
+    <entry valign="bottom" align="left" morerows="1">Alkene or diene</entry>
+    <entry valign="bottom" align="left" morerows="1">Product</entry>
+    <entry valign="top" align="center" namest="c3" nameend="c4">∆<emphasis effect="italics">H</emphasis>°<sub>hydrog</sub></entry>
     </row>
     <row>
     <entry valign="top" align="left">(kJ/mol)</entry>
