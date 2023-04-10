@@ -57,7 +57,7 @@
     <media alt="An illustration shows a 3-step reaction. A tertiary alcohol reacts with HBr to produce bromide ion and a compound that further yields water and a carbocation that reacts with bromide ion to produce a product. The alcohol shows a carbon bonded to three methyl groups and a hydroxyl group. The oxygen shows four electrons. An arrow from the electrons points to hydrogen of HBr. An arrow from the H-Br bond points to Br. Text reads: The –OH group is first protonated by HBr. The intermediate compound shows a carbon bonded to three methyl groups and OH2. The oxygen shows positive charge and two electrons. An arrow from the C-O bond points to O. The carbocation shows a carbon cation bonded to three methyl groups. The bromide ion shows negative charge and eight electrons. Spontaneous dissociation of the protonated alcohol occurs in a slow rate limiting step to yield a carbocation intermediate plus water. The product shows a carbon bonded to three methyl groups and a bromine atom. Text reads: The carbocation intermediate reacts with bromide ion in a fast step to yield the neutral substitution product.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_05_006.jpg"/>
     </media>
-    <caption><emphasis effect="bold">The mechanism of the S<sub>N</sub>1 reaction of a tertiary alcohol with HBr to yield an alkyl halide.</emphasis> Neutral water is the leaving group (step <span class="magenta-text">➋</span>).</caption>
+    <caption><emphasis effect="bold">The mechanism of the S<sub>N</sub>1 reaction of a tertiary alcohol with HBr to yield an alkyl halide.</emphasis> Neutral water is the leaving group (step <emphasis effect="bold"><span class="magenta-text">2</span></emphasis>).</caption>
     </figure>
     </section>
     <section id="sect-00004">
@@ -95,21 +95,26 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Substrate</emphasis></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">The best substrates yield the most stable carbocations. As a result, S<sub>N</sub>1 reactions are best for tertiary, allylic, and benzylic halides.</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="red-text"><emphasis effect="bold">Leaving group</emphasis></span></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">Good leaving groups increase the reaction rate by lowering the energy level of the transition state for carbocation formation.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><span class="cyan-text"><emphasis effect="bold">Nucleophile</emphasis></span></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">The nucleophile must be nonbasic to prevent a competitive elimination of HX (<link document="m00128">Section 11.7</link>), but otherwise does not affect the reaction rate. Neutral nucleophiles work well.</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="green-text"><emphasis effect="bold">Solvent</emphasis></span></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">Polar solvents stabilize the carbocation intermediate by solvation, thereby increasing the reaction rate.</entry>
     </row>
     </tbody>

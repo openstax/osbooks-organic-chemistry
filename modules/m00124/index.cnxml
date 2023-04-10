@@ -60,22 +60,21 @@
     <colspec colnum="4" colname="c4"/>
     <colspec colnum="5" colname="c5"/>
     <thead>
-    <row valign="top">
-    <entry valign="bottom" align="center" namest="c1" nameend="c5"><emphasis effect="bold"><span class="cyan-text">Nu:<sup>–</sup></span> + CH<sub>3</sub><span class="red-text">Br</span> → CH<sub>3</sub><span class="cyan-text">Nu</span> + <span class="red-text">Br<sup>–</sup></span></emphasis></entry>
-    </row>
-    <row valign="top">
-    <entry valign="bottom" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Nucleophile</emphasis></entry>
-    <entry valign="bottom" align="center" namest="c3" nameend="c4"><emphasis effect="bold">Product</emphasis></entry>
-    
-    </row>
-    <row valign="top">
-    <entry valign="bottom" align="left"><emphasis effect="bold">Formula</emphasis></entry>
-    <entry valign="bottom" align="left"><emphasis effect="bold">Name</emphasis></entry>
-    <entry valign="bottom" align="left"><emphasis effect="bold">Formula</emphasis></entry>
-    <entry valign="bottom" align="left"><emphasis effect="bold">Name</emphasis></entry>
-    <entry valign="bottom" align="left"><emphasis effect="bold">Relative rate of reaction</emphasis></entry>
-    </row>
-    </thead>
+      <row valign="top">
+      <entry valign="bottom" align="center" namest="c1" nameend="c5"><emphasis effect="bold"><span class="cyan-text">Nu:<sup>–</sup></span> + CH<sub>3</sub><span class="red-text">Br</span> → CH<sub>3</sub><span class="cyan-text">Nu</span> + <span class="red-text">Br<sup>–</sup></span></emphasis></entry>
+      </row>
+      <row valign="top">
+        <entry valign="bottom" align="center" namest="c1" nameend="c2"><emphasis effect="bold">Nucleophile</emphasis></entry>
+        <entry valign="bottom" align="center" namest="c3" nameend="c4"><emphasis effect="bold">Product</emphasis></entry>
+        <entry valign="bottom" align="center" morerows="1"><emphasis effect="bold">Relative rate of reaction</emphasis></entry>
+        </row>
+      <row valign="top">
+        <entry valign="bottom" align="center"><emphasis effect="bold">Formula</emphasis></entry>
+        <entry valign="bottom" align="center"><emphasis effect="bold">Name</emphasis></entry>
+        <entry valign="bottom" align="center"><emphasis effect="bold">Formula</emphasis></entry>
+        <entry valign="bottom" align="center"><emphasis effect="bold">Name</emphasis></entry>
+        </row>
+      </thead>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">H<sub>2</sub>O</span></entry>
@@ -234,18 +233,22 @@
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Substrate</emphasis></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">Steric hindrance raises the energy of the S<sub>N</sub>2 transition state, increasing ∆<emphasis effect="italics">G</emphasis><sup>‡</sup> and decreasing the reaction rate (<link target-id="fig-00013"/>a). As a result, S<sub>N</sub>2 reactions are best for methyl and primary substrates. Secondary substrates react slowly, and tertiary substrates do not react by an S<sub>N</sub>2 mechanism.</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text"><emphasis effect="bold">Nucleophile</emphasis></span></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">Basic, negatively charged nucleophiles are less stable and have a higher ground-state energy than neutral ones, decreasing ∆<emphasis effect="italics">G</emphasis><sup>‡</sup> and increasing the S<sub>N</sub>2 reaction rate (<link target-id="fig-00013"/>b).</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="red-text"><emphasis effect="bold">Leaving group</emphasis></span></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">Good leaving groups (more stable anions) lower the energy of the transition state, decreasing ∆<emphasis effect="italics">G</emphasis><sup>‡</sup> and increasing the S<sub>N</sub>2 reaction rate (<link target-id="fig-00013"/>c).</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="green-text"><emphasis effect="bold">Solvent</emphasis></span></entry>
+    <entry>    </entry>
     <entry valign="top" align="left">Protic solvents solvate the nucleophile, thereby lowering its ground-state energy, increasing ∆<emphasis effect="italics">G</emphasis><sup>‡</sup>, and decreasing the S<sub>N</sub>2 reaction rate. Polar aprotic solvents surround the accompanying cation but not the nucleophilic anion, thereby raising the ground-state energy of the nucleophile, decreasing ∆<emphasis effect="italics">G</emphasis><sup>‡</sup>, and increasing the reaction rate (<link target-id="fig-00013"/>d).</entry>
     </row>
     </tbody>
