@@ -24,9 +24,9 @@
        <m:mtd>
         <m:mtext>                     </m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mo>×</m:mo><m:mo stretchy="false">[</m:mo><m:mtext>RX</m:mtext><m:mo stretchy="false">]</m:mo><m:mo>×</m:mo><m:msup>
          <m:mo stretchy="false">[</m:mo>
-         
+         <m:mtext>−</m:mtext>
         </m:msup>
-        <m:mtext>−OH</m:mtext><m:mo stretchy="false">]</m:mo>
+        <m:mtext>OH</m:mtext><m:mo stretchy="false">]</m:mo>
        </m:mtd>
       </m:mtr>
      </m:mtable>
@@ -48,15 +48,15 @@
        <m:mtd>
         <m:msup>
          <m:mtext>               [</m:mtext>
-         
+         <m:mtext>−</m:mtext>
         </m:msup>
-        <m:mtext>−OH]</m:mtext>
+        <m:mtext>OH]</m:mtext>
          <m:mo>=</m:mo>
          <m:msup>
          <m:mtext> </m:mtext>
-         
+         <m:mtext>−</m:mtext>
         </m:msup>
-        <m:mtext>−OH concentration in molarity</m:mtext>
+        <m:mtext>OH concentration in molarity</m:mtext>
        </m:mtd>
       </m:mtr>
       <m:mtr>
