@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Nucleophilic Addition of Hydride and Grignard Reagents: Alcohol Formation</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Nucleophilic Addition of Hydride and Grignard Reagents: Alcohol Formation</md:title>
@@ -6,5 +6,37 @@
     <md:uuid>bf41e88c-0d81-49bf-9b2d-fad44b381a5b</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section id="sect-00001">
+    <title>Addition of Hydride Reagents: Reduction</title>
+    <para id="para-00001">We saw in <emphasis effect="bold"><link document="m00203">Section 17.4</link></emphasis> that the most common method for preparing alcohols, both in the laboratory and in living organisms, is by the reduction of carbonyl compounds. Aldehydes are reduced with sodium borohydride (NaBH<sub>4</sub>) to give primary alcohols, and ketones are reduced similarly to give secondary alcohols.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="A two part illustration shows two reactions. The first reaction shows an aldehyde reacting with blue NaBH4 and ethanol to form a primary alcohol. The aldehyde shows a centrally placed carbonyl group with pink oxygen the carbon of carbonyl is bonded to R on the left and H on the right. The primary alcohol shows a centrally placed carbon bonded to a pink hydroxyl group at the top; the carbon is dash bonded to R and wedge bonded to H on the left; the carbon is bonded to a blue hydrogen on the right. The second reaction shows a ketone reacting with blue NaBH4 and ethanol to form a secondary alcohol. The ketone shows a centrally placed carbonyl group with pink oxygen the carbon of carbonyl is bonded to R on the left and R’ on the right. The secondary alcohol shows a centrally placed carbon bonded to a pink hydroxyl group at the top; the carbon is dash bonded to R and wedge bonded to R’ on the left; the carbon is bonded to a blue hydrogen on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_07_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Carbonyl reduction occurs by a typical nucleophilic addition mechanism under basic conditions, as shown earlier in <link>Figure 19_05_OChem-19-05-003_80485-19-04_M-MechTwo</link>a. Although the details of carbonyl-group reductions are complex, LiAlH<sub>4</sub> and NaBH<sub>4</sub> act as if they were donors of hydride ion nucleophile, <emphasis effect="bold">:</emphasis>H<sup>–</sup>, and the initially formed alkoxide ion intermediate is then protonated by addition of aqueous acid. The reaction is effectively irreversible because the reverse process would require expulsion of a very poor leaving group.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows a reaction wherein a ketone reacts with a nucleophile blue “hydrogen anion with a pair of electrons from NaBH4” to form an intermediate in parentheses that reacts with a pink hydronium ion to form an alcohol and pink water molecule. The ketone shows a centrally placed carbonyl group with pink oxygen the carbon of carbonyl is bonded to R on the left and R’ on the right; a pink arrow points from the blue nucleophile “H anion” to the carbon of carbonyl group. The intermediate shows a centrally placed carbon bonded to a pink oxygen anion having three pairs of electrons at the top; the carbon is dash bonded to R and wedge bonded to R’ on the left; the carbon is bonded to a blue hydrogen on the right. The alcohol shows a centrally placed carbon bonded to a pink hydroxyl group at the top; the carbon is dash bonded to R and wedge bonded to R’ on the left; the carbon is bonded to a blue hydrogen on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_07_002.jpg"/>
+    </media>
+    </figure>
+    <figure class="mechanism-figure scaled-down" id="fig-00003">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows three steps involved in the Grignard reaction. Step “1” reads: The Lewis acid Mg two plus first forms an acid-base complex with the basic oxygen atom of the aldehyde or ketone thereby making the carbonyl group a better acceptor. The corresponding structure of aldehyde or ketone shows a carbonyl group with pink oxygen and two pairs of electrons the carbon of carbonyl shows two open bonds; plus pink MgX is shown near the structure a blue R anion with a pair of electrons is shown on the right of MgX; a pink arrow points from the electron pair of oxygen to the plus sign of magnesium. Step “2” reads: nucleophilic addition of an alkyl group R anion having a pair of electrons to the aldehyde or ketone produces a tetrahedral magnesium alkoxide intermediate... An arrow labeled “1” points to a tetrahedral intermediate in parentheses comprising of two structures; the first structure shows a aldehyde or ketone shows a carbonyl group with pink oxygen and two pairs of electrons the carbon of carbonyl shows two open bonds; plus pink MgX is shown near the structure a blue R anion with a pair of electrons is shown on the right of MgX; a pink arrow points from the carbonyl group double bond to the oxygen cation; another arrow points from blue R anion to carbon of carbonyl group. An arrow labeled “2” points to the second intermediate structure having a carbon bonded to a pink oxygen having two pairs of electrons bonded to a pink MgX at the top; the carbon shows open dash and wedge bonds on the left and a bond with blue R on the right. Step “3” reads: ..which undergoes hydrolysis when water is added in a separate step. The final product is a neutral alcohol. An arrow labeled “3” showing pink water molecule points to formation of an alcohol and pink HOMgX; the structure of an alcohol shows a carbon bonded to pink hydroxyl group having oxygen with two pairs of electrons; the carbon shows open wedge and dash bonds; the carbon is bonded to blue R.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_07_003.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Mechanism of the Grignard reaction.</emphasis> Complexation of the carbonyl oxygen with the Lewis acid Mg<sup>2+</sup> and subsequent nucleophilic addition of a carbanion to an aldehyde or ketone is followed by protonation of the alkoxide intermediate to yield an alcohol.</caption>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Addition of Grignard Reagents, RMgX</title>
+    <para id="para-00003">Just as aldehydes and ketones undergo nucleophilic addition with hydride ion to give alcohols, they undergo a similar addition with Grignard reagent nucleophiles, <m:math><m:mrow><m:mtext>R</m:mtext><m:msup><m:mo>:</m:mo><m:mo>–</m:mo></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow/><m:mo>+</m:mo></m:msup><m:mtext>MgX</m:mtext></m:mrow></m:math>. Aldehydes give secondary alcohols on reaction with Grignard reagents in ether solution, and ketones give tertiary alcohols.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="A two part illustration shows two reactions. The first reaction shows an aldehyde reacting with blue R&quot;MgX and a pink hydronium ion to form a secondary alcohol. The aldehyde shows a centrally placed carbonyl group with pink oxygen the carbon of carbonyl is bonded to R on the left and to H on the right. The secondary alcohol shows a centrally placed carbon bonded to a pink hydroxyl group at the top; the carbon is dash bonded to R and wedge bonded to R’ on the left; the carbon is bonded to a blue hydrogen on the right. The second reaction shows a ketone reacting with blue R&quot;MgX and a pink hydronium ion to form a tertiary alcohol. The ketone shows a centrally placed carbonyl group with pink oxygen the carbon of carbonyl is bonded to R on the left and to R’ on the right. The tertiary alcohol shows a centrally placed carbon bonded to a pink hydroxyl group at the top; the carbon is dash bonded to R and wedge bonded to R’ on the left; the carbon is bonded to a blue R” on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_07_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">As shown in <link>Figure 19_07_OChem-19-07-003_80485-19-05_M-MechThre</link>, a Grignard reaction begins with an acid–base complexation of Mg<sup>2+</sup> to the carbonyl oxygen atom of the aldehyde or ketone, thereby making the carbonyl group a better electrophile. Nucleophilic addition of R<emphasis effect="bold">:</emphasis><sup>–</sup> then produces a tetrahedral magnesium alkoxide intermediate, and protonation by addition of water or dilute aqueous acid in a separate step yields the neutral alcohol. Like reduction, Grignard additions are effectively irreversible because a carbanion is too poor a leaving group to be expelled in a reversal step.</para>
+    </section>
+    </content>
 </document>

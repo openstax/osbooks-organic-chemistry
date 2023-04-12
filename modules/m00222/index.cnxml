@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Nucleophilic Addition of Phosphorus Ylides: The Wittig Reaction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Nucleophilic Addition of Phosphorus Ylides: The Wittig Reaction</md:title>
@@ -6,5 +6,61 @@
     <md:uuid>79c8fd06-c096-4535-82f9-90507bd164b8</md:uuid>
   </metadata>
   <content>
-  </content>
+    <para id="para-00001">Aldehydes and ketones are converted into alkenes by means of a nucleophilic addition called the <term id="term-00001">Wittig reaction</term>, after the German chemist Georg Wittig who won the 1979 Nobel Prize in Chemistry. The reaction has no direct biological counterpart but is important both because of its wide use in drug manufacture and because of its mechanistic similarity to reactions of the coenzyme thiamin diphosphate, which we’ll see in <emphasis effect="bold">Section 29.6</emphasis>.</para>
+    <para id="para-00002">In the Wittig reaction, a triphenylphosphorus <emphasis effect="italics">ylide,</emphasis> <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:mover><m:mtext>C</m:mtext><m:mo>−</m:mo></m:mover><m:mo>–</m:mo><m:mover><m:mtext>P</m:mtext><m:mo>+</m:mo></m:mover><m:msub><m:mrow><m:mtext>Ph</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> also called a phosphorane and sometimes written in the resonance form R<sub>2</sub>C ═ P(Ph)<sub>3</sub>, adds to an aldehyde or ketone to yield a four-membered cyclic intermediate called an <emphasis effect="italics">oxaphosphetane.</emphasis> The oxaphosphetane is not isolated, but instead spontaneously decomposes to give an alkene plus triphenylphosphine oxide, O ═ PPh<sub>3</sub>. In effect, the oxygen atom of the aldehyde or ketone and the R<sub>2</sub>C= bonded to phosphorus exchange places. (An <term id="term-00002">ylide</term>—pronounced <emphasis effect="bold">ill</emphasis>-id—is a neutral, dipolar compound with adjacent positive and negative charges.)</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reversible reaction wherein an aldehyde/ketone reacts with “Ylide” to form an oxaphosphetane in parentheses which further forms an alkene and triphenylphosphine oxide. Ylide is shown as a blue PPh3 double bonded to the carbon of CHR at the bottom. Oxaphosphetane shows a four membered ring wherein two carbons form the base; the carbon on the left is bonded to a pink oxygen at the top; the pink oxygen is bonded to blue PPh3 on the side PPh3 is bonded to the carbon at the bottom; the carbon on the left shows two open bonds and the carbon on the right is bonded to R and H. Alkene is shown as a carbon having two open bonds on the left being double bonded to another carbon bonded to R and H. Triphenylphosphine oxide shows a pink oxygen double bonded to blue PPh3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_11_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">The initial addition takes place by different pathways depending on the structure of the reactants and the exact experimental conditions. One pathway involves a one-step cycloaddition process analogous to the Diels–Alder cycloaddition reaction <emphasis effect="bold">(<link document="m00174">Section 14.4</link>)</emphasis>. The other pathway involves a nucleophilic addition reaction to give a dipolar intermediate called a <emphasis effect="italics">betaine</emphasis> (<emphasis effect="bold">bay</emphasis>-ta-een), which undergoes ring closure.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the cyclic reversible reaction between aldehyde/ketone and ylide to form betaine which reversibly forms oxaphosphetane that further undergoes reversible reaction to form the reactants aldehyde/ketone and ylide. Aldehyde/ketone is shown as carbonyl group with pink oxygen having two pairs of electrons and two open bonds at the sides; a pink arrow points from double bond of carbonyl group to oxygen. Ylide shows a blue P cation bonded to Ph3 the P cation is bonded to carbon anion with a pair of electrons bonded to HR. Betaine shows a carbon with two open bonds on the left bonded to a pink oxygen anion having three pairs of electrons at the top the carbon is bonded to another carbon bonded to a blue P cation bonded to blue Ph3 the blue P cation is bonded to a carbon at the bottom bonded to R and H. Oxaphosphetane shows a four membered ring wherein two carbons form the base; the carbon on the left is bonded to a pink oxygen having two pairs of electrons at the top; the pink oxygen is bonded to blue PPh3 on the side PPh3 is bonded to the carbon at the bottom; the carbon on the left shows two open bonds and the carbon on the right is bonded to R and H.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_11_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">The phosphorus ylides necessary for Wittig reaction are easily prepared by S<sub>N</sub>2 reaction of primary (and some secondary) alkyl halides with triphenylphosphine, (Ph)<sub>3</sub>P, followed by treatment with base. Triphenylphosphine is a good nucleophile in S<sub>N</sub>2 reactions, and yields of the resultant alkyltriphenylphosphonium salts are high. Because of the positive charge on phosphorus, the hydrogen on the neighboring carbon is weakly acidic and can be removed by a strong base such as butyllithium (BuLi) to generate the neutral ylide. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a reaction between triphenylphosphine and bromomethane (green methyl group bonded to pink bromine) undergoing an SN2 reaction to form methyltriphenylphosphonium bromide that reacts with BuLi and THF to form methylenetriphenylphosphorane. Triphenylphosphine shows a centrally placed blue phosphorous with a pair of electrons bonded to three benzene rings; an arrow points from the electrons to green methyl of bromomethane; a pink arrow points from methyl bromine bond to pink bromine. Methyltriphenylphosphonium bromide shows a centrally placed blue phosphorous cation bonded to a green methyl group on the right; the phosphorous cation is bonded to three benzene rings; a pink bromine anion is placed near the benzene ring on top. Methylenenetriphenylphosphorane shows a blue phosphorous cation bonded to a green methylene anion whose carbon shows a pair of electrons; the phosphorous cation is bonded to three benzene rings.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_11_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">The Wittig reaction is extremely general, and a great many monosubstituted, disubstituted, and trisubstituted alkenes can be prepared from the appropriate combination of phosphorane and aldehyde or ketone. Tetrasubstituted alkenes, however, can’t be prepared this way because of steric hindrance.</para>
+    <para id="para-00006">The real value of the Wittig reaction is that it yields a pure alkene of predictable structure. The C=C bond in the product is always exactly where the C=O group was in the reactant, and no alkene isomers (except E,Z isomers) are formed. For example, Wittig reaction of cyclohexanone with methylenetriphenylphosphorane yields only the single alkene product methylenecyclohexane. By contrast, addition of methylmagnesium bromide to cyclohexanone, followed by dehydration with POCl<sub>3</sub>, yields a roughly 9 : 1 mixture of two alkenes.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows two reactions of Cyclohexanone. The first reaction shows the cyclohexanone (with pink oxygen) reacting with blue methyl magnesium bromide and POCl3 to form 1-methylcyclohexane and methylenecyclohexane in a 9:1 ratio. 1-methylcyclohexane shows a cyclohexene bonded to a blue methyl group. Methylenecyclohexane shows a cyclohexane double bonded to a blue methylene group. The second reaction shows cyclohexanone reacting with blue (C6H5)3 bonded to P cation bonded to a methylene group having carbon anion and THF to form methylene cyclohexane (84%) and blue (C6H5)3P double bonded to pink oxygen. Methylenecyclohexane shows a cyclohexane double bonded to a blue methylene group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_11_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">Wittig reactions are used commercially in the synthesis of numerous pharmaceutical products. For example, the German chemical company BASF prepares vitamin A by using a Wittig reaction between a 15-carbon ylide and a 5-carbon aldehyde.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows a reaction wherein 15-carbon ylide and 5-carbon aldehyde reacts with methanol and a compound having sodium cation bonded to methoxide anion to form vitamin A acetate. The 15-carbon ylide shows a cyclohexene with C1 bonded to two methyl groups C3 bonded to a methyl group and C2 bonded to a 4-carbon chain having two double bonds between C1 and C2 C3 and C4; a methyl group is bonded to C3 of the chain. C4 is bonded to a blue methylene group bonded to a phosphorous cation bonded to (Ph)3. The 5-carbon aldehyde shows a 3-carbon chain; C1 shows a double bond and is bonded to an aldehyde group and methyl group. C3 is bonded to an oxygen bonded to a carbonyl group bonded to a methyl group. The structure of Vitamin A acetate shows a cyclohexene with C1 bonded to two methyl groups C3 bonded to a methyl group and C2 bonded to a 9-carbon chain having two double bonds at C1 C3 C5 and C7; a methyl group is bonded to C3 and C7 of the chain. C9 is bonded to an oxygen bonded to a carbonyl group bonded to a methyl group. The double bond at C5 is shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_11_005.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Synthesizing an Alkene Using a Wittig Reaction</title>
+    <para id="para-00008">What carbonyl compound and what phosphorus ylide might you use to prepare 3-ethyl-2-pentene?</para>
+    <para id="para-00009"><title>Strategy</title> An aldehyde or ketone reacts with a phosphorus ylide to yield an alkene in which the oxygen atom of the carbonyl reactant is replaced by the =CR<sub>2</sub> of the ylide. Preparation of the phosphorus ylide itself usually involves S<sub>N</sub>2 reaction of a primary alkyl halide with triphenylphosphine, so the ylide is typically primary, RCH ═ P(Ph)<sub>3</sub>. This means that the disubstituted alkene carbon in the product comes from the carbonyl reactant, while the monosubstituted alkene carbon comes from the ylide.</para>
+    <para id="para-00010"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a reaction wherein 3-pentanone reacts with THF and a compound having blue (Ph)3 bonded to cation P bonded to methine group (having carbon anion) bonded to a methyl group to form 3-ethyl-2-pentene. The structure of 3-pentanone shows an ethyl group bonded to a pink carbonyl group bonded to an ethyl group at the bottom. 3-Ethyl-2-pentene shows an ethyl group bonded to a pink carbon labeled as “disubstituted; from ketone”; the pink carbon is bonded to an ethyl group at the bottom; the pink carbon is double bonded to a blue methine group labeled as “monosubstituted; from ylide” bonded to a blue methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_11_006.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00011"><link class="os-embed" url="#exercise/19-11-OC-P16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00012"><link class="os-embed" url="#exercise/19-11-OC-P17"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
 </document>
