@@ -6,6 +6,133 @@
     <md:uuid>4c599b91-c8ed-4d2b-ba96-bd5829d08e42</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">PlaceHolder</para>
+    <para id="para-00001">The listing of p<emphasis effect="italics">K</emphasis><sub>a</sub> values shown previously in <link document="m00231" target-id="table-00002"/> indicates that there are substantial differences in acidity from one carboxylic acid to another. For example, trifluoroacetic acid (<emphasis effect="italics">K</emphasis><sub>a</sub> = 0.59) is 33,000 times as strong as acetic acid (<emphasis effect="italics">K</emphasis><sub>a</sub> = 1.75 × 10<sup>–5</sup>). How can we account for such differences?</para>
+    <para id="para-00002">Because the dissociation of a carboxylic acid is an equilibrium process, any factor that stabilizes the carboxylate anion relative to undissociated carboxylic acid will drive the equilibrium toward increased dissociation and result in increased acidity. For instance, three electron-withdrawing fluorine atoms delocalize the negative charge in the trifluoroacetate anion, thereby stabilizing the ion and increasing the acidity of CF<sub>3</sub>CO<sub>2</sub>H. In the same way, glycolic acid (HOCH<sub>2</sub>CO<sub>2</sub>H; p<emphasis effect="italics">K</emphasis><sub>a</sub> = 3.83) is stronger than acetic acid because of the electron-withdrawing effect of the electronegative oxygen atom.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_04_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Because inductive effects operate through <emphasis effect="bold"><emphasis effect="italics">σ</emphasis></emphasis> bonds and are dependent on distance, the effect of halogen substitution decreases as the substituent moves farther from the carboxyl. Thus, 2-chlorobutanoic acid has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 2.86, 3-chlorobutanoic acid has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 4.05, and 4-chlorobutanoic acid has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 4.52, similar to that of butanoic acid itself.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_04_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Substituent effects on acidity are also found in substituted benzoic acids. We said during the discussion of electrophilic aromatic substitution in <emphasis effect="bold"><link document="m00192">Section 16.4</link></emphasis> that substituents on the aromatic ring strongly affect reactivity. Aromatic rings with electron-donating groups are activated toward further electrophilic substitution, and aromatic rings with electron-withdrawing groups are deactivated. Exactly the same effects can be observed on the acidity of substituted benzoic acids <emphasis effect="bold">(<link target-id="table-00001"/>)</emphasis>.</para>
+    <table summary="" id="table-00001">
+    <title>Substituent Effects on the Acidity of <emphasis effect="italics">p</emphasis>-Substituted Benzoic Acids</title>
+    <tgroup cols="5">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <colspec colnum="5" colname="c5"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="center" namest="c1" nameend="c5"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_04_003.jpg"/></media></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"> </entry>
+    <entry valign="top" align="left"><span class="green-text">Y</span></entry>
+    <entry valign="top" align="left"><emphasis effect="italics">K</emphasis><sub>a</sub> × 10<sup>–5</sup></entry>
+    <entry valign="top" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
+    <entry valign="top" align="left"> </entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left" morerows="8"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_04_004.jpg"/></media></entry>
+    <entry valign="top" align="left"><span class="magenta-text">– NO<sub>2</sub></span></entry>
+    <entry valign="top" align="left">39</entry>
+    <entry valign="top" align="left">3.41</entry>
+    <entry valign="top" align="left" morerows="4"><span class="magenta-text">Deactivating groups</span></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="magenta-text">– CN</span></entry>
+    <entry valign="top" align="left">28</entry>
+    <entry valign="top" align="left">3.55</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="magenta-text">– CHO</span></entry>
+    <entry valign="top" align="left">18</entry>
+    <entry valign="top" align="left">3.75</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="magenta-text">– Br</span></entry>
+    <entry valign="top" align="left">11</entry>
+    <entry valign="top" align="left">3.96</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="magenta-text">– Cl</span></entry>
+    <entry valign="top" align="left">10</entry>
+    <entry valign="top" align="left">4.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">– H</entry>
+    <entry valign="top" align="left">6.46</entry>
+    <entry valign="top" align="left">4.19</entry>
+    <entry valign="top" align="left"> </entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="cyan-text">– CH<sub>3</sub></span></entry>
+    <entry valign="top" align="left">4.3</entry>
+    <entry valign="top" align="left">4.34</entry>
+    <entry valign="top" align="left" morerows="2"><span class="cyan-text">Activating groups</span></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="cyan-text">– OCH<sub>3</sub></span></entry>
+    <entry valign="top" align="left">3.5</entry>
+    <entry valign="top" align="left">4.46</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="cyan-text">– OH</span></entry>
+    <entry valign="top" align="left">3.3</entry>
+    <entry valign="top" align="left">4.48</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00005">As <emphasis effect="bold"><link target-id="table-00001"/></emphasis> shows, an electron-donating (activating) group such as methoxy decreases acidity by destabilizing the carboxylate anion, and an electron-withdrawing (deactivating) group such as nitro increases acidity by stabilizing the carboxylate anion.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_04_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Because it’s much easier to measure the acidity of a substituted benzoic acid than it is to determine the relative reactivity of an aromatic ring toward electrophilic substitution, the correlation between the two effects is useful for predicting reactivity. If we want to know the effect of a certain substituent on electrophilic reactivity, we can simply find the acidity of the corresponding benzoic acid. Worked Example 20.1 gives an illustration.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_04_006.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Effect of a Substituent on the Reactivity of an Aromatic Ring toward Electrophilic Substitution</title>
+    <para id="para-00007">The p<emphasis effect="italics">K</emphasis><sub>a</sub> of <emphasis effect="italics">p</emphasis>-(trifluoromethyl)benzoic acid is 3.6. Is the trifluoromethyl substituent an activating or deactivating group in electrophilic aromatic substitution?</para>
+    <para id="para-00008"><title>Strategy</title> Decide whether <emphasis effect="italics">p</emphasis>-(trifluoromethyl)benzoic acid is stronger or weaker than benzoic acid. A substituent that strengthens the acid is a deactivating group because it withdraws electrons, and a substituent that weakens the acid is an activating group because it donates electrons.</para>
+    <para id="para-00009"><title><span class="cyan-text">Solution</span></title> A p<emphasis effect="italics">K</emphasis><sub>a</sub> of 3.6 means that <emphasis effect="italics">p</emphasis>-(trifluoromethyl)benzoic acid is stronger than benzoic acid, whose p<emphasis effect="italics">K</emphasis><sub>a</sub> is 4.19. Thus, the trifluoromethyl substituent favors dissociation by helping stabilize the negative charge. Trifluoromethyl must therefore be an electron-withdrawing, deactivating group.</para>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00010"><link class="os-embed" url="#exercise/20-04-OC-P06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00011"><link class="os-embed" url="#exercise/20-04-OC-P07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00012"><link class="os-embed" url="#exercise/20-04-OC-P08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00013"><link class="os-embed" url="#exercise/20-04-OC-P09"/></para>
+    </problem>
+    </exercise>
+    </section>
     </content>
 </document>
