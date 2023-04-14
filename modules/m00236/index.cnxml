@@ -12,7 +12,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_001.jpg"/>
     </media>
     </figure>
-    <para id="para-00002">Nitriles occur infrequently in living organisms, although several hundred examples are known. Cyanocycline A, for instance, has been isolated from the bacterium <emphasis effect="italics">Streptomyces lavendulae</emphasis> and was found to have both antimicrobial and antitumor activity. In addition, more than 1000 compounds called <emphasis effect="italics">cyanogenic glycosides</emphasis> are known. Derived primarily from plants, cyanogenic glycosides contain a sugar with an acetal carbon, one oxygen of which is bonded to a nitrile-bearing carbon (sugar – O – C – CN). On hydrolysis with aqueous acid, the acetal is cleaved <emphasis effect="bold">(<link>Section 19.10</link>)</emphasis>, generating a cyanohydrin (HO – C – CN), which releases hydrogen cyanide. It’s thought that the primary function of cyanogenic glycosides is to protect the plant by poisoning any animal foolish enough to eat it. Lotaustralin from the cassava plant is an example.</para>
+    <para id="para-00002">Nitriles occur infrequently in living organisms, although several hundred examples are known. Cyanocycline A, for instance, has been isolated from the bacterium <emphasis effect="italics">Streptomyces lavendulae</emphasis> and was found to have both antimicrobial and antitumor activity. In addition, more than 1000 compounds called <emphasis effect="italics">cyanogenic glycosides</emphasis> are known. Derived primarily from plants, cyanogenic glycosides contain a sugar with an acetal carbon, one oxygen of which is bonded to a nitrile-bearing carbon (sugar – O – C – CN). On hydrolysis with aqueous acid, the acetal is cleaved <emphasis effect="bold">(<link document="m00221">Section 19.10</link>)</emphasis>, generating a cyanohydrin (HO – C – CN), which releases hydrogen cyanide. It’s thought that the primary function of cyanogenic glycosides is to protect the plant by poisoning any animal foolish enough to eat it. Lotaustralin from the cassava plant is an example.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_002.jpg"/>
@@ -20,7 +20,7 @@
     </figure>
     <section id="sect-00001">
     <title>Preparation of Nitriles</title>
-    <para id="para-00003">The simplest method of nitrile preparation is the S<sub>N</sub>2 reaction of CN<sup>–</sup> with a primary or secondary alkyl halide, as discussed in <emphasis effect="bold"><link>Section 20.5</link></emphasis>. Another method for preparing nitriles is by dehydration of a primary amide, RCONH<sub>2</sub>. Thionyl chloride is often used for this reaction, although other dehydrating agents such as POCl<sub>3</sub> also work.</para>
+    <para id="para-00003">The simplest method of nitrile preparation is the S<sub>N</sub>2 reaction of CN<sup>–</sup> with a primary or secondary alkyl halide, as discussed in <emphasis effect="bold"><link document="m00234">Section 20.5</link></emphasis>. Another method for preparing nitriles is by dehydration of a primary amide, RCONH<sub>2</sub>. Thionyl chloride is often used for this reaction, although other dehydrating agents such as POCl<sub>3</sub> also work.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_003.jpg"/>
@@ -42,7 +42,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_005.jpg"/>
     </media>
     </figure>
-    <para id="para-00007">Some general reactions of nitriles are shown in <link>Figure 20_07_OChem-20-07-006_80485-20-03_AmideCarb</link>.</para>
+    <para id="para-00007">Some general reactions of nitriles are shown in <link target-id="fig-00006"/>.</para>
     <figure class="scaled-down" id="fig-00006">
     <media alt="">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_006.jpg"/>
@@ -57,7 +57,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_007.jpg"/>
     </media>
     </figure>
-    <para id="para-00009">As shown in <link>Figure 20_07_OChem-20-07-008_80485-20-04_M-MechOne</link>, base-catalyzed nitrile hydrolysis involves nucleophilic addition of hydroxide ion to the polar <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math> bond to give an imine anion in a process similar to the nucleophilic addition to a polar C ═ O bond to give an alkoxide anion. Protonation then gives a hydroxy imine, which tautomerizes <emphasis effect="bold">(<link>Section 9.4</link>)</emphasis> to an amide in a step similar to the tautomerization of an enol to a ketone. Further hydrolysis gives a carboxylate ion.</para>
+    <para id="para-00009">As shown in <link target-id="fig-00008"/>, base-catalyzed nitrile hydrolysis involves nucleophilic addition of hydroxide ion to the polar <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math> bond to give an imine anion in a process similar to the nucleophilic addition to a polar C ═ O bond to give an alkoxide anion. Protonation then gives a hydroxy imine, which tautomerizes <emphasis effect="bold">(<link document="m00106">Section 9.4</link>)</emphasis> to an amide in a step similar to the tautomerization of an enol to a ketone. Further hydrolysis gives a carboxylate ion.</para>
     <figure class="mechanism-figure scaled-down" id="fig-00008">
     <title>MECHANISM</title>
     <media alt="Alt Text Placeholder">
@@ -83,7 +83,7 @@
     </section>
     <section id="sect-00005">
     <title>Reaction of Nitriles with Grignard Reagents</title>
-    <para id="para-00012">Grignard reagents add to a nitrile to give an intermediate imine anion that is hydrolyzed by addition of water to yield a ketone. The mechanism of the hydrolysis is the exact reverse of imine formation (see <link>Figure 19_08_OChem-19-08-005_80485-19-06_M-MechFour</link>).</para>
+    <para id="para-00012">Grignard reagents add to a nitrile to give an intermediate imine anion that is hydrolyzed by addition of water to yield a ketone. The mechanism of the hydrolysis is the exact reverse of imine formation (see <link document="m00219" target-id="fig-00003"/>).</para>
     <figure class="unnumbered scaled-down" id="fig-00011">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_011.jpg"/>

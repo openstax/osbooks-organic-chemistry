@@ -14,7 +14,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_08_001.jpg"/>
     </media>
     </figure>
-    <para id="para-00002">Both the broad O – H absorption and the C═O absorption at 1710 cm<sup>–1</sup> (dimeric) are identified in the IR spectrum of butanoic acid shown in <link>Figure 20_08_OChem-20-08-002_80485-20-05_Butanoic</link>.</para>
+    <para id="para-00002">Both the broad O – H absorption and the C═O absorption at 1710 cm<sup>–1</sup> (dimeric) are identified in the IR spectrum of butanoic acid shown in <link target-id="fig-00002"/>.</para>
     <figure class="scaled-down" id="fig-00002">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_08_002.jpg"/>
@@ -39,7 +39,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_08_003.jpg"/>
     </media>
     </figure>
-    <para id="para-00006">In the <sup>1</sup>H NMR spectrum, the acidic – CO<sub>2</sub><emphasis effect="bold"><span class="magenta-text">H</span></emphasis> proton normally absorbs as a singlet near 12 <emphasis effect="italics">δ</emphasis>. The chemical shift of the carboxyl proton is concentration and solvent dependent, as these variables can change the extent of hydrogen-bonding in the sample. In some cases, the carboxyl-proton resonance is broadened to the point of being nearly undetectable. Traces of water in the sample can exacerbate the situation. As with alcohols <emphasis effect="bold">(<link>Section 17.11</link>)</emphasis>, the – CO<sub>2</sub>H proton can be replaced by deuterium when D<sub>2</sub>O is added to the sample tube, causing the absorption to disappear from the NMR spectrum. <link>Figure 20_08_OChem-20-08-004_80485-20-06_ProtonNMR</link> shows the <sup>1</sup>H NMR spectrum of phenylacetic acid. Note that the –CO<sub>2</sub>H absorption occurs at 12.0 <emphasis effect="italics">δ</emphasis>.</para>
+    <para id="para-00006">In the <sup>1</sup>H NMR spectrum, the acidic – CO<sub>2</sub><emphasis effect="bold"><span class="magenta-text">H</span></emphasis> proton normally absorbs as a singlet near 12 <emphasis effect="italics">δ</emphasis>. The chemical shift of the carboxyl proton is concentration and solvent dependent, as these variables can change the extent of hydrogen-bonding in the sample. In some cases, the carboxyl-proton resonance is broadened to the point of being nearly undetectable. Traces of water in the sample can exacerbate the situation. As with alcohols <emphasis effect="bold">(<link document="m00210">Section 17.11</link>)</emphasis>, the – CO<sub>2</sub>H proton can be replaced by deuterium when D<sub>2</sub>O is added to the sample tube, causing the absorption to disappear from the NMR spectrum. <link target-id="fig-00004"/> shows the <sup>1</sup>H NMR spectrum of phenylacetic acid. Note that the –CO<sub>2</sub>H absorption occurs at 12.0 <emphasis effect="italics">δ</emphasis>.</para>
     <figure class="scaled-down" id="fig-00004">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_08_004.jpg"/>
@@ -73,7 +73,7 @@
     </figure>
     <para id="para-00011">Vitamin C is perhaps most well-known for its antiscorbutic properties, meaning that it prevents the onset of scurvy, a bleeding disease affecting those with a deficiency of fresh vegetables and citrus fruits in their diet. Sailors in the Age of Exploration were particularly susceptible to scurvy, and the death toll was high. The Portuguese explorer Vasco da Gama lost more than half his crew to scurvy during his two-year voyage around the Cape of Good Hope in 1497–1499.</para>
     <para id="para-00012">More recently, large doses of vitamin C have been claimed to prevent the common cold, cure infertility, delay the onset of symptoms in acquired immunodeficiency syndrome (AIDS), and inhibit the development of gastric and cervical cancers. None of these claims have been backed by medical evidence, however. In the largest study yet of the effect of vitamin C on the common cold, a meta-analysis of more than 100 separate trials covering 40,000 people found no difference in the incidence of colds between those who took supplemental vitamin C regularly and those who did not. When taken <emphasis effect="italics">during</emphasis> a cold, however, vitamin C does appear to decrease the cold’s duration by perhaps a day.</para>
-    <para id="para-00013">The industrial preparation of vitamin C involves an unusual blend of biological and laboratory organic chemistry, beginning with glucose and following the five-step route shown in <link>Figure 20_98_OChem-20-08-007_80485-20-07_Sorbitol</link>. Glucose, a pentahydroxy aldehyde, is first reduced to sorbitol, which is then oxidized by the microorganism <emphasis effect="italics">Acetobacter suboxydans.</emphasis> No chemical reagent is known that is selective enough to oxidize only one of the six alcohol groups in sorbitol, so an enzymatic reaction is used. Treatment with acetone and an acid catalyst then converts four of the other hydroxyl groups into acetal linkages, and the remaining hydroxyl group is chemically oxidized to a carboxylic acid by reaction with aqueous NaOCl (household bleach). Hydrolysis with acid then removes the two acetal groups and causes an internal ester-forming reaction to give ascorbic acid. Each of the five steps has a yield better than 90%.</para>
+    <para id="para-00013">The industrial preparation of vitamin C involves an unusual blend of biological and laboratory organic chemistry, beginning with glucose and following the five-step route shown in <link target-id="fig-00007"/>. Glucose, a pentahydroxy aldehyde, is first reduced to sorbitol, which is then oxidized by the microorganism <emphasis effect="italics">Acetobacter suboxydans.</emphasis> No chemical reagent is known that is selective enough to oxidize only one of the six alcohol groups in sorbitol, so an enzymatic reaction is used. Treatment with acetone and an acid catalyst then converts four of the other hydroxyl groups into acetal linkages, and the remaining hydroxyl group is chemically oxidized to a carboxylic acid by reaction with aqueous NaOCl (household bleach). Hydrolysis with acid then removes the two acetal groups and causes an internal ester-forming reaction to give ascorbic acid. Each of the five steps has a yield better than 90%.</para>
     <figure id="fig-00007">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_08_007.jpg"/>
@@ -103,7 +103,7 @@
     <section class="summary-reactions" id="sect-00008">
     <title>Summary of Reactions</title>
     <list list-type="enumerated" id="list-00002">
-    <item>Preparation of carboxylic acids (<link>Section 20.5</link>)
+    <item>Preparation of carboxylic acids (<link document="m00234">Section 20.5</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
     <item>Carboxylation of Grignard reagents<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00008">
@@ -118,7 +118,7 @@
     </media>
     </figure></item></list>
     </item>
-    <item>Preparation of nitriles (<link>Section 20.7</link>)
+    <item>Preparation of nitriles (<link document="m00236">Section 20.7</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
     <item>S<sub>N</sub>2 reaction of alkyl halides<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00010">
@@ -133,7 +133,7 @@
     </media>
     </figure></item></list>
     </item>
-    <item>Reactions of nitriles (<link>Section 20.7</link>)
+    <item>Reactions of nitriles (<link document="m00236">Section 20.7</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
     <item>Hydrolysis to yield carboxylic acids<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00012">
