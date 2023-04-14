@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Preparing Carboxylic Acids</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Preparing Carboxylic Acids</md:title>
+    <md:content-id>m00234</md:content-id>
+    <md:uuid>69e2731b-132c-4c45-ada5-6622b57c107f</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Let’s review briefly some of the methods for preparing carboxylic acids that we’ve seen in previous chapters.</para>
+    <list id="list-00001">
+    <item>Oxidation of a substituted alkylbenzene with KMnO<sub>4</sub> gives a substituted benzoic acid <emphasis effect="bold">(<link>Section 16.8</link>)</emphasis>. Both primary and secondary alkyl groups can be oxidized, but tertiary groups are not affected.<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_05_005.jpg"/>
+    </media>
+    </figure></item>
+    <item>Oxidation of a primary alcohol or an aldehyde yields a carboxylic acid <emphasis effect="bold">(<link>Sections 17-7</link> and <link>19-3</link>)</emphasis>. Primary alcohols are often oxidized with the Dess Martin periodinane, and aldehydes are similarly oxidized with alkaline KMnO<emphasis effect="bold"><sub>4</sub></emphasis>.<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_05_006.jpg"/>
+    </media>
+    </figure></item>
+    </list>
+    <section id="sect-00001">
+    <title>Hydrolysis of Nitriles</title>
+    <para id="para-00002">Carboxylic acids can be prepared from nitriles on heating with aqueous acid or base by a mechanism that we’ll discuss in <emphasis effect="bold">Section 20.7</emphasis>. Since nitriles themselves are usually made by S<sub>N</sub>2 reaction of a primary or secondary alkyl halide with CN<sup>–</sup>, the two-step sequence of cyanide displacement followed by nitrile hydrolysis is a good way to make a carboxylic acid from an alkyl halide (<m:math><m:mrow><m:mtext>RBr</m:mtext><m:mo>→</m:mo><m:mtext>RC</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext><m:mo>→</m:mo><m:msub><m:mrow><m:mtext>RCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math>). Note that the product acid has one more carbon than the starting alkyl halide. One example occurs in a commercial route for the synthesis of the nonsteroidal anti-inflammatory drug ibuprofen. (See <link>Chapter 15 <emphasis effect="italics">Chemistry Matters</emphasis></link>.)</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_05_007.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Carboxylation of Grignard Reagents</title>
+    <para id="para-00003">Another method for preparing carboxylic acids is by reaction of a Grignard reagent with CO<sub>2</sub> to yield a metal carboxylate, followed by protonation to give a carboxylic acid. This <term id="term-00001">carboxylation</term> reaction is usually carried out by bubbling a stream of dry CO<sub>2</sub> gas through a solution of the Grignard reagent. The organomagnesium halide adds to a C═O bond of carbon dioxide in a typical nucleophilic carbonyl addition reaction, and protonation of the carboxylate by addition of aqueous HCl in a separate step then gives the free carboxylic acid. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_05_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">As noted previously, there are no Grignard reagents inside living cells, but there are other types of stabilized carbanions that are often carboxylated. One of the initial steps in fatty-acid biosynthesis, for instance, involves the formation of a carbanion from acetyl CoA, followed by carboxylation to yield malonyl CoA.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_05_009.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Devising a Synthesis Route for a Carboxylic Acid</title>
+    <para id="para-00005">How would you prepare phenylacetic acid (PhCH<sub>2</sub>CO<sub>2</sub>H) from benzyl bromide (PhCH<sub>2</sub>Br)?</para>
+    <para id="para-00006"><title>Strategy</title> We’ve seen two methods for preparing carboxylic acids from alkyl halides: (1) cyanide ion displacement followed by hydrolysis and (2) formation of a Grignard reagent followed by carboxylation. The first method involves an S<sub>N</sub>2 reaction and is therefore limited to use with primary and some secondary alkyl halides. The second method involves formation of a Grignard reagent and is therefore limited to use with organic halides that have no acidic hydrogens or reactive functional groups elsewhere in the molecule. In the present instance, either method would work well.</para>
+    <para id="para-00007"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_05_010.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    <section class="section-exercises" id="sect-00003">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008"><link class="os-embed" url="#exercise/20-05-OC-P10"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

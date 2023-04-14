@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Structure and Properties of Carboxylic Acids</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Structure and Properties of Carboxylic Acids</md:title>
+    <md:content-id>m00231</md:content-id>
+    <md:uuid>26e5169a-6849-40c3-8a62-12e2102b6783</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Carboxylic acids are similar in some respects to both ketones and alcohols. Like ketones, the carboxyl carbon is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and carboxylic acid groups are therefore planar with C―C═O and O═C―O bond angles of approximately 120° <emphasis effect="bold">(<link target-id="table-00001"/>)</emphasis>.</para>
+    <table summary="" id="table-00001">
+    <title>Physical Parameters for Acetic Acid</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="center" namest="c1" nameend="c4"><media class="unnumbered scaled-down-30" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_02_001.jpg"/></media></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Bond angle</entry>
+    <entry valign="top" align="left">(degrees)</entry>
+    <entry valign="top" align="left">Bond length</entry>
+    <entry valign="top" align="left">(pm)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">C―C═O</entry>
+    <entry valign="top" align="left">119</entry>
+    <entry valign="top" align="left">C―C</entry>
+    <entry valign="top" align="left">152</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C―C―OH</entry>
+    <entry valign="top" align="left">119</entry>
+    <entry valign="top" align="left">C═O</entry>
+    <entry valign="top" align="left">125</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">O═C―OH</entry>
+    <entry valign="top" align="left">122</entry>
+    <entry valign="top" align="left">C―OH</entry>
+    <entry valign="top" align="left">131</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00002">Like alcohols, carboxylic acids are strongly associated because of hydrogen-bonding. Most carboxylic acids exist as cyclic dimers held together by two hydrogen bonds. This strong hydrogen-bonding has a noticeable effect on boiling points, making carboxylic acids boil far less easily than their corresponding alcohols. Acetic acid, for instance, has a boiling point of 117.9 °C, versus 78.3 °C for ethanol, even though both compounds have two carbons.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_02_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">The most obvious property of carboxylic acids is implied by their name: carboxylic acids are <emphasis effect="italics">acidic.</emphasis> They therefore react with bases such as NaOH and NaHCO<sub>3</sub> to give metal carboxylate salts, <m:math><m:mrow><m:msub><m:mrow><m:mtext>RCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:msup><m:mtext>M</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math>. Carboxylic acids with more than six carbons are only slightly soluble in water, but the alkali metal salts of carboxylic acids are often highly water-soluble. In fact, it’s often possible to purify an acid by extracting its salt into aqueous base, then reacidifying and extracting the pure acid back into an organic solvent.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_02_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Like other Brønsted–Lowry acids discussed in <emphasis effect="bold"><link>Section 2.7</link></emphasis>, carboxylic acids dissociate slightly in dilute aqueous solution to give <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math> and the corresponding carboxylate anions, <m:math><m:mrow><m:msub><m:mrow><m:mtext>RCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math>. The extent of dissociation is given by an acidity constant, <emphasis effect="italics">K</emphasis><sub>a</sub>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_02_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">A list of <emphasis effect="italics">K</emphasis><sub>a</sub> values for various carboxylic acids is given in <link target-id="table-00002"/>. For most, <emphasis effect="italics">K</emphasis><sub>a</sub> is approximately 10<sup>–4</sup> to 10<sup>–5</sup>. Acetic acid, for instance, has <emphasis effect="italics">K</emphasis><sub>a</sub> = 1.75 × 10<sup>–5</sup> at 25 °C, which corresponds to a p<emphasis effect="italics">K</emphasis><sub>a</sub> of 4.76. In practical terms, a <emphasis effect="italics">K</emphasis><sub>a</sub> value near 10<sup>–5</sup> means that only about 0.1% of the molecules in a 0.1 M solution are dissociated, as opposed to the 100% dissociation found with strong mineral acids like HCl.</para>
+    <table summary="" id="table-00002">
+    <title>Acidity of Some Carboxylic Acids</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Structure</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">K</emphasis><sub>a</sub></entry>
+    <entry valign="top" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
+    <entry valign="top" align="left"> </entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">CF<sub>3</sub>CO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">0.59</entry>
+    <entry valign="top" align="left">0.23</entry>
+    <entry valign="top" align="left" morerows="7"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_02_005.jpg"/></media></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HCO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">1.77 × 10<sup>–4</sup></entry>
+    <entry valign="top" align="left">3.75</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HOCH<sub>2</sub>CO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">1.5 × 10<sup>–4</sup></entry>
+    <entry valign="top" align="left">3.84</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">6.46 × 10<sup>–5</sup></entry>
+    <entry valign="top" align="left">4.19</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">H<sub>2</sub>C═CHCO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">5.6 × 10<sup>–5</sup></entry>
+    <entry valign="top" align="left">4.25</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">CH<sub>3</sub>CO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">1.75 × 10<sup>–5</sup></entry>
+    <entry valign="top" align="left">4.76</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>H</entry>
+    <entry valign="top" align="left">1.34 × 10<sup>–5</sup></entry>
+    <entry valign="top" align="left">4.87</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>OH (ethanol)</entry>
+    <entry valign="top" align="left">(1 × 10<sup>–16</sup>)</entry>
+    <entry valign="top" align="left">(16)</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00006">Although much weaker than mineral acids, carboxylic acids are nevertheless much stronger acids than alcohols and phenols. The <emphasis effect="italics">K</emphasis><sub>a</sub> of ethanol, for example, is approximately 10<sup>–16</sup>, making it a weaker acid than acetic acid by a factor of 10<sup>11</sup>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_02_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">Why are carboxylic acids so much more acidic than alcohols, even though both contain – OH groups? An alcohol dissociates to give an alkoxide ion, in which the negative charge is localized on a single electronegative atom. A carboxylic acid, however, gives a carboxylate ion, in which the negative charge is delocalized over two equivalent oxygen atoms (<link>Figure 20_02_OChem-20-02-007_80485-20-01_Ethanol</link>). In resonance terms <emphasis effect="bold">(<link>Section 2.4</link>)</emphasis>, a carboxylate ion is a stabilized resonance hybrid of two equivalent structures. Since a carboxylate ion is more stable than an alkoxide ion, it is lower in energy and more favored in the dissociation equilibrium.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_02_007.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">An alkoxide ion has its charge localized on one oxygen atom and is less stable, while a carboxylate ion has the charge spread equally over both oxygens and is therefore more stable.</emphasis></caption>
+    </figure>
+    <para id="para-00008">Experimental evidence for the equivalence of the two carboxylate oxygens comes from X-ray crystallographic studies on sodium formate. Both carbon–oxygen bonds are 127 pm in length, midway between the C═O double bond (120 pm) and the C–O single bond (134 pm) of formic acid. An electrostatic potential map of the formate ion also shows how the negative charge (red) is spread equally over both oxygens.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_02_008.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/20-02-OC-P03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00010"><link class="os-embed" url="#exercise/20-02-OC-P04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

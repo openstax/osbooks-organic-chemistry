@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Naming Carboxylic Acids and Nitriles</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Naming Carboxylic Acids and Nitriles</md:title>
+    <md:content-id>m00230</md:content-id>
+    <md:uuid>49dda117-bb5c-4a5e-b16f-b40873eb88dc</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+    <title>Carboxylic Acids, RCO<sub>2</sub>H</title>
+    <para id="para-00001">Simple carboxylic acids derived from open-chain alkanes are systematically named by replacing the terminal –<emphasis effect="italics">e</emphasis> of the corresponding alkane name with -<emphasis effect="italics">oic acid.</emphasis> The –CO<sub>2</sub>H carbon atom is numbered C1.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_01_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Compounds that have a –CO<sub>2</sub>H group bonded to a ring are named using the suffix -<emphasis effect="italics">carboxylic acid</emphasis>. The CO<sub>2</sub>H carbon is attached to C1 in this system and is not itself numbered. As a substituent, the CO<sub>2</sub>H group is called a <term id="term-00001">carboxyl group</term>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_01_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Because many carboxylic acids were among the first organic compounds to be isolated and purified, quite a few common names exist <emphasis effect="bold">(<link target-id="table-00001"/>)</emphasis>. Biological chemists, in particular, make frequent use of these names, so you may find yourself referring back to this list on occasion. We’ll use systematic names in this book, with a few exceptions such as formic (methanoic) acid and acetic (ethanoic) acid, whose names are accepted by IUPAC and are so well known that it makes little sense to refer to them any other way.</para>
+    <para id="para-00004">Also listed in <link target-id="table-00001"/> are the names of acyl groups <media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_003.jpg"/></media> derived from the parent acids. Except for the eight entries at the top of <link target-id="table-00001"/>, whose names have a -<emphasis effect="italics">yl</emphasis> ending, all other acyl groups are named using an -<emphasis effect="italics">oyl</emphasis> ending.</para>
+    <table summary="" id="table-00001">
+    <title>Common Names of Some Carboxylic Acids and Acyl Groups</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Structure</entry>
+    <entry valign="top" align="left">Name</entry>
+    <entry valign="top" align="left">Acyl group</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">HCO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Formic</entry>
+    <entry valign="top" align="left">Formyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">CH<sub>3</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Acetic</entry>
+    <entry valign="top" align="left">Acetyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Propionic</entry>
+    <entry valign="top" align="left">Propionyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Butyric</entry>
+    <entry valign="top" align="left">Butyryl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HO<sub>2</sub>CCO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Oxalic</entry>
+    <entry valign="top" align="left">Oxalyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Malonic</entry>
+    <entry valign="top" align="left">Malonyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Succinic</entry>
+    <entry valign="top" align="left">Succinyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Glutaric</entry>
+    <entry valign="top" align="left">Glutaryl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Adipic</entry>
+    <entry valign="top" align="left">Adipoyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">H<sub>2</sub>C ═ CHCO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Acrylic</entry>
+    <entry valign="top" align="left">Acryloyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HO<sub>2</sub>CCH舁═舁CHCO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Maleic (cis) Fumaric (trans)</entry>
+    <entry valign="top" align="left">Maleoyl Fumaroyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">HOCH<sub>2</sub>CO<sub>2</sub><span class="magenta-text">H</span></entry>
+    <entry valign="top" align="left">Glycolic</entry>
+    <entry valign="top" align="left">Glycoloyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004a.jpg"/></media></entry>
+    <entry valign="top" align="left">Lactic</entry>
+    <entry valign="top" align="left">Lactoyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004b.jpg"/></media></entry>
+    <entry valign="top" align="left">Pyruvic</entry>
+    <entry valign="top" align="left">Pyruvoyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004f.jpg"/></media></entry>
+    <entry valign="top" align="left">Glyceric</entry>
+    <entry valign="top" align="left">Glyceroyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004g.jpg"/></media></entry>
+    <entry valign="top" align="left">Malic</entry>
+    <entry valign="top" align="left">Maloyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004c.jpg"/></media></entry>
+    <entry valign="top" align="left">Oxaloacetic</entry>
+    <entry valign="top" align="left">Oxaloacetyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004d.jpg"/></media></entry>
+    <entry valign="top" align="left">Benzoic</entry>
+    <entry valign="top" align="left">Benzoyl</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_01_004e.jpg"/></media></entry>
+    <entry valign="top" align="left">Phthalic</entry>
+    <entry valign="top" align="left">Phthaloyl</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    <section id="sect-00002">
+    <title>Nitriles, <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>RC</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mstyle></m:mrow></m:math></title>
+    <para id="para-00005">Compounds containing the – C ≡ N functional group are called <term id="term-00002">nitriles</term> and can undergo some chemistry similar to that of carboxylic acids. Simple open-chain nitriles are named by adding -<emphasis effect="italics">nitrile</emphasis> as a suffix to the alkane name, with the nitrile carbon numbered C1.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_01_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Nitriles can also be named as derivatives of carboxylic acids by replacing the -<emphasis effect="italics">ic acid</emphasis> or -<emphasis effect="italics">oic acid</emphasis> ending with -<emphasis effect="italics">onitrile,</emphasis> or by replacing the -<emphasis effect="italics">carboxylic acid</emphasis> ending with -<emphasis effect="italics">carbonitrile.</emphasis> The nitrile carbon atom is attached to C1 but is not itself numbered.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_01_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">If another carboxylic acid derivative is present in the same molecule, the prefix <emphasis effect="italics">cyano</emphasis>- is used for the <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math> group.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_20_01_007.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00003">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00008"><link class="os-embed" url="#exercise/20-01-OC-P01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00009"><link class="os-embed" url="#exercise/20-01-OC-P02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
