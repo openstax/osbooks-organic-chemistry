@@ -10,190 +10,160 @@
     <para id="para-00002">Fortunately, we don’t need to interpret an IR spectrum fully to get useful structural information. Most functional groups have characteristic IR absorption bands that don’t change much from one compound to another. The C=O absorption of a ketone is almost always in the range 1680 to 1750 cm<sup>–1</sup>; the O–H absorption of an alcohol is almost always in the range 3400 to 3650 cm<sup>–1</sup>; the C=C absorption of an alkene is almost always in the range 1640 to 1680 cm<sup>–1</sup>; and so forth. By learning where characteristic functional-group absorptions occur, it’s possible to get structural information from IR spectra. <link target-id="table-00001"/> lists the characteristic IR bands of some common functional groups.</para>
     <table summary="" id="table-00001">
     <title>Characteristic IR Absorptions of Some Functional Groups</title>
-    <tgroup cols="3">
-    <colspec colnum="1" colname="c1"/>
-    <colspec colnum="2" colname="c2"/>
-    <colspec colnum="3" colname="c3"/>
-    <thead>
-    <row valign="top">
-    <entry valign="top" align="left">Functional Group</entry>
-    <entry valign="top" align="left">Absorption (cm<sup>–1</sup>)</entry>
-    <entry valign="top" align="left">Intensity</entry>
-    </row>
-    </thead>
-    <tbody>
-    <row valign="top">
+    <tgroup cols="4">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+      <thead>
+      <row valign="top">
+      <entry valign="top" align="left">Functional Group</entry>
+    <entry valign="top" align="center"> </entry>
+      <entry valign="top" align="left">Absorption (cm<sup>–1</sup>)</entry>
+      <entry valign="top" align="left">Intensity</entry>
+      </row>
+      </thead>
+      <tbody>
+  
+      <row valign="top">
     <entry valign="top" align="left">Alkane</entry>
-    <entry valign="top" align="left"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C–H</entry>
-    <entry valign="top" align="center">2850–2960</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Alkene</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">=C–H</entry>
-    <entry valign="top" align="center">3020–3100</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C=C</entry>
-    <entry valign="top" align="center">1640–1680</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Alkyne</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math></entry>
-    <entry valign="top" align="center">3300</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math></entry>
-    <entry valign="top" align="center">2100–2260</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Alkyl halide</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C–Cl</entry>
-    <entry valign="top" align="center">600–800</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C–Br</entry>
-    <entry valign="top" align="center">500–600</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Alcohol</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">O–H</entry>
-    <entry valign="top" align="center">3400–3650</entry>
-    <entry valign="top" align="left">Strong, broad</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C–O</entry>
-    <entry valign="top" align="center">1050–1150</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
+      <entry valign="top" align="left">C–H</entry>
+      <entry valign="top" align="center">2850–2960</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+  
+      <row valign="top">
+    <entry valign="top" align="left" morerows="1">Alkene</entry>
+      <entry valign="top" align="left">=C–H</entry>
+      <entry valign="top" align="center">3020–3100</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">C=C</entry>
+      <entry valign="top" align="center">1640–1680</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+     
+      <row valign="top">
+     <entry valign="top" align="left" morerows="1">Alkyne</entry>
+      <entry valign="top" align="left"><m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math></entry>
+      <entry valign="top" align="center">3300</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math></entry>
+      <entry valign="top" align="center">2100–2260</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+   
+      <row valign="top">
+    <entry valign="top" align="left" morerows="1">Alkyl halide</entry>
+      <entry valign="top" align="left">C–Cl</entry>
+      <entry valign="top" align="center">600–800</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">C–Br</entry>
+      <entry valign="top" align="center">500–600</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+  
+      <row valign="top">
+    <entry valign="top" align="left" morerows="1">Alcohol</entry>
+      <entry valign="top" align="left">O–H</entry>
+      <entry valign="top" align="center">3400–3650</entry>
+      <entry valign="top" align="left">Strong, broad</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">C–O</entry>
+      <entry valign="top" align="center">1050–1150</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+  
+      <row valign="top">
     <entry valign="top" align="left">Arene</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C–H</entry>
-    <entry valign="top" align="center">3030</entry>
-    <entry valign="top" align="left">Weak</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Aromatic ring</entry>
-    <entry valign="top" align="center">1660–2000</entry>
-    <entry valign="top" align="left">Weak</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left"> </entry>
-    <entry valign="top" align="center">1450–1600</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Amine</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">N–H</entry>
-    <entry valign="top" align="center">3300–3500</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C–N</entry>
-    <entry valign="top" align="center">1030–1230</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Carbonyl compound</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C=O</entry>
-    <entry valign="top" align="center">1670–1780</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Aldehyde</entry>
-    <entry valign="top" align="center">1730</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Ketone</entry>
-    <entry valign="top" align="center">1715</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Ester</entry>
-    <entry valign="top" align="center">1735</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Amide</entry>
-    <entry valign="top" align="center">1690</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
+      <entry valign="top" align="left">C–H</entry>
+      <entry valign="top" align="center">3030</entry>
+      <entry valign="top" align="left">Weak</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left" morerows="1">Aromatic ring</entry>
+    <entry valign="top" align="left" morerows="1"> </entry>
+      <entry valign="top" align="center">1660–2000</entry>
+      <entry valign="top" align="left">Weak</entry>
+      </row>
+      <row valign="top">
+        <entry valign="top" align="left"> </entry>
+      <entry valign="top" align="center">1450–1600</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+   
+      <row valign="top">
+    <entry valign="top" align="left" morerows="1">Amine</entry>
+      <entry valign="top" align="left">N–H</entry>
+      <entry valign="top" align="center">3300–3500</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">C–N</entry>
+      <entry valign="top" align="center">1030–1230</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+  
+      <row valign="top">
+    <entry valign="top" align="left" morerows="5">Carbonyl compound</entry>
+      <entry valign="top" align="left">C=O</entry>
+      <entry valign="top" align="center">1670–1780</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">Aldehyde</entry>
+      <entry valign="top" align="center">1730</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">Ketone</entry>
+      <entry valign="top" align="center">1715</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">Ester</entry>
+      <entry valign="top" align="center">1735</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">Amide</entry>
+      <entry valign="top" align="center">1690</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">Carboxylic acid</entry>
+      <entry valign="top" align="center">1710</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+  
+      <row valign="top">
     <entry valign="top" align="left">Carboxylic acid</entry>
-    <entry valign="top" align="center">1710</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Carboxylic acid</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">O–H</entry>
-    <entry valign="top" align="center">2500–3100</entry>
-    <entry valign="top" align="left">Strong, broad</entry>
-    </row>
-    <row valign="top">
+      <entry valign="top" align="left">O–H</entry>
+      <entry valign="top" align="center">2500–3100</entry>
+      <entry valign="top" align="left">Strong, broad</entry>
+      </row>
+  
+      <row valign="top">
     <entry valign="top" align="left">Nitrile</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math></entry>
-    <entry valign="top" align="center">2210–2260</entry>
-    <entry valign="top" align="left">Medium</entry>
-    </row>
-    <row valign="top">
+      <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math></entry>
+      <entry valign="top" align="center">2210–2260</entry>
+      <entry valign="top" align="left">Medium</entry>
+      </row>
+  
+      <row valign="top">
     <entry valign="top" align="left">Nitro</entry>
-    <entry valign="top" align="center"> </entry>
-    <entry valign="top" align="left"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">NO<sub>2</sub></entry>
-    <entry valign="top" align="center">1540</entry>
-    <entry valign="top" align="left">Strong</entry>
-    </row>
-    </tbody>
-    </tgroup>
+      <entry valign="top" align="left">NO<sub>2</sub></entry>
+      <entry valign="top" align="center">1540</entry>
+      <entry valign="top" align="left">Strong</entry>
+      </row>
+      </tbody>
+      </tgroup>
     </table>
     <para id="para-00003">Look at the IR spectra of hexane, 1-hexene, and 1-hexyne in <link target-id="fig-00001"/> to see an example of how IR spectroscopy can be used. Although all three IR spectra contain many peaks, there are characteristic absorptions of C=C and <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> functional groups that allow the three compounds to be distinguished. Thus, 1-hexene shows a characteristic C=C absorption at 1660 cm<sup>–1</sup> and a vinylic =C–H absorption at 3100 cm<sup>–1</sup>, whereas 1-hexyne has a <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> absorption at 2100 cm<sup>–1</sup> and a terminal alkyne <m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> absorption at 3300 cm<sup>–1</sup>.</para>
     <figure class="scaled-down" id="fig-00001">
