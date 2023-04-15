@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Nucleophilic Acyl Substitution Reactions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Nucleophilic Acyl Substitution Reactions</md:title>
+    <md:content-id>m00240</md:content-id>
+    <md:uuid>a41ecf25-8bb3-4d37-b261-ffa8aa19748f</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">The addition of a nucleophile to a polar C=O bond is the key step in three of the four major carbonyl-group reactions. We saw in the chapter on <link>Aldehydes and Ketones: Nucleophilic Addition Reactions</link> that when a nucleophile adds to an aldehyde or ketone, the initially formed tetrahedral intermediate can be protonated to yield an alcohol. When a nucleophile adds to a carboxylic acid derivative, however, a different reaction path is taken. The initially formed tetrahedral intermediate eliminates one of the two substituents originally bonded to the carbonyl carbon, leading to a net <term id="term-00001">nucleophilic acyl substitution reaction</term> (<link>Figure 21_02_OChem-21-02-001_80485-21-01_Alkoxide</link>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows two reactions. The first reaction is labeled ‘(a) Aldehyde or ketone: nucleophilic addition.’ A carbonyl compound reacts with blue Nu anion that shows two electrons to yield an Alkoxide ion intermediate that reacts with hydronium ion (highlighted in pink) to yield an alcohol. The carbonyl compound shows a central carbonyl group bonded to an R and R’. An arrow from the electrons of Nu points to the carbon. An arrow from the carbonyl bond points to oxygen that shows four electrons. The Alkoxide ion intermediate shows a carbon dash bonded to R wedge bonded to R’ and single bonded to blue Nu and oxygen anion that shows six electrons. The alcohol shows a carbon dash bonded to R wedge bonded to R’ and single bonded to Nu and pink hydroxyl group. The oxygen atoms are highlighted in pink. The second reaction is labeled ‘(b) Carboxylic acid derivative: nucleophilic acyl substitution.’ A carbonyl compound reacts with blue Nu anion that shows two electrons to yield an Alkoxide ion intermediate that reacts to yield a new carbonyl compound and Y anion. The carbonyl compound shows a central carbonyl group bonded to an R and green Y. An arrow from the electrons of blue Nu points to the carbon. An arrow from the carbonyl bond points to oxygen that shows four electrons. The Alkoxide ion intermediate shows a carbon dash bonded to R wedge bonded to green Y and single bonded to Nu and oxygen anion that shows six electrons. The new carbonyl compound shows a carbonyl group bonded to R and Nu. The oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The general mechanisms of nucleophilic addition and nucleophilic acyl substitution reactions.</emphasis> Both reactions begin with addition of a nucleophile to a polar C=O bond to give a tetrahedral, alkoxide ion intermediate. <emphasis effect="bold">(a)</emphasis> The intermediate formed from an aldehyde or ketone is protonated to give an alcohol, but <emphasis effect="bold">(b)</emphasis> the intermediate formed from a carboxylic acid derivative expels a leaving group to give a new carbonyl compound.</caption>
+    </figure>
+    <para id="para-00002">The difference in behavior between aldehydes/ketones and carboxylic acid derivatives is a consequence of structure. Carboxylic acid derivatives have an acyl carbon bonded to a group  – Y that can act as a leaving group, often as a stable anion. As soon as the tetrahedral intermediate is formed, the leaving group is expelled to generate a new carbonyl compound. Aldehydes and ketones, however, have no such leaving group, however, and therefore don’t undergo substitution.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structures of three compounds. The first structure a carboxylic acid derivative shows a carbonyl group bonded to R and green Y (a leaving group). The second and third structures are inside parentheses. The second structure an aldehyde shows a carbonyl group bonded to R and blue hydrogen (not a leaving group). The third structure a ketone shows a carbonyl group bonded to R and blue R’ (not a leaving group). The oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">The net effect of the addition/elimination sequence is a substitution of the nucleophile for the  – Y group that was originally bonded to the acyl carbon. Thus, the overall reaction is superficially similar to the kind of nucleophilic substitution that occurs during an S<sub>N</sub>2 reaction <emphasis effect="bold">(<link>Section 11.3</link>)</emphasis>, but the mechanisms of the two reactions are completely different. An S<sub>N</sub>2 reaction occurs in a single step by backside displacement of the leaving group, while a nucleophilic acyl substitution takes place in two steps and involves a tetrahedral intermediate.</para>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00004"><link class="os-embed" url="#exercise/21-02-OC-P03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00002">
+    <title>Relative Reactivity of Carboxylic Acid Derivatives</title>
+    <para id="para-00005">Both the initial addition step and the subsequent elimination step can affect the overall rate of a nucleophilic acyl substitution reaction, but the addition is usually the rate-limiting step. Thus, any factor that makes the carbonyl group more reactive toward nucleophiles favors the substitution process.</para>
+    <para id="para-00006">Steric and electronic factors are both important in determining reactivity. Sterically, we find within a series of similar acid derivatives that unhindered, accessible carbonyl groups react with nucleophiles more readily than do sterically hindered carbonyl groups. The reactivity order is</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structures of four carbonyl compounds in the following increasing reactivity order. All compounds show a carbonyl group with a free bond that shows a wavy spiral line. In the first compound the carbonyl group is bonded to a carbon bonded to three green R groups. In the second compound the carbonyl group is bonded to a carbon bonded to two green R groups and a hydrogen. In the third compound the carbonyl group is bonded to a carbon bonded to a green R group and two hydrogens. In the fourth compound the carbonyl group is bonded to a carbon bonded to three hydrogen atoms. The oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">Electronically, we find that strongly polarized acyl compounds react more readily than less polar ones. Thus, acid chlorides are the most reactive because the electronegative chlorine atom withdraws electrons from the carbonyl carbon, whereas amides are the least reactive. Although subtle, electrostatic potential maps of various carboxylic acid derivatives indicate these differences by the relative blueness on the C=O carbons. Acyl phosphates are hard to place on this scale because they are not often used in the laboratory, but in biological systems they appear to be somewhat more reactive than thioesters.</para>
+    <figure class="unnumbered" id="fig-00004">
+    <media alt="An illustration shows the structures and electrostatic potential maps of five carbonyl compounds in the following increasing reactivity order. In the first compound (amide) a carbonyl group is bonded to an R and green amino group. In the second compound (ester) a carbonyl group is bonded to an R and green OR’. In the third compound (thioester) a carbonyl group is bonded to an R and green SR’. In the fourth compound (acid anhydride) a carbonyl group is bonded to an R and green OCOR. In the fifth compound (acid chloride) a carbonyl group is bonded to an R and green chlorine atom. The carbonyl oxygen is highlighted in pink. The amino group OR’ SR’ OCOR and chlorine are highlighted in green. The electrostatic potential maps show ball-and-stick models with gray balls (carbons) white balls (hydrogens) red balls (oxygen atoms) yellow ball (sulfur) and green ball (chlorine atom). An arrow points to the carbonyl carbon of each map. The region around the oxygen is red and the region around the other atoms is highlighted in blue and green. In the maps R is a methyl group; R’ is a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">The way in which various substituents affect the polarization of a carbonyl group is similar to the way they affect the reactivity of an aromatic ring toward electrophilic substitution <emphasis effect="bold">(<link>Section 16.4</link>)</emphasis>. A chlorine substituent, for example, inductively withdraws electrons from an acyl group in the same way that it withdraws electrons from and thus deactivates an aromatic ring. Similarly, amino, methoxyl, and methylthio substituents donate electrons to acyl groups by resonance in the same way that they donate electrons to, and thus activate, aromatic rings.</para>
+    <para id="para-00009">As a consequence of these reactivity differences, it’s usually possible to convert a more reactive acid derivative into a less reactive one. Acid chlorides, for instance, can be directly converted into anhydrides, thioesters, esters, and amides, but amides can’t be directly converted into esters, thioesters, anhydrides, or acid chlorides. Remembering the reactivity order is therefore a way to keep track of a large number of reactions (<link>Figure 21_02_OChem-21-02-006_80485-21-02_Reactive</link>). Another consequence, as noted previously, is that only acyl phosphates, thioesters, esters, and amides are commonly found in nature. Acid halides and acid anhydrides react so rapidly with water that they can’t exist for long in living organisms.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="An illustration shows the structures of five carboxylic acid derivatives in the following decreasing reactivity order: acid chloride acid anhydride thioester ester and amide. Arrow indicates that acid chloride can be converted to the other derivatives acid anhydride can be converted to thioester ester or amide thioester can be converted to ester or amide ester can be converted to amide. Acid chloride shows R bonded to a carbonyl group bonded to green chlorine. Acid anhydride shows R bonded to a carbonyl group bonded to green OCOR. Thioester shows R bonded to a carbonyl group bonded to green SR’. Ester shows R bonded to a carbonyl group bonded to green OR’. Amide shows R bonded to a carbonyl group bonded to green amino group. The oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Interconversions of carboxylic acid derivatives.</emphasis> A more reactive acid derivative can be converted into a less reactive one, but not vice versa.</caption>
+    </figure>
+    <para id="para-00010">In studying the chemistry of carboxylic acid derivatives in the next few sections, we’ll be concerned largely with the reactions of just a few nucleophiles and will see that the same kinds of reactions tend to reoccur (<link>Figure 21_02_OChem-21-02-007_80485-21-03_Derivative</link>).</para>
+    <table class="unnumbered" summary="" id="table-00001">
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">• <emphasis effect="bold">Hydrolysis</emphasis></entry>
+    <entry valign="top" align="left">Reaction with water to yield a carboxylic acid</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">• <emphasis effect="bold">Alcoholysis</emphasis></entry>
+    <entry valign="top" align="left">Reaction with an alcohol to yield an ester</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">• <emphasis effect="bold">Aminolysis</emphasis></entry>
+    <entry valign="top" align="left">Reaction with ammonia or an amine to yield an amide</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">• <emphasis effect="bold">Reduction</emphasis></entry>
+    <entry valign="top" align="left">Reaction with a hydride reducing agent to yield an aldehyde or an alcohol</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">• <emphasis effect="bold">Grignard reaction</emphasis></entry>
+    <entry valign="top" align="left">Reaction with an organometallic reagent to yield a ketone or an alcohol</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <figure class="scaled-down" id="fig-00006">
+    <media alt="An illustration shows five reactions of an acid derivative. The structure of acid derivative is highlighted and shows a carbonyl group bonded to R and green Y. Hydrolysis yields RCOOH. Alcoholysis with R’OH yields RCOOR’. Aminolysis with ammonia yields RCONH2. Reduction yields RCHO that further yields RCH2OH. Grignard reaction with R’ MgX yields RCOR’ that further reacts with R’ MgX to yield RCR’R’OH. The carbonyl oxygen atoms are highlighted in pink. OR’ amino group hydrogen atoms are highlighted in blue.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_007.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Some general reactions of carboxylic acid derivatives.</emphasis></caption>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Product of a Nucleophilic Acyl Substitution Reaction</title>
+    <para id="para-00011">Predict the product of the following nucleophilic acyl substitution reaction of benzoyl chloride with 2-propanol:</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <media alt="An illustration shows a reaction of Benzoyl chloride in the presence of 2-propanol to yield an unknown product. Benzoyl chloride shows benzene bonded to a carbonyl group bonded to chlorine. 2-propanol shows a methyl group bonded to a methine group bonded to a methyl group. The methine group is bonded to a hydroxyl group at the top.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012"><title>Strategy</title> A nucleophilic acyl substitution reaction involves the substitution of a nucleophile for a leaving group in a carboxylic acid derivative. Identify the leaving group (Cl<sup>–</sup> in the case of an acid chloride) and the nucleophile (an alcohol in this case), and replace one by the other. The product is isopropyl benzoate.</para>
+    <para id="para-00013"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows a reaction of Benzoyl chloride in the presence of 2-propanol (highlighted in blue) to yield Isopropyl benzoate. Benzoyl chloride shows benzene bonded to a carbonyl group bonded to chlorine. The oxygen atoms are pink and the chlorine (a leaving group) is green. 2-propanol shows a methyl group bonded to a methine group bonded to a methyl group. The methine group is bonded to a hydroxyl group at the top. The hydroxyl oxygen shows four electrons (nucleophile). Isopropyl benzoate shows benzene bonded to a carbonyl group bonded to a blue oxygen bonded to a blue carbon bonded to two blue methyl groups and a blue hydrogen. The carbonyl oxygen is highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_02_009.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    <section class="section-exercises" id="sect-00003">
+    <title>Problems</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00014"><link class="os-embed" url="#exercise/21-02-OC-P04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00015"><link class="os-embed" url="#exercise/21-02-OC-P05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00016"><link class="os-embed" url="#exercise/21-02-OC-P06"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    
+</document>

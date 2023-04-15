@@ -1,0 +1,99 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Chemistry of Amides</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chemistry of Amides</md:title>
+    <md:content-id>m00245</md:content-id>
+    <md:uuid>ad7a0633-7554-41dd-8952-c4eca0f93cf9</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Amides, like esters, are abundant in all living organisms. Proteins, nucleic acids, and many pharmaceutical agents have amide functional groups. The reason for this abundance of amides is that they are stable in the aqueous conditions found in living organisms. Amides are the least reactive of the common acid derivatives and undergo relatively few nucleophilic acyl substitution reactions.</para>
+    <figure class="unnumbered" id="fig-00001">
+    <media alt="An illustration shows the structures of a protein segment Benzylpenicillin (penicillin G) and Uridine 5 -phosphate (a ribonucleotide). The protein segment shows a blue nitrogen monohydride with a free bond and a pink spiral line above the bond. The nitrogen is bonded to a carbon wedge bonded to H dash bonded to R and single bonded to a carbonyl group that is further bonded to a blue nitrogen monohydride bonded to a carbon that is wedge bonded to H dash bonded to R and single bonded to a carbonyl group. The structure is inside parentheses from the second nitrogen monohydride to the second carbonyl group. The carbon is bonded to a third blue nitrogen monohydride bonded to a carbon that is wedge bonded to H dash bonded to R and single bonded to a carbonyl group that shows a free bond and a pink spiral line above the bond. The structure of Benzylpenicillin shows a benzene bonded to a methylene group bonded to a carbonyl group and then a nitrogen monohydride. The nitrogen is wedge bonded to a cyclobutane ring that shows a blue nitrogen. The ring is dash bonded to two hydrogens and double bonded to a pink oxygen. The ring is fused to a cyclopentane that shows a sulfur. The cyclopentane is wedge bonded to a methyl group and hydrogen and dash bonded to a methyl group and carboxylate ion. Uridine 5 -phosphate shows a cyclohexane with an oxygen. C2 and C3 are bonded to a hydroxyl group each. C4 is bonded to a methylene group bonded to a phosphate group. C1 is bonded to a blue nitrogen of a cyclohexene ring that shows a blue nitrogen monohydride. The cyclohexene ring is double bonded to two oxygen atoms. The oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_001.jpg"/>
+    </media>
+    </figure>
+    <section id="sect-00001">
+    <title>Preparation of Amides</title>
+    <para id="para-00002">Amides are usually prepared by reaction of an amine with an acid chloride <emphasis effect="bold">(<link>Section 21.4</link>)</emphasis>. Ammonia, monosubstituted amines, and disubstituted amines all undergo the reaction.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows three reactions of an acid chloride (RCO bonded to green chlorine). In the first reaction the acid chloride reacts with ammonia (highlighted in blue) to yield a product (RCO bonded to blue amino group). In the second reaction the acid chloride reacts with blue R’NH2 to yield a product (RCO bonded to blue NHR’). In the third reaction the acid chloride reacts with blue R’2NH to yield a product (RCO bonded to blue NR’2). The carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_002.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Reactions of Amides</title>
+    <section id="sect-00003">
+    <title>Conversion of Amides into Carboxylic Acids: Hydrolysis</title>
+    <para id="para-00003">Amides undergo hydrolysis to yield carboxylic acids plus ammonia or an amine upon heating in either aqueous acid or aqueous base. The conditions required for amide hydrolysis are more extreme than those required for the hydrolysis of acid chlorides or esters, but the mechanisms are similar. Acidic hydrolysis reaction occurs by nucleophilic addition of water to the protonated amide, followed by transfer of a proton from oxygen to nitrogen to make the nitrogen a better leaving group, and subsequent elimination. The steps are reversible, with the equilibrium shifted toward product by protonation of NH<sub>3</sub> in the final step.</para>
+    <figure class="unnumbered" id="fig-00003">
+    <media alt="An illustration shows a reaction in which an amide reacts with hydronium ion (highlighted in pink) to yield three resonance forms (intermediates) that further yields a carboxylic acid hydronium ion (highlighted in pink) and ammonia (highlighted in blue). The final end products are ammonium ion (highlighted in blue) and water (highlighted in pink). The amide shows an R bonded to carbonyl group bonded to blue amino group that shows two electrons. The oxygen shows four electrons. The first intermediate shows an R bonded to carbonyl group that is bonded to blue amino group that shows two electrons. The oxygen is a cation with two electrons and is bonded to a pink hydrogen. This intermediate reacts with water. The oxygen of water shows two electrons. An arrow from the electrons points to the carbon. An arrow from the double bond points to oxygen cation. The second intermediate shows carbon dash bonded to R wedge bonded to amino group that shows two electrons and single bonded to a hydroxyl group that shows four electrons. The carbon is bonded to an oxygen cation that shows two electrons and bonded to two hydrogens. The third intermediate shows carbon dash bonded to R wedge bonded to ammonium ion and single bonded to two hydroxyl groups; each oxygen shows four electrons. This intermediate reacts with water. The oxygen of water shows two electrons. An arrow from the electrons points to a hydrogen. An arrow from the hydroxyl group points to C-O bond. An arrow from the wedge bond points to ammonium ion. The carboxylic acid shows an R bonded to carboxyl group. The carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Basic hydrolysis occurs by nucleophilic addition of OH<sup>–</sup> to the amide carbonyl group, followed by elimination of amide ion (<m:math><m:mrow><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>) and subsequent deprotonation of the initially formed carboxylic acid by ammonia. The steps are reversible, with the equilibrium shifted toward product by the final deprotonation of the carboxylic acid. Basic hydrolysis is substantially more difficult than the analogous acid-catalyzed reaction because amide ion is a very poor leaving group, making the elimination step difficult.</para>
+    <figure class="unnumbered" id="fig-00004">
+    <media alt="An illustration shows a reaction in which an amide reacts with pink hydroxyl ion to yield two resonance forms (intermediates) that further yields a carboxylate ion and ammonia (highlighted in blue). The amide shows an R bonded to carbonyl group bonded to blue amino group that shows two electrons. The oxygen shows four electrons. The hydroxyl ion shows a negative charge with six electrons. An arrow from these electrons points to carbon. An arrow from the carbonyl group points to oxygen. The first intermediate shows a carbon dash bonded to R wedge bonded to amino group that shows two electrons and single bonded to an oxygen anion that shows six electrons and hydroxyl group that shows four electrons. An arrow from the electrons of oxygen anion points to C-O bond. An arrow from the wedge bond points to amino group. The second intermediate is a carboxylic acid that shows an R bonded to carboxyl group. This reacts with an amino group that shows a negative charge and four electrons. An arrow from these electrons points to the hydroxyl hydrogen. An arrow from the OH bond points to the oxygen. The carboxylate ion shows an R bonded to carboxylate ion. The hydroxyl groups and carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Amide hydrolysis is common in biological chemistry. Just as the hydrolysis of esters is the initial step in the digestion of dietary fats, the hydrolysis of amides is the initial step in the digestion of dietary proteins. The reaction is catalyzed by protease enzymes and occurs by a mechanism almost identical to what we just saw for fat hydrolysis. That is, an initial nucleophilic acyl substitution of an alcohol group in the enzyme on an amide linkage in the protein gives an acyl enzyme intermediate, which then undergoes hydrolysis.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows a reaction in which a protein reacts with enzyme and base to yield a tetrahedral intermediate that yields RNH2 and an acyl enzyme that further yields a tetrahedral intermediate which yields a cleaved protein fragment and regenerated enzyme. The protein shows R’ bonded to carbonyl group bonded to green NHR. The base shows two electrons. An arrow from these electrons points to hydrogen of enzyme. An arrow from the OH bond points to carbonyl group of protein. An arrow from the carbonyl bond points to carbonyl oxygen. The tetrahedral intermediate shows a carbon bonded to pink oxygen anion R’ green NHR and blue oxygen bonded to enzyme. An arrow from the oxygen anion points to C-pink oxygen bond. An arrow from the C-N bond points to H of H-A. An arrow from the H-A bond points to A. The acyl enzyme shows R’ bonded to carbonyl group bonded to blue oxygen bonded to enzyme. An arrow from the electrons of base points to a hydrogen of water. An arrow from the OH bond of water points to carbonyl group. An arrow from the carbonyl bond points to carbonyl oxygen. The tetrahedral intermediate shows a carbon bonded to pink oxygen anion R’ green OH and blue oxygen bonded to enzyme. An arrow from the oxygen anion points to C-pink oxygen bond. An arrow from the C-blue O bond points to H of H-A. An arrow from the H-A bond points to A. The cleaved protein fragment shows R’ bonded to carbonyl group bonded to green hydroxyl group. The regenerated enzyme shows Enz bonded to blue oxygen bonded to pink hydrogen. In all the structures the carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_005.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Conversion of Amides into Amines: Reduction</title>
+    <para id="para-00006">Like other carboxylic acid derivatives, amides can be reduced by LiAlH<sub>4</sub>. The product of the reduction, however, is an amine rather than an alcohol. The net effect of an amide reduction is thus the conversion of the amide carbonyl group into a methylene group (<m:math><m:mrow><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext><m:mo>→</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>). This kind of reaction is specific to amides and does not occur with other carboxylic acid derivatives.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a reaction in which N-Methyldodecanamide reacts in the presence of LiAlH4 (highlighted in blue)in ether and water to yield Dodecylmethylamine (95%). N-Methyldodecanamide shows a methyl group bonded to a chain of 10 methylene groups and then a carbonyl group that is bonded to a green nitrogen monohydride bonded to a green methyl group. Dodecylmethylamine shows a methyl group bonded to a chain of 10 methylene groups and then a carbon. The carbon is bonded to two blue hydrogens and a green nitrogen monohydride bonded to a green methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">Amide reduction occurs by nucleophilic addition of hydride ion to the amide carbonyl group, followed by expulsion of the <emphasis effect="italics">oxygen</emphasis> atom as an aluminate anion leaving group to give an iminium ion intermediate. The intermediate iminium ion is further reduced by LiAlH<sub>4</sub> to yield the amine.</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows a reaction in which an amide is reduced in the presence of LiAlH4 (highlighted in blue) and ether to yield an intermediate that reacts to yield an iminium ion. The iminium ion reacts with hydrogen ion to yield an amine. The amide shows R bonded to a carbonyl group bonded to green amino group. An arrow from the electrons of hydrogen ion points to the carbon. An arrow from the carbonyl bond points to the carbonyl oxygen that shows four electrons. The intermediate shows a carbon dash bonded to R wedge bonded to green amino group and single bonded to blue hydrogen and pink oxygen that shows four electrons. The oxygen is bonded to Al superscript minus H3 (highlighted in blue). The iminium ion shows a carbon single bonded to R and blue hydrogen and double bonded to a green nitrogen cation bonded to two green hydrogens. An arrow from the electrons of hydrogen ion points to the carbon. An arrow from the carbon-nitrogen double bond points to nitrogen cation. The amine shows a carbon dash bonded to R wedge bonded to blue hydrogen and single bonded to a blue hydrogen and green amino group. The carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">The reaction is effective with both acyclic and cyclic amides, or <term id="term-00001">lactams</term>, and is a good method for preparing cyclic amines.</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows a reaction in which a lactam reacts in the presence of 1. blue LiAlH4 ether and 2. water to yield a cyclic amine (80%). The lactam shows a cyclopentane with a green nitrogen that is bonded to a hydrogen. The ring is single bonded to two methyl groups at the same position. Another carbon is double bonded to a pink oxygen. The cyclic amine is similar to the lactam but the double bonded oxygen is replaced by two single bonded blue hydrogen atoms.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_008.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Synthesizing an Amine from an Amide</title>
+    <para id="para-00009">How could you prepare <emphasis effect="italics">N</emphasis>-ethylaniline by reduction of an amide with LiAlH<sub>4</sub>?</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <media alt="An illustration shows the structure of N-Ethylaniline. It shows a benzene bonded to a nitrogen that is bonded to a hydrogen and ethyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010"><title>Strategy</title> Reduction of an amide with LiAlH<sub>4</sub> yields an amine. To find the starting material for synthesis of <emphasis effect="italics">N</emphasis>-ethylaniline, look for a CH<sub>2</sub> position next to the nitrogen atom and replace that CH<sub>2</sub> by C=O. In this case, the amide is <emphasis effect="italics">N</emphasis>-phenylacetamide.</para>
+    <para id="para-00011"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows a reaction in which N-Phenylacetamide reacts in the presence of 1. blue LiAlH4 ether and 2. water to yield N-Ethylaniline and water (two hydrogens bonded to pink oxygen). N-Phenylacetamide shows a benzene bonded to a green nitrogen monohydride that is bonded to a carbonyl group bonded to a methyl group. The carbonyl oxygen is pink. N-Ethylaniline shows a benzene bonded to a green nitrogen monohydride that is bonded to a carbon bonded to a methyl group and two blue hydrogen atoms. The oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_07_010.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    </section>
+    <section class="section-exercises" id="sect-00005">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00012"><link class="os-embed" url="#exercise/21-07-OC-P20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00013"><link class="os-embed" url="#exercise/21-07-OC-P21"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

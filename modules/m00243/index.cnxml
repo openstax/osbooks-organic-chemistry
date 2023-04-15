@@ -1,0 +1,60 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chemistry of Acid Anhydrides</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chemistry of Acid Anhydrides</md:title>
+    <md:content-id>m00243</md:content-id>
+    <md:uuid>a28f58de-0079-45f2-b3c6-ca534123ec28</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+    <title>Preparation of Acid Anhydrides</title>
+    <para id="para-00001">Acid anhydrides are typically prepared by nucleophilic acyl substitution reaction of an acid chloride with a carboxylate anion, as we saw in the previous section. Both symmetrical and unsymmetrical acid anhydrides can be prepared in this way.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reaction in which Benzoyl chloride reacts with Sodium acetate (highlighted in blue) in the presence of ether to yield Acetic benzoic anhydride. Benzoyl chloride shows benzene bonded to a carbonyl group bonded to green chlorine. The carbonyl oxygen is highlighted in pink. Sodium acetate shows a methyl group bonded to a carboxylate anion bonded to sodium cation. Acetic benzoic anhydride shows benzene bonded to a carbonyl group bonded to a blue oxygen that is bonded to blue acetate group. The carbonyl oxygen is highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_05_001.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Reactions of Acid Anhydrides</title>
+    <para id="para-00002">The chemistry of acid anhydrides is similar to that of acid chlorides, although anhydrides react more slowly. Thus, acid anhydrides react with water to form acids, with alcohols to form esters, with amines to form amides, and with LiAlH<sub>4</sub> to form primary alcohols. Only the ester- and amide-forming reactions are commonly used, however.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows four reactions of an acid anhydride. The structure of acid anhydride is highlighted and shows an R bonded to a carbonyl group bonded to a green oxygen that is bonded to another carbonyl group bonded to R. Hydrolysis yields RCOOH. Alcoholysis with R’OH (highlighted in blue) yields an ester (RCO-blue OR’). Aminolysis with ammonia (highlighted in blue) yields an amide (RCO bonded to blue amino group). Reduction (with H minus) yields an aldehyde (RCHO) and an alcohol in which R is bonded to a carbon that is bonded to two blue hydrogens and a pink hydroxyl group. The carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_05_002.jpg"/>
+    </media>
+    </figure>
+    <section id="sect-00003">
+    <title>Conversion of Acid Anhydrides into Esters</title>
+    <para id="para-00003">Acetic anhydride is often used to prepare acetate esters from alcohols. For example, aspirin (acetylsalicylic acid) is prepared commercially by the acetylation of <emphasis effect="italics">o</emphasis>-hydroxybenzoic acid (salicylic acid) with acetic anhydride.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a reaction in which Salicylic acid (o-hydroxybenzoic acid) reacts with Acetic anhydride in the presence of sodium hydroxide and water to yield Aspirin (an ester) and carboxylate (CH3COO minus highlighted in green). Salicylic acid shows benzene with C1 bonded to a carboxyl group and C2 bonded to a blue hydroxyl group. Acetic anhydride shows a methyl group bonded to a carbonyl group that is bonded to a green oxygen bonded to green acetate group. Aspirin shows benzene with C1 bonded to a carboxyl group and C2 bonded to a blue oxygen that is bonded to a carbonyl group bonded to methyl group. The carbonyl oxygens are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_05_003.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Conversion of Acid Anhydrides into Amides</title>
+    <para id="para-00004">Acetic anhydride is also commonly used to prepare <emphasis effect="italics">N</emphasis>-substituted acetamides from amines. For example, acetaminophen, a drug used in over-the-counter analgesics such as Tylenol, is prepared by reaction of <emphasis effect="italics">p</emphasis>-hydroxyaniline with acetic anhydride. Only the more nucleophilic  – NH<sub>2</sub> group reacts rather than the less nucleophilic  – OH group.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a reaction in which p-Hydroxyaniline reacts with Acetic anhydride in the presence of sodium hydroxide and water to yield Acetaminophen and carboxylate (CH3COO minus highlighted in green). p-Hydroxyaniline shows benzene with C1 bonded to a blue amino group and C4 bonded to a hydroxyl group. Acetic anhydride shows a methyl group bonded to a carbonyl group that is bonded to a green oxygen bonded to green acetate group. Acetaminophen shows benzene with C4 bonded to a hydroxyl group and C1 bonded to a blue nitrogen monohydride that is bonded to a carbonyl group bonded to methyl group. The carbonyl oxygens are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_05_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Notice in both of the previous reactions that only “half” of the anhydride molecule is used, while the other half acts as the leaving group during the nucleophilic acyl substitution step and produces acetate ion as a by-product. Thus, anhydrides are inefficient, and acid chlorides are normally preferred for introducing acyl substituents other than acetyl groups.</para>
+    </section>
+    </section>
+    <section class="section-exercises" id="sect-00005">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/21-05-OC-P14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00007"><link class="os-embed" url="#exercise/21-05-OC-P15"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>
