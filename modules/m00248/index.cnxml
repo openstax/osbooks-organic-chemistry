@@ -103,7 +103,7 @@
     </section>
     <section id="sect-00003">
     <title>Nuclear Magnetic Resonance Spectroscopy</title>
-    <para id="para-00005">Hydrogens on the carbon next to a carbonyl group are slightly deshielded and absorb near 2 <emphasis effect="italics">δ</emphasis> in the <sup>1</sup>H NMR spectrum, although the exact identity of the carbonyl group can’t be determined. <link>Figure 21_10_OChem-21-10-001_80485-21-10_ProtonNMR</link> shows the <sup>1</sup>H NMR spectrum of ethyl acetate.</para>
+    <para id="para-00005">Hydrogens on the carbon next to a carbonyl group are slightly deshielded and absorb near 2 <emphasis effect="italics">δ</emphasis> in the <sup>1</sup>H NMR spectrum, although the exact identity of the carbonyl group can’t be determined. <link target-id="fig-00001"/> shows the <sup>1</sup>H NMR spectrum of ethyl acetate.</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="An illustration shows the proton NMR spectrum of ethyl acetate. The horizontal axis shows chemical shift (delta) starting from 10 on the left to 0 ppm at the interval of one unit. The vertical axis shows increasing intensity. The left corner of the graph shows chemical shifts as 1.23 2.01 and 4.10 at relative area 1.50 1.50 and 1.00. The structure shows a carbon bonded to three green hydrogens and a carboxyl group that is bonded to a carbon bonded to two pink hydrogens and then a carbon bonded to three blue hydrogens. At 4.1 ppm a cluster of small pink peaks is shown. At 2 ppm a tall green peak is shown. At 1.2 ppm a cluster of small blue peaks is shown; at 0 ppm a short peak labeled pink “TMS” is shown.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_10_001.jpg"/>
@@ -220,7 +220,7 @@
     <section class="summary-reactions" id="sect-00007">
     <title>Summary of Reactions</title>
     <list list-type="enumerated" id="list-00002">
-    <item>Reactions of carboxylic acids (<link>Section 21.3</link>)
+    <item>Reactions of carboxylic acids (<link document="m00241">Section 21.3</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
     <item>Conversion into acid chlorides<newline/>
     <figure class="unnumbered scaled-down" id="fig-00007">
@@ -247,7 +247,7 @@
     </media>
     </figure></item></list>
     </item>
-    <item>Reactions of acid chlorides (<link>Section 21.4</link>)
+    <item>Reactions of acid chlorides (<link document="m00242">Section 21.4</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00011">
@@ -292,7 +292,7 @@
     </media>
     </figure></item></list>
     </item>
-    <item>Reactions of acid anhydrides (<link>Section 21.5</link>)
+    <item>Reactions of acid anhydrides (<link document="m00243">Section 21.5</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00018">
@@ -313,7 +313,7 @@
     </media>
     </figure></item></list>
     </item>
-    <item>Reactions of esters (<link>Section 21.6</link>)
+    <item>Reactions of esters (<link document="m00244">Section 21.6</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00021">
@@ -340,7 +340,7 @@
     </media>
     </figure></item></list>
     </item>
-    <item>Reactions of amides (<link>Section 21.7</link>)
+    <item>Reactions of amides (<link document="m00245">Section 21.7</link>)
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00007">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00025">
