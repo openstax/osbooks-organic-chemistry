@@ -15,21 +15,25 @@
     <para id="para-00001">Nuclear magnetic resonance (NMR) spectroscopy has far-reaching applications in many scientific fields, particular in chemical structure determination. Although we’ll just give an overview of the subject in this chapter, focusing on NMR applications with small molecules, more advanced NMR techniques are also used in biological chemistry to study protein structure and folding.</para>
     <para id="para-00002"><term id="term-00001">Nuclear magnetic resonance (NMR) spectroscopy</term> is the most valuable spectroscopic technique available to organic chemists. It’s the method of structure determination that organic chemists usually turn to first.</para>
     <para id="para-00003">We saw in the chapter on <link document="m00134">Structure Determination: Mass Spectrometry and Infrared Spectroscopy</link> that mass spectrometry gives a molecule’s formula and infrared spectroscopy identifies a molecule’s functional groups. Nuclear magnetic resonance spectroscopy complements these other techniques by mapping a molecule’s carbon–hydrogen framework. Taken together, MS, IR, and NMR make it possible to determine the structures of even very complex molecules.</para>
-    <table summary="" class="unnumbered" id="table-00001">
-    <tgroup cols="2">
+    <table summary="" class="unnumbered unstyled" id="table-00001">
+    <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Mass spectrometry</emphasis></entry>
+    <entry>      </entry>
     <entry valign="top" align="left">Molecular size and formula</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Infrared spectroscopy</emphasis></entry>
+    <entry>      </entry>
     <entry valign="top" align="left">Functional groups present</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">NMR spectroscopy</span></emphasis></entry>
+    <entry>      </entry>
     <entry valign="top" align="left">Map of carbon–hydrogen framework</entry>
     </row>
     </tbody>
