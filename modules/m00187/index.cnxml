@@ -11,46 +11,67 @@
     <para id="para-00001">As we saw in the brief introduction to infrared spectroscopy (<link document="m00142">Section 12.8</link>), aromatic rings show a characteristic C–H stretching absorption at 3030 cm<sup>–1</sup> and a series of peaks in the 1450 to 1600 cm<sup>–1</sup> range of the infrared spectrum. The aromatic C–H band at 3030 cm<sup>–1</sup> generally has low intensity and occurs just to the left of a typical saturated C–H band.</para>
     <para id="para-00002">As many as four absorptions are sometimes observed in the 1450 to 1600 cm<sup>–1</sup> region because of the complex molecular motions of the ring itself. Two bands, one at 1500 cm<sup>–1</sup> and one at 1600 cm<sup>–1</sup>, are usually the most intense. In addition, aromatic compounds show weak absorptions in the 1660 to 2000 cm<sup>–1</sup> region and strong absorptions in the 690 to 900 cm<sup>–1</sup> range due to C–H out-of-plane bending. The exact position of both sets of absorptions is diagnostic of the substitution pattern of the aromatic ring (<link document="m00142" target-id="fig-00006"/> in <link document="m00142">Section 12.8</link>).</para>
     <table class="unnumbered unstyled" summary="An illustration reads as follows: Monosubstituted: 690–710 cm to the power of minus 1 / 730–770 cm to the power of minus 1; o-Disubstituted: 735–770 cm to the power of minus 1; m-Disubstituted: 690–710 cm to the power of minus 1 / 810–850 cm to the power of minus 1; p-Disubstituted: 810–840 cm to the power of minus 2 1; 1 2 4-Trisubstituted: 780–830 cm to the power of minus 1 / 870–900 cm to the power of minus 1; 1 2 3-Trisubstituted: 670–720 cm to the power of minus 1 / 750–790 cm to the power of minus 1; 1 3 5-Trisubstituted: 660–700 cm to the power of minus 1 / 830–900 cm to the power of minus 1." id="table-00001">
-    <tgroup cols="4">
+    <tgroup cols="7">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <colspec colnum="4" colname="c4"/>
+    <colspec colnum="5" colname="c5"/>
+    <colspec colnum="6" colname="c6"/>
+    <colspec colnum="7" colname="c7"/>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Monosubstituted:</emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">690–710 cm<sup>–1</sup></entry>
+    <entry>      </entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="yellow-text">1,2,4-Trisubstituted:</span></emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">780–830 cm<sup>–1</sup></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"> </entry>
+    <entry>   </entry>
     <entry valign="top" align="left">730–770 cm<sup>–1</sup></entry>
+    <entry>      </entry>
     <entry valign="top" align="left"> </entry>
+    <entry>   </entry>
     <entry valign="top" align="left">870–900 cm<sup>–1</sup></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="cyan-text"><emphasis effect="italics">o</emphasis>-Disubstituted:</span></emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">735–770 cm<sup>–1</sup></entry>
+    <entry>      </entry>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">1,2,3-Trisubstituted:</span></emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">670–720 cm<sup>–1</sup></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="green-text"><emphasis effect="italics">m</emphasis>-Disubstituted:</span></emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">690–710 cm<sup>–1</sup></entry>
+    <entry>      </entry>
     <entry valign="top" align="left"> </entry>
+    <entry>   </entry>
     <entry valign="top" align="left">750–790 cm<sup>–1</sup></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"> </entry>
+    <entry>   </entry>
     <entry valign="top" align="left">810–850 cm<sup>–1</sup></entry>
+    <entry>      </entry>
     <entry valign="top" align="left"><emphasis effect="bold">1,3,5-Trisubstituted:</emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">660–700 cm<sup>–1</sup></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="red-text"><emphasis effect="italics">p</emphasis>-Disubstituted:</span></emphasis></entry>
+    <entry>   </entry>
     <entry valign="top" align="left">810–840 cm<sup>–1</sup></entry>
+    <entry>      </entry>
     <entry valign="top" align="left"> </entry>
+    <entry>   </entry>
     <entry valign="top" align="left">830–900 cm<sup>–1</sup></entry>
     </row>
     </tbody>
@@ -66,7 +87,7 @@
     </section>
     <section id="sect-00002">
     <title>Ultraviolet Spectroscopy</title>
-    <para id="para-00004">Aromatic rings are detectable by ultraviolet spectroscopy because they contain a conjugated π electron system. In general, aromatic compounds show a series of bands, with a fairly intense absorption near 205 nm and a less intense absorption in the 255 to 275 nm range. The presence of these bands in the ultraviolet spectrum of a molecule is a sure indication of an aromatic ring. <link target-id="fig-00002"/> shows the ultraviolet spectrum of benzene.</para>
+    <para id="para-00004">Aromatic rings are detectable by ultraviolet spectroscopy because they contain a conjugated <emphasis effect="italics">π</emphasis> electron system. In general, aromatic compounds show a series of bands, with a fairly intense absorption near 205 nm and a less intense absorption in the 255 to 275 nm range. The presence of these bands in the ultraviolet spectrum of a molecule is a sure indication of an aromatic ring. <link target-id="fig-00002"/> shows the ultraviolet spectrum of benzene.</para>
     <figure class="scaled-down-30" id="fig-00002">
     <media alt="An illustration shows the UV spectrum of benzene. The spectrum shows wavelength on the horizontal axis from 160 to 280 at an interval of 20; increasing log epsilon is shown on the vertical axis. The tallest peak is shown at 184 nm followed by one at 202 nm. About 7 peaks are shown between 225 nm to 265 nm.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_07_002.jpg"/>
@@ -82,7 +103,7 @@
     <media alt="An illustration shows the ring-current of an aromatic ring. The aromatic ring is shown sandwiched between two oval tubular structures each denoting circulating pi electrons (ring current). A broad up arrow in the center represents the perpendicular orientation of an applied magnetic field to the aromatic ring. The ring is bonded to a hydrogen on the left and on the right. The hydrogens are labeled as protons deshielded by induced field. Two rows of elliptical dotted lines around the hydrogen pass through the ring current representing the induced magnetic field because of ring current.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_07_003.jpg"/>
     </media>
-    <caption><emphasis effect="bold">The origin of aromatic ring-current. Aromatic protons are deshielded by the induced magnetic field caused by delocalized π electrons circulating around the aromatic ring.</emphasis></caption>
+    <caption><emphasis effect="bold">The origin of aromatic ring-current.</emphasis> Aromatic protons are deshielded by the induced magnetic field caused by delocalized <emphasis effect="italics">π</emphasis> electrons circulating around the aromatic ring.</caption>
     </figure>
     <para id="para-00007">Note that the aromatic ring-current produces different effects inside and outside the ring. If a ring were large enough to have both “inside” and “outside” protons, the protons on the outside would be deshielded and absorb at a field lower than normal but those on the inside would be shielded and absorb at a field higher than normal. This prediction has been strikingly confirmed by studies on [18]annulene, an 18-π-electron cyclic conjugated polyene that contains a Hückel number of electrons (4<emphasis effect="italics">n</emphasis> + 2 = 18 when <emphasis effect="italics">n</emphasis> = 4). The six inside protons of [18]annulene are strongly shielded by the aromatic ring-current and absorb at –3.0 <emphasis effect="italics">δ</emphasis> (that is, 3.0 ppm <emphasis effect="italics">upfield</emphasis> from TMS, off the normal chart), while the 12 outside protons are strongly deshielded and absorb in the typical aromatic region at 9.3 ppm downfield from TMS.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
@@ -90,7 +111,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_15_07_004.jpg"/>
     </media>
     </figure>
-    <para id="para-00008">The presence of a ring-current is characteristic of all Hückel aromatic molecules and is a good test of aromaticity. For example, benzene, a six-π-electron aromatic molecule, absorbs at 7.37 <emphasis effect="italics">δ</emphasis> because of its ring-current, but cyclooctatetraene, an eight-<emphasis effect="italics">π</emphasis>-electron nonaromatic molecule, absorbs at 5.78 <emphasis effect="italics">δ.</emphasis></para>
+    <para id="para-00008">The presence of a ring-current is characteristic of all Hückel aromatic molecules and is a good test of aromaticity. For example, benzene, a six-<emphasis effect="italics">π</emphasis>-electron aromatic molecule, absorbs at 7.37 <emphasis effect="italics">δ</emphasis> because of its ring-current, but cyclooctatetraene, an eight-<emphasis effect="italics">π</emphasis>-electron nonaromatic molecule, absorbs at 5.78 <emphasis effect="italics">δ.</emphasis></para>
     <para id="para-00009">Hydrogens on carbon next to aromatic rings—<emphasis effect="italics">benzylic</emphasis> hydrogens—also show distinctive absorptions in the NMR spectrum. Benzylic protons normally absorb downfield from other alkane protons in the region from 2.3 to 3.0 <emphasis effect="italics">δ.</emphasis></para>
     <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows the structure of an aromatic ring with five of the carbon atoms bonded to a pink hydrogen each. The hydrogens are labeled aryl protons (6.5–8.0 delta). The sixth carbon is bonded to a carbon bonded to an R and two blue hydrogens. The hydrogens are labeled benzylic protons (2.3–3.0 delta).">
@@ -134,7 +155,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_15_07_012.jpg"/>
     </media>
     </figure>
-    <para id="para-00016">Aspirin and other NSAIDs function by blocking the cyclooxygenase (COX) enzymes that carry out the body’s synthesis of prostaglandins <emphasis effect="bold">(<link document="m00099">Sections 8.11</link> and 27.4)</emphasis>. There are two forms of the enzyme: COX-1, which carries out the normal physiological production of prostaglandins, and COX-2, which mediates the body’s response to arthritis and other inflammatory conditions. Unfortunately, both COX-1 and COX-2 enzymes are blocked by aspirin, ibuprofen, and other NSAIDs, thereby shutting down not only the response to inflammation but also various protective functions, including the control mechanism for production of acid in the stomach.</para>
+    <para id="para-00016">Aspirin and other NSAIDs function by blocking the cyclooxygenase (COX) enzymes that carry out the body’s synthesis of prostaglandins (<link document="m00099">Sections 8.11</link> and 27.4). There are two forms of the enzyme: COX-1, which carries out the normal physiological production of prostaglandins, and COX-2, which mediates the body’s response to arthritis and other inflammatory conditions. Unfortunately, both COX-1 and COX-2 enzymes are blocked by aspirin, ibuprofen, and other NSAIDs, thereby shutting down not only the response to inflammation but also various protective functions, including the control mechanism for production of acid in the stomach.</para>
     <para id="para-00017">Medicinal chemists have therefore devised a number of drugs that act as selective inhibitors of only the COX-2 enzyme. Inflammation is thereby controlled without blocking protective functions. Originally heralded as a breakthrough in arthritis treatment, the first generation of COX-2 inhibitors, including Rofecoxib, (marketed as Vioxx), Celecoxib, (marketed as Celebrex), and Valdecoxib (marketed as Bextra), turned out to cause potentially serious heart problems, particularly in elderly or compromised patients. As a result, all three Cox-2 inhibitors were removed from the U.S. and other markets. Further studies, however, concluded that in proper doses the Cox-2 inhibitors were little different from other NSAIDs, and Vioxx returned to the market in 2017 for topical treatment of osteoarthritis.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00011">
     <media alt="An illustration shows the structure of Rofecoxib (Vioxx). A 5-membered ring with a single double bond and oxygen atom is double bonded to an oxygen atom and single bonded to two benzene rings. One of the benzene rings is bonded to a sulfur single bonded to a methyl group and double bonded to two oxygen atoms.">
