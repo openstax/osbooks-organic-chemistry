@@ -16,6 +16,10 @@
   </m:msub>
   <m:mtext>O</m:mtext><m:munder>
    <m:mo stretchy="true">&#x21C4;</m:mo>
+   <m:mo stretchy="true" maxsize="1em">&#8652;</m:mo>
+   <m:mo stretchy="true" maxsize="2em">&#8652;</m:mo>
+   <m:mo stretchy="true" minsize=".5em" maxsize="2em">&#8652;</m:mo>
+   <m:mo stretchy="true" minsize=".5em" maxsize="3em">&#8652;</m:mo>
    <m:mrow>
     <m:msub>
      <m:mi>K</m:mi>
