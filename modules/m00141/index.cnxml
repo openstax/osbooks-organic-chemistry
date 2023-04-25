@@ -18,7 +18,7 @@
       <thead>
       <row valign="top">
       <entry valign="top" align="left">Functional Group</entry>
-    <entry valign="top" align="center"> </entry>
+      <entry valign="top" align="center"> </entry>
       <entry valign="top" align="left">Absorption (cm<sup>–1</sup>)</entry>
       <entry valign="top" align="left">Intensity</entry>
       </row>
@@ -26,14 +26,13 @@
       <tbody>
   
       <row valign="top">
-    <entry valign="top" align="left">Alkane</entry>
+      <entry valign="top" align="left">Alkane</entry>
       <entry valign="top" align="left">C–H</entry>
       <entry valign="top" align="center">2850–2960</entry>
       <entry valign="top" align="left">Medium</entry>
       </row>
-  
       <row valign="top">
-    <entry valign="top" align="left" morerows="1">Alkene</entry>
+      <entry valign="top" align="left" morerows="1">Alkene</entry>
       <entry valign="top" align="left">=C–H</entry>
       <entry valign="top" align="center">3020–3100</entry>
       <entry valign="top" align="left">Medium</entry>
@@ -43,9 +42,8 @@
       <entry valign="top" align="center">1640–1680</entry>
       <entry valign="top" align="left">Medium</entry>
       </row>
-     
       <row valign="top">
-     <entry valign="top" align="left" morerows="1">Alkyne</entry>
+      <entry valign="top" align="left" morerows="1">Alkyne</entry>
       <entry valign="top" align="left"><m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math></entry>
       <entry valign="top" align="center">3300</entry>
       <entry valign="top" align="left">Strong</entry>
@@ -55,9 +53,8 @@
       <entry valign="top" align="center">2100–2260</entry>
       <entry valign="top" align="left">Medium</entry>
       </row>
-   
       <row valign="top">
-    <entry valign="top" align="left" morerows="1">Alkyl halide</entry>
+      <entry valign="top" align="left" morerows="1">Alkyl halide</entry>
       <entry valign="top" align="left">C–Cl</entry>
       <entry valign="top" align="center">600–800</entry>
       <entry valign="top" align="left">Strong</entry>
@@ -66,10 +63,9 @@
       <entry valign="top" align="left">C–Br</entry>
       <entry valign="top" align="center">500–600</entry>
       <entry valign="top" align="left">Strong</entry>
-      </row>
-  
+      </row>  
       <row valign="top">
-    <entry valign="top" align="left" morerows="1">Alcohol</entry>
+      <entry valign="top" align="left" morerows="1">Alcohol</entry>
       <entry valign="top" align="left">O–H</entry>
       <entry valign="top" align="center">3400–3650</entry>
       <entry valign="top" align="left">Strong, broad</entry>
@@ -78,28 +74,25 @@
       <entry valign="top" align="left">C–O</entry>
       <entry valign="top" align="center">1050–1150</entry>
       <entry valign="top" align="left">Strong</entry>
-      </row>
-  
+      </row>  
       <row valign="top">
-    <entry valign="top" align="left">Arene</entry>
+      <entry valign="top" align="left">Arene</entry>
       <entry valign="top" align="left">C–H</entry>
       <entry valign="top" align="center">3030</entry>
       <entry valign="top" align="left">Weak</entry>
       </row>
       <row valign="top">
       <entry valign="top" align="left" morerows="1">Aromatic ring</entry>
-    <entry valign="top" align="left" morerows="1"> </entry>
+      <entry valign="top" align="left" morerows="1"> </entry>
       <entry valign="top" align="center">1660–2000</entry>
       <entry valign="top" align="left">Weak</entry>
       </row>
-      <row valign="top">
-        
+      <row valign="top">  
       <entry valign="top" align="center">1450–1600</entry>
       <entry valign="top" align="left">Medium</entry>
       </row>
-   
       <row valign="top">
-    <entry valign="top" align="left" morerows="1">Amine</entry>
+      <entry valign="top" align="left" morerows="1">Amine</entry>
       <entry valign="top" align="left">N–H</entry>
       <entry valign="top" align="center">3300–3500</entry>
       <entry valign="top" align="left">Medium</entry>
@@ -109,9 +102,8 @@
       <entry valign="top" align="center">1030–1230</entry>
       <entry valign="top" align="left">Medium</entry>
       </row>
-  
       <row valign="top">
-    <entry valign="top" align="left" morerows="5">Carbonyl compound</entry>
+      <entry valign="top" align="left" morerows="5">Carbonyl compound</entry>
       <entry valign="top" align="left">C=O</entry>
       <entry valign="top" align="center">1670–1780</entry>
       <entry valign="top" align="left">Strong</entry>
@@ -141,23 +133,20 @@
       <entry valign="top" align="center">1710</entry>
       <entry valign="top" align="left">Strong</entry>
       </row>
-  
       <row valign="top">
-    <entry valign="top" align="left">Carboxylic acid</entry>
+      <entry valign="top" align="left">Carboxylic acid</entry>
       <entry valign="top" align="left">O–H</entry>
       <entry valign="top" align="center">2500–3100</entry>
       <entry valign="top" align="left">Strong, broad</entry>
       </row>
-  
       <row valign="top">
-    <entry valign="top" align="left">Nitrile</entry>
+      <entry valign="top" align="left">Nitrile</entry>
       <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math></entry>
       <entry valign="top" align="center">2210–2260</entry>
       <entry valign="top" align="left">Medium</entry>
       </row>
-  
       <row valign="top">
-    <entry valign="top" align="left">Nitro</entry>
+      <entry valign="top" align="left">Nitro</entry>
       <entry valign="top" align="left">NO<sub>2</sub></entry>
       <entry valign="top" align="center">1540</entry>
       <entry valign="top" align="left">Strong</entry>
