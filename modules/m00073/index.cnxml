@@ -89,8 +89,9 @@
     <para id="para-00017">Markovnikov’s rule can be restated by saying that, in the addition of HX to an alkene, a more stable carbocation intermediate is formed. This result is explained by the <emphasis effect="bold">Hammond postulate</emphasis>, which says that the transition state of an exergonic reaction step structurally resembles the reactant, whereas the transition state of an endergonic reaction step structurally resembles the product. Since an alkene protonation step is endergonic, the stability of the more highly substituted carbocation is reflected in the stability of the transition state leading to its formation.</para>
     <para id="para-00018">Evidence in support of a carbocation mechanism for electrophilic additions comes from the observation that structural rearrangements often take place during reaction. Rearrangements occur by shift of either a hydride ion, <emphasis effect="bold">:</emphasis>H<sup>−</sup> (a <emphasis effect="bold">hydride shift</emphasis>), or an alkyl anion, <emphasis effect="bold">:</emphasis>R<sup>−</sup>, from a carbon atom to the neighboring positively charged carbon. This results in isomerization of a less stable carbocation to a more stable one.</para>
     </section>
-    <section class="visualizing-chemistry" id="sect-00004">
-    <title>Visualizing Chemistry</title>
+    <section class="additional-problems" id="sect-00004">
+    <title>Additional Problems</title>
+    <para id="para-00074"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
     <exercise id="exer-00002">
     <problem id="prob-00002">
     <para id="para-00019"><link class="os-embed" url="#exercise/07-99-OC-VC01"/></para>
@@ -111,9 +112,7 @@
     <para id="para-00022"><link class="os-embed" url="#exercise/07-99-OC-VC04"/></para>
     </problem>
     </exercise>
-    </section>
-    <section class="mechanism-problems" id="sect-00005">
-    <title>Mechanism Problems</title>
+    <para id="para-00074a"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
     <exercise id="exer-00006">
     <problem id="prob-00006">
     <para id="para-00023"><link class="os-embed" url="#exercise/07-99-OC-MP01"/></para>
@@ -154,9 +153,8 @@
     <para id="para-00030"><link class="os-embed" url="#exercise/07-99-OC-MP08"/></para>
     </problem>
     </exercise>
-    </section>
-    <section class="additional-problems" id="sect-00006">
-    <title>Additional Problems</title>
+    
+    
     <para id="para-00031"><emphasis effect="bold"><span class="red-text">Calculating a Degree of Unsaturation</span></emphasis></para>
     <exercise id="exer-00014">
     <problem id="prob-00014">
@@ -354,7 +352,7 @@
     </exercise>
     <exercise id="exer-00052">
     <problem id="prob-00052">
-    <para id="para-00074"><link class="os-embed" url="#exercise/07-99-OC-AP39"/></para>
+    <para id="para-00074b"><link class="os-embed" url="#exercise/07-99-OC-AP39"/></para>
     </problem>
     </exercise>
     </section>
