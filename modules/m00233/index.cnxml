@@ -19,7 +19,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_04_002.jpg"/>
     </media>
     </figure>
-    <para id="para-00004">Substituent effects on acidity are also found in substituted benzoic acids. We said during the discussion of electrophilic aromatic substitution in <emphasis effect="bold"><link document="m00192">Section 16.4</link></emphasis> that substituents on the aromatic ring strongly affect reactivity. Aromatic rings with electron-donating groups are activated toward further electrophilic substitution, and aromatic rings with electron-withdrawing groups are deactivated. Exactly the same effects can be observed on the acidity of substituted benzoic acids <emphasis effect="bold">(<link target-id="table-00001"/>)</emphasis>.</para>
+    <para id="para-00004">Substituent effects on acidity are also found in substituted benzoic acids. We said during the discussion of electrophilic aromatic substitution in <link document="m00192">Section 16.4</link> that substituents on the aromatic ring strongly affect reactivity. Aromatic rings with electron-donating groups are activated toward further electrophilic substitution, and aromatic rings with electron-withdrawing groups are deactivated. Exactly the same effects can be observed on the acidity of substituted benzoic acids (<link target-id="table-00001"/>).</para>
     <table summary="" id="table-00001">
     <title>Substituent Effects on the Acidity of <emphasis effect="italics">p</emphasis>-Substituted Benzoic Acids</title>
     <tgroup cols="5">
@@ -34,7 +34,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left"> </entry>
-    <entry valign="top" align="left"><span class="green-text">Y</span></entry>
+    <entry valign="top" align="center"><span class="green-text">Y</span></entry>
     <entry valign="top" align="left"><emphasis effect="italics">K</emphasis><sub>a</sub> × 10<sup>–5</sup></entry>
     <entry valign="top" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
     <entry valign="top" align="left"> </entry>
@@ -70,30 +70,30 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">–H</entry>
-    <entry valign="top" align="left">6.46</entry>
+    <entry valign="top" align="left">&#8199;6.46</entry>
     <entry valign="top" align="left">4.19</entry>
     <entry valign="top" align="left"> </entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">–CH<sub>3</sub></span></entry>
-    <entry valign="top" align="left">4.3</entry>
+    <entry valign="top" align="left">&#8199;4.3</entry>
     <entry valign="top" align="left">4.34</entry>
     <entry valign="top" align="left" morerows="2"><span class="cyan-text">Activating groups</span></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">–OCH<sub>3</sub></span></entry>
-    <entry valign="top" align="left">3.5</entry>
+    <entry valign="top" align="left">&#8199;3.5</entry>
     <entry valign="top" align="left">4.46</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="cyan-text">–OH</span></entry>
-    <entry valign="top" align="left">3.3</entry>
+    <entry valign="top" align="left">&#8199;3.3</entry>
     <entry valign="top" align="left">4.48</entry>
     </row>
     </tbody>
     </tgroup>
     </table>
-    <para id="para-00005">As <emphasis effect="bold"><link target-id="table-00001"/></emphasis> shows, an electron-donating (activating) group such as methoxy decreases acidity by destabilizing the carboxylate anion, and an electron-withdrawing (deactivating) group such as nitro increases acidity by stabilizing the carboxylate anion.</para>
+    <para id="para-00005">As <link target-id="table-00001"/> shows, an electron-donating (activating) group such as methoxy decreases acidity by destabilizing the carboxylate anion, and an electron-withdrawing (deactivating) group such as nitro increases acidity by stabilizing the carboxylate anion.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_04_005.jpg"/>
