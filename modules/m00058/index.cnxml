@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>A Review of Isomerism</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>A Review of Isomerism</md:title>
+    <md:content-id>m00058</md:content-id>
+    <md:uuid>6d01078f-212e-415a-83c3-d3011de46991</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">As noted on several previous occasions, isomers are compounds with the same chemical formula but different structures. We’ve seen several kinds of isomers in the past few chapters, and it’s a good idea at this point to see how they relate to one another (<link target-id="fig-00001"/>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the classification of various isomers. Isomers are divided into Constitutional isomers and Stereoisomers. Stereoisomers are divided into Enantiomers (mirror-image) and Diastereomers (non–mirror-image). Diastereomers are divided into Configurational diastereomers and Cis–trans diastereomers.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_09_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">A summary of the different kinds of isomers.</emphasis></caption>
+    </figure>
+    <para id="para-00002">There are two fundamental types of isomers, both of which we’ve now encountered: constitutional isomers and stereoisomers.</para>
+    <para id="para-00003"><emphasis effect="bold"><span class="magenta-text">Constitutional isomers</span></emphasis> (<link document="m00033"/>) are compounds whose atoms are connected differently. Among the kinds of constitutional isomers we’ve seen are skeletal, functional, and positional isomers.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows three groups of structural formulas. Different carbon skeletons: 2-Methylpropane shows a methine group bonded to three methyl groups. Butane shows a methyl group bonded to two methylene groups and a methyl group. Different functional groups: Ethyl alcohol shows an ethyl group bonded to hydroxyl group. Dimethyl ether shows an oxygen bonded to two methyl groups. Different position of functional groups: Isopropylamine shows a methine group bonded to two methyl groups and an amino group. Propylamine shows a propyl group bonded to an amino group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_09_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004"><emphasis effect="bold"><span class="magenta-text">Stereoisomers</span></emphasis> (<link document="m00041"/>) are compounds whose atoms are connected in the same order but with a different spatial arrangement. Among the kinds of stereoisomers we’ve seen are enantiomers, diastereomers, and cis–trans isomers of cycloalkanes. Actually, cis–trans isomers are just a subclass of diastereomers because they are non–mirror-image stereoisomers:</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structures of 2 enantiomers and 4 diastereomers. Enantiomers: (R)-Lactic acid and (S)-Lactic acid. (R)-Lactic acid shows a carbon bonded to a carboxyl group at the top and hydroxyl group on the right the carbon is dash bonded to a methyl group on the left and wedge bonded to a hydrogen at the bottom. (S)-Lactic acid is the mirror image of (R)-Lactic acid. Diastereomers: Configurational diastereomers are (2R 3R)-2-Amino-3-hydroxybutanoic acid and (2R 3S)-2-Amino-3-hydroxybutanoic acid; Cis–trans diastereomers are trans-1 3-Dimethyl-cyclopentane and cis-1 3-Dimethyl-cyclopentane. (2R 3R)-2-Amino-3-hydroxybutanoic acid shows two carbon atoms single bonded to each other. The top carbon is dash bonded to carboxyl group at the top wedge bonded to hydrogen on the left and amino group on the right. The bottom carbon is dash bonded to a methyl group at the bottom wedge bonded to hydrogen on the left and hydroxyl group on the right. (2R 3S)-2-Amino-3-hydroxybutanoic acid is similar but the bottom carbon is dash bonded to a methyl group at the bottom wedge bonded to hydrogen on the right and hydroxyl group on the left. trans-1 3-Dimethyl-cyclopentane shows a cyclopentane wedge bonded to a methyl group and dash bonded to a hydrogen on the left. The ring is wedge bonded to a hydrogen and dash bonded to a methyl group on the right. cis-1 3-Dimethyl-cyclopentane shows a cyclopentane wedge bonded to a methyl group and dash bonded to a hydrogen on the left. The ring is wedge bonded to a methyl group and dash bonded to a hydrogen on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_09_003.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005"><link class="os-embed" url="#exercise/05-09-OC-P21"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

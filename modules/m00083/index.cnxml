@@ -1,0 +1,249 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Describing a Reaction: Equilibria, Rates, and Energy Changes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Describing a Reaction: Equilibria, Rates, and Energy Changes</md:title>
+    <md:content-id>m00083</md:content-id>
+    <md:uuid>86c3c508-3eb5-45bd-abd5-92a55530dbce</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Every chemical reaction can go in either a forward or reverse direction. Reactants can go forward to products, and products can revert to reactants. As you may remember from your general chemistry course, the position of the resulting chemical equilibrium is expressed by an equation in which <emphasis effect="italics">K</emphasis><sub>eq</sub>, the equilibrium constant, is equal to the product concentrations multiplied together, divided by the reactant concentrations multiplied together, with each concentration raised to the power of its coefficient in the balanced equation. For the generalized reaction</para>
+    <equation class="unnumbered" id="eq-00001"><label/><m:math display="block"><m:mrow><m:mi>a</m:mi><m:mtext>A</m:mtext><m:mo>+</m:mo><m:mi>b</m:mi><m:mtext>B</m:mtext><m:mo stretchy="true" minsize="2em">&#8652;</m:mo><m:mi>c</m:mi><m:mtext>C</m:mtext><m:mo>+</m:mo><m:mi>d</m:mi><m:mtext>D</m:mtext></m:mrow></m:math></equation>
+    <para id="para-00002">we have</para>
+    <equation class="unnumbered" id="eq-00002"><label/><m:math display="block">
+     <m:mrow>
+      <m:msub>
+       <m:mi>K</m:mi>
+       <m:mrow>
+        <m:mtext>eq</m:mtext></m:mrow>
+      </m:msub>
+      <m:mo>=</m:mo><m:mfrac>
+       <m:mrow>
+        <m:msup>
+         <m:mrow>
+          <m:mo stretchy="false">[</m:mo><m:mtext>C</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow>
+         <m:mi>c</m:mi>
+        </m:msup>
+        <m:msup>
+         <m:mrow>
+          <m:mo stretchy="false">[</m:mo><m:mtext>D</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow>
+         <m:mi>d</m:mi>
+        </m:msup>
+        </m:mrow>
+       <m:mrow>
+        <m:msup>
+         <m:mrow>
+          <m:mo stretchy="false">[</m:mo><m:mtext>A</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow>
+         <m:mi>a</m:mi>
+        </m:msup>
+        <m:msup>
+         <m:mrow>
+          <m:mo stretchy="false">[</m:mo><m:mtext>B</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow>
+         <m:mi>b</m:mi>
+        </m:msup>
+        </m:mrow>
+      </m:mfrac>
+      </m:mrow>
+    </m:math>
+    </equation>
+    <para id="para-00003">The value of the equilibrium constant tells which side of the reaction arrow is energetically favored. If <emphasis effect="italics">K</emphasis><sub>eq</sub> is much larger than 1, then the product concentration term [C]<emphasis effect="italics"><sup>c</sup></emphasis>[D]<emphasis effect="italics"><sup>d</sup></emphasis> is much larger than the reactant concentration term [A]<emphasis effect="italics"><sup>a</sup></emphasis>[B]<emphasis effect="italics"><sup>b</sup></emphasis>, and the reaction proceeds as written from left to right. If <emphasis effect="italics">K</emphasis><sub>eq</sub> is near 1, appreciable amounts of both reactant and product are present at equilibrium. And if <emphasis effect="italics">K</emphasis><sub>eq</sub> is much smaller than 1, the reaction does not take place as written but instead goes in the reverse direction, from right to left.</para>
+    <para id="para-00004">In the reaction of ethylene with HBr, for example, we can write the following equilibrium expression and determine experimentally that the equilibrium constant at room temperature is approximately 7.1 × 10<sup>7</sup>:</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows a reversible reaction and its corresponding energy equation. The reaction between ethylene (shown as two methylene groups double bonded to each other) and hydrogen bromide (with pink bromine) to yield ethyl bromide (with pink bromine). The energy reaction shows “Keq equals ethyl bromide CH3CH2Br divided by ethylene multiplied with hydrogen bromide” wherein all the formulae are shown in parenthesis” this equation equals 7.1 multiplied with ten to the power seven.">
+    <image mime-type="image/jpeg" src="../../media/OChem_06_07_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Because <emphasis effect="italics">K</emphasis><sub>eq</sub> is relatively large, the reaction proceeds as written and more than 99.999 99% of the ethylene is converted into bromoethane. For practical purposes, an equilibrium constant greater than about 10<sup>3</sup> means that the amount of reactant left over will be barely detectable (less than 0.1%).</para>
+    <para id="para-00006">What determines the magnitude of the equilibrium constant? For a reaction to have a favorable equilibrium constant and proceed as written, the energy of the products must be lower than the energy of the reactants. In other words, energy must be released. This situation is analogous to that of a rock poised precariously in a high-energy position near the top of a hill. When it rolls downhill, the rock releases energy until it reaches a more stable, low-energy position at the bottom.</para>
+    <para id="para-00007">The energy change that occurs during a chemical reaction is called the <term id="term-00001">Gibbs free-energy change (Δ<emphasis effect="italics">G</emphasis>)</term>, which is equal to the free energy of the products minus the free energy of the reactants: Δ<emphasis effect="italics">G</emphasis> = <emphasis effect="italics">G</emphasis><sub>products</sub> − <emphasis effect="italics">G</emphasis><sub>reactants</sub>. For a favorable reaction, Δ<emphasis effect="italics">G</emphasis> has a negative value, meaning that energy is lost by the chemical system and released <emphasis effect="italics">to</emphasis> the surroundings, usually as heat. Such reactions are said to be <term id="term-00002">exergonic</term>. For an unfavorable reaction, Δ<emphasis effect="italics">G</emphasis> has a positive value, meaning that energy is absorbed by the chemical system <emphasis effect="italics">from</emphasis> the surroundings. Such reactions are said to be <term id="term-00003">endergonic</term>.</para>
+    <para id="para-00008">You might also recall from general chemistry that the <emphasis effect="italics">standard</emphasis> free-energy change for a reaction is denoted as Δ<emphasis effect="italics">G</emphasis>°, where the superscript ° means that the reaction is carried out under standard conditions, with pure substances in their most stable form at 1 atm pressure and a specified temperature, usually 298 K. For biological reactions, the standard free-energy change is denoted as Δ<emphasis effect="italics">G</emphasis>°′ and refers to a reaction carried out at pH = 7.0 with solute concentrations of 1.0 M.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows a flask partially filled with a solution; a pink arrow points from the flask to an equation “Keq greater than 1; energy out: delta G degree negative”; a green arrow points from the equation “Keq lesser than 1; energy in: delta G degree positive” to the flask.">
+    <image mime-type="image/jpeg" src="../../media/OChem_06_07_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Because the equilibrium constant, <emphasis effect="italics">K</emphasis><sub>eq</sub>, and the standard free-energy change, Δ<emphasis effect="italics">G</emphasis>°, both measure whether a reaction is favorable, they are mathematically related by the equation</para>
+    <equation class="unnumbered" id="eq-00003"><label/><m:math display="block">
+     <m:mrow>
+      <m:mtext>Δ</m:mtext><m:msup>
+       <m:mi>G</m:mi>
+       <m:mo>∘</m:mo>
+      </m:msup>
+      <m:mo>=</m:mo><m:mo>−</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mi>ln</m:mi><m:msub>
+       <m:mi>K</m:mi>
+       <m:mrow>
+        <m:mtext>eq</m:mtext></m:mrow>
+      </m:msub>
+      <m:mtext>   or   </m:mtext><m:msub>
+       <m:mi>K</m:mi>
+       <m:mrow>
+        <m:mtext>eq</m:mtext></m:mrow>
+      </m:msub>
+      <m:mo>=</m:mo><m:msup>
+       <m:mi>e</m:mi>
+       <m:mrow>
+        <m:mo>−</m:mo><m:mtext>Δ</m:mtext><m:msup>
+         <m:mi>G</m:mi>
+         <m:mo>∘</m:mo>
+        </m:msup>
+        <m:mo>/</m:mo><m:mi>R</m:mi><m:mi>T</m:mi></m:mrow>
+      </m:msup>
+      </m:mrow>
+    </m:math></equation>
+        <equation id="eq-00004"><m:math display="block">
+          <m:mtable columnalign="left">
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>where       </m:mtext><m:mi>R</m:mi><m:mo>=</m:mo><m:mn>8.314</m:mn><m:mtext> J/(K</m:mtext><m:mo>⋅</m:mo><m:mtext>mol)</m:mtext><m:mo>=</m:mo><m:mtext>1</m:mtext><m:mtext>.987 cal/(K</m:mtext><m:mo>⋅</m:mo><m:mtext>mol)</m:mtext>
+            </m:mtd>
+           </m:mtr>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>                 </m:mtext><m:mi>T</m:mi><m:mo>=</m:mo><m:mtext>Kelvin temperature</m:mtext>
+            </m:mtd>
+           </m:mtr>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>                 </m:mtext><m:mi>e</m:mi><m:mo>=</m:mo><m:mn>2.718</m:mn>
+            </m:mtd>
+           </m:mtr>
+           <m:mtr>
+            <m:mtd>
+             <m:mtext>                 ln </m:mtext><m:msub>
+              <m:mi>K</m:mi>
+              <m:mrow>
+               <m:mtext>eq</m:mtext></m:mrow>
+             </m:msub>
+             <m:mo>=</m:mo><m:mtext>natural logarithm of </m:mtext><m:msub>
+              <m:mi>K</m:mi>
+              <m:mrow>
+               <m:mtext>eq</m:mtext></m:mrow>
+             </m:msub>
+             
+            </m:mtd>
+           </m:mtr>
+          </m:mtable>
+        </m:math></equation>
+             <para id="para-00011">For example, the reaction of ethylene with HBr has <emphasis effect="italics">K</emphasis><sub>eq</sub> = 7.1 × 10<sup>7</sup>, so Δ<emphasis effect="italics">G</emphasis>° = −44.8 kJ/mol (−10.7 kcal/mol) at 298 K:</para>
+    <equation id="eq-00005"><m:math display="block">
+      <m:mtable columnalign="left">
+       <m:mtr>
+        <m:mtd>
+         <m:mtext>           </m:mtext><m:msub>
+          <m:mi>K</m:mi>
+          <m:mrow>
+           <m:mtext>eq</m:mtext></m:mrow>
+         </m:msub>
+         <m:mo>=</m:mo><m:mn>7.1</m:mn><m:mo>×</m:mo><m:msup>
+          <m:mn>10</m:mn>
+          <m:mn>7</m:mn>
+         </m:msup>
+         <m:mtext>   and    ln </m:mtext><m:msub>
+          <m:mi>K</m:mi>
+          <m:mrow>
+           <m:mtext>eq</m:mtext></m:mrow>
+         </m:msub>
+         <m:mo>=</m:mo><m:mn>18.08</m:mn>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr>
+        <m:mtd>
+         <m:mtext>           </m:mtext><m:mi>Δ</m:mi><m:msup>
+          <m:mi>G</m:mi>
+          <m:mo>∘</m:mo>
+         </m:msup>
+         <m:mo>=</m:mo><m:mo>−</m:mo><m:mi>R</m:mi><m:mi>T</m:mi><m:mi>ln</m:mi><m:msub>
+          <m:mi>K</m:mi>
+          <m:mrow>
+           <m:mtext>eq</m:mtext></m:mrow>
+         </m:msub>
+         <m:mo>=</m:mo><m:mo>−</m:mo><m:mo stretchy="false">[</m:mo><m:mn>8.314</m:mn><m:mtext> J/(K</m:mtext><m:mo>⋅</m:mo><m:mtext>mol)](298 K)(18</m:mtext><m:mtext>.08)</m:mtext>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr>
+        <m:mtd>
+         <m:mtext>                   =</m:mtext><m:mo>−</m:mo><m:mtext>44,800 J/mol=</m:mtext><m:mo>−</m:mo><m:mn>44.8</m:mn><m:mtext> kJ/mol</m:mtext>
+        </m:mtd>
+       </m:mtr>
+      </m:mtable>
+     </m:math></equation>     
+    <para id="para-00012">The free-energy change Δ<emphasis effect="italics">G</emphasis> is made up of two terms, an <emphasis effect="italics">enthalpy</emphasis> term, Δ<emphasis effect="italics">H</emphasis>, and a temperature-dependent <emphasis effect="italics">entropy</emphasis> term, <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. Of the two terms, the enthalpy term is often larger and more dominant.</para>
+    <equation class="unnumbered" id="eq-00006"><label/><m:math display="block">
+     <m:mrow>
+      <m:mtext>Δ</m:mtext><m:msup>
+       <m:mi>G</m:mi>
+       <m:mo>∘</m:mo>
+      </m:msup>
+      <m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msup>
+       <m:mi>H</m:mi>
+       <m:mo>∘</m:mo>
+      </m:msup>
+      <m:mo>−</m:mo><m:mi>T</m:mi><m:mtext>Δ</m:mtext><m:msup>
+       <m:mi>S</m:mi>
+       <m:mo>∘</m:mo>
+      </m:msup>
+      </m:mrow>
+    </m:math>
+    </equation>
+    <para id="para-00013">For the reaction of ethylene with HBr at room temperature (298 K), the approximate values are</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a reversible reaction between ethylene and pink hydrogen bromide to yield ethyl bromide having a pink bromine. The accompanying equations shown are “delta G degree equals minus 44.8 kJ/mol; delta H degree equals minus 84.1 kJ/mol; delta S degree equals minus 0.132 kJ/(K.mol); Keq equals 7.1 multiplied by ten to the power seven.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_06_07_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00014">The <term id="term-00004">enthalpy change (Δ<emphasis effect="italics">H</emphasis>)</term>, also called the <term id="term-00005">heat of reaction</term>, is a measure of the change in total bonding energy during a reaction. If Δ<emphasis effect="italics">H</emphasis> is negative, as in the reaction of HBr with ethylene, the products have less energy than the reactants. Thus, the products are more stable and have stronger bonds than the reactants, heat is released, and the reaction is said to be <term id="term-00006">exothermic</term>. If Δ<emphasis effect="italics">H</emphasis> is positive, the products are less stable and have weaker bonds than the reactants, heat is absorbed, and the reaction is said to be <term id="term-00007">endothermic</term>. For example, if a reaction breaks reactant bonds with a total strength of 380 kJ/mol and forms product bonds with a total strength of 400 kJ/mol, then Δ<emphasis effect="italics">H</emphasis> for the reaction is 400 kJ/mol – 380 kJ/mol = −20 kJ/mol and the reaction is exothermic.</para>
+    <para id="para-00015">The <term id="term-00008">entropy change (Δ<emphasis effect="italics">S</emphasis>)</term> is a measure of the change in the amount of molecular randomness, or freedom of motion, that accompanies a reaction. For example, in an elimination reaction of the type</para>
+    <equation class="unnumbered" id="eq-00007"><label/><m:math display="block"><m:mrow><m:mi mathvariant="bold">A</m:mi><m:mo stretchy="true" minsize="2em">→</m:mo><m:mi mathvariant="bold">B</m:mi><m:mo>+</m:mo><m:mi mathvariant="bold">C</m:mi></m:mrow></m:math></equation>
+    <para id="para-00016">there is more freedom of movement and molecular randomness in the products than in the reactant because one molecule has split into two. Thus, there is a net increase in entropy during the reaction and Δ<emphasis effect="italics">S</emphasis> has a positive value.</para>
+    <para id="para-00017">On the other hand, for an addition reaction of the type</para>
+    <equation class="unnumbered" id="eq-00008"><label/><m:math display="block"><m:mrow><m:mi mathvariant="bold">A</m:mi><m:mo>+</m:mo><m:mi mathvariant="bold">B</m:mi><m:mo stretchy="true">→</m:mo><m:mi mathvariant="bold">C</m:mi></m:mrow></m:math></equation>
+    <para id="para-00018">the opposite is true. Because such reactions restrict the freedom of movement of two molecules by joining them together, the product has less randomness than the reactants and Δ<emphasis effect="italics">S</emphasis> has a negative value. The reaction of ethylene and HBr to yield bromoethane, which has Δ<emphasis effect="italics">S</emphasis>° = −0.132 kJ/(K · mol), is an example. <link target-id="table-00001"/> describes the thermodynamic terms more fully.</para>
+    <table summary="" id="table-00001">
+    <title>Explanation of Thermodynamic Quantities: Δ<emphasis effect="italics">G</emphasis><emphasis effect="bold">°</emphasis> = Δ<emphasis effect="italics">H</emphasis><emphasis effect="bold">°</emphasis> − <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis><emphasis effect="bold">°</emphasis></title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Term</entry>
+    <entry valign="top" align="left">Name</entry>
+    <entry valign="top" align="left">Explanation</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="green-text">Δ<emphasis effect="bold"><emphasis effect="italics">G</emphasis>°</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="green-text"><emphasis effect="bold">Gibbs free-energy change</emphasis></span></entry>
+    <entry valign="top" align="left">The energy difference between reactants and products. When Δ<emphasis effect="italics">G</emphasis>° is negative, the reaction is <emphasis effect="bold">exergonic</emphasis>, has a favorable equilibrium constant, and can occur spontaneously. When Δ<emphasis effect="italics">G</emphasis>° is positive, the reaction is <emphasis effect="bold">endergonic</emphasis>, has an unfavorable equilibrium constant, and cannot occur spontaneously.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="red-text">Δ<emphasis effect="bold"><emphasis effect="italics">H</emphasis>°</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="red-text"><emphasis effect="bold">Enthalpy change</emphasis></span></entry>
+    <entry valign="top" align="left">The heat of reaction, or difference in strength between the bonds broken in a reaction and the bonds formed. When Δ<emphasis effect="italics">H</emphasis>° is negative, the reaction releases heat and is <emphasis effect="bold">exothermic</emphasis>. When Δ<emphasis effect="italics">H</emphasis>° is positive, the reaction absorbs heat and is <emphasis effect="bold">endothermic</emphasis>.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="cyan-text">Δ<emphasis effect="bold"><emphasis effect="italics">S</emphasis>°</emphasis></span></entry>
+    <entry valign="top" align="left"><span class="cyan-text"><emphasis effect="bold">Entropy change</emphasis></span></entry>
+    <entry valign="top" align="left">The change in molecular randomness during a reaction. When Δ<emphasis effect="italics">S</emphasis>° is negative, randomness decreases. When Δ<emphasis effect="italics">S</emphasis>° is positive, randomness increases.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00019">Knowing the value of <emphasis effect="italics">K</emphasis><sub>eq</sub> for a reaction is useful, but it’s important to realize its limitations. An equilibrium constant tells only the position of the equilibrium, or how much product is theoretically possible. It doesn’t tell the rate of reaction, or how fast the equilibrium is established. Some reactions are extremely slow even though they have favorable equilibrium constants. Gasoline is stable at room temperature, for instance, because the rate of its reaction with oxygen is slow at 298 K. Only at higher temperatures, such as contact with a lighted match, does gasoline react rapidly with oxygen and undergo complete conversion to the equilibrium products water and carbon dioxide. Rates (how fast a reaction occurs) and equilibria (how much a reaction occurs) are entirely different.</para>
+    <equation id="eq-00009"><m:math display="block"><m:mtext >      </m:mtext><m:mstyle mathvariant="bold"><m:mrow><m:mtext style="color: #E00087">Rate</m:mtext><m:mo>→</m:mo><m:mtext>Is the reaction fast or slow?</m:mtext></m:mrow></m:mstyle></m:math></equation>
+    <equation id="eq-00010"><m:math display="block"><m:mtext>      </m:mtext><m:mstyle mathvariant="bold"><m:mrow><m:mtext style="color: #0078A3">Equilibrium</m:mtext><m:mo>→</m:mo><m:mtext>In what direction does the reaction proceed?</m:mtext></m:mrow></m:mstyle></m:math></equation>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00020"><link class="os-embed" url="#exercise/06-07-OC-P10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00021"><link class="os-embed" url="#exercise/06-07-OC-P11"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

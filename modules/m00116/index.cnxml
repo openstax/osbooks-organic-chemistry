@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Stability of the Allyl Radical: Resonance Revisited</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Stability of the Allyl Radical: Resonance Revisited</md:title>
+    <md:content-id>m00116</md:content-id>
+    <md:uuid>ade99b28-1387-4bb8-90b7-95e779fe0bd5</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">To see why an allylic radical is so stable, look at the orbital picture in <link target-id="fig-00001"/>. The radical carbon atom with an unpaired electron can adopt <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridization, placing the unpaired electron in a <emphasis effect="italics">p</emphasis> orbital and giving a structure that is electronically symmetrical. The <emphasis effect="italics">p</emphasis> orbital on the central carbon can therefore overlap equally well with a <emphasis effect="italics">p</emphasis> orbital on either of the two neighboring carbons.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the orbital picture ball-and-stick model and two resonance structures of an allyl radical. The orbital picture shows 3 sp2 orbitals. A methylene group is bonded to a methine group that is bonded to another methylene group. Each p orbital shows an electron. Two dashed lines connect the p orbitals and two dashed lines connect the s orbitals. The ball-and-stick model is shown between two horizontal lobes: a top red lobe and bottom blue lobe. In both resonance structures a methylene group is bonded to a methine group that is bonded to another methylene group. In the first structure the first methylene group is double bonded to the methine group. The carbon of the second methylene group shows an electron. An arrow from the electron points to C2-C3 bond. An arrow from the double bond points to C1. Another arrow from the double bond points to C2-C3 bond. In the second structure the second methylene group is double bonded to the methine group. The carbon of the first methylene group shows an electron.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_04_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">An orbital view of the allyl radical.</emphasis> The <emphasis effect="italics">p</emphasis> orbital on the central carbon can overlap equally well with a <emphasis effect="italics">p</emphasis> orbital on either neighboring carbon, giving rise to two equivalent resonance structures.</caption>
+    </figure>
+    <para id="para-00002">Because the allyl radical is electronically symmetrical, it has two resonance forms—one with the unpaired electron on the left and the double bond on the right and another with the unpaired electron on the right and the double bond on the left. Neither structure is correct by itself; the true structure of the allyl radical is a resonance hybrid of the two. (You might want to review <link document="m00021"/>, <link document="m00022"/>, and <link document="m00023"/> to brush up on resonance.) As noted in <link document="m00022"/>, the greater the number of resonance forms, the greater the stability of a compound, because bonding electrons are attracted to more nuclei. An allyl radical, with two resonance forms, is therefore more stable than a typical alkyl radical, which has only a single structure.</para>
+    <para id="para-00003">In molecular orbital terms, the stability of the allyl radical is due to the fact that the unpaired electron is <term id="term-00001">delocalized</term>, or spread out, over an extended <emphasis effect="italics">π</emphasis>-orbital network rather than localized at only one site, as shown by the computer-generated MO in <link target-id="fig-00001"/>. This delocalization is particularly apparent in the so-called spin-density surface in <link target-id="fig-00002"/>, which shows the calculated location of the unpaired electron. The two terminal carbons share the unpaired electron equally.</para>
+    <figure class="scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows the electrostatic potential map of an allyl radical with a ball-and-stick model. A central methine group is bonded to two methylene groups. The model shows gray balls (carbon atoms) and white balls (hydrogen atoms). The area around C2 is shown in red. The area close to C1 and C3 is shown in purple. Two arrows point to the purple region.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_04_002.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The spin density surface of the allyl radical locates the position of the <span class="cyan-text">unpaired electron</span> and shows that it is equally shared between the two terminal carbons.</emphasis></caption>
+    </figure>
+    <para id="para-00004">In addition to its effect on stability, delocalization of the unpaired electron in the allyl radical has other chemical consequences. Because the unpaired electron is delocalized over both ends of the <emphasis effect="italics">π</emphasis> orbital system, reaction with Br<sub>2</sub> can occur at either end. As a result, allylic bromination of an unsymmetrical alkene often leads to a mixture of products. For example, bromination of 1-octene gives a mixture of 3-bromo-1-octene and 1-bromo-2-octene. The two products are not formed in equal amounts, however, because the intermediate allylic radical is not symmetrical and reaction at the two ends is not equally likely. Reaction at the less hindered, primary end is favored.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the reaction of 1-octene in the presence of hv NBS and CCl4 to yield two intermediate equivalent structures which further react to yield 3-Bromo-1-octene (17%) and 1-Bromo-2-octene (83%) (53 : 47 trans : cis). 1-Octene shows a methyl group bonded to a chain of 5 methylene groups and then a methine group that is double bonded to a methylene group. The first intermediate shows a methyl group bonded to a chain of 4 methylene groups and then 2 methine groups; the second methine group is double bonded to a methylene group. The first methine group shows an electron. An arrow from the electron and an arrow from the double bond points to CH-CH bond. Another arrow from the double bond points to the last methylene group. The second intermediate shows a methyl group bonded to a chain of 4 methylene groups and then a methine group that is double bonded to a methine group bonded to a methylene group that shows an electron. 3-Bromo-1-octene shows a methyl group bonded to a chain of 4 methylene groups and then 2 methine groups. the first methine group is bonded to a bromine; the second methine group is double bonded to a methylene group. 1-Bromo-2-octene shows a methyl group bonded to a chain of 4 methylene groups and then a methine group that is double bonded to a methine group bonded to a bromo methane.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_04_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">The products of allylic bromination reactions are useful for conversion into dienes by dehydrohalogenation with base. Cyclohexene can be converted into 1,3-cyclohexadiene, for example.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the reaction of cyclohexene in the presence of hv NBS and CCl4 to yield 3-bromocyclohexene that reacts in the presence of KOH to yield 1 3-Cyclohexadiene. 3-Bromocyclohexene shows a cyclohexene with C3 bonded to bromine. 1 3-Cyclohexadiene shows a cyclohexane with a double bond at C1 and C3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_04_004.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Product of an Allylic Bromination Reaction</title>
+    <para id="para-00006">What products would you expect from the reaction of 4,4-dimethylcyclohexene with NBS?</para>
+    <para id="para-00007"><title><span class="red-text">Strategy</span></title> Draw the alkene reactant, and identify the allylic positions. In this case, there are two different allylic positions; we’ll label them <emphasis effect="bold">A</emphasis> and <emphasis effect="bold">B</emphasis>. Now abstract an allylic hydrogen from each position to generate the two corresponding allylic radicals. Each of the two allylic radicals can add a Br atom at either end (<emphasis effect="bold">A</emphasis> or <emphasis effect="bold">A′</emphasis>; <emphasis effect="bold">B</emphasis> or <emphasis effect="bold">B′</emphasis>), to give a mixture of up to four products. Draw and name the products. In the present instance, the “two” products from reaction at position <emphasis effect="bold">B</emphasis> are identical, so only three products are formed in this reaction.</para>
+    <para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered" id="fig-00005">
+    <media alt="An illustration shows two reactions of an alkene reactant in the presence of NBS to yield different products. The alkene reactant shows a cyclohexene with the top carbon labeled ‘A’ and the bottom carbon labeled ‘B.’ The two carbon positions on the right are labeled ‘B’’ and ‘A’.’ Positions A and B are bonded to two hydrogen atoms each. A carbon on the left is bonded to two methyl groups. In the first reaction the products are 3-bromo-4 4-dimethylcyclohexene and 6-bromo-3 3-dimethylcyclohexene. 3-Bromo-4 4-dimethylcyclohexene shows a cyclohexene with position A (C3) bonded to a hydrogen and bromine atom; C4 is bonded to two methyl groups. 6-Bromo-3 3-dimethylcyclohexene shows a cyclohexene with position A’ (C6) bonded to a hydrogen and bromine atom; C3 is bonded to two methyl groups. In the second reaction the product is 3-bromo-5 5-dimethylcyclohexene shown as two structures. 3-Bromo-5 5-dimethylcyclohexene shows a cyclohexene with C3 bonded to a hydrogen and bromine atom; C5 is bonded to two methyl groups. In the first structure position B is C3 and in the second structure position B’ is C3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_04_005.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/10-04-OC-P05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00010"><link class="os-embed" url="#exercise/10-04-OC-P06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00011"><link class="os-embed" url="#exercise/10-04-OC-P07"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

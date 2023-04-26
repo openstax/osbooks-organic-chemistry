@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Acids and Bases: The Brønsted–Lowry Definition</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Acids and Bases: The Br&amp;#248;nsted&amp;#8211;Lowry Definition</md:title>
+    <md:content-id>m00024</md:content-id>
+    <md:uuid>89b02ede-15bf-4e3c-980b-d95fc70bf2cf</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Perhaps the most important of all concepts related to electronegativity and polarity is that of <emphasis effect="italics">acidity</emphasis> and <emphasis effect="italics">basicity.</emphasis> We’ll soon see, in fact, that the acid–base behavior of organic molecules explains much of their chemistry. You may recall from a course in general chemistry that two definitions of acidity are frequently used: the <emphasis effect="italics">Brønsted–Lowry definition</emphasis> and the <emphasis effect="italics">Lewis definition.</emphasis> We’ll look at the Brønsted–Lowry definition in this and the following three sections and then discuss the Lewis definition in <link document="m00028"/>.</para>
+<para id="para-00002">A <term id="term-00001">Brønsted–Lowry acid</term> is a substance that donates a hydrogen ion, H<sup>+</sup>, and a <term id="term-00002">Brønsted–Lowry base</term> is a substance that accepts a hydrogen ion. (The name <emphasis effect="italics">proton</emphasis> is often used as a synonym for H<sup>+</sup> because loss of the valence electron from a neutral hydrogen atom leaves only the hydrogen nucleus—a proton.) When gaseous hydrogen chloride dissolves in water, for example, a polar HCl molecule acts as an acid and donates a proton, while a water molecule acts as a base and accepts the proton, yielding chloride anion (Cl<sup>–</sup>) and hydronium cation (H<sub>3</sub>O<sup>+</sup>). This and other acid–base reactions are reversible, so we’ll write them with double, forward-and-backward arrows.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows four images of electrostatic potential maps. The first illustration image titled “Acid” shows an electrostatic potential map with colors ranging from purple to yellowish green. A ball and stick model is shown that has an ivory ball representing hydrogen and a yellowish green ball representing chlorine. The second illustration image titled “Base” shows an electrostatic potential map with colors ranging from dark purple to orange. A ball and stick model is shown that has a red ball representing an oxygen atom and two ivory balls representing hydrogen. An electron dot structure given below shows an oxygen atom with 2 pairs of electrons and single bonded with 2 hydrogen atoms upon reversible reaction gives two other images. The third illustration image shows an electrostatic potential map in red with a yellowish green ball representing chlorine which is titled “Conjugate base.” The fourth illustration image shows a purple colored electrostatic potential map with a ball-and-stick model, with a red ball representing oxygen and 3 ivory balls representing hydrogen. The structure given below shows a positively charged oxygen atom with a pair of electrons sharing a single bond with 3 hydrogen atoms.">
+<image mime-type="image/jpeg" src="../../media/OChem_02_07_001.jpg"/>
+</media>
+</figure>
+<para id="para-00003">Chloride ion, the product that results when the acid HCl loses a proton, is called the <term id="term-00003">conjugate base</term> of the acid, and hydronium ion, the product that results when the base H<sub>2</sub>O gains a proton, is called the <term id="term-00004">conjugate acid</term> of the base. Other common mineral acids such as H<sub>2</sub>SO<sub>4</sub> and HNO<sub>3</sub> behave similarly, as do organic acids such as acetic acid, CH<sub>3</sub>CO<sub>2</sub>H.</para>
+<para id="para-00004">In a general sense,</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a general expression where when an acid loses a hydrogen molecule shows as “H-A” and combines with a base that takes the proton represented by “B” with two electrons gives a reversible reaction with the combination of a loss of proton shown as “A superscript minus” labeled “Conjugate Base” and a “Conjugate Acid” shown as “H minus B superscript plus.”">
+<image mime-type="image/jpeg" src="../../media/OChem_02_07_002.jpg"/>
+</media>
+</figure>
+<para id="para-00005">For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows an acid represented by a structure that has a carbon atom single bonded to a methyl group and double bonded to an oxygen atom. It is also single bonded to another oxygen atom with two pairs of electrons which in turn is single bonded to a hydrogen atom. This acid is combined with a base that is shown as a second illustration image where a hydrogen atom is single bonded to a negatively charged oxygen with 3 pairs of electrons. These on undergoing a reversible reaction result in a conjugate base that shows a central carbon atom that is single bonded to a methyl group double bonded to an oxygen atom and single bonded to another negatively charged oxygen atom with 3 pairs of electrons; and a conjugate acid that shows an oxygen with two pairs of electrons single bonded to 2 hydrogen atoms. The second illustration shows an acid represented by a structure that has an oxygen atom with 2 pairs of electrons single bonded to 2 hydrogen atoms combined with a base that shows a nitrogen atom with a pair of electrons and is single bonded to 3 hydrogen atoms. On undergoing a reversible reaction this combination results in a conjugate base that shows a negatively charged oxygen atom single bonded to a hydrogen atom and a conjugate acid that is shown as a positively charged nitrogen atom single bonded to 3 hydrogen atoms.">
+<image mime-type="image/jpeg" src="../../media/OChem_02_07_003.jpg"/>
+</media>
+</figure>
+<para id="para-00006">Notice that water can act either as an acid or as a base, depending on the circumstances. In its reaction with HCl, water is a base that accepts a proton to give the hydronium ion, H<sub>3</sub>O<sup>+</sup>. In its reaction with ammonia (NH<sub>3</sub>), however, water is an acid that donates a proton to give ammonium ion (NH<sub>4</sub><sup>+</sup>) and hydroxide ion, HO<sup>–</sup>.</para>
+<section class="section-exercises" id="sect-00001">
+  <title>Problems</title>
+<exercise id="exer-00001">
+  <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/02-07-OC-P11"/></para>
+  </problem>
+</exercise>
+</section>
+  </content>
+</document>

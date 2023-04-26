@@ -1,0 +1,120 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Characteristics of the Diels–Alder Reaction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Characteristics of the Diels–Alder Reaction</md:title>
+    <md:content-id>m00175</md:content-id>
+    <md:uuid>08c974ac-28b0-45d3-9450-b0f9ef336773</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+    <title>The Dienophile</title>
+    <para id="para-00001">The Diels–Alder cycloaddition reaction occurs most rapidly if the alkene component, called the <term id="term-00001">dienophile</term> (“diene lover”), has an electron-withdrawing substituent group. Thus, ethylene itself reacts sluggishly, but propenal, ethyl propenoate, maleic anhydride, benzoquinone, propenenitrile, and similar compounds are highly reactive. Note also that alkynes, such as methyl propynoate, can act as Diels–Alder dienophiles.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows the structure of some Diels–Alder dienophiles. The first structure “Ethylene: unreactive” shows two methylene groups double bonded to each other. The double bond is shown in pink. The second structure “Propenal (acrolein)” shows a methylene group double bonded to a methine group bonded to an aldehyde group. The carbonyl oxygen shows delta negative charge. Dipole moment is shown pointing from the methine group to the aldehyde carbon. The double bond between the carbon atoms dipole moment and the oxygen atom are shown in pink. The third structure “Ethyl propenoate (ethyl acrylate)” shows a methylene group double bonded to a methine group bonded to a carbonyl group. The carbonyl group is bonded to an oxygen bonded to an ethyl group. The carbonyl oxygen shows delta negative charge. Dipole moment is shown pointing from the methine group to the carbonyl carbon. The double bond between the carbon atoms dipole moment and the oxygen atom are shown in pink. The fourth structure “Maleic anhydride” shows a cyclopentane structure with an oxygen atom. The ring is double bonded to two oxygen atoms. The other two carbons are double bonded. Dipole moment is shown from the double bonded carbons to the carbonyl carbons. Double bonds between carbon atom dipole moment and the oxygen atoms are shown in pink. The fifth structure “Benzoquinone” shows a cyclohexene structure with two of the carbons being carbonyl carbons. Two carbons are double bonded. Dipole moment is shown from the double bonded carbons to the carbonyl carbons. Double bonds between carbon atom dipole moment and the oxygen atoms are shown in pink. The sixth structure “Propenenitrile (acrylonitrile)” shows a methylene group double bonded to a methine group bonded to a nitrile group. Dipole moment is shown pointing from the methine group to the nitrile group. Double bonds between carbon atoms dipole moment and nitrogen atom are shown in pink. The seventh structure “Methyl propynoate” shows a methine group triple bonded to a carbon that is bonded to a carbonyl group and then a methoxy group. Dipole moment is shown from the carbon atom to the carbonyl group. Triple bonds between the carbon atoms dipole moment and the oxygen atom are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">In all cases, the double or triple bond of the dienophile is adjacent to the positively polarized carbon of an electron-withdrawing substituent. As a result, the double-bond carbons in these substances are substantially less electron-rich than the carbons in ethylene, as indicated by the electrostatic potential maps in <link target-id="fig-00002"/>.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows the electrostatic potential maps of ethylene propenal and propenenitrile. The ball-and-stick models show black balls (carbons) white balls (hydrogens) red ball (oxygen) and blue ball (nitrogen). The ball-and-stick model of ethylene shows two methylene groups double bonded to each other. The region around the carbons is shown in orange (pointed by an arrow) surrounded by yellow and then green. Propenal shows a methylene group double bonded to a methine group that is bonded to an aldehyde group. The region around the first two carbons is shown in green (pointed by an arrow) surrounded by blue and the region around the oxygen is red. Propenenirile shows a methylene group double bonded to a methine group that is bonded to a nitrile group. The region around the first two carbons is shown in green (pointed by an arrow) surrounded by blue and the region around the nitrogen is red.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_002.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Electrostatic potential maps of ethylene, propenal, and propenenitrile show that electron-withdrawing groups make the double-bond carbons <span class="magenta-text">less electron-rich</span>.</emphasis></caption>
+    </figure>
+    <para id="para-00003">One of the most useful features of the Diels–Alder reaction is that it is <term id="term-00002">stereospecific</term>, meaning that a single product stereoisomer is formed. Furthermore, the stereochemistry of the dienophile is retained. If we carry out cycloaddition with methyl <emphasis effect="italics">cis</emphasis>-2-butenoate, only the cis-substituted cyclohexene product is formed. With methyl <emphasis effect="italics">trans</emphasis>-2-butenoate, only the trans-substituted cyclohexene product is formed.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows 2 Diels-Alder reactions. The first part shows 1 3-butadiene reacting with Methyl (Z)-2-butenoate to yield cis product. The second part shows 1 3-butadiene reacting with Methyl (E)-2-butenoate to yield trans product. 1 3-Butadiene shows two carbons single bonded to each other. Each carbon is single bonded to a hydrogen and double bonded to a methylene group. Methyl (Z)-2-butenoate shows two carbons double bonded to each other. The top carbon is bonded to a hydrogen and carbonyl group bonded to methoxy group. The bottom carbon is bonded to a hydrogen at the bottom left and methyl group at the bottom right. The cis product shows a cyclohexene with C1 wedge bonded to a hydrogen and dash bonded to a methyl group and carboxyl group bonded to a methyl group. C2 of the ring is wedge bonded to a hydrogen at the bottom and dash bonded to a methyl group at the top. Methyl (E)-2-butenoate is similar to Methyl (Z)-2-butenoate but the positions of the hydrogen and methyl group bonded to the bottom carbon are interchanged. Cis product is similar to trans product but C2 is wedge bonded to a methyl group at the bottom and dash bonded to a hydrogen at the top.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Another stereochemical feature of the Diels–Alder reaction is that the diene and dienophile partners orient so that the endo product, rather than the alternative exo product, is formed. The words <emphasis effect="italics">endo</emphasis> and <emphasis effect="italics">exo</emphasis> are used to indicate relative stereochemistry when referring to bicyclic structures like substituted norbornanes (<link document="m00048">Section 4.9</link>). A substituent on one bridge is said to be <term id="term-00003">endo</term> if it is syn (cis) to the larger of the other two bridges and is said to be <term id="term-00004">exo</term> if it is anti (trans) to the larger of the other two.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a chair conformation model of 2 cyclopentane structures. The carbon atom at the top is labeled “A 1-carbon bridge” while the one in the lower left corner is labeled “A 2-carbon bridge.” The lower right bottom shows 2 R groups bonded (shown in blue and pink). The blue R group is labeled “exo substituent (anti to larger bridge)” and the pink R group is labeled “endo substituent (syn to larger bridge).” A ball-and-stick model shows 7 black balls representing carbon atoms 10 white balls representing hydrogen atoms 1 red ball representing oxygen atom and 1 blue ball representing nitrogen atom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Endo products result from Diels–Alder reactions because the amount of orbital overlap between diene and dienophile is greater when the reactants lie directly on top of one another, so that the electron-withdrawing substituent on the dienophile is underneath the diene double bonds. In the reaction of 1,3-cyclopentadiene with maleic anhydride, for instance, the following result is obtained:</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows two reactions of 1 3-cyclopentadiene and maleic anhydride. In the first reaction an endo product is formed; The second reaction inside parentheses shows an exo product (not formed). The chair conformation of 1 3-cyclopentadiene shows a pentane ring with two double bonds. Maleic anhydride shows a cyclopentene having an oxygen atom double bonded to 2 oxygen atoms and bonded to 2 hydrogen atoms. Dotted lines connect the two carbon atoms bonded to the hydrogen atoms of the maleic anhydride to the two carbon atoms of 1 3-cyclopentadiene. The endo product shows a bicycloalkene bonded to two hydrogen atoms at different carbon positions. These carbon atoms are bonded to a carbonyl group each that are bonded to a common oxygen atom. In the second reaction the position of the hydrogen atoms is on the left of the ring unlike in the first reaction. In the exo product the bonds connecting the carbonyl groups and the bicycloalkene are shown in blue.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_005.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting the Product of a Diels–Alder Reaction</title>
+    <para id="para-00006">Predict the product of the following Diels–Alder reaction:</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a Diels-Alder reaction of two reactants without yield. The line-angle formula of one reactant shows a 4-carbon chain with a double bond at C1 and C3 and a methyl group at C3. The second reactant is a cyclohexane with two double bonds. The cyclohexane is double bonded to two oxygen atoms.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007"><title><span class="red-text">Strategy</span></title> Draw the diene so that the ends of its two double bonds are near the dienophile double bond. Then form two single bonds between the partners, convert the three double bonds into single bonds, and convert the former single bond of the diene into a double bond. Because the dienophile double bond is cis to begin with, the two attached hydrogens must remain cis in the product.</para>
+    <para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows a Diels-Alder reaction of two reactants to yield a product. The line-angle formula of the first reactant shows a 4-carbon chain with a double bond at C1 and C3 and a methyl group at C2. The second reactant is a cyclohexane with two double bonds. The cyclohexane is double bonded to two oxygen atoms and single bonded to four hydrogen atoms of which two are shown in pink. The product is a cyclohexene bonded to a methyl group and fused with a cyclohexene that is double bonded to two oxygen atoms. The double bond of the first cyclohexene is a new double bond. The fused tip and basal positions are wedge bonded to a pink hydrogen atom each (Cis hydrogens).">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_007.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    <section class="section-exercises" id="sect-00002">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00009"><link class="os-embed" url="#exercise/14-05-OC-P07"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00003">
+    <title>The Diene</title>
+    <para id="para-00010">Just as the dienophile component has certain constraints that affect its reactivity, so too does the conjugated diene component. The diene must adopt what is called an <term id="term-00005"><emphasis effect="italics">s</emphasis>-cis conformation</term>, meaning “cis-like” about the <emphasis effect="italics">s</emphasis>ingle bond, to undergo a Diels–Alder reaction. Only in the <emphasis effect="italics">s</emphasis>-cis conformation are carbons 1 and 4 of the diene close enough to react through a cyclic transition state.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00008">
+    <media alt="An illustration shows the conversion of s-Cis conformation of a diene to s-Trans conformation by C2-C3 bond rotation. The s-cis conformation shows two carbons (C2 and C3) in a vertical chain. C2 is at the bottom and is single bonded to a hydrogen on the left and double bonded to a methylene group on the right. C1 is at the top and is single bonded to a hydrogen on the left and double bonded to a methylene group on the right. The s-trans conformation is similar but the positions of hydrogen and methylene group bonded to C2 are interchanged.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011">In the alternative <emphasis effect="italics">s</emphasis>-trans conformation, the ends of the diene partner are too far apart to overlap with the dienophile <emphasis effect="italics">p</emphasis> orbitals.</para>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="An illustration shows 2 reactions where two alkenes react. The first structure is of a “Successful reaction” where the first alkene shows two carbons single bonded. Each carbon is single bonded to a hydrogen and double bonded to a methylene group. The second alkene shows two carbons double bonded to each other. Each carbon shows two double bonds. The carbon atoms from both the methylene groups are shown connected to the two carbon atoms of the second alkene. The second structure is of “No reaction (ends too far apart)” where the distance between one of the carbon atoms and the methylene group is more and so the connecting pink dotted line is long and curved. The two double bonds and the dash bonds are shown in pink in both the structures.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_010.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012">Two examples of dienes that can’t adopt an <emphasis effect="italics">s</emphasis>-cis conformation, and thus don’t undergo Diels–Alder reactions, are shown in <link target-id="fig-00010"/>. In the bicyclic diene, the double bonds are rigidly fixed in an <emphasis effect="italics">s</emphasis>-trans arrangement by geometric constraints of the rings. In (2<emphasis effect="italics">Z</emphasis>,4<emphasis effect="italics">Z</emphasis>)-2,4-hexadiene, steric strain between the two methyl groups prevents the molecule from adopting <emphasis effect="italics">s</emphasis>-cis geometry.</para>
+    <figure class="scaled-down" id="fig-00010">
+    <media alt="An illustration shows 3 structures. The first structure “A bicyclic diene (rigid s-trans diene)” shows 2 fused cyclohexene rings with the first ring bonded to a hydrogen and the second ring bonded to two hydrogens. The second structure “Severe steric strain in s-cis form” shows an open 6-membered ring with two double bonds and two methyl groups. The methyl groups are at terminal positions and are shown highlighted in pink intersecting circles. The other 4-carbons are bonded to a hydrogen each. The s-cis form on undergoing a reversible reaction yields (2Z 4Z)-2 4-Hexadiene (s-trans more stable) that shows a 4-carbon chain. C1 and C4 are bonded to a hydrogen and pink methyl group. A double bond is at C1 and C3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_011.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Two dienes that can’t achieve an <emphasis effect="italics">s</emphasis>-cis conformation and thus can’t undergo Diels–Alder reactions.</emphasis></caption>
+    </figure>
+    <para id="para-00013">In contrast to these unreactive dienes that can’t achieve an <emphasis effect="italics">s</emphasis>-cis conformation, other dienes are fixed only in the correct <emphasis effect="italics">s</emphasis>-cis geometry and are therefore highly reactive in Diels–Alder cycloaddition. 1,3-Cyclopentadiene, for example, is so reactive that it reacts with itself. At room temperature, 1,3-cyclopentadiene <emphasis effect="italics">dimerizes.</emphasis> One molecule acts as diene and a second molecule acts as dienophile in a self-Diels–Alder reaction.</para>
+    <figure class="unnumbered scaled-down" id="fig-00011">
+    <media alt="An illustration shows a chemical reaction of “1 3-Cyclopentadiene (s-cis)” having a cyclopentane structure with 2 alternating double bonds combining with another cyclopentane structure having 2 alternate double bonds. The first cyclopentane is dash bonded to the second on either sides of a double bonded side. This upon exposure to heat at 25 degrees Celsius yields “Bicyclopentadiene” having chair conformation of 2 pentanes. The second pentane is bonded to 2 hydrogen atoms. The bond between the two pentane structures is highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_012.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00014">Biological Diels–Alder reactions are also known but are uncommon. One example occurs in the biosynthesis of the cholesterol-lowering drug lovastatin (trade name Mevacor) isolated from the bacterium <emphasis effect="italics">Aspergillus terreus.</emphasis> The key step is the <emphasis effect="italics">intramolecular</emphasis> Diels–Alder reaction of a triene, in which the diene and dienophile components are within the same molecule.</para>
+    <figure class="unnumbered scaled-down" id="fig-00012">
+    <media alt="An illustration shows a chemical reaction. The reactant yields an intermediate that further yields lovastatin. The reactant shows a cyclohexane with its bottom left wedge bonded to a hydrogen atom and dash bonded to a methyl group. The top right corner of the hexane extends as a line angle with double bond at C1 and C2 bonded to “SR” and double bonded to an oxygen atom. The bottom right corner of the hexane extends as a crest and trough structure with double bonds at C1 and C3. C3 is bonded to a methyl group. The intermediate shows a cyclohexane fused with a cyclohexene. The cyclohexane is wedge bonded to a hydrogen and dash bonded to a methyl group. The fused rings share a wedge bonded hydrogen and dash bonded hydrogen. The cyclohexene is dash bonded to two hydrogens and wedge bonded to a methyl group and a carbon. The carbon is double bonded to an oxygen and single bonded to SR. Lovastatin shows a cyclohexene fused with a second cyclohexene. The first cyclohexene is wedge bonded to a hydrogen and dash bonded to a methyl group at the bottom left. The first cyclohexene is wedge bonded to a hydrogen and dash bonded to an oxygen at the top. The oxygen is bonded to a carbonyl group bonded to a 3-carbon chain. C1 of the chain is wedge bonded to a methyl group. The fused rings share a wedge bonded hydrogen. The cyclohexene is dash bonded to two hydrogens and wedge bonded to a methyl group and a carbon. The carbon is single bonded to a methylene group bonded to a cyclohexane ring at the top. The cyclohexane ring is wedge bonded to a hydrogen and hydroxyl group dash bonded to a hydrogen and oxygen and double bonded to an oxygen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_05_013.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00004">
+    <title>Problems</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00015"><link class="os-embed" url="#exercise/14-05-OC-P08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00016"><link class="os-embed" url="#exercise/14-05-OC-P09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00017"><link class="os-embed" url="#exercise/14-05-OC-P10"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Carbocation Structure and Stability</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Carbocation Structure and Stability</md:title>
+    <md:content-id>m00071</md:content-id>
+    <md:uuid>ada46482-1187-4042-a87b-cf68992858b2</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">To understand why Markovnikov’s rule works, we need to learn more about the structure and stability of carbocations and about the general nature of reactions and transition states. The first point to explore involves structure.</para>
+    <para id="para-00002">A great deal of experimental evidence has shown that carbocations are planar. The trivalent carbon is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and the three substituents are oriented toward the corners of an equilateral triangle, as indicated in <link target-id="fig-00001"/>. Because there are only six valence electrons on carbon and all six are used in the three <emphasis effect="italics">σ</emphasis> bonds, the <emphasis effect="italics">p</emphasis> orbital extending above and below the plane is unoccupied.</para>
+    <figure class="scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows cartoon representation and ball-and-stick model of a carbocation. The cartoon model shows carbon bonded to R’’ dash bonded to R and wedge bonded to R’. The vacant p orbital is labeled. The bond angle R’CR’’ is 120 degree. The ball-and-stick model shows gray balls (carbons) and white balls (hydrogens).">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_09_001.jpg"/>
+    </media>
+    <caption>The structure of a carbocation. The trivalent carbon is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized and has a vacant <emphasis effect="italics">p</emphasis> orbital perpendicular to the plane of the carbon and three attached groups.</caption>
+    </figure>
+    <para id="para-00003">The second point to explore involves carbocation stability. 2-Methylpropene might react with H<sup>+</sup> to form a carbocation having three alkyl substituents (a tertiary ion, 3°), or it might react to form a carbocation having one alkyl substituent (a primary ion, 1°). Since the tertiary alkyl chloride, 2-chloro-2-methylpropane, is the only product observed, formation of the tertiary cation is evidently favored over formation of the primary cation. Thermodynamic measurements show that, indeed, the stability of carbocations increases with increasing substitution so that the stability order is tertiary &#62; secondary &#62; primary &#62; methyl.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structures of methyl primary secondary and tertiary cations. The methyl cation shows the carbocation bonded to three hydrogens. The primary cation shows the carbocation bonded to two hydrogens and an R. The secondary cation shows the carbocation bonded to a hydrogen and two R. The tertiary cation shows the carbocation bonded to three R. A right arrow is labeled ‘Stability.’">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_09_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">One way of determining carbocation stabilities is to measure the amount of energy required to form a carbocation by dissociation of the corresponding alkyl halide, <m:math><m:mrow><m:mtext>R</m:mtext><m:mo>−</m:mo><m:mtext>X</m:mtext><m:mo>→</m:mo><m:msup><m:mtext>R</m:mtext><m:mo>+</m:mo></m:msup><m:mo>+</m:mo><m:msup><m:mtext>:X</m:mtext><m:mo>−</m:mo></m:msup></m:mrow></m:math>. As shown in <link target-id="fig-00003"/>, tertiary alkyl halides dissociate to give carbocations more easily than secondary or primary ones. Thus, trisubstituted carbocations are more stable than disubstituted ones, which are more stable than monosubstituted ones. The data in <link target-id="fig-00003"/> are taken from measurements made in the gas phase, but a similar stability order is found for carbocations in solution. The dissociation enthalpies are much lower in solution because polar solvents can stabilize the ions, but the order of carbocation stability remains the same.</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows a graph. The x-axis plots the carbocations and the y-axis plots the Dissociation enthalpy (kJ/mol) on the left and (kcal/mol) on the right. Methyl carbocation (CH3Cl): 95 Primary cation (CH3CH2Cl): 82 Secondary carbocation (CH3CH3CHCl): 700 Tertiary carbocation (CH3CH3CH3CCl): 650.">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_09_003.jpg"/>
+    </media>
+    <caption>A plot of dissociation enthalpy versus substitution pattern for the gas-phase dissociation of alkyl chlorides to yield carbocations. More highly substituted alkyl halides dissociate more easily than less highly substituted ones.</caption>
+    </figure>
+    <para id="para-00005">Why are more highly substituted carbocations more stable than less highly substituted ones? There are at least two reasons. Part of the answer has to do with inductive effects, and part has to do with hyperconjugation. Inductive effects, discussed in <link document="m00018"/> in connection with polar covalent bonds, result from the shifting of electrons in a <emphasis effect="italics">σ</emphasis> bond in response to the electronegativity of nearby atoms. In the present instance, electrons from a relatively larger and more polarizable alkyl group can shift toward a neighboring positive charge more easily than the electron from a hydrogen. Thus, the more alkyl groups attached to the positively charged carbon, the more electron density shifts toward the charge and the more inductive stabilization of the cation occurs (<link target-id="fig-00004"/>).</para>
+    <figure id="fig-00004">
+    <media alt="An illustration shows 4 electrostatic potential maps: Methyl group with no alkyl groups donating electrons shows a carbon cation bonded to 3 hydrogens. Primary group with one alkyl group donating electrons shows a carbon cation bonded to 2 hydrogens and methyl group. Secondary group with two alkyl groups donating electrons shows a carbon cation bonded to 2 methyl groups and a hydrogen. Tertiary group with three alkyl groups donating electrons shows a carbon cation bonded to 3 methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_09_004.jpg"/>
+    </media>
+    <caption>A comparison of inductive stabilization for methyl, primary, secondary, and tertiary carbocations. The more alkyl groups that are bonded to the positively charged carbon, the more electron density shifts toward the charge, making the charged carbon less electron-poor (blue in electrostatic potential maps).</caption>
+    </figure>
+    <para id="para-00006">Hyperconjugation, discussed in <link document="m00068"/> in connection with the stabilities of substituted alkenes, is the stabilizing interaction between a <emphasis effect="italics">p</emphasis> orbital and properly oriented C−H <emphasis effect="italics">σ</emphasis> bonds on neighboring carbons that are roughly parallel to the <emphasis effect="italics">p</emphasis> orbital. The more alkyl groups there are on the carbocation, the more possibilities there are for hyperconjugation and the more stable the carbocation. <link target-id="fig-00005"/> shows the molecular orbital for the ethyl carbocation, <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math>, and indicates the difference between the C−H bond perpendicular to the cation <emphasis effect="italics">p</emphasis> orbital and the two C−H bonds more parallel to the cation <emphasis effect="italics">p</emphasis> orbital. Only these roughly parallel C−H bonds are oriented properly to take part in hyperconjugation.</para>
+    <figure class="scaled-down-30" id="fig-00005">
+    <media alt="An illustration shows the cartoon representation and electrostatic potential map of ethyl carbocation. The cartoon model shows two sp2 orbitals. The left carbon cation is dash bonded to a hydrogen and wedge bonded to a hydrogen. The right carbon is bonded to 3 hydrogens. The ball-and-stick model shows gray balls (carbons) and white balls (hydrogens).">
+    <image mime-type="image/jpeg" src="../../media/OChem_07_09_005.jpg"/>
+    </media>
+    <caption>Stabilization of the ethyl carbocation, CH<sub>3</sub>CH<sub>2</sub><sup>+</sup>, through hyperconjugation. Interaction of neighboring C−H <emphasis effect="italics">σ</emphasis> bonds with the vacant <emphasis effect="italics">p</emphasis> orbital stabilizes the cation and lowers its energy. The molecular orbital shows that only the two C−H bonds more parallel to the cation <emphasis effect="italics">p</emphasis> orbital are oriented properly. The C−H bond perpendicular to the cation <emphasis effect="italics">p</emphasis> orbital can’t take part.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/07-09-OC-P18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/07-09-OC-P19"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

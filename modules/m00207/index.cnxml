@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Protection of Alcohols</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Protection of Alcohols</md:title>
+    <md:content-id>m00207</md:content-id>
+    <md:uuid>c6144e93-2e91-4217-9f8e-a13133b04c6e</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">It often happens, particularly during the synthesis of complex molecules, that one functional group in a molecule interferes with an intended reaction on another functional group elsewhere in the same molecule. We saw earlier in this chapter, for instance, that a Grignard reagent can’t be prepared from an alcohol-containing halidel because the C–Mg bond is not compatible with the presence of an acidic –OH group in the same molecule.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reaction wherein a halo alcohol is shown “not to react” with green magnesium and ether to form a compound pink “not formed.” The halo alcohol shows an alcohol with pink “acidic hydrogen” bonded to three methylene groups bonded to a green bromine. The “not formed” compound shows a hydroxyl group with pink oxygen bonded to three methylene groups bonded to green magnesium bromide.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_08_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">When this kind of incompatibility arises, it’s sometimes possible to circumvent the problem by <emphasis effect="italics">protecting</emphasis> the interfering functional group. Protection involves three steps: (<emphasis effect="bold"><span class="magenta-text">1</span></emphasis>) introducing a <term id="term-00001">protecting group</term> to block the interfering function, (<emphasis effect="bold"><span class="magenta-text">2</span></emphasis>) carrying out the desired reaction, and (<emphasis effect="bold"><span class="magenta-text">3</span></emphasis>) removing the protecting group.</para>
+    <para id="para-00003">One of the more common methods of alcohol protection involves reaction with a chlorotrialkylsilane, Cl–SiR<sub>3</sub>, to yield a trialkylsilyl ether, R′–O–SiR<sub>3</sub>. (Chloro<emphasis effect="italics">-tert</emphasis>-butyldimethylsilane), usually abbreviated either TBS or TBDMS is often used, as is Chlorotrimethylsilane (TMS), and the reaction is carried out in the presence of a base, such as triethylamine, to help form the alkoxide anion from the alcohol and to remove the HCl by-product from the reaction.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="A two-part illustration shows reactions of alcohol. The first part shows a general reaction involving an alcohol and chlorotrimethylsilane to form a trimethylsilyl (TMS) ether and a compound. The alcohol shows R bonded to pink O bonded to pink H a nitrogen with a pair of electrons bonded to three ethyl groups is shown above alcohol; a pink arrow points from nitrogen to pink hydrogen. Chlorotrimethylsilane shows a green silica bonded to three green methyl groups and a pink chlorine at the bottom right; an arrow points from pink oxygen of alcohol to green silica. The ether shows R bonded to pink oxygen bonded to a green silica bonded to three green methyl groups. The compound shows three ethyl groups bonded to a nitrogen attached to a pink proton a pink chlorine anion is shown at a distance. The second part labeled “for example” shows a cyclohexanol reacting with green (CH3)3SiCl and (Ch3CH2)3N to form Cyclohexyl trimethylsilyl ether (94%) and a structure in parentheses. Cyclohexanol is shown as a cyclohexane bonded to a pink hydroxyl group. The ether shows a cyclohexane bonded to a pink oxygen bonded to silica attached to three green methyl groups. The structure in parentheses shows a cyclohexane bonded to OTMS.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_08_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">The ether-forming step is an S<sub>N</sub>2-like reaction of the alkoxide ion on the silicon atom, with concurrent loss of the leaving chloride anion. Unlike most S<sub>N</sub>2 reactions, though, this reaction takes place at a <emphasis effect="italics">tertiary</emphasis> center—a trialkyl-substituted silicon atom. The reaction occurs because silicon, a third-row atom, is larger than carbon and forms longer bonds. In addition, three alkyl substituents attached to silicon offer little steric hindrance to ether formation.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="A two-part illustration shows the ball-and-stick models and structures of chlorotrialkylsilane and tert-butyl chloride. The first part chlorotrialkylsilane shows a ball-and-stick model having four carbons (gray balls) bonded to each other; the three carbons are bonded to three hydrogens (white balls) each and the fourth carbon is bonded to chlorine (green ball); the corresponding molecular structure shows a green carbon labeled as “shorter bonds; carbon is more hindered” bonded to chlorine on the left and is bonded to methyl group at the top the carbon is dash bonded and wedge bonded to two methyl groups on the right. The second part tert-butyl chloride shows a ball-and-stick model having four carbons (gray balls) bonded to each other; the three carbons are bonded to three hydrogens (white balls) each and the fourth carbon is bonded to silica (green ball); the corresponding molecular structure shows a blue silica labeled as “longer bonds; silica is less hindered” bonded to chlorine on the left and is bonded to methyl group at the top the carbon is dash bonded and wedge bonded to two methyl groups on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_08_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Like most other ethers, which we’ll study in the next chapter, trialkylsilylethers are relatively unreactive. They have no acidic hydrogens and don’t react with oxidizing agents, reducing agents, or Grignard reagents. They do, however, react with aqueous acid or with fluoride ion to regenerate the alcohol. Tetrabutylammonium fluoride is often used.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a cyclohexyl trimethylsilyl ether reacting with a blue hydronium ion to form cyclohexanol and (CH3)3SiOH having green “(CH3)3Si” and blue “OH.” The cyclohexyl trimethylsilyl ether shows a cyclohexane bonded to a pink oxygen bonded to a green silica bonded to three green methyl groups. Cyclohexanol shows cyclohexane bonded to pink oxygen and blue hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_08_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">To solve the problem posed at the beginning of this section, note that it’s possible to use an alcohol-containing halide in a Grignard reaction by employing a protection sequence. For example, we can add 3-bromo-1-propanol to acetaldehyde by the route shown in <link target-id="fig-00005"/>.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="A four-part illustration shows the steps involved in a Grignard reaction. The “step 1” labeled as “protect alcohol” shows the first reactant having pink hydroxyl group bonded to three methylene groups bonded to blue Br reacting with second reactant having three green methyl groups bonded to green SiCl in the presence of three ethyl groups bonded to nitrogen to form the first product three green methyl groups bonded to green silica bonded to pink oxygen bonded to three methylene groups bonded to blue bromine. “Step 2a” labeled as “form Grignard reagent” shows the first product reacting with blue magnesium and ether to form the second product three green methyl groups bonded to green silica bonded to pink oxygen bonded to three methylene groups bonded to blue magnesium bromide. “Step 2b” labeled as “do Grignard reaction” shows the second product reacting with methyl group bonded to a carbonyl group having pink oxygen bonded to hydrogen and a hydronium ion to form the third product having three green methyl groups bonded to green silica bonded to pink oxygen bonded to three methylene groups bonded to methine group whose carbon bonds to a pink hydroxyl group the methine is further bonded to a methyl group. “Step 3” labeled as “remove protecting group” shows the third product reacting with a pink hydronium ion to form the fourth product having a pink hydroxyl group bonded to three methylene groups bonded to methine group whose carbon bonds to a pink hydroxyl group the methine is further bonded to a methyl group; the fifth product shows three green methyl groups bonded to green silica bonded to a pink hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_17_08_005.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Use of a trialkylsilyl-protected alcohol during a Grignard reaction</emphasis>.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/17-08-OC-P16"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

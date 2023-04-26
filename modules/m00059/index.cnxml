@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Chirality at Nitrogen, Phosphorus, and Sulfur</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chirality at Nitrogen, Phosphorus, and Sulfur</md:title>
+    <md:content-id>m00059</md:content-id>
+    <md:uuid>0ace7436-96c3-4351-881c-532405f32e6f</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">As noted previously, the most common cause of chirality in a molecule is the presence of four different substituents bonded to a tetrahedral atom. Although that atom is usually carbon, it doesn’t necessarily have to be. Nitrogen, phosphorus, and sulfur atoms are all commonly encountered in organic molecules, and can all be chirality centers. We know, for instance, that trivalent nitrogen is tetrahedral, with its lone pair of electrons acting as the fourth “substituent” (<link document="m00167"/>). Is trivalent nitrogen chiral? Does a compound such as ethylmethylamine exist as a pair of enantiomers?</para>
+    <para id="para-00002">The answer is both yes and no. Yes in principle, but no in practice. It turns out that most trivalent nitrogen compounds undergo a rapid umbrella-like inversion that interconverts enantiomers, so we can’t isolate individual enantiomers except in special cases.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a mirror in the center with the structure of ethylmethylamine on the two sides. The left image shows a nitrogen dash bonded to a hydrogen wedge bonded to an ethyl group and single bonded to a methyl group. The nitrogen shows two electrons. The mirror shows the rapid conversion of the structure. The right image is the mirror image of the first structure.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_10_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">A similar situation occurs in trivalent phosphorus compounds, called phosphines, but the inversion at phosphorus is substantially slower than inversion at nitrogen, so stable chiral phosphines can be isolated. (<emphasis effect="italics">R</emphasis>)- and (<emphasis effect="italics">S</emphasis>)-methylpropylphenylphosphine, for instance, are configurationally stable for several hours at 100 °C. We’ll see the importance of phosphine chirality in <link document="m00074" target-id="note-00001"/><!--Section 26.7--> in connection with the synthesis of chiral amino acids.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structure of (R)-Methylpropylphenylphosphine (configurationally stable). A phosphorus is wedge bonded to phenyl group dash bonded to a methyl group and single bonded to a propyl group. Two electrons are shown at the top within a bubble labeled lowest ranked.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_10_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Divalent sulfur compounds are achiral, but trivalent sulfur compounds called <emphasis effect="italics">sulfonium salts</emphasis> (<m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>S</m:mtext><m:mtext>+</m:mtext></m:msup></m:mrow></m:math>) can be chiral. Like phosphines, sulfonium salts undergo relatively slow inversion, so chiral sulfonium salts are configurationally stable and can be isolated. Perhaps the best known example is the coenzyme <emphasis effect="italics">S</emphasis>-adenosylmethionine, the so-called biological methyl donor, which is involved in many metabolic pathways as a source of CH<sub>3</sub> groups. (The “<emphasis effect="italics">S</emphasis>” in the name <emphasis effect="italics">S</emphasis>-adenosylmethionine stands for <emphasis effect="italics">sulfur</emphasis> and means that the adenosyl group is attached to the sulfur atom of the amino acid methionine.) The molecule has <emphasis effect="italics">S</emphasis> stereochemistry at sulfur and is configurationally stable for several days at room temperature. Its <emphasis effect="italics">R</emphasis> enantiomer is also known but is not biologically active.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structure of (S)-S-Adenosylmethionine where adenosine is bonded to methionine. Methionine shows a carboxylate ion bonded to a methine group bonded to ammonium ion at the top. The methine is bonded to two methylene groups. one methylene group is bonded to a sulfur that is bonded to a methyl group and methylene group. The sulfur is labeled S. Two electrons are shown at the top right within a bubble. The methylene group is bonded to a pentane ring of adenosine that shows an oxygen. The pentane is bonded to two hydroxyl groups and a nitrogen of another pentane ring. The pentane ring shows another nitrogen and fused to a hexane ring that shows two nitrogen atoms. The hexane is bonded to an amino group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_10_003.jpg"/>
+    </media>
+    </figure>
+    </content>
+</document>

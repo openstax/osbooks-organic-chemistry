@@ -1,0 +1,421 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Infrared Spectra of Some Common Functional Groups</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Infrared Spectra of Some Common Functional Groups</md:title>
+    <md:content-id>m00142</md:content-id>
+    <md:uuid>cce1f5a1-df40-442f-b40c-ff20a79f0604</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">As each functional group is discussed in future chapters, the spectroscopic properties of that group will be described. For the present, we’ll point out some distinguishing features of the hydrocarbon functional groups already studied and briefly preview some other common functional groups. We should also point out, however, that in addition to interpreting absorptions that <emphasis effect="italics">are</emphasis> present in an IR spectrum, it’s also possible to get structural information by noticing which absorptions are <emphasis effect="italics">not</emphasis> present. If the spectrum of a compound has no absorptions at 3300 and 2150 cm<sup>–1</sup>, the compound is not a terminal alkyne; if the spectrum has no absorption near 3400 cm<sup>–1</sup>, the compound is not an alcohol; and so on.</para>
+    <section id="sect-00001">
+    <title>Alkanes</title>
+    <para id="para-00002">The IR spectrum of an alkane is fairly uninformative because no functional groups are present and all absorptions are due to C–H and C–C bonds. Alkane C–H bonds show a strong absorption from 2850 to 2960 cm<sup>–1</sup>, and saturated C–C bonds show a number of bands in the 800 to 1300 cm<sup>–1</sup> range. Since most organic compounds contain saturated alkane-like portions, most organic compounds have these characteristic IR absorptions. The C–H and C–C bands are clearly visible in the three spectra shown previously in <link document="m00141" target-id="fig-00001"/>.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows two structures of “alkanes” and their absorption values. The first structure shows a pink carbon having three open bonds on the left; the carbon is pink bonded to a pink hydrogen on the right; the absorption is shown from 2850 - 2960 cm to the power minus one; the second structure shows a pink carbon bonded to another pink carbon; each carbon shows three free bonds; the absorption is shown from 800 - 1300 cm to the power minus one.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_001.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Alkenes</title>
+    <para id="para-00003">Alkenes show several characteristic stretching absorptions. Vinylic =C–H bonds absorb from 3020 to 3100 cm<sup>–1</sup>, and alkene C=C bonds usually absorb near 1650 cm<sup>–1</sup>, although in some cases their peaks can be rather small and difficult to see clearly when the alkene is symmetric, or nearly so. Both absorptions are visible in the 1-hexene spectrum in <link document="m00141" target-id="fig-00001"/>b.</para>
+    <para id="para-00004">Alkenes have characteristic =C–H out-of-plane bending absorptions in the 700 to 1000 cm<sup>–1</sup> range, thereby allowing the substitution pattern on a double bond to be determined (<link target-id="fig-00003"/>). For example, monosubstituted alkenes such as 1-hexene show strong characteristic bands at 910 and 990 cm<sup>–1</sup>, and 1,1-disubstituted alkenes (R<sub>2</sub>C═CH<sub>2</sub>) have an intense band at 890 cm<sup>–1</sup>.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows four structures of alkenes and their absorption values. The first structure shows a double bond attached to a pink carbon bonded to a pink hydrogen; the absorption value shows is 3020-3100 cm to the power minus one. The second structure shows a pink carbon sharing a pink double bond with another pink carbon; each carbon shows two open bonds; the absorption value is 1640 - 1680 cm to the power minus one. The third structure shows R bonded to pink methine sharing a pink double bond with a pink methylene group; the absorption value is 910 and 990 cm to the power minus one. The fourth structure shows R2 bonded to a pink carbon sharing a pink double bond with a pink methylene group; the absorption value is 890 cm to the power minus one.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_002.jpg"/>
+    </media>
+    </figure>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows six alkenes and their corresponding bending absorption values. The tabulated format shows two columns comprising of the substituted alkene names and their structural formulas; next follows a scale containing wavelength starting from 10 mu to 15 mu at the interval of 1 mu; the base of the table shows wavenumbers in cm to the power minus one starting from 1000 on the left to 700 on the right; four vertical lines are drawn from top to bottom demarcating the wavenumbers. The bending vibrations are denoted in the form of a blue band. The monosubstituted alkene shows a carbon double bonded to another carbon; the left carbon is bonded to R and hydrogen and the right carbon is bonded to two hydrogens; bands are at 1000 cm to power minus one (10 mu) and 900 cm to the power minus one (11 mu). The cis-1 2 alkene shows a carbon double bonded to another carbon; each carbon is bonded to an R and hydrogen; band is at 740-650 cm to the power minus one (13.5 and 15 mu). The trans-1 2 alkene shows a carbon double bonded to another carbon; the left carbon is bonded to hydrogen at the top and R at the bottom and the right carbon is bonded to R at the top and hydrogen at the bottom; band is at 950 cm to power minus one (10 and 11 mu). The 1 1-disubstituted alkene shows a carbon double bonded to another carbon; the left carbon is bonded to two R and the right carbon is bonded to two hydrogens; band is at 860 to 890 cm to power minus one (11.1 and 11.6 mu). The trisubstituted alkene shows a carbon double bonded to another carbon; the left carbon is bonded to two R and the right carbon is bonded to R and hydrogen; band is at 840 to 780 cm to the power minus one (12 and 13 mu). The tetrasubstituted alkene shows a carbon double bonded to another carbon; each carbon is bonded to four R groups. No band is shown.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_003.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">C–H out-of-plane bending vibrations for substituted alkenes.</emphasis></caption>
+    </figure>
+    </section>
+    <section id="sect-00003">
+    <title>Alkynes</title>
+    <para id="para-00005">Alkynes show a <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> stretching absorption at 2100 to 2260 cm<sup>–1</sup>, an absorption that is much more intense for terminal alkynes than for internal alkynes. Terminal alkynes such as 1-hexyne also have a characteristic <m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> stretching absorption at 3300 cm<sup>–1</sup> (<link document="m00141" target-id="fig-00001"/>c). This band is diagnostic for terminal alkynes because it is fairly intense and quite sharp.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_004.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Aromatic Compounds</title>
+    <para id="para-00006">Aromatic compounds, such as benzene, have a weak C–H stretching absorption at 3030 cm<sup>–1</sup>, just to the left of a typical saturated C–H band. In addition, they have a series of weak absorptions in the 1660 to 2000 cm<sup>–1</sup> range and a series of medium-intensity absorptions in the 1450 to 1600 cm<sup>–1</sup> region. These latter absorptions are due to complex molecular motions of the entire ring. The C–H out-of-plane bending region for benzene derivatives, between 650 to 1000 cm<sup>–1</sup>, gives valuable information about the ring’s substitution pattern, as it does for the substitution pattern of alkenes (<link target-id="fig-00006"/>).</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows structures of two aromatic compounds. The first structure shows a pink carbon single bonded to a hydrogen. The carbon shows a free single bond and double bond; the absorption shown is 3030 cm to the power minus one (weak). The second structure shows a pink benzene having an absorption 16660-2000 cm to the power minus one (weak) and 1450-1600 cm to the power minus one (medium).">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_005.jpg"/>
+    </media>
+    </figure>
+    <figure class="scaled-down" id="fig-00006">
+    <media alt="An illustration shows seven substituted benzenes and their corresponding bending absorption values. The tabulated format shows two columns comprising of the substituted alkene names and their structural formulas; next follows a scale at the base of the table showing wavenumbers in cm to the power minus one starting from 900 on the left to 700 on the right; three vertical lines demarcate the wavenumbers. The first structure is a monosubstituted benzene shown as a benzene with a free bond at C1; bands are at 720-680 cm to the power minus one (blue) and 660-620 cm to the power minus one (red). The second structure is “ortho” showing a benzene with a free bond at C1 and C2; band is at 720-690 cm to the power minus one (blue). The third structure “meta” shows a benzene with a free bond at C1 and C3; bands are at 900-870 cm to the power minus one (blue) 805-760 cm to the power minus one (blue) and 710-670 cm to the power minus one (red). The fourth structure “para” shows a benzene with a free bond at C1 and C4; band is at 860-800 cm to the power minus one (blue). The fifth structure “1 2 4” shows a benzene with a free bond at C1 C2 and C4; bands are at 900-870 cm to the power minus one (blue) and 830-790 cm to the power minus one (blue). The sixth structure “1 2 3” shows a benzene with a free bond at C1 C2 and C3; bands are at 780-745 cm to the power minus one (blue) and 720-680 cm to the power minus one (red). The seventh structure “1 3 5” shows a benzene with a free bond at C1 C3 and C5; bands are at 910-830 cm to the power minus one (blue) and 700-660 cm to the power minus one (red).">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">C–H out-of-plane bending vibrations for substituted benzenes.</emphasis></caption>
+    </figure>
+    <para id="para-00007">The IR spectrum of phenylacetylene, shown in Figure 12.29 at the end of this section, gives an example, clearly showing the following absorbances: <m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> stretch at 3300 cm<sup>–1</sup>, C–H stretches from the benzene ring at 3000 to 3100 cm<sup>–1</sup>, C=C stretches of the benzene ring between 1450 and 1600 cm<sup>–1</sup>, and out-of-plane bending of the ring’s C–H groups, indicating monosubstitution at 750 cm<sup>–1</sup>.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Alcohols</title>
+    <para id="para-00008">The O–H functional group of alcohols is easy to spot. Alcohols have a characteristic band in the range 3400 to 3650 cm<sup>–1</sup> that is usually broad and intense. Hydrogen bonding between O–H groups is responsible for making the absorbance so broad. If an O–H stretch is present, it’s hard to miss this band or to confuse it with anything else.</para>
+    <figure class="unnumbered" id="fig-00007">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Cyclohexanol (<link target-id="fig-00008"/>) is a good example.</para>
+    <figure class="scaled-down" id="fig-00008">
+    <media alt="An illustration shows infrared spectrum of cyclohexanol wherein the horizontal axis shows wavenumbers in cm to the power minus one starting from 4000 on the left side to 500 on the right side at the interval of 500 cm to the power minus one; the vertical axis shows transmittance in percentage starting from 0 to 100 at the interval of 10 percent. An O-H stretch is shown spread from wavenumbers 3500 and 3300 around 18 percent transmittance; a bifurcated spike is shown between wavenumbers 3000 and 2800 at 1 percent and 5 percent; the next spike is shown near 1450 around 20 percent; a C-O stretch is shown near wavenumber 1100 around 10 percent followed by another stretch near 950 at 20 percent; a spike is shown at 880 near 40 percent transmittance.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_008.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">IR spectrum of cyclohexanol.</emphasis></caption>
+    </figure>
+    </section>
+    <section id="sect-00006">
+    <title>Amines</title>
+    <para id="para-00010">The N–H functional group of amines is also easy to spot in the IR, with a characteristic absorption in the 3300 to 3500 cm<sup>–1</sup> range. Although alcohols absorb in the same range, an N–H absorption band is much sharper and less intense than an O–H band.</para>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="An illustration shows functional group and absorption range of “amines”; the structural formula of amines shows a pink nitrogen having two open bonds and sharing a pink bond with a pink hydrogen; the absorption shown is “3300-3500 cm to the power minus one (sharp medium intensity).”">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011">Primary amines (R–NH<sub>2</sub>) have two absorbances—one for the symmetric stretching mode and one for the asymmetric mode (<link target-id="fig-00010"/>). Secondary amines (R<sub>2</sub>N–H) only have one N–H stretching absorbance in this region.</para>
+    <figure class="scaled-down" id="fig-00010">
+    <media alt="An illustration shows an infrared spectrum of cyclohexylamine wherein the horizontal axis shows wavenumbers in cm to the power minus one starting from 4000 on the left side to 500 on the right side at the interval of 500 cm to the power minus one; the vertical axis shows transmittance in percentage starting from 0 to 100 at the interval of 10 percent. The structure of cyclohexylamine shows a cyclohexane bonded to an amino group. A bifurcated stretch for amine is shown between wavenumbers 3300 and 3500; a sharp spike is shown at 1450 around 10 percent transmittance.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_010.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">IR spectrum of cyclohexylamine.</emphasis></caption>
+    </figure>
+    </section>
+    <section id="sect-00007">
+    <title>Carbonyl Compounds</title>
+    <para id="para-00012">Carbonyl functional groups are the easiest to identify of all IR absorptions because of their sharp, intense peak in the range 1670 to 1780 cm<sup>–1</sup>. Most important, the exact position of absorption within this range can often be used to identify the exact kind of carbonyl functional group—aldehyde, ketone, ester, and so forth.</para>
+    <section id="sect-00008">
+    <title>ALDEHYDES</title>
+    <para id="para-00013">Saturated aldehydes absorb at 1730 cm<sup>–1</sup>; aldehydes next to either a double bond or an aromatic ring absorb at 1705 cm<sup>–1</sup>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00011">
+    <media alt="An illustration shows the structural formulas of three aldehydes along with their absorption range. The first structure shows an ethyl group bonded to an aldehyde group; the absorption value shown is 1730 cm to the power minus one. The second structure shows a methyl group bonded to a methine group double bonded to another methine group bonded to an aldehyde group; the absorption value is 1705 cm to the power minus one. The third structure shows a benzene bonded to an aldehyde group; the absorption value shown is 1705 cm to the power minus one.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_011.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00014">The C–H group attached to the carbonyl is responsible for the characteristic IR absorbance for aldehydes at 2750 and 2850 cm<sup>–1</sup> (<link target-id="fig-00012"/>). Although these are not very intense, the absorbance at 2750 cm<sup>–1</sup> is helpful when trying to distinguish between an aldehyde and a ketone.</para>
+    <figure class="scaled-down" id="fig-00012">
+    <media alt="An illustration shows the infrared spectrum of benzaldehyde wherein the horizontal axis shows the wavenumbers in cm to the power minus one starting from 4000 on the left side of the graph to 500 on the right side at the interval of 500 cm to the power minus one; the vertical axis shows transmittance in percentage starting from 0 to 100 at the interval of 10 percent. The structure of benzaldehyde shows a benzene bonded to an aldehyde. The spectrum shows a spike near wavenumber 2800 around 62 percent; a structure with a central carbonyl group whose carbon shows an open bond at the left side and a bond with hydrogen on the right side is shown near the spike; a pink arrow points from C-H bond to the spike. The next spike is shown at 1700 almost at 0.5 percent transmittance; a structure of a carbonyl group with open bonds at both the sides is shown near the spike; a pink arrow points from the carbon oxygen double bond to the spike. The spectrum further shows about eight spikes at varying wavenumbers and transmittance.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_012.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The IR spectrum of benzaldehyde.</emphasis></caption>
+    </figure>
+    </section>
+    <section id="sect-00009">
+    <title>KETONES</title>
+    <para id="para-00015">Saturated open-chain ketones and six-membered cyclic ketones absorb at 1715 cm<sup>–1</sup>. Ring strain stiffens the C=O bond, making five-membered cyclic ketones absorb at 1750 cm<sup>–1</sup> and four-membered cyclic ketones absorb at 1780 cm<sup>–1</sup>, about 20 to 30 cm<sup>–1</sup> lower than the corresponding saturated ketone.</para>
+    <figure class="unnumbered scaled-down" id="fig-00013">
+    <media alt="An illustration shows four ketone structures and their absorption values. The first structure shows a methyl group bonded to a carbonyl group having pink double bond and pink oxygen; the carbon of carbonyl group is bonded to another methyl group; the absorption occurs at 1715 cm to the power minus one. The second structure shows a cyclopentane sharing a pink double bond to a pink oxygen; the absorption occurs at 1750 cm to the power minus one. The third structure shows a methyl group bonded to a methine group double bonded to another methine group bonded to a carbonyl with pink double and pink oxygen the carbon of carbonyl group is further bonded to a methyl group; the absorption occurs at 1690 cm to the power minus one. The fourth structure shows a benzene bonded to a carbonyl group having pink bond and pink oxygen the carbon of carbonyl group is further bonded to a methyl group; the absorption occurs at 1690 cm to the power minus one.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_013.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00010">
+    <title>ESTERS</title>
+    <para id="para-00016">Saturated esters have a C=O absorbance at 1735 cm<sup>–1</sup> and two strong absorbances in the 1300 to 1000 cm<sup>–1</sup> range from the C–O portion of the functional group. Like other carbonyl functional groups, esters next to either an aromatic ring or a double bond absorb at 1715 cm<sup>–1</sup>, about 20 to 30 cm<sup>–1</sup> lower than a saturated ester.</para>
+    <figure class="unnumbered scaled-down" id="fig-00014">
+    <media alt="An illustration shows three structures of esters and their absorption values. The first structure shows a methyl group bonded to a carbonyl group having pink double bond and pink oxygen; the carbon of carbonyl group is bonded to an oxygen attached to a methyl group; the absorption occurs at 1735 cm to the power minus one. The second structure shows a methyl group bonded to a methine group double bonded to another methine group that is further bonded to a carbonyl group having a pink double bond and pink oxygen the carbon of carbonyl group is bonded to an oxygen attached to a methyl group; the absorption occurs at 1735 cm to the power minus one. The third structure shows a benzene bonded to a carbonyl group having a pink double bond and pink oxygen the carbon of carbonyl group is further bonded to an oxygen attached to a methyl group; the absorption occurs at 1715cm to the power minus one.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_014.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Predicting IR Absorptions of Compounds</title>
+    <para id="para-00017">Where might the following compounds have IR absorptions?</para>
+    <figure class="unnumbered scaled-down" id="fig-00015">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_015.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00018"><title><span class="red-text">Strategy</span></title> Identify the functional groups in each molecule, and then check <link document="m00141" target-id="table-00001"/> to see where those groups absorb.</para>
+    <para id="para-00019"><title><span class="cyan-text">Solution</span></title> <emphasis effect="bold">(a)</emphasis> <emphasis effect="italics">Absorptions:</emphasis> 3400 to 3650 cm<sup>–1</sup> (O–H), 3020 to 3100 cm<sup>–1</sup> (=C–H), 1640 to 1680 cm<sup>–1</sup> (C=C). This molecule has an alcohol O–H group and an alkene double bond.</para>
+    <para id="para-00020"><emphasis effect="bold">(b)</emphasis> <emphasis effect="italics">Absorptions:</emphasis> 3300 cm<sup>–1</sup> (<m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math>), 2100 to 2260 cm<sup>–1</sup> (<m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math>), 1735 cm<sup>–1</sup> (C=O). This molecule has a terminal alkyne triple bond and a saturated ester carbonyl group.</para>
+    </example>
+    <example id="exam-00002">
+    <title>Identifying Functional Groups from an IR Spectrum</title>
+    <para id="para-00021">The IR spectrum of an unknown compound is shown in <link target-id="fig-00016"/>. What functional groups does the compound contain?</para>
+    <figure class="scaled-down" id="fig-00016">
+    <media alt="An illustration shows an infrared spectrum of worked example 12-6. The horizontal axis shows wavenumbers in cm to the power minus one starting from 4000 on the left side of graph to 500 on the right side at the interval of 500 cm to the power minus one; the vertical axis shows transmittance in percentage starting from 0 to 100 at the interval of 10 percent. A narrow bifurcated spike is shown near 3000 - 3200 cm to the power minus one near 50 percent transmittance; a short stretch is shown at 2700-2900 cm to the power minus one near 60 percent; a large blunt spike is shown near 1700 cm to the power minus one near 0percent transmittance; a sharp spike is shown at 1600 near 62 percent followed by two sharp spikes between 1400-1500 at 40 percent transmittance; two sharp spikes are shown between 1000 and 1100 cm to the power minus one near 55 percent and 40 percent transmittance. A blunt bifurcated spike is shown around 750 and 700 cm to the power minus one between 30 percent and 10 percent transmittance.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_016.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">IR spectrum for <link target-id="exam-00002">Worked Example 12.6</link>.</emphasis></caption>
+    </figure>
+    <para id="para-00022"><title><span class="red-text">Strategy</span></title> All IR spectra have many absorptions, but those useful for identifying specific functional groups are usually found in the region from 1500 cm<sup>–1</sup> to 3300 cm<sup>–1</sup>. Pay particular attention to the carbonyl region (1670 to 1780 cm<sup>–1</sup>), the aromatic region (1660 to 2000 cm<sup>–1</sup>), the triple-bond region (2000 to 2500 cm<sup>–1</sup>), and the C–H region (2500 to 3500 cm<sup>–1</sup>).</para>
+    <para id="para-00023"><title><span class="cyan-text">Solution</span></title> The spectrum shows an intense absorption at 1725 cm<sup>–1</sup> due to a carbonyl group (perhaps an aldehyde, –CHO), a series of weak absorptions from 1800 to 2000 cm<sup>–1</sup> characteristic of aromatic compounds, and a C–H absorption near 3030 cm<sup>–1</sup>, also characteristic of aromatic compounds. In fact, the compound is phenylacetaldehyde.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <media alt="An illustration shows the structure of phenylacetaldehyde. A benzene ring is bonded to a methylene group bonded to an aldehyde group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_08_017.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    </section>
+    <section class="section-exercises" id="sect-00011">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00024"><link class="os-embed" url="#exercise/12-08-OC-P09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00025"><link class="os-embed" url="#exercise/12-08-OC-P10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00026"><link class="os-embed" url="#exercise/12-08-OC-P11"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="sect-00012">
+    <title>X-Ray Crystallography</title>
+    <para id="para-00027">The various spectroscopic techniques described in this and the next two chapters are enormously important in chemistry and have been fine-tuned to such a degree that the structure of almost any molecule can be found. Nevertheless, wouldn’t it be nice if you could simply look at a molecule and “see” its structure with your eyes?</para>
+    <para id="para-00028">Determining the three-dimensional shape of an object around you is easy—you just look at it, let your eyes focus the light rays reflected from the object, and let your brain assemble the data into a recognizable image. If the object is small, you use a microscope and let the microscope lens focus the visible light. Unfortunately, there is a limit to what you can see, even with the best optical microscope. Called the diffraction limit, you can’t see anything smaller than the wavelength of light you are using for the observation. Visible light has wavelengths of several hundred nanometers, but atoms in molecules have dimensions on the order of 0.1 nm. Thus, to see a molecule—whether a small one in the laboratory or a large, complex enzyme with a molecular weight in the tens of thousands—you need wavelengths in the 0.1 nm range, which corresponds to X rays.</para>
+    <para id="para-00029">Let’s say that we want to determine the structure and shape of an enzyme or other biological molecule. The technique used is called <emphasis effect="bold">X-ray crystallography</emphasis>. First, the molecule is crystallized (which often turns out to be the most difficult and time-consuming part of the entire process) and a small crystal of 0.4 to 0.5 mm on its longest axis is glued to the end of a glass fiber. The fiber and attached crystal are then mounted in an instrument called an X-ray diffractometer, which consists of a radiation source, a sample positioning and orienting device that can rotate the crystal in any direction, a detector, and a controlling computer.</para>
+    <para id="para-00030">Once mounted in the diffractometer, the crystal is irradiated with X rays, usually so-called Cu<emphasis effect="italics">K<sub>α</sub></emphasis> radiation with a wavelength of 0.154 nm. When the X rays strike the enzyme crystal, they interact with electrons in the molecule and are scattered into a diffraction pattern which, when detected and visualized, appears as a series of intense spots against a null background.</para>
+    <figure class="scaled-down-30" id="fig-00018">
+    <media alt="An illustration shows the ribbon model of human muscle fructose-1 6-bisphosphate aldolase with light blue ribbons dark blue ribbons light green ribbons dark green ribbons yellow ribbons and orange ribbons. The model shows green ribbons at the center and red ribbons at outermost edges of the structure.">
+    <image mime-type="image/jpeg" src="../../media/OChem_12_98_Ribbon.jpg"/>
+    </media>
+    <caption>The structure of human muscle fructose-1,6-bisphosphate aldolase, as determined by X-ray crystallography. (credit: Protein Data Bank, 1ALD. PDB ID: 1ALD, Gamblin, S.J. Davies, G.J. Grimes, J.M. Jackson, R.M. Littlechild, J.A. Watson, H.C. (1991) J. Mol. Biol. 219: 573-576, CC BY 1.0.)</caption>
+    </figure>
+    <para id="para-00031">Manipulation of the diffraction pattern to extract three-dimensional molecular data is a complex process, but the final result is an electron-density map of the molecule. Because electrons are largely localized around atoms, any two centers of electron density located within bonding distance of each other are assumed to represent bonded atoms, leading to a recognizable chemical structure. So important is this structural information for biochemistry that an online database of more than 100,000 biological substances has been created. Operated by Rutgers University and funded by the U.S. National Science Foundation, the Protein Data Bank (PDB) is a worldwide repository for processing and distributing three-dimensional structural data for biological macromolecules. We’ll see how to access the PDB in the Chapter 26 <emphasis effect="italics">Chemistry Matters</emphasis>.</para>
+    </section>
+    <section class="key-terms" id="sect-00013">
+    <list id="list-00001">
+      <item><link document="m00139" target-id="term-00007">absorption spectrum</link></item>
+      <item><link document="m00139" target-id="term-00006">amplitude</link></item>
+      <item><link document="m00135" target-id="term-00004">base peak</link></item>
+      <item><link document="m00135" target-id="term-00002">cation radical</link></item>
+      <item><link document="m00139" target-id="term-00001">electromagnetic spectrum</link></item>
+      <item><link document="m00139" target-id="term-00004">frequency, <emphasis effect="italics">ν</emphasis></link></item>
+      <item><link document="m00139" target-id="term-00005">hertz, Hz,</link></item>
+      <item><link document="m00140" target-id="term-00001">infrared (IR) spectroscopy</link></item>
+      <item>MALDI</item>
+      <item><link document="m00135" target-id="term-00001">mass spectrometry (MS)</link></item>
+      <item><link document="m00137" target-id="term-00001">McLafferty Rearrangement</link></item>
+      <item><link document="m00135" target-id="term-00005">parent peak</link></item>
+      <item><link document="m00139" target-id="term-00002">photon</link></item>
+      <item><link document="m00135" target-id="term-00003">quadrupole mass analyzer</link></item>
+      <item><link document="m00138" target-id="term-00001">Time of Flight (TOF)</link></item>
+      <item><link document="m00139" target-id="term-00003">wavelength, <emphasis effect="italics">λ</emphasis></link></item>
+      <item><link document="m00140" target-id="term-00002">wavenumber <m:math><m:mover accent="true"><m:mi>v</m:mi><m:mo>˜</m:mo></m:mover></m:math></link></item>
+      </list>
+    </section>
+    <section class="summary" id="sect-00014">
+    <title>Summary</title>
+    <para id="para-00032">Finding the structure of a new molecule, whether a small one synthesized in the laboratory or a large protein found in living organisms, is central to the progression of chemistry and biochemistry. The structure of an organic molecule is usually determined using spectroscopic methods, including mass spectrometry and infrared spectroscopy. <emphasis effect="bold">Mass spectrometry (MS)</emphasis> tells the molecular weight and formula of a molecule; <emphasis effect="bold">infrared (IR) spectroscopy</emphasis> identifies the functional groups present in the molecule.</para>
+    <para id="para-00033">In small-molecule mass spectrometry, molecules are first ionized by collision with a high-energy electron beam. The ions then fragment into smaller pieces, which are magnetically sorted according to their mass-to-charge ratio (<emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis>). The ionized sample molecule is called the <emphasis effect="italics">molecular ion, M</emphasis><sup>+</sup>, and measurement of its mass gives the molecular weight of the sample. Structural clues about unknown samples can be obtained by interpreting the fragmentation pattern of the molecular ion. Mass-spectral fragmentations are usually complex, however, and interpretation is often difficult. In biological mass spectrometry, molecules are protonated using either electrospray ionization (ESI) or matrix-assisted laser desorption ionization (MALDI), and the protonated molecules are separated by time-of-flight (TOF) mass analysis.</para>
+    <para id="para-00034">Infrared spectroscopy involves the interaction of a molecule with <emphasis effect="bold">electromagnetic radiation</emphasis>. When an organic molecule is irradiated with infrared energy, certain <emphasis effect="bold">frequencies</emphasis> are absorbed by the molecule. The frequencies absorbed correspond to the amounts of energy needed to increase the amplitude of specific molecular vibrations such as bond stretching and bending. Since every functional group has a characteristic combination of bonds, every functional group has a characteristic set of infrared absorptions. For example, the terminal alkyne <m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> bond absorbs IR radiation of 3300 cm<sup>–1</sup>, and the alkene C=C bond absorbs in the range 1640 to 1680 cm<sup>–1</sup>. By observing which frequencies of infrared radiation are absorbed by a molecule and which are not, it’s possible to determine the functional groups a molecule contains.</para>
+    </section>
+    <section class="additional-problems" id="sect-00015">
+    <title>Additional Problems</title>
+    <para id="para-00035"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00036"><link class="os-embed" url="#exercise/12-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00037"><link class="os-embed" url="#exercise/12-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00038"><emphasis effect="bold"><span class="red-text">Mass Spectrometry</span></emphasis></para>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00039"><link class="os-embed" url="#exercise/12-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00040"><link class="os-embed" url="#exercise/12-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00041"><link class="os-embed" url="#exercise/12-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00042"><link class="os-embed" url="#exercise/12-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00043"><link class="os-embed" url="#exercise/12-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00044"><link class="os-embed" url="#exercise/12-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00045"><link class="os-embed" url="#exercise/12-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00046"><link class="os-embed" url="#exercise/12-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00047"><link class="os-embed" url="#exercise/12-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00048"><link class="os-embed" url="#exercise/12-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00049"><link class="os-embed" url="#exercise/12-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00050"><link class="os-embed" url="#exercise/12-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00051"><link class="os-embed" url="#exercise/12-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00052"><emphasis effect="bold"><span class="red-text">Infrared Spectroscopy</span></emphasis></para>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00053"><link class="os-embed" url="#exercise/12-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00054"><link class="os-embed" url="#exercise/12-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00055"><link class="os-embed" url="#exercise/12-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00056"><link class="os-embed" url="#exercise/12-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00057"><link class="os-embed" url="#exercise/12-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00058"><link class="os-embed" url="#exercise/12-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00059"><link class="os-embed" url="#exercise/12-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00060"><link class="os-embed" url="#exercise/12-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00061"><link class="os-embed" url="#exercise/12-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00062"><link class="os-embed" url="#exercise/12-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00063"><link class="os-embed" url="#exercise/12-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00064"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00065"><link class="os-embed" url="#exercise/12-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00066"><link class="os-embed" url="#exercise/12-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00067"><link class="os-embed" url="#exercise/12-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00068"><link class="os-embed" url="#exercise/12-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00069"><link class="os-embed" url="#exercise/12-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00070"><link class="os-embed" url="#exercise/12-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00071"><link class="os-embed" url="#exercise/12-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00072"><link class="os-embed" url="#exercise/12-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00073"><link class="os-embed" url="#exercise/12-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00074"><link class="os-embed" url="#exercise/12-99-OC-AP34"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00075"><link class="os-embed" url="#exercise/12-99-OC-AP35"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00076"><link class="os-embed" url="#exercise/12-99-OC-AP36"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00077"><link class="os-embed" url="#exercise/12-99-OC-AP37"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

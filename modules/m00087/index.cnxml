@@ -1,0 +1,328 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>A Comparison Between Biological Reactions and Laboratory Reactions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>A Comparison Between Biological Reactions and Laboratory Reactions</md:title>
+    <md:content-id>m00087</md:content-id>
+    <md:uuid>d9b4a416-25e2-48e5-a2d2-e0f8cfcfebb6</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Beginning in the next chapter, we’ll be seeing a lot of reactions, some that are important in laboratory chemistry yet don’t occur in nature and others that have counterparts in biological pathways. In comparing laboratory reactions with biological reactions, several differences are apparent. For one, laboratory reactions are usually carried out in an organic solvent such as diethyl ether or dichloromethane to dissolve the reactants and bring them into contact, whereas biological reactions occur in the aqueous medium within cells. For another, laboratory reactions often take place over a wide range of temperatures without catalysts, while biological reactions take place at the temperature of the organism and are catalyzed by enzymes.</para>
+<para id="para-00002">We’ll look at <term id="term-00001">enzymes</term> in more detail in <emphasis effect="bold">Section 26.11</emphasis>, but you may already be aware that an enzyme is a large, globular, protein molecule that contains in its structure a protected pocket called its <term id="term-00002">active site</term>. The active site is lined by acidic or basic groups as needed for catalysis and has precisely the right shape to bind and hold a substrate molecule in the orientation necessary for reaction. <link target-id="fig-00002"/> shows a molecular model of hexokinase, along with an X-ray crystal structure of the glucose substrate and adenosine diphosphate (ADP) bound in the active site. Hexokinase is an enzyme that catalyzes the initial step of glucose metabolism—the transfer of a phosphate group from ATP to glucose, giving glucose 6-phosphate and ADP. The structures of ATP and ADP were shown at the end of <link document="m00084">Section 6.8</link>.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a reaction wherein glucose undergoes the presence of an enzyme hexokinase transforming blue ATP to blue ADP to yield glucose 6-phosphate. The chair conformation of glucose shows an oxygen embedded in the upper right position of the cyclohexane the upper central position on the ring is bonded to a methylene group bonded to a pink hydroxyl group; the remaining positions on the ring are shown bonded to hydroxyl groups. The conformation structure of glucose 6-phosphate shows an oxygen embedded in the upper right position of the cyclohexane the upper central position on the ring is bonded to a methylene group bonded to a pink oxygen attached to a blue PO3 to the power two minus; the remaining positions on the ring are shown bonded to hydroxyl groups.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_11_001.jpg"/>
+</media>
+</figure>
+<para id="para-00003">Note how the hexokinase-catalyzed phosphorylation reaction of glucose is written. It’s common when writing biological equations to show only the structures of the primary reactant and product, while abbreviating the structures of various biological “reagents” and by-products such as ATP and ADP. A curved arrow intersecting the straight reaction arrow indicates that ATP is also a reactant and ADP also a product.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An illustration shows a space and ball model a wire-frame format and an X-ray crystal structure of the enzyme active site. The space and ball model is a tightly packed structure comprising of tightly packed innumerable spheres. The wire format shows a wiry mesh whose left side is labeled as “active site”; the X-ray crystal structure shows three tubular structures. The first structure labeled as “adenosine diphosphate (ADP) shows articulated pink tubes joined to green tubes that form a loop at the top; the second structure labeled as blue “lysine” shows an articulated tubular structure having green edge at the right side and pink edge at the top; the third structure “glucose” shows an articulated tubular structure having pink edges.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_11_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">Models of hexokinase in space-filling and wire-frame formats, showing the cleft that contains the active site where substrate binding and reaction catalysis occur.</emphasis> At the bottom is an X-ray crystal structure of the enzyme active site, showing the positions of both glucose and ADP as well as a lysine amino acid that acts as a base to deprotonate glucose.</caption>
+</figure>
+<para id="para-00004">Yet a third difference between laboratory and biological reactions is that laboratory reactions are often done using relatively small, simple reagents such as Br<sub>2</sub>, HCl, NaBH<sub>4</sub>, CrO<sub>3</sub>, and so forth, while biological reactions usually involve relatively complex “reagents” called <emphasis effect="italics">coenzymes</emphasis>. In the hexokinase-catalyzed phosphorylation of glucose just shown, ATP is the coenzyme. As another example, compare the H<sub>2</sub> molecule, a laboratory reagent that adds to a carbon–carbon double bond to yield an alkane, with the reduced nicotinamide adenine dinucleotide (NADH) molecule, a coenzyme that effects an analogous addition of hydrogen to a double bond in many biological pathways. Of all the atoms in the coenzyme, only the one hydrogen atom shown in red is transferred to the double-bond substrate.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows structure of “reduced nicotinamide adenine dinucleotide NADH (a coenzyme)” having two centrally placed phosphate groups that are attached to methylene groups on each side; the methylene group on left side is bonded to a cyclopentane having an oxygen embedded at its tip; the basal positions of cyclopentane are bonded to two hydroxyl groups; the upper left side of cyclopentane is bonded to a nitrogen embedded in a cyclohexadiene; the basal left side of ring is bonded to a pink hydrogen and another hydrogen; a pink arrow is shown pointing towards the pink hydrogen; the lower right side of ring is bonded to a carbonyl group whose carbon is bonded to an amine group. The methylene group bonded to the right side of phosphate group shares a bond with a cyclopentane having an oxygen embedded at its tip and two hydroxyl groups at its base; the upper right side is bonded to a cyclopentadiene having two nitrogens embedded at opposite positions on the ring; the cyclopentadiene s fused to a cylohexadiene having two nitrogens embedded at alternate positions; the tip of cyclohexadiene shows bond with an amine group. The centrally placed two phosphate groups comprise of a central oxygen bonded to phosphorous on either sides; each phosphorous shows an upward double bond with oxygen a side bond with oxygen and a downward bond with oxygen anion.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_11_003.jpg"/>
+</media>
+</figure>
+<para id="para-00005">Don’t be intimidated by the size of the ATP or NADH molecule; most of the structure is there to provide an overall shape for binding to the enzyme and to provide appropriate solubility behavior. When looking at biological molecules, focus on the small part of the molecule where the chemical change takes place.</para>
+<para id="para-00006">One final difference between laboratory and biological reactions is in their specificity. A catalyst might be used in the laboratory to catalyze the reaction of thousands of different substances, but an enzyme, because it can only bind a specific substrate molecule having a specific shape, will usually catalyze only a specific reaction. It’s this exquisite specificity that makes biological chemistry so remarkable and that makes life possible. <link target-id="table-00001"/> summarizes some of the differences between laboratory and biological reactions.</para>
+<table summary="" id="table-00001">
+<title>A Comparison of Typical Laboratory and Biological Reactions</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Laboratory reaction</entry>
+<entry valign="top" align="left">Biological reaction</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Solvent</entry>
+<entry valign="top" align="left">Organic liquid, such as ether</entry>
+<entry valign="top" align="left">Aqueous environment in cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Temperature</entry>
+<entry valign="top" align="left">Wide range; −80 to 150 °C</entry>
+<entry valign="top" align="left">Temperature of organism</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Catalyst</entry>
+<entry valign="top" align="left">Either none, or very simple</entry>
+<entry valign="top" align="left">Large, complex enzymes needed</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Reagent size</entry>
+<entry valign="top" align="left">Usually small and simple</entry>
+<entry valign="top" align="left">Relatively complex coenzymes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Specificity</entry>
+<entry valign="top" align="left">Little specificity for substrate</entry>
+<entry valign="top" align="left">Very high specificity for substrate</entry>
+</row>
+</tbody>
+</tgroup>
+<caption>A Comparison of Typical Laboratory and Biological Reactions</caption>
+</table>
+<section class="chemistry-matters" id="sect-00001">
+<title>Where Do Drugs Come From?</title>
+<para id="para-00007">It has been estimated that major pharmaceutical companies in the United States spent some $200 billion on drug research and development in 2020, while government agencies and private foundations spent another $28 billion. What does this money buy? In 2020, the money resulted in a total of 989 new molecular entities (NMEs)—new biologically active chemical substances approved for sale as drugs by the U.S. Food and Drug Administration (FDA).</para>
+<para id="para-00008">Where do the new drugs come from? According to a study carried out several years ago at the U.S. National Cancer Institute, only about 33% of new drugs are entirely synthetic and completely unrelated to any naturally occurring substance. The remaining 67% take their lead, to a greater or lesser extent, from nature. Vaccines and genetically engineered proteins of biological origin account for 15% of NMEs, but most new drugs come from <emphasis effect="italics">natural products</emphasis>, a catchall term generally taken to mean small molecules found in bacteria, plants, algae, and other living organisms. Unmodified natural products isolated directly from the producing organism account for 24% of NMEs, while natural products that have been chemically modified in the laboratory account for the remaining 28%.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00004">
+<media alt="An illustration labeled as “origin of new drugs 1981-2008” shows a pie diagram having four unequal parts; the largest part is red colored and labeled as “synthetic (33%)”; the second largest part is blue colored and labeled as “natural-product related (28%)”; the third part is green colored and labeled as “natural products (24%)”; the fourth part is yellow colored and is labeled as “biological (15%).”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_11_005.jpg"/>
+</media>
+</figure>
+<para id="para-00009">Many years of work go into screening many thousands of substances to identify a single compound that might ultimately gain approval as an NME. But after that single compound has been identified, the work has just begun because it takes an average of 9 to 10 years for a drug to make it through the approval process. First, the safety of the drug in animals must be demonstrated and an economical method of manufacture must be devised. With these preliminaries out of the way, an Investigational New Drug (IND) application is submitted to the FDA for permission to begin testing in humans.</para>
+<figure class="scaled-down-30" id="fig-00005">
+<media alt="Photo of technicians processing vials of vaccine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_11_005_HPVCerv.jpg"/>
+</media>
+<caption>Introduced in June, 2006, Gardasil is the first vaccine ever approved for the prevention of cancer. Where do new drugs like this come from? (credit: “COVIran Barekat vaccine production” by Sadegh Nikgostar/Wikimedia Commons, CC BY 4.0)</caption>
+</figure>
+<para id="para-00011">Human testing takes, or should take, 5 to 7 years and is divided into three phases. Phase I clinical trials are carried out on a small group of healthy volunteers to establish safety and look for side effects. Several months to a year are needed, and only about 70% of drugs pass at this point. Phase II clinical trials next test the drug for 1 to 2 years in several hundred patients with the target disease or condition, looking both for safety and efficacy, and only about 33% of the original group pass. Finally, phase III trials are undertaken on a large sample of patients to document definitively the drug’s safety, dosage, and efficacy. If the drug is one of the 25% of the original group that make it to the end of phase III, all the data are then gathered into a New Drug Application (NDA) and sent to the FDA for review and approval, which can take another 2 years. Ten years have elapsed and at least $500 million has been spent, with only a 20% success rate for the drugs that began testing. Finally, though, the drug will begin to appear in medicine cabinets. The following timeline shows the process.</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="An illustration represents the clinical trial approval procedure and the phases involved according to the number of years. A horizontal bar is unequally divided into eight parts; it begins with yellow block “drug discovery” followed by red block “animal tests manufacture” between “0 to 2 years”; a narrow grey block “IND application” is shown at first half of the second year; next follows three phases in unequally sized brown orange and blue blocks representing “phase I trials phase II trials and phase III trials” beginning from second to eighth year; the seventh block is purplish and labeled as “NDA” from eighth to tenth year; the last category is shown as a greenish block labeled “ongoing oversight” after the tenth year.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_11_006.jpg"/>
+</media>
+</figure>
+</section>
+<section class="key-terms" id="sect-00002">
+<list id="list-00001">
+  <item><link document="m00085" target-id="term-00003">activation energy (Δ<emphasis effect="italics">G</emphasis><sup>‡</sup>)</link></item>
+  <item><link document="m00085" target-id="term-00002">active site</link></item>
+  <item><link document="m00077" target-id="term-00001">addition reaction</link></item>
+  <item><link document="m00084" target-id="term-00001">bond dissociation energy (<emphasis effect="italics">D</emphasis>)</link></item>
+  <item><link document="m00081" target-id="term-00001">carbocation</link></item>
+  <item><link document="m00080" target-id="term-00003">electrophile</link></item>
+  <item><link document="m00077" target-id="term-00002">elimination reaction</link></item>
+  <item><link document="m00083" target-id="term-00003">endergonic</link></item>
+  <item><link document="m00083" target-id="term-00007">endothermic</link></item>
+  <item><link document="m00083" target-id="term-00004">enthalpy change (Δ<emphasis effect="italics">H</emphasis>)</link></item>
+  <item><link document="m00083" target-id="term-00008">entropy change (Δ<emphasis effect="italics">S</emphasis>)</link></item>
+  <item><link document="m00087" target-id="term-00001">enzyme</link></item>
+  <item><link document="m00083" target-id="term-00002">exergonic</link></item>
+  <item><link document="m00083" target-id="term-00006">exothermic</link></item>
+  <item><link document="m00083" target-id="term-00001">Gibbs free-energy change (Δ<emphasis effect="italics">G</emphasis>)</link></item>
+  <item><link document="m00083" target-id="term-00005">heat of reaction</link></item>
+  <item><link document="m00080" target-id="term-00002">nucleophile</link></item>
+  <item><link document="m00078" target-id="term-00002">polar reaction</link></item>
+  <item><link document="m00080" target-id="term-00001">polarizability</link></item>
+  <item><link document="m00078" target-id="term-00004">radical</link></item>
+  <item><link document="m00078" target-id="term-00003">radical reaction</link></item>
+  <item><link document="m00085" target-id="term-00001">reaction coordinate</link></item>
+  <item><link document="m00086" target-id="term-00001">reaction intermediate</link></item>
+  <item><link document="m00078" target-id="term-00001">reaction mechanism</link></item>
+  <item><link document="m00077" target-id="term-00004">rearrangement reaction</link></item>
+  <item><link document="m00077" target-id="term-00003">substitution reaction</link></item>
+  <item><link document="m00085" target-id="term-00002">transition state</link></item>
+</list>
+</section>
+<section class="summary" id="sect-00003">
+<title>Summary</title>
+<para id="para-00012">All chemical reactions, whether in the laboratory or in living organisms, follow the same chemical rules. To understand both organic and biological chemistry, it’s necessary to know not just <emphasis effect="italics">what</emphasis> occurs but also <emphasis effect="italics">why</emphasis> and <emphasis effect="italics">how</emphasis> chemical reactions take place. In this chapter, we’ve taken a brief look at the fundamental kinds of organic reactions, we’ve seen why reactions occur, and we’ve seen how reactions can be described.</para>
+<para id="para-00013">There are four common kinds of reactions: <emphasis effect="bold">addition reactions</emphasis> take place when two reactants add together to give a single product; <emphasis effect="bold">elimination reactions</emphasis> take place when one reactant splits apart to give two products; <emphasis effect="bold">substitution reactions</emphasis> take place when two reactants exchange parts to give two new products; and <emphasis effect="bold">rearrangement reactions</emphasis> take place when one reactant undergoes a reorganization of bonds and atoms to give an isomeric product.</para>
+<para id="para-00014">A full description of how a reaction occurs is called its <emphasis effect="bold">mechanism</emphasis>. There are two general kinds of mechanisms by which most reactions take place: <emphasis effect="bold">radical</emphasis> mechanisms and <emphasis effect="bold">polar</emphasis> mechanisms. Polar reactions, the more common type, occur because of an attractive interaction between a <emphasis effect="bold">nucleophilic</emphasis> (electron-rich) site in one molecule and an <emphasis effect="bold">electrophilic</emphasis> (electron-poor) site in another molecule. A bond is formed in a polar reaction when the nucleophile donates an electron pair to the electrophile. This transfer of electrons is indicated by a curved arrow showing the direction of electron travel from the nucleophile to the electrophile. Radical reactions involve species that have an odd number of electrons. A bond is formed when each reactant donates one electron.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00007">
+<media alt="An illustration shows two reactions. The first reaction labeled as “polar” shows a reaction between a “nucleophile” pink “B” anion having a pair of electrons and an “electrophile” blue “A” cation to yield blue “A” sharing a pair of pink electrons with pink “B”; a pink arrow points from pink “B” anion to pink “A” cation. The second reaction labeled as “radical” shows green “B” with an electron and “A” with an electron to yield A sharing a black and a green electron with green “B.”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_EC_001.jpg"/>
+</media>
+</figure>
+<para id="para-00015">The energy changes that take place during reactions can be described by considering both rates (how fast the reactions occur) and equilibria (how much the reactions occur). The position of a chemical equilibrium is determined by the value of the <emphasis effect="bold">free-energy change (Δ<emphasis effect="italics">G</emphasis>)</emphasis> for the reaction, where Δ<emphasis effect="italics">G</emphasis> = Δ<emphasis effect="italics">H</emphasis> − <emphasis effect="italics">T</emphasis>Δ<emphasis effect="italics">S</emphasis>. The <emphasis effect="bold">enthalpy</emphasis> term (Δ<emphasis effect="italics">H</emphasis>) corresponds to the net change in strength of chemical bonds broken and formed during the reaction; the <emphasis effect="bold">entropy</emphasis> term (Δ<emphasis effect="italics">S</emphasis>) corresponds to the change in the amount of molecular randomness during the reaction. Reactions that have negative values of Δ<emphasis effect="italics">G</emphasis> release energy, are said to be <emphasis effect="bold">exergonic</emphasis>, and have favorable equilibria. Reactions that have positive values of Δ<emphasis effect="italics">G</emphasis> absorb energy, are said to be <emphasis effect="bold">endergonic</emphasis>, and have unfavorable equilibria.</para>
+<para id="para-00016">A reaction can be described pictorially using an energy diagram that follows the reaction course from reactants through transition state to product. The <emphasis effect="bold">transition state</emphasis> is an activated complex occurring at the highest-energy point of a reaction. The amount of energy needed by reactants to reach this high point is the <emphasis effect="bold">activation energy, Δ<emphasis effect="italics">G</emphasis><sup>‡</sup></emphasis>. The higher the activation energy, the slower the reaction.</para>
+<para id="para-00017">Many reactions take place in more than one step and involve the formation of a <emphasis effect="bold">reaction intermediate</emphasis>. An intermediate is a species that lies at an energy minimum between steps on the reaction curve and is formed briefly during the course of a reaction.</para>
+</section>
+<section class="additional-problems" id="sect-00004">
+<title>Additional Problems</title>
+<para id="para-00045"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00018"><link class="os-embed" url="#exercise/06-99-OC-VC01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00019"><link class="os-embed" url="#exercise/06-99-OC-VC02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00020"><link class="os-embed" url="#exercise/06-99-OC-VC03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00021"><link class="os-embed" url="#exercise/06-99-OC-VC04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00022"><link class="os-embed" url="#exercise/06-99-OC-VC05"/></para>
+</problem>
+</exercise>
+
+<para id="para-00055"><emphasis effect="bold"><span class="red-text">Energy Diagrams and Reaction Mechanisms</span></emphasis></para>
+
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00023"><link class="os-embed" url="#exercise/06-99-OC-EDRM01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00024"><link class="os-embed" url="#exercise/06-99-OC-EDRM02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00025"><link class="os-embed" url="#exercise/06-99-OC-EDRM03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00026"><link class="os-embed" url="#exercise/06-99-OC-EDRM04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00027"><link class="os-embed" url="#exercise/06-99-OC-EDRM05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00011">
+<problem id="prob-00011">
+<para id="para-00028"><link class="os-embed" url="#exercise/06-99-OC-EDRM06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00012">
+<problem id="prob-00012">
+<para id="para-00029"><link class="os-embed" url="#exercise/06-99-OC-EDRM07"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00013">
+<problem id="prob-00013">
+<para id="para-00030"><link class="os-embed" url="#exercise/06-99-OC-EDRM08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00014">
+<problem id="prob-00014">
+<para id="para-00031"><link class="os-embed" url="#exercise/06-99-OC-EDRM10"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00015">
+<problem id="prob-00015">
+<para id="para-00032"><link class="os-embed" url="#exercise/06-99-OC-EDRM11"/></para>
+</problem>
+</exercise>
+<para id="para-00039"><emphasis effect="bold"><span class="red-text">Polar Reactions</span></emphasis></para>
+<exercise id="exer-00016">
+<problem id="prob-00016">
+<para id="para-00033"><link class="os-embed" url="#exercise/06-99-OC-AP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00017">
+<problem id="prob-00017">
+<para id="para-00034"><link class="os-embed" url="#exercise/06-99-OC-AP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00018">
+<problem id="prob-00018">
+<para id="para-00035"><link class="os-embed" url="#exercise/06-99-OC-AP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00019">
+<problem id="prob-00019">
+<para id="para-00036"><link class="os-embed" url="#exercise/06-99-OC-AP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00020">
+<problem id="prob-00020">
+<para id="para-00037"><link class="os-embed" url="#exercise/06-99-OC-AP05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00021">
+<problem id="prob-00021">
+<para id="para-00038"><link class="os-embed" url="#exercise/06-99-OC-AP06"/></para>
+</problem>
+</exercise>
+<para id="para-00056"><emphasis effect="bold"><span class="red-text">Radical Reactions</span></emphasis></para>
+<exercise id="exer-00022">
+<problem id="prob-00022">
+<para id="para-00040"><link class="os-embed" url="#exercise/06-99-OC-AP08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00023">
+<problem id="prob-00023">
+<para id="para-00041"><link class="os-embed" url="#exercise/06-99-OC-AP09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00024">
+<problem id="prob-00024">
+<para id="para-00042"><link class="os-embed" url="#exercise/06-99-OC-AP10"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00025">
+<problem id="prob-00025">
+<para id="para-00043"><link class="os-embed" url="#exercise/06-99-OC-AP11"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00026">
+<problem id="prob-00026">
+<para id="para-00044"><link class="os-embed" url="#exercise/06-99-OC-AP12"/></para>
+</problem>
+</exercise>
+<para id="para-00057"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+<exercise id="exer-00027">
+<problem id="prob-00027">
+<para id="para-00046"><link class="os-embed" url="#exercise/06-99-OC-AP13"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00028">
+<problem id="prob-00028">
+<para id="para-00047"><link class="os-embed" url="#exercise/06-99-OC-AP14"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00029">
+<problem id="prob-00029">
+<para id="para-00048"><link class="os-embed" url="#exercise/06-99-OC-AP15"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00030">
+<problem id="prob-00030">
+<para id="para-00049"><link class="os-embed" url="#exercise/06-99-OC-AP16"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00031">
+<problem id="prob-00031">
+<para id="para-00050"><link class="os-embed" url="#exercise/06-99-OC-AP17"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00032">
+<problem id="prob-00032">
+<para id="para-00051"><link class="os-embed" url="#exercise/06-99-OC-AP18"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00033">
+<problem id="prob-00033">
+<para id="para-00052"><link class="os-embed" url="#exercise/06-99-OC-AP19"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00034">
+<problem id="prob-00034">
+<para id="para-00053"><link class="os-embed" url="#exercise/06-99-OC-AP20"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00035">
+<problem id="prob-00035">
+<para id="para-00054"><link class="os-embed" url="#exercise/06-99-OC-AP21"/></para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

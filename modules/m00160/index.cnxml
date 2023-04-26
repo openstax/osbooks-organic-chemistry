@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Atomic Structure: Electron Configurations</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Atomic Structure: Electron Configurations</md:title>
+    <md:content-id>m00160</md:content-id>
+    <md:uuid>091761c7-1a06-4c03-8e3f-41bdd4b988a7</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">The lowest-energy arrangement, or <term id="term-00001">ground-state electron configuration</term>, of an atom is a list of the orbitals occupied by its electrons. We can predict this arrangement by following three rules.</para>
+    <para id="para-00002"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis><newline />The lowest-energy orbitals fill up first, <m:math><m:mrow><m:mn>1</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>p</m:mi><m:mo>→</m:mo><m:mn>4</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>d</m:mi></m:mrow></m:math>, according to the following graphic, a statement called the <term id="term-00002"><emphasis effect="italics">Aufbau principle</emphasis></term>. Note that the 4<emphasis effect="italics">s</emphasis> orbital lies between the 3<emphasis effect="italics">p</emphasis> and 3<emphasis effect="italics">d</emphasis> orbitals in energy.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="Alt text placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_01_02_Aufbau.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003"><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis><newline />Electrons act in some ways as if they were spinning around an axis, somewhat as the earth spins. This spin can have two orientations, denoted as up (<emphasis effect="bold"><span class="magenta-text">↑</span></emphasis>) and down (<emphasis effect="bold"><span class="magenta-text">↓</span></emphasis>). Only two electrons can occupy an orbital, and they must have opposite spins, a statement called the <term id="term-00003"><emphasis effect="italics">Pauli exclusion principle</emphasis></term>.</para>
+    <para id="para-00004"><emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis><newline />If two or more empty orbitals of equal energy are available, one electron occupies each with spins parallel until all orbitals are half-full, a statement called <term id="term-00004"><emphasis effect="italics">Hund’s rule</emphasis></term>.</para>
+    <para id="para-00005">Some examples of how these rules apply are shown in <link target-id="table-00001"/>. Hydrogen, for instance, has only one electron, which must occupy the lowest-energy orbital. Thus, hydrogen has a 1<emphasis effect="italics">s</emphasis> ground-state configuration. Carbon has six electrons and the ground-state configuration <m:math><m:mrow><m:mn>1</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mn>2</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mn>2</m:mn><m:msub><m:mi>p</m:mi><m:mi>x</m:mi></m:msub><m:msup><m:mrow/><m:mn>1</m:mn></m:msup><m:mn>2</m:mn><m:msub><m:mi>p</m:mi><m:mi>y</m:mi></m:msub><m:msup><m:mrow/><m:mn>1</m:mn></m:msup></m:mrow></m:math>, and so forth. Note that a superscript is used to represent the number of electrons in a particular orbital.</para>
+    <table summary="" id="table-00001">
+    <title>Ground-State Electron Configurations of Some Elements</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Element</entry>
+    <entry valign="top" align="left">Atomic number</entry>
+    <entry valign="top" align="left">Configuration</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Hydrogen</entry>
+    <entry valign="top" align="center">1</entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_01_03_001a.jpg"/></media></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Carbon</entry>
+    <entry valign="top" align="center">6</entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_01_03_001b.jpg"/></media></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Phosphorus</entry>
+    <entry valign="top" align="center">15</entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_01_03_001c.jpg"/></media></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/01-03-OC-P01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00007"><link class="os-embed" url="#exercise/01-03-OC-P02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

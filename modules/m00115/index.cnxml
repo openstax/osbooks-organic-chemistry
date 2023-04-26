@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preparing Alkyl Halides from Alkenes: Allylic Bromination</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Preparing Alkyl Halides from Alkenes: Allylic Bromination</md:title>
+    <md:content-id>m00115</md:content-id>
+    <md:uuid>7ebf1c95-fde9-4819-9a1a-cf075678928e</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">We’ve already seen several methods for preparing alkyl halides from alkenes, including the reactions of HX and X<sub>2</sub> with alkenes in electrophilic addition reactions (<link document="m00069"/> and <link document="m00090"/>). The hydrogen halides HCl, HBr, and HI react with alkenes by a polar mechanism to give the product of Markovnikov addition. Bromine and chlorine undergo anti addition through halonium ion intermediates to give 1,2-dihalogenated products.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows two reactions: An alkene reacts with X2 to give a dihalogenated product; the same alkene reacts with HX to yield a halogenated product. The alkene shows a cyclopentene bonded to hydrogen and methyl group. The dihalogenated product shows a pentane ring. A carbon of the ring is bonded to a methyl group and X. Another carbon is bonded to a hydrogen and X. X is chlorine or bromine atom. The halogenated product shows a pentane ring. A carbon of the ring is bonded to a methyl group and X. Another carbon is bonded to two hydrogen atoms. X is chlorine bromine or iodine atom. X is shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_03_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Another laboratory method for preparing alkyl halides from alkenes is by reaction with <emphasis effect="italics">N</emphasis>-bromosuccinimide (abbreviated NBS), in the presence of ultraviolet light, to give products resulting from substitution of hydrogen by bromine at the position next to the double bond—the <term id="term-00001">allylic</term> position. Cyclohexene, for example, gives 3-bromocyclohexene.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows a reaction of cyclohexene in the presence of NBS hv and CCl4 to yield 3-Bromocyclohexene (85%) and another product. Cyclohexene shows a hexene ring with two of the carbons bonded to two hydrogen atoms each. The carbon positions are labeled ‘Allylic positions.’ NBS shows a 5-membered ring with a nitrogen that is bonded to a bromine. The ring is double bonded to two oxygen atoms. 3-Bromocyclohexene shows a hexene ring with a bromine atom bonded to C3. The other product shows a 5-membered ring with a nitrogen monohydride. The ring is double bonded to two oxygen atoms. The bromine atoms are shown in pink. The hydrogen atoms are shown in green.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_03_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">This allylic bromination with NBS is analogous to the alkane chlorination reaction discussed in the previous section and occurs by a radical chain-reaction pathway (<link target-id="fig-00003"/>). As in alkane halogenation, a Br<emphasis effect="bold">·</emphasis> radical abstracts an allylic hydrogen atom, forming an allylic radical plus HBr. The HBr then reacts with NBS to form Br<sub>2</sub>, which in turn reacts with the allylic radical to yield the brominated product and a Br<emphasis effect="bold">·</emphasis> radical that cycles back into the first step and carries on the chain.</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows the 3 steps of a bromination reaction of an alkene. In step 1 the alkene reacts with bromine radical to yield an allylic radical and HBr. In step 2 HBr reacts with NBS to yield bromine and another product. In step 3 bromine reacts with the allylic radical to yield bromoalkene and bromine radical. The alkene shows a hexene bonded to two hydrogen atoms. The allylic radical shows a hexene bonded to a hydrogen. The carbon bonded to hydrogen shows an electron. NBS shows a 5-membered ring with a nitrogen that is bonded to a bromine. The ring is double bonded to two oxygen atoms. The product of NBS is similar to NBS but the bromine is replaced by a hydrogen atom. The bromoalkene shows a hexene bonded to a bromine and hydrogen. The bromine atoms are shown in pink. The hydrogen atoms are shown in green. A dashed arrow points from the final bromine radical to the bromine radical involved in step 1.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_03_003.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Mechanism of allylic bromination of an alkene with NBS.</emphasis> The process is a radical chain reaction in which (<emphasis effect="bold"><span class="magenta-text">1</span></emphasis>) a Br<emphasis effect="bold">·</emphasis> radical abstracts an allylic hydrogen atom of the alkene and gives an allylic radical plus HBr. (<emphasis effect="bold"><span class="magenta-text">2</span></emphasis>) The HBr then reacts with NBS to form Br<sub>2</sub>, which (<emphasis effect="bold"><span class="magenta-text">3</span></emphasis>) reacts with the allylic radical to yield the bromoalkene product and a Br<emphasis effect="bold">·</emphasis> radical that continues the chain.</caption>
+    </figure>
+    <para id="para-00004">Why does bromination with NBS occur exclusively at an allylic position rather than elsewhere in the molecule? The answer, once again, is found by looking at bond dissociation energies to see the relative stabilities of various kinds of radicals. Although a typical secondary alkyl C−H bond has a strength of about 410 kJ/mol (98 kcal/mol) and a typical vinylic C−H bond has a strength of 465 kJ/mol (111 kcal/mol), an allylic C−H bond has a strength of only about 370 kJ/mol (88 kcal/mol). An allylic radical is therefore more stable than a typical alkyl radical with the same substitution by about 40 kJ/mol (9 kcal/mol).</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structure of a cyclohexene and strength of three bonds. Three carbon atoms of the cyclohexene are bonded to a hydrogen atom each. The alkyl C-H bond strength is 410 kJ/mol (98 kcal/mol). The allylic C-H bond strength is 370 kJ/mol (88 kcal/mol). The vinylic C-H bond strength is 465 kJ/mol (111 kcal/mol).">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_03_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">We can thus expand the stability ordering to include vinylic and allylic radicals.</para>
+    <figure class="unnumbered" id="fig-00005">
+    <media alt="An illustration shows the stability of six radicals in the following ascending order: vinylic methyl primary secondary tertiary and allylic. The vinylic group shows two carbons double bonded to each other. One of the carbons shows two double bonds. The other carbon shows a free bond and is bonded to an orbital with an electron. The methyl group shows a carbon bonded to three hydrogen atoms and an orbital with an electron. The primary group shows a carbon bonded to two hydrogen atoms an R group and an orbital with an electron. The secondary group shows a carbon bonded to a hydrogen atom two R groups and an orbital with an electron. The tertiary group shows a carbon bonded to three R groups and an orbital with an electron. The allylic group shows two carbons double bonded to each other. One of the carbons shows two double bonds. The other carbon shows a free bond and is bonded to a third carbon that shows two free bonds. The third carbon is bonded to an orbital with an electron.">
+    <image mime-type="image/jpeg" src="../../media/OChem_10_03_005.jpg"/>
+    </media>
+    </figure>
+    </content>
+</document>

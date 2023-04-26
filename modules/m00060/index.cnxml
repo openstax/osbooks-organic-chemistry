@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Prochirality</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Prochirality</md:title>
+    <md:content-id>m00060</md:content-id>
+    <md:uuid>be9ba98e-e1b6-4bce-9d87-0ddf811597ab</md:uuid>
+  </metadata>
+  <content>
+  <para id="para-00001">Closely related to the concept of chirality, and particularly important in biological chemistry, is the notion of <emphasis effect="italics">prochirality.</emphasis> A molecule is said to be <term id="term-00001">prochiral</term> if it can be converted from achiral to chiral in a single chemical step. For instance, an unsymmetrical ketone like 2-butanone is prochiral because it can be converted to the chiral alcohol 2-butanol by the addition of hydrogen, as we’ll see in <link document="m00074" target-id="note-00001"/><!--Section 17.4-->.</para>
+  <figure class="unnumbered scaled-down-30" id="fig-00001">
+  <media alt="An illustration shows the structures of 2-Butanone (prochiral) and 2-Butanol (chiral). 2-Butanone shows a carbonyl group bonded to a methyl group and ethyl group. An arrow points to the carbonyl carbon. 2-Butanol shows a carbon bonded to a hydrogen hydroxyl group methyl group and ethyl group. An arrow points to the carbon.">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_001.jpg"/>
+  </media>
+  </figure>
+  <para id="para-00002">Which enantiomer of 2-butanol is produced depends on which face of the planar carbonyl group undergoes reaction. To distinguish between the possibilities, we use the stereochemical descriptors Re and Si. Rank the three groups attached to the trigonal, <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized carbon, and imagine curved arrows from the highest to second-highest to third-highest ranked substituents. The face on which the arrows curve clockwise is designated the <term id="term-00002">Re face</term> (similar to <emphasis effect="italics">R</emphasis>), and the face on which the arrows curve counterclockwise is designated the <term id="term-00003">Si face</term> (similar to <emphasis effect="italics">S</emphasis>). In this example, addition of hydrogen from the Re face gives (<emphasis effect="italics">S</emphasis>)-2-butane, and addition from the Si face gives (<emphasis effect="italics">R</emphasis>)- -2-butane.</para>
+  <figure class="unnumbered scaled-down" id="fig-00002">
+  <media alt="An illustration shows the structures of 2-Butanone in a plane (S)-2-Butanol and (R)-2-Butanol. 2-Butanone shows a carbonyl group bonded to a methyl group and ethyl group. The oxygen is labeled 1 the ethyl group 2 and methyl group 3. Three arrows show clockwise rotation. An arrow from the top reads: Re face (clockwise). An arrow from the bottom reads: Si face (counterclockwise). (S)-2-Butanol shows a carbon single bonded to methyl group on the left hydrogen at the top wedge bonded to ethyl group at the bottom and dash bonded to hydroxyl group on the right. (R)-2-Butanol shows a carbon single bonded to methyl group on the left hydrogen at the bottom wedge bonded to ethyl group at the top and dash bonded to hydroxyl group on the right.">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_002.jpg"/>
+  </media>
+  </figure>
+  <para id="para-00003">In addition to compounds with planar, <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized atoms, compounds with tetrahedral, <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized atoms can also be prochiral. An <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized atom is said to be a <term id="term-00004">prochirality center</term> if, by changing one of its attached groups, it becomes a chirality center. The −CH<sub>2</sub>OH carbon atom of ethanol, for instance, is a prochirality center because changing one of its attached −H atoms converts it into a chirality center.</para>
+  <figure class="unnumbered scaled-down-30" id="fig-00003">
+  <media alt="An illustration shows two structures of Ethanol. The first structure shows a carbon bonded to two hydrogen atoms a hydroxyl group and a methyl group. The carbon is labeled prochirality center. The second structure shows a carbon bonded to a hydrogen a hydroxyl group X and a methyl group. The carbon is labeled chirality center.">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_003.jpg"/>
+  </media>
+  </figure>
+  <para id="para-00004">To distinguish between the two identical atoms (or groups of atoms) on a prochirality center, we imagine a change that will raise the ranking of one atom over the other without affecting its rank with respect to other attached groups. On the −CH<sub>2</sub>OH carbon of ethanol, for instance, we might imagine replacing one of the <sup>1</sup>H atoms (protium) by <sup>2</sup>H (deuterium). The newly introduced <sup>2</sup>H atom ranks higher than the remaining <sup>1</sup>H atom, but it remains lower than other groups attached to the carbon. Of the two identical atoms in the original compound, the atom whose replacement leads to an <emphasis effect="italics">R</emphasis> chirality center is said to be <term id="term-00005">pro-<emphasis effect="italics">R</emphasis></term> and the atom whose replacement leads to an <emphasis effect="italics">S</emphasis> chirality center is <term id="term-00006">pro-<emphasis effect="italics">S</emphasis></term>.</para>
+  <figure class="unnumbered scaled-down" id="fig-00004">
+  <media alt="An illustration shows three structures of Ethanol. The first structure shows a carbon bonded to a methyl group and a hydroxyl group; the carbon is wedge bonded to a hydrogen (pro-R) and dash bonded to a hydrogen (pro-S). the carbon is labeled prochiral. The second structure shows a carbon bonded to a methyl group and a hydroxyl group; the carbon is wedge bonded to 2H and dash bonded to a hydrogen. The carbon is labeled chiral (R). The third structure shows a carbon bonded to a methyl group and a hydroxyl group; the carbon is wedge bonded to a hydrogen and dash bonded to 2H. The carbon is labeled chiral (S).">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_004.jpg"/>
+  </media>
+  </figure>
+  <para id="para-00005">A large number of biological reactions involve prochiral compounds. One of the steps in the citric acid cycle by which food is metabolized, for instance, is the addition of H<sub>2</sub>O to fumarate to give malate. Addition of −OH occurs on the <emphasis effect="italics">Si</emphasis> face of a fumarate carbon and gives (<emphasis effect="italics">S</emphasis>)-malate as product.</para>
+  <figure class="unnumbered scaled-down" id="fig-00005">
+  <media alt="An illustration shows the conversion of fumarate to (S)-Malate. Fumarate shows a carbon bonded to a carboxylate ion (1) double bonded to a methine group (2) that is bonded to carboxylate ion and hydrogen (3). An arrow labeled Re points from the top and an arrow labeled Si points from the bottom to C. (S)-Malate shows a carbon bonded to a carboxyl ion a hydroxyl group wedge bonded to a hydrogen and dash bonded to a methylene group bonded to a carboxylate ion.">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_005.jpg"/>
+  </media>
+  </figure>
+  <para id="para-00006">As another example, studies with deuterium-labeled substrates have shown that the reaction of ethanol with the coenzyme nicotinamide adenine dinucleotide (NAD<sup>+</sup>), catalyzed by yeast alcohol dehydrogenase, occurs with exclusive removal of the pro-<emphasis effect="italics">R</emphasis> hydrogen from ethanol and with addition only to the Re face of NAD<sup>+</sup>.</para>
+  <figure class="unnumbered scaled-down" id="fig-00006">
+  <media alt="An illustration shows the reaction of Ethanol and NAD plus to produce Acetaldehyde and NADH. Ethanol shows a carbon bonded to HR methyl group wedge bonded to a hydroxyl group and dash bonded to HS. NAD plus shows a 6-member ring with N plus that has a wavy bond. The ring is bonded to a hydrogen and amide group. An arrow labeled Re points to the ring. Acetaldehyde shows a methyl group bonded to aldehyde group. NADH shows a 6-member ring with N that has a wavy bond. The ring is bonded to an amide group wedge bonded to HS and dash bonded to HR.">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_006.jpg"/>
+  </media>
+  </figure>
+  <para id="para-00007">Determining the stereochemistry of reactions at prochirality centers is a powerful method for studying detailed mechanisms in biochemical reactions. As just one example, the conversion of citrate to <emphasis effect="italics">cis</emphasis>-aconitate in the citric acid cycle has been shown to occur with loss of a pro-<emphasis effect="italics">R</emphasis> hydrogen, implying that the OH and H groups leave from opposite sides of the molecule.</para>
+  <figure class="unnumbered scaled-down" id="fig-00007">
+  <media alt="An illustration shows the dehydration reaction of citrate to cis-Aconitate. Two forms of citrate are shown. The first form shows two carbons bonded. The top carbon is bonded to a carboxylate ion and wedge bonded to a hydroxyl group on the left. It is dash bonded to carboxylate ion on the right. The bottom carbon is bonded to a carboxylate ion on the right dash bonded to a hydrogen (pro-R) and wedge bonded to a hydrogen (pro-S) at the bottom. In the second form the top carbon is bonded to a carboxylate ion on the left and on the right and a hydroxyl group at the top. The bottom carbon is bonded to a carboxylate ion on the right and bonded to a hydrogen at the bottom and on the left. cis-Aconitate shows twoc carbons double bonded. The top carbon is bonded to two carboxylate ions. The bottom carbon is bonded to a hydrogen and carboxylate ion.">
+  <image mime-type="image/jpeg" src="../../media/OChem_05_11_007.jpg"/>
+  </media>
+  </figure>
+  <section class="section-exercises" id="sect-00001">
+  <title>Problems</title>
+  <exercise id="exer-00001">
+  <problem id="prob-00001">
+  <para id="para-00008"><link class="os-embed" url="#exercise/05-11-OC-P22"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00002">
+  <problem id="prob-00002">
+  <para id="para-00009"><link class="os-embed" url="#exercise/05-11-OC-P23"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00003">
+  <problem id="prob-00003">
+  <para id="para-00010"><link class="os-embed" url="#exercise/05-11-OC-P24"/></para>
+  </problem>
+  </exercise>
+  <exercise id="exer-00004">
+  <problem id="prob-00004">
+  <para id="para-00011"><link class="os-embed" url="#exercise/05-11-OC-P25"/></para>
+  </problem>
+  </exercise>
+  </section>
+  </content>
+
+</document>

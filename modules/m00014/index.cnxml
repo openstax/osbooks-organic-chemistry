@@ -69,10 +69,12 @@
         </tbody>
       </tgroup>
     </table>
+
+
     <example id="exam-00001">
       <title>Interpreting a Line-Bond Structure</title>
       <para id="para-00008"><term class="no-emphasis" id="term-00004">Carvone</term>, a substance responsible for the odor of spearmint, has the following structure. Tell how many hydrogens are bonded to each carbon, and give the molecular formula of carvone.</para>
-        <media display="inline" alt="MISSING">
+        <media alt="MISSING">
           <image mime-type="image/jpeg" src="../../media/OChem_01_12_004.jpg"/>
         </media>
       <para id="para-00009"><title><emphasis effect="bold"><span class="red-text">Strategy</span></emphasis></title> The end of a line represents a carbon atom with 3 hydrogens, CH3; a two-way intersection is a carbon atom with 2 hydrogens, CH2; a three-way intersection is a carbon atom with 1 hydrogen, CH; and a four-way intersection is a carbon atom with no attached hydrogens.</para>
@@ -103,7 +105,7 @@
 
       </section>
 
-<note class="chemistry-matters" id="note-00001">
+<section class="chemistry-matters" id="note-00001">
   <title><term id="term-00005" class="no-emphasis">Organic Foods</term>: <term id="term-00006" class="no-emphasis">Risk</term> versus Benefit</title>
   <para id="para-00012">
     Contrary to what you may hear in supermarkets or on television, all foods are organic—that is, complex mixtures of organic molecules. Even so, when applied to food, the word <emphasis effect="italics">organic</emphasis> has come to mean an absence of chemicals made in the laboratory, typically pesticides, antibiotics, and preservatives. How concerned should we be about traces of pesticides in the food we eat? Or toxins in the water we drink? Or pollutants in the air we breathe?
@@ -171,7 +173,74 @@
 <para id="para-00017">
   So, should we still use atrazine? All decisions involve tradeoffs, and the answer is rarely obvious. Does the benefit of increased food production outweigh possible health risks of a pesticide? Do the beneficial effects of a new drug outweigh a potentially dangerous side effect in a small number of users? Different people will have different opinions, but an honest evaluation of facts is surely the best way to start. At present, atrazine is approved for continued use in the United States because the EPA believes that the benefits of increased food production outweigh possible health risks. At the same time, though, atrazine is little used in the European Union, though not banned.
 </para>
+<note id="test-ch07-featbox">
+  <title>TESTING: Writing Organic Reactions</title>
+  <para id="test-ch07-featbox-01">TESTING This is a good time to mention that organic-reaction equations are sometimes written in different ways to emphasize different points. In describing a laboratory process, for instance, the reaction of 2-methylpropene with HCl might be written in the format A 1 B n C to emphasize that both reactants are equally important for the purposes of the discussion. The solvent and notes about other reaction conditions such as temperature are written either above or below the reaction arrow.</para>
+  <figure class="unnumbered" id="test-ch07-featbox-fig-00001"><media alt="Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_01_12_009.jpg"/>
+  </media></figure>
+  <para id="test-ch07-featbox-02">TESTING Alternatively, we might write the same reaction in a format to emphasize that 2-methylpropene is the reactant whose chemistry is of greater interest. The second reactant, HCl, is placed above the reaction arrow together with notes about solvent and reaction conditions.</para>
 </note>
+<para id="test-10000">Testing link to <link document="m00008"/> which has ital and sup. And additionally testing <link document="m00008"><emphasis effect="italics">sp</emphasis><sup>3</sup> Hybrid Orbitals and the Structure of Methane</link> when link is hard coded.</para>
+<equation class="unnumbered" id="test-eq-00001"><label/>
+  <m:math display="block">
+ <m:mrow>
+  <m:mtext>HA</m:mtext><m:mo>+</m:mo><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+  <m:mtext>O</m:mtext>
+  <m:munder>
+    <m:mover>
+      <m:mo>&#x2190;</m:mo>
+      <m:mpadded height="-.1em">
+        <m:mo>&#x2192;</m:mo>
+      </m:mpadded>
+    </m:mover>
+   <m:mrow>
+    <m:msub>
+     <m:mi>K</m:mi>
+     <m:mtext>a</m:mtext>
+    </m:msub>
+    <m:mtext>&#x00A0;</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>&#x00A0;</m:mtext>
+    <m:mfrac>
+     <m:mrow>
+      <m:mo stretchy="false">[</m:mo><m:msub>
+       <m:mtext>H</m:mtext>
+       <m:mn>3</m:mn>
+      </m:msub>
+      <m:msup>
+       <m:mtext>O</m:mtext>
+       <m:mo>+</m:mo>
+      </m:msup>
+      <m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup>
+       <m:mtext>A</m:mtext>
+       <m:mtext>-</m:mtext>
+      </m:msup>
+      <m:mo stretchy="false">]</m:mo></m:mrow>
+     <m:mrow>
+      <m:mo stretchy="false">[</m:mo><m:mtext>HA</m:mtext><m:mo stretchy="false">]</m:mo></m:mrow>
+    </m:mfrac>
+    </m:mrow>
+  </m:munder>
+  <m:msup>
+   <m:mtext>A</m:mtext>
+   <m:mo>&#x2212;</m:mo>
+  </m:msup>
+  <m:mo>+</m:mo><m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>3</m:mn>
+  </m:msub>
+  <m:msup>
+   <m:mtext>O</m:mtext>
+   <m:mo>+</m:mo>
+  </m:msup>
+  </m:mrow>
+</m:math>
+  </equation>
+</section>
 
 
 <section class="key-terms" id="sect-00008">
@@ -377,16 +446,6 @@
     </problem>
   </exercise>
 </section>
-
-<section class="practice-scientific" id="sect-00006">
-  <title>Practice Your Scientific Analysis and Reasoning</title>
-  <section id="sect-00007">
-    <title>Photodynamic Therapy (PDT)</title>
-    <para id="para-00055">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</para>
-  </section>
-</section>
-
-
 
   </content>
 </document>

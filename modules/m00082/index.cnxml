@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Using Curved Arrows in Polar Reaction Mechanisms</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Using Curved Arrows in Polar Reaction Mechanisms</md:title>
+    <md:content-id>m00082</md:content-id>
+    <md:uuid>7f183fc7-39d0-49dd-a344-d6863b28b849</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">It takes practice to use curved arrows properly in reaction mechanisms, but there are a few rules and a few common patterns you should look for that will help you become more proficient:</para>
+<para id="para-00002"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis><newline /><emphasis effect="bold">Electrons move <emphasis effect="italics">from</emphasis> a nucleophilic source (Nu: or Nu:<sup>−</sup>) <emphasis effect="italics">to</emphasis> an electrophilic sink (E or E<sup>+</sup>)</emphasis>. The nucleophilic source must have an electron pair available, usually either as a lone pair or in a multiple bond. For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration reads “electrons usually flow from one of these nucleophiles”; four structures are shown; the first shows a pink oxygen with two pairs of pink electrons and two open bonds; a pink arrow points from the right side electron pair to blue “E.” The second structure shows a pink nitrogen having a pair of pink electrons and an open single an open dashed bond and a wedge bond; a pink arrow points from the pair of electrons to blue “E.” The third structure shows a pink carbon anion with a pair of pink electrons and shows an open single and an open dashed bond along with a wedge bond; a pink arrow points from the pink electron pair to blue “E.” The fourth structure shows two pink carbons sharing a pink double bond; the left side carbon has two open bonds and the right side carbon has a bond with blue “E” and an open bonds.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_001.jpg"/>
+</media>
+</figure>
+<para id="para-00003">The electrophilic sink must be able to accept an electron pair, usually because it has either a positively charged atom or a positively polarized atom in a functional group. For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration reads “electrons usually flow to one of these electrophiles”; four structures are shown. The first shows a blue carbon cation having three open bonds a pink arrow points from pink Nu having a pair of electrons that is placed at the upper left corner to the blue carbon cation. The second structure shows a blue carbon (delta plus) having to its left an open single bond an open dashed bond and an open wedge bond the right side is bonded to a pink “halogen (delta minus)”; a pink arrow points from its bond to “halogen”; a pink arrow points from pink Nu having a pair of electrons that is placed at the upper left corner to the blue carbon cation. The third structure shows a blue hydrogen (delta plus) bonded to a pink oxygen (delta minus) having an open bond; a pink arrow points from the bond between hydrogen and oxygen to oxygen; another arrow is shown pointing from pink Nu having a pair of electrons that is placed at the upper left corner to the blue hydrogen. The fourth structure shows a blue carbon (delta plus) having two open bonds sharing a double bond with the pink oxygen (delta minus); a pink arrow points from the double bond to oxygen; another arrow is shown pointing from pink Nu having a pair of electrons that is placed at the upper left corner to the blue carbon.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_002.jpg"/>
+</media>
+</figure>
+<para id="para-00004"><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis><newline /><emphasis effect="bold">The nucleophile can be either negatively charged or neutral.</emphasis> If the nucleophile is negatively charged, the atom that donates an electron pair becomes neutral. For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows a reaction between methoxide (shown as a methyl group bonded to a pink oxygen anion having three pairs of electrons labeled as “negatively charged&quot;) and hydrogen bromide (shown as a blue hydrogen bonded to a blue bromine having three pairs of electrons) to yield methanol (shown as a methyl group bonded to a pink oxygen with two pairs of electrons labeled as “neutral” which shares a pink bond with the blue hydrogen) and a blue bromine anion having four pairs of electrons; a pink arrow points from oxygen anion to blue hydrogen and another pink arrow points from the bond between hydrogen and bromine to bromine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_003.jpg"/>
+</media>
+</figure>
+<para id="para-00005">If the nucleophile is neutral, the atom that donates the electron pair acquires a positive charge. For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="An illustration shows a reaction between methylene (shown as two carbons sharing a pink double bond and each carbon is bonded to two hydrogens) and hydrogen bromide (shown as a blue hydrogen bonded to a blue bromine labeled as “neutral” and having three pairs of electrons) yielding an ethyl group (shown as a carbon cation labeled as “positively charged” being bonded to two hydrogens the carbon cation is bonded to another carbon having an upward bond with blue hydrogen and two side bonds with two hydrogens) and blue bromine anion having four pairs of electrons and labeled as “negatively charged”; a pink arrow points from the pink double bond to blue hydrogen of the hydronium ion and another tiny pink arrow points from the bond between hydrogen and bromine to bromine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_004.jpg"/>
+</media>
+</figure>
+<para id="para-00006"><emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis><newline /><emphasis effect="bold">The electrophile can be either positively charged or neutral.</emphasis> If the electrophile is positively charged, the atom bearing that charge becomes neutral after accepting an electron pair. For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="An illustration shows a reaction between methylene (shown as two carbons sharing a pink double bond and each carbon is bonded to two hydrogens) and a hydronium ion (shown as a centrally located blue oxygen cation having a pair of blue electrons labeled as “positively charged” and bonded to three blue hydrogens) yielding an ethyl group (shown as a carbon cation bonded to two hydrogens the carbon is bonded to another carbon having an upward bond with blue hydrogen and two side bond with two hydrogens) and water (shown as a centrally located blue oxygen labeled as “neutral” having two pairs of blue electrons bonded to two blue hydrogens); a pink arrow points from the pink double bond to blue hydrogen of the hydronium ion and another tiny pink arrow points from the bond between hydrogen and oxygen to the oxygen in hydronium ion.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_005.jpg"/>
+</media>
+</figure>
+<para id="para-00007">If the electrophile is neutral, the atom that ultimately accepts the electron pair acquires a negative charge. For this to happen, however, the negative charge must be stabilized by being on an electronegative atom such as oxygen, nitrogen, or a halogen. Carbon and hydrogen do not typically stabilize a negative charge. For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="An illustration shows a reaction between methylene (shown as two carbons sharing a pink double bond and each carbon is bonded to two hydrogens) and hydrogen bromide (shown as a blue hydrogen bonded to a blue bromine labeled as “neutral” and having three pairs of electrons) yielding an ethyl group (shown as a carbon cation bonded to two hydrogens the carbon is bonded to another carbon having an upward bond with blue hydrogen and two side bond with two hydrogens) and blue bromine anion having four pairs of electrons and labeled as “negatively charged”; a pink arrow points from the pink double bond to blue hydrogen of the hydronium ion and another tiny pink arrow points from the bond between hydrogen and bromine to bromine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_006.jpg"/>
+</media>
+</figure>
+<para id="para-00008">The result of Rules 2 and 3 together is that charge is conserved during the reaction. A negative charge in one of the reactants gives a negative charge in one of the products, and a positive charge in one of the reactants gives a positive charge in one of the products.</para>
+<para id="para-00009"><emphasis effect="bold"><span class="red-text">RULE 4</span></emphasis><newline /><emphasis effect="bold">The octet rule must be followed.</emphasis> That is, no second-row atom can be left with ten electrons (or four for hydrogen). If an electron pair moves <emphasis effect="italics">to</emphasis> an atom that already has an octet (or two electrons for hydrogen), another electron pair must simultaneously move from that atom to maintain the octet. When two electrons move from the C=C bond of ethylene to the hydrogen atom of <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math>, for instance, two electrons must leave that hydrogen. This means that the H−O bond must break and the electrons must stay with the oxygen, giving neutral water.</para>
+<figure class="unnumbered scaled-down" id="fig-00007">
+<media alt="An illustration shows a reaction between methylene (shown as two carbons sharing a pink double bond and each carbon is bonded to two hydrogens) and a hydronium ion (shown as a centrally located blue oxygen cation having a pair of blue electrons labeled as “positively charged” and bonded to three blue hydrogens) yielding an ethyl group (shown as a carbon cation bonded to two hydrogens the carbon is bonded to another carbon having an upward bond with blue hydrogen and two side bond with two hydrogens) and water (shown as a centrally located blue oxygen having two pairs of blue electrons bonded to two blue hydrogens); a pink arrow points from the pink double bond between the carbons to blue hydrogen of the hydronium ion and another tiny pink arrow points from the bond between hydrogen and oxygen to the oxygen in hydronium ion; this hydrogen is labeled as “this hydrogen already has two electrons. When another electron pair moves to the hydrogen from the double bond the electron pair in the H-O bond must leave.”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_007.jpg"/>
+</media>
+</figure>
+<para id="para-00010"><link target-id="exam-00001">Worked Example 6.2</link> gives another example of drawing curved arrows.</para>
+<example id="exam-00001">
+<title>Using Curved Arrows in Reaction Mechanisms</title>
+<para id="para-00011">Add curved arrows to the following polar reaction to show the flow of electrons:</para>
+<figure class="unnumbered scaled-down" id="fig-00008">
+<media alt="An illustration shows reaction between isopropenyloxy and methyl bromide to yield butanone and bromine anion. The structure of isopropenyloxy shows a methyl group bonded to a carbonyl group whose carbon is bonded to a carbon anion having a pair of electrons and shares two bonds with two hydrogens. Methyl bromide shows a centrally located carbon bonded to three hydrogens and a bromine. The butanone structure shows a methyl group bonded to a carbonyl group whose carbon bonds to another carbon bonded to two hydrogens and a methyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_008.jpg"/>
+</media>
+</figure>
+<para id="para-00012"><title><span class="red-text">Strategy</span></title> Look at the reaction, and identify the bonding changes that have occurred. In this case, a C−Br bond has broken and a C−C bond has formed. The formation of the C−C bond involves donation of an electron pair from the nucleophilic carbon atom of the reactant on the left to the electrophilic carbon atom of CH<sub>3</sub>Br, so we draw a curved arrow originating from the lone pair on the negatively charged C atom and pointing to the C atom of CH<sub>3</sub>Br. At the same time that the C−C bond forms, the C−Br bond must break so that the octet rule is not violated. We therefore draw a second curved arrow from the C−Br bond to Br. The bromine is now a stable Br<sup>−</sup> ion.</para>
+<para id="para-00013"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down" id="fig-00009">
+<media alt="An illustration shows reaction between isopropenyloxy and methyl bromide to yield butanone and bromine anion. The structure of isopropenyloxy shows a methyl group bonded to a carbonyl group whose carbon is bonded to a carbon anion having a pair of electrons; the carbon shares two bonds with two hydrogens. Methyl bromide shows a centrally located green carbon bonded to three green hydrogens and a pink bromine; a pink arrow points from the carbon anion to green carbon and another arrow points from the bond between carbon and bromine to pink bromine. The butanone structure shows a methyl group bonded to a carbonyl group whose carbon bonds to another carbon bonded to two hydrogens and a green methyl group. Bromine anion is shown as a pink bromine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_06_009.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00014"><link class="os-embed" url="#exercise/06-06-OC-P08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00015"><link class="os-embed" url="#exercise/06-06-OC-P09"/></para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

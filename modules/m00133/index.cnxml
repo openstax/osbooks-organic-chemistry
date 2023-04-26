@@ -1,0 +1,434 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>A Summary of Reactivity: S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, and E2</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>A Summary of Reactivity: SN1, SN2, E1, E1cB, and E2</md:title>
+    <md:content-id>m00133</md:content-id>
+    <md:uuid>552295b5-5cb4-40b3-a66e-0111377f5cbe</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, E2—how can you keep it all straight and predict what will happen in any given case? Will substitution or elimination occur? Will the reaction be bimolecular or unimolecular? There are no rigid answers to these questions, but it’s possible to recognize some trends and make some generalizations.</para>
+    <list id="list-00001">
+      <item><emphasis effect="bold"><span class="cyan-text">Primary alkyl halides</span></emphasis> S<sub>N</sub>2 substitution occurs if a good nucleophile is used, E2 elimination occurs if a strong, sterically hindered base is used, and E1cB elimination occurs if the leaving group is two carbons away from a carbonyl group.</item>
+      <item><emphasis effect="bold"><span class="green-text">Secondary alkyl halides</span></emphasis> S<sub>N</sub>2 substitution occurs if a weakly basic nucleophile is used in a polar aprotic solvent, E2 elimination predominates if a strong base is used, and E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group. Secondary allylic and benzylic alkyl halides can also undergo S<sub>N</sub>1 and E1 reactions if a weakly basic nucleophile is used in a protic solvent.</item>
+      <item><emphasis effect="bold"><span class="red-text">Tertiary alkyl halides</span></emphasis> E2 elimination occurs when a base is used, but S<sub>N</sub>1 substitution and E1 elimination occur together under neutral conditions, such as in pure ethanol or water. E1cB elimination takes place if the leaving group is two carbons away from a carbonyl group.</item>
+    </list>
+
+    <example id="exam-00001">
+    <title>Predicting the Product and Mechanism of Reactions</title>
+    <para id="para-00005">Tell whether each of the following reactions is likely to be S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, or E2, and predict the product of each:</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_12_001.jpg"/></media>
+    </figure>
+    <para id="para-00006"><title><span class="red-text">Strategy</span></title> Look carefully in each reaction at the structure of the substrate, the leaving group, the nucleophile, and the solvent. Then decide from the preceding summary which kind of reaction is likely to be favored.</para>
+    <para id="para-00007"><title><span class="cyan-text">Solution</span></title></para>
+    <para id="para-00008"><emphasis effect="bold">(a)</emphasis> A secondary, nonallylic substrate can undergo an S<sub>N</sub>2 reaction with a good nucleophile in a polar aprotic solvent but will undergo an E2 reaction on treatment with a strong base in a protic solvent. In this case, E2 reaction is likely to predominate.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows E2 reaction of a chloropentane with sodium methoxide and methanol to yield a cyclopentene.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_12_002.jpg"/></media>
+    </figure>
+    <para id="para-00009"><emphasis effect="bold">(b)</emphasis> A secondary benzylic substrate can undergo an S<sub>N</sub>2 reaction on treatment with a nonbasic nucleophile in a polar aprotic solvent and will undergo an E2 reaction on treatment with a base. Under protic conditions, such as aqueous formic acid (HCO<sub>2</sub>H), an S<sub>N</sub>1 reaction is likely, along with some E1 reaction.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the reaction of a bromoalkane in the presence of formic acid and water to yield two products. The bromoalkane shows a benzene bonded to a methine group that is bonded to a bromine and methyl group. The product of SN1 reaction is a benzene bonded to a methine group that is bonded to a methyl group and an oxygen bonded to aldehyde group. The product of E1 reaction is a benzene bonded to a 2-carbon chain with a double bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_12_003.jpg"/></media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00010"><link class="os-embed" url="#exercise/11-12-OC-P20"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="sect-00002">
+    <title>Green Chemistry</title>
+    <para id="para-00011">Organic chemistry in the 20th century changed the world, giving us new medicines, food preservatives, insecticides, adhesives, textiles, dyes, building materials, composites, and all manner of polymers. But these advances did not come without a cost: Almost every chemical process produces waste that must be dealt with, including reaction solvents and toxic by-products that might evaporate into the air or be leached into groundwater if not disposed of properly. Even apparently harmless by-products must be safely buried or otherwise sequestered. As always, there’s no such thing as a free lunch. With the good also comes the bad.</para>
+    <para id="para-00012">It may never be possible to make organic chemistry completely benign, but awareness of the environmental problems caused by many chemical processes has grown dramatically in recent years, giving rise to a movement called <emphasis effect="italics">green chemistry.</emphasis> Green chemistry is the design and implementation of chemical products and processes that reduce waste and attempt to eliminate the generation of hazardous substances. There are 12 principles of green chemistry:</para>
+    <figure class="scaled-down-30" id="fig-00004">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_98_GreenChem.jpg"/>
+    </media>
+    <caption>Let’s hope disasters like this are never repeated. (credit: modification of work “Aerial view Norfolk Southern freight train derailment Feb 2023” by the National Transportation Safety Board/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <list list-type="bulleted" bullet-style="none" id="list-00005">
+    <item><label>&#8195;</label><emphasis effect="bold">Prevent waste</emphasis> – Waste should be prevented rather than treated or cleaned up after it has been created.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Maximize atom economy</emphasis> – Synthetic methods should maximize the incorporation of all materials used in a process into the final product so that waste is minimized.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Use less hazardous processes</emphasis> – Synthetic methods should use reactants and generate wastes with minimal toxicity to health and the environment.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Design safer chemicals</emphasis> – Chemical products should be designed to have minimal toxicity.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Use safer solvents</emphasis> – Minimal use should be made of solvents, separation agents, and other auxiliary substances in a reaction.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Design for energy efficiency</emphasis> – Energy requirements for chemical processes should be minimized, with reactions carried out at room temperature if possible.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Use renewable feedstocks</emphasis> – Raw materials should come from renewable sources when feasible.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Minimize derivatives</emphasis> – Syntheses should be designed with minimal use of protecting groups to avoid extra steps and reduce waste.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Use catalysis</emphasis> – Reactions should be catalytic rather than stoichiometric.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Design for degradation</emphasis> – Products should be designed to be biodegradable at the end of their useful lifetimes.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Monitor pollution in real time</emphasis> – Processes should be monitored in real time for the formation of hazardous substances.</item>
+    <item><label>&#8195;</label><emphasis effect="bold">Prevent accidents</emphasis> – Chemical substances and processes should minimize the potential for fires, explosions, or other accidents.</item>
+  </list>
+    <para id="para-00025">The foregoing 12 principles may not all be met in most real-world applications, but they provide a worthy goal and they can make chemists think more carefully about the environmental implications of their work. Real success stories have occurred, and more are in progress. Approximately 7 million pounds per year of ibuprofen (6 billion tablets!) are now made by a “green” process that produces approximately 99% less waste than the process it replaces. Only three steps are needed, the anhydrous HF solvent used in the first step is recovered and reused, and the second and third steps are catalytic.</para>
+    <figure class="unnumbered" id="fig-00005">
+    <media alt="An illustration shows the reaction of isobutylbenzene in the presence of acetate and HF to yield an intermediate that reacts in the presence of hydrogen and Ni catalyst to yield another intermediate that reacts in the presence of CO and Pd catalyst to yield ibuprofen. Isobutylbenzene shows a benzene bonded to an isobutyl group at the bottom. The first intermediate is similar to the reactant but the ring is bonded to a carbonyl group bonded to a methyl group at the top. The second intermediate is similar to the reactant but the ring is bonded to a carbon at the top that is bonded to a methyl group and hydroxyl group. Ibuprofen is similar to the reactant but the ring is bonded to a carbon at the top that is bonded to a methyl group and carboxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_12_006.jpg"/></media>
+    </figure>
+    </section>
+    <section class="key-terms" id="sect-00003">
+    <list id="list-00002">
+      <item><link document="m00129" target-id="term-00005">anti periplanar</link></item>
+      <item><link document="m00126" target-id="term-00001">benzylic</link></item>
+      <item><link document="m00123" target-id="term-00004">bimolecular</link></item>
+      <item><link document="m00129" target-id="term-00002">deuterium isotope effect</link></item>
+      <item><link document="m00131" target-id="term-00001">E1 reaction</link></item>
+      <item><link document="m00131" target-id="term-00002">E1cB reaction</link></item>
+      <item><link document="m00129" target-id="term-00001">E2 reaction</link></item>
+      <item><link document="m00125" target-id="term-00003">first-order reaction</link></item>
+      <item><link document="m00125" target-id="term-00005">ion pair</link></item>
+      <item><link document="m00123" target-id="term-00001">kinetics</link></item>
+      <item><link document="m00124" target-id="term-00001">leaving group</link></item>
+      <item><link document="m00122" target-id="term-00001">nucleophilic substitution reaction</link></item>
+      <item><link document="m00129" target-id="term-00003">periplanar</link></item>
+      <item><link document="m00125" target-id="term-00004">rate limiting step</link></item>
+      <item><link document="m00123" target-id="term-00002">second-order reaction</link></item>
+      <item><link document="m00125" target-id="term-00001">S<sub>N</sub>1 reaction</link></item>
+      <item><link document="m00123" target-id="term-00003">S<sub>N</sub>2 reaction</link></item>
+      <item><link document="m00124" target-id="term-00002">solvation</link></item>
+      <item><link document="m00129" target-id="term-00004">syn periplanar</link></item>
+      <item><link document="m00122" target-id="term-00002">tosylate</link></item>
+      <item><link document="m00125" target-id="term-00002">unimolecular</link></item>
+      <item><link document="m00128" target-id="term-00001">Zaitsev’s rule</link></item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00004">
+    <title>Summary</title>
+    <para id="para-00026">The reaction of an alkyl halide or tosylate with a nucleophile/base results either in <emphasis effect="italics">substitution</emphasis> or in <emphasis effect="italics">elimination.</emphasis> The resultant nucleophilic substitution and base-induced elimination reactions are two of the most widely occurring and versatile reaction types in organic chemistry, both in the laboratory and in biological pathways.</para>
+    <para id="para-00027">Nucleophilic substitutions are of two types: <emphasis effect="bold">S<sub>N</sub>2 reactions</emphasis> and <emphasis effect="bold">S<sub>N</sub>1 reactions</emphasis>. In the S<sub>N</sub>2 reaction, the entering nucleophile approaches the halide from a direction 180° away from the leaving group, resulting in an umbrella-like inversion of configuration at the carbon atom. The reaction is kinetically <emphasis effect="bold">second-order</emphasis> and is strongly inhibited by increasing steric bulk of the reactants. Thus, S<sub>N</sub>2 reactions are favored for primary and secondary substrates.</para>
+    <para id="para-00028">In the S<sub>N</sub>1 reaction, the substrate spontaneously dissociates to a carbocation in a slow <emphasis effect="bold">rate-limiting step</emphasis>, followed by a rapid reaction with the nucleophile. As a result, S<sub>N</sub>1 reactions are kinetically <emphasis effect="bold">first-order</emphasis> and take place with substantial racemization of configuration at the carbon atom. They are most favored for tertiary substrates. Both S<sub>N</sub>1 and S<sub>N</sub>2 reactions occur in biological pathways, although the leaving group is typically a diphosphate ion rather than a halide.</para>
+    <para id="para-00029">Eliminations of alkyl halides to yield alkenes occur by three mechanisms: <emphasis effect="bold">E2 reactions</emphasis>, <emphasis effect="bold">E1 reactions</emphasis>, and <emphasis effect="bold">E1cB reactions</emphasis>, which differ in the timing of C–H and C–X bond-breaking. In the E2 reaction, C–H and C–X bond-breaking occur simultaneously when a base abstracts H<sup>+</sup> from one carbon while the leaving group departs from the neighboring carbon. The reaction takes place preferentially through an <emphasis effect="bold">anti periplanar</emphasis> transition state in which the four reacting atoms—hydrogen, two carbons, and leaving group—are in the same plane. The reaction shows <emphasis effect="bold">second-order kinetics</emphasis> and a <emphasis effect="bold">deuterium isotope effect</emphasis>, and occurs when a secondary or tertiary substrate is treated with a strong base. These elimination reactions usually give a mixture of alkene products in which the more highly substituted alkene predominates (<emphasis effect="bold">Zaitsev’s rule</emphasis>).</para>
+    <para id="para-00030">In the E1 reaction, C–X bond-breaking occurs first. The substrate dissociates to yield a carbocation in the slow rate-limiting step before losing H<sup>+</sup> from an adjacent carbon in a second step. The reaction shows <emphasis effect="bold">first-order kinetics</emphasis> and no deuterium isotope effect and occurs when a tertiary substrate reacts in polar, nonbasic solution.</para>
+    <para id="para-00031">In the E1cB reaction, C–H bond-breaking occurs first. A base abstracts a proton to give a carbanion, followed by loss of the leaving group from the adjacent carbon in a second step. The reaction is favored when the leaving group is two carbons removed from a carbonyl, which stabilizes the intermediate anion by resonance. Biological elimination reactions typically occur by this E1cB mechanism.</para>
+    <para id="para-00032">In general, substrates react in the following way:</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_EC_001.jpg"/></media>
+    </figure>
+    </section>
+    <section class="summary-reactions" id="sect-00005">
+    <title>Summary of Reactions</title>
+    <list list-type="enumerated" id="list-00003">
+    <item>Nucleophilic substitutions
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+    <item>S<sub>N</sub>1 reaction of 3°, allylic, and benzylic halides (<link document="m00125"/> and <link document="m00126"/>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows the reaction of tertiary halide to yield an intermediate that reacts with nucleophile to yield halide ion and another product. The reactant shows a central carbon bonded to three R and an X. The intermediate shows a carbocation bonded to three R. The nucleophile shows a negative charge and two electrons. The product shows a central carbon bonded to three R and Nu. The halide ion shows two electrons.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_EC_002.jpg"/></media>
+    </figure></item>
+    <item>S<sub>N</sub>2 reaction of 1° and simple 2° halides (<link document="m00123"/> and <link document="m00124"/>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows the reaction of a halide to yield a halide ion and another product. The reactant shows a central carbon bonded to an X. The carbon shows a free single bond dash bond and wedge bond. The nucleophile shows two electrons. An arrow from the electrons points to the carbon. An arrow from the C-X bond points to X. The product shows a central carbon bonded to an X. The carbon shows a free single bond dash bond and wedge bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_EC_003.jpg"/></media>
+    </figure></item>
+    </list></item>
+    <item>Eliminations
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
+    <item>E1 reaction (<link document="m00131"/>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="An illustration shows the reaction of a halide to yield an intermediate that further yields an alkene and HX. The reactant shows two carbons single bonded. The first carbon shows two free bonds; it is bonded to a hydrogen. The second carbon is bonded to two R and an X. An arrow from the C-X bond points to X. The intermediate is similar to the reactant but the second carbon is a cation bonded to two R. The alkene shows two carbons double bonded. The first carbon shows two free bonds. The second carbon is bonded to two R.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_EC_004.jpg"/></media>
+    </figure></item>
+    <item>E1cB reaction (<link document="m00131"/>)<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows the reaction of a halide in the presence of base to yield an intermediate that further yields an alkene and HX. The reactant shows a chain of three carbons. The first carbon shows two free bonds; it is bonded to X. The second carbon shows a free bond and is bonded to a hydrogen. The third carbon is a carbonyl carbon with a free bond. The intermediate is similar to the reactant but the second carbon is an anion with two electrons. An arrow from the electrons points to C1-C2 bond. An arrow from the C1-X bond points to X. The alkene shows two carbons double bonded. The first carbon shows two free bonds. The second carbon shows a free bond and is bonded to a carbonyl group that shows a free bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_EC_005.jpg"/></media>
+    </figure></item>
+    <item>E2 reaction (<link document="m00129"/>)<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <media alt="An illustration shows the reaction of a bromoalkane with a base in the presence of KOH and ethanol to yield an alkene. The bromoalkane shows two carbons single bonded. The first carbon shows two free bonds; it is bonded to a hydrogen. The second carbon shows two free bonds and is bonded to a bromine. The base shows two electrons. An arrow from the electrons points to the hydrogen. An arrow from the C-Br bond points to Br. The alkene shows two carbons double bonded. Each carbon shows two free bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_EC_006.jpg"/></media>
+    </figure></item>
+    </list></item>
+    </list>
+    </section>
+    <section class="additional-problems" id="sect-00006">
+    <title>Additional Problems</title>
+    <para id="para-00033"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00034"><link class="os-embed" url="#exercise/11-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00035"><link class="os-embed" url="#exercise/11-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00036"><link class="os-embed" url="#exercise/11-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00037"><link class="os-embed" url="#exercise/11-99-OC-VC04"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00038"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00039"><link class="os-embed" url="#exercise/11-99-OC-MP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00040"><link class="os-embed" url="#exercise/11-99-OC-MP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00041"><link class="os-embed" url="#exercise/11-99-OC-MP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00042"><link class="os-embed" url="#exercise/11-99-OC-MP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00043"><link class="os-embed" url="#exercise/11-99-OC-MP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00044"><link class="os-embed" url="#exercise/11-99-OC-MP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00045"><link class="os-embed" url="#exercise/11-99-OC-MP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00046"><link class="os-embed" url="#exercise/11-99-OC-MP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00047"><link class="os-embed" url="#exercise/11-99-OC-MP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00048"><link class="os-embed" url="#exercise/11-99-OC-MP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00049"><link class="os-embed" url="#exercise/11-99-OC-MP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00050"><link class="os-embed" url="#exercise/11-99-OC-MP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00051"><link class="os-embed" url="#exercise/11-99-OC-MP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00052"><link class="os-embed" url="#exercise/11-99-OC-MP14"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00053"><emphasis effect="bold"><span class="red-text">Nucleophilic Substitution Reactions</span></emphasis></para>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00054"><link class="os-embed" url="#exercise/11-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00055"><link class="os-embed" url="#exercise/11-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00056"><link class="os-embed" url="#exercise/11-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00057"><link class="os-embed" url="#exercise/11-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00058"><link class="os-embed" url="#exercise/11-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00059"><link class="os-embed" url="#exercise/11-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00060"><link class="os-embed" url="#exercise/11-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00061"><link class="os-embed" url="#exercise/11-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00062"><link class="os-embed" url="#exercise/11-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00063"><link class="os-embed" url="#exercise/11-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00064"><emphasis effect="bold"><span class="red-text">Elimination Reactions</span></emphasis></para>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00065"><link class="os-embed" url="#exercise/11-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00066"><link class="os-embed" url="#exercise/11-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00067"><link class="os-embed" url="#exercise/11-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00068"><link class="os-embed" url="#exercise/11-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00069"><link class="os-embed" url="#exercise/11-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00070"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00071"><link class="os-embed" url="#exercise/11-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00072"><link class="os-embed" url="#exercise/11-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00073"><link class="os-embed" url="#exercise/11-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00074"><link class="os-embed" url="#exercise/11-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00075"><link class="os-embed" url="#exercise/11-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00076"><link class="os-embed" url="#exercise/11-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00077"><link class="os-embed" url="#exercise/11-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00078"><link class="os-embed" url="#exercise/11-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00079"><link class="os-embed" url="#exercise/11-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00080"><link class="os-embed" url="#exercise/11-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00081"><link class="os-embed" url="#exercise/11-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00082"><link class="os-embed" url="#exercise/11-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00047">
+    <problem id="prob-00047">
+    <para id="para-00083"><link class="os-embed" url="#exercise/11-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00048">
+    <problem id="prob-00048">
+    <para id="para-00084"><link class="os-embed" url="#exercise/11-99-OC-AP34"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00049">
+    <problem id="prob-00049">
+    <para id="para-00085"><link class="os-embed" url="#exercise/11-99-OC-AP35"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00050">
+    <problem id="prob-00050">
+    <para id="para-00086"><link class="os-embed" url="#exercise/11-99-OC-AP36"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00051">
+    <problem id="prob-00051">
+    <para id="para-00087"><link class="os-embed" url="#exercise/11-99-OC-AP38"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00052">
+    <problem id="prob-00052">
+    <para id="para-00088"><link class="os-embed" url="#exercise/11-99-OC-AP39"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00053">
+    <problem id="prob-00053">
+    <para id="para-00089"><link class="os-embed" url="#exercise/11-99-OC-AP40"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00054">
+    <problem id="prob-00054">
+    <para id="para-00090"><link class="os-embed" url="#exercise/11-99-OC-AP41"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00055">
+    <problem id="prob-00055">
+    <para id="para-00091"><link class="os-embed" url="#exercise/11-99-OC-AP42"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00056">
+    <problem id="prob-00056">
+    <para id="para-00092"><link class="os-embed" url="#exercise/11-99-OC-AP43"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+    </document>

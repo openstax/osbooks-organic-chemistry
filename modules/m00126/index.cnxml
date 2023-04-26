@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Characteristics of the S<sub>N</sub>1 Reaction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Characteristics of the SN1 Reaction</md:title>
+    <md:content-id>m00126</md:content-id>
+    <md:uuid>4d12e5e1-1b35-40af-8e27-1756dd615cea</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Just as the S<sub>N</sub>2 reaction is strongly influenced by the structure of the substrate, the leaving group, the nucleophile, and the solvent, the S<sub>N</sub>1 reaction is similarly influenced. Factors that lower ∆<emphasis effect="italics">G</emphasis><sup>‡</sup>, either by lowering the energy level of the transition state or by raising the energy level of the ground state, favor faster S<sub>N</sub>1 reactions. Conversely, factors that raise ∆<emphasis effect="italics">G</emphasis><sup>‡</sup>, either by raising the energy level of the transition state or by lowering the energy level of the reactant, slow down the S<sub>N</sub>1 reaction.</para>
+    <section id="sect-00001">
+    <title>The Substrate</title>
+    <para id="para-00002">According to the Hammond postulate (<link document="m00072"/>), any factor that stabilizes a high-energy intermediate also stabilizes the transition state leading to that intermediate. Because the rate-limiting step in an S<sub>N</sub>1 reaction is the spontaneous, unimolecular dissociation of the substrate to yield a carbocation, the reaction is favored whenever a stabilized carbocation intermediate is formed. The more stable the carbocation intermediate, the faster the S<sub>N</sub>1 reaction.</para>
+    <para id="para-00003">We saw in <link document="m00071"/> that the stability order of alkyl carbocations is 3° > 2° > 1° > methyl. To this list we should also add the resonance-stabilized allyl and benzyl cations. Just as allylic radicals are unusually stable because the unpaired electron can be delocalized over an extended <emphasis effect="italics">π</emphasis> orbital system (<link document="m00116"/>), so allylic and benzylic carbocations are unusually stable. (The word <term id="term-00001">benzylic</term> means “next to an aromatic ring.”) As <link target-id="fig-00001"/> indicates, an allylic cation has two resonance forms. In one form, the double bond is on the “left”; in the other form it’s on the “right.” A benzylic cation has five resonance forms, all of which contribute to the overall resonance hybrid.</para>
+    <figure id="fig-00001">
+    <media alt="An illustration shows the resonance forms and electrostatic potential maps of allyl carbocation and benzyl carbocation. Allyl carbocation: In the first form a methylene group is double bonded to a methine group bonded to a carbocation that is bonded to two hydrogens. The second form is the mirror image of the first form. Benzyl carbocation: In the first form a benzene is bonded to a carbocation bonded to two hydrogens. Three arrows show the change of the position of the double bonds. The second form is similar but an arrow outside the ring points from a double bond to C-C bond. In the third form the C-C bond is a double bond. C2 of the ring is carbocation. An arrow within the ring points the position change of a double bond. In the fourth form the C-C bond is a double bond. C4 of the ring is carbocation. An arrow within the ring points the position change of a double bond. In the fifth form the C-C bond is a double bond. C6 of the ring is carbocation. In the ball-and-stick models of electrostatic potential maps gray balls represent carbons and white balls represent hydrogens. In allyl carbocation C1 and C3 are indicated by blue arrows. In benzyl carbocation C2 C4 and C6 are indicated by blue arrows.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Resonance forms of allylic and benzylic carbocations.</emphasis> The positive charge is delocalized over the <emphasis effect="italics">π</emphasis> system in both. <emphasis effect="bold"><span class="cyan-text">Electron-poor atoms</span></emphasis> are indicated by blue arrows.</caption>
+    </figure>
+    <para id="para-00004">Because of resonance stabilization, a primary allylic or benzylic carbocation is about as stable as a secondary alkyl carbocation, and a secondary allylic or benzylic carbocation is about as stable as a tertiary alkyl carbocation. This stability order of carbocations is the same as the order of S<sub>N</sub>1 reactivity for alkyl halides and tosylates.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the increasing carbocation stability of 6 compounds in the following order: Methyl Primary Allylic equivalent to Benzylic or Secondary Tertiary. Methyl compound shows a carbocation single bonded to three hydrogens. Primary compound shows a carbocation single bonded to a methyl group and two hydrogens. Allylic compound shows a carbocation bonded to two hydrogens and a carbon that is bonded to a hydrogen and double bonded to a methylene group. Benzylic compound shows a benzene bonded to a carbocation single bonded to two hydrogens. Secondary compound shows a carbocation bonded to a hydrogen and two methyl groups. Tertiary compound shows a carbocation bonded to three methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">We should also note parenthetically that primary allylic and benzylic substrates are particularly reactive in S<sub>N</sub>2 reactions as well as in S<sub>N</sub>1 reactions. Allylic and benzylic C–X bonds are about 50 kJ/mol (12 kcal/mol) weaker than the corresponding saturated bonds and are therefore more easily broken.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structure of three chlorine compounds. The first compound shows an ethyl group bonded to chlorine. Text pointing to the bond between the ethyl group and chlorine reads: 338 kJ/mol (81 kcal/mol). The second compound shows a methylene group double bonded to a methine group bonded to another methylene group that is bonded to chlorine. Text pointing to the bond between the methylene group and chlorine reads: 289 kJ/mol (69 kcal/mol). The third compound shows a benzene ring bonded to a methylene group bonded to chlorine. Text pointing to the bond between the methylene group and chlorine reads: 293 kJ/mol (70 kcal/mol).">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_003.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00002">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/11-05-OC-P11"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00007"><link class="os-embed" url="#exercise/11-05-OC-P12"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00003">
+    <title>The Leaving Group</title>
+    <para id="para-00008">We said during the discussion of S<sub>N</sub>2 reactivity that the best leaving groups are those that are most stable; that is, those that are the conjugate bases of strong acids. An identical reactivity order is found for the S<sub>N</sub>1 reaction because the leaving group is directly involved in the rate-limiting step. Thus, the S<sub>N</sub>1 reactivity order is</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <media alt="An illustration shows the leaving group reactivity in the following increasing order: hydroxyl ion chloride ion bromide ion iodide ion equivalent to ToSO ion water.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Note that in the S<sub>N</sub>1 reaction, which is often carried out under acidic conditions, neutral water is sometimes the leaving group. This occurs, for example, when an alkyl halide is prepared from a tertiary alcohol by reaction with HBr or HCl (<link document="m00117"/>). As shown in <link target-id="fig-00005"/>, the alcohol is first protonated and then spontaneously loses H<sub>2</sub>O to generate a carbocation, which reacts with halide ion to give the alkyl halide. Knowing that an S<sub>N</sub>1 reaction is involved in the conversion of alcohols to alkyl halides explains why the reaction works well only for tertiary alcohols. Tertiary alcohols react fastest because they give the most stable carbocation intermediates.</para>
+    <figure class="mechanism-figure scaled-down" id="fig-00005">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows a 3-step reaction. A tertiary alcohol reacts with HBr to produce bromide ion and a compound that further yields water and a carbocation that reacts with bromide ion to produce a product. The alcohol shows a carbon bonded to three methyl groups and a hydroxyl group. The oxygen shows four electrons. An arrow from the electrons points to hydrogen of HBr. An arrow from the H-Br bond points to Br. Text reads: The –OH group is first protonated by HBr. The intermediate compound shows a carbon bonded to three methyl groups and OH2. The oxygen shows positive charge and two electrons. An arrow from the C-O bond points to O. The carbocation shows a carbon cation bonded to three methyl groups. The bromide ion shows negative charge and eight electrons. Spontaneous dissociation of the protonated alcohol occurs in a slow rate limiting step to yield a carbocation intermediate plus water. The product shows a carbon bonded to three methyl groups and a bromine atom. Text reads: The carbocation intermediate reacts with bromide ion in a fast step to yield the neutral substitution product.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The mechanism of the S<sub>N</sub>1 reaction of a tertiary alcohol with HBr to yield an alkyl halide.</emphasis> Neutral water is the leaving group (step <emphasis effect="bold"><span class="magenta-text">2</span></emphasis>).</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>The Nucleophile</title>
+    <para id="para-00010">The nature of the nucleophile plays a major role in the S<sub>N</sub>2 reaction but does not affect an S<sub>N</sub>1 reaction. Because the S<sub>N</sub>1 reaction occurs through a rate-limiting step in which the added nucleophile has no part, the nucleophile can’t affect the reaction rate. The reaction of 2-methyl-2-propanol with HX, for instance, occurs at the same rate regardless of whether X is Cl, Br, or I. Furthermore, neutral nucleophiles are just as effective as negatively charged ones, so S<sub>N</sub>1 reactions frequently occur under neutral or acidic conditions.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <media alt="An illustration shows a reaction of 2-Methyl-2-propanol with HX to yield an alkyl halide and water. 2-Methyl-2-propanol shows a carbon bonded to three methyl groups and a hydroxyl group. The product shows a carbon bonded to three methyl groups and X. Text reads: Same rate for X equal to Cl, Br, I).">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_007.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>The Solvent</title>
+    <para id="para-00011">What about the solvent? Do solvents have the same effect in S<sub>N</sub>1 reactions that they have in S<sub>N</sub>2 reactions? The answer is both yes and no. Yes, solvents have a large effect on S<sub>N</sub>1 reactions, but no, the reasons for the effects on S<sub>N</sub>1 and S<sub>N</sub>2 reactions are not the same. Solvent effects in the S<sub>N</sub>2 reaction are due largely to stabilization or destabilization of the nucleophile <emphasis effect="italics">reactant,</emphasis> while solvent effects in the S<sub>N</sub>1 reaction are due largely to stabilization or destabilization of the <emphasis effect="italics">transition state</emphasis>.</para>
+    <para id="para-00012">The Hammond postulate says that any factor stabilizing the intermediate carbocation should increase the rate of an S<sub>N</sub>1 reaction. Solvation of the carbocation—the interaction of the ion with solvent molecules—has such an effect. Solvent molecules orient around the carbocation so that the electron-rich ends of the solvent dipoles face the positive charge (<link target-id="fig-00007"/>), thereby lowering the energy of the ion and favoring its formation.</para>
+    <figure class="scaled-down-30" id="fig-00007">
+    <media alt="An illustration shows the cartoon representation of a carbocation surrounded by 6 water molecules. The carbocation shows sp2 orbital with the carbon cation showing a free single bond wedge bond and dash bond. Each water molecule shows an oxygen bonded to two hydrogens. Each oxygen shows four electrons.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_008.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Solvation of a carbocation by water.</emphasis> The electron-rich oxygen atoms of solvent molecules orient around the positively charged carbocation and thereby stabilize it.</caption>
+    </figure>
+    <para id="para-00013">The properties of a solvent that contribute to its ability to stabilize ions by solvation are related to the solvent’s polarity. S<sub>N</sub>1 reactions take place much more rapidly in strongly polar solvents, such as water and methanol, than in less polar solvents, such as ether and chloroform. In the reaction of 2-chloro-2-methylpropane, for example, a rate increase of 100,000 is observed upon going from ethanol (less polar) to water (more polar). The rate increases when going from a hydrocarbon solvent to water are so large they can’t be measured accurately.</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows the increasing solvent reactivity of 4 compounds in the following order: Ethanol 40% Water/60% Ethanol 80% Water/ 20% Ethanol and water. Relative reactivity is as follows: Ethanol (1) 40% Water/60% Ethanol (100) 80% Water/20% Ethanol (14 000) water (100 000). A reaction is shown at the top. 2-chloro-2-methylpropane reacts with ROH to produce HCl and another product. 2-chloro-2-methylpropane shows a carbon bonded to chlorine and three methyl groups. The product shows a carbon bonded to OR and three methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00014">It should be emphasized again that both the S<sub>N</sub>1 and the S<sub>N</sub>2 reaction show solvent effects, but that they do so for different reasons. S<sub>N</sub>2 reactions are <emphasis effect="italics">disfavored</emphasis> in protic solvents because the <emphasis effect="italics">ground-state energy</emphasis> of the nucleophile is lowered by solvation. S<sub>N</sub>1 reactions are <emphasis effect="italics">favored</emphasis> in protic solvents because the <emphasis effect="italics">transition-state energy</emphasis> leading to carbocation intermediate is lowered by solvation.</para>
+    </section>
+    <section id="sect-00006">
+    <title>A Summary of S<sub>N</sub>1 Reaction Characteristics</title>
+    <para id="para-00015">The effects on S<sub>N</sub>1 reactions of the four variables—substrate, leaving group, nucleophile, and solvent—are summarized in the following statements:</para>
+    <table class="unnumbered unstyled" summary="" id="table-00001">
+    <title/>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold">Substrate</emphasis></entry>
+    <entry>    </entry>
+    <entry valign="top" align="left">The best substrates yield the most stable carbocations. As a result, S<sub>N</sub>1 reactions are best for tertiary, allylic, and benzylic halides.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="red-text"><emphasis effect="bold">Leaving group</emphasis></span></entry>
+    <entry>    </entry>
+    <entry valign="top" align="left">Good leaving groups increase the reaction rate by lowering the energy level of the transition state for carbocation formation.</entry>
+    </row>
+    <row>
+    <entry valign="top" align="left"><span class="cyan-text"><emphasis effect="bold">Nucleophile</emphasis></span></entry>
+    <entry>    </entry>
+    <entry valign="top" align="left">The nucleophile must be nonbasic to prevent a competitive elimination of HX (<link document="m00128"/>), but otherwise does not affect the reaction rate. Neutral nucleophiles work well.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><span class="green-text"><emphasis effect="bold">Solvent</emphasis></span></entry>
+    <entry>    </entry>
+    <entry valign="top" align="left">Polar solvents stabilize the carbocation intermediate by solvation, thereby increasing the reaction rate.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <example id="exam-00001">
+    <title>Predicting the Mechanism of a Nucleophilic Substitution Reaction</title>
+    <para id="para-00016">Predict whether each of the following substitution reactions is likely to be S<sub>N</sub>1 or S<sub>N</sub>2:</para>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="Alt Text Placeholder">
+    <image mime-type="image/jpeg" src="../../media/OChem_11_05_010.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00017"><title><span class="red-text">Strategy</span></title> Look at the substrate, leaving group, nucleophile, and solvent. Then decide from the summaries at the ends of <link document="m00124"/> and <link document="m00126"/> whether an S<sub>N</sub>1 or an S<sub>N</sub>2 reaction is favored. S<sub>N</sub>1 reactions are favored by tertiary, allylic, or benzylic substrates, by good leaving groups, by nonbasic nucleophiles, and by protic solvents. S<sub>N</sub>2 reactions are favored by primary substrates, by good leaving groups, by good nucleophiles, and by polar aprotic solvents.</para>
+    <para id="para-00018"><title><span class="cyan-text">Solution</span></title></para>
+    <para id="para-00019"><emphasis effect="bold">(a)</emphasis> This is likely to be an S<sub>N</sub>1 reaction because the substrate is secondary and benzylic, the nucleophile is weakly basic, and the solvent is protic.</para>
+    <para id="para-00020"><emphasis effect="bold">(b)</emphasis> This is likely to be an S<sub>N</sub>2 reaction because the substrate is primary, the nucleophile is a good one, and the solvent is polar aprotic.</para>
+    </example>
+    </section>
+    <section class="section-exercises" id="sect-00007">
+    <title>Problems</title>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00021"><link class="os-embed" url="#exercise/11-05-OC-P13"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

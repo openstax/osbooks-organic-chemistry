@@ -1,0 +1,651 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Spectroscopy of Carboxylic Acid Derivatives</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Spectroscopy of Carboxylic Acid Derivatives</md:title>
+    <md:content-id>m00248</md:content-id>
+    <md:uuid>69f1aea6-4acd-40ca-9ceb-c26657b6be63</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+    <title>Infrared Spectroscopy</title>
+    <para id="para-00001">All carbonyl-containing compounds have intense IR absorptions in the range 1650 to 1850 cm<sup>–1</sup>. As shown in <link target-id="table-00001"/> the exact position of the absorption provides information about the specific kind of carbonyl group. For comparison, the IR absorptions of aldehydes, ketones, and carboxylic acids are included in the table, along with values for carboxylic acid derivatives.</para>
+    <table id="table-00001" summary="">
+    <title>Infrared Absorptions of Some Carbonyl Compounds</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Carbonyl type</entry>
+    <entry valign="top" align="left">Example</entry>
+    <entry valign="top" align="left">Absorption (cm<sup>–1</sup>)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated acid chloride</entry>
+    <entry valign="top" align="left">Acetyl chloride</entry>
+    <entry valign="top" align="left">1810</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Aromatic acid chloride</entry>
+    <entry valign="top" align="left">Benzoyl chloride</entry>
+    <entry valign="top" align="left">1770</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated acid anhydride</entry>
+    <entry valign="top" align="left">Acetic anhydride</entry>
+    <entry valign="top" align="left">1820, 1760</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated ester</entry>
+    <entry valign="top" align="left">Ethyl acetate</entry>
+    <entry valign="top" align="left">1735</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Aromatic ester</entry>
+    <entry valign="top" align="left">Ethyl benzoate</entry>
+    <entry valign="top" align="left">1720</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated amide</entry>
+    <entry valign="top" align="left">Acetamide</entry>
+    <entry valign="top" align="left">1690</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Aromatic amide</entry>
+    <entry valign="top" align="left">Benzamide</entry>
+    <entry valign="top" align="left">1675</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="italics">N</emphasis>-Substituted amide</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">N</emphasis>-Methylacetamide</entry>
+    <entry valign="top" align="left">1680</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="italics">N</emphasis>,<emphasis effect="italics">N</emphasis>-Disubstituted amide</entry>
+    <entry valign="top" align="left"><emphasis effect="italics">N</emphasis>,<emphasis effect="italics">N</emphasis>-Dimethylacetamide</entry>
+    <entry valign="top" align="left">1650</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated aldehyde</entry>
+    <entry valign="top" align="left">Acetaldehyde</entry>
+    <entry valign="top" align="left">1730</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated ketone</entry>
+    <entry valign="top" align="left">Acetone</entry>
+    <entry valign="top" align="left">1715</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Saturated carboxylic acid</entry>
+    <entry valign="top" align="left">Acetic acid</entry>
+    <entry valign="top" align="left">1710</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00002">Acid chlorides are easily detected by their characteristic absorption near 1810 cm<sup>–1</sup>. Acid anhydrides can be identified by a pair of absorptions in the carbonyl region, one at 1820 cm<sup>–1</sup> and another at 1760 cm<sup>–1</sup>. Note that each of these functional groups has a strong electron-withdrawing group attached to the carbonyl. The inductive withdrawal of electron density shortens the C=O bond, thereby raising its stretching frequency. Esters are detected by their absorption at 1735 cm<sup>–1</sup>, a position somewhat higher than that for either aldehydes or ketones. Amides, by contrast, absorb near the low-wavenumber end of the carbonyl region, with the degree of substitution on nitrogen affecting the exact position of the IR band. That is, for amides, the delocalization of electron density (resonance) from nitrogen into the carbonyl lengthens the C=O bond and lowers its stretching frequency.</para>
+    </section>
+    <section class="section-exercises" id="sect-00002">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00003"><link class="os-embed" url="#exercise/21-10-OC-P25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00004"><link class="os-embed" url="#exercise/21-10-OC-P26"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00003">
+    <title>Nuclear Magnetic Resonance Spectroscopy</title>
+    <para id="para-00005">Hydrogens on the carbon next to a carbonyl group are slightly deshielded and absorb near 2 <emphasis effect="italics">δ</emphasis> in the <sup>1</sup>H NMR spectrum, although the exact identity of the carbonyl group can’t be determined. <link target-id="fig-00001"/> shows the <sup>1</sup>H NMR spectrum of ethyl acetate.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows the proton NMR spectrum of ethyl acetate. The horizontal axis shows chemical shift (delta) starting from 10 on the left to 0 ppm at the interval of one unit. The vertical axis shows increasing intensity. The left corner of the graph shows chemical shifts as 1.23 2.01 and 4.10 at relative area 1.50 1.50 and 1.00. The structure shows a carbon bonded to three green hydrogens and a carboxyl group that is bonded to a carbon bonded to two pink hydrogens and then a carbon bonded to three blue hydrogens. At 4.1 ppm a cluster of small pink peaks is shown. At 2 ppm a tall green peak is shown. At 1.2 ppm a cluster of small blue peaks is shown; at 0 ppm a short peak labeled pink “TMS” is shown.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_10_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold"><sup>1</sup>H NMR spectrum of ethyl acetate.</emphasis></caption>
+    </figure>
+    <para id="para-00006">Although <sup>13</sup>C NMR is useful for determining the presence or absence of a carbonyl group in a molecule, the identity of the carbonyl group is difficult to determine. Aldehydes and ketones absorb near 200 <emphasis effect="italics">δ,</emphasis> while the carbonyl carbon atoms of various acid derivatives absorb in the range 160 to 180 <emphasis effect="italics">δ</emphasis> <emphasis effect="bold">(<link target-id="table-00002"/>)</emphasis>.</para>
+    <table summary="" id="table-00002">
+    <title><sup>13</sup>C NMR Absorptions of Some Carbonyl Compounds</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Compound</entry>
+    <entry valign="top" align="left">Absorption (<emphasis effect="italics">δ</emphasis>)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Acetic acid</entry>
+    <entry valign="top" align="left">177.3</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Ethyl acetate</entry>
+    <entry valign="top" align="left">170.7</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Acetyl chloride</entry>
+    <entry valign="top" align="left">170.3</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Acetamide</entry>
+    <entry valign="top" align="left">172.6</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Acetic anhydride</entry>
+    <entry valign="top" align="left">166.9</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Acetone</entry>
+    <entry valign="top" align="left">205.6</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Acetaldehyde</entry>
+    <entry valign="top" align="left">201.0</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    <section class="chemistry-matters" id="sect-00004">
+    <title>β-Lactam Antibiotics</title>
+    <para id="para-00007">You should never underestimate the value of hard work and logical thinking, but it’s also true that blind luck often plays a role in most real scientific breakthroughs. What has been called “the supreme example of luck in all scientific history” occurred in the late summer of 1928, when the Scottish bacteriologist Alexander Fleming went on vacation, leaving in his lab a culture plate recently inoculated with the bacterium <emphasis effect="italics">Staphylococcus aureus</emphasis>.</para>
+    <figure class="scaled-down-30" id="fig-00002">
+    <media alt="Image of penicillium growing in a dish of vinegar.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_98_Penicilli.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Penicillium mold growing in a petri dish.</emphasis> (credit: “Penicillium notatum on beetroot vinegar. June 1965” by Dr Mary Gillham Archive Project/Flickr, CC BY 2.0)</caption>
+    </figure>
+    <para id="para-00008">While Fleming was away, an extraordinary chain of events occurred. First, a nine-day cold spell lowered the laboratory temperature to a point where the <emphasis effect="italics">Staphylococcus</emphasis> in the culture plate could not grow. During this time, spores from a colony of the mold <emphasis effect="italics">Penicillium notatum,</emphasis> being grown in a lab on the floor below, wafted up into Fleming’s lab and landed in the culture plate. The temperature then rose, and both <emphasis effect="italics">Staphylococcus</emphasis> and <emphasis effect="italics">Penicillium</emphasis> began to grow. On returning from vacation, Fleming discarded the plate into a tray of antiseptic, intending to sterilize it. Evidently, though, the plate did not sink deeply enough into the antiseptic, because when Fleming happened to glance at it a few days later, what he saw changed the course of history. He noticed that the growing <emphasis effect="italics">Penicillium</emphasis> mold appeared to dissolve the colonies of staphylococci.</para>
+    <para id="para-00009">Fleming realized that the <emphasis effect="italics">Penicillium</emphasis> mold must be producing a chemical that killed the <emphasis effect="italics">Staphylococcus</emphasis> bacteria, and he spent several years trying to isolate the substance. Finally, in 1939, the Australian pathologist Howard Florey and the German refugee Ernst Chain managed to isolate the active substance, called <emphasis effect="italics">penicillin.</emphasis> The dramatic ability of penicillin to cure infections in mice was soon demonstrated, and successful tests in humans followed shortly thereafter. By 1943, penicillin was being produced on a large scale for military use in World War II, and by 1944 it was being used on civilians. Fleming, Florey, and Chain shared the 1945 Nobel Prize in Physiology or Medicine.</para>
+    <para id="para-00010">Now called benzylpenicillin, or penicillin G, the substance first discovered by Fleming is but one member of a large class of so-called <emphasis effect="bold"><emphasis effect="italics">β</emphasis>-lactam antibiotics</emphasis>, compounds with a four-membered lactam (cyclic amide) ring. The four-membered lactam ring is fused to a five-membered, sulfur-containing ring, and the carbon atom next to the lactam carbonyl group is bonded to an acylamino substituent, RCONH – . This acylamino side chain can be varied in the laboratory to provide many hundreds of penicillin analogs with different biological activity profiles. Ampicillin, for instance, has an <emphasis effect="italics">α</emphasis>-aminophenylacetamido substituent [PhCH(NH<sub>2</sub>)CONH – ].</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structure of Benzylpenicillin (penicillin G). It shows a benzene bonded to a methylene group bonded to a carbonyl group that is bonded to a nitrogen monohydride. The CO-NH bond is labeled ‘Acylamino substituent.’ The structure from benzene to nitrogen is highlighted in green. The nitrogen is wedge bonded to a cyclobutane ring highlighted in pink (labeled ‘beta-lactam ring) that shows a nitrogen and is double bonded to a pink oxygen and dash bonded to two hydrogen atoms. The cyclobutane is fused to a cyclopentane that shows a sulfur. The cyclopentane is single bonded to two methyl groups and dash bonded to a carboxylate ion bonded to sodium cation.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_10_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00011">Closely related to the penicillins are the <emphasis effect="italics">cephalosporins</emphasis>, a group of <emphasis effect="italics">β</emphasis>-lactam antibiotics that contain an unsaturated, six-membered, sulfur-containing ring. Cephalexin, marketed under the trade name Keflex, is an example. Cephalosporins generally have much greater antibacterial activity than penicillins, particularly against resistant strains of bacteria.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structure of Cephalexin (a cephalosporin). It shows a benzene bonded to a methine group bonded to an amino group and carbonyl group that is bonded to a nitrogen monohydride. The nitrogen is wedge bonded to a cyclobutane ring that shows a nitrogen and is double bonded to an oxygen and dash bonded to two hydrogen atoms. The cyclobutane is fused to a cyclohexene that shows a sulfur. The cyclohexane is single bonded to a methyl group and carboxylic acid.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_10_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012">The biological activity of penicillins and cephalosporins is due to the presence of the strained <emphasis effect="italics">β</emphasis>-lactam ring, which reacts with and deactivates the transpeptidase enzyme needed to synthesize and repair bacterial cell walls. With the wall either incomplete or weakened, the bacterial cell ruptures and dies.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows a reaction in which Penicillin (beta -lactam) reacts with Transpeptidase (active enzyme) to yield an intermediate that after several steps yields an inactive enzyme. The structure of penicillin shows an R bonded to a carbonyl group that is bonded to a nitrogen monohydride. The nitrogen is wedge bonded to a cyclobutane ring that shows a blue nitrogen and is double bonded to a pink oxygen and dash bonded to two hydrogen atoms. The cyclobutane is fused to a cyclopentane that shows a sulfur. The cyclopentane is single bonded to two methyl groups and dash bonded to a carboxyl group. Transpeptidase shows an enzyme bonded to blue hydroxyl group that shows four electrons. An arrow from the electrons points to the double bond between the cyclobutane and pink oxygen. An arrow from the double bond points to the pink oxygen. The intermediate is similar to the reactant but the pink oxygen is single bonded and shows a negative charge and six electrons. The carbon bonded to the pink oxygen is also bonded to a blue oxygen that is bonded to Enzyme. An arrow from the electrons of pink oxygen points to the bond between the cyclobutane and pink oxygen. An arrow from the C-blue N bond points to H of H-A. An arrow from the H-A bond points to A. The inactive enzyme shows an R bonded to a carbonyl group that is bonded to a nitrogen monohydride. The nitrogen is wedge bonded to an open cyclobutane ring that shows a blue nitrogen monohydride and is double bonded to a pink oxygen and dash bonded to two hydrogen atoms. The pink oxygen is bonded to a blue oxygen that is bonded to Enzyme. The cyclobutane is fused to a cyclopentane that shows a sulfur. The cyclopentane is single bonded to two methyl groups and dash bonded to a carboxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_10_005.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="key-terms" id="sect-00005">
+    <list id="list-00001">
+      <item><link document="m00238" target-id="term-00003">acid anhydride</link></item>
+      <item><link document="m00238" target-id="term-00002">acid halide</link></item>
+      <item><link document="m00238" target-id="term-00007">acyl phosphate</link></item>
+      <item><link document="m00238" target-id="term-00005">amide</link></item>
+      <item><link document="m00238" target-id="term-00001">carboxylic acid derivative</link></item>
+      <item><link document="m00247" target-id="term-00001">chain-growth polymer</link></item>
+      <item><link document="m00238" target-id="term-00004">ester</link></item>
+      <item><link document="m00241" target-id="term-00001">Fischer esterification reaction</link></item>
+      <item><link document="m00245" target-id="term-00001">lactam</link></item>
+      <item><link document="m00244" target-id="term-00001">lactone</link></item>
+      <item><link document="m00240" target-id="term-00001">nucleophilic acyl substitution reaction</link></item>
+      <item><link document="m00244" target-id="term-00002">saponification</link></item>
+      <item><link document="m00247" target-id="term-00002">step-growth polymer</link></item>
+      <item><link document="m00238" target-id="term-00006">thioester</link></item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00006">
+    <title>Summary</title>
+    <para id="para-00013"><emphasis effect="bold">Carboxylic acid derivatives</emphasis>—compounds in which the  – OH group of a carboxylic acid has been replaced by another substituent—are among the most widely occurring of all molecules and are involved in almost all biological pathways. In this chapter, we covered the chemistry necessary for understanding them and thus also necessary for understanding living organisms. <emphasis effect="bold">Acid halides, acid anhydrides, esters,</emphasis> and <emphasis effect="bold">amides</emphasis> are the most common such derivatives in the laboratory; <emphasis effect="bold">thioesters</emphasis> and <emphasis effect="bold">acyl phosphates</emphasis> are common in biological molecules.</para>
+    <para id="para-00014">The chemistry of carboxylic acid derivatives is dominated by the <emphasis effect="bold">nucleophilic acyl substitution reaction</emphasis>. Mechanistically, these substitutions take place by addition of a nucleophile to the polar carbonyl group of the acid derivative to give a tetrahedral intermediate, followed by expulsion of a leaving group.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a reaction in which a carbonyl compound reacts with a nucleophile that shows two electrons to give a tetrahedral intermediate that yields another carbonyl compound and Y anion that shows two electrons. The reactant shows an R bonded to a carbonyl group bonded to green Y. An arrow from the electrons of blue Nu points to the carbon. An arrow from the double bond points to the carbonyl oxygen. The tetrahedral intermediate shows a carbon dash bonded to R on the left single bonded to blue Nu on the right and pink oxygen anion at the top and wedge bonded to Y at the bottom. The oxygen shows six electrons. An arrow from the electrons of oxygen points to the C-O bond. An arrow from the C-Y bond points to Y. The product shows an R bonded to a carbonyl group bonded to blue Nu. Y groups are highlighted in green. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00015">The reactivity of an acid derivative toward substitution depends both on the steric environment near the carbonyl group and on the electronic nature of the substituent, Y. The reactivity order is acid halide > acid anhydride > thioester > ester > amide.</para>
+    <para id="para-00016">The most common reactions of carboxylic acid derivatives are substitution by water to yield an acid (hydrolysis), by an alcohol to yield an ester (alcoholysis), by an amine to yield an amide (aminolysis), by hydride ion to yield an alcohol (reduction), and by an organomagnesium halide to yield an alcohol (Grignard reaction).</para>
+    <para id="para-00017"><emphasis effect="bold">Step-growth polymers</emphasis>, such as polyamides and polyesters, are prepared by reactions between difunctional molecules. Polyamides (nylons) are formed by reaction between a diacid and a diamine; polyesters are formed from a diacid and a diol.</para>
+    <para id="para-00018">IR spectroscopy is a valuable tool for the structural analysis of acid derivatives. Acid chlorides, anhydrides, esters, and amides all show characteristic IR absorptions that can be used to identify these functional groups.</para>
+    </section>
+    <section class="summary-reactions" id="sect-00007">
+    <title>Summary of Reactions</title>
+    <list list-type="enumerated" id="list-00002">
+    <item>Reactions of carboxylic acids (<link document="m00241">Section 21.3</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+    <item>Conversion into acid chlorides<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="An illustration shows a reaction in which a carboxylic acid reacts with SOCl2 (highlighted in blue) and CHCl3 to yield an acid chloride (RCOCl) SO2 (highlighted in blue) and HCl. The hydroxyl group is green and the chlorine is blue. The carbonyl oxygen atoms are highlighted in pink. In HCl H is green and Cl is blue.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_002.jpg"/>
+    </media>
+    </figure></item>
+    <item>Conversion into esters<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows two reactions. In the first reaction a carboxylate (RCO-green oxygen anion) reacts with blue R’X (Via SN2 reaction) to yield an ester. The carbonyl oxygen is pink. The ester shows R bonded to a carbonyl group bonded to green O bonded to blue R’. In the second reaction a carboxylic acid (RCO-green hydroxyl group) reacts with R’OH (highlighted in blue) in the presence of acid catalyst to yield an ester and water (highlighted in green). The carbonyl oxygen is pink. The ester shows R bonded to a carbonyl group bonded to blue OR’.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_003.jpg"/>
+    </media>
+    </figure></item>
+    <item>Conversion into amides<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <media alt="An illustration shows a reaction in which a carboxylic acid reacts with blue RNH2 and DCC to yield an amide (RCONHR). The hydroxyl group is green and ‘NHR’ is blue. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_004.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reduction to yield primary alcohols<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00010">
+    <media alt="An illustration shows a reaction in which a carboxylic acid reacts with LiAlH4 (highlighted in blue)to yield a primary alcohol (RCH2OH). The hydroxyl group of the reactant is green and that of alcohol is pink. The hydrogens of methylene group are blue. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_005.jpg"/>
+    </media>
+    </figure></item></list>
+    </item>
+    <item>Reactions of acid chlorides (<link document="m00242">Section 21.4</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+    <item>Hydrolysis to yield acids<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00011">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with water (highlighted in blue) to yield an acid (RCOOH) and green HCl. The chlorine of the reactant is green and that of HCl is blue. The hydroxyl group is blue. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_006.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reaction with carboxylates to yield anhydrides<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00012">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with blue carboxylate ion (RCOO minus) to yield an anhydride (RCOOCOR) and green chloride ion. The chlorine of the reactant is green. The hydroxyl group is blue. In anhydride OCOR is blue. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_007.jpg"/>
+    </media>
+    </figure></item>
+    <item>Alcoholysis to yield esters<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00013">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with R’OH (highlighted in blue) in the presence of pyridine to yield an ester (RCOOR) and HCl. The chlorine atoms are green. The OR’ group is blue. In HCl H is blue and Cl is green. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_008.jpg"/>
+    </media>
+    </figure></item>
+    <item>Aminolysis to yield amides<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00014">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with 2 moles of ammonia (highlighted in blue) to yield an amide (RCONH2) and NH4Cl. The chlorine atoms are green. NH3 NH2 and NH4 groups are blue. The carbonyl oxygen is pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_009.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reduction to yield primary alcohols<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00015">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with 1. blue LiAlH4 ether 2. hydronium ion (highlighted in pink) to yield a primary alcohol. The chlorine atom is green. The carbonyl oxygen is pink. The primary alcohol shows a carbon bonded to R pink hydroxyl group and two blue hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_010.jpg"/>
+    </media>
+    </figure></item>
+    <item>Grignard reaction to yield tertiary alcohols<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00016">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with 1. 2 moles of RMgX ether 2. hydronium ion (highlighted in pink) to yield a tertiary alcohol. The chlorine atom is green. The carbonyl oxygen is pink. The tertiary alcohol shows a carbon bonded to R pink hydroxyl group and two blue R’ groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_011.jpg"/>
+    </media>
+    </figure></item>
+    <item>Diorganocopper reaction to yield ketones<newline/>
+    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with blue R’2CuLi and ether to yield a ketone. The chlorine atom is green. The carbonyl oxygen is pink. The ketone shows a carbonyl group bonded to R and blue R’.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_012.jpg"/>
+    </media>
+    </figure></item></list>
+    </item>
+    <item>Reactions of acid anhydrides (<link document="m00243">Section 21.5</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
+    <item>Hydrolysis to yield acids<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00018">
+    <media alt="An illustration shows a reaction in which an acid anhydride (RCO-green O-COR) reacts with water (highlighted in blue) to yield 2 moles of an acid. The carbonyl oxygen is pink. The acid shows R bonded to carbonyl group bonded to blue hydroxyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_013.jpg"/>
+    </media>
+    </figure></item>
+    <item>Alcoholysis to yield esters<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00019">
+    <media alt="An illustration shows a reaction in which an acid anhydride (RCO-green O-COR) reacts with alcohol (highlighted in blue) (R’OH) to yield an ester and an alcohol. The carbonyl oxygen is pink. The ester shows R bonded to carbonyl group bonded to blue OR’. The alcohol shows R bonded to carbonyl group bonded to green oxygen bonded to blue hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_014.jpg"/>
+    </media>
+    </figure></item>
+    <item>Aminolysis to yield amides<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00020">
+    <media alt="An illustration shows a reaction in which an acid anhydride (RCO-green O-COR) reacts with 2 moles of ammonia (highlighted in blue) to yield an amide and another product. The carbonyl oxygen is pink. The amide shows R bonded to carbonyl group bonded to blue amino group. The other product shows R bonded to carbonyl group bonded to green oxygen anion bonded to ammonium ion (highlighted in blue).">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_015.jpg"/>
+    </media>
+    </figure></item></list>
+    </item>
+    <item>Reactions of esters (<link document="m00244">Section 21.6</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
+    <item>Hydrolysis to yield acids<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00021">
+    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with hydronium ion (highlighted in blue) sodium hydroxide and water to yield a carboxylic acid (RCOOH) and alcohol (green R’O bonded to blue H). The ester shows green OR’. The OH group of carboxylic acid is blue. The carbonyl oxygen atoms are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_016.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reduction to yield primary alcohols<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00022">
+    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with 1. blue LiAlH4 ether 2. hydronium ion (highlighted in pink) to yield two alcohols. The ester shows green OR’. The first alcohol shows R bonded to a carbon that is bonded to two blue hydrogens and a pink hydroxyl group. The second alcohol shows green R’ bonded to green OH. The carbonyl oxygen is highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_017.jpg"/>
+    </media>
+    </figure></item>
+    <item>Partial reduction to yield aldehydes<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00023">
+    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with 1. DIBAH (highlighted in blue) toluene 2. hydronium ion (highlighted in green) to yield an aldehyde and an alcohol. The ester shows green OR’. The aldehyde shows R bonded to a carbonyl group bonded to blue hydrogen. The alcohol shows green R’ bonded to green OH. The carbonyl oxygens are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_018.jpg"/>
+    </media>
+    </figure></item>
+    <item>Grignard reaction to yield tertiary alcohols<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00024">
+    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with 1. 2 moles of blue R’’ MgX ether 2. hydronium ion (highlighted in pink) to yield a tertiary alcohol and a primary alcohol. The ester shows green OR’. The tertiary alcohol shows R bonded to a carbon that is bonded to two blue R’’ and a pink hydroxyl group. The primary alcohol shows green R’ bonded to green OH. The carbonyl oxygen is highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_019.jpg"/>
+    </media>
+    </figure></item></list>
+    </item>
+    <item>Reactions of amides (<link document="m00245">Section 21.7</link>)
+    <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00007">
+    <item>Hydrolysis to yield acids<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00025">
+    <media alt="An illustration shows a reaction in which an amide (RCONH2) reacts with hydronium ion (highlighted in blue) or sodium hydroxide water (highlighted in blue) to yield a carboxylic acid and ammonia (highlighted in green). The amide shows R bonded to a carbonyl group bonded to green amino group. The carboxylic acid shows R bonded to a carbonyl group bonded to blue hydroxyl group. The carbonyl oxygens are highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_020.jpg"/>
+    </media>
+    </figure></item>
+    <item>Reduction to yield amines<newline/>
+    <figure class="unnumbered scaled-down" id="fig-00026">
+    <media alt="An illustration shows a reaction in which an amide (RCONH2) reacts with 1. blue LiAlH4 ether 2. hydronium ion to yield an amine. The amide shows R bonded to a carbonyl group bonded to green amino group. The carbonyl oxygen is pink. The amine shows R bonded to a carbon that is bonded to blue hydrogens and a green amino group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_21_EC_021.jpg"/>
+    </media>
+    </figure></item></list>
+    </item>
+    </list>
+    </section>
+    <section class="additional-problems" id="sect-00008">
+      <title>Additional Problems</title>
+      <para id="para-00019"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+      <exercise id="exer-00003">
+      <problem id="prob-00003">
+      <para id="para-00020"><link class="os-embed" url="#exercise/21-99-OC-VC01"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00004">
+      <problem id="prob-00004">
+      <para id="para-00021"><link class="os-embed" url="#exercise/21-99-OC-VC02"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00005">
+      <problem id="prob-00005">
+      <para id="para-00022"><link class="os-embed" url="#exercise/21-99-OC-VC03"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00006">
+      <problem id="prob-00006">
+      <para id="para-00023"><link class="os-embed" url="#exercise/21-99-OC-VC04"/></para>
+      </problem>
+      </exercise>
+      <para id="para-00024"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
+      <exercise id="exer-00007">
+      <problem id="prob-00007">
+      <para id="para-00025"><link class="os-embed" url="#exercise/21-99-OC-MP01"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00008">
+      <problem id="prob-00008">
+      <para id="para-00026"><link class="os-embed" url="#exercise/21-99-OC-MP02"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00009">
+      <problem id="prob-00009">
+      <para id="para-00027"><link class="os-embed" url="#exercise/21-99-OC-MP03"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00010">
+      <problem id="prob-00010">
+      <para id="para-00028"><link class="os-embed" url="#exercise/21-99-OC-MP04"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00011">
+      <problem id="prob-00011">
+      <para id="para-00029"><link class="os-embed" url="#exercise/21-99-OC-MP05"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00012">
+      <problem id="prob-00012">
+      <para id="para-00030"><link class="os-embed" url="#exercise/21-99-OC-MP06"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00013">
+      <problem id="prob-00013">
+      <para id="para-00031"><link class="os-embed" url="#exercise/21-99-OC-MP07"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00014">
+      <problem id="prob-00014">
+      <para id="para-00032"><link class="os-embed" url="#exercise/21-99-OC-MP08"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00015">
+      <problem id="prob-00015">
+      <para id="para-00033"><link class="os-embed" url="#exercise/21-99-OC-MP09"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00016">
+      <problem id="prob-00016">
+      <para id="para-00034"><link class="os-embed" url="#exercise/21-99-OC-MP10"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00017">
+      <problem id="prob-00017">
+      <para id="para-00035"><link class="os-embed" url="#exercise/21-99-OC-MP11"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00018">
+      <problem id="prob-00018">
+      <para id="para-00036"><link class="os-embed" url="#exercise/21-99-OC-MP12"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00019">
+      <problem id="prob-00019">
+      <para id="para-00037"><link class="os-embed" url="#exercise/21-99-OC-MP13"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00020">
+      <problem id="prob-00020">
+      <para id="para-00038"><link class="os-embed" url="#exercise/21-99-OC-MP14"/></para>
+      </problem>
+      </exercise>
+      <para id="para-00039"><emphasis effect="bold"><span class="red-text">Naming Carboxylic Acid Derivatives</span></emphasis></para>
+      <exercise id="exer-00021">
+      <problem id="prob-00021">
+      <para id="para-00040"><link class="os-embed" url="#exercise/21-99-OC-AP01"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00022">
+      <problem id="prob-00022">
+      <para id="para-00041"><link class="os-embed" url="#exercise/21-99-OC-AP02"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00023">
+      <problem id="prob-00023">
+      <para id="para-00042"><link class="os-embed" url="#exercise/21-99-OC-AP03"/></para>
+      </problem>
+      </exercise>
+      <para id="para-00043"><emphasis effect="bold"><span class="red-text">Nucleophilic Acyl Substitution Reactions</span></emphasis></para>
+      <exercise id="exer-00024">
+      <problem id="prob-00024">
+      <para id="para-00044"><link class="os-embed" url="#exercise/21-99-OC-AP04"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00025">
+      <problem id="prob-00025">
+      <para id="para-00045"><link class="os-embed" url="#exercise/21-99-OC-AP05"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00026">
+      <problem id="prob-00026">
+      <para id="para-00046"><link class="os-embed" url="#exercise/21-99-OC-AP06"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00027">
+      <problem id="prob-00027">
+      <para id="para-00047"><link class="os-embed" url="#exercise/21-99-OC-AP07"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00028">
+      <problem id="prob-00028">
+      <para id="para-00048"><link class="os-embed" url="#exercise/21-99-OC-AP08"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00029">
+      <problem id="prob-00029">
+      <para id="para-00049"><link class="os-embed" url="#exercise/21-99-OC-AP09"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00030">
+      <problem id="prob-00030">
+      <para id="para-00050"><link class="os-embed" url="#exercise/21-99-OC-AP10"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00031">
+      <problem id="prob-00031">
+      <para id="para-00051"><link class="os-embed" url="#exercise/21-99-OC-AP11"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00032">
+      <problem id="prob-00032">
+      <para id="para-00052"><link class="os-embed" url="#exercise/21-99-OC-AP12"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00033">
+      <problem id="prob-00033">
+      <para id="para-00053"><link class="os-embed" url="#exercise/21-99-OC-AP13"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00034">
+      <problem id="prob-00034">
+      <para id="para-00054"><link class="os-embed" url="#exercise/21-99-OC-AP14"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00035">
+      <problem id="prob-00035">
+      <para id="para-00055"><link class="os-embed" url="#exercise/21-99-OC-AP15"/></para>
+      </problem>
+      </exercise>
+      <para id="para-00056"><emphasis effect="bold"><span class="red-text">Step-Growth Polymers</span></emphasis></para>
+      <exercise id="exer-00036">
+      <problem id="prob-00036">
+      <para id="para-00057"><link class="os-embed" url="#exercise/21-99-OC-AP16"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00037">
+      <problem id="prob-00037">
+      <para id="para-00058"><link class="os-embed" url="#exercise/21-99-OC-AP17"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00038">
+      <problem id="prob-00038">
+      <para id="para-00059"><link class="os-embed" url="#exercise/21-99-OC-AP18"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00039">
+      <problem id="prob-00039">
+      <para id="para-00060"><link class="os-embed" url="#exercise/21-99-OC-AP19"/></para>
+      </problem>
+      </exercise>
+      <para id="para-00061"><emphasis effect="bold"><span class="red-text">Spectroscopy</span></emphasis></para>
+      <exercise id="exer-00040">
+      <problem id="prob-00040">
+      <para id="para-00062"><link class="os-embed" url="#exercise/21-99-OC-AP20"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00041">
+      <problem id="prob-00041">
+      <para id="para-00063"><link class="os-embed" url="#exercise/21-99-OC-AP21"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00042">
+      <problem id="prob-00042">
+      <para id="para-00064"><link class="os-embed" url="#exercise/21-99-OC-AP22"/></para>
+      </problem>
+      </exercise>
+      <para id="para-00065"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+      <exercise id="exer-00043">
+      <problem id="prob-00043">
+      <para id="para-00066"><link class="os-embed" url="#exercise/21-99-OC-AP23"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00044">
+      <problem id="prob-00044">
+      <para id="para-00067"><link class="os-embed" url="#exercise/21-99-OC-AP24"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00045">
+      <problem id="prob-00045">
+      <para id="para-00068"><link class="os-embed" url="#exercise/21-99-OC-AP25"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00046">
+      <problem id="prob-00046">
+      <para id="para-00069"><link class="os-embed" url="#exercise/21-99-OC-AP26"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00047">
+      <problem id="prob-00047">
+      <para id="para-00070"><link class="os-embed" url="#exercise/21-99-OC-AP27"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00048">
+      <problem id="prob-00048">
+      <para id="para-00071"><link class="os-embed" url="#exercise/21-99-OC-AP28"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00049">
+      <problem id="prob-00049">
+      <para id="para-00072"><link class="os-embed" url="#exercise/21-99-OC-AP29"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00050">
+      <problem id="prob-00050">
+      <para id="para-00073"><link class="os-embed" url="#exercise/21-99-OC-AP30"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00051">
+      <problem id="prob-00051">
+      <para id="para-00074"><link class="os-embed" url="#exercise/21-99-OC-AP31"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00052">
+      <problem id="prob-00052">
+      <para id="para-00075"><link class="os-embed" url="#exercise/21-99-OC-AP32"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00053">
+      <problem id="prob-00053">
+      <para id="para-00076"><link class="os-embed" url="#exercise/21-99-OC-AP33"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00054">
+      <problem id="prob-00054">
+      <para id="para-00077"><link class="os-embed" url="#exercise/21-99-OC-AP34"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00055">
+      <problem id="prob-00055">
+      <para id="para-00078"><link class="os-embed" url="#exercise/21-99-OC-AP35"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00056">
+      <problem id="prob-00056">
+      <para id="para-00079"><link class="os-embed" url="#exercise/21-99-OC-AP36"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00057">
+      <problem id="prob-00057">
+      <para id="para-00080"><link class="os-embed" url="#exercise/21-99-OC-AP37"/></para>
+      </problem>
+      </exercise>
+      <exercise id="exer-00058">
+      <problem id="prob-00058">
+      <para id="para-00081"><link class="os-embed" url="#exercise/21-99-OC-AP38"/></para>
+      </problem>
+      </exercise>
+      </section>
+      </content>
+</document>

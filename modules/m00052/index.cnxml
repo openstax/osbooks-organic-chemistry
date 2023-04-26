@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Optical Activity</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Optical Activity</md:title>
+    <md:content-id>m00052</md:content-id>
+    <md:uuid>8f7740e3-d7d1-4f4d-8aca-61c4b5d4d35e</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">The study of chirality originated in the early 19th century during investigations by the French physicist Jean-Baptiste Biot into the nature of <emphasis effect="italics">plane-polarized light.</emphasis> A beam of ordinary light consists of electromagnetic waves that oscillate in an infinite number of planes at right angles to its direction of travel. When a beam of ordinary light passes through a device called a polarizer<emphasis effect="italics">,</emphasis> however, only the light waves oscillating in a single plane pass through and the light is said to be plane-polarized. Light waves in all other planes are blocked out.</para>
+    <para id="para-00002">Biot made the remarkable observation that when a beam of plane-polarized light passes through a solution of certain organic molecules, such as sugar or camphor, the plane of polarization is rotated through an angle, <emphasis effect="italics">α</emphasis>. Not all organic substances exhibit this property, but those that do are said to be <term id="term-00001">optically active</term>.</para>
+    <para id="para-00003">The angle of rotation can be measured with an instrument called a polarimeter, represented in <link target-id="fig-00001"/>. A solution of optically active organic molecules is placed in a sample tube, plane-polarized light is passed through the tube, and rotation of the polarization plane occurs. The light then goes through a second polarizer called the analyzer. By rotating the analyzer until the light passes through <emphasis effect="italics">it</emphasis>, we can find the new plane of polarization and can tell to what extent rotation has occurred.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows unpolarized light passing through polarimeter. A sample tube containing organic molecules is shown. At one end a light source (bulb) is placed. Light passes through a circular disc (polarizer) that has a vertical orientation. At the other end a circular analyzer is placed through which the light reaches the observer’s eye. The analyzer has a horizontal orientation. The angle of rotation is alpha.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_03_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Schematic representation of a polarimeter.</emphasis> Plane-polarized light passes through a solution of optically active molecules, which rotate the plane of polarization.</caption>
+    </figure>
+    <para id="para-00004">In addition to determining the extent of rotation, we can also find the direction. From the vantage point of the observer looking directly at the analyzer, some optically active molecules rotate polarized light to the left (counterclockwise) and are said to be <term id="term-00002">levorotatory</term>, whereas others rotate polarized light to the right (clockwise) and are said to be <term id="term-00003">dextrorotatory</term>. By convention, rotation to the left is given a minus sign (−) and rotation to the right is given a plus sign (+). (−)-Morphine, for example, is levorotatory, and (+)-sucrose is dextrorotatory.</para>
+    <para id="para-00005">The extent of rotation observed in a polarimetry experiment depends on the number of optically active molecules encountered by the light beam. This number, in turn, depends on sample concentration and sample pathlength. If the concentration of the sample is doubled, the observed rotation doubles. If the concentration is kept constant but the length of the sample tube is doubled, the observed rotation doubles. It also happens that the angle of rotation depends on the wavelength of the light used.</para>
+    <para id="para-00006">To express optical rotations in a meaningful way so that comparisons can be made, we have to choose standard conditions. The <term id="term-00004">specific rotation, [<emphasis effect="italics">α</emphasis>]<sub>D</sub></term>, of a compound is defined as the observed rotation when light of 589.6 nanometer (nm; 1 nm&#8201;=&#8201;10<sup>−9</sup> m) wavelength is used with a sample pathlength <emphasis effect="italics">l</emphasis> of 1 decimeter (dm; 1 dm&#8201;=&#8201;10 cm) and a sample concentration <emphasis effect="italics">c</emphasis> of 1 g/cm<sup>3</sup>. (Light of 589.6 nm, the so-called sodium D line, is the yellow light emitted from common sodium street lamps.)</para>
+    <equation class="unnumbered" id="eq-00001"><label/><m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:mi>α</m:mi><m:mo stretchy="false">]</m:mo></m:mrow><m:mtext>D</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>Observed rotation (degrees)</m:mtext></m:mrow><m:mrow><m:mtext>Pathlength,</m:mtext><m:mspace width="0.2em"/><m:mi>l</m:mi><m:mspace width="0.2em"/><m:mtext>(dm)</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>Concentration,</m:mtext><m:mspace width="0.2em"/><m:mi>c</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>g/cm</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>α</m:mi><m:mrow><m:mi>l</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>c</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+    <para id="para-00008">When optical rotations are expressed in this standard way, the specific rotation, [<emphasis effect="italics">α</emphasis>]<sub>D</sub>, is a physical constant characteristic of a given optically active compound. For example, (+)-lactic acid has [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;+3.82, and (−)-lactic acid has [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;−3.82. That is, the two enantiomers rotate plane-polarized light to exactly the same extent but in opposite directions. Note that the units of specific rotation are [(deg <emphasis effect="bold">·</emphasis> cm<sup>2</sup>)/g] but the values are usually expressed without units. Some additional examples are listed in <link target-id="table-00001"/>.</para>
+    <table summary="" id="table-00001">
+    <title>Specific Rotations of Some Organic Molecules</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Compound</entry>
+    <entry valign="top" align="left">[<emphasis effect="italics">α</emphasis>]<sub>D</sub></entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Penicillin V</entry>
+    <entry valign="top" align="left">+233</entry>   
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Sucrose</entry>
+    <entry valign="top" align="left">&#8199;+66.47</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Camphor</entry>
+    <entry valign="top" align="left">&#8199;+44.26</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Chloroform</entry>
+    <entry valign="top" align="left">&#8199;&#8199;&#8199;0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Cholesterol</entry>
+    <entry valign="top" align="left">&#8199;−31.5</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Morphine</entry>
+    <entry valign="top" align="left">−132</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Cocaine</entry>
+    <entry valign="top" align="left">&#8199;−16</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Acetic acid</entry>
+    <entry valign="top" align="left">&#8199;&#8199;&#8199;0</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <example id="exam-00001">
+    <title>Calculating an Optical Rotation</title>
+    <para id="para-00009">A 1.20 g sample of cocaine, [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;−16, was dissolved in 7.50 mL of chloroform and placed in a sample tube having a pathlength of 5.00 cm. What was the observed rotation?</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <media alt="An illustration shows the structural formula of Cocaine. The structure shows a cycloheptane with two carbon atoms bonded to a nitrogen that is bonded to a methyl group. The cycloheptane is bonded to a methyl acetate group and an oxygen. The oxygen is bonded to a carbonyl group that is bonded to a benzene ring at the bottom.">
+    <image mime-type="image/jpeg" src="../../media/OChem_05_03_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010"><title><span class="red-text">Strategy</span></title> Since <m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">[</m:mo><m:mi>α</m:mi><m:mo stretchy="false">]</m:mo></m:mrow><m:mtext>D</m:mtext></m:msub><m:mo>=</m:mo><m:mfrac><m:mi>α</m:mi><m:mrow><m:mi>l</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mi>c</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+    <para id="para-00011">Then <m:math><m:mrow><m:mi>α</m:mi><m:mo>=</m:mo><m:mi>l</m:mi><m:mo>×</m:mo><m:mi>c</m:mi><m:mo>×</m:mo><m:mo stretchy="false">[</m:mo><m:msub><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">]</m:mo></m:mrow><m:mtext>D</m:mtext></m:msub></m:mrow></m:math></para>
+    <para id="para-00012">where [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;−16; <emphasis effect="italics">l</emphasis>&#8201;=&#8201;5.00 cm&#8201;=&#8201;0.500 dm; <emphasis effect="italics">c</emphasis>&#8201;=&#8201;1.20 g/7.50 cm<sup>3</sup>&#8201;=&#8201;0.160 g/cm<sup>3</sup></para>
+    <para id="para-00013"><title><span class="cyan-text">Solution</span></title> <emphasis effect="italics">α</emphasis>&#8201;=&#8201;(−16) (0.500) (0.160)&#8201;=&#8201;−1.3°.</para>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00014"><link class="os-embed" url="#exercise/05-03-OC-P05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00015"><link class="os-embed" url="#exercise/05-03-OC-P06"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

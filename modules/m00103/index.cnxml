@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Naming Alkynes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Naming Alkynes</md:title>
+    <md:content-id>m00103</md:content-id>
+    <md:uuid>373ea4de-63ba-4ccb-80a8-5d0cc5b54fee</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Alkyne nomenclature follows the general rules for hydrocarbons discussed in <link document="m00035"/> and <link document="m00065"/>. The suffix <emphasis effect="italics">-yne</emphasis> is used, and the position of the triple bond is indicated by giving the number of the first alkyne carbon in the chain. Numbering the main chain begins at the end nearer the triple bond so that the triple bond receives as low a number as possible.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <media alt="An illustration shows the structural formula of “6-Methyl-3-octyne (New: 6-Methyloct-3-yne)”; the “6-Methyl” part is in blue and “-3-yne” is pink in both the names. Text reads “begin numbering at the end nearer the triple bond”; the numbering begins from the right side of the structure wherein a methyl group labeled as “1” is bonded to a methylene group bonded as “2” attached to a carbon “3” triple bonded with another carbon “4” bonded to a methylene group at “5” bonded to a methine group at “6”; the carbon of methine shows an upward bond to a blue methyl group; the methine group is further bonded to a methylene group at “7” bonded to a methyl group at “8”; the numbering is shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_01_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Compounds with more than one triple bond are called diynes, triynes, and so forth; compounds containing both double and triple bonds are called enynes (not ynenes). Numbering of an enyne chain starts from the end nearer the first multiple bond, whether double or triple. When there is a choice in numbering, double bonds receive lower numbers than triple bonds. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows two structural formulas. The structural formula of “1-Hepten-6-yne (New: Hept-1-en-6-yne)” shows “1-en” in blue and “-6-yne” in pink; the numbering starts from right to left in pink; a methylene group at “1” is double bonded to a methine group at “2” bonded to three consecutive methylene groups at “3” “4” and “5” the methylene group at “5” is bonded to a carbon “6” sharing a triple pink bond with a methine group at “7.” The structural formula of “4-Methyl-7-nonen-1-yne (New:4-Methylnon-7-en-1-yne)” shows “4-Methyl-7-en” in blue and “-1-yne” in pink; the numbering starts from left to right side; the carbon of a methine group is labeled “1”; methine group is triple bonded to a carbon at “2” bonded to a methylene group at “3” bonded to a methine group at “4” whose carbon shares an upward bond to a blue methyl group; the methine group is bonded to two consecutive methylene groups at “5” and “6”; the methylene group at “6” is bonded to a methine group at “7” that is double bonded to a methine group at “8” bonded to a methyl group at “9.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_01_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">As with alkyl and alkenyl substituents derived from alkanes and alkenes, respectively, alkynyl groups are also possible.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows three structural formulas. The first formula (Butyl an alkyl group) shows a methyl group bonded to three consecutive methylene groups; the last methylene group shows an open bond intersected by a wavy pink line. The second formula (1-Butenyl a vinylic group; New: But-1-enyl) shows a methyl group bonded to a methylene group bonded to a methine group that is double bonded to a methine group having an open bond intersected by a pink wavy line. the third formula (1-Butynyl an alkynyl group; New: But-1-ynyl) shows a methyl group bonded to a methylene group bonded to a carbon triple bonded to another carbon whose open bond is intersected by a pink wavy line.">
+    <image mime-type="image/jpeg" src="../../media/OChem_09_01_003.jpg"/>
+    </media>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00004"><link class="os-embed" url="#exercise/09-01-OC-P01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00005"><link class="os-embed" url="#exercise/09-01-OC-P02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

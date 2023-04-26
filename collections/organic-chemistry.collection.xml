@@ -3,30 +3,347 @@
     <md:title>Organic Chemistry</md:title>
     <md:slug>organic-chemistry</md:slug>
     <md:language>en</md:language>
-    <md:content-id>col12345</md:content-id>
     <md:uuid>6c2f7d1d-fbad-42e8-b977-9b903e6cb83b</md:uuid>
-    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike License</md:license>
+    <md:license url="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
   </col:metadata>
   <col:content>
     <col:module document="m00001"/>
     <col:subcollection>
       <md:title>Structure and Bonding</md:title>
       <col:content>
-        <col:module document="m00002"/>
-        <col:module document="m00003"/>
-        <col:module document="m00004"/>
-        <col:module document="m00005"/>
-        <col:module document="m00006"/>
-        <col:module document="m00007"/>
-        <col:module document="m00008"/>
-        <col:module document="m00009"/>
-        <col:module document="m00010"/>
-        <col:module document="m00011"/>
-        <col:module document="m00012"/>
-        <col:module document="m00013"/>
-        <col:module document="m00014"/>
+        <col:module document="m00157"/>
+        <col:module document="m00158"/>
+        <col:module document="m00159"/>
+        <col:module document="m00160"/>
+        <col:module document="m00161"/>
+        <col:module document="m00162"/>
+        <col:module document="m00163"/>
+        <col:module document="m00164"/>
+        <col:module document="m00165"/>
+        <col:module document="m00166"/>
+        <col:module document="m00167"/>
+        <col:module document="m00168"/>
+        <col:module document="m00169"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Polar Covalent Bonds; Acids and Bases</md:title>
+      <col:content>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
+        <col:module document="m00021"/>
+        <col:module document="m00022"/>
+        <col:module document="m00023"/>
+        <col:module document="m00024"/>
+        <col:module document="m00025"/>
+        <col:module document="m00026"/>
+        <col:module document="m00027"/>
+        <col:module document="m00028"/>
+        <col:module document="m00029"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Organic Compounds: Alkanes and Their Stereochemistry</md:title>
+      <col:content>
+        <col:module document="m00031"/>
+        <col:module document="m00032"/>
+        <col:module document="m00033"/>
+        <col:module document="m00034"/>
+        <col:module document="m00035"/>
+        <col:module document="m00036"/>
+        <col:module document="m00037"/>
+        <col:module document="m00038"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Organic Compounds: Cycloalkanes and Their Stereochemistry</md:title>
+      <col:content>
+        <col:module document="m00039"/>
+        <col:module document="m00040"/>
+        <col:module document="m00041"/>
+        <col:module document="m00042"/>
+        <col:module document="m00043"/>
+        <col:module document="m00044"/>
+        <col:module document="m00045"/>
+        <col:module document="m00046"/>
+        <col:module document="m00047"/>
+        <col:module document="m00048"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Stereochemistry at Tetrahedral Centers</md:title>
+      <col:content>
+        <col:module document="m00049"/>
+        <col:module document="m00050"/>
+        <col:module document="m00051"/>
+        <col:module document="m00052"/>
+        <col:module document="m00053"/>
+        <col:module document="m00054"/>
+        <col:module document="m00055"/>
+        <col:module document="m00056"/>
+        <col:module document="m00057"/>
+        <col:module document="m00058"/>
+        <col:module document="m00059"/>
+        <col:module document="m00060"/>
+        <col:module document="m00061"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>An Overview of Organic Reactions</md:title>
+      <col:content>
+        <col:module document="m00076"/>
+        <col:module document="m00077"/>
+        <col:module document="m00078"/>
+        <col:module document="m00080"/>
+        <col:module document="m00081"/>
+        <col:module document="m00082"/>
+        <col:module document="m00079"/>
+        <col:module document="m00083"/>
+        <col:module document="m00084"/>
+        <col:module document="m00085"/>
+        <col:module document="m00086"/>
+        <col:module document="m00087"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Alkenes: Structure and Reactivity</md:title>
+      <col:content>
+        <col:module document="m00062"/>
+        <col:module document="m00063"/>
+        <col:module document="m00064"/>
+        <col:module document="m00065"/>
+        <col:module document="m00066"/>
+        <col:module document="m00067"/>
+        <col:module document="m00068"/>
+        <col:module document="m00069"/>
+        <col:module document="m00070"/>
+        <col:module document="m00071"/>
+        <col:module document="m00072"/>
+        <col:module document="m00073"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Alkenes: Reactions and Synthesis</md:title>
+      <col:content>
+        <col:module document="m00088"/>
+        <col:module document="m00089"/>
+        <col:module document="m00090"/>
+        <col:module document="m00091"/>
+        <col:module document="m00092"/>
+        <col:module document="m00093"/>
+        <col:module document="m00094"/>
+        <col:module document="m00095"/>
+        <col:module document="m00096"/>
+        <col:module document="m00097"/>
+        <col:module document="m00098"/>
+        <col:module document="m00099"/>
+        <col:module document="m00100"/>
+        <col:module document="m00101"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Alkynes: An Introduction to Organic Synthesis</md:title>
+      <col:content>
+        <col:module document="m00102"/>
+        <col:module document="m00103"/>
+        <col:module document="m00104"/>
+        <col:module document="m00105"/>
+        <col:module document="m00106"/>
+        <col:module document="m00107"/>
+        <col:module document="m00108"/>
+        <col:module document="m00109"/>
+        <col:module document="m00110"/>
+        <col:module document="m00111"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Organohalides</md:title>
+      <col:content>
+        <col:module document="m00112"/>
+        <col:module document="m00113"/>
+        <col:module document="m00114"/>
+        <col:module document="m00115"/>
+        <col:module document="m00116"/>
+        <col:module document="m00117"/>
+        <col:module document="m00118"/>
+        <col:module document="m00119"/>
+        <col:module document="m00120"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reactions of Alkyl Halides: Nucleophilic Substitutions and Eliminations</md:title>
+      <col:content>
+        <col:module document="m00121"/>
+        <col:module document="m00122"/>
+        <col:module document="m00123"/>
+        <col:module document="m00124"/>
+        <col:module document="m00125"/>
+        <col:module document="m00126"/>
+        <col:module document="m00127"/>
+        <col:module document="m00128"/>
+        <col:module document="m00129"/>
+        <col:module document="m00130"/>
+        <col:module document="m00131"/>
+        <col:module document="m00132"/>
+        <col:module document="m00133"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Structure Determination: Mass Spectrometry and Infrared Spectroscopy</md:title>
+      <col:content>
+        <col:module document="m00134"/>
+        <col:module document="m00135"/>
+        <col:module document="m00136"/>
+        <col:module document="m00137"/>
+        <col:module document="m00138"/>
+        <col:module document="m00139"/>
+        <col:module document="m00140"/>
+        <col:module document="m00141"/>
+        <col:module document="m00142"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Structure Determination: Nuclear Magnetic Resonance Spectroscopy</md:title>
+      <col:content>
+        <col:module document="m00143"/>
+        <col:module document="m00144"/>
+        <col:module document="m00145"/>
+        <col:module document="m00146"/>
+        <col:module document="m00147"/>
+        <col:module document="m00148"/>
+        <col:module document="m00149"/>
+        <col:module document="m00150"/>
+        <col:module document="m00151"/>
+        <col:module document="m00152"/>
+        <col:module document="m00153"/>
+        <col:module document="m00154"/>
+        <col:module document="m00155"/>
+        <col:module document="m00156"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Conjugated Compounds and Ultraviolet Spectroscopy</md:title>
+      <col:content>
+        <col:module document="m00170"/>
+        <col:module document="m00171"/>
+        <col:module document="m00172"/>
+        <col:module document="m00173"/>
+        <col:module document="m00174"/>
+        <col:module document="m00175"/>
+        <col:module document="m00176"/>
+        <col:module document="m00177"/>
+        <col:module document="m00178"/>
+        <col:module document="m00179"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Benzene and Aromaticity</md:title>
+      <col:content>
+        <col:module document="m00180"/>
+        <col:module document="m00181"/>
+        <col:module document="m00182"/>
+        <col:module document="m00183"/>
+        <col:module document="m00184"/>
+        <col:module document="m00185"/>
+        <col:module document="m00186"/>
+        <col:module document="m00187"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemistry of Benzene: Electrophilic Aromatic Substitution</md:title>
+      <col:content>
+        <col:module document="m00188"/>
+        <col:module document="m00189"/>
+        <col:module document="m00190"/>
+        <col:module document="m00191"/>
+        <col:module document="m00192"/>
+        <col:module document="m00193"/>
+        <col:module document="m00194"/>
+        <col:module document="m00195"/>
+        <col:module document="m00196"/>
+        <col:module document="m00197"/>
+        <col:module document="m00198"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Alcohols and Phenols</md:title>
+      <col:content>
+        <col:module document="m00199"/>
+        <col:module document="m00200"/>
+        <col:module document="m00201"/>
+        <col:module document="m00202"/>
+        <col:module document="m00203"/>
+        <col:module document="m00204"/>
+        <col:module document="m00205"/>
+        <col:module document="m00206"/>
+        <col:module document="m00207"/>
+        <col:module document="m00208"/>
+        <col:module document="m00209"/>
+        <col:module document="m00210"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethers and Epoxides; Thiols and Sulfides</md:title>
+      <col:content>
+        <col:module document="m00075"/>
+        <col:module document="m00074"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Aldehydes and Ketones: Nucleophilic Addition Reactions</md:title>
+      <col:content>
+        <col:module document="m00211"/>
+        <col:module document="m00212"/>
+        <col:module document="m00213"/>
+        <col:module document="m00214"/>
+        <col:module document="m00215"/>
+        <col:module document="m00216"/>
+        <col:module document="m00217"/>
+        <col:module document="m00218"/>
+        <col:module document="m00219"/>
+        <col:module document="m00220"/>
+        <col:module document="m00221"/>
+        <col:module document="m00222"/>
+        <col:module document="m00223"/>
+        <col:module document="m00224"/>
+        <col:module document="m00225"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Carboxylic Acids and Nitriles</md:title>
+      <col:content>
+        <col:module document="m00229"/>
+        <col:module document="m00230"/>
+        <col:module document="m00231"/>
+        <col:module document="m00232"/>
+        <col:module document="m00233"/>
+        <col:module document="m00234"/>
+        <col:module document="m00235"/>
+        <col:module document="m00236"/>
+        <col:module document="m00237"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Carboxylic Acid Derivatives: Nucleophilic Acyl Substitution Reactions</md:title>
+      <col:content>
+        <col:module document="m00238"/>
+        <col:module document="m00239"/>
+        <col:module document="m00240"/>
+        <col:module document="m00241"/>
+        <col:module document="m00242"/>
+        <col:module document="m00243"/>
+        <col:module document="m00244"/>
+        <col:module document="m00245"/>
+        <col:module document="m00246"/>
+        <col:module document="m00247"/>
+        <col:module document="m00248"/>
       </col:content>
     </col:subcollection>
     <col:module document="m00016"/>
+    <col:module document="m00030"/>
+    <col:module document="m00226"/>
+    <col:module document="m00228"/>
   </col:content>
 </col:collection>

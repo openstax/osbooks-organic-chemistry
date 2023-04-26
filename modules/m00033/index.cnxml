@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Alkanes and Alkane Isomers</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Alkanes and Alkane Isomers</md:title>
+    <md:content-id>m00033</md:content-id>
+    <md:uuid>508619d8-1c49-4dd7-96f6-92f45d0fd41d</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Before beginning a systematic study of the different functional groups, let’s look first at the simplest family of molecules to develop some general ideas that apply to all families. We saw in <link document="m00164"/> that the carbon–carbon single bond in ethane results from <emphasis effect="italics">σ</emphasis> (head-on) overlap of carbon <emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals. If we imagine joining three, four, five, or even more carbon atoms by C–C single bonds, we can generate the large family of molecules called <term id="term-00001">alkanes</term>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows four structures. The first structure is a methane having a carbon bonded to four hydrogen atoms. The second structure shows ethane having two centrally located carbon atoms bonded to each other each carbon is bonded to three hydrogen atoms. The third structure shows propane having three consecutively bonded hydrogen atoms; the carbon at the left and right side shows three bonds with hydrogen atoms and the central carbon shows two bonds with hydrogen atoms. The fourth structure shows butane having four consecutively placed carbon atoms wherein the two central carbons are bonded to two hydrogen atoms each and the carbon at left and right side shows three bonds with hydrogen atoms. Further ahead “...and so on” is written.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_02_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">Alkanes are often described as <emphasis effect="italics">saturated hydrocarbons:</emphasis> <term id="term-00002">hydrocarbons</term> because they contain only carbon and hydrogen; <term id="term-00003">saturated</term> because they have only C–C and C–H single bonds and thus contain the maximum possible number of hydrogens per carbon. They have the general formula C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>+2</sub>, where <emphasis effect="italics">n</emphasis> is an integer. Alkanes are also occasionally called <term id="term-00004">aliphatic</term> compounds, a name derived from the Greek <emphasis effect="italics">aleiphas,</emphasis> meaning “fat.” We’ll see in <link document="m00074" target-id="note-00001"/> that many animal fats contain long carbon chains similar to alkanes.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows the structure of “a typical animal fat” with a three-tiered carbon chain; the first tier shows a methylene group bonded to oxygen bonded to a carbonyl group whose carbon is bonded to sixteen consecutive methylene groups and then bonded to a methyl group; the second tier shows a methine group bonded to oxygen bonded to a carbonyl group whose carbon is bonded to sixteen methylene groups and then bonded to methyl group; the third chain shows a methylene group bonded to an oxygen bonded to a carbonyl group whose carbon is bonded to sixteen methylene groups and then bonded to methyl group. The first methylene group of the first tier is bonded to the methine group of the second tier that is bonded to the first methylene group of the third tier.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_02_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Think about the ways that carbon and hydrogen might combine to make alkanes. With one carbon and four hydrogens, only one structure is possible: methane, CH<sub>4</sub>. Similarly, there is only one combination of two carbons with six hydrogens (ethane, CH<sub>3</sub>CH<sub>3</sub>) and only one combination of three carbons with eight hydrogens (propane, CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub>). When larger numbers of carbons and hydrogens combine, however, more than one structure is possible. For example, there are two substances with the formula C<sub>4</sub>H<sub>10</sub>: the four carbons can all be in a row (butane), or they can branch (isobutane). Similarly, there are three C<sub>5</sub>H<sub>12</sub> molecules, and so on for larger alkanes.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows eight structures and their corresponding ball-and-stick models wherein grey balls represent carbon and white balls represent hydrogen. The first structure is methane with molecular formula CH4; the ball-and-stick model shows centrally located carbon bonded to four hydrogen atoms. The second structure is of ethane having molecular formula C2H6 shown as CH3CH3; the ball-and-stick model shows two carbons bonded to each other each carbon is bonded to three hydrogen atoms. The third structure is a propane C3H8 shown as CH3CH2CH3; the ball-and-stick model shows three carbons wherein each carbon is bonded to three hydrogens. The fourth and fifth structures are shown in curled brackets; the fourth structure is a butane C4H10 shown as CH3CH2CH2CH3; the ball-and-stick model shows a 4-carbon chain. C1 and C4 are bonded to three hydrogens each. C2 and C3 are bonded to two hydrogens each. The fifth structure is an isobutane C4H10 (2-methylpropane) shown as a centrally located methine group bonded to methyl groups on three sides. The sixth structure shows pentane C5H12 shown as a methyl group bonded to three consecutive methylene groups bonded to a methyl group. The seventh structure is 2-Methylbutane C5H12 shown as a methyl group bonded to a methylene group bonded to a methine group having two bonds to methyl groups. The eighth structure shows 2 2-Dimethylpropane C5H12 shown as a centrally located carbon having bonds with four methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_02_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">Compounds like butane and pentane, whose carbons are all connected in a row, are called <term id="term-00005">straight-chain alkanes</term>, or <emphasis effect="italics">normal alkanes.</emphasis> Compounds like 2-methylpropane (isobutane), 2-methylbutane, and 2,2-dimethylpropane, whose carbon chains branch, are called <term id="term-00006">branched-chain alkanes</term>.</para>
+    <para id="para-00005">Compounds like the two C<sub>4</sub>H<sub>10</sub> molecules and the three C<sub>5</sub>H<sub>12</sub> molecules, which have the same formula but different structures, are called <term id="term-00007">Isomers</term>, from the Greek <emphasis effect="italics">isos</emphasis> + <emphasis effect="italics">meros,</emphasis> meaning “made of the same parts.” Isomers have the same numbers and kinds of atoms but differ in the way the atoms are arranged. Compounds like butane and isobutane, whose atoms are connected differently, are called <term id="term-00008">constitutional isomers</term>. We’ll see shortly that other kinds of isomers are also possible, even among compounds whose atoms are connected in the same order. As <link target-id="table-00001"/> shows, the number of possible alkane isomers increases dramatically with the number of carbon atoms.</para>
+    <table id="table-00001" summary="Alt Text Placeholder">
+    <title>Number of Alkane Isomers</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Formula</entry>
+    <entry valign="top" align="left">Number of isomers</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>6</sub>H<sub>14</sub></entry>
+    <entry valign="top" align="left">5</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>7</sub>H<sub>16</sub></entry>
+    <entry valign="top" align="left">9</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>8</sub>H<sub>18</sub></entry>
+    <entry valign="top" align="left">18</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>9</sub>H<sub>20</sub></entry>
+    <entry valign="top" align="left">35</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>10</sub>H<sub>22</sub></entry>
+    <entry valign="top" align="left">75</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>15</sub>H<sub>32</sub></entry>
+    <entry valign="top" align="left">4347</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>20</sub>H<sub>42</sub></entry>
+    <entry valign="top" align="left">366,319</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">C<sub>30</sub>H<sub>62</sub></entry>
+    <entry valign="top" align="left">4,111,846,763</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00006">Constitutional isomerism is not limited to alkanes—it occurs widely throughout organic chemistry. Constitutional isomers may have different carbon skeletons (as in isobutane and butane), different functional groups (as in ethanol and dimethyl ether), or different locations of a functional group along the chain (as in isopropylamine and propylamine). Regardless of the reason for the isomerism, constitutional isomers are always different compounds with different properties but with the same formula.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows three parts wherein each part shows two isomers. The first part reads “different carbon skeletons C4H10” and shows 2-Methylpropane (isobutane) and butane; isobutane shows a centrally located methine group bonded to three methyl groups; butane shows a methyl group bonded to two consecutive methylene groups bonded to a methyl group. The second part reads “different functional groups C2H6O” and shows ethanol and dimethyl ether; ethanol shows a methyl group bonded to methylene group bonded to a hydroxyl group shown in pink; dimethyl ether shows a centrally located oxygen in pink bonded to methyl groups on both the sides. The third part reads “different position of functional groups C3H9N” and shows propylamine and propylamine; isopropylamine shows a centrally located methine group sharing an upward bond with an amino group shown in pink the methine is bonded to methyl groups on both the sides; the structure of propylamine shows a methyl group bonded to two consecutive methylene groups and then bonded to an amino group written in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_02_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00007">A given alkane can be drawn in many ways. For example, the straight-chain, four-carbon alkane called butane can be represented by any of the structures shown in <link target-id="fig-00005"/>. These structures don’t imply any particular three-dimensional geometry for butane; they indicate only the connections among atoms. In practice, as noted in <link document="m00169"/>, chemists rarely draw all the bonds in a molecule and usually refer to butane by the condensed structure, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> or CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>CH<sub>3</sub>. Still more simply, butane can be represented as <emphasis effect="italics">n</emphasis>-C<sub>4</sub>H<sub>10</sub>, where <emphasis effect="italics">n</emphasis> denotes <emphasis effect="italics">normal</emphasis> (straight-chain) butane.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="An illustration shows five representations of butane; the first shows four consecutively placed carbon atoms wherein the carbons at the left and right side are bonded to three hydrogen atoms and the three central carbons are shown bonded to two hydrogen atoms; the second representation shows four carbon arranged in a zig zag fashion the carbons at left and right side are bonded to three hydrogen atoms each and the two central carbon atoms are bonded to two hydrogen atoms; the third structure shows a methyl group bonded to two consecutive methylene groups bonded to a methyl group the bonds are separated by bonds; the fourth structure is same as previously described except that the bonds are absent. The fifth structure shows a methyl group bonded to two methylene groups and then bonded to a methyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_02_005.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Some representations of butane, C<sub>4</sub>H<sub>10</sub>.</emphasis> The molecule is the same regardless of how it’s drawn. These structures imply only that butane has a continuous chain of four carbon atoms; they do not imply any specific geometry.</caption>
+    </figure>
+    <para id="para-00008">Straight-chain alkanes are named according to the number of carbon atoms they contain, as shown in <link target-id="table-00002"/>. With the exception of the first four compounds—methane, ethane, propane, and butane—whose names have historical roots, the alkanes are named based on Greek numbers. The suffix -<emphasis effect="italics">ane</emphasis> is added to the end of each name to indicate that the molecule identified is an alkane. Thus, <emphasis effect="italics">pent</emphasis>ane is the five-carbon alkane, <emphasis effect="italics">hex</emphasis>ane is the six-carbon alkane, and so on. We’ll soon see that these alkane names form the basis for naming all other organic compounds, so at least the first ten should be memorized.</para>
+    <table id="table-00002" summary="Alt Text Placeholder">
+    <title>Names of Straight-Chain Alkanes</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Number of carbons (<emphasis effect="italics">n</emphasis>)</entry>
+    <entry valign="top" align="left">Name</entry>
+    <entry valign="top" align="left">Formula (C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>+2</sub>)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">1</entry>
+    <entry valign="top" align="left">Methane</entry>
+    <entry valign="top" align="left">CH<sub>4</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">2</entry>
+    <entry valign="top" align="left">Ethane</entry>
+    <entry valign="top" align="left">C<sub>2</sub>H<sub>6</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">3</entry>
+    <entry valign="top" align="left">Propane</entry>
+    <entry valign="top" align="left">C<sub>3</sub>H<sub>8</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">4</entry>
+    <entry valign="top" align="left">Butane</entry>
+    <entry valign="top" align="left">C<sub>4</sub>H<sub>10</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">5</entry>
+    <entry valign="top" align="left">Pentane</entry>
+    <entry valign="top" align="left">C<sub>5</sub>H<sub>12</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">6</entry>
+    <entry valign="top" align="left">Hexane</entry>
+    <entry valign="top" align="left">C<sub>6</sub>H<sub>14</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">7</entry>
+    <entry valign="top" align="left">Heptane</entry>
+    <entry valign="top" align="left">C<sub>7</sub>H<sub>16</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">8</entry>
+    <entry valign="top" align="left">Octane</entry>
+    <entry valign="top" align="left">C<sub>8</sub>H<sub>18</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">9</entry>
+    <entry valign="top" align="left">Nonane</entry>
+    <entry valign="top" align="left">C<sub>9</sub>H<sub>20</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">10</entry>
+    <entry valign="top" align="left">Decane</entry>
+    <entry valign="top" align="left">C<sub>10</sub>H<sub>22</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">11</entry>
+    <entry valign="top" align="left">Undecane</entry>
+    <entry valign="top" align="left">C<sub>11</sub>H<sub>24</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">12</entry>
+    <entry valign="top" align="left">Dodecane</entry>
+    <entry valign="top" align="left">C<sub>12</sub>H<sub>26</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">13</entry>
+    <entry valign="top" align="left">Tridecane</entry>
+    <entry valign="top" align="left">C<sub>13</sub>H<sub>28</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">20</entry>
+    <entry valign="top" align="left">Icosane</entry>
+    <entry valign="top" align="left">C<sub>20</sub>H<sub>42</sub></entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">30</entry>
+    <entry valign="top" align="left">Triacontane</entry>
+    <entry valign="top" align="left">C<sub>30</sub>H<sub>62</sub></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <example id="exam-00001">
+    <title>Drawing the Structures of Isomers</title>
+    <para id="para-00009">Propose structures for two isomers with the formula C<sub>2</sub>H<sub>7</sub>N.</para>
+    <para id="para-00010"><title><span class="red-text">Strategy</span></title> We know that carbon forms four bonds, nitrogen forms three, and hydrogen forms one. Write down the carbon atoms first, and then use trial and error plus intuition to put the pieces together.</para>
+    <para id="para-00011"><title><span class="cyan-text">Solution</span></title> There are two isomeric structures. One has the connection C–C–N, and the other has the connection C–N–C.
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows formation of two isomeric structures from three individual components. Two carbon atoms having four open bonds one nitrogen with three open bonds (pink) and seven numbers of hydrogen atom having an open bond (green) are shown to give two structures. The first isomer shows two carbons bonded to each other the second carbon is further bonded to nitrogen that is bonded to hydrogen; the carbon at the left is bonded to three hydrogen atoms; the central carbon is bonded to two hydrogen atoms; the nitrogen written in pink shows an upward and a side bond with hydrogen atoms; all hydrogens are shown in green. The second isomer shows a centrally located nitrogen in pink having an upward bond with hydrogen; on either side the nitrogen is bonded to carbons that are further bonded to three hydrogen atoms.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_02_006.jpg"/>
+    </media>
+    </figure></para>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00012"><link class="os-embed" url="#exercise/03-02-OC-P04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00013"><link class="os-embed" url="#exercise/03-02-OC-P05"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00014"><link class="os-embed" url="#exercise/03-02-OC-P06"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+
+</document>

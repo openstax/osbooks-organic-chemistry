@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Conjugate Nucleophilic Addition to α,β‑Unsaturated Aldehydes and Ketones</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Conjugate Nucleophilic Addition to α,β‑Unsaturated Aldehydes and Ketones</md:title>
+    <md:content-id>m00224</md:content-id>
+    <md:uuid>ef872dd5-bdb0-484f-8ead-117a80ef8c90</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">All the reactions we’ve been discussing to this point have involved the addition of a nucleophile directly to the carbonyl group, a so-called <term id="term-00001">1,2-addition</term>. Closely related to this direct addition is the <term id="term-00002">conjugate addition</term>, or <term id="term-00003">1,4-addition</term>, of a nucleophile to the C=C bond of an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehyde or ketone. (The carbon atom next to a carbonyl group is often called the <emphasis effect="italics">α</emphasis> carbon, the next carbon is the <emphasis effect="italics">β</emphasis> carbon, and so on. Thus, an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehyde or ketone has a double bond conjugated with the carbonyl group.) The initial product of conjugate addition is a resonance-stabilized <emphasis effect="italics">enolate ion</emphasis>, which typically undergoes protonation on the <emphasis effect="italics">α</emphasis> carbon to give a saturated aldehyde or ketone product (<link target-id="fig-00001"/>).</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="A two part illustration shows addition reactions. The first reaction labeled as “direct (1 2) addition” shows a carbonyl group reacting with a blue Nu anion having a pair of electrons to form an intermediate in a parentheses that further reacts with a pink hydronium ion to form a product. The carbonyl group shows a blue carbon labeled “1” and pink oxygen labeled “2”; a pink arrow points from carbonyl double bond to the oxygen; another arrow points from Nu anion to the blue carbon of carbonyl group. The intermediate ion shows a blue carbon bonded to a pink oxygen anion at the top left and a blue Nu at the top right; the carbon shows two open bonds at the sides. The product shows a blue carbon bonded to a pink hydroxyl group at the top left and is bonded to a blue Nu at the top right; the carbon shows two open bonds at the sides. The second reaction labeled as “ Conjugate (1 4) addition” shows an alpha beta-Unsaturated aldehyde/ketone reacting with a blue Nu anion having a pair of electrons to form two reversible structure of an enolate ion in a parentheses that further reacts with a pink hydronium ion to form saturated aldehyde/ketone. The alpha beta-unsaturated ketone shows a carbonyl group with a blue carbon “3” and pink oxygen “4” the carbon of carbonyl group shows an open bond on the left; the carbon is bonded to another carbon “2 alpha” on the right which has an open bond at the bottom the carbon is double bonded to a blue carbon&quot;1 beta” having two open bonds. The pink numbering starts from right to left. A pink arrow points from right to left. A pink arrow points from the electrons of blue Nu to the blue carbon “1”; another arrow points from bond between “1” and “2 alpha” to the bond between “2 alpha” and “3”; the third arrow points from the carbonyl double bond to the pink oxygen “4.” The first structure of the enolate ion shows a blue carbon having an open bond on the left and a bond with pink oxygen anion having three pairs of electrons at the top; the blue carbon is double bonded to another carbon having an open bond at the bottom; the carbon is further bonded to a blue carbon with two open bonds at the top; the blue carbon is bonded to a blue Nu on the right. The second structure of the enolate ion shows a blue carbon having an open bond on the left carbon is double bonded to a pink oxygen having two pairs of electrons at the top; the blue carbon is double bonded to a carbon anion having an open bond at the bottom; the carbon is further bonded to a blue carbon with two open bonds at the top and bonded to a blue Nu on the right. The saturated aldehyde/ketone shows a blue carbon having an open bond on the left carbon is double bonded to a pink oxygen at the top; the blue carbon is single bonded to a carbon having an open bond and a bond with pink hydrogen at the bottom; the carbon is further bonded to a blue carbon with two open bonds at the top; the blue carbon is bonded to a blue Nu on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">A comparison of direct (1,2) and conjugate (1,4) nucleophilic addition reactions.</emphasis> In conjugate addition, a nucleophile adds to the <emphasis effect="italics">β</emphasis> carbon of an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehyde or ketone and protonation occurs on the <emphasis effect="italics">α</emphasis> carbon.</caption>
+    </figure>
+    <para id="para-00002">The conjugate addition of a nucleophile to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehyde or ketone is caused by the same electronic factors that are responsible for direct addition. The electronegative oxygen atom of the <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compound withdraws electrons from the <emphasis effect="italics">β</emphasis> carbon, thereby making it electron-poor and more electrophilic than a typical alkene carbon.</para>
+    <figure class="unnumbered" id="fig-00002">
+    <media alt="An illustration shows an electrostatic potential map of an alpha beta-unsaturated aldehyde or ketone along with reversible structures resulting from conjugate addition of a nucleophile. The electrostatic potential map of the alpha beta-unsaturated aldehyde or ketone shows a ball-and-stick model of a 4-carbon chain. C1 is a methyl group. C2 is a keto group. C3 is a methine group. C4 is a methylene group. The aura around oxygen is yellowish to orange; the rest of the image has bluish tinges on the sides and greenish gray tinge at the bottom; a blue arrow points to C2 and another points to C4. The first structure shows a carbonyl group with pink oxygen and blue carbon; the carbon is bonded to another carbon having an open bond at the bottom; the second carbon is double bonded to a blue carbon having two open bonds; an arrow points from double bond of carbonyl group of the oxygen. The second structure shows a blue carbon cation with an open bond on the left being bonded to a pink oxygen anion at the top; the carbon is bonded to another carbon having an open bond at the bottom; the second carbon is double bonded to a blue carbon having two open bonds; an arrow points from double bond between two carbons to the bond between C1 and C2; an arrow labeled as “electrophilic” points to the blue carbon cation. The third structure shows a blue carbon with an open bond on the left being bonded to a pink oxygen anion at the top; the carbon is double bonded to another carbon having an open bond at the bottom; the second carbon is single bonded to a blue carbon cation having two open bonds; an arrow labeled as “electrophilic” points to the blue carbon cation.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">As noted, conjugate addition of a nucleophile to the <emphasis effect="italics">β</emphasis> carbon of an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehyde or ketone leads to an enolate ion intermediate, which is protonated on the <emphasis effect="italics">α</emphasis> carbon to give the saturated product (<link target-id="fig-00001"/>). The net effect is addition of the nucleophile to the C=C bond, with the carbonyl group itself unchanged. In fact, of course, the carbonyl group is crucial to the success of the reaction. Without the carbonyl group, the C=C bond would not be activated for addition, and no reaction would occur.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="A two part illustration shows reaction in two types of bonds. The first part labeled as “activated double bond” shows an alpha beta unsaturated aldehyde or ketone reacting with blue Nu anion having a pair of electrons and a pink hydronium ion to form a saturated product. The unsaturated aldehyde/ketone shows a carbonyl group (pink oxygen) with an open bond on the left bonded to another carbon having an open bond at the bottom; the carbon is double bonded to another carbon having two open bonds. The saturated product shows a carbonyl group having an open bond on the left bonded to another carbon having an open bond that is bonded to a pink hydrogen at the bottom; the carbon is further bonded to a third carbon with two open bonds at the top and bonded to a blue Nu on the right. The second reaction labeled “unactivated double bond” shows an alkene reacting with blue Nu anion with a pair of electrons to shows “no reaction”; the structure of alkene shows a carbon with two open bonds double bonded to another carbon having two open bonds.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_003.jpg"/>
+    </media>
+    </figure>
+    <section id="sect-00001">
+    <title>Conjugate Addition of Amines</title>
+    <para id="para-00004">Both primary and secondary amines add to <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehydes and ketones to yield <emphasis effect="italics">β</emphasis>-amino aldehydes and ketones rather than the alternative imines. Under typical reaction conditions, both modes of addition occur rapidly. But because the reactions are reversible, they generally proceed with thermodynamic control rather than kinetic control (<link document="m00173">Section 14.3</link>), so the more stable conjugate addition product is often obtained with the complete exclusion of the less stable direct addition product.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows two reversible reactions of 2-Cyclohexenone. The first reaction shows 2-cyclohexenone (with pink oxygen) reversibly reacting with blue CH3NH2 to form an intermediate ion that further reversibly forms a beta-amino ketone labeled as “sole product.” The intermediate ion shows a cyclohexene bonded to a pink oxygen anion at the top and to a blue amine group (with nitrogen cation) bonded to a blue methyl group on the basal right position. A beta-amino ketone shows a cyclohexanone with pink oxygen bonded to a blue NHCH3 on the lower right position. The second reaction shows 2-cyclohexenone reversibly reacting with the blue CH3NH2 to form two reversible structure and a water molecule (two blue hydrogens bonded to a pink oxygen) in a parentheses labeled as “not formed.” The first reversible structure shows a cyclohexene bonded to an oxygen anion at the top and the same position is bonded to a blue amine group (with nitrogen cation) bonded to a blue methyl group. The second structure labeled as “an unsaturated imine” shows a cyclohexene double bonded to blue NCH3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_004.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Conjugate Addition of Water</title>
+    <para id="para-00005">Water can add reversibly to <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehydes and ketones to yield <emphasis effect="italics">β</emphasis>-hydroxy aldehydes and ketones, although the position of the equilibrium generally favors unsaturated reactant rather than saturated adduct. Related additions to <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carboxylic acids occur in numerous biological pathways, such as the citric acid cycle of food metabolism in which <emphasis effect="italics">cis</emphasis>-aconitate is converted into isocitrate by conjugate addition of water to a double bond.</para>
+    <figure class="unnumbered scaled-down" id="fig-00005">
+    <media alt="An illustration shows cis-Aconitate reacting with blue water molecule to form Isocitrate. The structure of cis-Aconitate shows a centrally positioned pink carboxylate ion bonded to C3 of a 5-carbon chain at the bottom; C1 shows a carboxylate ion; a double bond is shown between C3 and C4; C5 shows a carboxylate ion. Isocitrate shows a 5-carbon chain wherein C1 shows carboxylate ion; C3 is dash bonded to a pink carboxylate ion and wedge bonded to a blue hydrogen at the top; C4 is dash bonded to a blue hydroxyl group and wedge bonded to a hydrogen; C5 shows a carboxylate ion.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_005.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00003">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00006"><link class="os-embed" url="#exercise/19-13-OC-P20"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section id="sect-00004">
+    <title>Conjugate Addition of Alkyl Groups: Organocopper Reactions</title>
+    <para id="para-00007">The conjugate addition of an alkyl or other organic group to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone (but not aldehyde) is one of the more useful 1,4-addition reactions, just as direct addition of a Grignard reagent is one of the more useful 1,2-additions.</para>
+    <figure class="unnumbered scaled-down" id="fig-00006">
+    <media alt="An illustration shows a reaction wherein an alpha beta-unsaturated ketone reacts with a pink hydronium ion and blue R anion having a pair of electrons to form a product. The alpha beta-unsaturated ketone shows a carbonyl group with a pink oxygen the carbon of carbonyl group shows an open bond on the left; the carbon is bonded to another carbon on the right which has an open bond at the bottom and is double bonded to another carbon having two open bonds. The structure of product shows a carbonyl group with a pink oxygen the carbon of carbonyl group shows an open bond on the left and is bonded to another carbon on the right which is bonded to a pink hydrogen and shows an open bond at the bottom the carbon is bonded to another carbon having two open bonds at the top and a side bond with blue R.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_006.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00008">Conjugate addition of an organic group is carried out by treating the <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone with a lithium diorganocopper reagent, R<sub>2</sub>CuLi. As we saw in <emphasis effect="bold"><link document="m00119">Section 10.7</link></emphasis>, lithium diorganocopper (Gilman) reagents are prepared by reaction between 1 equivalent of copper(I) iodide and 2 equivalents of an organolithium regent, RLi. The organolithium reagent, in turn, is formed by reaction of lithium metal with an organohalide in the same way that a Grignard reagent is prepared by reaction of magnesium metal with an organohalide.</para>
+    <figure class="unnumbered scaled-down" id="fig-00007">
+    <media alt="A two part illustration shows two reactions of conjugate addition of an organic group. The first reaction shows RX (pink R) reacting with 2 moles of blue lithium and pentane to for RLi (pink R bonded to blue lithium) and Li cation bonded to X anion. The second reaction shows 2 moles of RLi (pink R) reacting with blue copper iodide and ether to form lithium diorganocopper (Gilman reagent) comprising of a lithium cation bonded to a complex having pink R bonded to blue copper anion bonded to pink R and another product having lithium cation bonded to iodine anion.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_007.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00009">Primary, secondary, and even tertiary alkyl groups undergo the conjugate addition reaction, as do aryl and alkenyl groups. Alkynyl groups, however, react poorly in the conjugate addition process. Diorganocopper reagents are unique in their ability to give conjugate addition products. Other organometallic reagents, such as Grignard reagents and organolithiums, normally result in direct carbonyl addition on reaction with <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketones.</para>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="An illustration shows two reactions for a common reactant. The first reaction shows 2-cyclohexenone (with pink oxygen) reacting with blue methyl magnesium bromide ether or blue CH3Li to form 1-Methyl-2-cyclohexen-1-ol (95%). 1-methyl-2-cyclohexen-1-ol shows a cyclohexene bonded to a pink hydroxyl group and blue methyl group at C2. The second reaction shows 2-cyclohexenone (with pink oxygen) reacting with blue Li(CH3)2Cu ether and pink hydronium ion to form 3-Methylcyclohexanone (97%). The structure of 3-Methylcyclohexanone shows cyclohexanone (pink oxygen) bonded to a blue methyl group at C3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_008.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00010">The mechanism of this reaction is thought to involve conjugate nucleophilic addition of the diorganocopper anion, <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:msup><m:mrow><m:mtext>Cu</m:mtext></m:mrow><m:mo>–</m:mo></m:msup></m:mrow></m:math>, to the unsaturated ketone to give a copper-containing intermediate. Transfer of an R group from copper to carbon, followed by elimination of a neutral organocopper species, RCu, gives the final product.</para>
+    <figure class="unnumbered" id="fig-00009">
+    <media alt="An illustration shows a reaction wherein an unsaturated ketone reacts with a compound having a blue lithium cation bonded to R2Cu anion to form a copper containing intermediate which forms blue Rcu and an anion; the intermediate product further reacts with pink hydronium ion to form the final product. The unsaturated ketone shows a carbonyl group (pink oxygen) with an open bond on the left bonded to a second carbon that shows a free bond at the bottom and is double bonded to a third carbon having two open bonds. The first intermediate shows a carbon bonded to an open bond on the left the carbon is bonded to a pink oxygen anion at the top; the carbon is double bonded to a second carbon that shows an open bond at the bottom; the second carbon is bonded to a third carbon having two open bonds at the top; the third carbon is bonded to a blue copper bonded to two blue R; the second intermediate is similar to the first intermediate but C3 shows two free bonds and is bonded to blue R. The final product shows a carbonyl group (pink oxygen) with an open bond on the left bonded to a second carbon that shows a free bond and bonded to a pink hydrogen at the bottom. The second carbon is bonded to third carbon that shows two bonds at the top. The third carbon is bonded to a blue R on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_009.jpg"/>
+    </media>
+    </figure>
+    <example id="exam-00001">
+    <title>Using a Conjugate Addition Reaction</title>
+    <para id="para-00011">How might you use a conjugate addition reaction to prepare 2-methyl-3- propylcyclopentanone?</para>
+    <figure class="unnumbered scaled-down" id="fig-00010">
+    <media alt="An illustration shows the structure of 2-Methyl-3-propylcyclopentane. It shows a cyclopentane with C1 double bonded to an oxygen C2 bonded to a methyl group and C3 bonded to a propyl group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_010.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012"><title><span class="red-text">Strategy</span></title> A ketone with a substituent group in its <emphasis effect="italics">β</emphasis> position might be prepared by a conjugate addition of that group to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone. In the present instance, the target molecule has a propyl substituent on the <emphasis effect="italics">β</emphasis> carbon and might therefore be prepared from 2-methyl-2-cyclopentenone by reaction with lithium dipropylcopper.</para>
+    <para id="para-00013"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down" id="fig-00011">
+    <media alt="An illustration shows a reaction wherein 2-Methyl-2-cyclopentenone reacts with blue lithium dipropylcopper ether and hydronium ion and forms 2-Methyl-3-propylcylopentanone. 2-Methyl-2-cyclopentenone shows a cyclopentenone (pink oxygen) bonded to a methyl group at C2. 2-Methyl-3-propylcylopentanone shows cyclopentanone bonded to a methyl group at C2 and a blue propyl group at C3.">
+    <image mime-type="image/jpeg" src="../../media/OChem_19_13_011.jpg"/>
+    </media>
+    </figure>
+    </example>
+    </section>
+    <section class="section-exercises" id="sect-00005">
+    <title>Problems</title>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00014"><link class="os-embed" url="#exercise/19-13-OC-P21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00015"><link class="os-embed" url="#exercise/19-13-OC-P22"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

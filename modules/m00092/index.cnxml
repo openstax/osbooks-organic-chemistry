@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Hydration of Alkenes: Addition of H<sub>2</sub>O by Oxymercuration</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Hydration of Alkenes: Addition of H2O by Oxymercuration</md:title>
+    <md:content-id>m00092</md:content-id>
+    <md:uuid>fceb712e-0e9f-46b2-bd08-338d0c6c831b</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Water adds to alkenes to yield alcohols, a process called hydration. The reaction takes place on treatment of the alkene with water and a strong acid catalyst, such as H<sub>2</sub>SO<sub>4</sub>, by a mechanism similar to that of HX addition. Thus, as shown in <link target-id="fig-00001"/>, protonation of an alkene double bond yields a carbocation intermediate, which reacts with water to yield a protonated alcohol product, <m:math><m:mrow><m:msub><m:mrow><m:mtext>ROH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math>. Loss of H<sup>+</sup> from this protonated alcohol gives the neutral alcohol and regenerates the acid catalyst.</para>
+    <figure class="mechanism-figure scaled-down" id="fig-00001">
+    <title>MECHANISM</title>
+    <media alt="An illustration shows the mechanism for the conversion of 2-Methylpropene to 2-Methyl-2-propanol. Curved pink arrows indicate the direction of electron transfer. In Step 1 an arrow points from the carbon-carbon double bond to a hydrogen on a hydronium ion where oxygen has a positive charge; another arrow points from the bond between that hydrogen and oxygen to the oxygen. The carbocation intermediate formed shows C-2 with a positive charge and a C–H bond between C-1 and the hydrogen of the hydronium ion. p-orbitals above and below the positively charged carbon are represented by the characteristic dumb-bell shape shaded pink and blue. An arrow points from the oxygen which has two electron pairs of the water molecule to the positively charged carbon. In Step 2 a protonated alcohol addition product is formed with a bond forming between oxygen of the water molecule and C-1; the oxygen acquires a positive charge. A pink arrow points from an oxygen which has two electron pairs of another water molecule to a hydrogen of the water bonded to C-1. Another arrow points from that hydrogen to the positively charged oxygen. In Step 3 2-Methyl-2-propanol and hydronium ion are formed after deprotonation of the water molecule bonded to C-1. The oxygen atoms and the hydrogen atoms of water are highlighted in pink and blue respectively.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_04_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Mechanism of the acid-catalyzed hydration of an alkene to yield an alcohol.</emphasis> Protonation of the alkene gives a carbocation intermediate, which reacts with water. The initial product is then deprotonated.</caption>
+    </figure>
+    <para id="para-00002">Most ethanol throughout the world is now made by fermentation of biological precursors, such as corn and sugar, but acid-catalyzed alkene hydration is particularly suited to large-scale industrial procedures, and approximately 90,000 tons of ethanol is manufactured each year in the United States by hydration of ethylene. The reaction is of little value in the laboratory, however, because it requires high temperatures—250 °C in the case of ethylene—and strongly acidic conditions.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows a chemical reaction. It shows the hydration of ethylene represented by a methanediyl group bonded to another by a double bond in the presence of phosphoric acid catalyst to give ethanol represented by a hydroxyl group bonded to an ethyl residue at 250 degree Celsius. The water molecule highlighted in pink is the source of the hydroxyl group also highlighted in pink in the product.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_04_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00003">Acid-catalyzed hydration of double bonds is also uncommon in biological pathways. Instead, biological hydrations usually require that the double bond be adjacent to a carbonyl group for reaction to proceed. Fumarate, for instance, is hydrated to give malate as one step in the citric acid cycle of food metabolism. Note that the requirement for an adjacent carbonyl group in the addition of water is the same as in <link document="m00089"/> for the elimination of water. We’ll see the reason for this requirement in Section 19.13, but will note for now that the reaction is not an electrophilic addition but instead occurs through a mechanism that involves formation of an anion intermediate followed by protonation by an acid HA.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows a chemical reaction. It shows the hydration of fumarate by fumarase at pH 7.4 to an anion intermediate which undergoes protonation by acid HA to form malate. Fumarate shows a carboxylate ion bonded to a carbon that is bonded to by a double bond to another carbon which is also bonded to a carboxylate ion; the second and third carbon atoms are also bonded to a hydrogen atom each. In the intermediate the second carbon shows a negative charge with a pair of electrons; a single bond replaces the double bond. Malate shows a carbon bonded to a hydrogen atom a hydroxyl group a carboxylate ion and to a methylene group that is further bonded to a carboxylate ion. The hydroxyl group on C-2 and the additional hydrogen atom on C-1 come from the water molecule all highlighted in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_04_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">When it comes to circumventing problems like those with acid-catalyzed alkene hydrations, laboratory chemists have a great advantage over the cellular “chemists” in living organisms. Laboratory chemists are not constrained to carry out their reactions in water solution; they can choose from any of a large number of solvents. Laboratory reactions don’t need to be carried out at a fixed temperature; they can take place over a wide range of temperatures. And laboratory reagents aren’t limited to containing carbon, oxygen, nitrogen, and a few other elements; they can contain any element in the periodic table.</para>
+    <para id="para-00005">In the laboratory, alkenes are often hydrated by the <term id="term-00001">oxymercuration–demercuration</term> procedure, which involves electrophilic addition of Hg<sup>2+</sup> to the alkene on reaction with mercury(II) acetate [(CH<sub>3</sub>CO<sub>2</sub>)<sub>2</sub>Hg. The intermediate organomercury compound is then treated with sodium borohydride, NaBH<sub>4</sub>, and demercuration occurs to produce an alcohol. For example:</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a chemical reaction. It shows the conversion of 1-Methylcyclopentene which shows cyclopentene with a methyl group on C-1 to 92 percent 1-Methylcyclopentanol which shows a hydroxyl group also bonded to C-1. In the first step 1-Methylcyclopentene reacts with mercury (II) acetate in aqueous tetrahydrofuran (highlighted in pink) to form an intermediate which in the second step forms 1-Methylcyclopentanol on treatment with sodium borohydride.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_04_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">Alkene oxymercuration is closely analogous to halohydrin formation. The reaction is initiated by electrophilic addition of Hg<sup>2+</sup> (mercuric) ion to the alkene to give an intermediate <emphasis effect="italics">mercurinium ion</emphasis>, whose structure resembles that of a bromonium ion (<link target-id="fig-00005"/>). Nucleophilic addition of water as in halohydrin formation, followed by the loss of a proton, then yields a stable organomercury product. The final step, demercuration of the organomercury compound by reaction with sodium borohydride, is complex and involves radicals. Note that the regiochemistry of the reaction corresponds to Markovnikov addition of water; that is, the −OH group attaches to the more highly substituted carbon atom, and the −H attaches to the less highly substituted carbon. The hydrogen that replaces mercury in the demercuration step can attach from either side of the molecule depending on the exact circumstances.</para>
+    <figure id="fig-00005">
+    <media alt="An illustration shows the oxymercuration of 1-Methylcyclopentene which shows cyclopentene with a methyl group bonded to C-1 to 92 percent 1-Methylcyclopentanol which shows a hydroxyl group also bonded to C-1. In the first step addition of mercury (II) acetate form a mercurinium ion which shows a three-membered ring with a positively charged Hg bonded to an acetoxy group. In the second step the mercurinium ion reacts with water leading to ring opening. A hydroxyl group is attached to the more substituted carbon (C-1); the acetoxymercury group is in trans to the hydroxyl group. In the third step the organomercury compound reacts with sodium borohydride to form 1-Methylcyclopentanol. A hydrogen from sodium borohydride attaches to the less substituted carbon resulting in demercuration.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_04_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Mechanism of the oxymercuration of an alkene to yield an alcohol.</emphasis> (<emphasis effect="bold"><span class="magenta-text">1</span></emphasis>) Electrophilic addition of Hg<sup>2+</sup> gives a mercurinium ion, which (<emphasis effect="bold"><span class="magenta-text">2</span></emphasis>) reacts with water as in halohydrin formation. Loss of a proton gives an organomercury product, and (<emphasis effect="bold"><span class="magenta-text">3</span></emphasis>) reaction with NaBH<sub>4</sub> removes the mercury. The product of the reaction is a more highly substituted alcohol, corresponding to Markovnikov regiochemistry.</caption>
+    </figure>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/08-04-OC-P07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/08-04-OC-P08"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

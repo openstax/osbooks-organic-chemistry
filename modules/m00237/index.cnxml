@@ -1,0 +1,440 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Spectroscopy of Carboxylic Acids and Nitriles</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Spectroscopy of Carboxylic Acids and Nitriles</md:title>
+    <md:content-id>m00237</md:content-id>
+    <md:uuid>d7d6da70-d515-45ee-94b5-656bc16b04b5</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+      <title>Infrared Spectroscopy</title>
+      <para id="para-00001">Carboxylic acids have two characteristic IR absorptions that make the –CO<sub>2</sub>H group easily identifiable. The O–H bond of the carboxyl group gives rise to a very broad absorption over the range 2500 to 3300 cm<sup>–1</sup>. The C═O bond shows an absorption between 1710 and 1760 cm<sup>–1</sup>. The exact position of C═O absorption depends both on the structure of the molecule and on whether the acid is free (monomeric) or hydrogen-bonded (dimeric). Free carboxyl groups absorb at 1760 cm<sup>–1</sup>, but the more commonly encountered dimeric carboxyl groups absorb in a broad band centered around 1710 cm<sup>–1</sup>. As with other carbonyl-containing functional groups, conjugation with an alkene or benzene ring lowers the frequency of the C═O stretch by 20 to 30 cm<sup>–1</sup>.</para>
+      <figure class="unnumbered scaled-down" id="fig-00001">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_08_001.jpg"/>
+      </media>
+      </figure>
+      <para id="para-00002">Both the broad O–H absorption and the C═O absorption at 1710 cm<sup>–1</sup> (dimeric) are identified in the IR spectrum of butanoic acid shown in <link target-id="fig-00002"/>.</para>
+      <figure class="scaled-down" id="fig-00002">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_08_002.jpg"/>
+      </media>
+      <caption><emphasis effect="bold">IR spectrum of butanoic acid, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub>H.</emphasis></caption>
+      </figure>
+      <para id="para-00003">Nitriles show an intense and easily recognizable <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond absorption near 2250 cm<sup>–1</sup> for saturated compounds and 2230 cm<sup>–1</sup> for aromatic and conjugated molecules. Few other functional groups absorb in this region, so IR spectroscopy is highly diagnostic for nitriles.</para>
+      </section>
+      <section class="section-exercises" id="sect-00002">
+      <title>Problems</title>
+      <exercise id="exer-00001">
+      <problem id="prob-00001">
+      <para id="para-00004"><link class="os-embed" url="#exercise/20-08-OC-P15"/></para>
+      </problem>
+      </exercise>
+      </section>
+      <section id="sect-00003">
+      <title>Nuclear Magnetic Resonance Spectroscopy</title>
+      <para id="para-00005">Carboxyl carbon atoms absorb in the range 165 to 185 <emphasis effect="italics">δ</emphasis> in the <sup>13</sup>C NMR spectrum, with aromatic and <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated acids near the upfield end of the range (∼165 <emphasis effect="italics">δ</emphasis>) and saturated aliphatic acids near the downfield end (∼185 <emphasis effect="italics">δ</emphasis>). Nitrile carbons absorb in the range 115 to 130 <emphasis effect="italics">δ</emphasis>.</para>
+      <figure class="unnumbered scaled-down" id="fig-00003">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_08_003.jpg"/>
+      </media>
+      </figure>
+      <para id="para-00006">In the <sup>1</sup>H NMR spectrum, the acidic –CO<sub>2</sub><emphasis effect="bold"><span class="magenta-text">H</span></emphasis> proton normally absorbs as a singlet near 12 <emphasis effect="italics">δ</emphasis>. The chemical shift of the carboxyl proton is concentration and solvent dependent, as these variables can change the extent of hydrogen-bonding in the sample. In some cases, the carboxyl-proton resonance is broadened to the point of being nearly undetectable. Traces of water in the sample can exacerbate the situation. As with alcohols (<link document="m00210">Section 17.11</link>), the –CO<sub>2</sub>H proton can be replaced by deuterium when D<sub>2</sub>O is added to the sample tube, causing the absorption to disappear from the NMR spectrum. <link target-id="fig-00004"/> shows the <sup>1</sup>H NMR spectrum of phenylacetic acid. Note that the –CO<sub>2</sub>H absorption occurs at 12.0 <emphasis effect="italics">δ</emphasis>.</para>
+      <figure class="scaled-down" id="fig-00004">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_08_004.jpg"/>
+      </media>
+      <caption><emphasis effect="bold">Proton NMR spectrum of phenylacetic acid, C<sub>6</sub>H<sub>5</sub>CH<sub>2</sub>CO<sub>2</sub>H.</emphasis></caption>
+      </figure>
+      </section>
+      <section class="section-exercises" id="sect-00004">
+      <title>Problems</title>
+      <exercise id="exer-00002">
+      <problem id="prob-00002">
+      <para id="para-00007"><link class="os-embed" url="#exercise/20-08-OC-P16"/></para>
+      </problem>
+      </exercise>
+      </section>
+      <section class="chemistry-matters" id="sect-00005">
+      <title>Vitamin C</title>
+      <para id="para-00008">The word <emphasis effect="italics">vitamin,</emphasis> despite its common usage, is actually an imprecise term. Generally speaking, a vitamin is an organic substance that a given organism requires in small amounts to live and grow but is unable to synthesize and must obtain in its diet. Thus, to be considered a vitamin, only a <emphasis effect="italics">small</emphasis> amount of the substance is needed—anywhere from a few micrograms to 100 mg or so per day. Dietary substances needed in larger amounts, such as some amino acids and unsaturated fats, are not considered vitamins.</para>
+      <figure class="scaled-down-30" id="fig-00005">
+      <media alt="Photo shows a sailing ship in the Antarctic trapped in pack ice.">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_98_Ship.jpg"/>
+      </media>
+      <caption>In addition to the hazards of weather, participants in early polar expeditions often suffered from scurvy, caused by a dietary vitamin C deficiency. (credit: “Shackleton’s expedition to the Antarctic last moments of the Endurance” by Underwood &amp; Underwood/Wikimedia Commons, Public Domain)</caption>
+      </figure>
+      <para id="para-00009">Furthermore, different organisms need different vitamins. More than 4000 species of mammals can synthesize ascorbic acid in their bodies, for instance, but humans are not among them. Ascorbic acid is therefore a human vitamin—what we all know as vitamin C—and must be provided by our diet. Small amounts of more than a dozen other substances are similarly required by humans: retinol (vitamin A), thiamine (vitamin B<sub>1</sub>), and tocopherol (vitamin E), for instance.</para>
+      <para id="para-00010">Vitamin C is surely the best known of all human vitamins. It was the first to be discovered (1928), the first to be structurally characterized (1933), and the first to be synthesized in the laboratory (1933). Over 121,000 tons of vitamin C is synthesized worldwide each year, more than the total amount of all other vitamins combined. In addition to its use as a supplement, vitamin C is used as a food preservative, a “flour improver” in bakeries, and an animal-food additive.</para>
+      <figure class="unnumbered scaled-down" id="fig-00006">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_08_006.jpg"/>
+      </media>
+      </figure>
+      <para id="para-00011">Vitamin C is perhaps most well-known for its antiscorbutic properties, meaning that it prevents the onset of scurvy, a bleeding disease affecting those with a deficiency of fresh vegetables and citrus fruits in their diet. Sailors in the Age of Exploration were particularly susceptible to scurvy, and the death toll was high. The Portuguese explorer Vasco da Gama lost more than half his crew to scurvy during his two-year voyage around the Cape of Good Hope in 1497–1499.</para>
+      <para id="para-00012">More recently, large doses of vitamin C have been claimed to prevent the common cold, cure infertility, delay the onset of symptoms in acquired immunodeficiency syndrome (AIDS), and inhibit the development of gastric and cervical cancers. None of these claims have been backed by medical evidence, however. In the largest study yet of the effect of vitamin C on the common cold, a meta-analysis of more than 100 separate trials covering 40,000 people found no difference in the incidence of colds between those who took supplemental vitamin C regularly and those who did not. When taken <emphasis effect="italics">during</emphasis> a cold, however, vitamin C does appear to decrease the cold’s duration by perhaps a day.</para>
+      <para id="para-00013">The industrial preparation of vitamin C involves an unusual blend of biological and laboratory organic chemistry, beginning with glucose and following the five-step route shown in <link target-id="fig-00007"/>. Glucose, a pentahydroxy aldehyde, is first reduced to sorbitol, which is then oxidized by the microorganism <emphasis effect="italics">Acetobacter suboxydans.</emphasis> No chemical reagent is known that is selective enough to oxidize only one of the six alcohol groups in sorbitol, so an enzymatic reaction is used. Treatment with acetone and an acid catalyst then converts four of the other hydroxyl groups into acetal linkages, and the remaining hydroxyl group is chemically oxidized to a carboxylic acid by reaction with aqueous NaOCl (household bleach). Hydrolysis with acid then removes the two acetal groups and causes an internal ester-forming reaction to give ascorbic acid. Each of the five steps has a yield better than 90%.</para>
+      <figure id="fig-00007">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_08_007.jpg"/>
+      </media>
+      <caption><emphasis effect="bold">The industrial synthesis of ascorbic acid from glucose.</emphasis></caption>
+      </figure>
+      </section>
+      <section class="key-terms" id="sect-00006">
+      <list id="list-00001">
+  <item><link document="m00230" target-id="term-00001">carboxyl group</link></item>
+  <item><link document="m00234" target-id="term-00001">carboxylation</link></item>
+  <item><link document="m00229" target-id="term-00001">carboxylic acid, RCO<sub>2</sub>H</link></item>
+  <item>[link]Henderson–Hasselbalch equation[/link]</item>
+  <item><link document="m00230" target-id="term-00002">nitrile</link></item>
+      </list>
+      </section>
+      <section class="summary" id="sect-00007">
+      <title>Summary</title>
+      <para id="para-00014"><emphasis effect="bold">Carboxylic acids</emphasis> are among the most useful building blocks for synthesizing other molecules, both in nature and in the laboratory. Thus, an understanding of their properties and reactions is fundamental to understanding biological chemistry. In this chapter, we’ve looked both at acids and at their close relatives, <emphasis effect="bold">nitriles (<m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>RC≡N</m:mtext></m:mstyle></m:mrow></m:math>)</emphasis>.</para>
+      <para id="para-00015">Carboxylic acids are named systematically by replacing the terminal -<emphasis effect="italics">e</emphasis> of the corresponding alkane name with -<emphasis effect="italics">oic acid.</emphasis> Like aldehydes and ketones, the carbonyl carbon atom is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized; like alcohols, carboxylic acids are associated through hydrogen-bonding and therefore have high boiling points.</para>
+      <para id="para-00016">The distinguishing characteristic of carboxylic acids is their acidity. Although weaker than mineral acids such as HCl, carboxylic acids dissociate much more readily than alcohols because the resultant carboxylate ions are stabilized by resonance between two equivalent forms.</para>
+      <para id="para-00017">Most carboxylic acids have p<emphasis effect="italics">K</emphasis><sub>a</sub> values near 5, but the exact p<emphasis effect="italics">K</emphasis><sub>a</sub> of a given acid depends on structure. Carboxylic acids substituted by electron-withdrawing groups are more acidic (have a lower p<emphasis effect="italics">K</emphasis><sub>a</sub>) because their carboxylate ions are stabilized. Carboxylic acids substituted by electron-donating groups are less acidic (have a higher p<emphasis effect="italics">K</emphasis><sub>a</sub>) because their carboxylate ions are destabilized. The extent of dissociation of a carboxylic acid in a buffered solution of a given pH can be calculated with the Henderson–Hasselbalch equation. Inside living cells, where the physiological pH = 7.3, carboxylic acids are entirely dissociated and exist as their carboxylate anions.</para>
+      <para id="para-00018">Methods of synthesis for carboxylic acids include (<emphasis effect="bold">1</emphasis>) oxidation of alkylbenzenes, (<emphasis effect="bold">2</emphasis>) oxidation of primary alcohols or aldehydes, (<emphasis effect="bold">3</emphasis>) reaction of Grignard reagents with CO<sub>2</sub> <emphasis effect="bold">(carboxylation)</emphasis>, and (<emphasis effect="bold">4</emphasis>) hydrolysis of nitriles. General reactions of carboxylic acids include (<emphasis effect="bold">1</emphasis>) loss of the acidic proton, (<emphasis effect="bold">2</emphasis>) nucleophilic acyl substitution at the carbonyl group, (<emphasis effect="bold">3</emphasis>) substitution on the <emphasis effect="italics">α</emphasis> carbon, and (<emphasis effect="bold">4</emphasis>) reduction.</para>
+      <para id="para-00019">Nitriles are similar in some respects to carboxylic acids and are prepared either by S<sub>N</sub>2 reaction of an alkyl halide with cyanide ion or by dehydration of an amide. Nitriles undergo nucleophilic addition to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond in the same way that carbonyl compounds do. The most important reactions of nitriles are their hydrolysis to carboxylic acids, reduction to primary amines, and reaction with Grignard reagents to yield ketones.</para>
+      <para id="para-00020">Carboxylic acids and nitriles are easily distinguished spectroscopically. Acids show a characteristic IR absorption at 2500 to 3300 cm<sup>–1</sup> due to the O−H bond and another at 1710 to 1760 cm<sup>–1</sup> due to the C=O bond; nitriles have an absorption at 2250 cm<sup>–1</sup>. Acids also show <sup>13</sup>C NMR absorptions at 165 to 185 <emphasis effect="italics">δ</emphasis> and <sup>1</sup>H NMR absorptions near 12 <emphasis effect="italics">δ</emphasis>. Nitriles have a <sup>13</sup>C NMR absorption in the range 115 to 130 <emphasis effect="italics">δ</emphasis>.</para>
+      </section>
+      <section class="summary-reactions" id="sect-00008">
+      <title>Summary of Reactions</title>
+      <list list-type="enumerated" id="list-00002">
+      <item>Preparation of carboxylic acids (<link document="m00234">Section 20.5</link>)
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+      <item>Carboxylation of Grignard reagents<newline/>
+      <figure class="unnumbered scaled-down-30" id="fig-00008">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_001.jpg"/>
+      </media>
+      </figure></item>
+      <item>Hydrolysis of nitriles<newline/>
+      <figure class="unnumbered scaled-down-30" id="fig-00009">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_002.jpg"/>
+      </media>
+      </figure></item></list>
+      </item>
+      <item>Preparation of nitriles (<link document="m00236">Section 20.7</link>)
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+      <item>S<sub>N</sub>2 reaction of alkyl halides<newline/>
+      <figure class="unnumbered scaled-down-30" id="fig-00010">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_003.jpg"/>
+      </media>
+      </figure></item>
+      <item>Dehydration of amides<newline/>
+      <figure class="unnumbered scaled-down" id="fig-00011">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_004.jpg"/>
+      </media>
+      </figure></item></list>
+      </item>
+      <item>Reactions of nitriles (<link document="m00236">Section 20.7</link>)
+      <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
+      <item>Hydrolysis to yield carboxylic acids<newline/>
+      <figure class="unnumbered scaled-down-30" id="fig-00012">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_005.jpg"/>
+      </media>
+      </figure></item>
+      <item>Reduction to yield primary amines<newline/>
+      <figure class="unnumbered scaled-down-30" id="fig-00013">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_006.jpg"/>
+      </media>
+      </figure></item>
+      <item>Reaction with Grignard reagents to yield ketones<newline/>
+      <figure class="unnumbered scaled-down-30" id="fig-00014">
+      <media alt="Alt Text Placeholder">
+      <image mime-type="image/jpeg" src="../../media/OChem_20_EC_007.jpg"/>
+      </media>
+      </figure></item></list>
+      </item>
+      </list>
+      </section>
+      <section class="additional-problems" id="sect-00009">
+        <title>Additional Problems</title>
+        <para id="para-00021"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+        <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00022"><link class="os-embed" url="#exercise/20-99-OC-VC01"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00023"><link class="os-embed" url="#exercise/20-99-OC-VC02"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00005">
+        <problem id="prob-00005">
+        <para id="para-00024"><link class="os-embed" url="#exercise/20-99-OC-VC03"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00006">
+        <problem id="prob-00006">
+        <para id="para-00025"><link class="os-embed" url="#exercise/20-99-OC-VC04"/></para>
+        </problem>
+        </exercise>
+        <para id="para-00026"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
+        <exercise id="exer-00007">
+        <problem id="prob-00007">
+        <para id="para-00027"><link class="os-embed" url="#exercise/20-99-OC-MP01"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00008">
+        <problem id="prob-00008">
+        <para id="para-00028"><link class="os-embed" url="#exercise/20-99-OC-MP02"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00009">
+        <problem id="prob-00009">
+        <para id="para-00029"><link class="os-embed" url="#exercise/20-99-OC-MP03"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00010">
+        <problem id="prob-00010">
+        <para id="para-00030"><link class="os-embed" url="#exercise/20-99-OC-MP04"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00011">
+        <problem id="prob-00011">
+        <para id="para-00031"><link class="os-embed" url="#exercise/20-99-OC-MP05"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00012">
+        <problem id="prob-00012">
+        <para id="para-00032"><link class="os-embed" url="#exercise/20-99-OC-MP06"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00013">
+        <problem id="prob-00013">
+        <para id="para-00033"><link class="os-embed" url="#exercise/20-99-OC-MP07"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00014">
+        <problem id="prob-00014">
+        <para id="para-00034"><link class="os-embed" url="#exercise/20-99-OC-MP08"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00015">
+        <problem id="prob-00015">
+        <para id="para-00035"><link class="os-embed" url="#exercise/20-99-OC-MP09"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00016">
+        <problem id="prob-00016">
+        <para id="para-00036"><link class="os-embed" url="#exercise/20-99-OC-MP10"/></para>
+        </problem>
+        </exercise>
+        <para id="para-00037"><emphasis effect="bold"><span class="red-text">Naming Carboxylic Acids and Nitriles</span></emphasis></para>
+        <exercise id="exer-00017">
+        <problem id="prob-00017">
+        <para id="para-00038"><link class="os-embed" url="#exercise/20-99-OC-AP01"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00018">
+        <problem id="prob-00018">
+        <para id="para-00039"><link class="os-embed" url="#exercise/20-99-OC-AP02"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00019">
+        <problem id="prob-00019">
+        <para id="para-00040"><link class="os-embed" url="#exercise/20-99-OC-AP03"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00020">
+        <problem id="prob-00020">
+        <para id="para-00041"><link class="os-embed" url="#exercise/20-99-OC-AP04"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00021">
+        <problem id="prob-00021">
+        <para id="para-00042"><link class="os-embed" url="#exercise/20-99-OC-AP05"/></para>
+        </problem>
+        </exercise>
+        <para id="para-00043"><emphasis effect="bold"><span class="red-text">Acidity of Carboxylic Acids</span></emphasis></para>
+        <exercise id="exer-00022">
+        <problem id="prob-00022">
+        <para id="para-00044"><link class="os-embed" url="#exercise/20-99-OC-AP06"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00023">
+        <problem id="prob-00023">
+        <para id="para-00045"><link class="os-embed" url="#exercise/20-99-OC-AP07"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00024">
+        <problem id="prob-00024">
+        <para id="para-00046"><link class="os-embed" url="#exercise/20-99-OC-AP08"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00025">
+        <problem id="prob-00025">
+        <para id="para-00047"><link class="os-embed" url="#exercise/20-99-OC-AP09"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00026">
+        <problem id="prob-00026">
+        <para id="para-00048"><link class="os-embed" url="#exercise/20-99-OC-AP10"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00027">
+        <problem id="prob-00027">
+        <para id="para-00049"><link class="os-embed" url="#exercise/20-99-OC-AP11"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00028">
+        <problem id="prob-00028">
+        <para id="para-00050"><link class="os-embed" url="#exercise/20-99-OC-AP12"/></para>
+        </problem>
+        </exercise>
+        <para id="para-00051"><emphasis effect="bold"><span class="red-text">Reactions of Carboxylic Acids and Nitriles</span></emphasis></para>
+        <exercise id="exer-00029">
+        <problem id="prob-00029">
+        <para id="para-00052"><link class="os-embed" url="#exercise/20-99-OC-AP13"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00030">
+        <problem id="prob-00030">
+        <para id="para-00053"><link class="os-embed" url="#exercise/20-99-OC-AP14"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00031">
+        <problem id="prob-00031">
+        <para id="para-00054"><link class="os-embed" url="#exercise/20-99-OC-AP15"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00032">
+        <problem id="prob-00032">
+        <para id="para-00055"><link class="os-embed" url="#exercise/20-99-OC-AP16"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00033">
+        <problem id="prob-00033">
+        <para id="para-00056"><link class="os-embed" url="#exercise/20-99-OC-AP17"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00034">
+        <problem id="prob-00034">
+        <para id="para-00057"><link class="os-embed" url="#exercise/20-99-OC-AP18"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00035">
+        <problem id="prob-00035">
+        <para id="para-00058"><link class="os-embed" url="#exercise/20-99-OC-AP19"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00036">
+        <problem id="prob-00036">
+        <para id="para-00059"><link class="os-embed" url="#exercise/20-99-OC-AP20"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00037">
+        <problem id="prob-00037">
+        <para id="para-00060"><link class="os-embed" url="#exercise/20-99-OC-AP21"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00038">
+        <problem id="prob-00038">
+        <para id="para-00061"><link class="os-embed" url="#exercise/20-99-OC-AP22"/></para>
+        </problem>
+        </exercise>
+        <para id="para-00062"><emphasis effect="bold"><span class="red-text">Spectroscopy</span></emphasis></para>
+        <exercise id="exer-00039">
+        <problem id="prob-00039">
+        <para id="para-00063"><link class="os-embed" url="#exercise/20-99-OC-AP23"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00040">
+        <problem id="prob-00040">
+        <para id="para-00064"><link class="os-embed" url="#exercise/20-99-OC-AP24"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00041">
+        <problem id="prob-00041">
+        <para id="para-00065"><link class="os-embed" url="#exercise/20-99-OC-AP25"/></para>
+        </problem>
+        </exercise>
+        <exercise id="exer-00042">
+        <problem id="prob-00042">
+        <para id="para-00066"><link class="os-embed" url="#exercise/20-99-OC-AP26"/></para>
+        </problem>
+        </exercise>
+        <para id="para-00067"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00043">
+    <problem id="prob-00043">
+    <para id="para-00068"><link class="os-embed" url="#exercise/20-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00044">
+    <problem id="prob-00044">
+    <para id="para-00069"><link class="os-embed" url="#exercise/20-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00045">
+    <problem id="prob-00045">
+    <para id="para-00070"><link class="os-embed" url="#exercise/20-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00046">
+    <problem id="prob-00046">
+    <para id="para-00071"><link class="os-embed" url="#exercise/20-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00047">
+    <problem id="prob-00047">
+    <para id="para-00072"><link class="os-embed" url="#exercise/20-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00048">
+    <problem id="prob-00048">
+    <para id="para-00073"><link class="os-embed" url="#exercise/20-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00049">
+    <problem id="prob-00049">
+    <para id="para-00074"><link class="os-embed" url="#exercise/20-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00050">
+    <problem id="prob-00050">
+    <para id="para-00075"><link class="os-embed" url="#exercise/20-99-OC-AP34"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00051">
+    <problem id="prob-00051">
+    <para id="para-00076"><link class="os-embed" url="#exercise/20-99-OC-AP35"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00052">
+    <problem id="prob-00052">
+    <para id="para-00077"><link class="os-embed" url="#exercise/20-99-OC-AP36"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00053">
+    <problem id="prob-00053">
+    <para id="para-00078"><link class="os-embed" url="#exercise/20-99-OC-AP37"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00054">
+    <problem id="prob-00054">
+    <para id="para-00079"><link class="os-embed" url="#exercise/20-99-OC-AP38"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00055">
+    <problem id="prob-00055">
+    <para id="para-00080"><link class="os-embed" url="#exercise/20-99-OC-AP39"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00056">
+    <problem id="prob-00056">
+    <para id="para-00081"><link class="os-embed" url="#exercise/20-99-OC-AP40"/></para>
+    </problem>
+    </exercise>
+        </section>
+    </content>
+</document>

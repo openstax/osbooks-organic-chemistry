@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Chemical Shifts in <sup>1</sup>H NMR Spectroscopy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Chemical Shifts in 1H NMR Spectroscopy</md:title>
+    <md:content-id>m00147</md:content-id>
+    <md:uuid>1df483c4-608f-4bbe-97c8-ab3bad9f9ed9</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">As mentioned previously, differences in chemical shifts are caused by the small local magnetic field of electrons surrounding different nuclei. Nuclei that are more strongly shielded by electrons require a higher applied field to bring them into resonance so they absorb on the right side of the NMR chart. Nuclei that are less strongly shielded need a lower applied field for resonance so they absorb on the left of the NMR chart.</para>
+    <para id="para-00002">Most <sup>1</sup>H chemical shifts fall within the range 0 to 10 <emphasis effect="italics">δ,</emphasis> which can be divided into the five regions shown in <link target-id="table-00001"/>. By remembering the positions of these regions, it’s often possible to tell at a glance what kinds of protons a molecule contains.</para>
+    <table summary="" id="table-00001">
+    <title>Regions of the <sup>1</sup>H NMR Spectrum</title>
+    <tgroup cols="1">
+    <colspec colnum="1" colname="c1"/>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><media class="unnumbered" alt="An illustration shows chemical shifts of five molecules on a 1H NMR spectrum: aromatic vinylic unnamed allylic and saturated. The chemical shifts are shown in “delta” on the horizontal axis having 8 delta on the left and 0 delta on the right of the spectrum. Pink dashed lines separate the five structures. The aromatic molecule shows a benzene bonded to pink hydrogen placed between 8-6.5 delta. The vinylic molecule shows a carbon double bonded to another carbon; the left carbon shows two free bonds and the right carbon shows a free bond and is bonded to a pink hydrogen; the molecule is placed between 6.5-5.5 delta. The third molecule shows a carbon bonded to blue Y (oxygen nitrogen or halogen) and a pink hydrogen. The molecule shows two free bonds and is placed between 4.5-3.5 delta. The allylic molecule shows a carbon with a free single bond and double bond bonded to a carbon that shows two free bonds and is bonded to a pink hydrogen; it is placed between 3.5-2.5 delta. The saturated molecule shows a carbon with three free bonds further bonded to another carbon that shows two free bonds and bonded to a pink hydrogen; it is placed between 1.5-0 delta."><image mime-type="image/jpeg" src="../../media/OChem_13_04_001.jpg"/></media></entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00003"><link target-id="table-00002"/> shows the correlation of <sup>1</sup>H chemical shift with electronic environment in more detail. In general, protons bonded to saturated, <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized carbons absorb at higher fields, whereas protons bonded to <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized carbons absorb at lower fields. Protons on carbons that are bonded to electronegative atoms, such as N, O, or halogen, also absorb at lower fields.</para>
+    <table summary="An illustration (table) shows the type of hydrogen structures and chemical shifts (delta) of different groups. The reference is tetramethylsilane (Si bonded to three methyl groups) having pink hydrogen and chemical shift “0” delta. The types of hydrogen with corresponding molecules and their chemical shifts are as follows: alkyl (primary) shown as methyl group with pink hydrogen having absorption at 0.7-1.3 delta; alkyl (secondary) is shown as a methylene group with pink hydrogen having absorption at 1.2-1.6 delta; alkyl (tertiary) shown as a methine group with pink hydrogen and three open bonds having absorption at 1.4-1.8 delta; allylic shown as carbon double bonded to a carbon bonded to another carbon having a bond with pink hydrogen at top and two open bonds at the sides having absorption at 1.6-2.2 delta; methyl ketone is shown as a carbonyl group whose carbon is bonded to a methyl group having pink hydrogen having absorption at 2.0-2.4 delta; aromatic methyl is shown as “Ar” bonded to a methyl group with pink hydrogen having absorption at 2.4-2.7 delta; alkynyl is shown as a carbon with an open bond triple bonded to another carbon that is bonded to a pink hydrogen having absorption at 2.5-3.0 delta; alkyl halide is shown as a carbon having two open bonds sharing a bond with pink hydrogen at the top and a side bond to “Hal” having absorption at 2.5-4.0 delta; alcohol shown as a carbon having three open bonds further bonded to an oxygen attached to a pink hydrogen having absorption at 2.5-5.0 delta; alcohol ether shown as a carbon having two open bonds and a pink hydrogen bonded at the top the carbon is further bonded to an oxygen with an open bond having absorption at 3.3-4.5 delta; vinylic is shown as carbon double bonded to carbon the left carbon shows two open bonds and the right carbon shows a bond to pink hydrogen on top and an open bond at the side having absorption at 4.5-6.5 delta; aryl is shown as “Ar” bonded to a pink hydrogen having absorption at 6.5-8.0 delta; aldehyde is shown as a carbonyl group having an open bond to its left and a bond to a pink hydrogen to its right having absorption at 9.7-10.0 delta; carboxylic acid shown as a carbonyl group having an open bond on the left and to its right and bonded to an oxygen bonded to a hydrogen having absorption at 11.0-12.0 delta." id="table-00002">
+    <title>Correlation of <sup>1</sup>H Chemical Shifts with Environment</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Type of hydrogen</entry>
+    <entry valign="top" align="left"/>
+    <entry valign="top" align="center">Chemical shift (<emphasis effect="italics">δ</emphasis>)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Reference</entry>
+    <entry valign="top" align="left">Si(C<span class="magenta-text">H<sub>3</sub></span>)<sub>4</sub></entry>
+    <entry valign="top" align="center">0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alkyl (primary)</entry>
+    <entry valign="top" align="left">—C<span class="magenta-text">H<sub>3</sub></span></entry>
+    <entry valign="top" align="center">0.7–1.3</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alkyl (secondary)</entry>
+    <entry valign="top" align="left">—C<span class="magenta-text">H<sub>2</sub></span>—</entry>
+    <entry valign="top" align="center">1.2–1.6</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alkyl (tertiary)</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002a.jpg"/></media></entry>
+    <entry valign="top" align="center">1.4–1.8</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Allylic</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002b.jpg"/></media></entry>
+    <entry valign="top" align="center">1.6–2.2</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Methyl ketone</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002c.jpg"/></media></entry>
+    <entry valign="top" align="center">2.0–2.4</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Aromatic methyl</entry>
+    <entry valign="top" align="left">Ar—C<span class="magenta-text">H<sub>3</sub></span></entry>
+    <entry valign="top" align="center">2.4–2.7</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alkynyl</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mo>—</m:mo><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>C</m:mtext><m:mo>—</m:mo><m:mtext style="color: #E00087">H</m:mtext></m:mrow></m:math></entry>
+    <entry valign="top" align="center">2.5–3.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alkyl halide</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002d.jpg"/></media></entry>
+    <entry valign="top" align="center">2.5–4.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alcohol</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002e.jpg"/></media></entry>
+    <entry valign="top" align="center">2.5–5.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alcohol, ether</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002f.jpg"/></media></entry>
+    <entry valign="top" align="center">3.3–4.5</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Vinylic</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002g.jpg"/></media></entry>
+    <entry valign="top" align="center">4.5–6.5</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Aryl</entry>
+    <entry valign="top" align="left">Ar—<span class="magenta-text">H</span></entry>
+    <entry valign="top" align="center">6.5–8.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Aldehyde</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002h.jpg"/></media></entry>
+    <entry valign="top" align="center">9.7–10.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Carboxylic acid</entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002i.jpg"/></media></entry>
+    <entry valign="top" align="center">11.0–12.0</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <example id="exam-00001">
+    <title>Predicting Chemical Shifts in <sup>1</sup>H NMR Spectra</title>
+    <para id="para-00004">Methyl 2,2-dimethylpropanoate (CH<sub>3</sub>)<sub>2</sub>CCO<sub>2</sub>CH<sub>3</sub> has two peaks in its <sup>1</sup>H NMR spectrum. What are their approximate chemical shifts?</para>
+    <para id="para-00005"><title><span class="red-text">Strategy</span></title> Identify the types of hydrogens in the molecule, and note whether each is alkyl, vinylic, or next to an electronegative atom. Then predict where each absorbs, using <link target-id="table-00002"/> if necessary.</para>
+    <para id="para-00006"><title><span class="cyan-text">Solution</span></title> The –OCH<sub>3</sub> protons absorb around 3.5 to 4.0 <emphasis effect="italics">δ</emphasis> because they are on carbon bonded to oxygen. The (CH<sub>3</sub>)<sub>3</sub>C– protons absorb near 1.0 <emphasis effect="italics">δ</emphasis> because they are typical alkane-like protons.</para>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00007"><link class="os-embed" url="#exercise/13-04-OC-P06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00008"><link class="os-embed" url="#exercise/13-04-OC-P07"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

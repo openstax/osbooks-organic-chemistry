@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Kinds of Organic Reactions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Kinds of Organic Reactions</md:title>
+    <md:content-id>m00077</md:content-id>
+    <md:uuid>80d7312c-01c7-4bcb-9507-cbde7122d68a</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Organic chemical reactions can be organized broadly in two ways—by what kinds of reactions occur and by how those reactions occur. Let’s look first at the kinds of reactions that take place. There are four general types of organic reactions: <emphasis effect="italics">additions, eliminations, substitutions,</emphasis> and <emphasis effect="italics">rearrangements</emphasis>.</para>
+    <list id="list-00001">
+      <item><term id="term-00001"><span class="cyan-text">Addition reactions</span></term> occur when two reactants add together to form a single product with no atoms “left over.” An example that we’ll be studying soon is the reaction of an alkene, such as ethylene, with HBr to yield an alkyl bromide.
+        <figure class="unnumbered scaled-down" id="fig-00001">
+          <media alt="An illustration shows a reaction between ethylene (an alkene) and pink hydrogen bromide labeled as “these two reactants” to yield a bromoethane (an alkyl halide) labeled as “add to give this product.” The structure of ethylene shows a carbon having a blue double bond to another carbon wherein each carbon is bonded to two hydrogens. The structural formula of hydrogen bromide H-Br is shown in pink. The structure of bromoethane shows a carbon sharing a blue bond with another carbon wherein the first carbon shares an upward bond with pink hydrogen and a side bond as well as downward bond with two hydrogens; the carbon at the right side shares an upward bond with pink bromine and a side as well as downward bond with two hydrogens.">
+          <image mime-type="image/jpeg" src="../../media/OChem_06_01_001.jpg"/>
+          </media>
+          </figure></item>
+      <item><term id="term-00002"><span class="cyan-text">Elimination reactions</span></term> are, in a sense, the opposite of addition reactions. They occur when a single reactant splits into two products, often with the formation of a small molecule such as water or HBr. An example is the acid-catalyzed reaction of an alcohol to yield water and an alkene.
+        <figure class="unnumbered scaled-down" id="fig-00002">
+        <media alt="An illustration shows a reversible reaction wherein “Ethanol (an alcohol)” labeled as “this one reactant” in the presence of a blue “acid catalyst” forms “Ethylene (an alkene)” and pink water; the products are labeled as “…gives these two products.” The structure of ethanol shows a carbon bonded to another carbon wherein the first carbon shows an upward bond with pink hydrogen and two bonds with hydrogens; the second carbon shows an upward bond with a pink hydroxyl group and the other two bonds with hydrogens. The structure of ethylene shows a carbon sharing a blue double bond; both the carbons share bonds with four hydrogens.">
+        <image mime-type="image/jpeg" src="../../media/OChem_06_01_002.jpg"/>
+        </media>
+        </figure></item>
+      <item><term id="term-00003"><span class="cyan-text">Substitution reactions</span></term> occur when two reactants exchange parts to give two new products. An example is the reaction of an ester such as methyl acetate with water to yield a carboxylic acid plus an alcohol. Similar reactions occur in many biological pathways, including the metabolism of dietary fats.<figure class="unnumbered scaled-down" id="fig-00003">
+        <media alt="An illustration shows a reaction between methyl acetate (an ester) and pink water labeled as “these two reactants” in the presence of blue “acid catalyst” to yield a “acetic acid (a carboxylic acid)” and “methanol (an alcohol)” are labeled as “...give these two products.” The structure of methyl acetate shows a methyl group bonded to a carbonyl group whose carbon is bonded to a green oxygen bonded to a green methyl group. The structure of acetic acid shows a methyl group bonded to a carbonyl group whose carbon is bonded to a pink oxygen bonded to a pink hydrogen. The structure of methanol shows a pink hydrogen bonded to a green oxygen bonded to a green methyl group.">
+        <image mime-type="image/jpeg" src="../../media/OChem_06_01_003.jpg"/>
+        </media>
+        </figure></item>
+        <item><term id="term-00004"><span class="cyan-text">Rearrangement reactions</span></term> occur when a single reactant undergoes a reorganization of bonds and atoms to yield an isomeric product. An example is the conversion of dihydroxyacetone phosphate into its constitutional isomer glyceraldehyde 3-phosphate, a step in the glycolysis pathway by which carbohydrates are metabolized.
+          <figure class="unnumbered scaled-down" id="fig-00004">
+            <media alt="An illustration shows a reactant leading to a product. The reactant “Dihydroxyacetone phosphate” labeled as “this reactant …” having a centrally placed carbonyl group with pink oxygen; to its left the carbonyl group is bonded to a carbon having two downward bonds with hydrogens and a side bond with phosphate anion OP4 to the power two minus; the carbon of carbonyl group on its right side is bonded to another carbon having two downward bonds with hydrogens and a side bond with green hydroxyl group. The product “Glyceraldehyde 3-phosphate” labeled as “..gives this isomeric product” shows a centrally placed carbon having an upward dashed bond with hydrogen and a wedge bond with the pink hydroxyl group; to its left the carbonyl group is bonded to a carbon having two downward bonds with hydrogens and a side bond with phosphate anion PO4 to the power two minus; the carbon of carbonyl group on its right side is bonded to a carbonyl group having a green oxygen; the carbon of carbonyl group shows a downward bond with hydrogen.">
+            <image mime-type="image/jpeg" src="../../media/OChem_06_01_004.jpg"/>
+            </media>
+            </figure></item>
+
+    </list>
+
+
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00006"><link class="os-embed" url="#exercise/06-01-OC-P01"/></para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

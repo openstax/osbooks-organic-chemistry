@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Reduction of Aromatic Compounds</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Reduction of Aromatic Compounds</md:title>
+    <md:content-id>m00197</md:content-id>
+    <md:uuid>20bf3330-065e-43da-8687-ef97864ccda6</md:uuid>
+  </metadata>
+  <content>
+    <section id="sect-00001">
+    <title>Catalytic Hydrogenation of Aromatic Rings</title>
+    <para id="para-00001">Just as aromatic rings are generally inert to oxidation, they’re also inert to catalytic hydrogenation under conditions that reduce typical alkene double bonds. As a result, it’s possible to reduce an alkene double bond selectively in the presence of an aromatic ring. For example, 4-phenyl-3-buten-2-one is reduced to 4-phenyl-2-butanone using a palladium catalyst at room temperature and atmospheric pressure. Neither the benzene ring nor the ketone carbonyl group is affected.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a reaction in which 4-Phenyl-3-buten-2-one reacts with H2 Pd and ethanol to yield 4-Phenyl-2-butanone (100%). 4-Phenyl-3-buten-2-one shows a benzene ring bonded to C4 of a 4-carbon chain. C2 of the chain is a carbonyl carbon. C3 shows a double bond. 4-Phenyl-2-butanone shows a benzene ring bonded to C4 of a 4-carbon chain. C2 of the chain is a carbonyl carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_09_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">To hydrogenate an aromatic ring, it’s necessary either to use a platinum catalyst with hydrogen gas at a pressure of several hundred atmospheres or to use a more effective catalyst such as rhodium on carbon. Under these conditions, aromatic rings are converted into cyclohexanes. For example, <emphasis effect="italics">o</emphasis>-xylene yields 1,2-dimethylcyclohexane, and 4-<emphasis effect="italics">tert</emphasis>-butylphenol gives 4-<emphasis effect="italics">tert</emphasis>-butylcyclohexanol.</para>
+    <figure class="unnumbered scaled-down" id="fig-00002">
+    <media alt="An illustration shows two reactions. In the first reaction o-Xylene reacts in the presence of pink H2 Pt and ethanol at 130 atm 25 degree C to yield cis-1 2-Dimethylcyclohexane. o-Xylene shows a benzene with C1 and C2 bonded to a methyl group each. cis-1 2-Dimethylcyclohexane shows a cyclohexane with C1 and C2 wedge bonded to a methyl group and dash bonded to a pink hydrogen each. In the second reaction 4-tert-Butylphenol reacts in the presence of pink H2 Rh/C and ethanol at 1 atm 25 degree C to yield cis-4-tert-Butylcyclohexanol. 4-tert-Butylphenol shows a benzene with C1 bonded to a hydroxyl group and C4 bonded to a carbon bonded to three methyl groups. cis-4-tert-Butylcyclohexanol shows a cyclohexane with C1 wedge bonded to a hydroxyl group and dash bonded to a pink hydrogen. C4 is dash bonded to a pink hydrogen and wedge bonded to a carbon bonded to three methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_09_002.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section id="sect-00002">
+    <title>Reduction of Aryl Alkyl Ketones</title>
+    <para id="para-00003">In the same way that an aromatic ring activates a neighboring (benzylic) C–H toward oxidation, it also activates a benzylic carbonyl group toward reduction. Thus, an aryl alkyl ketone prepared by Friedel–Crafts acylation of an aromatic ring can be converted into an alkylbenzene by catalytic hydrogenation over a palladium catalyst. Propiophenone, for instance, is reduced to propylbenzene by catalytic hydrogenation. Because the net effect of Friedel–Crafts acylation followed by reduction is the preparation of a primary alkylbenzene, this two-step sequence of reactions makes it possible to circumvent the carbocation rearrangement problems associated with direct Friedel–Crafts alkylation using a primary alkyl halide <emphasis effect="bold">(<link document="m00191">Section 16.3</link>)</emphasis>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows two reactions of benzene. In the first reaction benzene reacts with propanoyl chloride and AlCl3 to yield Propiophenone (95%) that reacts in the presence of pink hydrogen and Pd to yield Propylbenzene (100%). In propanoyl chloride the oxygen is pink and chlorine is green. In Propiophenone benzene is bonded to carbonyl group bonded to ethyl group. The carbonyl oxygen is pink. In Propylbenzene benzene is bonded to a carbon bonded to two pink hydrogens and an ethyl group. In the second reaction benzene reacts with propyl chloride and AlCl3 to yield a mixture of two products (Propylbenzene and Isopropylbenzene). In propyl chloride the chlorine is green. In Propylbenzene benzene is bonded to propyl group. In Isopropylbenzene benzene is bonded to a carbon bonded to two methyl groups and a hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_09_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">The conversion of a carbonyl group into a methylene group (<m:math><m:mrow><m:mtext>C=O</m:mtext><m:mo>→</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>) by catalytic hydrogenation is limited to <emphasis effect="italics">aryl</emphasis> alkyl ketones; dialkyl ketones are not reduced under these conditions. Furthermore, the catalytic reduction of aryl alkyl ketones is not compatible with the presence of a nitro substituent on the aromatic ring because a nitro group is reduced to an amino group under reaction conditions. We’ll see a more general method for reducing ketone carbonyl groups to yield alkanes in <emphasis effect="bold">Section 19.9</emphasis>.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows a reaction in which m-Nitroacetophenone reacts with H2 Pd and ethanol to yield m-Ethylaniline. m-Nitroacetophenone shows a benzene ring with C1 bonded to an acetate group and C3 bonded to a nitro group. The carbonyl oxygen and nitro group are shown in pink. m-Ethylaniline shows a benzene ring with C1 bonded to a methylene group bonded to a methyl group. C3 is bonded to an amino group. The hydrogens of methylene group and amino group are shown in pink.">
+    <image mime-type="image/jpeg" src="../../media/OChem_16_09_004.jpg"/>
+    </media>
+    </figure>
+    </section>
+    <section class="section-exercises" id="sect-00003">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00005"><link class="os-embed" url="#exercise/16-09-OC-P21"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

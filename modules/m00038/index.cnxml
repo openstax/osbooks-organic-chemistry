@@ -1,0 +1,396 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Conformations of Other Alkanes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Conformations of Other Alkanes</md:title>
+    <md:content-id>m00038</md:content-id>
+    <md:uuid>60cf85b6-afad-402f-91c0-1f5f217a5bde</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Propane, the next-higher member in the alkane series, also has a torsional barrier that results in hindered rotation around the carbon–carbon bonds. The barrier is slightly higher in propane than in ethane—a total of 14 kJ/mol (3.4 kcal/mol) versus 12 kJ/mol.</para>
+    <para id="para-00002">The eclipsed conformation of propane has three interactions—two ethane-type hydrogen–hydrogen interactions and one additional hydrogen–methyl interaction. Since each eclipsing <m:math><m:mrow><m:mtext>H</m:mtext><m:mo stretchy="true" minsize="3em">&#8596;</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction is the same as that in ethane and thus has an energy “cost” of 4.0 kJ/mol, we can assign a value of 14&#8201;–&#8201;(2 × 4.0)&#8201;=&#8201;6.0 kJ/mol (1.4 kcal/mol) to the eclipsing <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>&#8596;</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> interaction (<link target-id="fig-00001"/>).</para>
+    <figure id="fig-00001">
+    <media alt="An illustration shows the conversion of staggered propane to eclipsed propane by rotation of rear carbon 60 degree. Both conformations are shown in ball-and-stick models and Newman projections. The Newman projection of staggered propane shows a darkened tripod bonded to a pink methyl group at the top and two green hydrogens at the base; the back carbon shows an inverted tripod such that two blue hydrogens are bonded at the top and a blue hydrogen is bonded at the base. The ball-and-stick model shows three carbons wherein the left side carbon is bonded to three blue hydrogens; the upper carbon is bonded to three red hydrogens and the lower carbon is bonded to two green hydrogens. The Newman projection of eclipsed propane shows superimposition of both front and carbon bonds; the front carbon having an upward bond with a pink methyl group and two lower bonds with green hydrogens; the back carbon shows an upward bond with hydrogen and two lower bonds with hydrogens; the torsional strain between the methyl group and blue hydrogen is 6.0 kJ/mol; the torsional strain between both groups of lower hydrogens at the base is shown as 4.0 kJ/mol. The ball-and-stick model shows three carbons wherein the left side carbon shows bonds to three blue hydrogens that are shown rotated by 60 degree; the upward right side carbon is bonded to three red hydrogens; the central carbon is bonded to two green hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Newman projections of propane showing staggered and eclipsed conformations.</emphasis> The staggered conformer is lower in energy by 14 kJ/mol.</caption>
+    </figure>
+    <para id="para-00003">The conformational situation becomes more complex for larger alkanes because not all staggered conformations have the same energy and not all eclipsed conformations have the same energy. In butane, for instance, the lowest-energy arrangement, called the <term id="term-00001">anti conformation</term>, is the one in which the two methyl groups are as far apart as possible—180° away from each other. As rotation around the C2–C3 bond occurs, an eclipsed conformation is reached where there are two <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interactions and one <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction. Using the energy values derived previously from ethane and propane, this eclipsed conformation is more strained than the anti conformation by 2 × 6.0 kJ/mol + 4.0 kJ/mol (two <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interactions plus one <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> interaction), for a total of 16 kJ/mol (3.8 kcal/mol).</para>
+    <figure class="unnumbered" id="fig-00002">
+    <media alt="An illustration shows the conversion of anticonformation of butane (0kJ/mol) that is shown to “rotate 60 degrees” to produce eclipsed conformation (16 kJ/mol) of butane. The anti-conformation shows a ball-and-stick model as well as Newman projection of butane; the ball-and-stick structure shows four carbons wherein the upper and lower carbons appearing as downward and upward bonds to the central carbons are each bonded to three red hydrogens; the carbon at the left center shows bond with two green hydrogens and the carbon at the center right shows bonds with two blue hydrogens. The Newman projection shows a darkened tripod shape representing the front carbon bonded to a pink methyl group in an upward bond and two blue hydrogens at the base; the back carbon shows three bonds in an inverted tripod shape having two green hydrogens at the top and a pink methyl group at the bottom. The Newman projection of eclipsed conformation of butane shows a slight tilt in the methyl group bonded to the front carbon and two blue hydrogens bonded at the base are shown slightly lifted off the base; the green hydrogens of the back carbon are shown rotated at 60 degree and the lower methyl group shifted toward the left side. The torsional strain between pink methyl group and green hydrogen is 6.0 kJ/mol; the torsional strain between blue hydrogen and pink methyl group is 6.0 kJ/mol; the torsional strain between green and blue hydrogens is 4.0 kJ/mol. The ball-and-stick model shows four carbons shifted by 60 degree; the downward carbon shown earlier assumes the sideward position and the upward bond moves slightly to right side; each left and right side carbons are bonded to three red hydrogens; the central carbon at the left is shown bonded with two green hydrogens and the central carbon at the right is shows bonded with two blue hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00004">As bond rotation continues, an energy minimum is reached at the staggered conformation where the methyl groups are 60° apart. Called the <term id="term-00002">gauche conformation</term>, it lies 3.8 kJ/mol (0.9 kcal/mol) higher in energy than the anti conformation even though it has no eclipsing interactions. This energy difference occurs because the hydrogen atoms of the methyl groups are near one another in the gauche conformation, resulting in what is called <emphasis effect="italics">steric strain.</emphasis> <term id="term-00003">Steric strain</term> is the repulsive interaction that occurs when atoms are forced closer together than their atomic radii allow. It’s the result of trying to force two atoms to occupy the same space.</para>
+    <figure class="unnumbered" id="fig-00003">
+    <media alt="An illustration shows the conversion of eclipsed conformation of butane to gauche conformation of butane. The eclipsed conformation (16kJ/mol) is shown to “rotate 60 degrees” to produce gauche conformation (3.8 kJ/mol). Both conformations are shown in ball-and-stick models and Newman projections. The Newman projection of eclipsed conformation of butane shows a slight tilt in the methyl group bonded to the front carbon and two blue hydrogens bonded at the base are also shown tilted toward right side; the green hydrogens of the back carbon are shown diagonally opposite each other and the lower methyl group is shown bonded towards the left side blue hydrogen. The ball-and-stick model shows four carbons in a zig zag format wherein the left and extreme right side carbons are each shown bonded to three red hydrogens; the central left side carbon is bonded to two green carbons and the lower right side carbon is bonded to two blue carbons. The Newman projection of Butane-gauche shows tripod shape wherein the outer carbon shows an upward bond to a pink methyl group; the lower left and right side bonds are shown with blue hydrogens; the back carbon shows an inverted tripod having pink methyl group at the left side and green hydrogen at the right side; the lower bond is shown to a green hydrogen; the “steric strain” between two pink methyl groups is shown to be “3.8 kJ/mol.” The ball-and-stick model of butane-gauche shows three carbons in an almost linear plane; the carbon at the left is shown bonded to three red hydrogens the carbon at the center is shown bonded to two green hydrogens and the carbon at the right side is bonded to two blue hydrogens at two sides and three red hydrogens are shown in an upward bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_003.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">As the dihedral angle between the methyl groups approaches zero, an energy maximum is reached at a second eclipsed conformation. Because the methyl groups are forced even closer together than in the gauche conformation, both torsional strain and steric strain are present. A total strain energy of 19 kJ/mol (4.5 kcal/mol) has been estimated for this conformation, making it possible to calculate a value of 11 kJ/mol (2.6 kcal/mol) for the <m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>↔</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> eclipsing interaction: total strain of 19 kJ/mol minus the strain of two <m:math><m:mrow><m:mtext>H</m:mtext><m:mo>↔</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> eclipsing interactions (2 × 4.0 kcal/mol) equals 11 kJ/mol.</para>
+    <figure class="unnumbered" id="fig-00004">
+    <media alt="An illustration shows the conversion of gauche conformation of butane to eclipsed conformation of butane. The gauche conformation (3.8 kJ/mol) is shown to “rotate 60 degrees” to produce eclipsed conformation (19kJ/mol). Both conformations are shown in ball-and-stick models and Newman projections. The ball-and-stick model of butane-gauche shows three carbons in an almost linear plane; the carbon at the left is shown bonded to three red hydrogens the carbon at the center is shown bonded to two green hydrogens and the carbon at the right side is bonded to two blue hydrogens at two sides and three red hydrogens are shown in an upward bond. The Newman projection of Butane-gauche shows tripod shape wherein the outer carbon shows an upward bond to a pink methyl group; the lower left and right side bonds are shown with blue hydrogens; the back carbon shows an inverted tripod having pink methyl group at the left side and green hydrogen at the right side; the lower bond is shown to a green hydrogen. The Newman projection of butane-eclipsed conformation shows a front carbon having an upward bond with the pink methyl group and lower left and right side bonds with blue hydrogens; the back carbon shows an upward bond with pink methyl group which is shifted from its original position by 60 degree and lower left and right sides are shown bonded with green hydrogens; the eclipsing strain between two methyl groups is 11 kJ/mol; strain between two left side carbons is 4.0 kJ/mol and the strain between two right side carbons is 4.0 kJ/mol. The ball-and-stick model shows the upper left and right side carbons bonded to three red hydrogens each; the lower left side is bonded to two green hydrogens and lower right side carbon is bonded to two blue hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00006">After 0°, the rotation becomes a mirror image of what we’ve already seen: another gauche conformation is reached, another eclipsed conformation, and finally a return to the anti conformation. A plot of potential energy versus rotation about the C2–C3 bond is shown in <link target-id="fig-00005"/>.</para>
+    <figure class="scaled-down" id="fig-00005">
+    <media alt="An illustration shows a graph of potential energy versus dihedral angle between methyl groups in butane; the horizontal axis shows “dihedral angle between methyl groups” starting from 180 degrees labeled as “anti” further towards right 120 degree is shown followed by 60 degree labeled as “gauche” is followed by 0 degree and the scale further reads as “60 degree” labeled as “gauche” 120 degree and 180 degrees labeled as “anti.” The vertical axis shows a large upward pointing arrow labeled energy. At 180 degree the butane structure shows the front carbon bonded to a pink methyl group at the top and two hydrogens at the base; the back carbon is shown bonded to two hydrogens above and a pink methyl group below which forms the point of reference for rotation in the proceeding structures; at 180 degree a trough is shown; throughout the graph the front carbon and its bonds remain unchanged while the bonds of back carbon are shown to change. At 120 degree the pink methyl group of the back carbon moves to the left from center; a crest is shown at 120 degree; the energy required is 16 kJ/mol. At 60 degree “gauche” the pink methyl of the back carbon moves to the upper left side; the graph shows a trough and energy required is 3.8 kJ/mol. At 0 degree the pink methyl group moves to top center such that both front and back carbon bonds seem superimposed on each other. At 60 degree “gauche” the pink methyl group moves 60 degree to the right side; the graph shows a trough and the energy required is 19 kJ/mol. At 120 degree the pink methyl group of the back carbon moves to lower right position; the graph shows a crest. At 180 degree “anti” the pink methyl group of the back carbon occupies the lower central position and the graph shows a trough.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_005.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">A plot of potential energy versus rotation for the C2−C3 bond in butane.</emphasis> The energy maximum occurs when the two methyl groups eclipse each other, and the energy minimum occurs when the two methyl groups are 180° apart (anti).</caption>
+    </figure>
+    <para id="para-00007">The notion of assigning definite energy values to specific interactions within a molecule is very useful, and we’ll return to it in the next chapter. A summary of what we’ve seen thus far is given in <link target-id="table-00001"/>.</para>
+    <para id="para-00008">The same principles just developed for butane apply to pentane, hexane, and all higher alkanes. The most favorable conformation for any alkane has the carbon–carbon bonds in staggered arrangements, with large substituents arranged anti to one another. A generalized alkane structure is shown in <link target-id="fig-00006"/>.</para>
+    <table id="table-00001" summary="Alt Text Placeholder">
+    <title>Energy Costs for Interactions in Alkane Conformers</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row valign="top">
+    <entry valign="bottom" align="left" morerows="1">Interaction</entry>
+    <entry valign="bottom" align="left" morerows="1">Cause</entry>
+    <entry valign="bottom" align="left" namest="c3" nameend="c4">Energy cost</entry>
+    </row>
+    <row valign="top">
+    <entry valign="bottom" align="left">(kJ/mol)</entry>
+    <entry valign="bottom" align="left">(kcal/mol)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>H</m:mtext><m:mo>&#x2194;</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> eclipsed</entry>
+    <entry valign="top" align="left">Torsional strain</entry>
+    <entry valign="top" align="left">&#8199;4.0</entry>
+    <entry valign="top" align="left">1.0</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>H</m:mtext><m:mo>&#x2194;</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> eclipsed</entry>
+    <entry valign="top" align="left">Mostly torsional strain</entry>
+    <entry valign="top" align="left">&#8199;6.0</entry>
+    <entry valign="top" align="left">1.4</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>&#x2194;</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> eclipsed</entry>
+    <entry valign="top" align="left">Torsional and steric strain</entry>
+    <entry valign="top" align="left">11.0</entry>
+    <entry valign="top" align="left">2.6</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo>&#x2194;</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math> gauche</entry>
+    <entry valign="top" align="left">Steric strain</entry>
+    <entry valign="top" align="left">&#8199;3.8</entry>
+    <entry valign="top" align="left">0.9</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <figure class="scaled-down" id="fig-00006">
+    <media alt="An illustration shows the ball-and-stick model and molecular structure of decane. The ball-and-stick model shows grey balls representing carbon atoms and white balls representing hydrogen atoms. The model shows a ten-carbon chain. C1 and C10 are methyl groups. C2 C4 C6 and C8 are bonded to two hydrogen atoms each at the bottom. C3 C5 C7 and C9 are bonded to two hydrogen atoms each at the top. The molecular structure shows a ten-carbon chain wherein both C1 and C10 are single bonded to a hydrogen wedge bonded to a hydrogen and dash bonded to a hydrogen each. The other carbons are wedge bonded to a hydrogen and dash bonded to a hydrogen each.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The most stable alkane conformation is the one in which all substituents are staggered and the carbon–carbon bonds are arranged anti</emphasis>, as shown in this model of decane.</caption>
+    </figure>
+    <para id="para-00009">One final point: saying that one particular conformer is “more stable” than another doesn’t mean the molecule adopts and maintains only the more stable conformation. At room temperature, rotations around <emphasis effect="italics">σ</emphasis> bonds occur so rapidly that all conformers are in equilibrium. At any given instant, however, a larger percentage of molecules will be found in a more stable conformation than in a less stable one.</para>
+    <example id="exam-00001">
+    <title>Newman Projections</title>
+    <para id="para-00010">Sight along the C1–C2 bond of 1-chloropropane, and draw Newman projections of the most stable and least stable conformations.</para>
+    <para id="para-00011"><title><span class="red-text">Strategy</span></title> The most stable conformation of a substituted alkane is generally a staggered one in which large groups have an anti relationship. The least stable conformation is generally an eclipsed one in which large groups are as close as possible.</para>
+    <para id="para-00012"><title><span class="cyan-text">Solution</span></title>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <media alt="An illustration shows two Newman projections. The first structure labeled as “most stable (staggered)” shows a front carbon with an upward bond to green chlorine and downward bonds to hydrogens; the back carbon shows two upper bonds with hydrogens and a lower bond with pink carbon. The second structure labeled as “Least stable (eclipsed)” shows a front carbon with an upward bond to green chlorine that is shown slightly shifted and downward bonds to hydrogens; the back carbon shows an upper bond with pink methyl group and a lower bonds with two hydrogens.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_007.jpg"/>
+    </media>
+    </figure></para>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00013"><link class="os-embed" url="#exercise/03-07-OC-P15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00014"><link class="os-embed" url="#exercise/03-07-OC-P16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00015"><link class="os-embed" url="#exercise/03-07-OC-P17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00016"><link class="os-embed" url="#exercise/03-07-OC-P18"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="chemistry-matters" id="note-00001">
+    <title>Gasoline</title>
+    <para id="para-00017">British Foreign Minister Ernest Bevin once said that “The Kingdom of Heaven runs on righteousness, but the Kingdom of Earth runs on alkanes.” (Actually, he said “runs on oil” not “runs on alkanes,” but they’re essentially the same.) By far, the major sources of alkanes are the world’s natural gas and petroleum deposits. Laid down eons ago, these deposits are thought to be derived primarily from the decomposition of tiny single-celled marine organisms called foraminifera. Natural gas consists chiefly of methane but also contains ethane, propane, and butane. Petroleum is a complex mixture of hydrocarbons that must be separated into fractions and then further refined before it can be used.</para>
+    <figure class="scaled-down-30" id="fig-00008">
+    <media alt="Photograph of Edwin Drake’s first oil well.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_xxx.jpg"/>
+    </media>
+    <caption>Gasoline is a finite resource. It won’t be around forever. (credit: <link url="https://www.loc.gov/item/2010649522/">“The first oil well”</link> by Unknown/Library of Congress)</caption>
+    </figure>
+    <para id="para-00018">The petroleum era began in August 1859, when the world’s first oil well was drilled by Edwin Drake near Titusville, Pennsylvania. The petroleum was distilled into fractions according to boiling point, but it was high-boiling kerosene, or lamp oil, rather than gasoline that was primarily sought. Literacy was becoming widespread at the time, and people wanted better light for reading than was available from candles. Gasoline was too volatile for use in lamps and was initially considered a waste by-product. The world has changed greatly since those early days, however, and it is now gasoline rather than lamp oil that is prized.</para>
+    <para id="para-00019">Petroleum refining begins by fractional distillation of crude oil into three principal cuts according to boiling point (bp): straight-run gasoline (bp 30–200 °C), kerosene (bp 175–300 °C), and heating oil, or diesel fuel (bp 275–400 °C). Further distillation under reduced pressure then yields lubricating oils and waxes and leaves a tarry residue of asphalt. The distillation of crude oil is only the first step in gasoline production, however. Straight-run gasoline turns out to be a poor fuel in automobiles because of engine knock, an uncontrolled combustion that can occur in a hot engine causing potentially serious damage.</para>
+    <para id="para-00020">The <emphasis effect="italics">octane number</emphasis> of a fuel is the measure by which its antiknock properties are judged. It was recognized long ago that straight-chain hydrocarbons are far more prone to inducing engine knock than highly branched compounds. Heptane, a particularly bad fuel, is assigned a base value of 0 octane number, and 2,2,4-trimethylpentane, commonly known as isooctane, has a rating of 100.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <media alt="An illustration shows two structures. The first structure labeled as “heptane (octane number = 0)” shows a methyl group bonded to five consecutive methylene groups and then bonded to a methyl group. The second structure “2 2 4-Trimethylpentane (octane number = 100)” shows a methyl group bonded to a carbon having and upward and downward bond with methyl groups; the carbon is further bonded to a methylene group bonded to a methine having an upward and a side bond with two methyl groups.">
+    <image mime-type="image/jpeg" src="../../media/OChem_03_07_009.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00021">Because straight-run gasoline burns so poorly in engines, petroleum chemists have devised numerous methods for producing higher-quality fuels. One of these methods, <emphasis effect="italics">catalytic cracking</emphasis>, involves taking the high-boiling kerosene cut (C<sub>11</sub>–C<sub>14</sub>) and “cracking” it into smaller branched molecules suitable for use in gasoline. Another process, called <emphasis effect="italics">reforming</emphasis>, is used to convert C<sub>6</sub>–C<sub>8</sub> alkanes to aromatic compounds such as benzene and toluene, which have substantially higher octane numbers than alkanes. The final product that goes in your tank has an approximate composition of 15% C<sub>4</sub>–C<sub>8</sub> straight-chain alkanes, 25% to 40% C<sub>4</sub>–C<sub>10</sub> branched-chain alkanes, 10% cyclic alkanes, 10% straight-chain and cyclic alkenes, and 25% arenes (aromatics).</para>
+  </section>
+    <section class="key-terms" id="sect-00002">
+    <list id="list-00001">
+      <item><link document="m00032" target-id="term-00006">alcohol</link></item>
+      <item><link document="m00032" target-id="term-00013">aldehyde</link></item>
+      <item><link document="m00033" target-id="term-00004">aliphatic</link></item>
+      <item><link document="m00033" target-id="term-00001">alkane</link></item>
+      <item>alkene</item>
+      <item><link document="m00034" target-id="term-00001">alkyl group</link></item>
+      <item><link document="m00032" target-id="term-00005">alkyl halide</link></item>
+      <item>alkyne</item>
+      <item><link document="m00032" target-id="term-00018">amide</link></item>
+      <item><link document="m00032" target-id="term-00008">amine</link></item>
+      <item><link document="m00038" target-id="term-00001">anti conformation</link></item>
+      <item>arene</item>
+      <item><link document="m00033" target-id="term-00006">branched-chain alkane</link></item>
+      <item><link document="m00032" target-id="term-00012">carbonyl group</link></item>
+      <item><link document="m00032" target-id="term-00015">carboxylic acid</link></item>
+      <item><link document="m00037" target-id="term-00002">conformation</link></item>
+      <item><link document="m00037" target-id="term-00003">conformational isomer</link></item>
+      <item><link document="m00037" target-id="term-00004">conformer</link></item>
+      <item><link document="m00033" target-id="term-00008">constitutional isomer</link></item>
+      <item><link document="m00037" target-id="term-00008">eclipsed conformation</link></item>
+      <item><link document="m00032" target-id="term-00016">ester</link></item>
+      <item><link document="m00032" target-id="term-00007">ether</link></item>
+      <item><link document="m00032" target-id="term-00001">functional group</link></item>
+      <item><link document="m00038" target-id="term-00002">gauche conformation</link></item>
+      <item><link document="m00033" target-id="term-00002">hydrocarbon</link></item>
+      <item><link document="m00033" target-id="term-00007">isomer</link></item>
+      <item><link document="m00032" target-id="term-00014">ketone</link></item>
+      <item><link document="m00037" target-id="term-00006">Newman projection</link></item>
+      <item>nitrile</item>
+      <item>R group</item>
+      <item><link document="m00033" target-id="term-00003">saturated</link></item>
+      <item><link document="m00037" target-id="term-00005">sawhorse representation</link></item>
+      <item><link document="m00037" target-id="term-00007">staggered conformation</link></item>
+      <item><link document="m00037" target-id="term-00001">stereochemistry</link></item>
+      <item><link document="m00038" target-id="term-00003">steric strain</link></item>
+      <item><link document="m00033" target-id="term-00005">straight-chain alkane</link></item>
+      <item><link document="m00035" target-id="term-00001">substituent</link></item>
+      <item><link document="m00032" target-id="term-00010">sulfide</link></item>
+      <item><link document="m00032" target-id="term-00009">thiol</link></item>
+      <item><link document="m00037" target-id="term-00009">torsional strain</link></item>
+    </list>
+    </section>
+    <section class="summary" id="sect-00003">
+    <title>Summary</title>
+    <para id="para-00022">Alkanes are relatively unreactive and rarely involved in chemical reactions, but they nevertheless provide a useful vehicle for introducing some important general ideas. In this chapter, we’ve used alkanes to introduce the basic approach to naming organic compounds and to take an initial look at some of the three-dimensional aspects of molecules.</para>
+    <para id="para-00023">A <emphasis effect="bold">functional group</emphasis> is a group of atoms within a larger molecule that has a characteristic chemical reactivity. Because functional groups behave in approximately the same way in all molecules where they occur, the chemical reactions of an organic molecule are largely determined by its functional groups.</para>
+    <para id="para-00024"><emphasis effect="bold">Alkanes</emphasis> are a class of <emphasis effect="bold">saturated hydrocarbons</emphasis> with the general formula C<emphasis effect="italics"><sub>n</sub></emphasis>H<sub>2<emphasis effect="italics">n</emphasis>+2</sub>. They contain no functional groups, are relatively inert, and can be either <emphasis effect="bold">straight-chain</emphasis> (<emphasis effect="italics">normal</emphasis>) or <emphasis effect="bold">branched</emphasis>. Alkanes are named by a series of IUPAC rules of nomenclature. Compounds that have the same chemical formula but different structures are called <emphasis effect="bold">isomers</emphasis>. More specifically, compounds such as butane and isobutane, which differ in their connections between atoms, are called <emphasis effect="bold">constitutional isomers</emphasis>.</para>
+    <para id="para-00025">Carbon–carbon single bonds in alkanes are formed by <emphasis effect="italics">σ</emphasis> overlap of carbon <emphasis effect="italics">sp</emphasis><sup>3</sup> hybrid orbitals. Rotation is possible around <emphasis effect="italics">σ</emphasis> bonds because of their cylindrical symmetry, and alkanes therefore exist in a large number of rapidly interconverting <emphasis effect="bold">conformations</emphasis>. <emphasis effect="bold">Newman projections</emphasis> make it possible to visualize the spatial consequences of bond rotation by sighting directly along a carbon–carbon bond axis. Not all alkane conformations are equally stable. The <emphasis effect="bold">staggered conformation</emphasis> of ethane is 12 kJ/mol (2.9 kcal/mol) more stable than the <emphasis effect="bold">eclipsed conformation</emphasis> because of <emphasis effect="bold">torsional strain</emphasis>. In general, any alkane is most stable when all its bonds are staggered.</para>
+    </section>
+    <section class="additional-problems" id="sect-00004">
+    <title>Additional Problems</title>
+    <para id="para-00029"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00026"><link class="os-embed" url="#exercise/03-99-OC-VC01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00027"><link class="os-embed" url="#exercise/03-99-OC-VC02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00028"><link class="os-embed" url="#exercise/03-99-OC-VC03"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00068"><emphasis effect="bold"><span class="red-text">Functional Groups</span></emphasis></para>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00030"><link class="os-embed" url="#exercise/03-99-OC-AP01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00031"><link class="os-embed" url="#exercise/03-99-OC-AP02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00032"><link class="os-embed" url="#exercise/03-99-OC-AP03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00033"><link class="os-embed" url="#exercise/03-99-OC-AP04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00034"><link class="os-embed" url="#exercise/03-99-OC-AP05"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00035"><emphasis effect="bold"><span class="red-text">Isomers</span></emphasis></para>
+    <exercise id="exer-00013">
+    <problem id="prob-00013">
+    <para id="para-00036"><link class="os-embed" url="#exercise/03-99-OC-AP06"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00014">
+    <problem id="prob-00014">
+    <para id="para-00037"><link class="os-embed" url="#exercise/03-99-OC-AP07"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00015">
+    <problem id="prob-00015">
+    <para id="para-00038"><link class="os-embed" url="#exercise/03-99-OC-AP08"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00016">
+    <problem id="prob-00016">
+    <para id="para-00039"><link class="os-embed" url="#exercise/03-99-OC-AP09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00017">
+    <problem id="prob-00017">
+    <para id="para-00040"><link class="os-embed" url="#exercise/03-99-OC-AP10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00018">
+    <problem id="prob-00018">
+    <para id="para-00041"><link class="os-embed" url="#exercise/03-99-OC-AP11"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00042"><emphasis effect="bold"><span class="red-text">Naming Compounds</span></emphasis></para>
+    <exercise id="exer-00019">
+    <problem id="prob-00019">
+    <para id="para-00043"><link class="os-embed" url="#exercise/03-99-OC-AP12"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00020">
+    <problem id="prob-00020">
+    <para id="para-00044"><link class="os-embed" url="#exercise/03-99-OC-AP13"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00021">
+    <problem id="prob-00021">
+    <para id="para-00045"><link class="os-embed" url="#exercise/03-99-OC-AP14"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00046"><link class="os-embed" url="#exercise/03-99-OC-AP15"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00047"><link class="os-embed" url="#exercise/03-99-OC-AP16"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00024">
+    <problem id="prob-00024">
+    <para id="para-00048"><link class="os-embed" url="#exercise/03-99-OC-AP17"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00025">
+    <problem id="prob-00025">
+    <para id="para-00049"><link class="os-embed" url="#exercise/03-99-OC-AP18"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00026">
+    <problem id="prob-00026">
+    <para id="para-00050"><link class="os-embed" url="#exercise/03-99-OC-AP19"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00027">
+    <problem id="prob-00027">
+    <para id="para-00051"><link class="os-embed" url="#exercise/03-99-OC-AP20"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00052"><emphasis effect="bold"><span class="red-text">Conformations</span></emphasis></para>
+    <exercise id="exer-00028">
+    <problem id="prob-00028">
+    <para id="para-00053"><link class="os-embed" url="#exercise/03-99-OC-AP21"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00029">
+    <problem id="prob-00029">
+    <para id="para-00054"><link class="os-embed" url="#exercise/03-99-OC-AP22"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00030">
+    <problem id="prob-00030">
+    <para id="para-00055"><link class="os-embed" url="#exercise/03-99-OC-AP23"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00031">
+    <problem id="prob-00031">
+    <para id="para-00056"><link class="os-embed" url="#exercise/03-99-OC-AP24"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00032">
+    <problem id="prob-00032">
+    <para id="para-00057"><link class="os-embed" url="#exercise/03-99-OC-AP25"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00033">
+    <problem id="prob-00033">
+    <para id="para-00058"><link class="os-embed" url="#exercise/03-99-OC-AP26"/></para>
+    </problem>
+    </exercise>
+    <para id="para-00059"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+    <exercise id="exer-00034">
+    <problem id="prob-00034">
+    <para id="para-00060"><link class="os-embed" url="#exercise/03-99-OC-AP27"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00035">
+    <problem id="prob-00035">
+    <para id="para-00061"><link class="os-embed" url="#exercise/03-99-OC-AP28"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00062"><link class="os-embed" url="#exercise/03-99-OC-AP29"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00063"><link class="os-embed" url="#exercise/03-99-OC-AP30"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00038">
+    <problem id="prob-00038">
+    <para id="para-00064"><link class="os-embed" url="#exercise/03-99-OC-AP31"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00065"><link class="os-embed" url="#exercise/03-99-OC-AP32"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00066"><link class="os-embed" url="#exercise/03-99-OC-AP33"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00067"><link class="os-embed" url="#exercise/03-99-OC-AP34"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Reaction Stereochemistry: Addition of H<sub>2</sub>O to an Achiral Alkene</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Reaction Stereochemistry: Addition of H2O to an Achiral Alkene</md:title>
+    <md:content-id>m00100</md:content-id>
+    <md:uuid>1e01b029-093e-4973-8f65-a9dc9d82614e</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Most of the biochemical reactions that take place in the body, as well as many organic reactions in the laboratory, yield products with chirality centers. For example, acid-catalyzed addition of H<sub>2</sub>O to 1-butene in the laboratory yields 2-butanol, a chiral alcohol. What is the stereochemistry of this chiral product? If a single enantiomer is formed, is it <emphasis effect="italics">R</emphasis> or <emphasis effect="italics">S</emphasis>? If a mixture of enantiomers is formed, how much of each? In fact, the 2-butanol produced is a racemic mixture of <emphasis effect="italics">R</emphasis> and <emphasis effect="italics">S</emphasis> enantiomers. Let’s see why.</para>
+    <figure class="unnumbered scaled-down" id="fig-00001">
+    <media alt="An illustration shows a chemical reaction. Addition of water highlighted in pink to 1-Butene (achiral) in the presence of an acid catalyst forms a mixture of 50% (S)-2-Butanol and 50% (R)-2-Butanol. 1-Butene shows a four carbon chain with a double bond between C-1 and C-2. The S-configuration of 2-Butanol shows a stereocenter carbon bonded to a hydroxyl group above highlighted in pink a hydrogen to the right via a dashed bond a methyl group below via a solid wedge and another methyl group via a methylene bridge to the left. In the R- configuration the methyl group and the hydrogen lie to the left side of the carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_12_002.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">To understand why a racemic product results from the reaction of H<sub>2</sub>O with 1-butene, think about the reaction mechanism. 1-Butene is first protonated to yield an intermediate secondary carbocation. Because the trivalent carbon is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized and planar, the cation has a plane of symmetry and is achiral. As a result, it can react with H<sub>2</sub>O equally well from either the top or the bottom. Reaction from the top leads to (<emphasis effect="italics">S</emphasis>)-2-butanol through transition state 1 (TS 1) in <link target-id="fig-00002"/>, and reaction from the bottom leads to (<emphasis effect="italics">R</emphasis>)-2-butanol through TS 2. But the two transition states are mirror images, so they have identical energies, form at identical rates, and are equally likely to occur.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows a chemical reaction. Addition of water highlighted in pink to 1-Butene (achiral) in the presence of an acid catalyst forms a mixture of 50% (S)-2-Butanol and 50% (R)-2-Butanol. 1-Butene shows a four carbon chain with a double bond between C-1 and C-2. The S-configuration of 2-Butanol shows a stereocenter carbon bonded to a hydroxyl group above highlighted in pink a hydrogen to the right via a dashed bond a methyl group below via a solid wedge and another methyl group via a methylene bridge to the left. In the R- configuration the methyl group and the hydrogen lie to the left side of the carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_12_003.jpg"/>
+    </media>
+        <caption><emphasis effect="bold">Reaction of H<sub>2</sub>O with the carbocation resulting from protonation of 1-butene.</emphasis> Reaction from the top leads to <emphasis effect="italics">S</emphasis> product and is the mirror image of reaction from the bottom, which leads to <emphasis effect="italics">R</emphasis> product. Because they are energetically identical, they are equally likely and lead to a racemic mixture of products. The dotted C···O bond in the transition state indicates partial bond formation.</caption>
+      </figure>
+        <para id="para-00003">As a general rule, the formation of a new chirality center by achiral reactants always leads to a racemic mixture of enantiomeric products. Put another way, optical activity can’t appear from nowhere; an optically active product can only result by starting with an optically active reactant or chiral environment (<link document="m00061"/>).</para>
+    <para id="para-00004">In contrast to laboratory reactions, enzyme-catalyzed biological reactions often give a single enantiomer of a chiral product, even when the substrate is achiral. One step in the citric acid cycle of food metabolism, for instance, is the aconitase-catalyzed addition of water to (<emphasis effect="italics">Z</emphasis>)-aconitate (usually called <emphasis effect="italics">cis</emphasis>-aconitate) to give isocitrate.</para>
+    <figure class="unnumbered scaled-down" id="fig-00003">
+    <media alt="An illustration shows the structural formula of two terpenes. The first structure shows myrcene (oil of bay). It shows an octadiene skeleton with double bonds at C-1 and C-6 a methylene group at C-3 and a methyl group at C-7. The second structure shows alpha-pinene (turpentine). It shows a bicyclic heptene with one methyl group at C-2 and two methyl groups at C-6 and a double bond.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_12_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00005">Even though <emphasis effect="italics">cis</emphasis>-aconitate is achiral, only the (2<emphasis effect="italics">R</emphasis>,3<emphasis effect="italics">S</emphasis>) enantiomer of the product is formed. As discussed in <link document="m00060"/> and <link document="m00061"/>, <emphasis effect="italics">cis</emphasis>-aconitate is a prochiral molecule, which is held in a chiral environment by the aconitase enzyme during the reaction. In this environment, the two faces of the double bond are chemically distinct, and addition occurs on only the Re face at C2.</para>
+    <figure class="unnumbered scaled-down" id="fig-00004">
+    <media alt="An illustration shows the structural formula of two terpenes. The first structure shows humulene (oil of hops). It shows an 11-membered macrocycle consisting of three isoprene units with three double bonds at C-1 C-4 and C-8; two methyl groups are bonded to C-11 and a methyl group is bonded to C-4 and C-8. The second structure shows beta-Santalene (sandalwood oil). It shows a bicyclo [2.2.1] heptane with a methylidene group at C-2 and a methyl group at C-3; at C-3 a substituent shows a five-carbon chain with a double bond at the third carbon and a methyl group at the fourth carbon.">
+    <image mime-type="image/jpeg" src="../../media/OChem_08_12_005.jpg"/>
+    </media>
+    </figure>
+    </content>
+</document>

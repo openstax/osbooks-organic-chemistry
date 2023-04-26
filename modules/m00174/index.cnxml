@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Diels–Alder Cycloaddition Reaction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>The Diels–Alder Cycloaddition Reaction</md:title>
+    <md:content-id>m00174</md:content-id>
+    <md:uuid>695aad5e-470e-4870-843c-e92c77105abb</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Perhaps the most striking difference between conjugated and nonconjugated dienes is that conjugated dienes undergo an addition reaction with alkenes to yield substituted cyclohexene products. For example, 1,3-butadiene and 3-buten-2-one give 3-cyclohexenyl methyl ketone.</para>
+    <figure class="scaled-down unnumbered" id="fig-00001">
+    <media alt="An illustration shows a chemical reaction where 1 3-Butadiene reacts with 3-buten-2-one in the presence of toluene and heat to yield 3-Cyclohexenyl methyl ketone (96%). 1 3-Butadiene shows a methylene group double bonded to methine group that is bonded to another methine group double bonded to a methylene group. 3-buten-2-one shows a methyl group bonded to a carbonyl group that is bonded to a methine group double bonded to a methylene group. 3-Cyclohexenyl methyl ketone shows a cyclohexene bonded to an acetate group.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_04_001.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00002">This process, named the <term id="term-00001">Diels–Alder cycloaddition reaction</term> after its discoverers, is extremely useful in the laboratory because it forms two carbon–carbon bonds in a single step and is one of the few general methods available for making cyclic molecules. (As the name implies, a <emphasis effect="italics">cycloaddition</emphasis> reaction is one in which two reactants add together to give a cyclic product.) The 1950 Nobel Prize in Chemistry was awarded to Otto Diels and Kurt Alder in recognition of the importance of their discovery.</para>
+    <para id="para-00003">The mechanism of Diels–Alder cycloaddition is different from that of other reactions we’ve studied because it is neither polar nor radical. Rather, the Diels–Alder reaction is a <emphasis effect="italics">pericyclic</emphasis> process. Pericyclic reactions, which we’ll discuss in more detail in Chapter 30, take place in a single step by a cyclic redistribution of bonding electrons. The two reactants simply join together through a cyclic transition state in which the two new C–C bonds form at the same time.</para>
+    <para id="para-00004">We can picture a Diels–Alder addition as occurring by head-on (<emphasis effect="italics">σ</emphasis>) overlap of the two alkene <emphasis effect="italics">p</emphasis> orbitals with the two <emphasis effect="italics">p</emphasis> orbitals on carbons 1 and 4 of the diene (<link target-id="fig-00002"/>). This is, of course, a cyclic orientation of the reactants.</para>
+    <figure id="fig-00002">
+    <media alt="An illustration shows an orbital structure and a chemical reaction. The orbital structure shows a pair of p orbitals on the sides of an elongated oval orbital structure. The ball-and-stick model shows 4 gray balls representing carbon atoms and 6 white balls representing hydrogen atoms. Two carbon atoms are bonded to two hydrogen atoms each and the other two carbon atoms are bonded to 1 hydrogen atom each. A similar elongated oval orbital structure is shown at the bottom. The second alkene’s ball-and-stick model shows 2 black balls representing carbon atoms and 4 white balls representing hydrogen atoms. Each carbon atom is bonded to 2 hydrogen atoms. Both the orbital structures are connected through dotted lines. The chemical reaction is between two alkenes to yield an intermediate that further yields a cyclohexene. The first alkene shows a 4-carbon chain with two double bonds. C1 and C4 are bonded to two hydrogen atoms each. The second alkene is ethylene. The intermediate shows the alkenes closer with the formation of a dotted cyclohexane ring at the center.">
+    <image mime-type="image/jpeg" src="../../media/OChem_14_04_002.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">Mechanism of the Diels–Alder cycloaddition reaction.</emphasis> The reaction occurs in a single step through a cyclic transition state in which the two new C−C bonds form simultaneously.</caption>
+    </figure>
+    <para id="para-00005">In the Diels–Alder transition state, the two alkene carbons and carbons 1 and 4 of the diene rehybridize from <emphasis effect="italics">sp</emphasis><sup>2</sup> to <emphasis effect="italics">sp</emphasis><sup>3</sup> to form two new single bonds, while carbons 2 and 3 of the diene remain <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized to form the new double bond in the cyclohexene product. We’ll study this mechanism in more detail in <emphasis effect="bold">Section 30.5</emphasis> but will concentrate for the present on learning about the characteristics and uses of the Diels–Alder reaction.</para>
+    </content>
+</document>

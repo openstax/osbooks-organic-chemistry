@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Radical Reactions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Radical Reactions</md:title>
+    <md:content-id>m00079</md:content-id>
+    <md:uuid>3786f490-3db0-49f5-b313-ebb3e46b1108</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Radical reactions are much less common than polar reactions but are nevertheless important in some industrial processes and biological pathways. We’ll look at them in more detail in <emphasis effect="bold">Sections 10.2</emphasis> and <emphasis effect="bold">10.3</emphasis> but will briefly see how they occur at this point.</para>
+<para id="para-00002">A radical is highly reactive because it contains an atom with an odd number of electrons (usually seven) in its valence shell, rather than a noble-gas octet. The radical can achieve a valence-shell octet in several ways however. For instance, it might abstract an atom and one bonding electron from another reactant, leaving behind a new radical. The net result is a radical substitution reaction.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00001">
+<media alt="An illustration shows a reaction wherein a “reactant radical” comprising of a pink “Rad” having an electron labeled as “unpaired electron” reacts with a blue “A” sharing a pair of blue electrons with blue “B” to yield a “substitution product” having a ink “Rad” sharing a pink and a blue electron with blue “A” the second product formed is a “product radical” having an electron labeled as an “unpaired electron” attached to a blue “B.” Among the reactants a partial headed pink arrow points from blue “B” to the “unpaired electron” of pink Rad; a tiny partial headed blue arrow is shown to point from the pair of blue electrons to blue “B.”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_03_001.jpg"/>
+</media>
+</figure>
+<para id="para-00003">Alternatively, a reactant radical might add to a double bond, taking one electron from the double bond and yielding a new radical. The net result is a radical addition reaction.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00002">
+<media alt="An illustration shows a reaction wherein a “reactant radical” comprising of a pink “Rad” having an electron labeled as “unpaired electron” reacts with “an alkene” having two carbons sharing a blue double bond each carbon has two open bonds each to yield an “addition product radical” having a carbon with a bond to a pink “Rad” and two open bonds sharing a blue bond with another carbon having two open bonds and a blue electron labeled as an “unpaired electron.” Among the reactants a partial headed pink arrow points from the blue double bond to the pink electron; a small partial headed blue arrow points from the blue double bond to the upward open bond of carbon.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_03_002.jpg"/>
+</media>
+</figure>
+<para id="para-00004">An example of an industrially useful radical reaction is the reaction of chlorine with methane to yield chloromethane, which is used to manufacture the solvents dichloromethane (CH<sub>2</sub>Cl<sub>2</sub>) and chloroform (CHCl<sub>3</sub>). The process begins with irradiation of Cl<sub>2</sub> with ultraviolet light to break the relatively weak Cl<emphasis effect="bold">−</emphasis>Cl bond of Cl<sub>2</sub> and produce chlorine radicals (<emphasis effect="bold">·</emphasis>Cl).</para>
+<figure class="unnumbered scaled-down-30" id="fig-00003">
+<media alt="An illustration shows a reaction between methane and chlorine in the presence of light to form a chloromethane and hydrogen chloride. The structure of methane is shown as a centrally placed carbon bonded to three hydrogens and a blue hydrogen; chlorine is shown as two pink chlorine atoms bonded to each other; chloromethane is shown as a centrally placed carbon bonded to three hydrogens and a pink chlorine. Hydrogen chloride is shown as a blue hydrogen bonded to pink chlorine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_03_004.jpg"/>
+</media>
+</figure>
+<para id="para-00005">Chlorine radicals then react with methane by abstracting a hydrogen atom to give HCl and a methyl radical (<emphasis effect="bold">·</emphasis>CH<sub>3</sub>) that reacts further with Cl<sub>2</sub> to give chloromethane plus a new chlorine radical that cycles back and repeats the first step. Thus, once the sequence has started, it becomes a self-sustaining cycle of repeating steps (<emphasis effect="bold">a</emphasis>) and (<emphasis effect="bold">b</emphasis>), making the overall process a chain reaction.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00004">
+<media alt="An illustration shows chlorine molecule undergoing light irradiation to form reactive chlorine radicals. The chlorine molecule is shown as two pink chlorine atoms bonded to each other; each chlorine has three pairs of pink electrons and a common pair of pink electrons bonding both chlorine atoms. The radical shows “2” pink chlorine having three pairs of electrons and a single electron.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_03_005.jpg"/>
+</media>
+</figure>
+<para id="para-00006">As a biological example of a radical reaction, look at the synthesis of <emphasis effect="italics">prostaglandins</emphasis>, a large class of molecules found in virtually all body tissues and fluids. A number of pharmaceuticals are based on or derived from prostaglandins, including medicines that induce labor during childbirth, reduce intraocular pressure in glaucoma, control bronchial asthma, and help treat congenital heart defects.</para>
+<para id="para-00007">Prostaglandin biosynthesis is initiated by the abstraction of a hydrogen atom from arachidonic acid by an iron–oxygen radical, thereby generating a carbon radical in a substitution reaction. Don’t be intimidated by the size of the molecules; focus on the changes that occur in each step. (To help you do that, the unchanged part of the molecule is “ghosted,” with only the reactive part clearly visible.)</para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="An illustration shows “arachidonic acid” undergoing radical substitution to form ferrous hydroxide and a carbon radical. The structure of arachidonic acid shows HCO2 bonded to a nineteen carbon zig zag chain bent between eighth and tenth positions giving an appearance of a heptane ring; four double bonds are shown at the fourth seventh tenth and thirteenth positions on the chain; the twelfth position shows a dashed bond with hydrogen and a wedge bond with a pink hydrogen; a pink ferrous atom Fe having four pink open bonds and having a downward bond to a pink oxygen with a pink electron labeled as “oxygen radical” is shown placed above the nineteen carbon chain structure; a tiny partial headed pink arrow is shown pointing from oxygen radical to a spot beneath it and above the chained structure; another tiny partial headed pink arrow is shown pointing from the wedge bonded pink hydrogen to the spot above the chained structure; a third tiny partial headed pink arrow is shown pointing from the wedge bond to the position it is affixed. Ferrous hydroxide shows a pink ferrous atom having four pink open bonds and a downward fifth bond with oxygen bonded to hydrogen. The carbon radical product shows a similar structure as the reactant except that the twelfth position shows a bond with hydrogen and an electron labeled as “carbon radical.”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_03_007.jpg"/>
+</media>
+</figure>
+<para id="para-00008">Following the initial abstraction of a hydrogen atom, the carbon radical then reacts with O<sub>2</sub> to give an oxygen radical, which reacts with a C=C bond within the same molecule in an addition reaction. Several further transformations ultimately yield prostaglandin H<sub>2</sub>.</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="An illustration shows an oxygen radical undergoing radical addition to a yield an intermediate molecule that further undergoes several transformations to yield prostaglandin H2 (PGH2). The structure of oxygen radical shows HCO2 bonded to a nineteen carbon zig zag chain bent between eighth and tenth positions giving an appearance of a partial heptane ring the bent sides are shown as darkly shaded; four double bonds are shown at the fourth seventh eleventh and thirteenth positions on the chain; to the left of this structure are shown two pink oxygens sharing a pink bond; the upper oxygen has an electron and is labeled as “oxygen radical”; the lower oxygen shares a dashed bond with the tenth position which also shares a bond with hydrogen; a partially headed pink arrow points from the bond between seventh and eighth position to the pink electron of oxygen another arrow points from the same bond to the seventh position. The intermediate molecule shows a HCO2 bonded to a nineteen carbon zig zag chain bent between eighth and tenth positions giving an appearance of a partial heptane ring the bent sides are shown as darkly shaded; three double bonds are shown at the fourth eleventh and thirteenth positions on the chain; the seventh position shows an electron labeled as “carbon radical”; to the left of this structure are shown two pink oxygens sharing a pink bond; the upper oxygen shares a dashed bond with the eighth position and the same position also bonds to hydrogen; the lower pink oxygen shares a dashed bond with tenth position which also shares a bond with hydrogen. The structure of prostaglandin shows a cyclopentane tilted to 90 degree on its left; the upper left side of cyclopentane shows a bond with hydrogen and a dashed bond with oxygen that shares a downward bond with another oxygen; the lower oxygen bonds to the lower left side of the cyclopentane that also shares a bond with hydrogen; the upper right side of the cyclopentane shows a wedge bond with hydrogen; the lower right side of the cyclopentane shows a dashed bond with hydrogen; the upper right side of the ring shows a dashed bond with a six carbon chain attached to HCO2; the six carbon chain shows a double bond at the second position; the lower right side of ring shows a wedge bond to an eight carbon chain having a double bond at the first position; the third position shows a downward wedge bond with hydrogen and a dashed bond with a hydroxyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_03_008.jpg"/>
+</media>
+</figure>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00009"><link class="os-embed" url="#exercise/06-03-OC-P02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00010"><link class="os-embed" url="#exercise/06-03-OC-P03"/></para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>

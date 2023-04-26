@@ -1,0 +1,135 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Spin–Spin Splitting in <sup>1</sup>H NMR Spectra</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Spin–Spin Splitting in 1H NMR Spectra</md:title>
+    <md:content-id>m00149</md:content-id>
+    <md:uuid>e08c07d3-822c-42f4-8ecf-f6e920008cd6</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">In the <sup>1</sup>H NMR spectra we’ve seen thus far, each different kind of proton in a molecule has given rise to a single peak. It often happens, though, that the absorption of a proton splits into multiple peaks, called a <term id="term-00001">multiplet</term>. For example, in the <sup>1</sup>H NMR spectrum of bromoethane shown in <link target-id="fig-00001"/>, the –CH<sub>2</sub>Br protons appear as four peaks (a <emphasis effect="italics">quartet</emphasis>) centered at 3.42 <emphasis effect="italics">δ</emphasis> and the –CH<sub>3</sub> protons appear as three peaks (a <emphasis effect="italics">triplet</emphasis>) centered at 1.68 <emphasis effect="italics">δ</emphasis>.</para>
+    <figure class="scaled-down" id="fig-00001">
+    <media alt="An illustration shows 1H NMR spectrum of bromoethane shown as a methyl group having a blue hydrogen bonded to a methylene group with pink hydrogen bonded to bromine. The left of spectrum shows a tabulated format having “chemical shift 1.68 and 3.42” at “relative area 1.50 and 1.00.” The vertical axis shows increasing “intensity”; the horizontal axis shows chemical shift (delta) starting from 10 ppm on the left up to 0 ppm on the right of the graph; a line marking the end of spectrum is shown after 0 ppm. The spectrum shows ruled lines stretching over the values on horizontal axis. A pink quartet comprising of four peaks is shown at 3.42 delta and a blue triplet comprising of three peaks is shown at 1.68 delta. A peak labeled as pink “TMS” is shown at 0 ppm. A stair-step is shown over the peaks.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_001.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The <sup>1</sup>H NMR spectrum of bromoethane, CH<sub>3</sub>CH<sub>2</sub>Br.</emphasis> The –CH<sub>2</sub>Br protons appear as a quartet at 3.42 <emphasis effect="italics">δ</emphasis>, and the –CH<sub>3</sub> protons appear as a triplet at 1.68 <emphasis effect="italics">δ</emphasis>.</caption>
+    </figure>
+    <para id="para-00002">Called <term id="term-00002">spin–spin splitting</term>, multiple absorptions of a nucleus are caused by the interaction, or <term id="term-00003">coupling</term>, of the spins of nearby nuclei. In other words, the tiny magnetic field produced by one nucleus affects the magnetic field felt by a neighboring nucleus. Look at the –CH<sub>3</sub> protons in bromoethane, for example. The three equivalent –CH<sub>3</sub> protons are neighbored by two other magnetic nuclei—the two protons on the adjacent –CH<sub>2</sub>Br group. Each of the neighboring –CH<sub>2</sub>Br protons has its own nuclear spin, which can align either with or against the applied field, producing a tiny effect that is felt by the –CH<sub>3</sub> protons.</para>
+    <para id="para-00003">There are three ways in which the spins of the two –CH<sub>2</sub>Br protons can align, as shown in <link target-id="fig-00002"/>. If both proton spins align with the applied field, the total effective field felt by the neighboring –CH<sub>3</sub> protons is slightly larger than it would be otherwise. Consequently, the applied field necessary to cause resonance is slightly reduced. Alternatively, if one of the –CH<sub>2</sub>Br proton spins aligns with the field and one aligns against the field, there is no effect on the neighboring –CH<sub>3</sub> protons. (This arrangement can occur in two ways, depending on which of the two proton spins aligns which way.) Finally, if both –CH<sub>2</sub>Br proton spins align against the applied field, the effective field felt by the –CH<sub>3</sub> protons is slightly smaller than it would be otherwise, and the applied field needed for resonance is slightly increased.</para>
+    <figure class="scaled-down" id="fig-00002">
+    <media alt="An illustration shows spin-spin splitting in bromoethane in two parts. The first part shows splitting in CH2Br (pink hydrogen) corresponding with the quartet formed at 3.42 delta; beneath the structure is shown a pink line labeled as “B applied”; the line branches into four parts; under each branch are shown three arrows labeled as “B proton”; the left and right branch show left and right pointing arrows; beneath the left and right branches are shown dashed lines leading to small pink peaks; the two central branches show three sets of arrows wherein each set shows three arrows in mixed directions; below them are shown short dashed lines leading to taller pink peaks of similar heights. The distance between the inner and outer peaks is labeled as “J equal to coupling constant equal to 7 Hz.” The second part shows splitting in CH3 (blue hydrogen) at 1.68 delta; a blue line beneath is labeled as “B applied” which branches into three lines; each branch show a pair of arrow; the left and right arrows point rightward and leftward whereas the central branch shows two pairs of left and right pointing arrows placed above one another; below the arrows are showed dashed lines leading to peaks; the left and right peaks are short while the central peak is taller; the distance between the central and left peak is labeled as “J equal to coupling constant equal to 7 Hz.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_002.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The origin of spin–spin splitting in bromoethane.</emphasis> The nuclear spins of neighboring protons, indicated by horizontal arrows, align either with or against the applied field, causing the splitting of absorptions into multiplets.</caption>
+    </figure>
+    <para id="para-00004">Any given molecule has only one of the three possible alignments of –CH<sub>2</sub>Br spins, but in a large collection of molecules, all three spin states are represented in a 1 : 2 : 1 statistical ratio. We therefore find that the neighboring –CH<sub>3</sub> protons come into resonance at three slightly different values of the applied field, and we see a 1 : 2 : 1 triplet in the NMR spectrum. One resonance is a little above where it would be without coupling, one is at the same place it would be without coupling, and the third resonance is a little below where it would be without coupling.</para>
+    <para id="para-00005">In the same way that the –CH<sub>3</sub> absorption of bromoethane is split into a triplet, the –CH<sub>2</sub>Br absorption is split into a quartet. The three spins of the neighboring –CH<sub>3</sub> protons can align in four possible combinations: all three with the applied field, two with and one against (three ways), one with and two against (three ways), or all three against. Thus, four peaks are produced for the –CH<sub>2</sub>Br protons in a 1 : 3 : 3 : 1 ratio.</para>
+    <para id="para-00006">As a general rule, called the <term id="term-00004"><emphasis effect="italics">n</emphasis> + 1 rule</term>, protons that have <emphasis effect="italics">n</emphasis> equivalent neighboring protons show <emphasis effect="italics">n</emphasis> + 1 peaks in their NMR spectrum. For example, the spectrum of 2-bromopropane in <link target-id="fig-00003"/> shows a <emphasis effect="italics">doublet</emphasis> at 1.71 <emphasis effect="italics">δ</emphasis> and a seven-line multiplet, or <emphasis effect="italics">septet,</emphasis> at 4.28 <emphasis effect="italics">δ</emphasis>. The septet is caused by splitting of the –CHBr– proton signal by six equivalent neighboring protons on the two methyl groups (<emphasis effect="italics">n</emphasis> = 6 leads to 6 + 1 = 7 peaks). The doublet is due to signal splitting of the six equivalent methyl protons by the single –CHBr– proton (<emphasis effect="italics">n</emphasis> = 1 leads to 2 peaks). Integration confirms the expected 6 : 1 ratio.</para>
+    <figure class="scaled-down" id="fig-00003">
+    <media alt="An illustration shows 1 NMR spectrum of 2-bromopropane; the structure shows a methyl group with blue hydrogen bonded to a carbon bonded to a bromine at the top and a pink hydrogen on the right. The carbon is bonded to a methyl group having a blue hydrogen on the right. The left of spectrum shows chemical shifts 1.71 and 4.28; relative area are 6.00 and 1.00. The vertical axis shows increasing intensity; horizontal axis shows chemical shift (delta) from 10 ppm on the left and ending at 0 ppm on the right; a line showing the end of spectrum is placed after 0 ppm. A pink septet comprising of seven short peaks is shown at 4.28 delta; a blue doublet comprising of two tall peaks is shown at 1.71 delta. A stair-step is shown over the peaks.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_003.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The <sup>1</sup>H NMR spectrum of 2-bromopropane.</emphasis> The –CH<sub>3</sub> proton signal at 1.71 <emphasis effect="italics">δ</emphasis> is split into a doublet, and the –CHBr– proton signal at 4.28 <emphasis effect="italics">δ</emphasis> is split into a septet. Note that the distance between peaks is the same in both multiplets. Note also that the two outer peaks of the septet are small enough to be nearly missed.</caption>
+    </figure>
+    <para id="para-00007">The distance between peaks in a multiplet is called the <term id="term-00005">coupling constant</term> and is denoted <emphasis effect="italics">J</emphasis>. Coupling constants are measured in hertz and generally fall in the range 0 to 18 Hz. The exact value of the coupling constant between two neighboring protons depends on the geometry of the molecule, but a typical value for an open-chain alkane is <emphasis effect="italics">J</emphasis> = 6 to 8 Hz. The same coupling constant is shared by both groups of hydrogens whose spins are coupled and is independent of spectrometer field strength. In bromoethane, for instance, the –CH<sub>2</sub>Br protons are coupled to the  –CH<sub>3</sub> protons and appear as a quartet with <emphasis effect="italics">J</emphasis> = 7 Hz. The –CH<sub>3</sub> protons appear as a triplet with the same <emphasis effect="italics">J</emphasis> = 7 Hz coupling constant.</para>
+    <para id="para-00008">Because coupling is a reciprocal interaction between two adjacent groups of protons, it’s sometimes possible to tell which multiplets in a complex NMR spectrum are related to each other. If two multiplets have the same coupling constant, they are probably related, and the protons causing those multiplets are therefore adjacent in the molecule.</para>
+    <para id="para-00009">The most commonly observed coupling patterns and the relative intensities of lines in their multiplets are listed in <link target-id="table-00001"/>. Note that it’s not possible for a given proton to have five equivalent neighboring protons. (Why not?) A six-line multiplet, or sextet, is therefore found only when a proton has five nonequivalent neighboring protons that coincidentally happen to be coupled with an identical coupling constant <emphasis effect="italics">J</emphasis>.</para>
+    <table summary="" id="table-00001">
+    <title>Some Common Spin Multiplicities</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row valign="top">
+    <entry valign="top" align="left">Number of equivalent adjacent protons</entry>
+    <entry valign="top" align="left">Multiplet</entry>
+    <entry valign="top" align="center">Ratio of intensities</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="center">0</entry>
+    <entry valign="top" align="left">Singlet</entry>
+    <entry valign="top" align="center">1</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center">1</entry>
+    <entry valign="top" align="left">Doublet</entry>
+    <entry valign="top" align="center">1 : 1</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center">2</entry>
+    <entry valign="top" align="left">Triplet</entry>
+    <entry valign="top" align="center">1 : 2 : 1</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center">3</entry>
+    <entry valign="top" align="left">Quartet</entry>
+    <entry valign="top" align="center">1 : 3 : 3 : 1</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center">4</entry>
+    <entry valign="top" align="left">Quintet</entry>
+    <entry valign="top" align="center">1 : 4 : 6 : 4 : 1</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="center">6</entry>
+    <entry valign="top" align="left">Septet</entry>
+    <entry valign="top" align="center">1 : 6 : 15 : 20 : 15 : 6 : 1</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00010">Spin–spin splitting in <sup>1</sup>H NMR can be summarized by three rules.</para>
+    <para id="para-00011"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis><newline /><emphasis effect="bold">Chemically equivalent protons don’t show spin–spin splitting.</emphasis> Equivalent protons may be on the same carbon or on different carbons, but their signals don’t split.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <media alt="An illustration shows two parts. The first part reads: “three C-H protons are chemically equivalent; no splitting occurs”; the accompanying structure shows a centrally placed carbon dash bonded to a hydrogen wedge bonded to a hydrogen and single bonded to a hydrogen and chlorine. The hydrogen atoms are shown in blue. The second part reads: “four C-H protons are chemically equivalent; no splitting occurs”; the accompanying structure shows a carbon bonded to another carbon; each carbon is single bonded to a chlorine atom dash bonded to a hydrogen and wedge bonded to a hydrogen.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_004.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00012"><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis><newline /><emphasis effect="bold">The signal of a proton with <emphasis effect="italics">n</emphasis> equivalent neighboring protons is split into a multiplet of <emphasis effect="italics">n</emphasis></emphasis> + <emphasis effect="bold">1 peaks with coupling constant <emphasis effect="italics">J</emphasis>.</emphasis> Protons that are farther than two carbon atoms apart don’t usually couple, although they sometimes show weak coupling when they are separated by a <emphasis effect="italics">π</emphasis> bond.</para>
+    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <media alt="An illustration shows two parts. The first part labeled as “splitting observed” shows a carbon bonded to another carbon; each carbon shows two open bonds and is bonded to a pink hydrogen atom at the top. The second part labeled as “splitting not usually observed” shows a three-carbon chain. Each carbon shows two free bonds. C1 and C3 are bonded to a blue hydrogen each.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_005.jpg"/>
+    </media>
+    </figure>
+    <para id="para-00013"><emphasis effect="bold"><span class="red-text">RULE 3</span></emphasis><newline /><emphasis effect="bold">Two groups of protons coupled to each other have the same coupling constant, <emphasis effect="italics">J</emphasis>.</emphasis></para>
+    <para id="para-00014">The spectrum of <emphasis effect="italics">para</emphasis>-methoxypropiophenone in <link target-id="fig-00006"/> further illustrates these three rules. The downfield absorptions at 6.91 and 7.93 <emphasis effect="italics">δ</emphasis> are due to the four aromatic-ring protons. There are two kinds of aromatic protons, each of which gives a signal that is split into a doublet by its neighbor. The –OCH<sub>3</sub> signal is unsplit and appears as a sharp singlet at 3.84 <emphasis effect="italics">δ.</emphasis> The –CH<sub>2</sub>– protons next to the carbonyl group appear at 2.93 <emphasis effect="italics">δ</emphasis> in the region expected for protons on carbon next to an unsaturated center, and their signal is split into a quartet by coupling with the protons of the neighboring methyl group. The methyl protons appear as a triplet at 1.20 <emphasis effect="italics">δ</emphasis> in the usual upfield region.</para>
+    <figure class="scaled-down" id="fig-00006">
+    <media alt="An illustration shows 1H NMR spectrum of para-methoxy-propiophenone. The structure shows a pink benzene bonded to a methoxide group having green hydrogen at the lower left of the ring and the upper right is bonded to a carbonyl group whose carbon bonds to an ethyl group having blue hydrogen. A box on the left of graph shows chemical shifts 1.20 2.93 3.84 6.91 7.93 at relative area 1.50 1.00 1.50 1.00 1.00. The horizontal axis shows “chemical shift (delta)” starting from 10 ppm on the left to 0 ppm on the right at the interval of 1 unit. The vertical axis shows increasing intensity. A cluster of two small pink peaks is shown at 7.93; another cluster of two small pink peaks is shown at 6.91; a tall green peak is shown at 3.84; a cluster of four small blue peaks (shown in expanded view) is shown at 2.93 delta; a cluster of three medium sized peaks is shown near 1.20 delta; at 0 ppm is shown pink “TMS”; a stair step is shown over the three peaks from left and moves above the two peaks at 2.93 delta and 1.20 delta on the right.">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_006.jpg"/>
+    </media>
+    <caption><emphasis effect="bold">The <sup>1</sup>H NMR spectrum of <emphasis effect="italics">para</emphasis>-methoxypropiophenone.</emphasis></caption>
+    </figure>
+    <example id="exam-00001">
+    <title>Assigning a Chemical Structure from a <sup>1</sup>H NMR Spectrum</title>
+    <para id="para-00015">Propose a structure for a compound, C<sub>5</sub>H<sub>12</sub>O, that fits the following <sup>1</sup>H NMR data: 0.92 <emphasis effect="italics">δ</emphasis> (3 H, triplet, <emphasis effect="italics">J</emphasis> = 7 Hz), 1.20 <emphasis effect="italics">δ</emphasis> (6 H, singlet), 1.50 <emphasis effect="italics">δ</emphasis> (2 H, quartet, <emphasis effect="italics">J</emphasis> = 7 Hz), 1.64 <emphasis effect="italics">δ</emphasis> (1 H, broad singlet).</para>
+    <para id="para-00016"><title><span class="red-text">Strategy</span></title> It’s best to begin solving structural problems by calculating a molecule’s degree of unsaturation (we’ll see this again in <link document="m00155" target-id="exam-00001">Worked Example 13.4</link>). In the present instance, a formula of C<sub>5</sub>H<sub>12</sub>O corresponds to a saturated, open-chain molecule, either an alcohol or an ether.</para>
+    <para id="para-00017">To interpret the NMR information, let’s look at each absorption individually. The three-proton absorption at 0.92 <emphasis effect="italics">δ</emphasis> is due to a methyl group in an alkane-like environment, and the triplet-splitting pattern implies that the CH<sub>3</sub> is next to a CH<sub>2</sub>. Thus, our molecule contains an ethyl group, CH<sub>3</sub>CH<sub>2</sub>–. The six-proton singlet at 1.20 <emphasis effect="italics">δ</emphasis> is due to two equivalent alkane-like methyl groups attached to a carbon with no hydrogens, (CH<sub>3</sub>)<sub>2</sub>C, and the two-proton quartet at 1.50 <emphasis effect="italics">δ</emphasis> is due to the CH<sub>2</sub> of the ethyl group. All 5 carbons and 11 of the 12 hydrogens in the molecule are now accounted for. The remaining hydrogen, which appears as a broad one-proton singlet at 1.64 <emphasis effect="italics">δ,</emphasis> is probably due to an OH group, since there is no other way to account for it. Putting the pieces together gives the structure: 2-methyl-2-butanol.</para>
+    <para id="para-00018"><title><span class="cyan-text">Solution</span></title></para>
+    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <media alt="An illustration shows the structure of “2-Methyl-2-butanol.” A carbon is bonded to a hydroxyl group at the bottom methyl group on the left and at the top. The hydrogen atoms of the methyl groups are shown in pink; both methyl groups are labeled as “1.20 delta”; the carbon is bonded to a methylene group (with green hydrogens) bonded to a methyl group (with blue hydrogens). The green hydrogen is labeled as “1.50 delta” and the blue hydrogen is labeled as “0.92 delta.”">
+    <image mime-type="image/jpeg" src="../../media/OChem_13_06_007.jpg"/>
+    </media>
+    </figure>
+    </example>
+    <section class="section-exercises" id="sect-00001">
+    <title>Problems</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00019"><link class="os-embed" url="#exercise/13-06-OC-P09"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00020"><link class="os-embed" url="#exercise/13-06-OC-P10"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00021"><link class="os-embed" url="#exercise/13-06-OC-P11"/></para>
+    </problem>
+    </exercise>
+    </section>
+    </content>
+</document>

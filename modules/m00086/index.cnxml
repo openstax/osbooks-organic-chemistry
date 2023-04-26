@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Describing a Reaction: Intermediates</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Describing a Reaction: Intermediates</md:title>
+    <md:content-id>m00086</md:content-id>
+    <md:uuid>0d97aa95-c1f7-4454-b540-40a029a8bc6b</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">How can we describe the carbocation formed in the first step of the reaction of ethylene with HBr? The carbocation is clearly different from the reactants, yet it isn’t a transition state and it isn’t a final product.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows two steps of a reaction wherein an ethylene molecule and blue hydrogen bromide reacts to form a “reaction intermediate” that further forms an ethyl bromide. The structure of ethylene shows two carbons sharing a pink double bond each carbon is bonded to two hydrogens; a pink arrow points from the pink double bond to the blue hydrogen bromide H-Br placed above; another pink arrow points from the bond between hydrogen and bromine to bromine. The reaction intermediate placed in a parenthesis shows a carbon sharing an upward bond with blue hydrogen and a side and downward bond with two hydrogens; the carbon is further bonded to a carbon cation bonded to two hydrogens; outside the parenthesis is shown a blue bromine anion having four pairs of electrons; a pink arrow points from bromine to the carbon cation. The structure of ethyl bromide shows a hydrogen bonded to carbon having an upward bond to blue hydrogen and a downward bond with another hydrogen; the carbon is bonded to another carbon attached to two hydrogens and a blue bromine.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_10_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">We call the carbocation, which exists only transiently during the course of the multistep reaction, a <term id="term-00001">reaction intermediate</term>. As soon as the intermediate is formed in the first step by reaction of ethylene with H<sup>+</sup>, it reacts further with Br<sup>−</sup> in a second step to give the final product, bromoethane. This second step has its own activation energy (Δ<emphasis effect="italics">G</emphasis><sup>‡</sup>), its own transition state, and its own energy change (Δ<emphasis effect="italics">G</emphasis>°). We can picture the second transition state as an activated complex between the electrophilic carbocation intermediate and the nucleophilic bromide anion, in which Br<sup>−</sup> donates a pair of electrons to the positively charged carbon atom as the new C−Br bond just starts to form.</para>
+<para id="para-00003">A complete energy diagram for the overall reaction of ethylene with HBr is shown in <link target-id="fig-00002"/>. In essence, we draw a diagram for each of the individual steps and then join them so that the carbocation product of step 1 is the reactant for step 2. As indicated in <link target-id="fig-00002"/>, the reaction intermediate lies at an energy minimum between steps. Because the energy level of the intermediate is higher than the level of either the reactant that formed it or the product it yields, the intermediate can’t normally be isolated. It is, however, more stable than its two neighboring transition states.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An illustration shows an energy diagram having “reaction progress” on the x-axis and a thick upward pointing orangish arrow labeled “energy” is shown on the y-axis. The graph shows an ascending peak labeled as “first transition state” followed by a trough labeled as “carbocation intermediate” then moves upward to form a lower second peak labeled as the “second transition state”; the reactants “ethylene” C2H4 and “hydrogen bromide” HBr are shown below halfway mark on the y-axis; the activation energy between reactant state and the first transition state is “delta G1 double dagger”; the difference between activation energy of carbocation intermediate and the second transition state is “delta G2 double dagger”; the free-energy change between the reactant and the end product ethyl bromide CH3CH2Br is denoted as “delta G degree.”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_10_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">An energy diagram for the reaction of ethylene with HBr.</emphasis> Two separate steps are involved, each with its own activation energy (Δ<emphasis effect="italics">G</emphasis><sup>‡</sup>) and free-energy change (Δ<emphasis effect="italics">G</emphasis>°). The overall Δ<emphasis effect="italics">G</emphasis><sup>‡</sup> for the complete reaction is the energy difference between reactants and the highest transition state (which corresponds to Δ<emphasis effect="italics">G</emphasis>1<sup>‡</sup> in this case), and the overall Δ<emphasis effect="italics">G</emphasis>° for the reaction is the energy difference between reactants and final products.</caption>
+</figure>
+<para id="para-00004">Each step in a multistep process can always be considered separately. Each step has its own Δ<emphasis effect="italics">G</emphasis><sup>‡</sup> and its own Δ<emphasis effect="italics">G</emphasis>°. The overall activation energy that controls the rate of the reaction, however, is the energy difference between initial reactants and the highest transition state, regardless of which step it occurs in. The overall Δ<emphasis effect="italics">G</emphasis>° of the reaction is the energy difference between reactants and final products.</para>
+<para id="para-00005">The biological reactions that take place in living organisms have the same energy requirements as reactions that take place in the laboratory and can be described in similar ways. They are, however, constrained by the fact that they must have low enough activation energies to occur at moderate temperatures, and they must release energy in relatively small amounts to avoid overheating the organism. These constraints can be met through the use of large, structurally complex, enzyme catalysts that alter the mechanism of a reaction to a pathway that can proceed through a series of small steps rather than one or two large steps. Thus, an energy diagram for a biological reaction might look like that in <link target-id="fig-00003"/>.</para>
+<figure class="scaled-down" id="fig-00003">
+<media alt="An illustration shows an energy diagram having “reaction progress” on the x-axis and a thick upward pointing orangish arrow labeled “energy” is shown on the y-axis. A smooth pink hemispherical curve labeled as “uncatalyzed” is shown above the near linear wavy green curve labeled as “enzyme catalyzed.”">
+<image mime-type="image/jpeg" src="../../media/OChem_06_10_003.jpg"/>
+</media>
+<caption><emphasis effect="bold">Energy diagrams for a typical, <span class="cyan-text">enzyme-catalyzed biological reaction</span></emphasis> and <emphasis effect="bold">an <span class="magenta-text">uncatalyzed laboratory reaction</span></emphasis>. The biological reaction involves many steps, each of which has a relatively small activation energy and small energy change. The end result is the same, however.</caption>
+</figure>
+<example id="exam-00001">
+<title>Drawing a Reaction Energy Diagram</title>
+<para id="para-00006">Sketch an energy diagram for a one-step reaction that is fast and highly exergonic.</para>
+<para id="para-00007"><title><span class="red-text">Strategy</span></title> A fast reaction has a small Δ<emphasis effect="italics">G</emphasis><sup>‡</sup>, and a highly exergonic reaction has a large negative Δ<emphasis effect="italics">G</emphasis>°.</para>
+<para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down-30" id="fig-00004">
+<media alt="An illustration shows an energy diagram having “reaction progress” on the x-axis and a thick upward pointing orangish arrow labeled “energy” is shown on the y-axis. A pink curve starting above the half-way mark on the y-axis shows a peak and recedes sharply. The activation energy between the reactant and transition state is “delta G double dagger” and the difference between the reactant state and end product is shown as “delta G degree”; the value of delta G degree is greater than delta G double dagger.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_10_004.jpg"/>
+</media>
+</figure>
+</example>
+<example id="exam-00002">
+<title>Drawing a Reaction Energy Diagram</title>
+<para id="para-00009">Sketch an energy diagram for a two-step exergonic reaction whose second step has a higher-energy transition state than its first step. Show Δ<emphasis effect="italics">G</emphasis><sup>‡</sup> and Δ<emphasis effect="italics">G</emphasis>° for the overall reaction.</para>
+<para id="para-00010"><title><span class="red-text">Strategy</span></title> A two-step reaction has two transition states and an intermediate between them. The Δ<emphasis effect="italics">G</emphasis><sup>‡</sup> for the overall reaction is the energy change between reactants and the highest-energy transition state—the second one in this case. An exergonic reaction has a negative overall Δ<emphasis effect="italics">G</emphasis>°.</para>
+<para id="para-00011"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down-30" id="fig-00005">
+<media alt="An illustration shows an energy diagram having “reaction progress” on the x-axis and a thick upward pointing orangish arrow labeled “energy” is shown on the y-axis. A pink curve starting below the half-way mark on the y-axis shows a peak and recedes to form a trough to again rise and form a higher peak. The activation energy between the reactant and transition state of second peak is “delta G double dagger” and the difference between the reactant state and end product is shown as “delta G degree”; the value of delta G double dagger is greater than the delta G degree.">
+<image mime-type="image/jpeg" src="../../media/OChem_06_10_005.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00012"><link class="os-embed" url="#exercise/06-10-OC-P13"/></para>
+</problem>
+</exercise>
+</section>
+  </content>
+</document>
