@@ -57,7 +57,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_007.jpg"/>
     </media>
     </figure>
-    <para id="para-00009">As shown in <link target-id="fig-00008"/>, base-catalyzed nitrile hydrolysis involves nucleophilic addition of hydroxide ion to the polar <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math> bond to give an imine anion in a process similar to the nucleophilic addition to a polar C═O bond to give an alkoxide anion. Protonation then gives a hydroxy imine, which tautomerizes <emphasis effect="bold">(<link document="m00106">Section 9.4</link>)</emphasis> to an amide in a step similar to the tautomerization of an enol to a ketone. Further hydrolysis gives a carboxylate ion.</para>
+    <para id="para-00009">As shown in <link target-id="fig-00008"/>, base-catalyzed nitrile hydrolysis involves nucleophilic addition of hydroxide ion to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond to give an imine anion in a process similar to the nucleophilic addition to a polar C═O bond to give an alkoxide anion. Protonation then gives a hydroxy imine, which tautomerizes <emphasis effect="bold">(<link document="m00106">Section 9.4</link>)</emphasis> to an amide in a step similar to the tautomerization of an enol to a ketone. Further hydrolysis gives a carboxylate ion.</para>
     <figure class="mechanism-figure scaled-down" id="fig-00008">
     <title>MECHANISM</title>
     <media alt="Alt Text Placeholder">
@@ -74,7 +74,7 @@
     </section>
     <section id="sect-00004">
     <title>Reduction: Conversion of Nitriles into Amines</title>
-    <para id="para-00011">Reduction of a nitrile with LiAlH<sub>4</sub> gives a primary amine, RNH<sub>2</sub>. The reaction occurs by nucleophilic addition of hydride ion to the polar <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math> bond, yielding an imine anion, which still contains a C═N bond and therefore undergoes a second nucleophilic addition of hydride to give a <emphasis effect="italics">dianion</emphasis>. Both monoanion and dianion intermediates are undoubtedly stabilized by Lewis acid–base complexation to an aluminum species, facilitating the second addition that would otherwise be difficult. Protonation of the dianion by addition of water in a subsequent step gives the amine.</para>
+    <para id="para-00011">Reduction of a nitrile with LiAlH<sub>4</sub> gives a primary amine, RNH<sub>2</sub>. The reaction occurs by nucleophilic addition of hydride ion to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond, yielding an imine anion, which still contains a C═N bond and therefore undergoes a second nucleophilic addition of hydride to give a <emphasis effect="italics">dianion</emphasis>. Both monoanion and dianion intermediates are undoubtedly stabilized by Lewis acid–base complexation to an aluminum species, facilitating the second addition that would otherwise be difficult. Protonation of the dianion by addition of water in a subsequent step gives the amine.</para>
     <figure class="unnumbered" id="fig-00010">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_010.jpg"/>
@@ -103,7 +103,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_013.jpg"/>
     </media>
     </figure>
-    <para id="para-00015"><title><span class="red-text">Strategy</span></title> A ketone results from the reaction between a Grignard reagent and a nitrile, with the <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math> carbon of the nitrile becoming the carbonyl carbon. Identify the two groups attached to the carbonyl carbon atom in the product. One will come from the Grignard reagent and the other will come from the nitrile.</para>
+    <para id="para-00015"><title><span class="red-text">Strategy</span></title> A ketone results from the reaction between a Grignard reagent and a nitrile, with the <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> carbon of the nitrile becoming the carbonyl carbon. Identify the two groups attached to the carbonyl carbon atom in the product. One will come from the Grignard reagent and the other will come from the nitrile.</para>
     <para id="para-00016"><title><span class="cyan-text">Solution</span></title> There are two possibilities.</para>
     <figure class="unnumbered scaled-down" id="fig-00014">
     <media alt="Alt Text Placeholder">
