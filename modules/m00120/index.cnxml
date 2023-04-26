@@ -6,7 +6,7 @@
     <md:uuid>6a14cec5-46ed-4f74-9bfe-a32cbe924220</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">We’ve pointed out on several occasions that some of the reactions discussed in this and earlier chapters are either oxidations or reductions. As noted in <link document="m00095">Section 8.7</link>, an organic oxidation results in a loss of electron density by carbon, caused either by bond formation between carbon and a more electronegative atom (usually O, N, or a halogen) or by bond-breaking between carbon and a less electronegative atom (usually H). Conversely, an organic reduction results in a gain of electron density by carbon, caused either by bond formation between carbon and a less electronegative atom or by bond-breaking between carbon and a more electronegative atom (<link document="m00094">Section 8.6</link>).</para>
+    <para id="para-00001">We’ve pointed out on several occasions that some of the reactions discussed in this and earlier chapters are either oxidations or reductions. As noted in <link document="m00095"/>, an organic oxidation results in a loss of electron density by carbon, caused either by bond formation between carbon and a more electronegative atom (usually O, N, or a halogen) or by bond-breaking between carbon and a less electronegative atom (usually H). Conversely, an organic reduction results in a gain of electron density by carbon, caused either by bond formation between carbon and a less electronegative atom or by bond-breaking between carbon and a more electronegative atom (<link document="m00094"/>).</para>
     <para id="para-00002"><m:math><m:mrow><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mspace width="3em"/><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext style="color: #E00087">Oxidation</m:mtext></m:mstyle><m:mspace width="2em"/></m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow><m:mtext>Decreases electron density on carbon by:</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>forming one of these:</m:mtext><m:mspace width="0.2em"/><m:mtext>C−</m:mtext><m:mtext style="color: #E00087">O</m:mtext><m:mspace width="1.2em"/><m:mtext>C−</m:mtext><m:mtext style="color: #E00087">N</m:mtext><m:mspace width="1.2em"/><m:mtext>C−</m:mtext><m:mtext style="color: #E00087">X</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>or breaking this:</m:mtext><m:mspace width="0.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #0078A3">H</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mspace width="3em"/><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext style="color: #0078A3">Reduction</m:mtext></m:mstyle><m:mspace width="2em"/></m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow><m:mtext>Increases electron density on carbon by:</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>forming this:</m:mtext><m:mspace width="0.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #0078A3">H</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>or breaking one of these:</m:mtext><m:mspace width="0.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #E00087">O</m:mtext><m:mspace width="1.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #E00087">N</m:mtext><m:mspace width="1.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #E00087">X</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
     <para id="para-00003">Based on these definitions, the chlorination reaction of methane to yield chloromethane is an oxidation because a C−H bond is broken and a C−Cl bond is formed. The conversion of an alkyl chloride to an alkane via a Grignard reagent followed by protonation is a reduction, however, because a C−Cl bond is broken and a C−H bond is formed.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
@@ -100,13 +100,13 @@
     <list list-type="enumerated" id="list-00002">
     <item>Preparation of alkyl halides
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
-    <item>From alkenes by allylic bromination (<link document="m00115">Section 10.3</link>)<newline/>
+    <item>From alkenes by allylic bromination (<link document="m00115"/>)<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00008">
     <media alt="An illustration shows the reaction of an alkene in the presence of NBS hv and CCl4 to yield an alkyl bromide. The alkene shows a carbon double bonded to a carbon that is bonded to another carbon. The first carbon shows two free bonds; the second carbon shows one free bond. The third carbon shows two double bonds and is bonded to a hydrogen. The alkyl bromide is similar to the reactant but the bromine is replaced by a bromine.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_001.jpg"/>
     </media>
     </figure></item>
-    <item>From alcohols (<link document="m00117">Section 10.5</link>)
+    <item>From alcohols (<link document="m00117"/>)
     
     <para id="para-00058">(1) Reaction with HX</para>
     <figure class="unnumbered scaled-down-30" id="fig-00009">
@@ -135,13 +135,13 @@
     </item></list></item>
     <item>Reactions of alkyl halides
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
-    <item>Formation of Grignard (organomagnesium) reagents (<link document="m00118">Section 10.6</link>)<newline/>
+    <item>Formation of Grignard (organomagnesium) reagents (<link document="m00118"/>)<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00013">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_006.jpg"/>
     </media>
     </figure></item>
-    <item>Formation of Gilman (diorganocopper) reagents (<link document="m00119">Section 10.7</link>)<newline/>
+    <item>Formation of Gilman (diorganocopper) reagents (<link document="m00119"/>)<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00014">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_007.jpg"/>
@@ -152,7 +152,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_008.jpg"/>
     </media>
     </figure></item>
-    <item>Organometallic coupling (<link document="m00119">Section 10.7</link>)<newline/>
+    <item>Organometallic coupling (<link document="m00119"/>)<newline/>
     
     <para id="para-00062">(1) Diorganocopper reaction</para>
     <figure class="unnumbered scaled-down" id="fig-00016">
