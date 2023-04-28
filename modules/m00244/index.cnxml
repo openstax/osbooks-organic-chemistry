@@ -73,7 +73,7 @@
     </media>
     </figure>
     </section>
-    </section>
+    
     <section class="section-exercises" id="sect-00004">
     <title>Problems</title>
     <exercise id="exer-00001">
@@ -81,7 +81,8 @@
     <para id="para-00011"><link class="os-embed" url="#exercise/21-06-OC-P16"/></para>
     </problem>
     </exercise>
-        <section id="sect-00005">
+    </section>
+    <section id="sect-00005">
     <title>Conversion of Esters into Amides: Aminolysis</title>
     <para id="para-00012">Esters react with ammonia and amines to yield amides. The reaction is not often used, however, because it’s usually easier to prepare an amide by starting with an acid chloride (<link document="m00242"/>).</para>
     <figure class="unnumbered scaled-down" id="fig-00010">
@@ -111,7 +112,7 @@
     </media>
     </figure>
   </section>
-    </section>
+    
     <section class="section-exercises" id="sect-00007">
     <title>Problems</title>
     <exercise id="exer-00002">
@@ -124,6 +125,7 @@
     <para id="para-00017"><link class="os-embed" url="#exercise/21-06-OC-P18"/></para>
     </problem>
     </exercise>
+    </section>
     <section id="sect-00008">
     <title>Conversion of Esters into Alcohols: Grignard Reaction</title>
     <para id="para-00018">Esters react with 2 equivalents of a Grignard reagent to yield a tertiary alcohol in which two of the substituents are identical (<link document="m00204"/>). The reaction occurs by the usual nucleophilic substitution mechanism to give an intermediate ketone, which reacts further with the Grignard reagent to yield a tertiary alcohol.</para>
@@ -133,7 +135,7 @@
     </media>
     </figure>
     </section>
-    </section>
+    
     <section class="section-exercises" id="sect-00009">
     <title>Problems</title>
     <exercise id="exer-00004">
@@ -141,6 +143,7 @@
     <para id="para-00019"><link class="os-embed" url="#exercise/21-06-OC-P19"/></para>
     </problem>
     </exercise>
+    </section>
     </section>
     </content>
 </document>
