@@ -1,21 +1,88 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
-  <title>Future Module</title>
+  <title>Names and Properties of Ethers</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Future Module</md:title>
+    <md:title>Names and Properties of Ethers</md:title>
     <md:content-id>m00074</md:content-id>
     <md:uuid>3fc7319a-a34f-4b03-bd73-4f058c24d706</md:uuid>
   </metadata>
-  <content><para id="para-00001">This is a future section.</para>
-    <note id="note-00001">
-      <title>Future Note</title>
-      <para id="para-00002">Testing</para>
-    </note>
-    <section class="chemistry-matters" id="sect-00005">
+  <content>
+<para id="para-00001">Simple ethers with no other functional groups are named by identifying the two organic substituents and adding the word <emphasis effect="italics">ether.</emphasis></para>
+<figure class="unnumbered scaled-down-30" id="fig-00001">
+<media alt="An illustration shows the structure of “Isopropyl methyl ether” and “Ethyl phenyl ether.” The structure of Isopropyl methyl ether shows an oxygen atom bonded to a methyl group and a carbon atom bonded to 2 methyl groups and a hydrogen atom. The structure of ethyl phenyl ether shows an oxygen atom bonded to a benzene ring on one side and an ethyl group on the other. The oxygen atom is highlighted in both the structures.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_01_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">If other functional groups are present, the ether part is considered an <emphasis effect="italics">alkoxy</emphasis> substituent. For example:</para>
+<figure class="unnumbered scaled-down-30" id="fig-00002">
+<media alt="An illustration shows the structure of “p-Dimethoxybenzene” and “4-tert-Butoxy-1-cyclohexene.” The structure of p-Dimethoxybenzene shows a benzene ring with C1 and C4 bonded to a methoxy group each. The structure of 4-tert-Butoxy-1-cyclohexene shows a cyclohexene with a double bond at C1. The carbon atoms are numbered from 1 to 4. C4 is bonded to an oxygen atom bonded to a carbon atom bonded to 3 methyl groups.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_01_002.jpg"/>
+</media>
+</figure>
+<para id="para-00007">Like alcohols, ethers have nearly the same geometry as water. The R–O–R bonds have an approximately tetrahedral bond angle (112° in dimethyl ether), and the oxygen atom is <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows the orbital picture space filling model and electrostatic potential map of dimethyl ether. The orbital picture shows an oxygen atom with 2 pink tear shaped structures. Both the structures have 2 electrons each. The oxygen atom is bonded to 2 methyl groups on either side and the bond angle between them is shown as “112 degrees.” The space filling model shows red ball (oxygen) gray balls (carbons) and white balls (hydrogens). The electrostatic potential map containing a ball-and-stick model shows a central oxygen bonded to two methyl groups. The region around the oxygen is red and that around the methyl groups is greenish blue.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_01_003.jpg"/>
+</media>
+</figure>
+<para id="para-00008">The electronegative oxygen atom gives ethers a slight dipole moment, and the boiling points of ethers are often slightly higher than the boiling points of comparable alkanes. <link target-id="table-00001"/> compares the boiling points of some common ethers and their corresponding hydrocarbons.</para>
+<table summary="" id="table-00001">
+<title>Comparison of Boiling Points of Ethers and Hydrocarbons</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Ether</entry>
+<entry valign="top" align="left">Boiling point °C</entry>
+<entry valign="top" align="left">Hydrocarbon</entry>
+<entry valign="top" align="left">Boiling point °C</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>OCH<sub>3</sub></entry>
+<entry valign="top" align="left">–25</entry>
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">–45</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">34.6</entry>
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">36</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_18_01_004a.jpg"/></media></entry>
+<entry valign="top" align="left">65</entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_18_01_004c.jpg"/></media></entry>
+<entry valign="top" align="left">49</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_18_01_004b.jpg"/></media></entry>
+<entry valign="top" align="left">158</entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_18_01_004d.jpg"/></media></entry>
+<entry valign="top" align="left">136</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00009">Ethers are relatively stable and unreactive in many respects, but some ethers react slowly with the oxygen in air to give <emphasis effect="italics">peroxides,</emphasis> compounds that contain an O–O bond. The peroxides from low-molecular-weight ethers such as diisopropyl ether and tetrahydrofuran are explosive and extremely dangerous, even in small amounts. Ethers are very useful as solvents in the laboratory, but they must always be used cautiously and should not be stored for long periods of time.</para>
+<section class="chemistry-matters" id="note-00001">
       <title>Testing</title>
       <para id="para-00003">Testing</para>
       <para id="para-00004">In an ESI source, as a sample solution exits the tube, it is subjected to a high voltage that causes the droplets to become charged. The sample molecules gain one or more protons from charged solvent molecules in the droplet. The volatile solvent quickly evaporates, giving variably protonated sample molecules (<m:math><m:mrow><m:mtext>M</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mi>n</m:mi></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mi>n</m:mi></m:msup></m:mrow><m:mo>+</m:mo></m:msup></m:mrow></m:math>) giving variably protonated sample molecules M + H<emphasis effect="italics"><sub>n</sub></emphasis><sup><emphasis effect="italics">n</emphasis>+</sup>. In a MALDI source, the sample is adsorbed onto a suitable matrix compound, such as 2,5-dihydroxybenzoic acid, which is ionized by a short burst of laser light. The matrix compound then transfers the energy to the sample and protonates it, forming <m:math><m:mrow><m:mtext>M</m:mtext><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mi>n</m:mi></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mi>n</m:mi></m:msup></m:mrow><m:mo>+</m:mo></m:msup></m:mrow></m:math> ions.</para>
       <para id="para-00005">Not surprisingly, the positive charge often remains with the fragment that is best able to stabilize it. In other words, a relatively stable carbocation is often formed during fragmentation. For example, 2,2-dimethylpropane tends to fragment in such a way that the positive charge remains with the <emphasis effect="italics">tert</emphasis>-butyl group. 2,2-Dimethylpropane therefore has a base peak at <emphasis effect="italics">m/z</emphasis> = 57, corresponding to C<sub>4</sub>H<sub>9</sub><sup>+</sup>.</para>
       <para id="para-00006">Look at the IR spectra of hexane, 1-hexene, and 1-hexyne in to see an example of how IR spectroscopy can be used. Although all three IR spectra contain many peaks, there are characteristic absorptions of C=C and <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> C≡C functional groups that allow the three compounds to be distinguished. Thus, 1-hexene shows a characteristic C=C absorption at 1660 cm<sup>–1</sup> and a vinylic =C–H absorption at 3100 cm<sup>–1</sup>, whereas 1-hexyne has a <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> absorption at 2100 cm<sup>–1</sup> and a terminal alkyne <m:math><m:mrow><m:mtext>≡C</m:mtext><m:mo>–</m:mo><m:mtext>H</m:mtext></m:mrow></m:math> absorption at 3300 cm<sup>–1</sup>.  ≡C–H absorption at 3300 cm<sup>–1</sup>.</para>
     </section>
-  </content>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00010"><link class="os-embed" url="#exercise/18-01-OC-P01"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
