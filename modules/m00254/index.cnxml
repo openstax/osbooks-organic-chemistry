@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Thiols and Sulfides</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Thiols and Sulfides</md:title>
+    <md:content-id>m00254</md:content-id>
+    <md:uuid>6eec8c4b-60d3-430b-8ba0-768e31edf58f</md:uuid>
+  </metadata>
+  <content>
+<section id="sect-00001">
+<title>Thiols</title>
+<para id="para-00001">Thiols, also called <emphasis effect="bold">mercaptans</emphasis>, are sulfur analogs of alcohols. They are named by the same system used for alcohols, with the suffix -<emphasis effect="italics">thiol</emphasis> used in place of -<emphasis effect="italics">ol.</emphasis> The –SH group itself is referred to as a <term id="term-00001">mercapto group</term>. Like alcohols, thiols are weakly acidic; the p<emphasis effect="italics">K</emphasis><sub>a</sub> of CH<sub>3</sub>SH, for instance, is 10.3. Unlike alcohols, however, thiols don’t typically form hydrogen bonds because the sulfur atom is not sufficiently electronegative.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows three structures. The first structure Ethanethiol shows an ethyl group bonded to thiol group. The second structure Cyclohexanethiol shows a cyclohexane bonded to a thiol group. The third structure m-Mercaptobenzoic acid shows a benzene with C1 bonded to a carboxyl group and C3 bonded to a thiol group. The thiol groups in all the three structures are shown in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">The most striking characteristic of thiols is their appalling odor. Skunk scent, for instance, is caused primarily by the simple thiols 3-methyl-1-butanethiol and 2-butene-1-thiol. Volatile thiols such as ethanethiol are also added to natural gas and liquefied propane to serve as an easily detectable warning in case of leaks.</para>
+<para id="para-00003">Thiols are usually prepared from alkyl halides by S<sub>N</sub>2 displacement with a sulfur nucleophile such as hydrosulfide anion, <sup>–</sup>SH.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where 1-Bromooctane reacts with pink hydrosulfide anion and yields 1-Octanethiol (83%) and blue bromide ion. The structure of 1-Bromooctane shows an 8-carbon chain with C1 bonded to a blue bromine atom. The hydrosulfide anion shows a negative charge and six electrons. An arrow from these electrons points to C1. An arrow from the C1-Br bond points to Br. The structure of 1-Octanethiol shows an 8-carbon chain with C1 bonded to a pink thiol group.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_002.jpg"/>
+</media>
+</figure>
+<para id="para-00004">The reaction often works poorly unless an excess of the nucleophile is used because the product thiol can undergo a second S<sub>N</sub>2 reaction with alkyl halide to give a <term id="term-00002">sulfide</term> <emphasis effect="bold">(R–S–Rʹ)</emphasis> as by-product. To circumvent this problem, thiourea, <m:math><m:mrow><m:msub><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>S</m:mtext></m:mrow></m:math>, is often used as the nucleophile in the preparation of a thiol from an alkyl halide. The reaction occurs by displacement of the halide ion to yield an intermediate alkyl isothiourea salt, which is hydrolyzed by subsequent reaction with aqueous base.</para>
+<figure class="unnumbered" id="fig-00003">
+<media alt="An illustration shows a chemical reaction where 1-Bromooctane combines with thiourea to yield an intermediate compound which in the presence of pink water and sodium hydroxide yields 1-Octanethiol (83%) and urea. The structure of 1-Bromooctane shows an 8-carbon chain with C1 bonded to a blue bromine. The structure of thiourea shows a central carbon atom single bonded to two amine groups on either sides and double bonded to a sulfur atom with 2 pairs of electrons. An arrow from the electrons of sulfur points to C1 of 1-bromooctane. An arrow from the C1-Br bond points to Br. The structure of the intermediate compound shows an 8-carbon chain bonded to a pink sulfur cation that is double bonded to a carbon which is bonded to two methyl groups. A bromide anion is shown above this chain. The structure of 1-Octanethiol shows an 8-carbon chain with C1 bonded to a pink thiol group. The structure of urea shows a carbonyl group bonded to 2 amino groups on either sides. The carbonyl oxygen is shown in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_003.jpg"/>
+</media>
+</figure>
+<para id="para-00005">Thiols can be oxidized by Br<sub>2</sub> or I<sub>2</sub> to yield <term id="term-00003">disulfides (R–S–S–R′)</term>. The reaction is easily reversed, and a disulfide can be reduced back to a thiol by treatment with zinc and acid.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00004">
+<media alt="An illustration shows a chemical reaction where 2 moles of a thiol in the presence of iodine yields a disulfide and 2 moles of hydrogen iodide. The structure of thiol shows an R bonded to pink SH. The structure of disulfide shows 2 sulfur atoms (pink) bonded to each other; each sulfur is bonded to an R. The backward reaction is catalyzed by Zn and H plus.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_004.jpg"/>
+</media>
+</figure>
+<para id="para-00006">This thiol–disulfide interconversion is a key part of numerous biological processes. We’ll see in Chapter 26, for instance, that disulfide formation is involved in defining the structure and three-dimensional conformations of proteins, where disulfide “bridges” often form cross-links between cysteine amino-acid units in the protein chains. Disulfide formation is also involved in the process by which cells protect themselves from oxidative degradation. A cellular component called <emphasis effect="italics">glutathione</emphasis> removes potentially harmful oxidants and is itself oxidized to glutathione disulfide in the process. Reduction back to the thiol requires the coenzyme reduced flavin adenine dinucleotide, abbreviated FADH<sub>2</sub>.</para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="An illustration shows a reversible chemical reaction where 2 moles of Glutathione (GSH) in the presence of hydrogen peroxide (shown in pink) and flavin adenine dinucleotide (shown in blue) yields Glutathione disulfide (GSSG). The first structural formula of Glutathione (GSH) shows a 7-carbon chain with a nitrogen monohydride between C4 and C5 C6 and C7. C1 is dash bonded to a hydrogen atom wedge bonded to ammonium ion and single bonded to a carboxylate ion. C4 is double bonded to an oxygen atom; C5 is wedge bonded to a hydrogen atom and dash bonded to methylene group bonded to green thiol group. C7 is double bonded to an oxygen atom; C7 is bonded to a carboxylate ion. The second structural formula is similar to the first one but C1 is wedge bonded to a hydrogen atom dash bonded to ammonium ion and single bonded to a carboxylate ion. C5 is dash bonded to a hydrogen atom and wedge bonded to methylene group bonded to green thiol group. The structure of Glutathione disulfide (GSSG) shows the two structures linked by S-S bond where the hydrogen atoms of both thiol groups are lost resulting in new bond formation between the 2 sulfur atoms.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_005.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00002">
+<title>Sulfides</title>
+<para id="para-00007">Sulfides are the sulfur analogs of ethers just as thiols are the sulfur analogs of alcohols. Sulfides are named by following the same rules used for ethers, with <emphasis effect="italics">sulfide</emphasis> used in place of <emphasis effect="italics">ether</emphasis> for simple compounds and <emphasis effect="italics">alkylthio</emphasis> used in place of <emphasis effect="italics">alkoxy</emphasis> for more complex substances.</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="An illustration shows 3 structures. The first structure Dimethyl sulfide shows a sulfur atom bonded to 2 methyl groups. The second structure Methyl phenyl sulfide shows a benzene bonded to a sulfur atom that is bonded to a methyl group. The third structure 3-(Methylthio)cyclohexene shows a cyclohexene with a double bond at C1. C3 is bonded to a sulfur atom bonded to a methyl group. sulfur atoms in all the structures are highlighted in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_006.jpg"/>
+</media>
+</figure>
+<para id="para-00008">Treatment of a thiol with a base, such as NaH, gives the corresponding <term id="term-00004">thiolate ion</term> (RS<sup>–</sup>), which undergoes reaction with a primary or secondary alkyl halide to give a sulfide. The reaction occurs by an S<sub>N</sub>2 mechanism, analogous to the Williamson synthesis of ethers (<link document="m00249"/>).</para>
+<figure class="unnumbered scaled-down" id="fig-00007">
+<media alt="An illustration shows a chemical reaction where “Sodium benzenethiolate” reacts with iodomethane and yields “Methyl phenyl sulfide (96%)” and pink “sodium iodide.” The structure of Sodium benzenethiolate shows a benzene bonded to a pink sulfur anion with 3 pairs of electrons and bonded to a pink sodium cation. In iodomethane the methyl group is shown in green and iodine atom in pink. An arrow from the electrons of sulfur points to methyl group. An arrow from the CH3-I bond points to I. The structure of Methyl phenyl sulfide shows a benzene bonded to pink sulfur atom bonded to a green methyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_007.jpg"/>
+</media>
+</figure>
+<para id="para-00009">Despite their close structural similarity, sulfides and ethers differ substantially in their chemistry. Because the valence electrons on sulfur are farther from the nucleus and are less tightly held than those on oxygen (3<emphasis effect="italics">p</emphasis> electrons versus 2<emphasis effect="italics">p</emphasis> electrons), sulfur compounds are more nucleophilic than their oxygen analogs. Unlike dialkyl ethers, dialkyl sulfides react rapidly with primary alkyl halides by an S<sub>N</sub>2 mechanism to give <term id="term-00005">sulfonium ions</term> (R<sub>3</sub>S<sup>+</sup>).</para>
+<figure class="unnumbered scaled-down-30" id="fig-00008">
+<media alt="An illustration shows a chemical reaction where “Dimethyl sulfide” reacts with “Iodomethane” in the presence of Tetrahydrofuran to yield “Trimethylsulfonium iodide.” The structure of dimethyl sulfide shows a sulfur atom with 2 pairs of electrons bonded to 2 methyl groups on either sides. The sulfur atom and the electron pairs are shown in pink. An arrow from the electrons of sulfur points to methyl group. An arrow from the CH3-I bond points to I. The structure of Trimethylsulfonium iodide shows a sulfur cation with a pair of electrons bonded to 3 methyl groups one of which is a part of iodomethane. One of the methyl groups is highlighted in green. The iodine atom in iodomethane is an anion and is shown in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_008.jpg"/>
+</media>
+</figure>
+<para id="para-00010">The most common example of this process in living organisms is the reaction of the amino acid methionine with adenosine triphosphate (ATP; <link document="m00084"/>) to give <emphasis effect="italics">S</emphasis>-adenosylmethionine. The reaction is somewhat unusual in that the biological leaving group in this S<sub>N</sub>2 process is the <emphasis effect="italics">triphosphate</emphasis> ion rather than the more frequently seen diphosphate ion (<link document="m00127"/>).</para>
+<figure class="unnumbered scaled-down" id="fig-00009">
+<media alt="An illustration shows a chemical reaction where methionine combines with Adenosine Triphosphate (ATP) and undergoes SN2 process to yield Triphosphate ion and S-Adenosylmethionine. The structure of methionine shows a line angle formula with a 3 carbon chain with C1 single bonded to a carboxylate ion wedge bonded to a hydrogen atom and dash bonded to ammonium ion. C3 is bonded to a sulfur atom (shown in pink) having 2 pairs of electrons and bonded to a methyl group. The structure of Adenosine Triphosphate (ATP) shows a chain of 3 green phosphate groups bonded to an oxygen atom at the end. The oxygen atom is bonded to a methylene group that is bonded to C4 of a furanose ring. C5 of the ring is bonded to a nitrogen atom of an imidazole ring that is part of a purine ring; the pyrimidine ring is bonded to an amino group. The adenosine structure is dimmed in gray. A pink curved arrow from the electrons of sulfur atom points to the methylene group bonded to C1 of furanose. Another pink arrow from the bond between the methylene group and oxygen of phosphate group points to the oxygen. The structure of Triphosphate ion is shown in green. The structure of S-Adenosylmethionine is similar to ATP but the methylene group is not bonded to phosphate groups; it is bonded to a pink sulfur cation bonded to a methyl group at the top and a 3-carbon chain on the left. C3 of the chain is single bonded to a carboxylate ion wedge bonded to a hydrogen atom and dash bonded to ammonium ion.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_009.jpg"/>
+</media>
+</figure>
+<para id="para-00011">Sulfonium ions are themselves useful alkylating agents because a nucleophile can attack one of the groups bonded to the positively charged sulfur, displacing a neutral sulfide as leaving group. We saw an example of this in <link document="m00127"/> (<link>Figure 11_06_OChem-11-06-003_80485-11-16_Norepineph</link>), in which <emphasis effect="italics">S</emphasis>-adenosylmethionine transferred a methyl group to norepinephrine to give adrenaline.</para>
+<para id="para-00012">Another difference between sulfides and ethers is that sulfides are easily oxidized. Treatment of a sulfide with hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>, at room temperature yields the corresponding <term id="term-00006">sulfoxide (R2SO)</term>, and further oxidation of the sulfoxide with a peroxyacid yields a <term id="term-00007">sulfone (R2SO2)</term>.</para>
+<figure class="unnumbered scaled-down" id="fig-00010">
+<media alt="An illustration shows a chemical reaction where “Methyl phenyl sulfide” reacts in the presence of pink hydrogen peroxide and water at 25 degrees C to yield “Methyl phenyl sulfoxide” that in the presence of a peroxyacid yields “Methyl phenyl sulfone.” The structure of methyl phenyl sulfide shows a benzene bonded to a sulfur atom with 2 pairs of electrons which is bonded to a methyl group. The sulfur atom and the electron pairs are shown in pink. The structure of Methyl phenyl sulfoxide shows a benzene bonded to a sulfur atom with a pair of electrons. The sulfur atom is bonded to a methyl group and double bonded to an oxygen atom. The sulfur atom pair of electrons double bond and the oxygen atom are highlighted in pink. The structure of Methyl phenyl sulfone shows a benzene bonded to a sulfur atom double bonded to 2 oxygen atoms and single bonded to a methyl group. The sulfur atom double bonds and 2 oxygen atoms are shown in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_010.jpg"/>
+</media>
+</figure>
+<para id="para-00013">Dimethyl sulfoxide (DMSO) is a particularly well-known sulfoxide that is often used as a polar aprotic solvent. It must be handled with care, however, because it has a remarkable ability to penetrate the skin, carrying along whatever is dissolved in it.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00011">
+<media alt="An illustration shows a structure of “Dimethyl sulfoxide (a polar aprotic solvent)” having a central sulfur atom with a pair of electrons bonded to 2 methyl groups on either side and also double bonded to an oxygen atom. The sulfur atom pair of electrons double bond and the oxygen atom are highlighted in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_08_011.jpg"/>
+</media>
+</figure>
+</section>
+<section class="section-exercises" id="sect-00003">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00014"><link class="os-embed" url="#exercise/18-08-OC-P16"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00015"><link class="os-embed" url="#exercise/18-08-OC-P17"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
