@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Preparing Ethers</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Preparing Ethers</md:title>
+    <md:content-id>m00249</md:content-id>
+    <md:uuid>99f1de15-b612-4c57-9e34-bba3194c7207</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">Diethyl ether and other simple symmetrical ethers are prepared industrially by the sulfuric-acid-catalyzed reaction of alcohols. The reaction occurs by S<sub>N</sub>2 displacement of water from a protonated ethanol molecule by the oxygen atom of a second ethanol. Unfortunately, this method is limited to use with primary alcohols because secondary and tertiary alcohols dehydrate by an E1 mechanism to yield alkenes (<link document="m00205"/>).</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows the structures and the steps involved in the preparation of diethyl ether. Ethanol reacts with pink hydronium ion to yield a protonated ethanol that further reacts with a second ethanol (SN2 reaction) to yield pink water and an alcohol that yields diethyl ether and pink hydronium ion. Ethanol shows a carbon atom bonded to 2 hydrogen atoms 1 methyl group and an oxygen atom with 2 pairs of electrons bonded to a hydrogen atom. An arrow from the electrons of ethanol points to hydrogens of hydronium ion. The protonated ethanol shows a carbon atom bonded to 2 hydrogen atoms 1 methyl group and an oxygen atom bonded to 2 hydrogen atoms. The oxygen shows a positive charge and two electrons. An arrow from the electrons of the second ethanol points to the central carbon of the protonated ethanol. The alcohol shows a positively charged central oxygen atom with a pair of electrons bonded to a hydrogen atom and 2 ethyl groups one each side. Diethyl ether shows a central pink oxygen bonded to an ethyl group on the left and an ethyl group on the right.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_001.jpg"/>
+</media>
+</figure>
+<section id="sect-00001">
+<title>The Williamson Ether Synthesis</title>
+<para id="para-00002">The most generally useful method of preparing ethers is the <term id="term-00001">Williamson ether synthesis</term>, in which an alkoxide ion reacts with a primary alkyl halide or tosylate in an S<sub>N</sub>2 reaction. As we saw in <link document="m00201"/>, the alkoxide ion is normally prepared by reaction of an alcohol with a strong base such as sodium hydride, NaH.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a 2-step reaction in which cyclopentanol reacts with NaH and THF to yield an Alkoxide ion that reacts with methyl iodide to yield Cyclopentyl methyl ether (74%). Cyclopentanol shows a cyclopentane bonded to a pink hydroxyl group. The alkoxide ion shows a cyclopentane bonded to a pink oxygen anion that shows six electrons and bonded to sodium cation. An arrow from the electrons of oxygen points to green methyl group. An arrow from the CH3-pink I bond points to the pink I. Cyclopentyl methyl ether shows a cyclopentane bonded to a pink oxygen bonded to green methyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_002.jpg"/>
+</media>
+</figure>
+<para id="para-00003">A useful variation of the Williamson synthesis involves silver oxide, Ag<sub>2</sub>O, as a mild base rather than NaH. Under these conditions, the free alcohol reacts directly with the alkyl halide, so there is no need to preform the metal alkoxide intermediate. Sugars react particularly well; glucose, for example, reacts with excess iodomethane in the presence of Ag<sub>2</sub>O to generate a pentaether in 85% yield.</para>
+<figure class="unnumbered" id="fig-00003">
+<media alt="An illustration shows a reaction in which alpha-D-glucose reacts with methyl iodide and silver oxide to yield D-Glucose pentamethyl ether (85%) and AgI. alpha-D-glucose shows pyranose with C1 C2 C3 and C4 bonded to a hydroxyl group each. C5 is bonded to a hydroxy methyl group. The hydroxyl groups are pink. The structure of alpha -D-Glucose pentamethyl ether is similar to the reactant but the hydroxyl groups are replaced by a methoxide group each. The oxygen atoms are pink and the methyl groups are green.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_003.jpg"/>
+</media>
+</figure>
+<para id="para-00004">Because the Williamson synthesis is an S<sub>N</sub>2 reaction, it is subject to all the usual constraints, as discussed in <link document="m00124"/>. Primary halides and tosylates work best because competitive E2 elimination can occur with more hindered substrates. Unsymmetrical ethers should therefore be synthesized by reaction between the more hindered alkoxide partner and less hindered halide partner rather than vice versa. For example, <emphasis effect="italics">tert</emphasis>-butyl methyl ether, a substance used in the 1990s as an octane booster in gasoline, is best prepared by reaction of <emphasis effect="italics">tert</emphasis>-butoxide ion with iodomethane rather than by reaction of methoxide ion with 2-chloro-2-methylpropane.</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="An illustration shows 2 chemical reactions. The first reaction shows tert-Butoxide reacting with iodomethane to yield tert-Butyl methyl ether and iodide ion. tert-Butoxide shows a central carbon atom bonded to 3 methyl groups and an oxygen anion. An arrow from the oxygen anion points to green methyl group of methyl iodide. An arrow from the CH3-I bond points to I. tert-Butyl methyl ether shows a central carbon atom bonded to 3 methyl groups and an oxygen atom bonded to green methyl group. Oxygen anion in tert-Butoxide Iodine in Iodomethane oxygen atom in tert-Butyl methyl ether and iodide ion are shown in pink. The second reaction shows an intermediary reaction in parentheses in which 2-Chloro-2-methylpropane yields 2-Methylpropene methanol and chloride ion. The structure of 2-Chloro-2-methylpropane shows two carbons single bonded. The first carbon atom is bonded to 3 hydrogen atoms. One of these hydrogen atoms is pink. The second carbon atom is bonded to 2 methyl groups and a pink chlorine. A methoxide group shows a negative charge and six electrons. An arrow from the electrons of methoxide group points to the pink hydrogen. An arrow from the bond between the second carbon and chlorine points to chlorine. 2-Methylpropene shows a double bond between two carbon atoms. The first carbon atom is bonded to 2 hydrogen atoms. The second carbon atom is bonded to 2 methyl groups. In methanol the methyl group and oxygen are shown in blue and hydrogen is pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_004.jpg"/>
+</media>
+</figure>
+</section>
+<section class="section-exercises" id="sect-00002">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00005"><link class="os-embed" url="#exercise/18-02-OC-P02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00006"><link class="os-embed" url="#exercise/18-02-OC-P03"/></para>
+</problem>
+</exercise>
+</section>
+<section id="sect-00003">
+<title>Alkoxymercuration of Alkenes</title>
+<para id="para-00007">We saw in <link document="m00092"/> that alkenes react with water in the presence of mercuric acetate to yield a hydroxymercuration product. Subsequent treatment with NaBH<sub>4</sub> breaks the C–Hg bond and yields the alcohol. A similar <term id="term-00002">alkoxymercuration</term> reaction occurs when an alkene is treated with an alcohol in the presence of mercuric acetate or, even better, mercuric trifluoroacetate, (CF<sub>3</sub>CO<sub>2</sub>)<sub>2</sub>Hg. Demercuration by reaction with NaBH<sub>4</sub> then yields an ether. The net result is Markovnikov addition of the alcohol to the alkene.</para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="An illustration shows 2 chemical reactions. The first reaction shows styrene reacting in the presence of mercuric trifluoroacetate (shown in pink) and Sodium borohydride (shown in blue) and methanol yielding and an intermediate shown in parentheses. This intermediate compound in the presence of sodium borohydride (shown in green) yields 1-Methoxy-1-phenylethane (97%). Styrene shows benzene bonded to a methine group double bonded to a methylene group. The intermediate structure shows benzene bonded to a carbon atom that is bonded to a hydrogen atom a methoxide group (shown in blue) and a carbon atom bonded to 2 hydrogen atoms and CF3CO2Hg (shown in pink). 1-Methoxy-1-phenylethane is similar to the intermediate but the CF3CO2Hg group is replaced by a green hydrogen. The second reaction shows a “Cyclohexene” in the presence of mercuric trifluoroacetate (shown in pink) ethanol (shown in blue) and Sodium Borohydride yielding “Cyclohexyl ethyl ether (100%)” whose structure shows an alkene bonded to a blue ethoxide group.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_005.jpg"/>
+</media>
+</figure>
+<para id="para-00008">The mechanism of the alkoxymercuration reaction is similar to that described in <link document="m00092"/> for hydroxymercuration. The reaction is initiated by electrophilic addition of Hg<sup>2+</sup> to the alkene, followed by reaction of the intermediate cation with alcohol and reduction of the C–Hg bond by NaBH<sub>4</sub>. A variety of alcohols and alkenes can be used in alkoxymercuration. Primary, secondary, and even tertiary alcohols react well, but ditertiary ethers can’t be prepared because of steric hindrance.</para>
+<example id="exam-00001">
+<title>Synthesizing an Ether</title>
+<para id="para-00009">How would you prepare ethyl phenyl ether? Use whichever method you think is more appropriate, Williamson synthesis or the alkoxymercuration reaction.</para>
+<para id="para-00010"><title><span class="red-text">Strategy</span></title> Draw the target ether, identify the two groups attached to oxygen, and recall the limitations of the two methods for preparing ethers. Williamson synthesis uses an S<sub>N</sub>2 reaction and requires that one of the two groups attached to oxygen be either secondary or (preferably) primary. The alkoxymercuration reaction requires that one of the two groups come from an alkene precursor. Ethyl phenyl ether could be made by either method.</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="An illustration shows the structure of Ethyl phenyl ether. A benzene ring is bonded to a pink oxygen bonded to an ethyl group. The ethyl group is labeled “Alkene derived; compatible with alkoxymercuration method” while the first carbon bonded to oxygen is labeled “Primary carbon; compatible with Williamson method.”">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_006.jpg"/>
+</media>
+</figure>
+<para id="para-00011"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down-30" id="fig-00007">
+<media alt="An illustration shows phenol reacting in the presence of “Sodium hydroxide Ethyl Bromide (shown in green)” and “mercuric trifluoroacetate having double bond between two methylene groups (shown in green) sodium borohydride” to yield Ethyl phenyl ether. Phenol shows benzene bonded to pink hydroxyl group. The product shows benzene ring bonded to a pink oxygen bonded to a green ethyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_02_007.jpg"/>
+</media>
+</figure>
+</example>
+</section>
+<section class="section-exercises" id="sect-00004">
+<title>Problems</title>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00012"><link class="os-embed" url="#exercise/18-02-OC-P04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00013"><link class="os-embed" url="#exercise/18-02-OC-P05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00014"><link class="os-embed" url="#exercise/18-02-OC-P06"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
