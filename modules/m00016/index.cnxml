@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Nomenclature of Polyfunctional Organic Compounds</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Nomenclature of Polyfunctional Organic Compounds</md:title>
@@ -6,12 +6,352 @@
     <md:uuid>f8e36966-e58d-428d-b4a7-8f93997244ac</md:uuid>
   </metadata>
   <content class="appendix">
-    <para id="eip-420">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.
-    </para><section id="eip-479"><title>Testing title</title><section id="eip-475"><title>Subtitle</title><para id="eip-849">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.
-    </para><para id="eip-338">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.
-    </para><para id="eip-23">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.</para></section><section id="eip-597"><title>Errata</title><para id="eip-42">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on OpenStax.org.
-
-    </para></section></section>
-  </content>
+<para id="para-00001">With more than 40 million organic compounds now known and thousands more being created daily, naming them all is a real problem. Part of the problem is due to the sheer complexity of organic structures, but part is also due to the fact that chemical names have more than one purpose. For the Chemical Abstracts Service (CAS), which catalogs and indexes the worldwide chemical literature, each compound must have only one correct name. It would be chaos if half the entries for CH<sub>3</sub>Br were indexed under “M” for methyl bromide and half under “B” for bromomethane. Furthermore, a CAS name must be strictly systematic so that it can be assigned and interpreted by computers; common names are not allowed.</para>
+<para id="para-00002">People, however, have different requirements than computers. For people—which is to say students and professional chemists in their spoken and written communications—it’s best that a chemical name be pronounceable and as easy as possible to assign and interpret. Furthermore, it’s convenient if names follow historical precedents, even if that means a particularly well-known compound might have more than one name. People can readily understand that bromomethane and methyl bromide both refer to CH<sub>3</sub>Br.</para>
+<para id="para-00003">As noted in the text, chemists overwhelmingly use the nomenclature system devised and maintained by the International Union of Pure and Applied Chemistry, or IUPAC. Rules for naming monofunctional compounds were given throughout the text as each new functional group was introduced, and a list of where these rules can be found is given in <link target-id="table-00001"/>.</para>
+<table id="table-00001" summary="">
+<title>Nomenclature Rules for Functional Groups</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Functional group</entry>
+<entry valign="top" align="center">Text section</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Acid anhydrides</entry>
+<entry valign="top" align="center">21-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Acid halides</entry>
+<entry valign="top" align="center">21-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Acyl phosphates</entry>
+<entry valign="top" align="center">21-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Alcohols</entry>
+<entry valign="top" align="center">17-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aldehydes</entry>
+<entry valign="top" align="center">19-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Alkanes</entry>
+<entry valign="top" align="center"> 3-4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Alkenes</entry>
+<entry valign="top" align="center"> 7-3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Alkyl halides</entry>
+<entry valign="top" align="center">10-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Alkynes</entry>
+<entry valign="top" align="center"> 9-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Amides</entry>
+<entry valign="top" align="center">21-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Amines</entry>
+<entry valign="top" align="center">24-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Aromatic compounds</entry>
+<entry valign="top" align="center">15-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Carboxylic acids</entry>
+<entry valign="top" align="center">20-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cycloalkanes</entry>
+<entry valign="top" align="center"> 4-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Esters</entry>
+<entry valign="top" align="center">21-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ethers</entry>
+<entry valign="top" align="center">18-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ketones</entry>
+<entry valign="top" align="center">19-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nitriles</entry>
+<entry valign="top" align="center">20-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Phenols</entry>
+<entry valign="top" align="center">17-1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sulfides</entry>
+<entry valign="top" align="center">18-7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Thiols</entry>
+<entry valign="top" align="center">18-7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Thioesters</entry>
+<entry valign="top" align="center">21-1</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00004">Naming a monofunctional compound is reasonably straightforward, but even experienced chemists often encounter problems when faced with naming a complex polyfunctional compound. Take the following compound, for instance. It has three functional groups, ester, ketone, and <m:math><m:mrow><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math>, but how should it be named? As an ester with an -<emphasis effect="italics">oate</emphasis> ending, a ketone with an -<emphasis effect="italics">one</emphasis> ending, or an alkene with an -<emphasis effect="italics">ene</emphasis> ending? It’s actually named methyl 3-(2-oxo-6-cyclohexenyl)propanoate.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_001.jpg"/>
+</media>
+</figure>
+<para id="para-00005">The name of a polyfunctional organic molecule has four parts—suffix, parent, prefixes, and locants—which must be identified and expressed in the proper order and format. Let’s look at each of the four.</para>
+<section id="sect-00001">
+<title>Name Part 1. The Suffix: Functional-Group Precedence</title>
+<para id="para-00006">Although a polyfunctional organic molecule might contain several different functional groups, we must choose just one suffix for nomenclature purposes. It’s not correct to use two suffixes. Thus, keto ester <emphasis effect="bold">1</emphasis> must be named either as a ketone with an -<emphasis effect="italics">one</emphasis> suffix or as an ester with an -<emphasis effect="italics">oate</emphasis> suffix, but it can’t be named as an -<emphasis effect="italics">onoate.</emphasis> Similarly, amino alcohol <emphasis effect="bold">2</emphasis> must be named either as an alcohol (-<emphasis effect="italics">ol</emphasis>) or as an amine (-<emphasis effect="italics">amine</emphasis>), but it can’t be named as an -<emphasis effect="italics">olamine</emphasis> or -<emphasis effect="italics">aminol.</emphasis></para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_002.jpg"/>
+</media>
+</figure>
+<para id="para-00007">The only exception to the rule requiring a single suffix is when naming compounds that have double or triple bonds. Thus, the unsaturated acid <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:msub><m:mrow><m:mtext>CHCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math> is 3-butenoic acid, and the acetylenic alcohol <m:math><m:mrow><m:mtext>HC</m:mtext><m:mo>º</m:mo><m:msub><m:mrow><m:mtext>CCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:math> is 5-pentyn-1-ol.</para>
+<para id="para-00008">How do we choose which suffix to use? Functional groups are divided into two classes, <term id="term-00001">principal groups</term> and <term id="term-00002">subordinate groups</term>, as shown in <link target-id="table-00002"/>. Principal groups can be cited either as prefixes or as suffixes, while subordinate groups are cited only as prefixes. Within the principal groups, an order of priority has been established: the proper suffix for a given compound is determined by choosing the principal group of highest priority. For example, <link target-id="table-00002"/> indicates that keto ester <emphasis effect="bold">1</emphasis> should be named as an ester rather than as a ketone because an ester functional group is higher in priority than a ketone. Similarly, amino alcohol <emphasis effect="bold">2</emphasis> should be named as an alcohol rather than as an amine. Thus, the name for <emphasis effect="bold">1</emphasis> is methyl 4-oxopentanoate and the name for <emphasis effect="bold">2</emphasis> is 5-amino-2-pentanol. Further examples are shown:</para>
+<table summary="" id="table-00002">
+<title>Classification of Functional Groups<footnote id="foot-00001">Principal groups are listed in order of decreasing priority; subordinate groups have no priority order.</footnote></title>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Functional group</entry>
+<entry valign="top" align="left">Name as suffix</entry>
+<entry valign="top" align="left">Name as prefix</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" namest="col1" nameend="col3"><emphasis effect="bold">Principal groups</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Carboxylic acids</entry>
+<entry valign="top" align="left">-oic acid</entry>
+<entry valign="top" align="left" morerows="1">carboxy</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carboxylic acid</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Acid anhydrides</entry>
+<entry valign="top" align="left">-oic anhydride</entry>
+<entry valign="top" align="left" morerows="1">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carboxylic anhydride</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Esters</entry>
+<entry valign="top" align="left">-oate</entry>
+<entry valign="top" align="left" morerows="1">alkoxycarbonyl</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carboxylate</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Thioesters</entry>
+<entry valign="top" align="left">-thioate</entry>
+<entry valign="top" align="left" morerows="1">alkylthiocarbonyl</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carbothioate</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Acid halides</entry>
+<entry valign="top" align="left">-oyl halide</entry>
+<entry valign="top" align="left" morerows="1">halocarbonyl</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carbonyl halide</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Amides</entry>
+<entry valign="top" align="left">-amide</entry>
+<entry valign="top" align="left" morerows="1">carbamoyl</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carboxamide</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Nitriles</entry>
+<entry valign="top" align="left">-nitrile</entry>
+<entry valign="top" align="left" morerows="1">cyano</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carbonitrile</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1"> Aldehydes</entry>
+<entry valign="top" align="left">-al</entry>
+<entry valign="top" align="left" morerows="1">oxo</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">-carbaldehyde</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Ketones</entry>
+<entry valign="top" align="left">-one</entry>
+<entry valign="top" align="left">oxo</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Alcohols</entry>
+<entry valign="top" align="left">-ol</entry>
+<entry valign="top" align="left">hydroxy</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Phenols</entry>
+<entry valign="top" align="left">-ol</entry>
+<entry valign="top" align="left">hydroxy</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Thiols</entry>
+<entry valign="top" align="left">-thiol</entry>
+<entry valign="top" align="left">mercapto</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Amines</entry>
+<entry valign="top" align="left">-amine</entry>
+<entry valign="top" align="left">amino</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Imines</entry>
+<entry valign="top" align="left">-imine</entry>
+<entry valign="top" align="left">imino</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Ethers</entry>
+<entry valign="top" align="left">ether</entry>
+<entry valign="top" align="left">alkoxy</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Sulfides</entry>
+<entry valign="top" align="left">sulfide</entry>
+<entry valign="top" align="left">alkylthio</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Disulfides</entry>
+<entry valign="top" align="left">disulfide</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Alkenes</entry>
+<entry valign="top" align="left">-ene</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Alkynes</entry>
+<entry valign="top" align="left">-yne</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Alkanes</entry>
+<entry valign="top" align="left">-ane</entry>
+<entry valign="top" align="left">—</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="col1" nameend="col3"><emphasis effect="bold">Subordinate groups</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Azides</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">azido</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Halides</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">halo</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Nitro compounds</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">nitro</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_003.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00002">
+<title>Name Part 2. The Parent: Selecting the Main Chain or Ring</title>
+<para id="para-00009">The parent, or base, name of a polyfunctional organic compound is usually easy to identify. If the principal group of highest priority is part of an open chain, the parent name is that of the longest chain containing the largest number of principal groups. For example, compounds <emphasis effect="bold">6</emphasis> and <emphasis effect="bold">7</emphasis> are isomeric aldehydo amides, which must be named as amides rather than as aldehydes according to <link target-id="table-00002"/>. The longest chain in compound <emphasis effect="bold">6</emphasis> has six carbons, and the substance is named 5-methyl-6-oxohexanamide. Compound <emphasis effect="bold">7</emphasis> also has a chain of six carbons, but the longest chain that contains both principal functional groups has only four carbons. Thus, compound <emphasis effect="bold">7</emphasis> is named 4-oxo-3-propylbutanamide.</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_004.jpg"/>
+</media>
+</figure>
+<para id="para-00010">If the highest-priority principal group is attached to a ring, the parent name is that of the ring system. Compounds <emphasis effect="bold">8</emphasis> and <emphasis effect="bold">9</emphasis>, for instance, are isomeric keto nitriles and must both be named as nitriles according to <link target-id="table-00002"/>. Substance <emphasis effect="bold">8</emphasis> is named as a benzonitrile because the  − CN functional group is a substituent on the aromatic ring, but substance <emphasis effect="bold">9</emphasis> is named as an acetonitrile because the  − CN functional group is on an open chain. Thus, their names are 2-acetyl-(4-bromomethyl)benzonitrile <emphasis effect="bold">(8)</emphasis> and (2-acetyl-4-bromophenyl)acetonitrile <emphasis effect="bold">(9)</emphasis>. As further examples, compounds <emphasis effect="bold">10</emphasis> and <emphasis effect="bold">11</emphasis> are both keto acids and must be named as acids, but the parent name in <emphasis effect="bold">10</emphasis> is that of a ring system (cyclohexanecarboxylic acid) and the parent name in <emphasis effect="bold">11</emphasis> is that of an open chain (propanoic acid). Thus, their names are <emphasis effect="italics">trans</emphasis>-2-(3-oxopropyl)cyclohexanecarboxylic acid <emphasis effect="bold">(10)</emphasis> and 3-(2-oxocyclohexyl)propanoic acid <emphasis effect="bold">(11)</emphasis>.</para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_005.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00003">
+<title>Name Parts 3 and 4. The Prefixes and Locants</title>
+<para id="para-00011">With the parent name and the suffix established, the next step is to identify and give numbers, or <emphasis effect="italics">locants,</emphasis> to all substituents on the parent chain or ring. The substituents include all alkyl groups and all functional groups other than the one cited in the suffix. For example, compound <emphasis effect="bold">12</emphasis> contains three different functional groups (carboxyl, keto, and double bond). Because the carboxyl group is highest in priority and the longest chain containing the functional groups has seven carbons, compound <emphasis effect="bold">12</emphasis> is a heptenoic acid. In addition, the parent chain has a keto (oxo) substituent and three methyl groups. Numbering from the end nearer the highest-priority functional group gives the name (<emphasis effect="italics">E</emphasis>)-2,5,5-trimethyl-4-oxo-2-heptenoic acid. Look back at some of the other compounds we’ve named to see other examples of how prefixes and locants are assigned.</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_006.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00004">
+<title>Writing the Name</title>
+<para id="para-00012">With the name parts established, the entire name can be written out. Several additional rules apply:</para>
+<list list-type="enumerated" id="list-00001">
+<item><emphasis effect="bold">Order of prefixes.</emphasis> When the substituents have been identified, the parent chain has been numbered, and the proper multipliers such as <emphasis effect="italics">di</emphasis>- and <emphasis effect="italics">tri</emphasis>- have been assigned, the name is written with the substituents listed in alphabetical, rather than numerical, order. Multipliers such as <emphasis effect="italics">di</emphasis>- and <emphasis effect="italics">tri</emphasis>- are not used for alphabetization, but the italicized prefixes <emphasis effect="italics">iso</emphasis>- and <emphasis effect="italics">sec</emphasis>- <emphasis effect="italics">are</emphasis> used.<newline/>
+<figure class="unnumbered scaled-down" id="fig-00007">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_007.jpg"/>
+</media>   
+</figure></item>
+<item><emphasis effect="bold">Use of hyphens; single- and multiple-word names.</emphasis> The general rule is to determine whether the parent is itself an element or compound. If it is, then the name is written as a single word; if it isn’t, then the name is written as multiple words. Methylbenzene is written as one word, for instance, because the parent—benzene—is a compound. Diethyl ether, however, is written as two words because the parent—ether—is a class name rather than a compound name. Some further examples follow:<newline/>
+<figure class="unnumbered scaled-down" id="fig-00008">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_008.jpg"/>
+</media>
+</figure></item>
+<item><emphasis effect="bold">Parentheses.</emphasis> Parentheses are used to denote complex substituents when ambiguity would otherwise arise. For example, chloromethylbenzene has two substituents on a benzene ring, but (chloromethyl)benzene has only one complex substituent. Note that the expression in parentheses is not set off by hyphens from the rest of the name.<newline/>
+<figure class="unnumbered scaled-down" id="fig-00009">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_AppA_009.jpg"/>
+</media>
+</figure></item>
+</list>
+</section>
+<section id="sect-00005">
+<title>Additional Reading</title>
+<para id="para-00013">Further explanations of the rules of organic nomenclature can be found online at http://www.acdlabs.com/iupac/nomenclature/ (accessed May 2023) and in the following references:</para>
+<list list-type="enumerated" id="list-00002">
+<item>“A Guide to IUPAC Nomenclature of Organic Compounds,” CRC Press, Boca Raton, FL, 1993.</item>
+<item>“Nomenclature of Organic Chemistry, Sections A, B, C, D, E, F, and H,” International Union of Pure and Applied Chemistry, Pergamon Press, Oxford, 1979.</item>
+</list>
+</section>
+</content>
 </document>
