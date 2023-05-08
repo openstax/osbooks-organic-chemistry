@@ -6,12 +6,452 @@
     <md:uuid>4a689238-ec34-44bc-b34d-6c88fabb153f</md:uuid>
   </metadata>
   <content class="appendix">
-    <para id="eip-420">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.
-    </para><section id="eip-479"><title>Testing title</title><section id="eip-475"><title>Subtitle</title><para id="eip-849">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.
-    </para><para id="eip-338">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.
-    </para><para id="eip-23">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis condimentum nunc ac nulla gravida sodales. Proin venenatis quis lectus eu auctor. Donec mauris risus, sollicitudin et sollicitudin eget, consectetur non orci. Donec hendrerit dignissim auctor. Sed ut tellus nibh. Quisque convallis egestas luctus. Phasellus at neque purus. Praesent gravida risus eget placerat placerat. In tempus placerat dignissim. Nunc et tortor euismod, sodales elit pharetra, fermentum leo. Cras pharetra turpis vitae dolor aliquet laoreet. Nam vel mauris tristique, eleifend leo eget, mollis ex.</para></section><section id="eip-597"><title>Errata</title><para id="eip-42">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on OpenStax.org.
-
-    </para></section></section>
-  </content>
+<table summary="" id="table-00001">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Compound</entry>
+<entry valign="top" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>SO<sub>3</sub>H</entry>
+<entry valign="top" align="left">−1.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH(NO<sub>2</sub>)<sub>3</sub></entry>
+<entry valign="top" align="left">0.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_001.jpg"/></media></entry>
+<entry valign="top" align="left">0.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CCl<sub>3</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">0.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CF<sub>3</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">0.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CBr<sub>3</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">0.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<sub>2</sub>CC≡CCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">1.2; 2.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<sub>2</sub>CCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">1.2; 3.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CHCl<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">1.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>(NO<sub>2</sub>)CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">1.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HC≡CCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">1.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">(Z)</emphasis> HO<sub>2</sub>CCH═CHCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">1.9; 6.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_002.jpg"/></media></entry>
+<entry valign="top" align="left">2.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">NCCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>C≡CCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>FCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>ClCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.8; 5.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>BrCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">2.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_003.jpg"/></media></entry>
+<entry valign="top" align="left">3.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_004.jpg"/></media></entry>
+<entry valign="top" align="left">3.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>ICO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CHOCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_005.jpg"/></media></entry>
+<entry valign="top" align="left">3.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_006.jpg"/></media></entry>
+<entry valign="top" align="left">3.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HSCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.5; 10.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>(NO<sub>2</sub>)<sub>2</sub></entry>
+<entry valign="top" align="left">3.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>OCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HOCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">3.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_007.jpg"/></media></entry>
+<entry valign="top" align="left">3.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_008.jpg"/></media></entry>
+<entry valign="top" align="left">4.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>BrCH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_009.jpg"/></media></entry>
+<entry valign="top" align="left">4.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_010.jpg"/></media></entry>
+<entry valign="top" align="left">4.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CHCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.2; 5.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HO<sub>2</sub>CCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.3; 5.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_011.jpg"/></media></entry>
+<entry valign="top" align="left">4.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═C(CH<sub>3</sub>)CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>H</entry>
+<entry valign="top" align="left">4.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>CCO<sub>2</sub>H</entry>
+<entry valign="top" align="left">5.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>2</sub>NO<sub>2</sub></entry>
+<entry valign="top" align="left">5.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_012.jpg"/></media></entry>
+<entry valign="top" align="left">5.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">O<sub>2</sub>NCH<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">5.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_013.jpg"/></media></entry>
+<entry valign="top" align="left">5.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_014.jpg"/></media></entry>
+<entry valign="top" align="left">6.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_015.jpg"/></media></entry>
+<entry valign="top" align="left">6.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HCO<sub>3</sub>H</entry>
+<entry valign="top" align="left">7.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_016.jpg"/></media></entry>
+<entry valign="top" align="left">7.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CHNO<sub>2</sub></entry>
+<entry valign="top" align="left">7.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_017.jpg"/></media></entry>
+<entry valign="top" align="left">7.8</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CO<sub>3</sub>H</entry>
+<entry valign="top" align="left">8.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_018.jpg"/></media></entry>
+<entry valign="top" align="left">8.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>NO<sub>2</sub></entry>
+<entry valign="top" align="left">8.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_019.jpg"/></media></entry>
+<entry valign="top" align="left">8.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>2</sub>COCH<sub>3</sub></entry>
+<entry valign="top" align="left">9.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_020.jpg"/></media></entry>
+<entry valign="top" align="left">9.3; 11.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_021.jpg"/></media></entry>
+<entry valign="top" align="left">9.3; 12.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_022.jpg"/></media></entry>
+<entry valign="top" align="left">9.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_023.jpg"/></media></entry>
+<entry valign="top" align="left">9.9; 11.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_024.jpg"/></media></entry>
+<entry valign="top" align="left">9.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>2</sub>SOCH<sub>3</sub></entry>
+<entry valign="top" align="left">10.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_025.jpg"/></media></entry>
+<entry valign="top" align="left">10.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>NO<sub>2</sub></entry>
+<entry valign="top" align="left">10.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>SH</entry>
+<entry valign="top" align="left">10.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">10.6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCHO</entry>
+<entry valign="top" align="left">11.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>(CN)<sub>2</sub></entry>
+<entry valign="top" align="left">11.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CCl<sub>3</sub>CH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">12.2</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Glucose</entry>
+<entry valign="top" align="left">12.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>C═NOH</entry>
+<entry valign="top" align="left">12.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>(CO<sub>2</sub>CH<sub>3</sub>)<sub>2</sub></entry>
+<entry valign="top" align="left">12.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CHCl<sub>2</sub>CH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">12.9</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>(OH)<sub>2</sub></entry>
+<entry valign="top" align="left">13.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HOCH<sub>2</sub>CH(OH)CH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">14.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>2</sub>ClCH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">14.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_026.jpg"/></media></entry>
+<entry valign="top" align="left">15.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_027.jpg"/></media></entry>
+<entry valign="top" align="left">15.4</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>OH</entry>
+<entry valign="top" align="left">15.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CHCH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">15.5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">16.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH</entry>
+<entry valign="top" align="left">16.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>2</sub>Br</entry>
+<entry valign="top" align="left">16.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_028.jpg"/></media></entry>
+<entry valign="top" align="left">16.7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CHO</entry>
+<entry valign="top" align="left">17</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CHCHO</entry>
+<entry valign="top" align="left">17</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>2</sub>CHOH</entry>
+<entry valign="top" align="left">17.1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>)<sub>3</sub>COH</entry>
+<entry valign="top" align="left">18.0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>COCH<sub>3</sub></entry>
+<entry valign="top" align="left">19.3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_029.jpg"/></media></entry>
+<entry valign="top" align="left">23</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CO<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">25</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">HC≡CH</entry>
+<entry valign="top" align="left">25</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CN</entry>
+<entry valign="top" align="left">25</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>SO<sub>2</sub>CH<sub>3</sub></entry>
+<entry valign="top" align="left">28</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>CH</entry>
+<entry valign="top" align="left">32</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub>CH<sub>2</sub></entry>
+<entry valign="top" align="left">34</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>SOCH<sub>3</sub></entry>
+<entry valign="top" align="left">35</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">NH<sub>3</sub></entry>
+<entry valign="top" align="left">36</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub></entry>
+<entry valign="top" align="left">36</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">(CH<sub>3</sub>CH<sub>2</sub>)<sub>2</sub>NH</entry>
+<entry valign="top" align="left">40</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_030.jpg"/></media></entry>
+<entry valign="top" align="left">41</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_AppB_031.jpg"/></media></entry>
+<entry valign="top" align="left">43</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">H<sub>2</sub>C═CH<sub>2</sub></entry>
+<entry valign="top" align="left">44</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">CH<sub>4</sub></entry>
+<entry valign="top" align="left">˜60</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00001">An acidity list covering more than 5000 organic compounds has been published: E.P. Serjeant and B. Dempsey (eds.), “Ionization Constants of Organic Acids in Aqueous Solution,” IUPAC Chemical Data Series No. 23, Pergamon Press, Oxford, 1979.</para>
+</content>
 </document>
