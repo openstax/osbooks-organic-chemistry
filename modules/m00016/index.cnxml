@@ -130,7 +130,7 @@
 <para id="para-00007">The only exception to the rule requiring a single suffix is when naming compounds that have double or triple bonds. Thus, the unsaturated acid <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:msub><m:mrow><m:mtext>CHCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math> is 3-butenoic acid, and the acetylenic alcohol <m:math><m:mrow><m:mtext>HC</m:mtext><m:mtext>&#x2261;</m:mtext><m:msub><m:mrow><m:mtext>CCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>OH</m:mtext></m:mrow></m:math> is 5-pentyn-1-ol.</para>
 <para id="para-00008">How do we choose which suffix to use? Functional groups are divided into two classes, <term id="term-00001">principal groups</term> and <term id="term-00002">subordinate groups</term>, as shown in <link target-id="table-00002"/>. Principal groups can be cited either as prefixes or as suffixes, while subordinate groups are cited only as prefixes. Within the principal groups, an order of priority has been established: the proper suffix for a given compound is determined by choosing the principal group of highest priority. For example, <link target-id="table-00002"/> indicates that keto ester <emphasis effect="bold">1</emphasis> should be named as an ester rather than as a ketone because an ester functional group is higher in priority than a ketone. Similarly, amino alcohol <emphasis effect="bold">2</emphasis> should be named as an alcohol rather than as an amine. Thus, the name for <emphasis effect="bold">1</emphasis> is methyl 4-oxopentanoate and the name for <emphasis effect="bold">2</emphasis> is 5-amino-2-pentanol. Further examples are shown:</para>
 <table summary="" id="table-00002">
-<title>Classification of Functional Groups</title>
+<title>Classification of Functional Groups<link target-id="para-00014">1</link></title>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -142,7 +142,7 @@
 <entry valign="top" align="left">Name as prefix</entry>
 </row>
 </thead>
-<tfoot><row valign="top"><entry valign="top" align="left" namest="c1" nameend="c3">Principal groups are listed in order of decreasing priority; subordinate groups have no priority order.</entry></row></tfoot>
+<tfoot><row valign="top"><entry valign="top" align="left" namest="c1" nameend="c3"><para id="para-00014">Principal groups are listed in order of decreasing priority; subordinate groups have no priority order.</para></entry></row></tfoot>
 <tbody>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c3"><emphasis effect="bold">Principal groups</emphasis></entry>
