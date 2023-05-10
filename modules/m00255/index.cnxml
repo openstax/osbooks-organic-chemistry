@@ -452,10 +452,10 @@
 <image mime-type="image/jpeg" src="../../media/OChem_18_PCC_001.jpg"/>
 </media>
 </figure>
-<para id="para-00072">To a great extent, the chemistry of living organisms is the chemistry of carbonyl compounds. Thus, we’ll spend the next five chapters discussing the chemistry of the <emphasis effect="bold">carbonyl group,</emphasis> <m:math><m:mrow><m:mtext mathvariant="bold">C</m:mtext><m:mo mathvariant="bold">=</m:mo><m:mtext mathvariant="bold">O</m:mtext></m:mrow></m:math> (pronounced car-bo-<emphasis effect="bold">neel</emphasis>). There are many different kinds of carbonyl compounds and many different reactions, but there are only a few fundamental principles that tie the entire field together. The purpose of this brief preview is not to show details of specific reactions but rather to provide a framework for learning carbonyl-group chemistry. Read through this preview now, and return to it on occasion to remind yourself of the larger picture.</para>
+<para id="para-00072">To a great extent, the chemistry of living organisms is the chemistry of carbonyl compounds. Thus, we’ll spend the next five chapters discussing the chemistry of the <emphasis effect="bold">carbonyl group,</emphasis> <m:math><m:mrow><m:mtext mathvariant="bold">C=O</m:mtext></m:mrow></m:math> (pronounced car-bo-<emphasis effect="bold">neel</emphasis>). There are many different kinds of carbonyl compounds and many different reactions, but there are only a few fundamental principles that tie the entire field together. The purpose of this brief preview is not to show details of specific reactions but rather to provide a framework for learning carbonyl-group chemistry. Read through this preview now, and return to it on occasion to remind yourself of the larger picture.</para>
 <section id="sect-00010">
 <title>I: Kinds of Carbonyl Compounds</title>
-<para id="para-00073"><link target-id="table-00001"/> shows some of the many different kinds of carbonyl compounds. All contain an <emphasis effect="bold">acyl group</emphasis> (<m:math><m:mrow><m:mtext>R</m:mtext><m:mtext>–</m:mtext><m:mtext>C</m:mtext><m:mo>=</m:mo><m:mtext>O</m:mtext></m:mrow></m:math>) bonded to another substituent. The R part of the acyl group can be practically any organic part/structure, and the other substituent to which the acyl group is bonded might be a carbon, hydrogen, oxygen, halogen, nitrogen, or sulfur.</para>
+<para id="para-00073"><link target-id="table-00001"/> shows some of the many different kinds of carbonyl compounds. All contain an <emphasis effect="bold">acyl group</emphasis> (<m:math><m:mrow><m:mtext>R</m:mtext><m:mtext>–</m:mtext><m:mtext>C=O</m:mtext></m:mrow></m:math>) bonded to another substituent. The R part of the acyl group can be practically any organic part/structure, and the other substituent to which the acyl group is bonded might be a carbon, hydrogen, oxygen, halogen, nitrogen, or sulfur.</para>
 <table summary="Alt Text Placeholder" id="table-00001">
 <title>Some Types of Carbonyl Compounds</title>
 <tgroup cols="3">
@@ -652,8 +652,6 @@
 <title>IV Summary</title>
 <para id="para-00091">To a great extent, the chemistry of living organisms is the chemistry of carbonyl compounds. We have not looked at the details of specific carbonyl reactions in this short preview but rather have laid the groundwork for the next five chapters. All the carbonyl-group reactions we’ll be studying in Chapters 19 through 23 fall into one of the four fundamental categories discussed in this preview. Knowing where we’ll be heading should help you keep matters straight in understanding this most important of all functional groups.</para>
 </section>
-
-</section>
 <section class="section-exercises" id="sect-00020">
   <title>Problems</title>
   <exercise id="exer-00052">
@@ -672,5 +670,7 @@
   </problem>
   </exercise>
   </section>
+</section>
+
 </content>
 </document>
