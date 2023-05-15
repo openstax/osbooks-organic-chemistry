@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Predicting Acid–Base Reactions from p<emphasis effect="italics">K</emphasis><sub>a</sub> Values</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Predicting Acid–Base Reactions from pKa Values</md:title>
@@ -27,7 +27,7 @@
       </media>
       </figure>
       <para id="para-00004"><title><span class="red-text">Strategy</span></title>In comparing two acids, the one with the lower p<emphasis effect="italics">K</emphasis><sub>a</sub> is stronger. Thus, water is a stronger acid than acetylene and gives up H<sup>+</sup> more easily.</para>
-      <para id="para-00005"><title><span class="cyan-text">Solution</span></title> Because water is a stronger acid and gives up H<sup>+</sup> more easily than acetylene, the HO<sup>–</sup> ion must have less affinity for H<sup>+</sup> than the HC≡C<emphasis effect="bold">:</emphasis><sup>–</sup> ion. In other words, the anion of acetylene is a stronger base than hydroxide ion, and the reaction will not proceed significantly as written.</para>
+      <para id="para-00005"><title><span class="cyan-text">Solution</span></title> Because water is a stronger acid and gives up H<sup>+</sup> more easily than acetylene, the HO<sup>–</sup> ion must have less affinity for H<sup>+</sup> than the <m:math><m:mrow><m:mtext>HC≡C</m:mtext><m:msup><m:mrow><m:mtext mathvariant="bold">:</m:mtext></m:mrow><m:mrow><m:mtext>−</m:mtext></m:mrow></m:msup></m:mrow></m:math> ion. In other words, the anion of acetylene is a stronger base than hydroxide ion, and the reaction will not proceed significantly as written.</para>
       </example>
       <example id="exam-00002">
       <title>Calculating <emphasis effect="italics">K</emphasis><sub>a</sub> from p<emphasis effect="italics">K</emphasis><sub>a</sub></title>
