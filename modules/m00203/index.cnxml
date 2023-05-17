@@ -6,7 +6,7 @@
     <md:uuid>ad84026c-2f49-42c8-af88-badad9e60846</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">The most general method for preparing alcohols, both in the laboratory and in living organisms, is by reduction of a carbonyl compound. Just as reduction of an alkene adds hydrogen to a C=C bond to give an alkane (<link document="m00094"/>), reduction of a carbonyl compound adds hydrogen to a C=O bond to give an alcohol. All kinds of carbonyl compound can be reduced, including aldehydes, ketones, carboxylic acids, and esters.</para>
+    <para id="para-00001">The most general method for preparing alcohols, both in the laboratory and in living organisms, is by reduction of a carbonyl compound. Just as reduction of an alkene adds hydrogen to a <m:math><m:mrow><m:mtext>C=C</m:mtext></m:mrow></m:math> bond to give an alkane (<link document="m00094"/>), reduction of a carbonyl compound adds hydrogen to a <m:math><m:mrow><m:mtext>C=O</m:mtext></m:mrow></m:math> bond to give an alcohol. All kinds of carbonyl compound can be reduced, including aldehydes, ketones, carboxylic acids, and esters.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows “a carbonyl compound” having a carbonyl group with a pink oxygen and two bonds at the sides reacting with a blue hydrogen (in parentheses) to form “an alcohol” where blue [H] is a reducing agent; the alcohol shows a carbon bonded to a pink hydroxyl group at the top; the carbon shows an open dash bond and an open wedge bond the carbon is also bonded to a blue hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_04_001.jpg"/>
@@ -32,18 +32,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_17_04_004.jpg"/>
     </media>
     </figure>
-    <para id="para-00005">We’ll defer a detailed discussion of these reductions until Chapter 19. For the moment, we’ll simply note that they involve the addition of a nucleophilic hydride ion (<emphasis effect="bold">:</emphasis>H<sup>–</sup>) to the positively polarized, electrophilic carbon atom of the carbonyl group. The initial product is an alkoxide ion, which is protonated by addition of <m:math>
-      <m:mrow>
-       <m:msub>
-        <m:mtext>H</m:mtext>
-        <m:mn>3</m:mn>
-       </m:msub>
-       <m:msup>
-        <m:mtext>O</m:mtext>
-        <m:mo>+</m:mo>
-       </m:msup>
-       </m:mrow>
-     </m:math> in a second step to yield the alcohol product.</para>
+    <para id="para-00005">We’ll defer a detailed discussion of these reductions until Chapter 19. For the moment, we’ll simply note that they involve the addition of a nucleophilic hydride ion (<emphasis effect="bold">:</emphasis>H<sup>–</sup>) to the positively polarized, electrophilic carbon atom of the carbonyl group. The initial product is an alkoxide ion, which is protonated by addition of H<sub>3</sub>O<sup>+</sup> in a second step to yield the alcohol product.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00005">
     <media alt="An illustration shows a continuous reaction wherein “a carbonyl compound” reacts with a blue hydrogen anion having a pair of electrons to form “an alkoxide ion intermediate” that reacts with a pink hydronium ion to form “an alcohol.” The carbonyl compound shows a carbon double bonded to a pink oxygen and having two open bonds. The intermediate ion in parentheses shows a carbon bonded to a pink oxygen anion at the top to a blue hydrogen on the right and open dash as well as wedge bonds on the left. The alcohol is shown as a carbon bonded to a pink hydroxyl group at the top to a blue hydrogen on the right; the carbon shows open dash as well as wedge bonds on the left.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_04_005.jpg"/>

@@ -6,23 +6,14 @@
     <md:uuid>e3fbea5a-61cb-4095-a1c8-5acd1cb06bb6</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Grignard reagents (RMgX), prepared by reaction of organohalides with magnesium (<link document="m00118"/>), react with carbonyl compounds to yield alcohols in much the same way that hydride reducing agents do. Just as carbonyl reduction involves addition of a hydride ion nucleophile to the C=O bond, Grignard reaction involves addition of a carbanion nucleophile (<m:math>
-      <m:mrow>
-       <m:msup>
-        <m:mrow>
-         <m:mtext>R:</m:mtext></m:mrow>
-        <m:mrow>
-         <m:mo>&#x2212;</m:mo><m:mo>+</m:mo></m:mrow>
-       </m:msup>
-       <m:mtext>MgX</m:mtext></m:mrow>
-     </m:math>).</para>
+    <para id="para-00001">Grignard reagents (RMgX), prepared by reaction of organohalides with magnesium (<link document="m00118"/>), react with carbonyl compounds to yield alcohols in much the same way that hydride reducing agents do. Just as carbonyl reduction involves addition of a hydride ion nucleophile to the <m:math><m:mrow><m:mtext>C=O</m:mtext></m:mrow></m:math> bond, Grignard reaction involves addition of a carbanion nucleophile (R:<sup>&#x2212;+</sup>MgX).</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="A two-part illustration shows reactions containing structural formulae and molecular structures. The Grignard reaction is shown in parentheses wherein R-X having a blue R bonded to pink X reacting with a pink magnesium to form “a Grignard reagent” having a blue “R” (delta minus) bonded to a pink MgX (delta plus); a curled bracket shows “blue R= 1degree 2 degree or 3 degree alkyl aryl or vinylic”; pink “X” = Cl Br I. A reaction beneath shows a carbonyl group having a pink oxygen and the carbon with two open bonds reacting with RMgX having blue R and pink MgX ether and a pink hydronium ion forming an alcohol and pink HOMgX; the alcohol is shown a centrally located carbon bonded to a pink hydroxyl group at the top and to a blue R at the bottom right; the carbon shows an open dash bond and an open wedge bond.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_05_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">The nucleophilic addition reaction of Grignard reagents to carbonyl compounds has no direct counterpart in biological chemistry because organomagnesium compounds are too strongly basic to exist in an aqueous medium. Nevertheless, the reaction is worth understanding for two reasons. First, the reaction is an unusually broad and useful method of alcohol synthesis and demonstrates again the relative freedom with which chemists can operate in the laboratory. Second, the reaction does have an indirect biological counterpart, for we’ll see in Chapter 23 that the addition of stabilized carbon nucleophiles to carbonyl compounds is used in almost all metabolic pathways as the major process for forming carbon–carbon bonds.</para>
-    <para id="para-00003">As examples of their addition to carbonyl compounds, Grignard reagents react with formaldehyde, H<sub>2</sub>C=O, to give primary alcohols, with aldehydes to give secondary alcohols, and with ketones to give tertiary alcohols.</para>
+    <para id="para-00003">As examples of their addition to carbonyl compounds, Grignard reagents react with formaldehyde, <m:math><m:mrow><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mtext>C</m:mtext></m:mrow><m:mrow><m:mtext>=O</m:mtext></m:mrow></m:mrow></m:math>, to give primary alcohols, with aldehydes to give secondary alcohols, and with ketones to give tertiary alcohols.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="A three-part illustration shows three reactions. The first reaction labeled “formaldehyde reaction” shows cyclohexyl magnesium bromide and formaldehyde mixed in ether and a pink hydronium ion to form cyclohexylmethanol (65%) (a primary alcohol). The cyclohexyl magnesium bromide is shown as a blue cyclohexane bonded to a blue MgBr. Formaldehyde is shown as a central carbonyl group having pink oxygen the carbon of the carbonyl group is bonded to two hydrogens. Cyclohexylmethanol shows a blue cyclohexane bonded to CH2OH having pink hydroxyl group. The second reaction labeled “aldehyde reaction” shows phenylmagnesium bromide and 3-Methylbutanal mixed in ether and a pink hydronium ion to form 3-Methyl-1-phenyl-1-butanal (73%) (a secondary alcohol). The phenylmagnesium bromide is shown as blue benzene bonded to a blue MgBr. 3-Methylbutanal shows a methyl group bonded to a methine group bonded to a methyl group on top; the methine is further bonded to a methylene group bonded to a carbonyl group having pink oxygen the carbon of carbonyl is bonded to a hydrogen. 3-Methyl-1-phenyl-1-butanal shows a methyl group bonded to a methine group bonded to a methyl on top the methine is further bonded to a methylene group bonded to a carbon bonded to a hydroxyl group having pink hydroxyl group; the methine if further bonded to a blue benzene. The third reaction labeled “ketone reaction” shows blue ethylmagnesium bromide and cyclohexanone mixed in ether and pink “H3O cation” to form 1-Ethylcyclohexanol (89%) (a tertiary alcohol). The structure of 1-Ethylcyclohexanol shows a cyclohexane with C1 bonded to a pink hydroxyl group and blue ethyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_05_002.jpg"/>
@@ -40,7 +31,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_17_05_004.jpg"/>
     </media>
     </figure>
-    <para id="para-00006">Carboxylic acids do, however, react with Grignard reagents to give ketones if they are first treated with <emphasis effect="italics">i</emphasis>-Pr<emphasis effect="bold"><sub>2</sub></emphasis>NMgCl-LiCl, called the <emphasis effect="italics">turbo</emphasis>-Hauser base, to form a complex and increase the electrophilicity of the carboxylate anion toward nucleophilic addition with a Grignard reagent.</para>
+    <para id="para-00006">Carboxylic acids do, however, react with Grignard reagents to give ketones if they are first treated with <emphasis effect="italics">i</emphasis>-Pr<sub>2</sub>NMgCl-LiCl, called the <emphasis effect="italics">turbo</emphasis>-Hauser base, to form a complex and increase the electrophilicity of the carboxylate anion toward nucleophilic addition with a Grignard reagent.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="">
     <image mime-type="image/jpeg" src="../../media/OChem_17_05_TurboHaus.jpg"/>
@@ -52,18 +43,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_17_05_005.jpg"/>
     </media>
     </figure>
-    <para id="para-00008">As with the reduction of carbonyl compounds discussed in the previous section, we’ll defer a detailed treatment of the Grignard reactions until Chapter 19. For the moment, it’s sufficient to note that Grignard reagents act as nucleophilic carbanions (<emphasis effect="bold">:</emphasis>R<sup>–</sup>) and that their addition to a carbonyl compound is analogous to the addition of hydride ion. The intermediate is an alkoxide ion, which is protonated by addition of <m:math>
-      <m:mrow>
-       <m:msub>
-        <m:mtext>H</m:mtext>
-        <m:mn>3</m:mn>
-       </m:msub>
-       <m:msup>
-        <m:mtext>O</m:mtext>
-        <m:mo>+</m:mo>
-       </m:msup>
-       </m:mrow>
-     </m:math> in a second step.</para>
+    <para id="para-00008">As with the reduction of carbonyl compounds discussed in the previous section, we’ll defer a detailed treatment of the Grignard reactions until Chapter 19. For the moment, it’s sufficient to note that Grignard reagents act as nucleophilic carbanions (<emphasis effect="bold">:</emphasis>R<sup>–</sup>) and that their addition to a carbonyl compound is analogous to the addition of hydride ion. The intermediate is an alkoxide ion, which is protonated by addition of H<sub>3</sub>O<sup>+</sup> in a second step.</para>
     <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="An illustration shows a reaction wherein “a carbonyl compound” reacts with a blue “R” anion having a pair of electrons to yield “an alkoxide ion intermediate” that reacts with a pink hydronium ion to form “an alcohol.” The carbonyl compound shows a carbonyl group having a pink oxygen (delta minus) the carbon (delta plus) of carbonyl shows two open bonds. An alkoxide ion in a parentheses shows a carbon bonded to a pink oxygen anion at the top the carbon shows an open dash bond an open wedge bond and a blue “R.” An alcohol shows a carbon bonded to a pink hydroxyl group at the top the carbon shows an open dash bond an open wedge bond and a blue “R.”">
     <image mime-type="image/jpeg" src="../../media/OChem_17_05_006.jpg"/>
