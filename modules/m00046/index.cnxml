@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Conformations of Monosubstituted Cyclohexanes</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Conformations of Monosubstituted Cyclohexanes</md:title>
@@ -98,11 +98,11 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">CH(CH<sub>3</sub>)<sub>3</sub></entry>
-    <entry valign="top" align="left"><emphasis effect="bold">20</emphasis></entry>
-    <entry valign="top" align="left"><emphasis effect="bold">4.7</emphasis></entry>
+    <entry valign="top" align="left">20</entry>
+    <entry valign="top" align="left">4.7</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left">CH=CH<sub>2</sub></entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH&#x2550;CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></entry>
     <entry valign="top" align="left">&#8199;5.60</entry>
     <entry valign="top" align="left">1.35</entry>
     </row>
