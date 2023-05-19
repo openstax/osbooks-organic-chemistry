@@ -6,14 +6,14 @@
     <md:uuid>0c23179b-4827-4ae0-b5cd-f13b8189fe43</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">The most striking difference between alkenes and alkynes is that terminal alkynes are relatively acidic. When a terminal alkyne is treated with a strong base, such as sodium amide, <m:math><m:mrow><m:msup><m:mrow><m:mtext>Na</m:mtext></m:mrow><m:mo>+</m:mo></m:msup><m:msup><m:mrow><m:mtext>&#160;</m:mtext></m:mrow><m:mo>−</m:mo></m:msup><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>, the terminal hydrogen is removed and the corresponding <term id="term-00001">acetylide anion</term> is formed.</para>
+    <para id="para-00001">The most striking difference between alkenes and alkynes is that terminal alkynes are relatively acidic. When a terminal alkyne is treated with a strong base, such as sodium amide, Na<sup>+</sup> <sup>&#8722;</sup>NH<sub>2</sub>, the terminal hydrogen is removed and the corresponding <term id="term-00001">acetylide anion</term> is formed.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows a reaction between an alkyne and sodium amide to yield an acetylide anion and ammonia. The structure of alkyne shows R bonded to a carbon triple bonded to another carbon bonded to a pink hydrogen; a pink arrow points from the bond to carbon. Sodium amide is shown as an amine anion bonded to a sodium cation; the amine shows a nitrogen having two pairs of electrons; a pink arrow points from nitrogen of amine to the pink hydrogen of alkyne. The structure of acetylide anion shows R bonded to carbon triple bonded to carbon anion having a pair of electrons bonded to a sodium cation. Ammonia shows a nitrogen with a pair of electrons.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_07_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">According to the Brønsted–Lowry definition (<link document="m00024"/>), an acid is a substance that donates H<sup>+</sup>. Although we usually think of oxyacids (H<sub>2</sub>SO<sub>4</sub>, HNO<sub>3</sub>) or halogen acids (HCl, HBr) in this context, any compound containing a hydrogen atom can be an acid under the right circumstances. By measuring dissociation constants of different acids and expressing the results as p<emphasis effect="italics">K</emphasis><sub>a</sub> values, an acidity order can be established. Recall from <link document="m00025"/> that a lower p<emphasis effect="italics">K</emphasis><sub>a</sub> corresponds to a stronger acid and a higher p<emphasis effect="italics">K</emphasis><sub>a</sub> corresponds to a weaker one.</para>
-    <para id="para-00003">Where do hydrocarbons lie on the acidity scale? As the data in <link target-id="table-00001"/> show, both methane (p<emphasis effect="italics">K</emphasis><sub>a</sub> ≈ 60) and ethylene (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 44) are very weak acids and thus do not react with any of the common bases. Acetylene, however, has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 25 and can be deprotonated by the conjugate base of any acid whose p<emphasis effect="italics">K</emphasis><sub>a</sub> is greater than 25. Amide ion (<m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math>), for example, the conjugate base of ammonia (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 35), is often used to deprotonate terminal alkynes.</para>
+    <para id="para-00003">Where do hydrocarbons lie on the acidity scale? As the data in <link target-id="table-00001"/> show, both methane (p<emphasis effect="italics">K</emphasis><sub>a</sub> ≈ 60) and ethylene (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 44) are very weak acids and thus do not react with any of the common bases. Acetylene, however, has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 25 and can be deprotonated by the conjugate base of any acid whose p<emphasis effect="italics">K</emphasis><sub>a</sub> is greater than 25. Amide ion (NH<sub>2</sub><sup>&#8722;</sup>), for example, the conjugate base of ammonia (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 35), is often used to deprotonate terminal alkynes.</para>
     <table id="table-00001" summary="An illustration shows a table depicting the acidity of simple hydrocarbons. The family of hydrocarbons include alkyne alkene and alkane; their examples along with Ka and pKa values are given. The acidity order is in the following increasing order: alkane alkene and alkyne. The values for hydrocarbons are as follows: Alkyne; example acetylene shown as a methine group triple bonded to another methine group; Ka = 10 to the power minus 25; pKa = 25. Alkene; example ethylene shown as a methylene group bonded to another methylene group; Ka = 10 to the power minus 44; pKa = 44. Alkane; example methane shown as CH4; Ka = 10 to the power minus 60; pKa = 60.">
     <title>Acidity of Simple Hydrocarbons</title>
     <tgroup cols="5">
@@ -34,7 +34,7 @@
     <tbody>
     <row valign="top">
     <entry valign="top" align="left">Alkyne</entry>
-    <entry valign="top" align="left">HC≡CH</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>HC&#x2261;CH</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">10<sup>−25</sup></entry>
     <entry valign="top" align="left">25</entry>
     <entry valign="top" align="left" morerows="2"><media class="unnumbered" alt="Alt text placeholder">
@@ -42,7 +42,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alkene</entry>
-    <entry valign="top" align="left">H<sub>2</sub>C ═ CH<sub>2</sub></entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C&#x2550;</m:mtext><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></entry>
     <entry valign="top" align="left">10<sup>−44</sup></entry>
     <entry valign="top" align="left">44</entry>
     </row>
