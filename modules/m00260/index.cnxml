@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Alpha Bromination of Carboxylic Acids</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Alpha Bromination of Carboxylic Acids</md:title>
+    <md:content-id>m00260</md:content-id>
+    <md:uuid>33254cc2-69de-43e9-8753-19c9bdf7b5e2</md:uuid>
+  </metadata>
+  <content>
+<para>The <emphasis effect="italics">&#945;</emphasis> bromination of carbonyl compounds by Br<sub>2</sub> in acetic acid is limited to aldehydes and ketones because acids, esters, and amides don&#8217;t enolize to a sufficient extent. Carboxylic acids, however, can be <emphasis effect="italics">&#945;</emphasis> brominated by a mixture of Br<sub>2</sub> and PBr<sub>3</sub> in the <emphasis effect="italics">Hell&#8211;Volhard&#8211;Zelinskii (HVZ) reaction.</emphasis></para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a chemical reaction where heptanoic acid in the presence of pink bromine phosphorus tribromide (highlighted in pink) and water (highlighted in blue) yields 2-Bromoheptanoic acid (90 percent). The structure of heptanoic acid shows a 7-carbon chain with C1 double bonded to a pink oxygen and single bonded to a pink hydroxyl group. The structure of 2-Bromoheptanoic acid (90 percent) shows a 7-carbon chain with C1 a methine group bonded to a pink bromine and a carbonyl group bonded to a blue hydroxyl group. The carbonyl oxygen atoms are highlighted in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_22_04_001.jpg"/>
+</media>
+</figure>
+<para>The Hell&#8211;Volhard&#8211;Zelinskii reaction is a bit more complex than it looks and actually involves <emphasis effect="italics">&#945;</emphasis> substitution of an acid bromide enol rather than a carboxylic acid enol. The process begins by reaction of the carboxylic acid with PBr<sub>3</sub> to form an acid bromide plus HBr <emphasis effect="bold">(<link>Section 21-4</link>)</emphasis>. The HBr then catalyzes enolization of the acid bromide, and the resultant enol reacts with Br<sub>2</sub> in an <emphasis effect="italics">&#945;</emphasis>-substitution reaction to give an <emphasis effect="italics">&#945;</emphasis>-bromo acid bromide. Addition of water hydrolyzes the acid bromide in a nucleophilic acyl substitution reaction and yields the <emphasis effect="italics">&#945;</emphasis>-bromo carboxylic acid product.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a chemical reaction where a carboxylic acid in the presence of phosphorus tribromide (highlighted in green) yields an intermediary acid bromide and hydrogen bromide which through a reversible reaction yields Acid bromide enol. This in the presence of bromine yields alpha bromo acid bromide. Addition of water to this yields alpha-bromo carboxylic acid and hydrogen bromide (pink H and green Br). The structure of carboxylic acid shows a carbon atom bonded to 3 hydrogen atoms and bonded to carboxyl group. The structure of acid bromide shows a carbon atom bonded to 3 hydrogen atoms and bonded to a carbon atom double bonded to a pink oxygen atom and a green bromine atom. The structure of acid bromide enol shows a carbon atom bonded to 2 hydrogen atoms and double bonded to a carbon atom bonded to a pink hydroxyl group and green bromine atom. The structure of alpha-bromo acid bromide shows a carbon atom bonded to 2 hydrogen atoms a pink bromine atom and a carbon atom double bonded to a pink oxygen atom and a green bromine atom. The structure of alpha-bromo carboxylic acid shows a carbon atom bonded to 2 hydrogen atoms 1 pink bromine atom and a carbon atom double bonded to a pink oxygen atom and bonded to a hydroxyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_22_04_002.jpg"/>
+</media>
+</figure>
+<section class="section-exercises">
+<title>Problems</title>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/22-04-OC-P06"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

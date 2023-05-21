@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Alpha Halogenation of Aldehydes and Ketones</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Alpha Halogenation of Aldehydes and Ketones</md:title>
+    <md:content-id>m00259</md:content-id>
+    <md:uuid>c0b2123c-0cc3-4890-aeea-5e13fc3dd8a1</md:uuid>
+  </metadata>
+  <content>
+<para>A particularly common <emphasis effect="italics">&#945;</emphasis>-substitution reaction in the laboratory is the halogenation of aldehydes and ketones at their <emphasis effect="italics">&#945;</emphasis> positions by reaction with Cl<sub>2</sub>, Br<sub>2</sub>, or I<sub>2</sub> in acidic solution. Bromine in acetic acid solvent is often used.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a chemical reaction (halogenation) of acetophenone in the presence of bromine and acetic acid to yield &#8220;alpha Bromoacetophenone (72 percent).&#8221; The structure of acetophenone shows a benzene ring bonded to a carbonyl group further bonded to a methyl group. The oxygen atom in the carbonyl group is in pink while the hydrogen atoms in the methyl group is in blue. The structure of alpha Bromoacetophenone shows a benzene ring bonded to a carbonyl group bonded to a carbon atom bonded to 2 blue hydrogen atoms and one pink bromine atom. The oxygen atom in the carbonyl group is in pink in both the structures.">
+<image mime-type="image/jpeg" src="../../media/OChem_22_03_001.jpg"/>
+</media>
+</figure>
+<para>Remarkably, ketone halogenation also occurs in biological systems, particularly in marine alga, where dibromoacetaldehyde, bromoacetone, 1,1,1-tribromoacetone, and other related compounds have been found.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows the structure of dibromoacetaldehyde bromoacetone and 1 1 1-tribromoacetone. The structure of dibromoacetaldehyde shows a carbon atom bonded to a hydrogen atom and 2 pink bromine atoms and to a carbonyl group bonded to a hydrogen atom. The structure of bromoacetone is similar to that of dibromoacetaldehyde but the second carbon atom is bonded to 1 pink bromine atom and 2 hydrogen atoms. The structure of 1 1 1-tribromoacetone shows a structure similar to that of dibromoacetaldehyde but the second carbon is bonded to 3 pink bromine atoms. All the three structures have been commonly labeled &#8220;From the Hawaiian alga Asparagopsis taxiformis.&#8221;">
+<image mime-type="image/jpeg" src="../../media/OChem_22_03_002.jpg"/>
+</media>
+</figure>
+<para>This form of halogenation is a typical <emphasis effect="italics">&#945;</emphasis>-substitution reaction that proceeds by acid-catalyzed formation of an enol intermediate, as shown in <link>Figure 22_03_OChem-22-03-003_80485-22-03_M-MechThre</link>.</para>
+<figure class="mechanism-figure scaled-down">
+<title>MECHANISM</title>
+<media alt="An illustration shows the 4 steps of a reaction in which acetone undergoes bromination. The structure in step 1 shows a central carbon atom bonded to 2 methyl groups and double bonded to a pink oxygen atoms having 2 pairs of electrons. The structure of hydrogen bromide shows a pink hydrogen atom bonded to a bromine atom. A pink arrow is shown from an oxygen atom to the hydrogen atom in hydrogen bromide; and from the bond between hydrogen and bromine to bromine. Arrows below the structure indicate a reversible reaction. The supporting text reads &#8220;The carbonyl oxygen atom is protonated by acid catalyst.&#8221; The yield of the reactant in step 1 is shown in step 2. Its structure shows a central carbon atom bonded to a methyl group bonded to a carbon atom bonded to 3 hydrogen atoms of which one is a pink hydrogen and double bonded to a pink oxygen cation with a pair of electrons bonded to a blue hydrogen atom. A pink curved arrow is shown from a base (highlighted in blue) to the blue hydrogen atom; from the bond between the carbon and blue hydrogen to the bond between the 2 carbon atoms; from the double bond between the carbon and oxygen atom to the electron pair in the oxygen atom. A pink bromine anion is shown as the second yield. The supporting text reads &#8220;Loss of an acidic proton from the alpha carbon takes place in the normal way to yield an enol intermediate.&#8221; This undergoes a reversible reaction to yield an intermediary enol in step 3. Its structure shows a carbon atom bonded to a methyl group double bonded to a methylene group and double bonded to a pink oxygen atom with 2 pairs of electrons bonded to a pink hydrogen. A pink curved arrow is shown from a pair of electrons in the oxygen atom to the double bond between the oxygen and carbon atom; from the double bond between the 2 carbon atoms to a pink bromine atom; from the bond between this bromine atom to the other pink bromine atom. The supporting text reads &#8220;An electron pair from the enol attacks bromine giving an intermediate cation that is stabilized by resonance between two forms.&#8221; This leads to 2 products exhibiting resonance forms. The structure of the first product shows a carbon atom bonded to a methyl group bonded to a carbon atom bonded to 2 hydrogen atoms and 1 pink bromine atom and double bonded to a pink oxygen cation with a pair of electrons bonded to a pink hydrogen atom. A pink curved arrow is shown from the double bond between the carbon and oxygen atom to the oxygen atom. The structure of the second product shows a carbon cation bonded to a methyl group bonded to a carbon atom bonded to 2 hydrogen atoms and 1 pink bromine atom and bonded to a pink oxygen atom with 2 pairs of electrons bonded to a pink hydrogen. A pink curved arrow is shown from a pair of electrons in a base (highlighted in blue) to the blue hydrogen; and from the bond between the oxygen and hydrogen atom to the bond between the carbon and oxygen atom. This yields an alpha-halogenated product and a pink hydrogen bromide in step 4. The structure of the alpha-halogenated product shows a carbon atom bonded to a methyl group bonded to methylene bromide (pink bromine) and double bonded to a pink oxygen atom. The supporting text reads &#8220;Loss of the &#8211;OH proton then gives the alpha-halogenated product and generates more acid catalyst.&#8221;">
+<image mime-type="image/jpeg" src="../../media/OChem_22_03_003.jpg"/>
+</media>
+<caption><emphasis effect="bold">Mechanism of the acid-catalyzed bromination of acetone.</emphasis></caption>
+</figure>
+<para>Evidence for the mechanism shown in <link>Figure 22_03_OChem-22-03-003_80485-22-03_M-MechThre</link> includes the observation that acid-catalyzed halogenations show second-order kinetics and follow the rate law</para>
+<para>Reaction rate = <emphasis effect="italics">k</emphasis> [Ketone] [H<sup>+</sup>]</para>
+<para>In other words, the rate of halogenation depends only on the concentrations of ketone and acid and is independent of halogen concentration. Since halogen is not involved in the rate-limiting step, chlorination, bromination, and iodination of a given substrate all occur at the same rate.</para>
+<para>Furthermore, if an aldehyde or ketone is treated with D<sub>3</sub>O<sup>+</sup>, the acidic <emphasis effect="italics">&#945;</emphasis> hydrogens are replaced by deuterium. For a given ketone, the rate of deuterium exchange is identical to the rate of halogenation, implying that a common intermediate&#8212;presumably the enol&#8212;is involved in both processes.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a slow rate-limiting chemical reaction where a ketone or aldehyde in the presence of hydronium ion (deuterium) results in an intermediary enol. This upon undergoing a fast reaction with deuterium or X2 yields a ketone or aldehyde. The structure of the reactant shows a carbon atom having 2 open bonds bonded to a blue hydrogen atom and bonded to a carbon atom having 1 open bond and double bonded to a pink oxygen atom. The structure of the intermediary enol shows a carbon atom having 2 open bonds double bonded to a carbon atom having an open bond and bonded to a hydroxyl group with a pink oxygen and blue hydrogen atom. A blue D is shown adjacent to the hydroxyl group. The structure of the first yield from the intermediary in the presence of hydronium ion (D3O plus) shows a carbon atom having 2 open bonds bonded to a green D and bonded to a carbon atom having 1 open bond and double bonded to a pink oxygen atom. The structure of the second yield from the intermediary in the presence of X shows a carbon atom having 2 open bonds bonded to a green X and bonded to a carbon atom having 1 open bond and double bonded to a pink oxygen. The X is chlorine bromine or iodine.">
+<image mime-type="image/jpeg" src="../../media/OChem_22_03_004.jpg"/>
+</media>
+</figure>
+<para><emphasis effect="italics">&#945;</emphasis>-Bromo ketones are useful in the laboratory because they can be dehydrobrominated by base treatment to yield <emphasis effect="italics">&#945;</emphasis>,<emphasis effect="italics">&#946;</emphasis>-unsaturated ketones. For example, 2-methylcyclohexanone gives 2-bromo-2-methylcyclohexanone on halogenation, and the <emphasis effect="italics">&#945;</emphasis>-bromo ketone gives 2-methyl-2-cyclohexenone when heated in pyridine. The reaction takes place by an E2 elimination pathway <emphasis effect="bold">(<link>Section 11-8</link>)</emphasis> and is a good method for introducing a <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>&#x2550;</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> bond into a molecule. Note that bromination of 2-methylcyclohexanone occurs primarily on the more highly substituted <emphasis effect="italics">&#945;</emphasis> position because the more highly substituted enol is favored over the less highly substituted one <emphasis effect="bold">(<link>Section 7-6</link>)</emphasis>.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a chemical reaction where 2-Methylcyclohexanone in the presence of bromine acetic acid results in an intermediary product 2-Bromo-2-methylcyclohexanone. This in the presence of pyridine up on heating yields 2-Methyl-2-cyclohexenone (63 percent). The structure of 2-Methylcyclohexanone shows a cyclohexane ring double bonded to a pink oxygen at C1 and bonded to a methyl group and blue hydrogen at C2. The structure of 2-Bromo-2-methylcyclohexanone shows a cyclohexane double bonded to a pink oxygen at C1 and bonded to a methyl group and pink bromine at C2. The structure of 2-Methyl-2-cyclohexenone (63 percent) shows a cyclohexane ring double bonded to a pink oxygen atom at C1 and bonded to a methyl group at C2. A blue double bond is shown between C2 and C3 that are labeled alpha and beta respectively.">
+<image mime-type="image/jpeg" src="../../media/OChem_22_03_005.jpg"/>
+</media>
+</figure>
+<section class="section-exercises">
+<title>Problems</title>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/22-03-OC-P04"/></para>
+</problem>
+</exercise>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/22-03-OC-P05"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
