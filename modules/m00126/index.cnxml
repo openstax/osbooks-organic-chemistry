@@ -95,26 +95,21 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <colspec colnum="3" colname="c3"/>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Substrate</emphasis></entry>
-    <entry>    </entry>
     <entry valign="top" align="left">The best substrates yield the most stable carbocations. As a result, S<sub>N</sub>1 reactions are best for tertiary, allylic, and benzylic halides.</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="red-text"><emphasis effect="bold">Leaving group</emphasis></span></entry>
-    <entry>    </entry>
     <entry valign="top" align="left">Good leaving groups increase the reaction rate by lowering the energy level of the transition state for carbocation formation.</entry>
     </row>
     <row>
     <entry valign="top" align="left"><span class="cyan-text"><emphasis effect="bold">Nucleophile</emphasis></span></entry>
-    <entry>    </entry>
     <entry valign="top" align="left">The nucleophile must be nonbasic to prevent a competitive elimination of HX (<link document="m00128"/>), but otherwise does not affect the reaction rate. Neutral nucleophiles work well.</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><span class="green-text"><emphasis effect="bold">Solvent</emphasis></span></entry>
-    <entry>    </entry>
     <entry valign="top" align="left">Polar solvents stabilize the carbocation intermediate by solvation, thereby increasing the reaction rate.</entry>
     </row>
     </tbody>
