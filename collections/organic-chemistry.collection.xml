@@ -361,6 +361,35 @@
         <col:module document="m00263"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Carbonyl Condensation Reactions</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Amines and Heterocycles</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biomolecules: Carbohydrates</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biomolecules: Amino Acids, Peptides, and Proteins</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biomolecules: Lipids</md:title>
+      <col:content>
+        <col:module document="m00264"/>
+        <col:module document="m00265"/>
+        <col:module document="m00266"/>
+        <col:module document="m00267"/>
+        <col:module document="m00268"/>
+        <col:module document="m00269"/>
+        <col:module document="m00270"/>
+        <col:module document="m00271"/>
+      </col:content>
+    </col:subcollection>
     <col:module document="m00016"/>
     <col:module document="m00030"/>
     <col:module document="m00226"/>
