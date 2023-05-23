@@ -18,26 +18,21 @@
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <colspec colnum="3" colname="c2"/>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Mass spectrometry</emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">What is the size and formula?</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="red-text">Infrared spectroscopy</span></emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">What functional groups are present?</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="cyan-text">Ultraviolet spectroscopy</span></emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Is a conjugated <emphasis effect="italics">π</emphasis> electron system present?</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="green-text">Nuclear magnetic resonance spectroscopy</span></emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">What is the carbon–hydrogen framework?</entry>
     </row>
     </tbody>
