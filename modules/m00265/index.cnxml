@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Waxes, Fats, and Oils</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Waxes, Fats, and Oils</md:title>
@@ -6,5 +6,242 @@
     <md:uuid>9e97ae32-ad0c-438c-ac91-7a729f928c6a</md:uuid>
   </metadata>
   <content>
-  </content>
+<para id="para-00001"><term id="term-00001">Waxes</term> are mixtures of esters of long-chain carboxylic acids with long-chain alcohols. The carboxylic acid usually has an even number of carbons from 16 to 36, while the alcohol has an even number of carbons from 24 to 36. One of the major components of beeswax, for instance, is triacontyl hexadecanoate, the ester of the C<sub>30</sub> alcohol (1-triacontanol) and the C<sub>16</sub> acid (hexadecanoic acid). The waxy protective coatings on most fruits, berries, leaves, and animal furs have similar structures.</para>
+<figure class="unnumbered" id="fig-00001">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_01_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">Animal fats and vegetable oils are the most widely occurring lipids. Although they appear different—animal fats like butter and lard are solids, whereas vegetable oils like corn and peanut oil are liquid—their structures are closely related. Chemically, fats and oils are <emphasis effect="italics">triglycerides,</emphasis> or <term id="term-00002">triacylglycerols</term>—triesters of glycerol with three long-chain carboxylic acids called <term id="term-00003">fatty acids</term>. Animals use fats for long-term energy storage because they are far less highly oxidized than carbohydrates and provide about six times as much energy as an equal weight of stored, hydrated glycogen.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_01_002.jpg"/>
+</media>
+</figure>
+<para id="para-00003">Hydrolysis of a fat or oil with aqueous NaOH yields glycerol and three fatty acids. The fatty acids are generally unbranched and contain an even number of carbon atoms between 12 and 20. If double bonds are present, they have mostly, although not entirely, <emphasis effect="italics">Z,</emphasis> or cis, geometry. The three fatty acids of a specific triacylglycerol molecule need not be the same, and the fat or oil from a given source is likely to be a complex mixture of many different triacylglycerols. <link target-id="table-00001"/> lists some of the commonly occurring fatty acids, and <link target-id="table-00002"/> lists the approximate composition of fats and oils from different sources.</para>
+<table summary="" id="table-00001">
+<title>Structures of Some Common Fatty Acids</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="bottom" align="left">Name</entry>
+<entry valign="bottom" align="center">No. of carbons</entry>
+<entry valign="bottom" align="center">Melting point (°C)</entry>
+<entry valign="bottom" align="left">Structure</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics"><span class="magenta-text">Saturated</span></emphasis></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lauric</entry>
+<entry valign="top" align="center">12</entry>
+<entry valign="top" align="center">43.2</entry>
+<entry valign="top" align="left">CH<sub>3</sub>(CH<sub>2</sub>)<sub>10</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Myristic</entry>
+<entry valign="top" align="center">14</entry>
+<entry valign="top" align="center">53.9</entry>
+<entry valign="top" align="left">CH<sub>3</sub>(CH<sub>2</sub>)<sub>12</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Palmitic</entry>
+<entry valign="top" align="center">16</entry>
+<entry valign="top" align="center">63.1</entry>
+<entry valign="top" align="left">CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Stearic</entry>
+<entry valign="top" align="center">18</entry>
+<entry valign="top" align="center">68.8</entry>
+<entry valign="top" align="left">CH<sub>3</sub>(CH<sub>2</sub>)<sub>16</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Arachidic</entry>
+<entry valign="top" align="center">20</entry>
+<entry valign="top" align="center">76.5</entry>
+<entry valign="top" align="left">CH<sub>3</sub>(CH<sub>2</sub>)<sub>18</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics"><span class="cyan-text">Unsaturated</span></emphasis></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Palmitoleic</entry>
+<entry valign="top" align="center">16</entry>
+<entry valign="top" align="center">–0.1</entry>
+<entry valign="top" align="left">(<emphasis effect="italics">Z</emphasis>)-CH<sub>3</sub>(CH<sub>2</sub>)<sub>5</sub>CH ═ CH(CH<sub>2</sub>)<sub>7</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Oleic</entry>
+<entry valign="top" align="center">18</entry>
+<entry valign="top" align="center">13.4</entry>
+<entry valign="top" align="left">(<emphasis effect="italics">Z</emphasis>)-CH<sub>3</sub>(CH<sub>2</sub>)<sub>7</sub>CH ═ CH(CH<sub>2</sub>)<sub>7</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Linoleic</entry>
+<entry valign="top" align="center">18</entry>
+<entry valign="top" align="center">–12  </entry>
+<entry valign="top" align="left">(<emphasis effect="italics">Z,Z</emphasis>)-CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>(CH ═ CHCH<sub>2</sub>)<sub>2</sub>(CH<sub>2</sub>)<sub>6</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Linolenic</entry>
+<entry valign="top" align="center">18</entry>
+<entry valign="top" align="center">–11  </entry>
+<entry valign="top" align="left">(all <emphasis effect="italics">Z</emphasis>)-CH<sub>3</sub>CH<sub>2</sub>(CH ═ CHCH<sub>2</sub>)<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>CO<sub>2</sub>H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Arachidonic</entry>
+<entry valign="top" align="center">20</entry>
+<entry valign="top" align="center">–49.5</entry>
+<entry valign="top" align="left">(all <emphasis effect="italics">Z</emphasis>)-CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>(CH ═ CHCH<sub>2</sub>)<sub>4</sub>CH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub>H</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table summary="" id="table-00002">
+<title>Composition of Some Fats and Oils</title>
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<thead>
+<row valign="top">
+<entry valign="bottom" align="left"> </entry>
+<entry valign="bottom" align="left" namest="c2" nameend="c5">Saturated fatty acids (%)</entry>
+<entry valign="bottom" align="left" namest="c6" nameend="c7">Unsaturated fatty acids (%)</entry>
+</row>
+<row valign="top">
+<entry valign="bottom" align="left">Source</entry>
+<entry valign="bottom" align="left">C<sub>12</sub> lauric</entry>
+<entry valign="bottom" align="left">C<sub>14</sub> myristic</entry>
+<entry valign="bottom" align="left">C<sub>16</sub> palmitic</entry>
+<entry valign="bottom" align="left">C<sub>18</sub> stearic</entry>
+<entry valign="bottom" align="left">C<sub>18</sub> oleic</entry>
+<entry valign="bottom" align="left">C<sub>18</sub> linoleic</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c7"><emphasis effect="bold"><emphasis effect="italics"><span class="magenta-text">Animal fat</span></emphasis></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lard</entry>
+<entry valign="top" align="right">—</entry>
+<entry valign="top" align="right"> 1</entry>
+<entry valign="top" align="right">25</entry>
+<entry valign="top" align="right">15</entry>
+<entry valign="top" align="right">50</entry>
+<entry valign="top" align="right"> 6</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Butter</entry>
+<entry valign="top" align="right"> 2</entry>
+<entry valign="top" align="right">10</entry>
+<entry valign="top" align="right">25</entry>
+<entry valign="top" align="right">10</entry>
+<entry valign="top" align="right">25</entry>
+<entry valign="top" align="right"> 5</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Human fat</entry>
+<entry valign="top" align="right"> 1</entry>
+<entry valign="top" align="right"> 3</entry>
+<entry valign="top" align="right">25</entry>
+<entry valign="top" align="right"> 8</entry>
+<entry valign="top" align="right">46</entry>
+<entry valign="top" align="right">10</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Whale blubber</entry>
+<entry valign="top" align="right">—</entry>
+<entry valign="top" align="right"> 8</entry>
+<entry valign="top" align="right">12</entry>
+<entry valign="top" align="right"> 3</entry>
+<entry valign="top" align="right">35</entry>
+<entry valign="top" align="right">10</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c7"><emphasis effect="bold"><emphasis effect="italics"><span class="cyan-text">Vegetable oil</span></emphasis></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Coconut</entry>
+<entry valign="top" align="right">50</entry>
+<entry valign="top" align="right">18</entry>
+<entry valign="top" align="right"> 8</entry>
+<entry valign="top" align="right"> 2</entry>
+<entry valign="top" align="right"> 6</entry>
+<entry valign="top" align="right"> 1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Corn</entry>
+<entry valign="top" align="right">—</entry>
+<entry valign="top" align="right"> 1</entry>
+<entry valign="top" align="right">10</entry>
+<entry valign="top" align="right"> 4</entry>
+<entry valign="top" align="right">35</entry>
+<entry valign="top" align="right">45</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Olive</entry>
+<entry valign="top" align="right">—</entry>
+<entry valign="top" align="right"> 1</entry>
+<entry valign="top" align="right"> 5</entry>
+<entry valign="top" align="right"> 5</entry>
+<entry valign="top" align="right">80</entry>
+<entry valign="top" align="right"> 7</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Peanut</entry>
+<entry valign="top" align="right">—</entry>
+<entry valign="top" align="right">—</entry>
+<entry valign="top" align="right"> 7</entry>
+<entry valign="top" align="right"> 5</entry>
+<entry valign="top" align="right">60</entry>
+<entry valign="top" align="right">20</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00004">More than 100 different fatty acids are known and about 40 occur widely. Palmitic acid (C<sub>16</sub>) and stearic acid (C<sub>18</sub>) are the most abundant saturated fatty acids; oleic and linoleic acids (both C<sub>18</sub>) are the most abundant unsaturated ones. Oleic acid is monounsaturated because it has only one double bond, whereas linoleic, linolenic, and arachidonic acids are <term id="term-00004">polyunsaturated fatty acids</term> because they have more than one double bond. Linoleic and linolenic acids occur in cream and are essential in the human diet; infants grow poorly and develop skin lesions if fed a diet of nonfat milk for prolonged periods. Linolenic acid, in particular, is an example of an <term id="term-00005">omega-3 fatty acid</term>, which has been found to lower blood triglyceride levels and reduce the risk of heart attack. The name omega-3 means that there is a double bond three carbons in from the noncarboxyl end of the chain.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_01_003.jpg"/>
+</media>
+</figure>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_01_004.jpg"/>
+</media>
+</figure>
+<para id="para-00005">The data in <link target-id="table-00001"/> show that unsaturated fatty acids generally have lower melting points than their saturated counterparts, a trend that is also true for triacylglycerols. Since vegetable oils generally have a higher proportion of unsaturated to saturated fatty acids than animal fats (<link target-id="table-00002"/>), they have lower melting points. The difference is a consequence of structure. Saturated fats have a uniform shape that allows them to pack together efficiently in a crystal lattice. In unsaturated vegetable oils, however, the <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> bonds introduce bends and kinks into the hydrocarbon chains, making crystal formation more difficult. The more double bonds there are, the harder it is for the molecules to crystallize and the lower the melting point of the oil.</para>
+<para id="para-00006">The <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> bonds in vegetable oils can be reduced by catalytic hydrogenation, typically carried out at high temperature using a nickel catalyst, to produce saturated solid or semisolid fats. Margarine and shortening are produced by hydrogenating soybean, peanut, or cottonseed oil until the proper consistency is obtained. Unfortunately, the hydrogenation reaction is accompanied by some cis–trans isomerization of the remaining double bonds, producing fats with about 10% to 15% trans unsaturated fatty acids. Dietary intake of trans fatty acids increases cholesterol levels in the blood, thereby increasing the risk of heart problems. The conversion of linoleic acid into elaidic acid is an example.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00005">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_01_005.jpg"/>
+</media>
+</figure>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00007"><link class="os-embed" url="#exercise/27-01-OC-P01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00008"><link class="os-embed" url="#exercise/27-01-OC-P02"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>

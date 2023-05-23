@@ -6,5 +6,137 @@
     <md:uuid>323f1800-5de3-4201-8424-000528bc7d37</md:uuid>
   </metadata>
   <content>
-  </content>
+<para id="para-00001">We saw in the <link>Chapter 8 <emphasis effect="italics">Chemistry Matters</emphasis></link> that <term id="term-00001">terpenoids</term> are a vast and diverse group of lipids found in all living organisms. Despite their apparent structural differences, all terpenoids contain a multiple of five carbons and are derived biosynthetically from the five-carbon precursor isopentenyl diphosphate (<link>Figure 27_05_OChem-27-05-001_80485-27-06_IsopenDiph</link>). Although formally a <emphasis effect="italics">terpenoid</emphasis> contains oxygen, while a hydrocarbon is called a <emphasis effect="italics">terpene,</emphasis> we’ll use the term <emphasis effect="italics">terpenoid</emphasis> to refer to both for simplicity.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="Structures of some representative terpenoids.">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_001.jpg"/>
+</media>
+<caption><emphasis effect="bold">Structures of some representative terpenoids.</emphasis></caption>
+</figure>
+<para id="para-00002">You might recall from the chapter on <link>Alkenes: Reactions and Synthesis</link> that terpenoids are classified according to the number of five-carbon multiples they contain. <emphasis effect="italics">Monoterpenoids</emphasis> contain 10 carbons and are derived from two isopentenyl diphosphates, <emphasis effect="italics">sesquiterpenoids</emphasis> contain 15 carbons and are derived from three isopentenyl diphosphates, diterpenoids contain 20 carbons and are derived from four isopentenyl diphosphates, and so on, up to triterpenoids (C<sub>30</sub>) and tetraterpenoids (C<sub>40</sub>). Lanosterol, for instance, is a triterpenoid from which steroid hormones are made, and <emphasis effect="italics">β</emphasis>-carotene is a tetraterpenoid that serves as a dietary source of vitamin A (<link>Figure 27_05_OChem-27-05-001_80485-27-06_IsopenDiph</link>).</para>
+<para id="para-00003">The terpenoid precursor isopentenyl diphosphate, formerly called isopentenyl pyrophosphate and thus abbreviated IPP, is biosynthesized by two different pathways, depending on the organism and the structure of the final product. In animals and higher plants, sesquiterpenoids and triterpenoids arise primarily from the <emphasis effect="italics">mevalonate</emphasis> pathway, whereas monoterpenoids, diterpenoids, and tetraterpenoids are biosynthesized by the <emphasis effect="italics">1-deoxyxylulose 5-phosphate (DXP)</emphasis> pathway, also called the methylerithritol phosphate, or MEP, pathway. In bacteria, both pathways are used. We’ll look only at the mevalonate pathway, which is more common and better understood at present.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_002.jpg"/>
+</media>
+</figure>
+<section id="sect-00001">
+<title>The Mevalonate Pathway to Isopentenyl Diphosphate</title>
+<para id="para-00004">As shown in <link>Figure 27_05_OChem-27-05-004_80485-27-07_M-AcetylCoA</link>, the mevalonate pathway begins with the conversion of acetate to acetyl CoA, followed by Claisen condensation to yield acetoacetyl CoA. A second carbonyl condensation reaction with a third molecule of acetyl CoA, this one an aldol-like process, then yields the six-carbon compound 3-hydroxy-3-methylglutaryl CoA, which is reduced to give mevalonate. Phosphorylation, followed by loss of CO<sub>2</sub> and phosphate ion, completes the process.</para>
+<section id="sect-00002">
+<title>Step <span class="magenta-text">1</span> of <link>figure 27_05_ochem-27-05-004_80485-27-07_m-acetylcoa</link>: Claisen Condensation</title>
+<para id="para-00005">The first step in mevalonate biosynthesis is a Claisen condensation to yield acetoacetyl CoA, a reaction catalyzed by acetoacetyl-CoA acetyltransferase. An acetyl group is first bound to the enzyme by a nucleophilic acyl substitution reaction with a cysteine –SH group. Formation of an enolate ion from a second molecule of acetyl CoA, followed by Claisen condensation, then yields the product.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_003.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00003">
+<title>Step <span class="magenta-text">2</span> of <link>figure 27_05_ochem-27-05-004_80485-27-07_m-acetylcoa</link>: Aldol Condensation</title>
+<para id="para-00006">Acetoacetyl CoA next undergoes an aldol-like addition of an acetyl CoA enolate ion in a reaction catalyzed by 3-hydroxy-3-methylglutaryl-CoA synthase. The reaction occurs by initial binding of the substrate to a cysteine –SH group in the enzyme, followed by enolate-ion addition and subsequent hydrolysis to give (3<emphasis effect="italics">S</emphasis>)-3-hydroxy-3-methylglutaryl CoA (HMG-CoA).</para>
+<figure class="mechanism-figure scaled-down" id="fig-00004">
+<title>MECHANISM</title>
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_004.jpg"/>
+</media>
+<caption><emphasis effect="bold">The mevalonate pathway for the biosynthesis of isopentenyl diphosphate from three molecules of acetyl CoA.</emphasis> Individual steps are explained in the text.</caption>
+</figure>
+<figure class="unnumbered" id="fig-00005">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_005.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00004">
+<title>Step <span class="magenta-text">3</span> of <link>figure 27_05_ochem-27-05-004_80485-27-07_m-acetylcoa</link>: Reduction</title>
+<para id="para-00007">Reduction of HMG-CoA to give (<emphasis effect="italics">R</emphasis>)-mevalonate is catalyzed by 3-hydroxy-3-methylglutaryl-CoA reductase and requires 2 equivalents of reduced nicotinamide adenine dinucleotide phosphate (NADPH), a close relative of NADH (<link>Section 19-12</link>). The reaction occurs in two steps and proceeds through an aldehyde intermediate. The first step is a nucleophilic acyl substitution reaction involving hydride transfer from NADPH to the thioester carbonyl group of HMG-CoA. Following expulsion of HSCoA as leaving group, the aldehyde intermediate undergoes a second hydride addition to give mevalonate.</para>
+<figure class="unnumbered" id="fig-00006">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_006.jpg"/>
+</media>
+</figure>
+</section>
+<section id="sect-00005">
+<title>Step <span class="magenta-text">4</span> of <link>figure 27_05_ochem-27-05-004_80485-27-07_m-acetylcoa</link>: Phosphorylation and Decarboxylation</title>
+<para id="para-00008">Three additional reactions are needed to convert mevalonate to isopentenyl diphosphate. The first two are straightforward phosphorylations by ATP that occur through nucleophilic substitution reactions on the terminal phosphorus. Mevalonate is first converted to mevalonate 5-phosphate (phosphomevalonate) by reaction with ATP; mevalonate 5-phosphate then reacts with a second ATP to give mevalonate 5-diphosphate (diphosphomevalonate). The third reaction results in phosphorylation of the tertiary hydroxyl group, followed by decarboxylation and loss of phosphate ion.</para>
+<figure class="unnumbered scaled-down" id="fig-00007">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_007.jpg"/>
+</media>
+</figure>
+<para id="para-00009">The final decarboxylation of mevalonate 5-diphosphate seems unusual because decarboxylations of acids do not typically occur except in <emphasis effect="italics">β</emphasis>-keto acids and malonic acids, in which the carboxylate group is two atoms away from an additional carbonyl group. As discussed in <link>Section 22-7</link>, the function of this second carbonyl group is to act as an electron acceptor and stabilize the charge resulting from loss of CO<sub>2</sub>. In fact, though, the decarboxylation of a <emphasis effect="italics">β</emphasis>-keto acid and the decarboxylation of mevalonate 5-diphosphate are closely related.</para>
+<para id="para-00010">Catalyzed by mevalonate-5-diphosphate decarboxylase, the substrate is first phosphorylated on the free –OH group by reaction with ATP to give a tertiary phosphate, which undergoes spontaneous S<sub>N</sub>1-like dissociation to give a tertiary carbocation. The positive charge then acts as an electron acceptor to facilitate decarboxylation in the same way a <emphasis effect="italics">β</emphasis> carbonyl group does, giving isopentenyl diphosphate. (In the following structures, the diphosphate group is abbreviated OPP.)</para>
+<figure class="unnumbered scaled-down" id="fig-00008">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_008.jpg"/>
+</media>
+</figure>
+</section>
+</section>
+<section class="section-exercises" id="sect-00006">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00011"><link class="os-embed" url="#exercise/27-05-OC-P06"/></para>
+</problem>
+</exercise>
+</section>
+<section id="sect-00007">
+<title>Conversion of Isopentenyl Diphosphate to Terpenoids</title>
+<para id="para-00012">The conversion of isopentenyl diphosphate (IPP) to terpenoids begins with its isomerization to dimethylallyl diphosphate, abbreviated DMAPP and formerly called dimethylallyl pyrophosphate. These two C<sub>5</sub> building blocks then combine to give the C<sub>10</sub> unit geranyl diphosphate (GPP). The corresponding alcohol, geraniol, is itself a fragrant terpenoid that occurs in rose oil.</para>
+<para id="para-00013">Further combination of GPP with another IPP gives the C<sub>15</sub> unit farnesyl diphosphate (FPP), and so on, up to C<sub>25</sub>. Terpenoids with more than 25 carbons—that is, triterpenoids (C<sub>30</sub>) and tetraterpenoids (C<sub>40</sub>)—are synthesized by dimerization of C<sub>15</sub> and C<sub>20</sub> units, respectively (<link>Figure 27_05_OChem-27-05-010_80485-27-08_IPP-DMAPP</link>). Triterpenoids and steroids, in particular, arise from dimerization of farnesyl diphosphate to give squalene.</para>
+<figure id="fig-00009">
+<media alt="An overview of terpenoid biosynthesis from isopentenyl diphosphate.">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_010.jpg"/>
+</media>
+<caption><emphasis effect="bold">An overview of terpenoid biosynthesis from isopentenyl diphosphate.</emphasis></caption>
+</figure>
+<para id="para-00014">The isomerization of isopentenyl diphosphate to dimethylallyl diphosphate is catalyzed by IPP isomerase and occurs through a carbocation pathway. Protonation of the IPP double bond by a hydrogen-bonded cysteine residue in the enzyme gives a tertiary carbocation intermediate, which is deprotonated by a glutamate residue as base to yield DMAPP. X-ray structural studies on the enzyme show that it holds the substrate in an unusually deep, well-protected pocket to shield the highly reactive carbocation from reaction with solvent or other external substances.</para>
+<figure class="unnumbered scaled-down" id="fig-00010">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_011.jpg"/>
+</media>
+</figure>
+<para id="para-00015">Both the initial coupling of DMAPP with IPP to give geranyl diphosphate and the subsequent coupling of GPP with a second molecule of IPP to give farnesyl diphosphate are catalyzed by farnesyl diphosphate synthase. The process requires Mg<sup>2+</sup> ion, and the key step is a nucleophilic substitution reaction in which the double bond of IPP behaves as a nucleophile in displacing diphosphate ion leaving group (PP<sub>i</sub>) or DMAPP. Evidence suggests that the DMAPP develops a considerable cationic character and that spontaneous dissociation of the allylic diphosphate ion in an S<sub>N</sub>1-like pathway probably occurs (<link>Figure 27_05_OChem-27-05-012_80485-27-09_FPP</link>).</para>
+<figure class="scaled-down" id="fig-00011">
+<media alt="Mechanism of the coupling reaction of dimethylallyl diphosphate (DMAPP) and isopentenyl diphosphate (IPP) to give geranyl diphosphate (GPP).">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_012.jpg"/>
+</media>
+<caption><emphasis effect="bold">Mechanism of the coupling reaction of dimethylallyl diphosphate (DMAPP) and isopentenyl diphosphate (IPP), to give geranyl diphosphate (GPP).</emphasis></caption>
+</figure>
+<para id="para-00016">Further conversion of geranyl diphosphate into monoterpenoids typically involves carbocation intermediates and multistep reaction pathways that are catalyzed by terpene cyclases. Monoterpene cyclases function by first isomerizing geranyl diphosphate to its allylic isomer linalyl diphosphate (LPP), a process that occurs by spontaneous S<sub>N</sub>1-like dissociation to an allylic carbocation, followed by recombination. The effect of this isomerization is to convert the C2–C3 double bond of GPP into a single bond, thereby making cyclization possible and allowing <emphasis effect="italics">E</emphasis>/<emphasis effect="italics">Z</emphasis> isomerization of the double bond.</para>
+<para id="para-00017">Further dissociation and cyclization by electrophilic addition of the cationic carbon to the terminal double bond then gives a cyclic cation, which might either rearrange, undergo a hydride shift, be captured by a nucleophile, or be deprotonated to give any of the several hundred known monoterpenoids. As just one example, limonene, a monoterpenoid found in many citrus oils, arises by the biosynthetic pathway shown in <link>Figure 27_05_OChem-27-05-013_80485-27-10_Limonene</link>.</para>
+<figure class="scaled-down" id="fig-00012">
+<media alt="Mechanism for the formation of the monoterpenoid limonene from geranyl diphosphate.">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_013.jpg"/>
+</media>
+<caption><emphasis effect="bold">Mechanism for the formation of the monoterpenoid limonene from geranyl diphosphate.</emphasis></caption>
+</figure>
+<example id="exam-00001">
+<title>Proposing a Terpenoid Biosynthesis Pathway</title>
+<para id="para-00018">Propose a mechanistic pathway for the biosynthesis of <emphasis effect="italics">α</emphasis>-terpineol from geranyl diphosphate.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00013">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_014.jpg"/>
+</media>
+</figure>
+<para id="para-00019"><title><span class="red-text">Strategy</span></title> <emphasis effect="italics">α</emphasis>-Terpineol, a monoterpenoid, must be derived biologically from geranyl diphosphate through its isomer linalyl diphosphate. Draw the precursor in a conformation that approximates the structure of the target molecule, and then carry out a cationic cyclization, using the appropriate double bond to displace the diphosphate leaving group. Since the target is an alcohol, the carbocation resulting from cyclization evidently reacts with water.</para>
+<para id="para-00020"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered" id="fig-00014">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_27_05_015.jpg"/>
+</media>
+</figure>
+</example>
+</section>
+<section class="section-exercises" id="sect-00008">
+<title>Problems</title>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00021"><link class="os-embed" url="#exercise/27-05-OC-P07"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
