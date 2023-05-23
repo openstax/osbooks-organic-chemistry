@@ -27,7 +27,9 @@
 <caption><emphasis effect="bold">Mechanism of the acid-catalyzed bromination of acetone.</emphasis></caption>
 </figure>
 <para id="para-00004">Evidence for the mechanism shown in <link target-id="fig-00003"/> includes the observation that acid-catalyzed halogenations show second-order kinetics and follow the rate law</para>
-<para id="para-00005">Reaction rate = <emphasis effect="italics">k</emphasis> [Ketone] [H<sup>+</sup>]</para>
+<equation class="unnumbered" id="eq-00001">
+<m:math><m:mrow><m:mtext>Reaction rate</m:mtext><m:mo>=</m:mo><m:mi>k</m:mi><m:mtext>[Ketone</m:mtext><m:mo stretchy="false">]</m:mo><m:mo stretchy="false">[</m:mo><m:msup><m:mtext>H</m:mtext><m:mo>+</m:mo></m:msup><m:mo stretchy="false">]</m:mo></m:mrow></m:math>
+</equation>
 <para id="para-00006">In other words, the rate of halogenation depends only on the concentrations of ketone and acid and is independent of halogen concentration. Since halogen is not involved in the rate-limiting step, chlorination, bromination, and iodination of a given substrate all occur at the same rate.</para>
 <para id="para-00007">Furthermore, if an aldehyde or ketone is treated with D<sub>3</sub>O<sup>+</sup>, the acidic <emphasis effect="italics">α</emphasis> hydrogens are replaced by deuterium. For a given ketone, the rate of deuterium exchange is identical to the rate of halogenation, implying that a common intermediate—presumably the enol—is involved in both processes.</para>
 <figure class="unnumbered scaled-down" id="fig-00004">
