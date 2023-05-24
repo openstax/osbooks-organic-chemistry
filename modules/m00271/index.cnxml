@@ -6,15 +6,15 @@
     <md:uuid>2672124b-3a1b-415e-941c-f755b2ceb9fa</md:uuid>
   </metadata>
   <content>
-<para id="para-00001">Steroids are heavily modified triterpenoids that are biosynthesized in living organisms from farnesyl diphosphate (C<sub>15</sub>). A reductive dimerization first converts farnesyl diphosphate to the acyclic hydrocarbon squalene (C<sub>30</sub>), which is converted into lanosterol (<link>Figure 27_07_OChem-27-07-001_80485-27-12_2FamesylDi</link>). Further rearrangements and degradations then take place to yield various steroids. The conversion of squalene to lanosterol is among the most intensively studied of biosynthetic transformations. Starting from an achiral, open-chain polyene, the entire process requires only two enzymes and results in the formation of six carbon–carbon bonds, four rings, and seven chirality centers.</para>
+<para id="para-00001">Steroids are heavily modified triterpenoids that are biosynthesized in living organisms from farnesyl diphosphate (C<sub>15</sub>). A reductive dimerization first converts farnesyl diphosphate to the acyclic hydrocarbon squalene (C<sub>30</sub>), which is converted into lanosterol (<link target-id="fig-00001"/>). Further rearrangements and degradations then take place to yield various steroids. The conversion of squalene to lanosterol is among the most intensively studied of biosynthetic transformations. Starting from an achiral, open-chain polyene, the entire process requires only two enzymes and results in the formation of six carbon–carbon bonds, four rings, and seven chirality centers.</para>
 <figure class="scaled-down" id="fig-00001">
 <media alt="An overview of steroid biosynthesis from farnesyl diphosphate.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_001.jpg"/>
 </media>
 <caption><emphasis effect="bold">An overview of steroid biosynthesis from farnesyl diphosphate.</emphasis></caption>
 </figure>
-<para id="para-00002">Lanosterol biosynthesis begins with the selective epoxidation of squalene to give (3<emphasis effect="italics">S</emphasis>)-2,3-oxidosqualene, catalyzed by squalene epoxidase. Molecular O<sub>2</sub> provides the epoxide oxygen atom, and NADPH is required, along with a flavin coenzyme. The proposed mechanism involves reaction of FADH<sub>2</sub> with O<sub>2</sub> to produce a flavin hydroperoxide intermediate (ROOH), which transfers an oxygen to squalene in a pathway initiated by nucleophilic attack of the squalene double bond on the terminal hydroperoxide oxygen (<link>Figure 27_07_OChem-27-07-002_80485-27-13_Squalene</link>). The flavin alcohol formed as a by-product loses H<sub>2</sub>O to give FAD, which is reduced back to FADH<sub>2</sub> by NADPH. As noted in <link>Section 8-7</link>, this biological epoxidation mechanism is closely analogous to the mechanism by which peroxyacids (RCO<sub>3</sub>H) react with alkenes to give epoxides in the laboratory.</para>
-<para id="para-00003">The second part of lanosterol biosynthesis is catalyzed by oxidosqualene-lanosterol cyclase and occurs as shown in <link>Figure 27_07_OChem-27-07-004_80485-27-14a_M-2-3OxLanoB</link>. Squalene is folded by the enzyme into a conformation that aligns the various double bonds for a cascade of successive intramolecular electrophilic additions, followed by a series of hydride and methyl migrations. Except for the initial epoxide protonation/cyclization, the process is probably stepwise and appears to involve discrete carbocation intermediates that are stabilized by electrostatic interactions with electron-rich aromatic amino acids in the enzyme.</para>
+<para id="para-00002">Lanosterol biosynthesis begins with the selective epoxidation of squalene to give (3<emphasis effect="italics">S</emphasis>)-2,3-oxidosqualene, catalyzed by squalene epoxidase. Molecular O<sub>2</sub> provides the epoxide oxygen atom, and NADPH is required, along with a flavin coenzyme. The proposed mechanism involves reaction of FADH<sub>2</sub> with O<sub>2</sub> to produce a flavin hydroperoxide intermediate (ROOH), which transfers an oxygen to squalene in a pathway initiated by nucleophilic attack of the squalene double bond on the terminal hydroperoxide oxygen (<link target-id="fig-00002"/>). The flavin alcohol formed as a by-product loses H<sub>2</sub>O to give FAD, which is reduced back to FADH<sub>2</sub> by NADPH. As noted in <link document="m00095"/>, this biological epoxidation mechanism is closely analogous to the mechanism by which peroxyacids (RCO<sub>3</sub>H) react with alkenes to give epoxides in the laboratory.</para>
+<para id="para-00003">The second part of lanosterol biosynthesis is catalyzed by oxidosqualene-lanosterol cyclase and occurs as shown in <link target-id="fig-00004"/>. Squalene is folded by the enzyme into a conformation that aligns the various double bonds for a cascade of successive intramolecular electrophilic additions, followed by a series of hydride and methyl migrations. Except for the initial epoxide protonation/cyclization, the process is probably stepwise and appears to involve discrete carbocation intermediates that are stabilized by electrostatic interactions with electron-rich aromatic amino acids in the enzyme.</para>
 <figure class="scaled-down" id="fig-00002">
 <media alt="Proposed mechanism of the oxidation of squalene by flavin hydroperoxide.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_002.jpg"/>
@@ -22,8 +22,8 @@
 <caption><emphasis effect="bold">Proposed mechanism of the oxidation of squalene by flavin hydroperoxide.</emphasis></caption>
 </figure>
 <section id="sect-00001">
-<title>Steps <span class="magenta-text">1</span>, <span class="magenta-text">2</span> of <link>figure 27_07_ochem-27-07-004_80485-27-14a_m-2-3oxlanoa</link>: Epoxide Opening and Initial Cyclizations</title>
-<para id="para-00004">Cyclization begins in step <emphasis effect="bold"><span class="magenta-text">1</span></emphasis> with protonation of the epoxide ring by an aspartic acid residue in the enzyme. Nucleophilic opening of the protonated epoxide by the nearby 5,10 double bond (steroid numbering; <link>Section 27-6</link>) then yields a tertiary carbocation at C10. Further addition of C10 to the 8,9 double bond in step <emphasis effect="bold"><span class="magenta-text">2</span></emphasis> next gives a bicyclic tertiary cation at C8.</para>
+<title>Steps <span class="magenta-text">1</span>, <span class="magenta-text">2</span> of <link target-id="fig-00004"/>: Epoxide Opening and Initial Cyclizations</title>
+<para id="para-00004">Cyclization begins in step <emphasis effect="bold"><span class="magenta-text">1</span></emphasis> with protonation of the epoxide ring by an aspartic acid residue in the enzyme. Nucleophilic opening of the protonated epoxide by the nearby 5,10 double bond (steroid numbering; <link document="m00270"/>) then yields a tertiary carbocation at C10. Further addition of C10 to the 8,9 double bond in step <emphasis effect="bold"><span class="magenta-text">2</span></emphasis> next gives a bicyclic tertiary cation at C8.</para>
 <figure class="unnumbered" id="fig-00003">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_003.jpg"/>
@@ -31,14 +31,14 @@
 </figure>
 </section>
 <section id="sect-00002">
-<title>Step <span class="magenta-text">3</span> of <link>figure 27_07_ochem-27-07-004_80485-27-14a_m-2-3oxlanoa</link>: Third Cyclization</title>
+<title>Step <span class="magenta-text">3</span> of <link target-id="fig-00004"/>: Third Cyclization</title>
 <para id="para-00005">The third cationic cyclization is somewhat unusual because it occurs with non-Markovnikov regiochemistry and gives a secondary cation at C13 rather than the alternative tertiary cation at C14. There is growing evidence, however, that the tertiary carbocation may in fact be formed initially and that the secondary cation arises by subsequent rearrangement. The secondary cation is probably stabilized in the enzyme pocket by the proximity of an electron-rich aromatic ring.</para>
 <figure class="mechanism-figure" id="fig-00004">
 <title>MECHANISM</title>
 <media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_004.jpg"/>
 </media>
-<caption><emphasis effect="bold">Mechanism of the conversion of 2,3-oxidosqualene to lanosterol.</emphasis> Four cationic cyclizations are followed by four rearrangements and a final loss of H<sup>+</sup> from C9. The steroid numbering system is used for referring to specific positions in the intermediates (<link>Section 27-6</link>). Individual steps are explained in the text.</caption>
+<caption><emphasis effect="bold">Mechanism of the conversion of 2,3-oxidosqualene to lanosterol.</emphasis> Four cationic cyclizations are followed by four rearrangements and a final loss of H<sup>+</sup> from C9. The steroid numbering system is used for referring to specific positions in the intermediates (<link document="m00270"/>). Individual steps are explained in the text.</caption>
 </figure>
 <figure id="fig-00005">
 <media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
@@ -53,7 +53,7 @@
 </figure>
 </section>
 <section id="sect-00003">
-<title>Step <span class="magenta-text">4</span> of <link>figure 27_07_ochem-27-07-004_80485-27-14a_m-2-3oxlanoa</link>: Final Cyclization</title>
+<title>Step <span class="magenta-text">4</span> of <link target-id="fig-00004"/>: Final Cyclization</title>
 <para id="para-00006">The fourth and last cyclization occurs in step 4 by addition of the cationic center at C13 to the 17,20 double bond, giving what is known as the <emphasis effect="italics">protosteryl</emphasis> cation. The side-chain alkyl group at C17 has <emphasis effect="italics">β</emphasis> (up) stereochemistry, although this stereochemistry is lost in step 5 and then reset in step 6.</para>
 <figure class="unnumbered scaled-down" id="fig-00007">
 <media alt="Alt Text Placeholder">
@@ -62,8 +62,8 @@
 </figure>
 </section>
 <section id="sect-00004">
-<title>Steps <span class="magenta-text">5</span>–<span class="magenta-text">9</span> of <link>figure 27_07_ochem-27-07-004_80485-27-14a_m-2-3oxlanoB</link>: Carbocation Rearrangements</title>
-<para id="para-00007">Once the tetracyclic carbon skeleton of lanosterol has been formed, a series of carbocation rearrangements occur (<link>Section 7-11</link>). The first rearrangement, hydride migration from C17 to C20, occurs in step 5 and results in establishment of <emphasis effect="italics">R</emphasis> stereochemistry at C20 in the side chain. In step 6, a second hydride migration occurs from C13 to C17 on the <emphasis effect="italics">α</emphasis> (bottom) face of the ring and reestablishes the 17<emphasis effect="italics">β</emphasis> orientation of the side chain. Finally, two methyl migrations, the first from C14 to C13 on the top (<emphasis effect="italics">β</emphasis>) face and the second from C8 to C14 on the bottom (<emphasis effect="italics">α</emphasis>) face, place the positive charge at C8. A basic histidine residue in the enzyme then removes the neighboring <emphasis effect="italics">β</emphasis> proton from C9 to give lanosterol.</para>
+<title>Steps <span class="magenta-text">5</span>–<span class="magenta-text">9</span> of <link target-id="fig-00004"/>: Carbocation Rearrangements</title>
+<para id="para-00007">Once the tetracyclic carbon skeleton of lanosterol has been formed, a series of carbocation rearrangements occur (<link document="m00073"/>). The first rearrangement, hydride migration from C17 to C20, occurs in step 5 and results in establishment of <emphasis effect="italics">R</emphasis> stereochemistry at C20 in the side chain. In step 6, a second hydride migration occurs from C13 to C17 on the <emphasis effect="italics">α</emphasis> (bottom) face of the ring and reestablishes the 17<emphasis effect="italics">β</emphasis> orientation of the side chain. Finally, two methyl migrations, the first from C14 to C13 on the top (<emphasis effect="italics">β</emphasis>) face and the second from C8 to C14 on the bottom (<emphasis effect="italics">α</emphasis>) face, place the positive charge at C8. A basic histidine residue in the enzyme then removes the neighboring <emphasis effect="italics">β</emphasis> proton from C9 to give lanosterol.</para>
 <figure class="unnumbered scaled-down" id="fig-00008">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_008.jpg"/>
@@ -147,27 +147,27 @@
 </section>
 <section class="key-terms" id="sect-00007">
 <list id="list-00001">
-<item>anabolic steroid</item>
-<item>androgen</item>
-<item>eicosanoid</item>
-<item>estrogen</item>
-<item>fatty acid</item>
-<item>hormone</item>
-<item>lipid</item>
-<item>lipid bilayer</item>
-<item>lipoprotein</item>
-<item>micelle</item>
-<item>mineralocorticoid</item>
-<item>omega-3 fatty acid</item>
-<item>phospholipid</item>
-<item>polyunsaturated fatty acid</item>
-<item>progestin</item>
-<item>prostaglandin</item>
-<item>saponification</item>
-<item>steroid</item>
-<item>terpenoid</item>
-<item>triacylglycerol</item>
-<item>wax</item>
+<item><link document="m00270" target-id="term-00008">anabolic steroid</link></item>
+<item><link document="m00270" target-id="term-00003">androgen</link></item>
+<item><link document="m00268" target-id="term-00002">eicosanoid</link></item>
+<item><link document="m00270" target-id="term-00004">estrogen</link></item>
+<item><link document="m00265" target-id="term-00003">fatty acid</link></item>
+<item><link document="m00270" target-id="term-00002">hormone</link></item>
+<item><link document="m00264" target-id="term-00001">lipid</link></item>
+<item><link document="m00267" target-id="term-00002">lipid bilayer</link></item>
+<item><link document="m00271" target-id="term-00001">lipoprotein</link></item>
+<item><link document="m00266" target-id="term-00002">micelle</link></item>
+<item><link document="m00270" target-id="term-00006">mineralocorticoid</link></item>
+<item><link document="m00265" target-id="term-00005">omega-3 fatty acid</link></item>
+<item><link document="m00267" target-id="term-00001">phospholipid</link></item>
+<item><link document="m00265" target-id="term-00004">polyunsaturated fatty acid</link></item>
+<item><link document="m00270" target-id="term-00005">progestin</link></item>
+<item><link document="m00268" target-id="term-00001">prostaglandin</link></item>
+<item><link document="m00266" target-id="term-00001">saponification</link></item>
+<item><link document="m00270" target-id="term-00001">steroid</link></item>
+<item><link document="m00269" target-id="term-00001">terpenoid</link></item>
+<item><link document="m00265" target-id="term-00002">triacylglycerol</link></item>
+<item><link document="m00265" target-id="term-00001">wax</link></item>
 </list>
 </section>
 <section class="summary" id="sect-00008">
