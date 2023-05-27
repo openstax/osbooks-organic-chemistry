@@ -5,7 +5,19 @@
     <md:content-id>m00272</md:content-id>
     <md:uuid>a4acea61-e390-46d4-80e9-f0b1e1a9bf43</md:uuid>
   </metadata>
-  <content class="introduction">
-  <para id="para-00001">Placeholder</para>
-  </content>
+<content class="introduction">
+<figure class="splash" id="fig-00001">
+<media alt="Photo of a baby sea lion.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_00_PigSeaLion.jpg"/>
+</media>
+<caption><emphasis effect="bold">Many of the molecules needed by all growing organisms are biosynthesized using carbonyl condensation reactions</emphasis>. (credit: modification of work “Newborn Sea Lion” by Steven Bedard/Flickr, CC BY 2.0)</caption>
+</figure>
+<para id="para-00001">We’ll see later in this chapter and again in Chapter 29 that carbonyl condensation reactions occur in a large number of metabolic pathways. In fact, almost all classes of biomolecules—carbohydrates, lipids, proteins, nucleic acids, and many others—are biosynthesized through pathways that involve carbonyl condensation reactions. As with the <emphasis effect="italics">α</emphasis>-substitution reaction discussed in the previous chapter, the great value of carbonyl condensations is that they are one of the few general methods for forming carbon–carbon bonds, thereby making it possible to build larger molecules from smaller precursors. In this chapter, we’ll see how and why these reactions occur.</para>
+<para id="para-00002">We’ve now studied three of the four general kinds of carbonyl-group reactions and have seen two general kinds of behavior. In nucleophilic addition and nucleophilic acyl substitution reactions, a carbonyl compound behaves as an electrophile when an electron-rich reagent adds to it. In <emphasis effect="italics">α</emphasis>-substitution reactions, however, a carbonyl compound behaves as a nucleophile when it is converted into its enol or enolate ion. In the carbonyl condensation reactions that we’ll study in this chapter, the carbonyl compound behaves <emphasis effect="italics">both</emphasis> as an electrophile and as a nucleophile.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows two structures: An electrophilic carbonyl group reacting with nucleophiles and Nucleophilic enolate ion reacting with electrophiles. The first structure shows a carbonyl compound (oxygen with 2 pairs of electrons) with its carbon atom having 2 open bonds. A nucleophile anion with a pair of electron is shown adjacent to it. A pink curved arrow is shown from the electrons of the nucleophile to the carbon of the carbonyl atom and from the double bond to the oxygen atom. The second structure shows a carbon atom bonded to a blue oxygen anion with 3 pairs of electrons having 2 open bonds and double bonded to a carbon atom having 2 open bonds. A pink curved arrow is shown from an electron pair in the oxygen to the bond between it and carbon atom and from the double bond between 2 carbon atom to the pink electrophile shown adjacent to this structure.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_00_001.jpg"/>
+</media>
+</figure>
+</content>
 </document>
