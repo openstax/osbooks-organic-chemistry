@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Using Aldol Reactions in Synthesis</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Using Aldol Reactions in Synthesis</md:title>
+    <md:content-id>m00279</md:content-id>
+    <md:uuid>f506279f-9d60-44b5-9b11-ce421b031ec4</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">The aldol reaction yields either a <emphasis effect="italics">β</emphasis>-hydroxy aldehyde/ketone or an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehyde/ketone, depending on the experimental conditions. By learning how to work backward, it’s possible to predict when the aldol reaction might be useful in synthesis. Whenever the target molecule contains either a <emphasis effect="italics">β</emphasis>-hydroxy aldehyde/ketone or a conjugated enone functional group, it might come from an aldol reaction.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a reaction where two aldol reactants yield one of the two aldol products. The structure of the first aldol product shows a carbon atom having 2 open bonds bonded to a hydroxide group pink oxygen and blue hydrogen) and bonded to a carbon atom having 2 open bonds and bonded to a carbonyl group with its carbon having an open bond. The structure of the second product shows a carbon atom having 2 open bonds double bonded (blue) to a carbon atom having an open bond and bonded to the carbon of a carbonyl group and having an open bond. The structure of the first aldol reactant shows the carbon atom of a carbonyl group having 2 open bonds. The structure of the second aldol reactant shows a carbon atom having 2 open bonds bonded to a blue hydrogen atom and bonded to the carbon atom of a carbonyl group and having an open bond.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_04_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">We can extend this kind of reasoning even further by imagining that subsequent transformations might be carried out on the aldol products. For example, a saturated ketone might be prepared by catalytic hydrogenation of the enone product. A good example can be found in the industrial preparation of 2-ethyl-1-hexanol, an alcohol used in the synthesis of plasticizers for polymers. Although 2-ethyl-1-hexanol bears little resemblance to an aldol product at first glance, it is in fact prepared commercially from butanal by an aldol reaction. Working backward, we can reason that 2-ethyl-1-hexanol might come from 2-ethylhexanal by a reduction. 2-Ethylhexanal, in turn, might be prepared by catalytic reduction of 2-ethyl-2-hexenal, which is the aldol condensation product of butanal. The reactions that follow show the sequence in reverse order.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction in reverse order. The product (target) 2-Ethyl-1-hexanol is obtained by reduction of 2-Ethylhexanal which is the result of reduction of 2-Ethyl-2-hexenal which is the outcome when potassium hydroxide and ethanol are added to Butanal. The structure of 2-Ethyl-1-hexanol shows a 6-carbon chain containing a methyl group bonded to a chain of three methylene groups and then a methine group bonded to a methylene group bonded to a pink hydroxide group. An ethyl group is bonded to the methine group at C2. The structure of 2-Ethylhexanal shows an ethyl group bonded to a methylene group bonded to a methylene group bonded to a methylene group bonded to a methine group bonded to an ethyl group and to an aldehyde group. This undergoes the reduction process in the presence of hydrogen or platinum used industrially to yield 2-Ethyl-1-hexanol. The structure of 2-Ethyl-2-hexenal shows a methyl group bonded to a methylene group bonded to a methylene group bonded to a methine group double bonded (blue) to a carbon atom bonded to an ethyl group and an aldehyde group. This undergoes the reduction process in the presence of hydrogen or platinum to yield 2-Ethyl-2-hexanal. The structure of the original reactant butanal shows a 4 carbon chain having a methyl group bonded to a methylene group bonded to a methylene group bonded to an aldehyde group.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_04_002.jpg"/>
+</media>
+</figure>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00003"><link class="os-embed" url="#exercise/23-04-OC-P05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00004"><link class="os-embed" url="#exercise/23-04-OC-P06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00005"><link class="os-embed" url="#exercise/23-04-OC-P07"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
