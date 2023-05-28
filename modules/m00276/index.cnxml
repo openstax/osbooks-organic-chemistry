@@ -6,5 +6,54 @@
     <md:uuid>b2b581fb-2149-4334-a6d7-ff47d8687d5f</md:uuid>
   </metadata>
   <content>
-  </content>
+<para id="para-00001"><term id="term-00001">Carbonyl condensation reactions</term> take place between two carbonyl partners and involve a combination of nucleophilic addition and <emphasis effect="italics">α</emphasis>-substitution steps. One partner is converted into an enolate-ion nucleophile and adds to the electrophilic carbonyl group of the second partner. In so doing, the nucleophilic partner undergoes an <emphasis effect="italics">α</emphasis>-substitution reaction and the electrophilic partner undergoes a nucleophilic addition. The general mechanism of the process is shown in <link>Figure 23_01_OChem-23-01-001_80485-23-01_M-MechOne</link>.</para>
+<figure class="mechanism-figure scaled-down" id="fig-00001">
+<title>MECHANISM</title>
+<media alt="An illustration shows the 3 steps of a carbonyl condensation reaction. The structure in step 1 shows a carbonyl group with 2 pairs of electrons and having an open bond bonded to a carbon atom bonded to a blue hydrogen and having 2 open bonds. A blue base with a pair of electrons is shown adjacent. A pink curved arrow is shown from the base to the blue hydrogen; another arrow points from the bond between carbon and hydrogen to the bond between 2 carbon atoms; an arrow points from the double bond of the carbonyl group to the oxygen atom. The supporting text reads “A carbonyl compound with an alpha hydrogen atom is converted by base into its enolate ion.” The product of step 1 is an enolate ion that reacts with a second carbonyl group. The structure of the enolate ion shows a carbon atom bonded to an oxygen anion having 3 pairs of electrons having an open bond and double bonded to a carbon atom having 2 open bonds. A pink curved arrow is shown from the electron pair of the oxygen atom in the enolate ion to the bond between the carbon and oxygen. An arrow from the double bond between the carbon atoms in the enolate ion points to the carbonyl group of the carbonyl compound. An arrow from the double bond between the carbon and oxygen atom points to the oxygen atom. This undergoes a reversible reaction to yield a product whose structure has a carbonyl group having an open bond and the carbon atom bonded to another carbon atom having 2 open bonds and having a pink bond with another carbon atom having an open bond bonded to an oxygen anion with 3 pairs of electrons and bonded to a carbon atom having 2 open bonds and bonded to a blue hydrogen. Adjacent to this structure is a blue hydrogen bonded to a positively charged base. A pink curved arrow is shown from an electron pair in the oxygen to the hydrogen bonded to the base; an arrow from the bond between the hydrogen and the base points to the base itself. The supporting text reads “The enolate ion acts as a nucleophilic donor and adds to the electrophilic carbonyl group of a second carbonyl compound.” The structure in step 3 shows a beta-hydroxy carbonyl compound which is the result of a reversible chemical reaction undergone by the product in step 2. The structure shows a carbonyl group in which the carbon atom has an open bond and is bonded to a carbon atom (alpha) having 2 open bonds and bonded (pink) to another carbon atom (beta) having an open bond and bonded to a hydroxyl group (pink oxygen and blue hydrogen) and bonded to a carbon atom having 2 open bonds and bonded to a blue hydrogen atom. The pink bond between the alpha and beta carbon atoms is labeled “New C-C bond.” A blue base with a pair of electrons is shown as the second product. The supporting text reads “Protonation of the tetrahedral alkoxide ion intermediate gives the neutral condensation product and regenerates the base catalyst.”">
+<image mime-type="image/jpeg" src="../../media/OChem_23_01_001.jpg"/>
+</media>
+<caption><emphasis effect="bold">The general mechanism of a carbonyl condensation reaction</emphasis>. One partner becomes a nucleophilic donor and adds to the second partner as an electrophilic acceptor. After protonation, the final product is a <emphasis effect="italics">β</emphasis>-hydroxy carbonyl compound.</caption>
+</figure>
+<para id="para-00002">Aldehydes and ketones with an <emphasis effect="italics">α</emphasis> hydrogen atom undergo a base-catalyzed carbonyl condensation reaction called the <term id="term-00002">aldol reaction</term>. For example, treatment of acetaldehyde with a base such as sodium ethoxide or sodium hydroxide in a protic solvent leads to rapid and reversible formation of 3-hydroxybutanal, known commonly as <emphasis effect="italics">aldol</emphasis> (<emphasis effect="italics">ald</emphasis>ehyde + alcoh<emphasis effect="italics">ol</emphasis>), hence the general name of the reaction.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where an acetaldehyde combines with sodium hydroxide (blue) and ethanol and yields an intermediate enolate ion which in the presence of a protic solvent yields 3-Hydroxybutanal (aldol–a beta hydroxy carbonyl compound). The structure of acetaldehyde shows a carbonyl group (oxygen with 2 pairs of electrons) bonded to a methine group and bonded to a methyl group having a beta carbon and one blue hydrogen atom. The structure of the enolate ion shows a methine group with its carbon bonded to an oxygen anion having 3 pairs of electrons and double bonded to a methylene group. The structure of the protic solvent shows an aldehyde group bonded to a methyl group (1 hydrogen is blue). Adjacent to this structure is a blue hydrogen bonded to a blue oxygen bonded to a blue hydrogen. A pink curved arrow is shown from an electron pair of the oxygen of the enolate ion to the C-O single bond; an arrow from the double bond between the carbon atoms in the enolate ion to the carbon of the carbonyl group in the protic solvent; an arrow from the double bond of the carbonyl group in the protic solvent points to the hydrogen atom in H2O; an arrow from the bond between the hydrogen and oxygen atom points to the oxygen atom in H2O. The structure of 3-Hydroxybutanal shows a carbonyl group bonded to a methine group and bonded to a methylene group (alpha carbon) bonded (pink) to a beta carbon atom having an open bond bonded to a hydroxyl group (pink oxygen and blue hydrogen) and bonded to a methyl group (having one blue hydrogen. The pink bond between the two carbon atoms is labeled “New C-C bond.” A blue hydroxyl anion is shown as the second product.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_01_002.jpg"/>
+</media>
+</figure>
+<para id="para-00003">The exact position of the aldol equilibrium depends both on reaction conditions and on substrate structure. The equilibrium generally favors the condensation product in the case of aldehydes with no <emphasis effect="italics">α</emphasis> substituent (RCH<sub>2</sub>CHO) but favors the reactant for disubstituted aldehydes (R<sub>2</sub>CHCHO) and for most ketones. Steric factors are probably responsible for these trends, since increased substitution near the reaction site increases steric congestion in the aldol product.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="">
+<image mime-type="image/jpeg" src="../../media/OChem_23_01_003.jpg"/>
+</media>
+</figure>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="An illustration shows 2 reversible chemical reactions. The first chemical reaction shows 2 molecules of an aldehyde (Phenylacetaldehyde 10 percent) reacting in the presence of sodium hydroxide and ethanol and yielding an aldol (90 percent). The second chemical reaction shows 2 molecules of a ketone (cyclohexanone 78 percent) reacting in the presence of sodium hydroxide and ethanol yielding an aldol (22 percent). The structure of phenylacetaldehyde shows a benzene ring bonded to a methylene group bonded to an aldehyde group. The structure of 90 percent aldol shows a benzene ring bonded to a methylene group bonded to a carbon that is bonded to hydrogen pink hydroxyl group and a methine group; the methine group is bonded to a benzene ring and an aldehyde group. The structure of cyclohexanone shows a cyclohexane ring double bonded to a pink oxygen atom. The structure of aldol (22 percent) shows a cyclohexane ring bonded to a hydroxyl group and to a cyclohexanone structure.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_01_004.jpg"/>
+</media>
+</figure>
+<example id="exam-00001">
+<title>Predicting the Product of an Aldol Reaction</title>
+<para id="para-00004">What is the structure of the aldol product from propanal?</para>
+<para id="para-00005"><title><span class="red-text">Strategy</span></title> An aldol reaction combines two molecules of reactant by forming a bond between the <emphasis effect="italics">α</emphasis> carbon of one partner and the carbonyl carbon of the second partner. The product is a <emphasis effect="italics">β</emphasis>-hydroxy aldehyde or ketone, meaning that the two oxygen atoms in the product have a 1,3 relationship.</para>
+<para id="para-00006"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="An illustration shows a chemical reaction where 2 moles of ethanaldehyde react in the presence of sodium hydroxide to yield a beta hydroxy aldehyde or ketone. The structure of the first alkyl compound shows an ethyl group bonded to an aldehyde group. The structure of the second alkyl compound shows a methyl group bonded to a methylene group (2 blue hydrogen atoms) bonded to an aldehyde group. The structure of beta hydroxy aldehyde shows an ethyl group bonded to a carbon atom bonded to a pink hydroxyl group a hydrogen atom and a carbon atom (pink bond) bonded to a blue hydrogen atom a methyl group an aldehyde group. The pink bond shown between the first and the second carbon atoms is labeled “Bond formed here.”">
+<image mime-type="image/jpeg" src="../../media/OChem_23_01_005.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00007"><link class="os-embed" url="#exercise/23-01-OC-P01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00008"><link class="os-embed" url="#exercise/23-01-OC-P02"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
