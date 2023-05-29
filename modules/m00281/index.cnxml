@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Intramolecular Aldol Reactions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Intramolecular Aldol Reactions</md:title>
+    <md:content-id>m00281</md:content-id>
+    <md:uuid>637ebbbd-3954-4c78-bfaf-e5d38af204fe</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">The aldol reactions we’ve seen thus far have all been <emphasis effect="italics">intermolecular</emphasis>, meaning that they have taken place between two different molecules. When certain <emphasis effect="italics">di</emphasis>carbonyl compounds are treated with base, however, an <emphasis effect="italics">intramolecular</emphasis> aldol reaction can occur, leading to the formation of a cyclic product. For example, base treatment of a 1,4-diketone such as 2,5-hexanedione yields a cyclopentenone product, and base treatment of a 1,5-diketone such as 2,6-heptanedione yields a cyclohexenone.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00001">
+<media alt="An illustration shows 2 chemical reactions. In the first reaction 2 5-Hexanedione (a 1 4-diketone) reacts in the presence of a base sodium hydroxide and ethanol to yield 3-Methyl-2-cyclopentenone and water. The structure of 2 5-Hexanedione shows a cyclopentanone having double bonds with oxygen atoms at C2 and C5 and bonded to methyl groups at C1 and C6 with one of the hydrogen atoms in a methyl group shown in blue. The cyclopentane ring is shown as an open structure with one of the bonds not connected. The structure of 3-Methyl-2-cyclopentenone shows a cyclopentenone ring double bonded to an oxygen atom at C1 (top) and bonded to a methyl group at C3. A double bond is shown at C2-C3. In the second reaction 2 6-Heptanedione (a 1 5-diketone) reacts in the presence of a base sodium hydroxide and ethanol to yield 3-Methyl-2-cyclohexenone and water. The structure of 2 6-Hexanedione shows a cyclohexane having double bonds with oxygen atoms at C2 and C6; and bonded to methyl groups at C1 and C6 with one of the hydrogen atoms in a methyl group shown in blue. The cyclohexane ring is shown as an open structure with one of the bonds not connected. The structure of 3-Methyl-2-cyclohexenone shows a cyclohexenone ring double bonded to an oxygen atom at C1 (top) and bonded to a methyl group at C3. A double bond is shown at C2-C3. The structure of water in both the reactions show a blue hydrogen bonded to a pink oxygen.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_06_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">The mechanism of intramolecular aldol reactions is similar to that of intermolecular reactions. The only difference is that both the nucleophilic carbonyl anion donor and the electrophilic carbonyl acceptor are now in the same molecule. One complication, however, is that intramolecular aldol reactions might lead to a mixture of products, depending on which enolate ion is formed. For example, 2,5-hexanedione might yield either the five-membered-ring product 3-methyl-2-cyclopentenone or the three-membered-ring product (2-methylcyclopropenyl) ethanone (<link>Figure 23_06_OChem-23-06-002_80485-23-03_25Hexa</link>). In practice, though, only the cyclopentenone is formed.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An illustration shows 2 reversible chemical reactions. The first chemical reaction shows 2 5-Hexanedione reacting with sodium hydroxide and water in path ‘a’ to form an intermediate which finally yields 3-Methyl-2-cyclopentenone and water. The structure of 2 5-Hexanedione shows a cyclopentanone double bonded to pink oxygen atoms at C2 and C5. 2 green hydrogen atoms are bonded at the bottom left position. The top right is bonded to a methyl group having a blue hydrogen. The bottom right which is not connected to the top right is bonded to a methyl group. A pink curved arrow labeled blue “a” is shown from the blue hydrogen in the methyl group to the oxygen at C5; an arrow labeled green “b” is shown from C4 to C2. The structure of the intermediate shows a cyclopentanone bonded to 2 blue hydrogen atoms at C2 a methyl group and a hydroxyl group (pink oxygen and blue hydrogen) at the bottom right. A hydroxyl ion with 3 pairs of electrons is shown adjacent to this structure. A pink curved arrow is shown from the electron pair of the hydroxyl group to a blue hydrogen atom; an arrow from the bond between the carbon and blue hydrogen points to the bond between C2 and C3; an arrow from the bond between the carbon and hydroxyl group (pink oxygen and blue hydrogen) points to the pink oxygen atom. The structure of 3-Methyl-2-cyclopentenone shows a cyclopentenone with the double bond shown in blue. The structure of water shows a blue hydrogen and pink oxygen. In the second chemical reaction 2 5-Hexanedione reacts in path b in the presence of sodium hydroxide and water to yield an intermediate which finally yields (2-Methylcyclopropenyl)ethanone (Not formed)) and water. The structure of the intermediate shows a 5 carbon chain having a methyl group at its beginning and terminal positions. One of the methyl group has blue hydrogen atoms. The carbon atom adjacent to it bonded to a hydroxyl group (pink oxygen and green hydrogen) and an isopropyl group. One end of the isopropyl group which is a part of the carbon chain is bonded to a green hydrogen. The other carbon atom adjacent to a methyl group is double bonded to a pink oxygen atom. A hydroxyl anion with 3 pair of electrons is shown adjacent to this structure. A pink arrow is shown from the electron pair of the hydroxyl group to the green hydrogen; an arrow from the bond between the carbon and green hydrogen points to the bond between the 2 carbons of the carbon chain which form one side of cyclopropane; an arrow from the bond between the carbon and hydroxyl group points to the pink oxygen atom of the carboxyl group. The structure of (2-methylcyclopropenyl) ethanone (Not formed) shows a cyclopropene with a blue double bond. The ring is bonded to a methyl group with blue hydrogen atoms and a methyl acetate group. The structure of water shows a green hydrogen and pink oxygen.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_06_002.jpg"/>
+</media>
+<caption>Intramolecular aldol reaction of 2,5-hexanedione yields 3-methyl-2-cyclopentenone rather than the alternative cyclopropene.</caption>
+</figure>
+<para id="para-00003">The selectivity observed in the intramolecular aldol reaction of 2,5-hexanedione is due to the fact that all steps in the mechanism are reversible, so an equilibrium is reached. Thus, the relatively strain-free cyclopentenone product is considerably more stable than the highly strained cyclopropene alternative. For similar reasons, intramolecular aldol reactions of 1,5-diketones lead only to cyclohexenone products rather than to the more strained acylcyclobutenes.</para>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00004"><link class="os-embed" url="#exercise/23-06-OC-P09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00005"><link class="os-embed" url="#exercise/23-06-OC-P10"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
