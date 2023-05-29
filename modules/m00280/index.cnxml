@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Mixed Aldol Reactions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Mixed Aldol Reactions</md:title>
+    <md:content-id>m00280</md:content-id>
+    <md:uuid>df56d929-29a4-46ac-9fae-bfc52e7e5d77</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">Until now, we’ve considered only symmetrical aldol reactions, in which the two carbonyl components have been the same. What would happen, though, if an aldol reaction were carried out between two different carbonyl partners?</para>
+<para id="para-00002">In general, a mixed aldol reaction between two similar aldehyde or ketone partners leads to a mixture of four possible products. For example, base treatment of a mixture of acetaldehyde and propanal gives a complex product mixture containing two “symmetrical” aldol products and two “mixed” aldol products. Clearly, such a reaction is of no practical value.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a chemical reaction between 2 similar aldehydes (ethanal and propanal) in the presence of a base to yield 4 products of which 2 are Symmetrical products and the other 2 are mixed products. The structure of pink ethanal shows a methyl group bonded to an aldehyde group. The structure of propanal shows a methyl group bonded to a methylene group bonded to an aldehyde group. The structure of the first symmetrical product (pink) shows a methyl group bonded to a methine group bonded to a hydroxide group and bonded to a methylene group bonded to an aldehyde group. The structure of the second symmetrical product shows an ethyl group bonded to a chain of two methine groups and then an aldehyde group. The first methine is bonded to a hydroxide group and the second methine group is bonded to a methyl group. The structure of the first mixed product shows a 4-carbon chain having a pink methyl group bonded to a pink methine group bonded to a pink hydroxyl group and a methine group bonded to a methyl group and an aldehyde group. The structure of the second mixed product shows a 5-carbon chain having an ethyl group bonded to a methine group bonded to a hydroxide group and a pink methylene group bonded to a pink aldehyde group.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_05_001.jpg"/>
+</media>
+</figure>
+<para id="para-00003">On the other hand, mixed aldol reactions can lead cleanly to a single product if either of two conditions is met:</para>
+<list id="list-00001">
+<item>If one of the carbonyl partners contains no <emphasis effect="italics">α</emphasis> hydrogens (and thus can’t form an enolate ion to become a donor), but does contain an unhindered carbonyl group (and so is a good acceptor of nucleophiles), then a mixed aldol reaction is likely to be successful. This is the case, for instance, when either benzaldehyde or formaldehyde is used as one of the carbonyl partners.</item>
+</list>
+<para id="para-00004">Neither benzaldehyde nor formaldehyde can form an enolate ion to add to another partner, yet both compounds have an unhindered carbonyl group. The ketone 2-methylcyclohexanone, for instance, gives the mixed aldol product on reaction with benzaldehyde.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where 2-Methylcyclohexanone (donor) combines with Benzaldehyde (acceptor) in the presence of sodium cation ethoxide anion and ethanol to yield a mixed aldol product and water. The structure of 2-Methylcyclohexanone (donor) shows a cyclohexanone structure bonded to 2 blue hydrogen atoms at C4 double bonded to a pink oxygen at C3 (top) and a methyl group at C4 (top right). The structure of benzaldehyde shows a benzene ring bonded to an aldehyde group (pink oxygen) at its top The structure of the mixed aldol product (78 percent) shows a cyclohexanone ring bonded to a methyl group at C6 double bonded to an oxygen atom at C1 and having a line angle structure at C2 having a 2 carbon chain. C1 of the chain shows a double bond. C2 is bonded to benzene. The structure of water shows blue hydrogen atoms and pink oxygen.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_05_002.jpg"/>
+</media>
+</figure>
+<list id="list-00002">
+<item>If one of the carbonyl partners is much more acidic than the other, and is thus transformed into its enolate ion in preference to the other, then a mixed aldol reaction is likely to be successful. Ethyl acetoacetate, for instance, is completely converted into its enolate ion in preference to enolate ion formation from monocarbonyl partners. Thus, aldol condensations of monoketones with ethyl acetoacetate occur preferentially to give the mixed product.</item>
+</list>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows a chemical reaction where cyclohexanone (acceptor) combines with Ethyl acetoacetate (donor) in the presence of sodium ethoxide hydroxide and ethanol to yield an enolate ion (80 percent) and water. The structure of cyclohexanone shows a cyclohexane ring double bonded to an oxygen atom at C1. The structure of ethyl acetoacetate shows a methyl group bonded to a carbonyl group bonded to a methylene group (blue hydrogen) bonded to an acetate group bonded to a methylene group bonded to a methyl group. The structure of the enolate ion (80 percent) shows a cyclohexane ring double bonded to a carbon atom that is bonded to an acetate group at the top and carboxyl group on the right that is bonded to an ethyl group. The structure of water shows blue hydrogens and pink oxygen.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_05_003.jpg"/>
+</media>
+</figure>
+<para id="para-00005">The situation can be summarized by saying that a mixed aldol reaction leads to a mixture of products unless one of the partners either has no <emphasis effect="italics">α</emphasis> hydrogens but is a good electrophilic acceptor (such as benzaldehyde) or is an unusually acidic nucleophilic donor (such as ethyl acetoacetate).</para>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00006"><link class="os-embed" url="#exercise/23-05-OC-P08"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
