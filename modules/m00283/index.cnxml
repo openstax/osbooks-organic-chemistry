@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Mixed Claisen Condensations</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Mixed Claisen Condensations</md:title>
+    <md:content-id>m00283</md:content-id>
+    <md:uuid>653d018e-5710-4821-bd78-60918e6353ab</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">The mixed Claisen condensation of two different esters is similar to the mixed aldol condensation of two different aldehydes or ketones (<link document="m00280"/>). Mixed Claisen reactions are successful only when one of the two ester components has no <emphasis effect="italics">α</emphasis> hydrogens and thus can’t form an enolate ion. For example, ethyl benzoate and ethyl formate can’t form enolate ions and thus can’t serve as donors. They can, however, act as the electrophilic acceptor components in reactions with other ester anions to give mixed <emphasis effect="italics">β</emphasis>-keto ester products.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a chemical reaction where Ethyl benzoate (acceptor) combines with Ethyl acetate (donor) in the presence of sodium hydride Tetrahydrofuran and hydronium ion and yields Ethyl benzoylacetate and ethanol (green). The structure of Ethyl benzoate shows a benzene ring bonded at C2 to a carbonyl group bonded to a green ethoxide group. The structure of ethyl acetate (blue) shows a methyl group bonded to a carbonyl group bonded to an ethoxide. The structure of Ethyl benzoylacetate shows a benzene ring bonded to a carbonyl group bonded to a methylene group (blue) bonded to a carbonyl group(blue) bonded to an ethoxide group (blue).">
+<image mime-type="image/jpeg" src="../../media/OChem_23_08_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">Mixed Claisen-like reactions can also be carried out between an ester and a ketone, resulting in the synthesis of a <emphasis effect="italics">β</emphasis>-diketone. The reaction works best when the ester component has no <emphasis effect="italics">α</emphasis> hydrogens and thus can’t act as the nucleophilic donor. For example, ethyl formate gives high yields in mixed Claisen condensations with ketones.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where 2 2-Dimethylcyclohexanone (donor) combines with Ethyl formate (acceptor) in the presence of sodium ethoxide ethanol and hydronium ion and yields a beta-keto aldehyde (91 percent). The structure of 2 2-Dimethylcyclohexanone (donor) shows a cyclohexanone ring bonded to 2 methyl groups at C2 double bonded to an oxygen atom at its top and bonded to 2 hydrogen atoms at C6. The structure of ethyl formate (acceptor) shows an aldehyde group bonded to green ethoxide. The structure of beta-keto aldehyde is similar to the reactant but C6 is bonded to a blue hydrogen and aldehyde group.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_08_002.jpg"/>
+</media>
+</figure>
+<example id="exam-00001">
+<title>Predicting the Product of a Mixed Claisen Condensation Reaction</title>
+<para id="para-00003">Diethyl oxalate, (CO<sub>2</sub>Et)<sub>2</sub>, often gives high yields in mixed Claisen reactions. What product would you expect to obtain from a mixed Claisen reaction of ethyl acetate with diethyl oxalate?</para>
+<para id="para-00004"><title><span class="red-text">Strategy</span></title> A mixed Claisen reaction is effective when only one of the two partners has an acidic <emphasis effect="italics">α</emphasis> hydrogen atom. In the present case, ethyl acetate can be converted into its enolate ion, but diethyl oxalate cannot. Thus, ethyl acetate acts as the donor and diethyl oxalate as the acceptor.</para>
+<para id="para-00005"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows a chemical reaction where a diethyl acetate combines with ethyl acetate in the presence of sodium ethoxide and ethanol to yield an ethanol and a mix of enolate and a diethyl acetate ion. The structure of diethyl acetate shows a carbonyl group bonded to a green ethoxide and another carbonyl group that is bonded to a green ethoxide. The structure of ethyl acetate shows a methyl group having 1 blue hydrogen atom bonded to a carbonyl group bonded to ethoxide. The structure of the product shows a carbonyl group bonded to a green ethoxide and bonded to a carbonyl group bonded to a methylene group bonded to a carbonyl group bonded to an ethoxide. The structure of the second product ethanol is shown in green.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_08_003.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00006"><link class="os-embed" url="#exercise/23-08-OC-P13"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
