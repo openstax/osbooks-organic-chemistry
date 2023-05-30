@@ -1,0 +1,60 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Carbonyl Condensations with Enamines: The Stork Reaction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Carbonyl Condensations with Enamines: The Stork Reaction</md:title>
+    <md:content-id>m00286</md:content-id>
+    <md:uuid>c99795ce-76b9-492c-b1ad-8f75de9343b5</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">In addition to enolate ions, other kinds of carbon nucleophiles also add to <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated acceptors in Michael-like reactions. Among the most important and useful of such nucleophiles, particularly in biological chemistry, are <emphasis effect="italics">enamines,</emphasis> which are readily prepared by reaction between a ketone and a secondary amine (<link document="m00219"/>). For example:</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a reversible chemical reaction where a cyclohexanone combines with pyrrolidine to yield 1-Pyrrolidinocyclohexene (87%) and water. The structure of cyclohexanone shows a cyclohexane double bonded to a pink oxygen atom at C2. The structure of pyrrolidine shows a cyclopentane bonded to a blue amine group at its top. The structure of 1-Pyrrolidinocyclohexene (87 percent) shows a cyclohexene with a blue double bond at C1 and bonded to a blue nitrogen group that is part of a cyclopentane ring. The structure of water shows blue hydrogen and pink oxygen.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_11_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">As the following resonance structures indicate, enamines are electronically similar to enolate ions. Overlap of the nitrogen lone-pair orbital with the double-bond <emphasis effect="italics">p</emphasis> orbitals leads to an increase in electron density on the <emphasis effect="italics">α</emphasis> carbon atom, making that carbon nucleophilic. An electrostatic potential map of <emphasis effect="italics">N,N</emphasis>-dimethylaminoethylene shows this shift of electron density (red) toward the <emphasis effect="italics">α</emphasis> position.</para>
+<figure class="unnumbered" id="fig-00002">
+<media alt="An illustration shows two resonance forms of an enolate ion and an enamine ion; the structure and electrostatic potential map of N N-dimethylaminoethylene are also shown. The first resonance form of enolate ion shows a carbon atom having an open bond bonded to a pink oxygen anion with 3 pairs of electrons and double bonded to a carbon atom having 2 open bonds. A pink curved arrow is shown from the electron pair of the oxygen atom to the bond between it and the carbon atom; an arrow from the double bond between the carbon atoms points to the second carbon atom. The second resonance form shows a carbon atom having an open bond double bonded to a pink oxygen atom having 2 pairs of electrons and bonded to a carbon anion having a pair of electrons having 2 open bonds. The structure of the first resonance form of the enamine shows a carbon atom having an open bond bonded to a blue NR2 having a lone pair of electrons and double bonded to a carbon atom having 2 open bonds. A pink curved arrow is shown from the electron pair of the amide to the bond between it and the carbon atom; an arrow from the double bond between the carbon atoms points to the second carbon atom. The second resonance form of enamine shows a carbon atom having an open bond double bonded to a blue NR2 cation and bonded to a carbon anion with a lone pair of electrons having 2 open bonds. The carbon anions in the resonance form of enolate ion and enamine are commonly labeled “Nucleophilic alpha carbon.” The structure of N N-dimethylaminoethylene shows a blue nitrogen bonded to 2 methyl groups and a methine group that is double bonded to a methylene group. The electrostatic potential map of N N-dimethylaminoethylene shows 4 gray balls representing carbon 9 white balls representing hydrogen and 1 blue ball representing nitrogen. A pointer points to the methylene group.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_11_002.jpg"/>
+</media>
+</figure>
+<para id="para-00003">Enamines behave in much the same way as enolate ions and enter into many of the same kinds of reactions. In the <term id="term-00001">Stork reaction</term>, named for its discoverer, Gilbert Stork of Columbia University, for example, an enamine adds to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl acceptor in a Michael-like process. The initial product is then hydrolyzed by aqueous acid to yield a 1,5-dicarbonyl compound. The overall reaction is thus a three-step sequence of (<emphasis effect="bold"><span class="magenta-text">1</span></emphasis>) enamine formation from a ketone, (<emphasis effect="bold"><span class="magenta-text">2</span></emphasis>) Michael addition to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compound, and (<emphasis effect="bold"><span class="magenta-text">3</span></emphasis>) enamine hydrolysis back to a ketone.</para>
+<para id="para-00004">The net effect of the Stork reaction is the Michael addition of a ketone to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compound. For example, cyclohexanone reacts with the cyclic amine pyrrolidine to yield an enamine; further reaction with an enone such as 3-buten-2-one yields a Michael adduct; and aqueous hydrolysis completes the sequence to give a 1,5-diketone (<link>Figure 23_11_OChem-23-11-003_80485-23-07_15Diketone</link>).</para>
+<figure id="fig-00003">
+<media alt="An illustration shows a chemical reaction where a cyclohexanone reacts with the cyclic amine pyrrolidine labeled step 1 to yield an enamine; This reacts with 3-buten-2-one in step 2 to yield two intermediates; the second intermediate upon hydrolysis in step 3 yields 1 5-diketone (75%) and cyclic amine pyrrolidine. The structure of a cyclohexanone shows a cyclohexane double bonded to an oxygen atom at C1 (top). The structure of cyclic amine pyrrolidine shows a cyclopentane with its bottom position having a blue nitrogen monohydride. The structure of the enamine shows a cyclopentane ring with its bottom having a blue nitrogen with a lone pair of electrons. This nitrogen is bonded (blue) to a cyclohexene ring shown below it. The double bond in C1-C2 of the cyclohexene is shown in blue. The structure of 3-buten-2-one shows a methylene group double bonded in pink to a methine group bonded to a carbonyl group (having pink oxygen) bonded to a methyl group. A pink curved arrow is shown from the electron pair of the nitrogen atom in cyclic amine pyrrolidine to the blue bond between it and the cyclohexene; an arrow from the double bond of the cyclohexene points to the carbon of the first methylene group in 3-buten-2-one; an arrow from the pink double bond in 3-buten-2-one points to the carbon atom of the methine group. The first intermediate shows a cyclopentane having a blue nitrogen at its bottom double bonded in blue to a cyclohexane. C2 of the cyclohexane is bonded to a 4-carbon chain. C2 of the chain is an anion with a pair of electrons. C3 is double bonded to a pink oxygen atom. This yields a second intermediate that shows a cyclopentane structure with a blue nitrogen bonded (in blue) to a cyclohexene that is bonded to a 4-carbon chain. C3 of the chain is double bonded to a pink oxygen atom. The structure of 1 5-diketone shows a cyclohexane ring double bonded to a pink oxygen at C1 (top). C2 is bonded to a 4-carbon chain. C3 of the chain is double bonded to a pink oxygen atom.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_11_003.jpg"/>
+</media>
+<caption><emphasis effect="bold">The Stork reaction between cyclohexanone and 3-buten-2-one</emphasis>. (<emphasis effect="bold"><span class="magenta-text">1</span></emphasis>) Cyclohexanone is first converted into an enamine, (<emphasis effect="bold"><span class="magenta-text">2</span></emphasis>) the enamine adds to the <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone in a Michael reaction, and (<emphasis effect="bold"><span class="magenta-text">3</span></emphasis>) the conjugate addition product is hydrolyzed to yield a 1,5-diketone.</caption>
+</figure>
+<para id="para-00005">The enamine–Michael reaction has two advantages over the enolate-ion–Michael reaction that makes it particularly useful in biological pathways. First, an enamine is neutral, easily prepared, and easily handled, while an enolate ion is charged, sometimes difficult to prepare, and must be handled carefully. Second, an enamine from a <emphasis effect="italics">mono</emphasis>ketone can be used in the Michael addition, whereas only enolate ions from <emphasis effect="italics">β</emphasis>-dicarbonyl compounds can be used.</para>
+<example id="exam-00001">
+<title>Using the Stork Enamine Reaction</title>
+<para id="para-00006">How might you use an enamine reaction to prepare the following compound?</para>
+<figure class="unnumbered scaled-down-30" id="fig-00004">
+<media alt="An illustration shows the structure of a compound having a benzene ring fused to a cyclohexanone at C2-C3. The cyclohexanone is bonded to a 4-carbon chain with a methyl group at C1 and a double bonded oxygen at C3.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_11_004.jpg"/>
+</media>
+</figure>
+<para id="para-00007"><title><span class="red-text">Strategy</span></title> The overall result of an enamine reaction is the Michael addition of a ketone as donor to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compound as acceptor, yielding a 1,5-dicarbonyl product. The C–C bond formed in the Michael addition step is the one between the <emphasis effect="italics">α</emphasis> carbon of the ketone donor and the <emphasis effect="italics">β</emphasis> carbon of the unsaturated acceptor.</para>
+<para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered" id="fig-00005">
+<media alt="An illustration shows a chemical reaction where a ketone bonds with a carbonyl compound in the presence of pyrrolidine to form an intermediate which on undergoing a Michael addition step yields 1 5-dicarbonyl product. The structure of the reactant shows a benzene ring fused with a cyclohexanone at its C2-C3. C2 of cyclohexanone is labeled alpha. The structure of the intermediate shows a benzene ring fused with cyclohexene at its C2-C3. The top of cyclohexene is bonded to a blue nitrogen shown in the bottom position of a cyclopentane. The intermediate reacts with hydronium ion and a compound whose structure shows a methylene group bonded to a methine group (having beta carbon) double bonded in pink to a methine group (having alpha carbon) bonded to a carbonyl group bonded to methyl group. The structure of 1 5-dicarbonyl product shows a benzene ring fused with a cyclohexanone at its C2-C3. C2 of the cyclohexene is bonded to a line angle structure containing a chain of 4 carbon atoms. C1 of the line angle is in pink; C2 is bonded to a methyl group; C4 is double bonded to an oxygen atom. The pink bond of the line angle is labeled “This bond is formed in the Michael reaction.”">
+<image mime-type="image/jpeg" src="../../media/OChem_23_11_005.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00009"><link class="os-embed" url="#exercise/23-11-OC-P19"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00010"><link class="os-embed" url="#exercise/23-11-OC-P20"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
