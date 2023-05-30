@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Conjugate Carbonyl Additions: The Michael Reaction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Conjugate Carbonyl Additions: The Michael Reaction</md:title>
+    <md:content-id>m00285</md:content-id>
+    <md:uuid>ba012575-9ff8-43ec-9a51-3ef702fe94f6</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">We saw in <link document="m00224"/> that certain nucleophiles, such as amines, react with <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated aldehydes and ketones to give a conjugate addition product, rather than a direct addition product.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a reversible chemical reaction of a carbonyl compound in the presence of a nucleophile amine (blue) to yield an intermediate product which undergoes a reversible reaction to yield a conjugate addition product. The structure of the carbonyl compound shows a radical bonded to a carbonyl group bonded to a carbon atom having an open bond and double bonded (pink) to a carbon atom having 2 open bonds. A pink arrow is shows from: the lone pair of electrons from the nucleophile to the third carbon atom in the reactant; and from the double bond between the carbon atoms to the second carbon atom. The structure of the intermediate shows a radical group bonded to a carbonyl group bonded to a carbon anion with a lone pair of electrons having an open bond and bonded to a carbon atom having 2 open bonds and bonded to a blue nucleophile bonded to a blue hydrogen atom. The structure of the conjugate addition product shows a radical group bonded to a carbonyl group bonded to a carbon atom having an open bond a blue hydrogen and a carbon atom having 2 open bonds and a blue nucleophile.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_10_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">Exactly the same kind of conjugate addition can occur when a nucleophilic enolate ion reacts with an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compound—a process known as the <term id="term-00001">Michael reaction</term> after Arthur Michael at Tufts College and Harvard University.</para>
+<para id="para-00003">The best Michael reactions are those that take place when a particularly stable enolate ion, such as that derived from a <emphasis effect="italics">β</emphasis>-keto ester or other 1,3-dicarbonyl compound, adds to an unhindered <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone. For example, ethyl acetoacetate reacts with 3-buten-2-one in the presence of sodium ethoxide to yield the conjugate addition product.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where ethyl acetoacetate combines with 3-Buten-2-one in the presence of sodium ethoxide ethanol and hydronium ion to yield a conjugate addition product. The structure of ethyl acetoacetate shows a methyl group bonded to a carbonyl group bonded to a methyl group (blue hydrogen) bonded to pink COOEt. The structure of 3-Buten-2-one shows a methylene group double bonded (blue) to a methine group bonded to a carbonyl group bonded to a methyl group. The structure of the conjugate addition product shows a methyl group bonded to a carbonyl group bonded to a carbon bonded to a blue hydrogen pink COOEt and bonded (pink) to a methylene group bonded to a methylene group bonded to a carbonyl group bonded to a methyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_10_002.jpg"/>
+</media>
+</figure>
+<para id="para-00004">Michael reactions take place by addition of a nucleophilic enolate ion donor to the <emphasis effect="italics">β</emphasis> carbon of an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl acceptor, according to the mechanism shown in <link>Figure 23_10_OChem-23-10-003_80485-23-06_M-MechFour</link>.</para>
+<figure class="mechanism-figure scaled-down" id="fig-00003">
+<title>MECHANISM</title>
+<media alt="An illustration shows the 3 steps of the Michael reaction between a beta keto ester and an alpha beta-unsaturated ketone. The structure shown in step 1 shows a pink carbonyl group bonded (pink) to a pink ethoxide and a carbon atom bonded to 2 blue hydrogen and a carbonyl group (with a pink oxygen atom) bonded to a methyl group. This undergoes a reversible chemical reaction in the presence of blue sodium ethoxide. The supporting text in step 1 reads “The base catalyst removes an acidic alpha proton from the starting beta keto ester to generate a stabilized enolate ion nucleophile.” The structure of the first intermediate of step 1 shows a structure similar to the reactant in step 1 with the following changes: the second carbon atom is an anion with a lone pair of electrons and is bonded to only one blue hydrogen. The second product is a blue ethanol. The first product undergoes a reversible chemical reaction in the presence of a compound whose structure shows a methyl group bonded to a carbonyl group bonded to a methine group double bonded to a methylene group. A pink curved arrow is shown from the lone electron pair of the first intermediate of step 1 to the last carbon of the second compound; an arrow from the double bond between C3 and C4 points to C3. This reaction yields an intermediate whose structure shows a methyl group bonded to a carbonyl group (with pink oxygen) bonded to a methine group (carbon anion with a lone pair of electrons) bonded to a methylene group bonded (pink) to a carbon atom bonded to a blue hydrogen pink ethyl acetate and a carbonyl group (having pink oxygen) bonded to a methyl group. The supporting text in step 2 reads “The nucleophile adds to the alpha beta unsaturated ketone electrophile in a Michael reaction to generate a new enolate as product.” The final intermediate shown in step 2 undergoes a reversible reaction in the presence of blue ethoxide to yield 2 products in step 3. The structure of the first product shows a methyl group bonded to a carbonyl group (having pink oxygen) bonded to a methylene group (having 1 blue hydrogen) bonded to a methylene group bonded (pink) to a carbon atom bonded to a blue hydrogen pink ethyl acetate and a carbonyl group (having pink oxygen atom) bonded to a methyl group. The second product is a blue ethoxide anion. The supporting text in step 3 reads “The enolate product abstracts an acidic proton either from solvent or from starting keto ester to yield the final addition product.”">
+<image mime-type="image/jpeg" src="../../media/OChem_23_10_003.jpg"/>
+</media>
+<caption><emphasis effect="bold">Mechanism of the Michael reaction between a <emphasis effect="italics">β</emphasis>-keto ester and an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone</emphasis>. The reaction is a conjugate addition of an enolate ion to the unsaturated carbonyl compound.</caption>
+</figure>
+<para id="para-00005">The Michael reaction occurs with a variety of <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compounds, not just conjugated ketones. Unsaturated aldehydes, esters, thioesters, nitriles, amides, and nitro compounds can all act as the electrophilic acceptor component in Michael reactions (<link target-id="table-00001"/>). Similarly, a variety of different donors can be used, including <emphasis effect="italics">β</emphasis>-diketones, <emphasis effect="italics">β</emphasis>-keto esters, malonic esters, <emphasis effect="italics">β</emphasis>-keto nitriles, and nitro compounds.</para>
+<table id="table-00001" summary="An illustration (table) shows some Michael acceptors and Michael donors along with their structures: The compounds under Michael acceptors are as follows: Propenal with the structure showing a methylene group double bonded in pink to a methine group bonded to a methine group double bonded to an oxygen atom; 3-Buten-2-one with the structure showing a methylene bond double bonded in pink to a methine group bonded to a carbonyl group bonded to a methyl group; Ethyl propenoate with the structure showing a methylene group double bonded in pink to a methine group bonded to an acetate group bonded to ethyl group; Propenenitrile with the structure showing a methylene group double bonded in pink to a methine group bonded to a cyanide group; Nitroethylene with the structure showing a methylene group double bonded in pink to a methine group bonded to a nitro group. The compounds under Michael donors are as follows: beta Diketone with the structure showing a radical bonded to a carbonyl group bonded to a blue methylene bonded to a carbonyl group bonded to R prime; beta Keto ester with the structure showing a radical group bonded to a carbonyl group bonded to a blue methylene group bonded to an acetate group bonded to an ethyl group; Diethyl malonate with the structure showing an ethyl group bonded to an acetate group bonded to a blue methylene group bonded to an acetate group bonded to an ethyl group; beta Keto nitrile with the structure showing a radical group bonded to a carbonyl group bonded to a blue methylene group bonded to a cyanide group; Nitro compound with the structure showing a radical group bonded to a blue methylene group bonded to a nitro group.">
+<title>Some Michael Acceptors and Michael Donors</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c2">Michael acceptors</entry>
+<entry valign="top" align="left" namest="c3" nameend="c4">Michael donors</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004a.jpg"/></media></entry>
+<entry valign="top" align="left">Propenal</entry>
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004g.jpg"/></media></entry>
+<entry valign="top" align="left"><emphasis effect="italics">β</emphasis>-Diketone</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004b.jpg"/></media></entry>
+<entry valign="top" align="left">3-Buten-2-one</entry>
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004h.jpg"/></media></entry>
+<entry valign="top" align="left"><emphasis effect="italics">β</emphasis>-Keto ester</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004c.jpg"/></media></entry>
+<entry valign="top" align="left">Ethyl propenoate</entry>
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004i.jpg"/></media></entry>
+<entry valign="top" align="left">Diethyl malonate</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004d.jpg"/></media></entry>
+<entry valign="top" align="left">Propenamide</entry>
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004j.jpg"/></media></entry>
+<entry valign="top" align="left"><emphasis effect="italics">β</emphasis>-Keto nitrile</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004e.jpg"/></media></entry>
+<entry valign="top" align="left">Propenenitrile</entry>
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004k.jpg"/></media></entry>
+<entry valign="top" align="left">Nitro compound</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><media display="inline" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_23_10_004f.jpg"/></media></entry>
+<entry valign="top" align="left">Nitroethylene</entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<example id="exam-00001">
+<title>Using the Michael Reaction</title>
+<para id="para-00006">How might you obtain the following compound using a Michael reaction?</para>
+<figure class="unnumbered scaled-down-30" id="fig-00004">
+<media alt="An illustration shows a structure having a cyclohexanone having at its C2 an ethyl acetate and a line angle consisting of 3 carbon chain having an ethyl acetate at its terminal position">
+<image mime-type="image/jpeg" src="../../media/OChem_23_10_005.jpg"/>
+</media>
+</figure>
+<para id="para-00007"><title><span class="red-text">Strategy</span></title> A Michael reaction involves the conjugate addition of a stable enolate ion donor to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl acceptor, yielding a 1,5-dicarbonyl product. Usually, the stable enolate ion is derived from a <emphasis effect="italics">β</emphasis>-diketone, <emphasis effect="italics">β</emphasis>-keto ester, malonic ester, or similar compound. The C–C bond formed in the conjugate addition step is the one between the <emphasis effect="italics">α</emphasis> carbon of the acidic donor and the <emphasis effect="italics">β</emphasis> carbon of the unsaturated acceptor.</para>
+<para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="An illustration shows a chemical reaction between an enolate ion and an alpha beta-unsaturated carbonyl acceptor in the presence of sodium ethoxide and ethanol to yield a 1 5-dicarbonyl product. The structure of the enolate ion shows a cyclohexanone bonded at C2 to a hydrogen atom and a pink COOEt. C2 is labeled ‘alpha.’ The structure of alpha beta-unsaturated carbonyl acceptor (in blue) shows a methylene group (labeled beta) double bonded to a methine group (labeled alpha) bonded to COOEt. The structure of 1 5-dicarbonyl product shows a cyclohexanone bonded at C2 to a pink COOEt and a line angle structure containing a 3 carbon chain having a blue COOEt at its terminal position. C1-C2 bond of the line angle structure is in pink and labeled “This bond is formed in the Michael reaction.” C2 and C3 of the line angle structure is shown in blue.">
+<image mime-type="image/jpeg" src="../../media/OChem_23_10_006.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00009"><link class="os-embed" url="#exercise/23-10-OC-P16"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00010"><link class="os-embed" url="#exercise/23-10-OC-P17"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00011"><link class="os-embed" url="#exercise/23-10-OC-P18"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
