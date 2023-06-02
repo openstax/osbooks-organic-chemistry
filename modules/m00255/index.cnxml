@@ -125,11 +125,7 @@
 <image mime-type="image/jpeg" src="../../media/OChem_18_EC_003.jpg"/>
 </media>
 </figure>
-<figure class="unnumbered scaled-down-30" id="fig-00012">
-<media alt="Alt Text Placeholder">
-<image mime-type="image/jpeg" src="../../media/OChem_18_EC_005.jpg"/>
-</media>
-</figure></item>
+</item>
 <item>Acid-catalyzed epoxide opening (<link document="m00252"/>)<newline/>
 <figure class="unnumbered scaled-down-30" id="fig-00013">
 <media alt="Alt Text Placeholder">
@@ -454,7 +450,7 @@
 </figure>
 <para id="para-00072">To a great extent, the chemistry of living organisms is the chemistry of carbonyl compounds. Thus, we’ll spend the next five chapters discussing the chemistry of the <emphasis effect="bold">carbonyl group,</emphasis> <m:math><m:mrow><m:mtext mathvariant="bold">C=O</m:mtext></m:mrow></m:math> (pronounced car-bo-<emphasis effect="bold">neel</emphasis>). There are many different kinds of carbonyl compounds and many different reactions, but there are only a few fundamental principles that tie the entire field together. The purpose of this brief preview is not to show details of specific reactions but rather to provide a framework for learning carbonyl-group chemistry. Read through this preview now, and return to it on occasion to remind yourself of the larger picture.</para>
 <section id="sect-00010">
-<title>I: Kinds of Carbonyl Compounds</title>
+<title>I Kinds of Carbonyl Compounds</title>
 <para id="para-00073"><link target-id="table-00001"/> shows some of the many different kinds of carbonyl compounds. All contain an <emphasis effect="bold">acyl group</emphasis> (<m:math><m:mrow><m:mtext>R</m:mtext><m:mtext>–</m:mtext><m:mtext>C=O</m:mtext></m:mrow></m:math>) bonded to another substituent. The R part of the acyl group can be practically any organic part/structure, and the other substituent to which the acyl group is bonded might be a carbon, hydrogen, oxygen, halogen, nitrogen, or sulfur.</para>
 <table summary="Alt Text Placeholder" id="table-00001">
 <title>Some Types of Carbonyl Compounds</title>
@@ -537,7 +533,7 @@
 </section>
 <section id="sect-00011">
 <title>II Nature of the Carbonyl Group</title>
-<para id="para-00075">The carbon–oxygen double bond of a carbonyl group is similar in many respects to the carbon–carbon double bond of an alkene. The carbonyl carbon atom is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized and forms three <emphasis effect="bold"><emphasis effect="italics">σ</emphasis></emphasis> bonds. The fourth valence electron remains in a carbon <emphasis effect="italics">p</emphasis> orbital and forms a <emphasis effect="bold"><emphasis effect="italics">π</emphasis></emphasis> bond to oxygen by overlapping with an oxygen <emphasis effect="italics">p</emphasis> orbital. The oxygen atom also has two nonbonding pairs of electrons, which occupy its remaining two orbitals.</para>
+<para id="para-00075">The carbon–oxygen double bond of a carbonyl group is similar in many respects to the carbon–carbon double bond of an alkene. The carbonyl carbon atom is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized and forms three <emphasis effect="italics">σ</emphasis> bonds. The fourth valence electron remains in a carbon <emphasis effect="italics">p</emphasis> orbital and forms a <emphasis effect="italics">π</emphasis> bond to oxygen by overlapping with an oxygen <emphasis effect="italics">p</emphasis> orbital. The oxygen atom also has two nonbonding pairs of electrons, which occupy its remaining two orbitals.</para>
 <figure class="unnumbered scaled-down-30" id="fig-00024">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_18_PCC_004.jpg"/>
@@ -580,8 +576,8 @@
 </figure>
 </section>
 <section id="sect-00015">
-<title>FORMATION OF <m:math><m:mrow><m:mtext mathvariant="bold">C</m:mtext><m:mo mathvariant="bold">═</m:mo><m:mtext mathvariant="bold">N</m:mtext><m:mtext mathvariant="bold">u</m:mtext></m:mrow></m:math></title>
-<para id="para-00082">The second mode of nucleophilic addition, which often occurs with amine nucleophiles, involves elimination of oxygen and formation of a <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>N</m:mtext><m:mtext>u</m:mtext></m:mrow></m:math> double bond. For example, aldehydes and ketones react with primary amines, RNH<sub>2</sub>, to form <emphasis effect="italics">imines,</emphasis> <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>NR</m:mtext><m:mo>′</m:mo></m:mrow></m:math>. These reactions use the same kind of tetrahedral intermediate as that formed during hydride reduction and Grignard reaction, but the initially formed alkoxide ion is not isolated. Instead, it is protonated and then loses water to form an imine, as shown in <link target-id="fig-00029"/>.</para>
+<title>FORMATION OF <m:math><m:mrow><m:mtext mathvariant="bold">C═N</m:mtext><m:mtext mathvariant="bold">u</m:mtext></m:mrow></m:math></title>
+<para id="para-00082">The second mode of nucleophilic addition, which often occurs with amine nucleophiles, involves elimination of oxygen and formation of a <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>N</m:mtext><m:mtext>u</m:mtext></m:mrow></m:math> double bond. For example, aldehydes and ketones react with primary amines, RNH<sub>2</sub>, to form <emphasis effect="italics">imines,</emphasis> <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C═NR</m:mtext><m:mo>′</m:mo></m:mrow></m:math>. These reactions use the same kind of tetrahedral intermediate as that formed during hydride reduction and Grignard reaction, but the initially formed alkoxide ion is not isolated. Instead, it is protonated and then loses water to form an imine, as shown in <link target-id="fig-00029"/>.</para>
 <figure class="mechanism-figure scaled-down" id="fig-00029">
 <title>MECHANISM</title>
 <media alt="Alt Text Placeholder">
