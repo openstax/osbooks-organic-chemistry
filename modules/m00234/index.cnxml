@@ -14,7 +14,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_05_005.jpg"/>
     </media>
     </figure></item>
-    <item>Oxidation of a primary alcohol or an aldehyde yields a carboxylic acid (<link document="m00206">Sections 17.7</link> and <link document="m00214">19.3</link>). Primary alcohols are often oxidized with the Dess Martin periodinane, and aldehydes are similarly oxidized with alkaline KMnO<emphasis effect="bold"><sub>4</sub></emphasis>.<newline/>
+    <item>Oxidation of a primary alcohol or an aldehyde yields a carboxylic acid (<link document="m00206">Sections 17.7</link> and <link document="m00214">19.3</link>). Primary alcohols are often oxidized with the Dess Martin periodinane, and aldehydes are similarly oxidized with alkaline KMnO<sub>4</sub>.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_05_006.jpg"/>
@@ -32,7 +32,7 @@
     </section>
     <section id="sect-00002">
     <title>Carboxylation of Grignard Reagents</title>
-    <para id="para-00003">Another method for preparing carboxylic acids is by reaction of a Grignard reagent with CO<sub>2</sub> to yield a metal carboxylate, followed by protonation to give a carboxylic acid. This <term id="term-00001">carboxylation</term> reaction is usually carried out by bubbling a stream of dry CO<sub>2</sub> gas through a solution of the Grignard reagent. The organomagnesium halide adds to a C═O bond of carbon dioxide in a typical nucleophilic carbonyl addition reaction, and protonation of the carboxylate by addition of aqueous HCl in a separate step then gives the free carboxylic acid. For example:</para>
+    <para id="para-00003">Another method for preparing carboxylic acids is by reaction of a Grignard reagent with CO<sub>2</sub> to yield a metal carboxylate, followed by protonation to give a carboxylic acid. This <term id="term-00001">carboxylation</term> reaction is usually carried out by bubbling a stream of dry CO<sub>2</sub> gas through a solution of the Grignard reagent. The organomagnesium halide adds to a <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> bond of carbon dioxide in a typical nucleophilic carbonyl addition reaction, and protonation of the carboxylate by addition of aqueous HCl in a separate step then gives the free carboxylic acid. For example:</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_05_008.jpg"/>

@@ -6,7 +6,7 @@
     <md:uuid>26e5169a-6849-40c3-8a62-12e2102b6783</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Carboxylic acids are similar in some respects to both ketones and alcohols. Like ketones, the carboxyl carbon is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and carboxylic acid groups are therefore planar with C―C═O and O═C―O bond angles of approximately 120° (<link target-id="table-00001"/>).</para>
+    <para id="para-00001">Carboxylic acids are similar in some respects to both ketones and alcohols. Like ketones, the carboxyl carbon is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and carboxylic acid groups are therefore planar with <m:math><m:mrow><m:mtext>C&#x2013;C&#x2550;O</m:mtext></m:mrow></m:math> and <m:math><m:mrow><m:mtext>O&#x2550;C&#x2013;O</m:mtext></m:mrow></m:math> bond angles of approximately 120° (<link target-id="table-00001"/>).</para>
     <table summary="" id="table-00001">
     <title>Physical Parameters for Acetic Acid</title>
     <tgroup cols="4">
@@ -27,21 +27,21 @@
     </thead>
     <tbody>
     <row valign="top">
-    <entry valign="top" align="left">C―C═O</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C&#x2013;C&#x2550;O</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">119</entry>
-    <entry valign="top" align="left">C―C</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C&#x2013;C</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">152</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left">C―C―OH</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C&#x2013;C&#x2013;OH</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">119</entry>
-    <entry valign="top" align="left">C═O</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">125</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left">O═C―OH</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>O&#x2550;C&#x2013;OH</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">122</entry>
-    <entry valign="top" align="left">C―OH</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:mtext>C&#x2013;OH</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">131</entry>
     </row>
     </tbody>
@@ -53,13 +53,13 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_002.jpg"/>
     </media>
     </figure>
-    <para id="para-00003">The most obvious property of carboxylic acids is implied by their name: carboxylic acids are <emphasis effect="italics">acidic.</emphasis> They therefore react with bases such as NaOH and NaHCO<sub>3</sub> to give metal carboxylate salts, <m:math><m:mrow><m:msub><m:mrow><m:mtext>RCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup><m:msup><m:mtext>M</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math>. Carboxylic acids with more than six carbons are only slightly soluble in water, but the alkali metal salts of carboxylic acids are often highly water-soluble. In fact, it’s often possible to purify an acid by extracting its salt into aqueous base, then reacidifying and extracting the pure acid back into an organic solvent.</para>
+    <para id="para-00003">The most obvious property of carboxylic acids is implied by their name: carboxylic acids are <emphasis effect="italics">acidic.</emphasis> They therefore react with bases such as NaOH and NaHCO<sub>3</sub> to give metal carboxylate salts, RCO<sub>2</sub><sup>-</sup> M<sup>+</sup>. Carboxylic acids with more than six carbons are only slightly soluble in water, but the alkali metal salts of carboxylic acids are often highly water-soluble. In fact, it’s often possible to purify an acid by extracting its salt into aqueous base, then reacidifying and extracting the pure acid back into an organic solvent.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_003.jpg"/>
     </media>
     </figure>
-    <para id="para-00004">Like other Brønsted–Lowry acids discussed in <link document="m00024">Section 2.7</link>, carboxylic acids dissociate slightly in dilute aqueous solution to give <m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup></m:mrow></m:math> and the corresponding carboxylate anions, <m:math><m:mrow><m:msub><m:mrow><m:mtext>RCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>–</m:mo></m:msup></m:mrow></m:math>. The extent of dissociation is given by an acidity constant, <emphasis effect="italics">K</emphasis><sub>a</sub>.</para>
+    <para id="para-00004">Like other Brønsted–Lowry acids discussed in <link document="m00024">Section 2.7</link>, carboxylic acids dissociate slightly in dilute aqueous solution to give H<sub>3</sub>O<sup>+</sup> and the corresponding carboxylate anions, RCO<sub>2</sub><sup>–</sup>. The extent of dissociation is given by an acidity constant, <emphasis effect="italics">K</emphasis><sub>a</sub>.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_004.jpg"/>
@@ -84,9 +84,9 @@
     <tbody>
     <row valign="top">
     <entry valign="top" align="left">CF<sub>3</sub>CO<sub>2</sub>H</entry>
-    <entry valign="top" align="left">0.59</entry>
+    <entry valign="top" align="center">0.59</entry>
     <entry valign="top" align="left">0.23</entry>
-    <entry valign="top" align="left" morerows="7"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_02_005.jpg"/></media></entry>
+    <entry valign="middle" align="left" morerows="7"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_02_005.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">HCO<sub>2</sub>H</entry>
@@ -104,7 +104,7 @@
     <entry valign="top" align="left">4.19</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left">H<sub>2</sub>C═CHCO<sub>2</sub>H</entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C&#x2550;</m:mtext><m:msub><m:mrow><m:mtext>CHCO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="left">&#8199;5.6 × 10<sup>–5</sup></entry>
     <entry valign="top" align="left">4.25</entry>
     </row>
@@ -139,7 +139,7 @@
     </media>
     <caption><emphasis effect="bold">An alkoxide ion has its charge localized on one oxygen atom and is less stable, while a carboxylate ion has the charge spread equally over both oxygens and is therefore more stable.</emphasis></caption>
     </figure>
-    <para id="para-00008">Experimental evidence for the equivalence of the two carboxylate oxygens comes from X-ray crystallographic studies on sodium formate. Both carbon–oxygen bonds are 127 pm in length, midway between the C═O double bond (120 pm) and the C–O single bond (134 pm) of formic acid. An electrostatic potential map of the formate ion also shows how the negative charge (red) is spread equally over both oxygens.</para>
+    <para id="para-00008">Experimental evidence for the equivalence of the two carboxylate oxygens comes from X-ray crystallographic studies on sodium formate. Both carbon–oxygen bonds are 127 pm in length, midway between the <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> double bond (120 pm) and the C–O single bond (134 pm) of formic acid. An electrostatic potential map of the formate ion also shows how the negative charge (red) is spread equally over both oxygens.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_008.jpg"/>

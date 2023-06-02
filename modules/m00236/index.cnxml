@@ -12,7 +12,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_001.jpg"/>
     </media>
     </figure>
-    <para id="para-00002">Nitriles occur infrequently in living organisms, although several hundred examples are known. Cyanocycline A, for instance, has been isolated from the bacterium <emphasis effect="italics">Streptomyces lavendulae</emphasis> and was found to have both antimicrobial and antitumor activity. In addition, more than 1000 compounds called <emphasis effect="italics">cyanogenic glycosides</emphasis> are known. Derived primarily from plants, cyanogenic glycosides contain a sugar with an acetal carbon, one oxygen of which is bonded to a nitrile-bearing carbon (sugar –O–C–CN). On hydrolysis with aqueous acid, the acetal is cleaved (<link document="m00221">Section 19.10</link>), generating a cyanohydrin (HO–C–CN), which releases hydrogen cyanide. It’s thought that the primary function of cyanogenic glycosides is to protect the plant by poisoning any animal foolish enough to eat it. Lotaustralin from the cassava plant is an example.</para>
+    <para id="para-00002">Nitriles occur infrequently in living organisms, although several hundred examples are known. Cyanocycline A, for instance, has been isolated from the bacterium <emphasis effect="italics">Streptomyces lavendulae</emphasis> and was found to have both antimicrobial and antitumor activity. In addition, more than 1000 compounds called <emphasis effect="italics">cyanogenic glycosides</emphasis> are known. Derived primarily from plants, cyanogenic glycosides contain a sugar with an acetal carbon, one oxygen of which is bonded to a nitrile-bearing carbon (sugar–O–C–CN). On hydrolysis with aqueous acid, the acetal is cleaved (<link document="m00221">Section 19.10</link>), generating a cyanohydrin (HO–C–CN), which releases hydrogen cyanide. It’s thought that the primary function of cyanogenic glycosides is to protect the plant by poisoning any animal foolish enough to eat it. Lotaustralin from the cassava plant is an example.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_002.jpg"/>
@@ -57,7 +57,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_007.jpg"/>
     </media>
     </figure>
-    <para id="para-00009">As shown in <link target-id="fig-00008"/>, base-catalyzed nitrile hydrolysis involves nucleophilic addition of hydroxide ion to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond to give an imine anion in a process similar to the nucleophilic addition to a polar C═O bond to give an alkoxide anion. Protonation then gives a hydroxy imine, which tautomerizes (<link document="m00106">Section 9.4</link>) to an amide in a step similar to the tautomerization of an enol to a ketone. Further hydrolysis gives a carboxylate ion.</para>
+    <para id="para-00009">As shown in <link target-id="fig-00008"/>, base-catalyzed nitrile hydrolysis involves nucleophilic addition of hydroxide ion to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond to give an imine anion in a process similar to the nucleophilic addition to a polar <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> bond to give an alkoxide anion. Protonation then gives a hydroxy imine, which tautomerizes (<link document="m00106">Section 9.4</link>) to an amide in a step similar to the tautomerization of an enol to a ketone. Further hydrolysis gives a carboxylate ion.</para>
     <figure class="mechanism-figure scaled-down" id="fig-00008">
     <title>MECHANISM</title>
     <media alt="Alt Text Placeholder">
@@ -65,7 +65,7 @@
     </media>
     <caption><emphasis effect="bold">Mechanism for the basic hydrolysis of a nitrile to yield an amide, which is then hydrolyzed further to a carboxylic acid anion.</emphasis></caption>
     </figure>
-    <para id="para-00010">The further hydrolysis of the amide intermediate takes place by a nucleophilic addition of hydroxide ion to the amide carbonyl group, which yields a tetrahedral alkoxide ion. Expulsion of amide ion, <m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math>, as leaving group gives the carboxylate ion, thereby driving the reaction toward the products. Subsequent acidification in a separate step yields the carboxylic acid. We’ll look at this process in more detail in <emphasis effect="bold">Section 21.7</emphasis>.</para>
+    <para id="para-00010">The further hydrolysis of the amide intermediate takes place by a nucleophilic addition of hydroxide ion to the amide carbonyl group, which yields a tetrahedral alkoxide ion. Expulsion of amide ion, NH<sub>2</sub><sup>−</sup>, as leaving group gives the carboxylate ion, thereby driving the reaction toward the products. Subsequent acidification in a separate step yields the carboxylic acid. We’ll look at this process in more detail in <emphasis effect="bold">Section 21.7</emphasis>.</para>
     <figure class="unnumbered" id="fig-00009">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_009.jpg"/>
@@ -74,7 +74,7 @@
     </section>
     <section id="sect-00004">
     <title>Reduction: Conversion of Nitriles into Amines</title>
-    <para id="para-00011">Reduction of a nitrile with LiAlH<sub>4</sub> gives a primary amine, RNH<sub>2</sub>. The reaction occurs by nucleophilic addition of hydride ion to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond, yielding an imine anion, which still contains a C═N bond and therefore undergoes a second nucleophilic addition of hydride to give a <emphasis effect="italics">dianion</emphasis>. Both monoanion and dianion intermediates are undoubtedly stabilized by Lewis acid–base complexation to an aluminum species, facilitating the second addition that would otherwise be difficult. Protonation of the dianion by addition of water in a subsequent step gives the amine.</para>
+    <para id="para-00011">Reduction of a nitrile with LiAlH<sub>4</sub> gives a primary amine, RNH<sub>2</sub>. The reaction occurs by nucleophilic addition of hydride ion to the polar <m:math><m:mrow><m:mtext>C≡N</m:mtext></m:mrow></m:math> bond, yielding an imine anion, which still contains a <m:math><m:mrow><m:mtext>C&#x2550;N</m:mtext></m:mrow></m:math> bond and therefore undergoes a second nucleophilic addition of hydride to give a <emphasis effect="italics">dianion</emphasis>. Both monoanion and dianion intermediates are undoubtedly stabilized by Lewis acid–base complexation to an aluminum species, facilitating the second addition that would otherwise be difficult. Protonation of the dianion by addition of water in a subsequent step gives the amine.</para>
     <figure class="unnumbered" id="fig-00010">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_20_07_010.jpg"/>
