@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Biological Amines and the Henderson–Hasselbalch Equation</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Biological Amines and the Henderson–Hasselbalch Equation</md:title>
+    <md:content-id>m00293</md:content-id>
+    <md:uuid>aa43f748-2ec6-4dd3-b86f-321b480b8acd</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">We saw in <link document="m00232"/> that the extent of dissociation of a carboxylic acid HA in an aqueous solution buffered to a given pH can be calculated with the Henderson–Hasselbalch equation. Furthermore, we concluded that at the physiological pH of 7.3 inside living cells, carboxylic acids are almost entirely dissociated into their carboxylate anions, RCO<sub>2</sub><sup>–</sup>.</para>
+<para id="para-00002"><emphasis effect="bold">Henderson–Hasselbalch equation:</emphasis></para>
+<equation class="unnumbered" id="eq-00001"><m:math><m:mrow><m:mtext>pH = p</m:mtext><m:mi>K</m:mi><m:mtext>a + log</m:mtext><m:mfrac><m:mrow><m:msup><m:mrow><m:mtext>[A</m:mtext></m:mrow><m:mtext>–</m:mtext></m:msup><m:mtext>]</m:mtext></m:mrow><m:mrow><m:mtext>[HA]</m:mtext></m:mrow></m:mfrac><m:mtext> </m:mtext><m:mtext>so</m:mtext><m:mtext> </m:mtext><m:mtext>log</m:mtext><m:mfrac><m:mrow><m:msup><m:mrow><m:mtext>[A</m:mtext></m:mrow><m:mtext>–</m:mtext></m:msup><m:mtext>]</m:mtext></m:mrow><m:mrow><m:mtext>[HA]</m:mtext></m:mrow></m:mfrac><m:mtext> = pH – p</m:mtext><m:mi>K</m:mi><m:mtext>a</m:mtext></m:mrow></m:math></equation>
+<para id="para-00003">What about amine bases? In what form do they exist at physiological pH? As the amine (A<sup>–</sup> = RNH<sub>2</sub>), or as the ammonium ion (HA = RNH<sub>3</sub><sup>+</sup>)? Let’s take a 0.0010 M solution of methylamine at pH = 7.3, for example. According to <link document="m00291" target-id="table-00001"/>, the p<emphasis effect="italics">K</emphasis><sub>a</sub> of methylammonium ion is 10.64, so from the Henderson–Hasselbalch equation, we have</para>
+<equation class="unnumbered" id="eq-00002"><m:math><m:mtable columnalign="left"><m:mtr><m:mtd><m:mi mathvariant="normal">l</m:mi><m:mtext>og</m:mtext><m:mfrac><m:mrow><m:msub><m:mrow><m:mtext>[RNH</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mtext>]</m:mtext></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>[RNH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mtext>]</m:mtext></m:mrow></m:mfrac><m:mtext> = pH – p</m:mtext><m:msub><m:mi>K</m:mi><m:mtext>a</m:mtext></m:msub><m:mtext> = 7</m:mtext><m:mtext>.3 – 10</m:mtext><m:mtext>.64 = –3</m:mtext><m:mtext>.34</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mrow><m:msub><m:mrow><m:mtext>[RNH</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mtext>]</m:mtext></m:mrow><m:mrow><m:msub><m:mrow><m:mtext>[RNH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mtext>]</m:mtext></m:mrow></m:mfrac><m:mtext> = antilog(–3</m:mtext><m:mtext>.34) = 4</m:mtext><m:mtext>.6 </m:mtext><m:mo>×</m:mo><m:msup><m:mtext> 10</m:mtext><m:mrow><m:mtext>–4</m:mtext></m:mrow></m:msup><m:mtext> </m:mtext><m:mtext>so</m:mtext><m:mtext> </m:mtext><m:msub><m:mtext>[RNH</m:mtext><m:mtext>2</m:mtext></m:msub><m:mtext>] = (4</m:mtext><m:mtext>.6 </m:mtext><m:mo>×</m:mo><m:msup><m:mtext> 10</m:mtext><m:mrow><m:mtext>–4</m:mtext></m:mrow></m:msup><m:msub><m:mtext>)[RNH</m:mtext><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mtext>]</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="para-00004">In addition, we know that</para>
+<equation class="unnumbered" id="eq-00003"><m:math><m:mrow><m:msub><m:mrow><m:mtext>[RNH</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:msub><m:mrow><m:mtext>] + [RNH</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow/><m:mtext>+</m:mtext></m:msup><m:mtext>] = 0</m:mtext><m:mtext>.0010 M</m:mtext></m:mrow></m:math></equation>
+<para id="para-00005">Solving the two simultaneous equations gives [RNH<sub>3</sub><sup>+</sup>] = 0.0010 M and [RNH<sub>2</sub>] = 5 × 10<sup>–7</sup> M. In other words, at a physiological pH of 7.3, essentially 100% of the methylamine in a 0.0010 M solution exists in its protonated form as methylammonium ion. The same is true of other amine bases, so we always write cellular amines in their protonated form and amino acids in their ammonium carboxylate form to reflect their structures at physiological pH.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00001">
+<media alt="An illustration shows the structure of alanine (an amino acid). A central carbon is wedge bonded to a methyl group dash bonded to hydrogen and single bonded to blue ammonium group and pink carboxylate ion. Text pointing to ammonium group reads: The amino group is protonated at pH equal to 7.3. Text pointing to carboxylate ion reads: The carboxylic acid group is dissociated at pH equal to 7.3.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_05_001.jpg"/>
+</media>
+</figure>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00006"><link class="os-embed" url="#exercise/24-05-OC-P07"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

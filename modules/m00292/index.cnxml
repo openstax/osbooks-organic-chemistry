@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Basicity of Arylamines</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Basicity of Arylamines</md:title>
+    <md:content-id>m00292</md:content-id>
+    <md:uuid>0e09ccad-2651-407f-82e0-47e79d2142bd</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">As noted previously, arylamines are generally less basic than alkylamines. Anilinium ion has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 4.63, for instance, whereas methylammonium ion has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 10.64. Arylamines are less basic than alkylamines because the nitrogen lone-pair electrons are delocalized by interaction with the aromatic ring’s <emphasis effect="italics">π</emphasis> electron system and are less available for bonding to H<sup>+</sup>. In resonance terms, arylamines are stabilized relative to alkylamines because of their five resonance forms.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows the structures of five resonance forms of arylamines. The first form shows benzene bonded to a blue amino group with two electrons. The second form shows benzene bonded to a blue amino group with two electrons. An arrow from the electrons of amino group points to the C1-N bond. An arrow from the C1-C6 double bond points to C6. The third form shows a cyclohexane with two bonds double bonded to a blue amino group that shows positive charge. C6 is an anion with two electrons. An arrow from the electrons points to the C5-C6 bond. An arrow from the C4-C5 double bond points to C4. The fourth form shows a cyclohexane with two bonds double bonded to a blue amino group that shows positive charge. C4 is an anion with two electrons. An arrow from the electrons points to the C3-C4 bond. An arrow from the C2-C3 double bond points to C4. The fifth form shows a cyclohexane with two bonds double bonded to a blue amino group that shows positive charge. C2 is an anion with two electrons.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_04_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">Much of the resonance stabilization is lost on protonation, however, so the energy difference between protonated and nonprotonated forms is higher for arylamines than it is for alkylamines. As a result, arylamines are less basic. <link>Figure 24_04_OChem-24-04-002_80485-24-03_Energy</link> illustrates this difference.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An illustration shows the energy levels of four compounds in the following increasing order: Arylamine ArNH2 Alkylamine RNH2 Arylammonium ion ArNH3 plus Alkylammonium ion RNH3 plus. Resonance stabilization is marked by an arrow between Arylamine and Alkylamine. The energy difference between Arylammonium ion and Arylamine is delta G°aryl. The energy difference between Alkylammonium ion and Alkylamine is delta G°alkyl. A reaction below shows the conversion of Aniline (delocalized electrons) to Anilinium ion (localized charge) in the presence of proton. Aniline shows benzene bonded to blue amino group that shows two electrons. Anilinium ion shows benzene bonded to blue ammonium group. The electrostatic potential maps show gray balls (carbons) white balls (hydrogens) and blue balls (nitrogens). In Anilinium ion the region around the amino group is purple.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_04_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">Arylamines have a larger positive ∆<emphasis effect="italics">G</emphasis>° for protonation and are therefore less basic than alkylamines, primarily because of resonance stabilization of the ground state</emphasis>. Electrostatic potential maps show that lone-pair electron density is delocalized in the amine but the charge is localized in the corresponding ammonium ion.</caption>
+</figure>
+<para id="para-00003">Substituted arylamines can be either more basic or less basic than aniline, depending on the substituent. Electron-donating substituents, such as –CH<sub>3</sub>, –NH<sub>2</sub>, and –OCH<sub>3</sub>, which increase the reactivity of an aromatic ring toward electrophilic substitution (<link document="m00192"/>), also increase the basicity of the corresponding arylamine. Electron-withdrawing substituents, such as –Cl, –NO<sub>2</sub>, and –CN, which decrease ring reactivity toward electrophilic substitution, also decrease arylamine basicity. <link target-id="table-00001"/> considers only <emphasis effect="italics">p</emphasis>-substituted anilines, but similar trends are observed for ortho and meta derivatives.</para>
+<table id="table-00001" summary="An illustration shows a hydrolysis reaction of p-substituted aniline and a table below that shows substituent Y and pK subscript a of some substituents. The strongest base is -NH2 and the weakest base is -NO2. The details are as follows: Deactivating groups: -NO2: 1.00; -CN: 1.74; -Br: 3.86; -Cl: 3.98. Activating groups: -CH3: 5.08; -OCH3: 5.34; -NH2: 6.15. Between the deactivating and activating groups is -H: 4.63. The reaction shows hydrolysis of p-substituted aniline to yield hydroxide ion and another product. The p-substituted aniline shows benzene bonded to pink Y and blue amino group that shows two electrons. The product shows benzene bonded to pink Y and blue ammonium group.">
+<title>Base Strength of Some <emphasis effect="italics">p</emphasis>-Substituted Anilines</title>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="col1" nameend="col4"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_24_04_003a.jpg"/></media></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> </entry>
+<entry valign="top" align="left">Substituent, Y</entry>
+<entry valign="top" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub></entry>
+<entry valign="top" align="left"> </entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left" morerows="7"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_24_04_003b.jpg"/></media></entry>
+<entry valign="top" align="left"><span class="magenta-text">–NH<sub>2</sub></span></entry>
+<entry valign="top" align="left">6.15</entry>
+<entry valign="middle" align="left" morerows="2"><span class="magenta-text">Activating groups</span></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><span class="magenta-text">–OCH<sub>3</sub></span></entry>
+<entry valign="top" align="left">5.34</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><span class="magenta-text">–CH<sub>3</sub></span></entry>
+<entry valign="top" align="left">5.08</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">–H</entry>
+<entry valign="top" align="left">4.63</entry>
+<entry valign="top" align="left"> </entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><span class="cyan-text">–Cl</span></entry>
+<entry valign="top" align="left">3.98</entry>
+<entry valign="middle" align="left" morerows="3"><span class="cyan-text">Deactivating groups</span></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><span class="cyan-text">–Br</span></entry>
+<entry valign="top" align="left">3.86</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><span class="cyan-text">–CN</span></entry>
+<entry valign="top" align="left">1.74</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><span class="cyan-text">–NO<sub>2</sub></span></entry>
+<entry valign="top" align="left">1.00</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00004"><link class="os-embed" url="#exercise/24-04-OC-P06"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
