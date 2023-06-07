@@ -6,6 +6,70 @@
     <md:uuid>ac861730-2020-4c4d-bc4a-9b9549e0245c</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<section>
+<title>Alkylation and Acylation</title>
+<para>We&#8217;ve already studied the two most general reactions of amines&#8212;alkylation and acylation. As we saw earlier in this chapter, primary, secondary, and tertiary amines can be alkylated by reaction with a primary alkyl halide. Alkylations of primary and secondary amines are difficult to control and often give mixtures of products, but tertiary amines are cleanly alkylated to give quaternary ammonium salts. Primary and secondary (but not tertiary) amines can also be acylated by nucleophilic acyl substitution reaction with an acid chloride or an acid anhydride to yield an amide (<link document="m00242"/> and <link document="m00243"/>). Note that overacylation of the nitrogen does not occur because the amide product is much less nucleophilic and less reactive than the starting amine.</para>
+<figure class="unnumbered scaled-down-30">
+<media alt="An illustration shows three reactions of an acid chloride (RCO bonded to green chlorine) catalyzed by pyridine solvent to yield different products. In the first reaction the acid chloride reacts with blue ammonia to yield a compound (RCO bonded to blue amino group) and green HCl. In the second reaction the acid chloride reacts with blue R&#8217;NH2 to yield an amine (RCO bonded to blue NHR&#8217;) and green HCl. In the third reaction the acid chloride reacts with blue R&#8217;2NH to yield a compound (RCO bonded to blue NR&#8217;2) and green HCl.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_001.jpg"/>
+</media>
+</figure>
+</section>
+<section>
+<title>Hofmann Elimination Reaction</title>
+<para>Like alcohols, amines can be converted into alkenes by an elimination reaction. But because an amide ion, NH<sub>2</sub><sup>&#8211;</sup>, is such a poor leaving group, it must first be converted into a better leaving group. In the <term>Hofmann elimination reaction</term>, an amine is completely methylated by reaction with an excess amount of iodomethane to produce the corresponding quaternary ammonium salt. This salt then undergoes elimination to give an alkene on heating with a base, typically silver oxide, Ag<sub>2</sub>O. For example, 1-methylpentylamine is converted into 1-hexene.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which 1-Methylpentylamine reacts with excess of blue methyl iodide to yield (1-Methylpentyl)trimethylammonium iodide that further reacts in the presence of Ag2O water and heat to yield 1-Hexene (60%) and an alkane. 1-Methylpentylamine shows a 5-carbon chain. C1 is bonded to a methyl group on the right and a blue amino group at the top. (1-Methylpentyl)trimethylammonium iodide is similar to the reactant but the amino group is replaced by a blue chain that shows nitrogen cation bonded to three methyl groups and iodine anion. 1-Hexene shows a 6-carbon chain with a double bond between C1 and C2. The alkane shows a nitrogen atom bonded to three methyl groups.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_002.jpg"/>
+</media>
+</figure>
+<para>Silver oxide acts by exchanging iodide ion for hydroxide ion in the quaternary salt, thus providing the base necessary for elimination. The actual elimination step is an E2 reaction (<link document="m00129"/>) in which hydroxide ion removes a proton while the positively charged nitrogen atom leaves.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which Quaternary ammonium salt undergoes E2 reaction to yield an alkene pink water and blue trimethyl amine. The quaternary ammonium salt shows two carbons single bonded. The left carbon shows a free wedge bond and dash bond and is bonded to a pink hydrogen. An arrow from a pink hydroxyl ion with six electrons points to the hydrogen. The right carbon shows a free wedge bond and dash bond and is bonded to a blue nitrogen cation bonded to three methyl groups. An arrow from the C-N bond points to N. The alkene shows two carbons double bonded. Each carbon shows two free bonds.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_003.jpg"/>
+</media>
+</figure>
+<para>Unlike what happens in other E2 reactions, the major product of Hofmann elimination is the less highly substituted alkene rather than the more highly substituted one, as shown by the reaction of (1-methylbutyl)trimethylammonium hydroxide to give 1-pentene rather than the alternative 2-pentene. The reason for this non-Zaitsev result is probably steric. Because of the large size of the trialkylamine leaving group, the base must abstract a hydrogen from the more accessible, least hindered position.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction of 1-Methylbutyl)trimethylammonium hydroxide to yield 1-Pentene (94%) and 2-Pentene (6%). (1-Methylbutyl)trimethylammonium hydroxide shows a chain of three carbon atoms. C1 is bonded to an ethyl group and two pink hydrogens that are labeled &#8216;More hindered; less accessible.&#8217; C2 is bonded to a hydrogen and nitrogen cation that is bonded to three methyl groups. C3 is bonded to three green hydrogens that are labeled &#8216;Less hindered; more accessible.&#8217; A blue hydroxide ion is shown. 1-Pentene shows an ethyl group bonded to methylene group (pink hydrogens) bonded to a methine group double bonded to methylene group (green hydrogens). 2-Pentene shows an ethyl group bonded to methine group (pink hydrogen) double bonded to a methine group bonded to methyl group (green hydrogens). The ball-and-stick model of the reactant shows gray balls (carbons) white balls (hydrogens) and a blue ball (nitrogen).">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_004.jpg"/>
+</media>
+</figure>
+<para>The Hofmann elimination reaction is not often currently used in the laboratory, but analogous biological eliminations occur frequently, although usually with protonated ammonium ions rather than quaternary ammonium salts. In the biosynthesis of nucleic acids, for instance, a substance called adenylosuccinate undergoes an elimination of a positively charged nitrogen to give fumarate plus adenosine monophosphate.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which Adenylosuccinate yields Fumarate and Adenosine monophosphate. Adenylosuccinate shows a cyclopentane ring with two nitrogens and two double bonds. One of the nitrogens shows a free bond with a pink wavy line. The ring is fused with a cyclohexane ring that shows two nitrogens and two double bonds. The cyclohexane is bonded to a blue amino group a cation that is wedge bonded to a carbon. The carbon is bonded to a carboxylate ion and dash bonded to a hydrogen. The carbon is bonded to another carbon bonded to a carboxylate ion a hydrogen and a pink hydrogen. An arrow from a blue base with two electrons points to pink H. An arrow from the wedge bond points to blue amino group. Fumarate shows two methine groups double bonded to each other. Each methine group is bonded to a carboxylate ion. Adenosine monophosphate is similar to Adenylosuccinate but the amino group is not charged and not bonded to any group.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_005.jpg"/>
+</media>
+</figure>
+<example>
+<title>Predicting the Product of a Hofmann Elimination</title>
+<para>What product would you expect from Hofmann elimination of the following amine?</para>
+<figure class="unnumbered scaled-down-30">
+<media alt="An illustration shows the structure of an amine. A cyclohexane is bonded to a methine group bonded to an ethyl group and nitrogen. The nitrogen is bonded to a hydrogen and ethyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_006.jpg"/>
+</media>
+</figure>
+<para><title><span class="red-text">Strategy</span></title> The Hofmann elimination is an E2 reaction that converts an amine into an alkene and occurs with non-Zaitsev regiochemistry to form the less highly substituted double bond. To predict the product, look at the reactant and identify the positions from which elimination might occur (the positions two carbons away from nitrogen). Then, carry out an elimination using the most accessible hydrogen. In the present instance, there are three possible positions from which elimination might occur&#8212;one primary, one secondary, and one tertiary. The primary position is the most accessible and leads to the least highly substituted alkene, ethylene.</para>
+<para><title><span class="cyan-text">Solution</span></title></para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which a reactant reacts in the presence of 1. Excess CH3I 2. Ag2O H2O heat to yield an amine and ethylene. The reactant shows a cyclohexane bonded to a pink hydrogen and a 3-carbon chain. The hydrogen is labeled &#8216;tertiary.&#8217; C1 of the chain is bonded to a blue nitrogen bonded to a hydrogen and a methylene group bonded to a methyl group. The hydrogens of the methyl group labeled &#8216;primary.&#8217; C2 is bonded to two green hydrogens labeled &#8216;secondary.&#8217; The intermediate shows a cyclohexane bonded to a 3-carbon chain. C1 is bonded to a blue nitrogen bonded to two methyl groups.">
+<image mime-type="image/jpeg" src="../../media/OChem_24_07_007.jpg"/>
+</media>
+</figure>
+</example>
+</section>
+<section class="section-exercises">
+<title>Problems</title>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/24-07-OC-P14"/></para>
+</problem>
+</exercise>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/24-07-OC-P15"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
