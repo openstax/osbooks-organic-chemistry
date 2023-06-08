@@ -50,13 +50,13 @@
 </section>
 <section id="sect-00003">
 <title>Diazonium Salts: The Sandmeyer Reaction</title>
-<para id="para-00009">Primary arylamines react with nitrous acid, HNO<sub>2</sub>, to yield stable <emphasis effect="italics">arenediazonium salts</emphasis>, <m:math><m:mrow><m:mtext>Ar</m:mtext><m:mo>―</m:mo><m:mover><m:mtext>N</m:mtext><m:mo>+</m:mo></m:mover><m:mo>≡</m:mo><m:mtext>N</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>X</m:mtext><m:mo>−</m:mo></m:msup></m:mrow></m:math>, a process called a <emphasis effect="italics">diazotization</emphasis> reaction. Alkylamines also react with nitrous acid, but the corresponding alkanediazonium products are so reactive they can’t be isolated. Instead, they lose nitrogen instantly to yield carbocations. The analogous loss of N<sub>2</sub> from an arenediazonium ion to yield an aryl cation is disfavored by the instability of the cation.</para>
+<para id="para-00009">Primary arylamines react with nitrous acid, HNO<sub>2</sub>, to yield stable <emphasis effect="italics">arenediazonium salts</emphasis>, <m:math><m:mrow><m:mtext>Ar</m:mtext><m:mo>&#x2013;―</m:mo><m:mover><m:mtext>N</m:mtext><m:mo>+</m:mo></m:mover><m:mtext>≡N</m:mtext><m:mspace width="0.2em"/><m:msup><m:mtext>X</m:mtext><m:mo>−</m:mo></m:msup></m:mrow></m:math>, a process called a <emphasis effect="italics">diazotization</emphasis> reaction. Alkylamines also react with nitrous acid, but the corresponding alkanediazonium products are so reactive they can’t be isolated. Instead, they lose nitrogen instantly to yield carbocations. The analogous loss of N<sub>2</sub> from an arenediazonium ion to yield an aryl cation is disfavored by the instability of the cation.</para>
 <figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="An illustration shows a reaction in which a primary amine reacts with blue HNO2 and sulfuric acid to yield an arenediazonium salt and 2 moles of water (blue). The amino compound shows benzene bonded to blue amino group. The arenediazonium salt shows benzene bonded to a nitrogen cation that is triple bonded to another nitrogen. HSO4 minus is shown next to benzene.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_006.jpg"/>
 </media>
 </figure>
-<para id="para-00010">Arenediazonium salts are useful because the diazonio group (<m:math><m:mrow><m:mo>–</m:mo><m:mtext>N</m:mtext><m:mo>≡</m:mo><m:mtext>N</m:mtext></m:mrow></m:math>) can be replaced by a nucleophile in a substitution reaction.</para>
+<para id="para-00010">Arenediazonium salts are useful because the diazonio group (<m:math><m:mrow><m:mtext>–N≡N</m:mtext></m:mrow></m:math>) can be replaced by a nucleophile in a substitution reaction.</para>
 <figure class="unnumbered scaled-down" id="fig-00006">
 <media alt="An illustration shows a reaction in which an arenediazonium salt reacts with pink nucleophile that shows two electrons to yield a substituted compound and blue nitrogen. The arenediazonium salt shows benzene bonded to a nitrogen cation that is triple bonded to another nitrogen. HSO4 minus is shown next to benzene. The substituted product shows benzene bonded to pink Nu.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_007.jpg"/>
@@ -121,7 +121,7 @@
 </section>
 <section id="sect-00005">
 <title>Diazonium Coupling Reactions</title>
-<para id="para-00022">Arenediazonium salts undergo a coupling reaction with activated aromatic rings such as phenols and arylamines to yield brightly colored <term id="term-00002">azo compounds, <m:math><m:mrow><m:mtext>Ar―N═N―A</m:mtext><m:msup><m:mrow><m:mtext>r</m:mtext></m:mrow><m:mo>′</m:mo></m:msup></m:mrow></m:math></term>.</para>
+<para id="para-00022">Arenediazonium salts undergo a coupling reaction with activated aromatic rings such as phenols and arylamines to yield brightly colored <term id="term-00002">azo compounds, <m:math><m:mrow><m:mtext>Ar–N═N–A</m:mtext><m:msup><m:mrow><m:mtext>r</m:mtext></m:mrow><m:mo>′</m:mo></m:msup></m:mrow></m:math></term>.</para>
 <figure class="unnumbered scaled-down" id="fig-00014">
 <media alt="An illustration shows a reaction in which an Arenediazonium salt reacts with another reactant to yield an azo compound. The arenediazonium salt shows benzene bonded to blue nitrogen cation triple bonded to a nitrogen bonded to HSO4 minus. The other reactant shows benzene bonded to pink Y that shows two electrons. The azo compound shows benzene bonded to blue nitrogen double bonded to a nitrogen bonded to a benzene that is bonded to pink Y that shows two electrons.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_015.jpg"/>
