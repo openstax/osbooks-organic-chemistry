@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Representing Carbohydrate Stereochemistry: Fischer Projections</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Representing Carbohydrate Stereochemistry: Fischer Projections</md:title>
@@ -6,5 +6,92 @@
     <md:uuid>296d61b5-3ae2-42c7-87ed-0a970a309500</md:uuid>
   </metadata>
   <content>
-  </content>
+<para id="para-00001">Because most carbohydrates have numerous chirality centers, it was recognized long ago that a quick method for representing their stereochemistry was needed. In 1891, the German chemist Emil Fischer suggested a method based on the projection of a tetrahedral carbon atom onto a flat surface. These <term id="term-00001">Fischer projections</term> were soon adopted and are still a common means of representing stereochemistry at chirality centers in carbohydrate chemistry.</para>
+<para id="para-00002">A tetrahedral carbon atom is represented in a Fischer projection by two crossed lines. The horizontal lines represent bonds coming out of the page, and the vertical lines represent bonds going into the page.</para>
+<para id="para-00003">For example, (<emphasis effect="italics">R</emphasis>)-glyceraldehyde, the simplest monosaccharide, can be drawn as in <link>Figure 25_02_OChem-25-02-002_80485-25-01_Bonds</link>.</para>
+<figure class="scaled-down" id="fig-00001">
+<media alt="An illustration shows four representations of the structure of (R)–glyceraldehyde. In the first structure a central carbon is bonded to a green aldehyde group and blue hydroxy methyl group dash bonded to a hydrogen wedge bonded to a pink hydroxyl group. In the second structure the carbon is dash bonded to a green aldehyde group at the top and blue hydroxy methyl group at the bottom and wedge bonded to a hydrogen on the left and a pink hydroxyl group on the right. In the third structure (Fischer projection) the hydrogen is on the left hydroxyl group is on the right aldehyde group is at the top and hydroxymethyl group is at the bottom; the point of intersection between the lines represents the central carbon. Arrows pointing to the C-H and C-OH bonds read “Bonds out of page.” Arrows pointing to the C-CHO and C-CH2OH bonds read “Bonds into page.” A ball-and-stick model of glyceraldehyde shows a three-carbon chain. The first carbon is bonded to a hydrogen on the left and double-bonded to an oxygen; the second carbon is bonded to a hydrogen on the left and a hydroxyl group on the right and the third carbon is bonded to a hydrogen atom on each side and a hydroxyl group at the bottom. Carbon atoms are represented by gray spheres hydrogen atoms are represented by white spheres and oxygen atoms are represented by red spheres.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">A Fischer projection of (<emphasis effect="italics">R</emphasis>)-glyceraldehyde.</emphasis></caption>
+</figure>
+<para id="para-00004">Because a given chiral molecule can be drawn in many ways, it’s sometimes necessary to compare two projections to see if they represent the same or different enantiomers. To test for identity, Fischer projections can be moved around on the paper, but only two kinds of motions are allowed; moving a Fischer projection in any other way inverts its meaning.</para>
+<list id="list-00001">
+<item>A Fischer projection can be rotated on the page by 180°, but not by 90° or 270°. Only a 180° rotation maintains the Fischer convention by keeping the same substituent groups going into and coming out of the plane. In the following Fischer projection of (<emphasis effect="italics">R</emphasis>)-glyceraldehyde, for instance, the –H and –OH groups come out of the plane both before and after a 180° rotation.</item>
+</list>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows the Fisher projection of (R)-Glyceraldehyde before and after a 180-degree rotation. In the Fischer projection before rotation a central carbon is bonded to an aldehyde group highlighted in green at the top to a hydrogen on the left to a hydroxyl group highlighted in pink on the right and to a hydroxymethyl group highlighted in blue at the bottom. After a 180-degree rotation indicated by two curved arrows around the molecule pointing in opposite directions the same substituents go in and out of the plane that is the structure remains the same. Now the aldehyde lies at the bottom and the hydroxymethyl group at the top of the central carbon with the hydroxyl group on the left and the hydrogen on the right. Adjacent ball-and-stick models represent R)-Glyceraldehyde before and after a 180-degree rotation. Carbon atoms are represented by gray spheres hydrogen atoms are represented by white spheres and oxygen atoms are represented by red spheres.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_003.jpg"/>
+</media>
+</figure>
+<para id="para-00005">A 90° rotation breaks the Fischer convention by exchanging the groups that go into the plane with those that come out. In the following Fischer projections of (<emphasis effect="italics">R</emphasis>)-glyceraldehyde, the –H and –OH groups originally come out of the plane but go into the plane after a 90° rotation. As a result, the rotated projection represents (<emphasis effect="italics">S</emphasis>)-glyceraldehyde.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows the Fisher projection of (R)-Glyceraldehyde after a 90-degree rotation. In the Fischer projection before rotation a central carbon is bonded to an aldehyde group highlighted in green at the top a hydrogen on the left a hydroxyl group highlighted in pink on the right and a hydroxymethyl group highlighted in blue at the bottom. A 90-degree rotation indicated by arrows pointing from aldehyde to hydroxyl and hydroxymethyl to hydrogen produces (S)-Glyceraldehyde which is not the same as (R)-Glyceraldehyde. Now the aldehyde lies on the right and the hydroxymethyl group lies on the left of the central carbon with the hydroxyl group at the bottom and the hydrogen at the top. Adjacent ball-and-stick models represent R)-Glyceraldehyde before and after a 90-degree rotation. Carbon atoms are represented by gray spheres hydrogen atoms are represented by white spheres and oxygen atoms are represented by red spheres.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_004.jpg"/>
+</media>
+</figure>
+<list id="list-00002">
+<item>Fischer projection can also have one group held steady while the other three rotate in either a clockwise or a counterclockwise direction. The effect is simply to rotate around a single bond, which does not change the stereochemistry.</item>
+</list>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="An illustration shows the Fisher projection of (R)-Glyceraldehyde after rotation around a single bond to form (R)-Glyceraldehyde where the stereochemistry remains unchanged. In the Fischer projection before rotation a central carbon is bonded to an aldehyde group highlighted in green at the top a hydrogen on the left a hydroxyl group highlighted in pink on the right and a hydroxymethyl group highlighted in blue at the bottom. An arrow points toward the aldehyde in each Fischer projection from text that reads “Hold steady.” Arrows point from the hydroxyl to the hydrogen to the hydroxymethyl indicate rotation. After rotation the aldehyde lies at the top and the hydrogen lies at the bottom of the central carbon with the hydroxyl group on the left and the hydroxymethyl group on the right. Adjacent ball-and-stick models represent R)-Glyceraldehyde before and after the rotation. Carbon atoms are represented by gray spheres hydrogen atoms are represented by white spheres and oxygen atoms are represented by red spheres.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_005.jpg"/>
+</media>
+</figure>
+<para id="para-00006"><emphasis effect="italics">R</emphasis>,<emphasis effect="italics">S</emphasis> stereochemical designations <emphasis effect="bold">(<link>Section 5-5</link>)</emphasis> can be assigned to the chirality center in a Fischer projection by following three steps, as shown in Worked Example 25-1.</para>
+<para id="para-00007"><emphasis effect="bold"><span class="red-text">STEP 1</span></emphasis><newline/>Rank the four substituents in the usual way <emphasis effect="bold">(<link>Section 5-5</link>)</emphasis>.</para>
+<para id="para-00008"><emphasis effect="bold"><span class="red-text">STEP 2</span></emphasis><newline/>Place the group of lowest ranking, usually H, at the top of the Fischer projection by using one of the allowed motions. This means that the lowest-ranked group is oriented back, away from the viewer, as required for assigning configuration.</para>
+<para id="para-00009"><emphasis effect="bold"><span class="red-text">STEP 3</span></emphasis><newline/>Determine the direction of rotation <m:math><m:mrow><m:mn>1</m:mn><m:mo>→</m:mo><m:mn>2</m:mn><m:mo>→</m:mo><m:mn>3</m:mn></m:mrow></m:math> of the remaining three groups, and assign <emphasis effect="italics">R</emphasis> or <emphasis effect="italics">S</emphasis> configuration.</para>
+<para id="para-00010">Carbohydrates with more than one chirality center are shown in Fischer projections by stacking the centers on top of one another, with the carbonyl carbon at or near the top. Glucose, for example, has four chirality centers stacked on top of one another in a Fischer projection. Such representations don’t, however, give an accurate picture of the molecule’s true three-dimensional conformation, which is curled around on itself like a bracelet.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00005">
+<media alt="An illustration shows three structures of glucose (carbonyl group on top). The oxygen bonded to the carbonyl group in each is highlighted in pink. The first representation shows a Fischer projection where the carbonyl group lies at the top of the six-carbon chain. The point of intersection between horizontal lines and the vertical line represents carbons. The hydroxyl groups on all carbons lie on the right of the carbon and the hydrogen atoms lie on the left. But on C3 the hydrogen lies on the right and the hydroxyl on the left. The sixth carbon is bonded to two hydrogen atoms and a hydroxyl group on the right. The second structure is similar to the first structure but the carbon atoms are shown and the hydrogen and hydroxyl groups on C2 C3 C4 and C5 are wedge bonded to the carbons. The third structure shows Haworth projection of a six-membered open ring structure. The hydroxyl groups on C2 C4 and C5 lie below the plane with the hydrogen atoms projecting upward. The hydroxyl group on C3 lies above and the hydrogen atom below.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_006.jpg"/>
+</media>
+</figure>
+<example id="exam-00001">
+<title>Assigning <emphasis effect="italics">R</emphasis> or <emphasis effect="italics">S</emphasis> Configuration to a Fischer Projection</title>
+<para id="para-00011">Assign <emphasis effect="italics">R</emphasis> or <emphasis effect="italics">S</emphasis> configuration to the following Fischer projection of alanine:</para>
+<figure class="unnumbered scaled-down-30" id="fig-00006">
+<media alt="An illustration shows the Fischer projection of alanine where a central carbon is bonded to a methyl group highlighted in green at the bottom a carboxylic acid group highlighted in pink at the top a hydrogen atom on the right and an amino group highlighted in blue on the left.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_007.jpg"/>
+</media>
+</figure>
+<para id="para-00012"><title><span class="red-text">Strategy</span></title> Follow the steps in the text. (<emphasis effect="bold">1</emphasis>) Rank the four substituents on the chiral carbon. (<emphasis effect="bold">2</emphasis>) Manipulate the Fischer projection to place the group of lowest ranking at the top by carrying out one of the allowed motions. (<emphasis effect="bold">3</emphasis>) Determine the direction <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>1</m:mn></m:mstyle><m:mo>→</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle><m:mo>→</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>3</m:mn></m:mstyle></m:mrow></m:math> of the remaining three groups.</para>
+<para id="para-00013"><title><span class="cyan-text">Solution</span></title> The rankings of the groups are (<emphasis effect="bold">1</emphasis>) –NH<sub>2</sub>, (<emphasis effect="bold">2</emphasis>) –CO<sub>2</sub>H, (<emphasis effect="bold">3</emphasis>) –CH<sub>3</sub>, and (<emphasis effect="bold">4</emphasis>) –H. To bring the group of lowest ranking (–H) to the top, we might want to hold the –CH<sub>3</sub> group steady while rotating the other three groups counterclockwise.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00007">
+<media alt="An illustration demonstrates the steps to assign R or S configuration to a Fischer projection of alanine. It shows two structures. In the first structure a central carbon is bonded to a methyl group highlighted in green at the bottom a carboxylic acid group highlighted in pink at the top a hydrogen atom on the right and an amino group highlighted in blue on the left. The methyl group is hold steady and the other three groups are rotated counterclockwise. The rotation is indicated by arrows pointing from hydrogen numbered 4 to the carboxylic acid group numbered 2 to the amino group numbered 1 and back to hydrogen; the methyl group is numbered 3. This is the same as the second structure (Fischer projection) when the central carbon is bonded to the amino group on the right the carboxylic acid group on the left the hydrogen at the top and the methyl group at the bottom.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_008.jpg"/>
+</media>
+</figure>
+<para id="para-00014">Going from first- to second-to third-highest ranking requires a counterclockwise turn, corresponding to <emphasis effect="italics">S</emphasis> stereochemistry.</para>
+<figure class="unnumbered scaled-down" id="fig-00008">
+<media alt="An illustration three structures of S configuration of alanine. In the first structure a central carbon is bonded to a methyl group numbered 3 highlighted in green at the bottom a carboxylic acid group numbered 2 highlighted in pink on the left a hydrogen atom numbered 4 at the top and an amino group numbered 1 highlighted in blue on the right. In the second structure a counterclockwise turn is made going from 1 to 2 2 to 3 3 to 1; the rotation is indicated by arrows. The resulting configuration the third structure shows a central carbon bonded to a hydrogen at the top and an amino group on the right; the carbon is dash bonded to a methyl group on the left and wedge bonded to a carboxylic acid group at the bottom.">
+<image mime-type="image/jpeg" src="../../media/OChem_25_02_009.jpg"/>
+</media>
+</figure>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00015"><link class="os-embed" url="#exercise/25-02-OC-P02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00016"><link class="os-embed" url="#exercise/25-02-OC-P03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00017"><link class="os-embed" url="#exercise/25-02-OC-P04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00018"><link class="os-embed" url="#exercise/25-02-OC-P05"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
