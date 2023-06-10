@@ -431,7 +431,6 @@
         <col:module document="m00271"/>
       </col:content>
     </col:subcollection>
-    <col:module document="m00016"/>
     <col:subcollection>
       <md:title>Biomolecules: Nucleic Acids</md:title>
       <col:content>
@@ -446,6 +445,7 @@
         <col:module document="m00317"/>
       </col:content>
     </col:subcollection>
+    <col:module document="m00016"/>
     <col:module document="m00030"/>
     <col:module document="m00226"/>
     <col:module document="m00228"/>
