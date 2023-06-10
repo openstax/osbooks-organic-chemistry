@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Transcription of DNA</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Transcription of DNA</md:title>
+    <md:content-id>m00313</md:content-id>
+    <md:uuid>6cbd2b82-adc5-4309-a672-40223b22d629</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">As noted previously, RNA is structurally similar to DNA but contains ribose rather than deoxyribose and uracil rather than thymine. RNA has three major types, each of which serves a specific purpose. In addition, there are a number of small RNAs that appear to control a wide variety of important cellular functions. All RNA molecules are much smaller than DNA, and all remain single-stranded rather than double-stranded.</para>
+<list id="list-00001">
+<item><term id="term-00001">Messenger RNA (mRNA)</term> carries genetic messages from DNA to ribosomes, small granular particles in the cytoplasm of a cell where protein synthesis takes place.</item>
+<item><term id="term-00002">Ribosomal RNA (rRNA)</term> complexed with protein provides the physical makeup of the ribosomes.</item>
+<item><term id="term-00003">Transfer RNA (tRNA)</term> transports amino acids to the ribosomes, where they are joined together to make proteins.</item>
+<item><term id="term-00004">Small RNAs</term>, also called <emphasis effect="bold">functional RNAs</emphasis>, have a variety of functions within the cell, including silencing transcription and catalyzing chemical modifications of other RNA molecules.</item>
+</list>
+<para id="para-00002">The genetic information in DNA is contained in segments called <term id="term-00005">genes</term>, each of which consists of a specific nucleotide sequence that encodes a specific protein. The conversion of that information from DNA into proteins begins in the nucleus of cells with the synthesis of mRNA by <term id="term-00006">transcription</term> of DNA. In bacteria, the process begins when RNA polymerase recognizes and binds to a <emphasis effect="italics">promoter sequence</emphasis> on DNA, typically consisting of around 40 base pairs located upstream (5′) of the transcription start site. Within the promoter are two hexameric <emphasis effect="italics">consensus sequences</emphasis>, one located 10 base pairs upstream of the start and the second located 35 base pairs upstream.</para>
+<para id="para-00003">Following formation of the polymerase–promoter complex, several turns of the DNA double helix untwist, forming a bubble and exposing 14 or so base pairs of the two strands. Appropriate ribonucleotides then line up by hydrogen-bonding to their complementary bases on DNA, bond formation occurs in the <m:math><m:mrow><m:mn>5</m:mn><m:mo>′</m:mo><m:mo>→</m:mo><m:mn>3</m:mn><m:mo>′</m:mo></m:mrow></m:math> direction, the RNA polymerase moves along the DNA chain, and the growing RNA molecule unwinds from DNA (<link>Figure 28_04_OChem-28-04-001_80485-28-05_DNASenStra</link>). At any one time, about 12 base pairs of the growing RNA remain hydrogen-bonded to the DNA template.</para>
+<figure id="fig-00001">
+<media alt="An illustration shows the synthesis of RNA from a DNA template. The 5 prime–3 prime strand of an unwound parental DNA duplex is labeled DNA sense strand and is shaded purple while the opposite strand is labeled DNA antisense strand is shaded blue. The duplex is represented by two horizontal strands with the individual bases represented by short vertical bars on their inner edges. Messenger RNA (mRNA) is synthesized using the DNA antisense strand; the bases on the template decide the corresponding bases on the mRNA represented by a horizontal strand shaded pink parallel to a stretch of the DNA antisense strand.">
+<image mime-type="image/jpeg" src="../../media/OChem_28_04_001.jpg"/>
+</media>
+<caption><emphasis effect="bold">Biosynthesis of RNA using a DNA segment as a template.</emphasis></caption>
+</figure>
+<para id="para-00004">Unlike what happens in DNA replication, where both strands are copied, only one of the two DNA strands is transcribed into mRNA. The DNA strand that contains the gene is often called the <term id="term-00007">sense strand</term>, or <emphasis effect="italics">coding strand,</emphasis> and the DNA strand that gets transcribed to give RNA is called the <term id="term-00008">antisense strand</term>, or <emphasis effect="italics">noncoding strand.</emphasis> Because the sense strand and the antisense strand in DNA are complementary, and because the DNA antisense strand and the newly formed RNA strand are also complementary, the RNA molecule produced during transcription is a copy of the DNA sense strand. That is, the complement of the complement is the same as the original. The only difference is that the RNA molecule has a U everywhere that the DNA sense strand has a T.</para>
+<para id="para-00005">Another part of the picture in vertebrates and flowering plants is that genes are often not continuous segments of the DNA chain. Instead, a gene will begin in one small section of DNA called an <emphasis effect="italics">exon,</emphasis> then be interrupted by a noncoding section called an <emphasis effect="italics">intron,</emphasis> and then take up again farther down the chain in another exon. The final mRNA molecule results only after the noncoded sections are cut out of the transcribed mRNA and the remaining pieces are joined together by spliceosome enzymes. The gene for triose phosphate isomerase in maize, for instance, contains eight noncoding introns accounting for approximately 70% of the DNA base pairs and nine coding exons accounting for only 30% of the base pairs.</para>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00006"><link class="os-embed" url="#exercise/28-04-OC-P04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00007"><link class="os-embed" url="#exercise/28-04-OC-P05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00008"><link class="os-embed" url="#exercise/28-04-OC-P06"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

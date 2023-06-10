@@ -1,0 +1,202 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Translation of RNA: Protein Biosynthesis</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Translation of RNA: Protein Biosynthesis</md:title>
+    <md:content-id>m00314</md:content-id>
+    <md:uuid>7be8ad72-9bc7-44b7-bf9c-4ff0d5107002</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">The primary cellular function of mRNA is to direct the biosynthesis of the thousands of diverse peptides and proteins required by an organism—as many as 150,000 in a human. The mechanics of protein biosynthesis take place on ribosomes, small granular particles in the cytoplasm of a cell that consist of about 60% ribosomal RNA and 40% protein.</para>
+<para id="para-00002">The specific ribonucleotide sequence in mRNA forms a message that determines the order in which amino acid residues are to be joined. Each “word,” or <term id="term-00001">codon</term>, along the mRNA chain consists of a sequence of three ribonucleotides that is specific for a given amino acid. For example, the series UUC on mRNA is a codon directing incorporation of the amino acid phenylalanine into the growing protein. Of the 4<sup>3</sup> = 64 possible triplets of the four bases in RNA, 61 code for specific amino acids and 3 code for chain termination. <link target-id="table-00001"/> shows the meaning of each codon.</para>
+<table summary="" id="table-00001">
+<title>Codon Assignments of Base Triplets</title>
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<thead>
+<row valign="top">
+<entry valign="middle" align="center"> </entry>
+<entry valign="middle" align="center"> </entry>
+<entry valign="middle" align="center" namest="c3" nameend="c6">Third base (3′ end)</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">First base (5′ end)</entry>
+<entry valign="middle" align="center">Second base</entry>
+<entry valign="middle" align="center">U</entry>
+<entry valign="middle" align="center">C</entry>
+<entry valign="middle" align="center">A</entry>
+<entry valign="middle" align="center">G</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left" morerows="3">U</entry>
+<entry valign="middle" align="center">U</entry>
+<entry valign="middle" align="center">Phe</entry>
+<entry valign="middle" align="center">Phe</entry>
+<entry valign="middle" align="center">Leu</entry>
+<entry valign="middle" align="center">Leu</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">C</entry>
+<entry valign="middle" align="center">Ser</entry>
+<entry valign="middle" align="center">Ser</entry>
+<entry valign="middle" align="center">Ser</entry>
+<entry valign="middle" align="center">Ser</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">A</entry>
+<entry valign="middle" align="center">Tyr</entry>
+<entry valign="middle" align="center">Tyr</entry>
+<entry valign="middle" align="center"><span class="magenta-text">Stop</span></entry>
+<entry valign="middle" align="center"><span class="magenta-text">Stop</span></entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">G</entry>
+<entry valign="middle" align="center">Cys</entry>
+<entry valign="middle" align="center">Cys</entry>
+<entry valign="middle" align="center"><span class="magenta-text">Stop</span></entry>
+<entry valign="middle" align="center">Trp</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="3">C</entry>
+<entry valign="middle" align="center">U</entry>
+<entry valign="middle" align="center">Leu</entry>
+<entry valign="middle" align="center">Leu</entry>
+<entry valign="middle" align="center">Leu</entry>
+<entry valign="middle" align="center">Leu</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">C</entry>
+<entry valign="middle" align="center">Pro</entry>
+<entry valign="middle" align="center">Pro</entry>
+<entry valign="middle" align="center">Pro</entry>
+<entry valign="middle" align="center">Pro</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">A</entry>
+<entry valign="middle" align="center">His</entry>
+<entry valign="middle" align="center">His</entry>
+<entry valign="middle" align="center">Gln</entry>
+<entry valign="middle" align="center">Gln</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">G</entry>
+<entry valign="middle" align="center">Arg</entry>
+<entry valign="middle" align="center">Arg</entry>
+<entry valign="middle" align="center">Arg</entry>
+<entry valign="middle" align="center">Arg</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="3">A</entry>
+<entry valign="middle" align="center">U</entry>
+<entry valign="middle" align="center">Ile</entry>
+<entry valign="middle" align="center">Ile</entry>
+<entry valign="middle" align="center">Ile</entry>
+<entry valign="middle" align="center">Met</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">C</entry>
+<entry valign="middle" align="center">Thr</entry>
+<entry valign="middle" align="center">Thr</entry>
+<entry valign="middle" align="center">Thr</entry>
+<entry valign="middle" align="center">Thr</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">A</entry>
+<entry valign="middle" align="center">Asn</entry>
+<entry valign="middle" align="center">Asn</entry>
+<entry valign="middle" align="center">Lys</entry>
+<entry valign="middle" align="center">Lys</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">G</entry>
+<entry valign="middle" align="center">Ser</entry>
+<entry valign="middle" align="center">Ser</entry>
+<entry valign="middle" align="center">Arg</entry>
+<entry valign="middle" align="center">Arg</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="3">G</entry>
+<entry valign="middle" align="center">U</entry>
+<entry valign="middle" align="center">Val</entry>
+<entry valign="middle" align="center">Val</entry>
+<entry valign="middle" align="center">Val</entry>
+<entry valign="middle" align="center">Val</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">C</entry>
+<entry valign="middle" align="center">Ala</entry>
+<entry valign="middle" align="center">Ala</entry>
+<entry valign="middle" align="center">Ala</entry>
+<entry valign="middle" align="center">Ala</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">A</entry>
+<entry valign="middle" align="center">Asp</entry>
+<entry valign="middle" align="center">Asp</entry>
+<entry valign="middle" align="center">Glu</entry>
+<entry valign="middle" align="center">Glu</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">G</entry>
+<entry valign="middle" align="center">Gly</entry>
+<entry valign="middle" align="center">Gly</entry>
+<entry valign="middle" align="center">Gly</entry>
+<entry valign="middle" align="center">Gly</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="para-00003">The message embedded in mRNA is read by transfer RNA (tRNA) in a process called <term id="term-00002">translation</term>. There are 61 different tRNAs, one for each of the 61 codons that specify an amino acid. A typical tRNA is single-stranded and has roughly the shape of a cloverleaf, as shown in <link>Figure 28_05_OChem-28-05-001_80485-28-06_Anticodon</link>. It consists of about 70 to 100 ribonucleotides and is bonded to a specific amino acid by an ester linkage through the 3′ hydroxyl on ribose at the 3′ end of the tRNA. Each tRNA also contains on its middle leaf a segment called an <term id="term-00003">anticodon</term>, a sequence of three ribonucleotides complementary to the codon sequence. For example, the codon sequence UUC present on mRNA is read by a phenylalanine-bearing tRNA having the complementary anticodon base sequence GAA. [Remember that nucleotide sequences are written in the 5′ → 3′ direction, so the sequence in an anticodon must be reversed. That is, the complement to (5′)-UUC-(3′) is (3′)-AAG-(5′), which is written as (5′)-GAA-(3′).]</para>
+<figure id="fig-00001">
+<media alt="An image shows two illustrations of a yeast transfer RNA (tRNA) that codes for phenylalanine. The first illustration shows the clover-leaf like secondary structure of tRNA which has three stem-loop structures. The acceptor stem has seven bases on the 5-prime and 3-prime strands of which six are paired. Bases are represented by blue spheres and bonds by dashed lines. The 3-prime end of this stem has four bases (A-C-C-A) more than the 5-prime strand on its left. These unpaired bases on the 3-prime strand and three more bases which are bonded to complementary bases on the 5-prime strand constitute the acceptor stem and are shaded lilac. Phenylalanine is linked to the last adenine on the acceptor stem. Phenylalanine shows an alpha carbon bonded to a carboxyl group an amino group a hydrogen atom and a benzyl side chain. Moving clockwise there is another loop which is followed by a small loop of about six bases that lead to the stem of the anticodon loop. The stem shows five sets of paired bases and seven unpaired bases that constitute the loop; the anticodon comprises three of those at the apex A-A-G shaded pink. The final arm which then leads back to the acceptor arm shows four paired bases in the stem and eight unpaired bases in the loop. The second illustration shows a space-filling model of the tRNA which looks like an inverted uppercase letter L. The spheres are representing hydrogen carbon oxygen nitrogen and phosphorus are shaded white gray red blue and orange.">
+<image mime-type="image/jpeg" src="../../media/OChem_28_05_001.jpg"/>
+</media>
+<caption><emphasis effect="bold">Structure of a tRNA molecule. The tRNA is a roughly cloverleaf-shaped molecule containing an anticodon triplet on one “leaf” and an amino acid unit attached covalently at its 3′ end.</emphasis> The example shown is a yeast tRNA that codes for phenylalanine. The nucleotides not specifically identified are chemically modified analogs of the four common nucleotides.</caption>
+</figure>
+<para id="para-00004">As each successive codon on mRNA is read, different tRNAs bring the correct amino acids into position for enzyme-mediated transfer to the growing peptide. When synthesis of the proper protein is completed, a “stop” codon signals the end, and the protein is released from the ribosome. This process is illustrated in <link>Figure 28_05_OChem-28-05-002_80485-28-07_BoundAARes</link>.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An illustration shows a simple representation of translation. An mRNA chain is represented by a black wavy horizontal line. The sequence highlighted in blue from the 5-prime end to the 3-prime end reads as follows: AUA-GAC-GGA-UAC-GCC. Three bases constitute a codon. The anticodons highlighted in pink on the tRNA complementary to the five codons from the 3-prime end to the 5-prime end are as follows: UAU-CUG-CCU-AUG-CGG. The growing peptide shows amino acids Isoleucine Aspartic acid Glycine Tyrosine and Alanine bound to the anticodons from the 3-prime end to the 5-prime end. Isoleucine shows a pink oxygen bonded to A of UAU. The oxygen is bonded to pink carbonyl group bonded to a 4-carbon chain at the bottom. C1 is a methine group bonded to amino group. C2 is a methine group bonded to methyl group. C3 is a methylene group. C4 is a methyl group. Aspartic acid shows a pink oxygen bonded to U of CUG. The oxygen is bonded to pink carbonyl group bonded to a 3-carbon chain at the bottom. C1 is a methine group bonded to amino group that shows two electrons. C2 is a methylene group. C3 is a methyl group. Glycine shows a pink oxygen bonded to C of CCU. The oxygen is bonded to pink carbonyl group bonded to a methine group bonded to amino group that shows two electrons. Tyrosine shows a pink oxygen bonded to U of AUG. The oxygen is bonded to pink carbonyl group bonded to a 2-carbon chain at the bottom. C1 is a methine group bonded to amino group that shows two electrons. C2 is a methylene group bonded to phenol. Alanine shows a pink oxygen bonded to G of CGG. The oxygen is bonded to pink carbonyl group bonded to a 2-carbon chain at the bottom. C1 is a methine group bonded to amino group that shows two electrons. C2 is a methyl group. An arrow points from the electrons on the nitrogen of the preceding amino acid to the carbonyl carbon of the succeeding amino acid. Another arrow points from the carbonyl double bond to the oxygen bonded to the anticodon.">
+<image mime-type="image/jpeg" src="../../media/OChem_28_05_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">A representation of protein biosynthesis. The codon base sequences on mRNA are read by tRNAs containing complementary anticodon base sequences.</emphasis> Transfer RNAs assemble the proper amino acids into position for incorporation into the growing peptide.</caption>
+</figure>
+<example id="exam-00001">
+<title>Predicting the Amino Acid Sequence Transcribed from DNA</title>
+<para id="para-00005">What amino acid sequence is coded by the following segment of a DNA coding strand (sense strand)?</para>
+<para id="para-00006"><emphasis class="centered-text">(5′) CTA-ACT-AGC-GGG-TCG-CCG (3′)</emphasis></para>
+<para id="para-00007"><title><span class="red-text">Strategy</span></title> The mRNA produced during translation is a copy of the DNA coding strand, with each T replaced by U. Thus, the mRNA has the sequence</para>
+<para id="para-00008"><emphasis class="centered-text">(5′) CUA-ACU-AGC-GGG-UCG-CCG (3′)</emphasis></para>
+<para id="para-00009">Each set of three bases forms a codon, whose meaning can be found in <link target-id="table-00001"/>.</para>
+<para id="para-00010"><title><span class="cyan-text">Solution</span></title> Leu-Thr-Ser-Gly-Ser-Pro.</para>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00011"><link class="os-embed" url="#exercise/28-05-OC-P07"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00012"><link class="os-embed" url="#exercise/28-05-OC-P08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00013"><link class="os-embed" url="#exercise/28-05-OC-P09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00014"><link class="os-embed" url="#exercise/28-05-OC-P10"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>

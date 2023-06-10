@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Base Pairing in DNA: The Watson–Crick Model</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Base Pairing in DNA: The Watson–Crick Model</md:title>
+    <md:content-id>m00311</md:content-id>
+    <md:uuid>d1bc9403-dd48-4af0-8117-0ffb0776e2a7</md:uuid>
+  </metadata>
+  <content>
+<para id="para-00001">Samples of DNA isolated from different tissues of the same species have the same proportions of heterocyclic bases, but samples from different species often have greatly differing proportions of bases. Human DNA, for example, contains about 30% each of adenine and thymine and about 20% each of guanine and cytosine. The bacterium <emphasis effect="italics">Clostridium perfringens,</emphasis> however, contains about 37% each of adenine and thymine and only 13% each of guanine and cytosine. Note that in both examples the bases occur in pairs. Adenine and thymine are present in equal amounts, as are cytosine and guanine. Why?</para>
+<para id="para-00002">In 1953, James Watson and Francis Crick made their classic proposal for the secondary structure of DNA. According to the Watson–Crick model, DNA under physiological conditions consists of two polynucleotide strands, running in opposite directions and coiled around each other in a <term id="term-00001">double helix</term> like the handrails on a spiral staircase. The two strands are complementary rather than identical and are held together by hydrogen bonds between specific pairs of bases, A with T and C with G. That is, whenever an A base occurs in one strand, a T base occurs opposite it in the other strand; when a C base occurs in one, a G occurs in the other (<link>Figure 28_02_OChem-28-02-001_80485-28-02_HydroBond</link>). This complementary base-pairing thus explains why A and T are always found in equal amounts, as are G and C.</para>
+<figure id="fig-00001">
+<media alt="An image shows two illustrations of hydrogen bonding in DNA base pairs. In the first illustration Thymine pairs with Adenine via two hydrogen bonds and Cytosine pairs with Guanine via three hydrogen bonds. Thymine a pyrimidine shows a six-membered ring with a methyl group at the fifth position and a keto oxygen at the second and fourth positions. Adenine a purine shows a pyrimidine ring fused with an imidazole ring and shows an amino group at the fourth carbon. The first hydrogen bond exists between the oxygen at the sixth carbon of the thymine and a hydrogen of the amino group at the fourth carbon of the adenine. The second hydrogen bond exists between the hydrogen linked to the nitrogen on the pyrimidine ring or N1 and the nitrogen or N3 on the Adenine. Cytosine a pyrimidine shows a six-membered ring with an amino group at fourth carbon and a keto group at the second carbon. Guanine a purine shows a pyrimidine ring fused with an imidazole ring fused with an amino group at the second position and a keto oxygen at the sixth position. The first hydrogen bond exists between the hydrogen linked to the amino group on the pyrimidine ring of cytosine and the oxygen of the keto group on guanine. The second hydrogen bond exists between the hydrogen linked to the nitrogen on the pyrimidine ring or N1 and the nitrogen or N3 on guanine is 0.30 nanometers. The third hydrogen bond exists between the oxygen of the keto group at the second carbon of cytosine and the hydrogen of the amino group at the second position of guanine. The second illustration shows the electrostatic potential maps of the base pairs where the faces of the base pairs are shaded green and the edges are shaded blue and red. Intermediate potentials are shaded orange and yellow. Nitrogen carbon hydrogen and oxygen atoms are represented by blue gray white and red spheres. Hydrogen bonds in the first illustration are represented by pink dotted lines and are represented by dashed pink lines in the second. The amino groups involved in bonding are highlighted in blue the keto oxygen atoms are highlighted in pink and the ring nitrogen on adenine and cytosine involved in bonding are highlighted in blue.">
+<image mime-type="image/jpeg" src="../../media/OChem_28_02_001.jpg"/>
+</media>
+<caption><emphasis effect="bold">Hydrogen-bonding between base pairs in the DNA double helix.</emphasis> Electrostatic potential maps show that the faces of the bases are relatively <emphasis effect="bold"><span class="green-text">neutral</span></emphasis>, while the edges have <emphasis effect="bold"><span class="cyan-text">positive</span></emphasis> and <emphasis effect="bold"><span class="magenta-text">negative</span></emphasis> regions. Pairing G with C and A with T brings together oppositely charged regions.</caption>
+</figure>
+<para id="para-00003">A full turn of a DNA double helix is shown in <link>Figure 28_02_OChem-28-02-002_80485-28-03_DNAHelix</link>. The helix is 20 Å wide, there are 10 base pairs per turn, and each turn is 34 Å in length. Notice in <link>Figure 28_02_OChem-28-02-002_80485-28-03_DNAHelix</link> that the two strands of the double helix coil in such a way that two kinds of “grooves” result, a <emphasis effect="italics">major groove</emphasis> 12 Å wide and a <emphasis effect="italics">minor groove</emphasis> 6 Å wide. The major groove is slightly deeper than the minor groove, and both are lined by flat heterocyclic bases. As a result, a variety of other polycyclic aromatic molecules are able to slip sideways, or <emphasis effect="italics">intercalate,</emphasis> between the stacked bases. Many cancer-causing and cancer-preventing agents function by interacting with DNA in this way.</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An image shows two illustrations of the DNA double helix with the sugar phosphate backbone on the outside and the hydrogen bonded bases inside. The first illustration is a space-filling model where gray spheres represent carbon white spheres represent hydrogen red spheres represent oxygen blue spheres represent nitrogen and mauve spheres represent phosphorus. The height of one complete helix turn measured parallel to the helical axis is 34 angstroms. The major groove where the backbones are far apart is 12 angstroms wide and the minor groove where the backbones are close together is 6 angstroms wide. The diameter of the DNA helix is 20 angstroms. The grooves lie along the length of the helix. The second illustration shows a wire-frame format of the DNA double helix with the same color codes.">
+<image mime-type="image/jpeg" src="../../media/OChem_28_02_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">A turn of the DNA double helix in both space-filling and wire-frame formats.</emphasis> The sugar–phosphate backbone runs along the outside of the helix, and the amine bases hydrogen bond to one another on the inside. Both major and minor grooves are visible.</caption>
+</figure>
+<para id="para-00004">An organism’s genetic information is stored as a sequence of deoxyribonucleotides strung together in the DNA chain. For the information to be preserved and passed on to future generations, a mechanism must exist for copying DNA. For the information to be used, a mechanism must exist for decoding the DNA message and implementing the instructions it contains.</para>
+<para id="para-00005">What Crick called the “central dogma of molecular genetics” says that the function of DNA is to store information and pass it on to RNA. The function of RNA, in turn, is to read, decode, and use the information received from DNA to make proteins. This view is greatly oversimplified but is nevertheless a good place to start. Three fundamental processes take place.</para>
+<list id="list-00001">
+<item><emphasis effect="bold"><span class="magenta-text">Replication</span></emphasis> is the process by which identical copies of DNA are made so that information can be preserved and handed down to offspring</item>
+<item><emphasis effect="bold"><span class="green-text">Transcription</span></emphasis> is the process by which genetic messages are read and carried out of the cell nucleus to ribosomes, where protein synthesis occurs</item>
+<item><emphasis effect="bold"><span class="cyan-text">Translation</span></emphasis> is the process by which the genetic messages are decoded and used to synthesize proteins<newline/>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows sequence of the central dogma of molecular genetics. The first step is the replication of DNA. The second step is the transcription of the DNA into RNA. The third step is the translation of the transcribed RNA to proteins.">
+<image mime-type="image/jpeg" src="../../media/OChem_28_02_003.jpg"/>
+</media>
+</figure></item>
+</list>
+<example id="exam-00001">
+<title>Predicting the Complementary Base Sequence in Double-Stranded DNA</title>
+<para id="para-00006">What sequence of bases on one strand of DNA is complementary to the sequence TATGCAT on another strand?</para>
+<para id="para-00007"><title><span class="red-text">Strategy</span></title> Remember that A and G form complementary pairs with T and C, respectively, and then go through the sequence replacing A by T, G by C, T by A, and C by G. Remember also that the 5′ end is on the left and the 3′ end is on the right in the original strand.</para>
+<para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
+<para id="para-00009">Original:        (5′) TATGCAT (3′)</para>
+<para id="para-00010">Complement:    (3′) ATACGTA (5′) or (5′) ATGCATA (3′)</para>
+</example>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00011"><link class="os-embed" url="#exercise/28-02-OC-P03"/></para>
+</problem>
+</exercise>
+</section>
+</content>
+</document>
