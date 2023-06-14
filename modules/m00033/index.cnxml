@@ -28,12 +28,14 @@
     <para id="para-00005">Compounds like the two C<sub>4</sub>H<sub>10</sub> molecules and the three C<sub>5</sub>H<sub>12</sub> molecules, which have the same formula but different structures, are called <term id="term-00007">Isomers</term>, from the Greek <emphasis effect="italics">isos</emphasis> + <emphasis effect="italics">meros,</emphasis> meaning “made of the same parts.” Isomers have the same numbers and kinds of atoms but differ in the way the atoms are arranged. Compounds like butane and isobutane, whose atoms are connected differently, are called <term id="term-00008">constitutional isomers</term>. We’ll see shortly that other kinds of isomers are also possible, even among compounds whose atoms are connected in the same order. As <link target-id="table-00001"/> shows, the number of possible alkane isomers increases dramatically with the number of carbon atoms.</para>
     <table id="table-00001" summary="Alt Text Placeholder">
     <title>Number of Alkane Isomers</title>
-    <tgroup cols="2">
+    <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <thead>
     <row valign="top">
     <entry valign="top" align="left">Formula</entry>
+    <entry valign="top" align="left">Number of isomers</entry>
+        <entry valign="top" align="left">Formula</entry>
     <entry valign="top" align="left">Number of isomers</entry>
     </row>
     </thead>
@@ -41,33 +43,25 @@
     <row valign="top">
     <entry valign="top" align="left">C<sub>6</sub>H<sub>14</sub></entry>
     <entry valign="top" align="left">5</entry>
+        <entry valign="top" align="left">C<sub>10</sub>H<sub>22</sub></entry>
+    <entry valign="top" align="left">75</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">C<sub>7</sub>H<sub>16</sub></entry>
     <entry valign="top" align="left">9</entry>
+        <entry valign="top" align="left">C<sub>15</sub>H<sub>32</sub></entry>
+    <entry valign="top" align="left">4347</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">C<sub>8</sub>H<sub>18</sub></entry>
     <entry valign="top" align="left">18</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C<sub>9</sub>H<sub>20</sub></entry>
-    <entry valign="top" align="left">35</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C<sub>10</sub>H<sub>22</sub></entry>
-    <entry valign="top" align="left">75</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C<sub>15</sub>H<sub>32</sub></entry>
-    <entry valign="top" align="left">4347</entry>
-    </row>
-    <row valign="top">
     <entry valign="top" align="left">C<sub>20</sub>H<sub>42</sub></entry>
     <entry valign="top" align="left">366,319</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left">C<sub>30</sub>H<sub>62</sub></entry>
+    <entry valign="top" align="left">C<sub>9</sub>H<sub>20</sub></entry>
+    <entry valign="top" align="left">35</entry>
+     <entry valign="top" align="left">C<sub>30</sub>H<sub>62</sub></entry>
     <entry valign="top" align="left">4,111,846,763</entry>
     </row>
     </tbody>
