@@ -104,12 +104,14 @@
     <para id="para-00018"><link target-id="table-00002"/> lists the LD<sub>50</sub> for some other familiar substances. The lower the value, the more toxic the substance. Note, though, that LD<sub>50</sub> values only pertain to the effects of heavy exposure for a relatively short time. They say nothing about the risks of long-term exposure, such as whether the substance can cause cancer or interfere with development in the unborn.</para>
     <table summary="" id="table-00002">
     <title>Some LD<sub>50</sub> Values</title>
-    <tgroup cols="2">
+    <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <thead>
     <row valign="top">
     <entry valign="top" align="left">Substance</entry>
+    <entry valign="top" align="left">LD<sub>50</sub> (g/kg)</entry>
+        <entry valign="top" align="left">Substance</entry>
     <entry valign="top" align="left">LD<sub>50</sub> (g/kg)</entry>
     </row>
     </thead>
@@ -117,33 +119,25 @@
     <row valign="top">
     <entry valign="top" align="left">Strychnine</entry>
     <entry valign="top" align="left">&#8199;0.005</entry>
+        <entry valign="top" align="left">Chloroform</entry>
+    <entry valign="top" align="left">&#8199;1.2</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Arsenic trioxide</entry>
     <entry valign="top" align="left">&#8199;0.015</entry>
+        <entry valign="top" align="left">Iron(II) sulfate</entry>
+    <entry valign="top" align="left">&#8199;1.5</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">DDT</entry>
     <entry valign="top" align="left">&#8199;0.115</entry>
+        <entry valign="top" align="left">Ethyl alcohol</entry>
+    <entry valign="top" align="left">10.6</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Aspirin</entry>
     <entry valign="top" align="left">&#8199;1.1</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Chloroform</entry>
-    <entry valign="top" align="left">&#8199;1.2</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Iron(II) sulfate</entry>
-    <entry valign="top" align="left">&#8199;1.5</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Ethyl alcohol</entry>
-    <entry valign="top" align="left">10.6</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Sodium cyclamate</entry>
+        <entry valign="top" align="left">Sodium cyclamate</entry>
     <entry valign="top" align="left">17</entry>
     </row>
     </tbody>
