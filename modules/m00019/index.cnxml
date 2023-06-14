@@ -55,10 +55,12 @@
 <para id="para-00005">Dipole moments for some common substances are given in <link target-id="table-00001"/>. Of the compounds shown in the table, sodium chloride has the largest dipole moment (9.00 D) because it is ionic. Even small molecules like water (<emphasis effect="italics">μ</emphasis> = 1.85 D), methanol (CH<sub>3</sub>OH; <emphasis effect="italics">μ</emphasis> = 1.70 D), and ammonia (<emphasis effect="italics">μ</emphasis> = 1.47 D), have substantial dipole moments, however, both because they contain strongly electronegative atoms (oxygen and nitrogen) and because all three molecules have lone-pair electrons. The lone-pair electrons on oxygen and nitrogen stick out into space away from the positively charged nuclei, giving rise to a considerable charge separation and making a large contribution to the dipole moment.</para>
 <table id="table-00001" summary="Dipole Moments of Some Compounds">
   <title>Dipole Moments of Some Compounds</title>
-  <tgroup cols="2">
+  <tgroup cols="4">
     <thead>
       <row>
         <entry>Compound</entry>
+        <entry>Dipole moment (D)</entry>
+                <entry>Compound</entry>
         <entry>Dipole moment (D)</entry>
       </row>
     </thead>
@@ -66,54 +68,43 @@
       <row>
         <entry>NaCl</entry>
         <entry>9.00</entry>
+                <entry>NH<sub>3</sub></entry>
+        <entry>1.47</entry>
       </row>
       <row>
         <entry>CH<sub>2</sub>O</entry>
         <entry>2.33</entry>
+                <entry>CH<sub>3</sub>NH<sub>2</sub></entry>
+        <entry>1.31</entry>
       </row>
       <row>
         <entry>CH<sub>3</sub>Cl</entry>
         <entry>1.87</entry>
+                <entry>CO<sub>2</sub></entry>
+        <entry>0</entry>
       </row>
       <row>
         <entry>H<sub>2</sub>O</entry>
         <entry>1.85</entry>
+                <entry>CH<sub>4</sub></entry>
+        <entry>0</entry>
       </row>
       <row>
         <entry>CH<sub>3</sub>OH</entry>
         <entry>1.70</entry>
+                <entry>CH<sub>3</sub>CH<sub>3</sub></entry>
+        <entry>0</entry>
       </row>
       <row>
         <entry>CH<sub>3</sub>CO<sub>2</sub>H</entry>
         <entry>1.70</entry>
+                <entry><media alt=" "><image mime-type="image/jpeg" src="../../media/OChem_02_02_001.jpg"/></media></entry>
+        <entry>0</entry>
       </row>
       <row>
         <entry>CH<sub>3</sub>SH</entry>
         <entry>1.52</entry>
-      </row>
-      <row>
-        <entry>NH<sub>3</sub></entry>
-        <entry>1.47</entry>
-      </row>
-      <row>
-        <entry>CH<sub>3</sub>NH<sub>2</sub></entry>
-        <entry>1.31</entry>
-      </row>
-      <row>
-        <entry>CO<sub>2</sub></entry>
-        <entry>0</entry>
-      </row>
-      <row>
-        <entry>CH<sub>4</sub></entry>
-        <entry>0</entry>
-      </row>
-      <row>
-        <entry>CH<sub>3</sub>CH<sub>3</sub></entry>
-        <entry>0</entry>
-      </row>
-      <row>
-        <entry><media alt=" "><image mime-type="image/jpeg" src="../../media/OChem_02_02_001.jpg"/></media></entry>
-        <entry>0</entry>
+        <entry/><entry/>
       </row>
     </tbody>
   </tgroup>
