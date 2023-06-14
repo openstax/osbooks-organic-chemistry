@@ -22,12 +22,14 @@
     <para id="para-00008">When optical rotations are expressed in this standard way, the specific rotation, [<emphasis effect="italics">α</emphasis>]<sub>D</sub>, is a physical constant characteristic of a given optically active compound. For example, (+)-lactic acid has [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;+3.82, and (−)-lactic acid has [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;−3.82. That is, the two enantiomers rotate plane-polarized light to exactly the same extent but in opposite directions. Note that the units of specific rotation are [(deg <emphasis effect="bold">·</emphasis> cm<sup>2</sup>)/g] but the values are usually expressed without units. Some additional examples are listed in <link target-id="table-00001"/>.</para>
     <table summary="" id="table-00001">
     <title>Specific Rotations of Some Organic Molecules</title>
-    <tgroup cols="2">
+    <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <thead>
     <row valign="top">
     <entry valign="top" align="left">Compound</entry>
+    <entry valign="top" align="left">[<emphasis effect="italics">α</emphasis>]<sub>D</sub></entry>
+        <entry valign="top" align="left">Compound</entry>
     <entry valign="top" align="left">[<emphasis effect="italics">α</emphasis>]<sub>D</sub></entry>
     </row>
     </thead>
@@ -35,32 +37,24 @@
     <row valign="top">
     <entry valign="top" align="left">Penicillin V</entry>
     <entry valign="top" align="left">+233</entry>   
+        <entry valign="top" align="left">Cholesterol</entry>
+    <entry valign="top" align="left">&#8199;−31.5</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Sucrose</entry>
     <entry valign="top" align="left">&#8199;+66.47</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Camphor</entry>
-    <entry valign="top" align="left">&#8199;+44.26</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Chloroform</entry>
-    <entry valign="top" align="left">&#8199;&#8199;&#8199;0</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Cholesterol</entry>
-    <entry valign="top" align="left">&#8199;−31.5</entry>
-    </row>
-    <row valign="top">
     <entry valign="top" align="left">Morphine</entry>
     <entry valign="top" align="left">−132</entry>
     </row>
     <row valign="top">
+    <entry valign="top" align="left">Camphor</entry>
+    <entry valign="top" align="left">&#8199;+44.26</entry>
     <entry valign="top" align="left">Cocaine</entry>
     <entry valign="top" align="left">&#8199;−16</entry>
     </row>
     <row valign="top">
+    <entry valign="top" align="left">Chloroform</entry>
+    <entry valign="top" align="left">&#8199;&#8199;&#8199;0</entry>
     <entry valign="top" align="left">Acetic acid</entry>
     <entry valign="top" align="left">&#8199;&#8199;&#8199;0</entry>
     </row>
