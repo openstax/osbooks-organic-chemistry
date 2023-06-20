@@ -5,6 +5,295 @@
     <md:content-id>m00318</md:content-id>
     <md:uuid>cc50acad-1df8-4380-8fed-dfa7130b3176</md:uuid>
   </metadata>
-  <content>
-  </content>
+<content>
+<para id="para-00001">We saw in <link document="m00232"/> and <link document="m00293"/> that a carboxyl group is deprotonated and exists as the carboxylate anion at a physiological pH of 7.3, while an amino group is protonated and exists as the ammonium cation. Thus, amino acids exist in aqueous solution primarily in the form of a dipolar ion, or <term id="term-00001">zwitterion</term> (from the German <emphasis effect="italics">zwitter,</emphasis> meaning “hybrid”).</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows reversible reaction of an alanine from “uncharged” form to a “zwitterion.” The uncharged structure shows a methyl group bonded to a carbon wedge bonded to a blue amino group and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to a hydroxyl group having pink oxygen and blue hydrogen. The electrostatic potential map of the uncharged alanine shows a ball-and-stick model with gray balls (carbons) white balls (hydrogens) and red balls (oxygen atoms); the aura is greenish near methyl group and reddish yellow near the nitrogen; the aura around the carbonyl oxygen is orange and yellowish; the aura around the hydroxyl group is purplish. The zwitterion form shows a methyl group bonded to carbon wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to a pink oxygen anion. The electrostatic potential map shows red aura around the carboxylate ion and the rest is shown in purple.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_01_001.jpg"/></media>
+</figure>
+<para id="para-00002">Amino acid zwitterions are internal salts and therefore have many of the physical properties associated with salts. They have large dipole moments, are relatively soluble in water but insoluble in hydrocarbons, and are crystalline with relatively high melting points. In addition, amino acids are <emphasis effect="italics">amphiprotic;</emphasis> they can react either as acids or as bases, depending on the circumstances. In aqueous acid solution, an amino acid zwitterion is a base that accepts a proton onto its –CO<sub>2</sub><sup>–</sup> group to yield a cation. In aqueous base solution, the zwitterion is an acid that loses a proton from its –NH<sub>3</sub><sup>+</sup> group to form an anion.</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="A two part illustration shows reversible chemical reactions. The first part labeled as “in acid solution” shows an amino acid reacting with pink hydronium ion to form cation and a pink water molecule. The amino acid shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion. The cation formed shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) the carbon of carbonyl group is bonded to a pink hydroxyl group. The second part labeled as “in base solution” shows an amino acid reacting with a blue hydroxyl anion to form an anion and a blue water molecule. The anion formed shows a carbon bonded to R on the left and wedge bonded to a blue amino group and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_01_002.jpg"/></media>
+</figure>
+<para id="para-00003">The structures, abbreviations (both three- and one-letter), and p<emphasis effect="italics">K</emphasis><sub>a</sub> values of the 20 amino acids commonly found in proteins are shown in <link target-id="table-00001"/>. All are <term id="term-00002"><emphasis effect="italics">α</emphasis>-amino acids</term>, meaning that the amino group in each is a substituent on the <emphasis effect="italics">α</emphasis> carbon—the one next to the carbonyl group. Nineteen of the twenty amino acids are primary amines, RNH<sub>2</sub>, and differ only in the nature of their <term id="term-00003">side chain</term>—the substituent attached to the <emphasis effect="italics">α</emphasis> carbon. Proline is a secondary amine whose nitrogen and <emphasis effect="italics">α</emphasis> carbon atoms are part of a five-membered pyrrolidine ring.</para>
+<table summary="An illustration shows a table containing 20 amino acids. The amino acids are classified into three types. The first type is “neutral amino acids” having 15 amino acids followed by acidic amino acids having two amino acids and third type is the basic amino acids having three types of acids. The details of amino acids are shown as follows: name abbreviations molecular weight structure pKa alpha-CO2H pKa alpha-NH3 cation pKa side chain and pI. Neutral amino acids: the first amino acid is Alanine; Ala A; 89; the structure shows a methyl group bonded to a carbon wedge bonded to a blue ammonium ion and dash bonded to a hydrogen; the carbon is bonded to a pink carbonyl group whose carbon is bonded to a pink oxygen anion; 2.34; 9.69; pKa side chain value is not shown; pI is 6.01. Second neutral amino acid is asparagine; Asn N; 132; the structure shows an amino group bonded to a carbonyl group whose carbon is bonded to a 3-carbon chain; C1 is bonded to a carbonyl group with oxygen at the bottom; C3 is wedge bonded to a blue ammonium ion and dash bonded to a hydrogen; C4 shows a pink hydroxyl group (pink oxygen) bonded to a pink oxygen anion; 2.02; 8.80; pKa side chain value is not shown; pI is 5.41. Third neutral amino acid is cysteine; Cys C; 121; the structure shows a pink SH group bonded to a 3-carbon chain; C2 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 shows a pink carbonyl group whose carbon is bonded to a pink oxygen anion; 1.96; 10.28; 8.18; 5.07. Fourth neutral amino acid is glutamine; Gln Q; 146; the structure shows an amino group bonded to a carbonyl group whose carbon is bonded to a 4-carbon chain having C3 wedge bonded to a blue ammonium ion and dash bonded to a hydrogen; C4 shows a pink carbonyl group whose carbon is bonded to a pink oxygen anion; 2.17; 9.13; pKa side chain value is not shown; pI is 5.65. Fifth neutral amino acid is Glycine; Gly G; 75; the structure shows a hydrogen bonded to a carbon wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; the carbon is bonded to a pink carbonyl group whose carbon is bonded to a pink oxygen anion; 2.34; 9.60; pKa side chain value is not shown; pI is 5.97. Sixth neutral amino acid is isoleucine; Ile I; 131; the structure shows a methyl group bonded to a 4-carbon chain wherein C2 is wedge bonded to hydrogen and dash bonded to a methyl group; C3 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen; C4 shows a pink carbonyl group bonded to a pink oxygen anion; 2.36; 9.60; pKa side chain value is not shown; pI is 6.02. Seventh neutral amino acid is Leucine; Leu L; 131; the structure shows a methyl group bonded to a 4-carbon chain wherein C1 is bonded to a methyl group at the bottom; C3 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen; C4 shows a pink carbonyl group bonded to a pink oxygen anion; 2.36; 9.60; pKa side chain value is not shown; pI is 5.98. Eighth neutral amino acid is Methionine; Met M; 149; the structure shows a methyl group bonded to sulfur bonded to a 4-carbon chain having C3 wedge bonded to blue ammonium ion and dash bonded to hydrogen; C4 shows a pink carbonyl group bonded to a pink oxygen anion; 2.28; 9.21; pKa side chain value is not shown; pI is 5.74. Ninth neutral amino acid is phenylalanine; Phe F; 165; the structure shows a benzene bonded to a 3-carbon chain having C2 wedge bonded to a blue ammonium ion and dash bonded to hydrogen; C3 shows a pink carbonyl group whose carbon is bonded to a pink oxygen anion; 1.83; 9.13; pKa side chain value is not shown; pI is 5.48. Tenth neutral amino acid is proline; Pro P; 115; the structure shows a cyclopentane having a blue nitrogen cation embedded on the right which is bonded to two blue hydrogens; the tip of the ring is dash bonded to a hydrogen and bonded to a carbonyl group (pink oxygen) whose carbon is bonded to an oxygen anion; 1.99; 10.60; pKa side chain value is not shown; pI is 6.30. Eleventh neutral amino acid is serine; Ser S; 105; the structure shows a hydroxyl group bonded to a 3-carbon chain having C2 wedge bonded to a blue ammonium ion and dash bonded to hydrogen; C3 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 2.21; 9.15; pKa side chain value is not shown; pI is 5.68. Twelfth neutral amino acid is Threonine; Thr T; 119; the structure shows a methyl group bonded to a 3-carbon chain having C1 wedge bonded to a hydroxyl group and dash bonded to hydrogen at the top; C2 wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 2.09; 9.10; pKa side chain value is not shown; pI is 5.60. Thirteenth neutral amino acid is Tryptophan; Trp W; 204; the structure shows a benzene fused to a cyclopentene having a nitrogen embedded in it which is bonded to a hydrogen; the cyclopentene is bonded to a 3-carbon chain having C2 wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 2.83; 9.39; pKa side chain value is not shown; pI is 5.89. Fourteenth neutral amino acid is tyrosine; Tyr Y; 181; the structure shows benzene fused to a pink hydroxyl group on the left; the benzene is bonded to a 3-carbon chain having C2 wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 2.20; 9.11; pKa side chain value is 10.07; pI is 5.66. Fifteenth neutral amino acid is Valine; Val V; 117; the structure shows a methyl group bonded to a 3-carbon chain having C1 bonded to a methyl group at the top; C2 wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 2.32; 9.62; pKa side chain value is not shown; pI is 5.96. The first acidic amino acid is Aspartic acid; Asp D; 133; the structure shows a pink oxygen anion bonded to a pink carbonyl group bonded to a 3-carbon chain; C2 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 1.88; 9.60; 3.65; 2.77. Second acidic amino acid is Glutamic acid; Glu E; 147; the structure shows a pink oxygen anion bonded to a pink carbonyl group bonded to a 4-carbon chain; C3 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C4 shows a pink carbonyl group whose carbon is bonded to an oxygen anion; 2.19; 9.67; 4.25; 3.22. The first basic amino acid is Arginine; Arg R; 174; the structure shows an amino group bonded to a carbon double bonded to a blue amine cation; the carbon is bonded to a nitrogen attached to hydrogen at the bottom; the nitrogen is bonded to a 5-carbon chain having C4 wedge bonded to a blue ammonium cation and dash bonded to hydrogen; C5 shows a pink carbonyl group bonded to a pink oxygen anion; 2.17; 9.04; 12.48; 10.76. The second basic amino acid is Histidine; His H; 155; the structure shows cyclopentadiene having blue nitrogen embedded at top left and another nitrogen embedded at the bottom right which is bonded to a hydrogen; the upper right position of ring is bonded to a 3-carbon chain having C2 wedge bonded to a blue ammonium cation and dash bonded to hydrogen; C3 shows a pink carbonyl group bonded to a pink oxygen anion; 1.82; 9.17; 6.00; 7.59. Third basic amino acid is Lysine; Lys K; 146; the structure shows a blue ammonium ion bonded to a 6-carbon chain having C5 wedge bonded to a blue ammonium cation and dash bonded to hydrogen; C6 shows a pink carbonyl group bonded to a pink oxygen anion; 2.18; 8.95; 10.53; 9.74." id="table-00001">
+<title>The 20 Common Amino Acids in Proteins</title>
+<tgroup cols="9">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<colspec colnum="9" colname="c9"/>
+<thead>
+<row valign="top">
+<entry valign="bottom" align="left">Name</entry>
+<entry valign="bottom" align="left" namest="c2" nameend="c3">Abbreviations</entry>
+<entry valign="bottom" align="left">MW</entry>
+<entry valign="bottom" align="left">Structure</entry>
+<entry valign="bottom" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub> <emphasis effect="italics">α</emphasis>-CO<sub>2</sub>H</entry>
+<entry valign="bottom" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub> <emphasis effect="italics">α</emphasis>-NH<sub>3</sub><sup>+</sup></entry>
+<entry valign="bottom" align="left">p<emphasis effect="italics">K</emphasis><sub>a</sub> side chain</entry>
+<entry valign="bottom" align="left">p<emphasis effect="italics">I</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c9"><emphasis effect="bold"><span class="green-text">Neutral Amino Acids</span></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Alanine</entry>
+<entry valign="top" align="left">Ala</entry>
+<entry valign="top" align="left">A</entry>
+<entry valign="top" align="left"> 89</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003a.jpg"/></media></entry>
+<entry valign="top" align="left">2.34</entry>
+<entry valign="top" align="left"> 9.69</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">6.01</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Asparagine</entry>
+<entry valign="top" align="left">Asn</entry>
+<entry valign="top" align="left">N</entry>
+<entry valign="top" align="left">132</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003b.jpg"/></media></entry>
+<entry valign="top" align="left">2.02</entry>
+<entry valign="top" align="left"> 8.80</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.41</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Cysteine</entry>
+<entry valign="top" align="left">Cys</entry>
+<entry valign="top" align="left">C</entry>
+<entry valign="top" align="left">121</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003c.jpg"/></media></entry>
+<entry valign="top" align="left">1.96</entry>
+<entry valign="top" align="left">10.28</entry>
+<entry valign="top" align="left">8.18</entry>
+<entry valign="top" align="left">5.07</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Glutamine</entry>
+<entry valign="top" align="left">Gln</entry>
+<entry valign="top" align="left">Q</entry>
+<entry valign="top" align="left">146</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003d.jpg"/></media></entry>
+<entry valign="top" align="left">2.17</entry>
+<entry valign="top" align="left"> 9.13</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.65</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Glycine</entry>
+<entry valign="top" align="left">Gly</entry>
+<entry valign="top" align="left">G</entry>
+<entry valign="top" align="left"> 75</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003e.jpg"/></media></entry>
+<entry valign="top" align="left">2.34</entry>
+<entry valign="top" align="left"> 9.60</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.97</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Isoleucine</entry>
+<entry valign="top" align="left">Ile</entry>
+<entry valign="top" align="left">I</entry>
+<entry valign="top" align="left">131</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003f.jpg"/></media></entry>
+<entry valign="top" align="left">2.36</entry>
+<entry valign="top" align="left"> 9.60</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">6.02</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Leucine</entry>
+<entry valign="top" align="left">Leu</entry>
+<entry valign="top" align="left">L</entry>
+<entry valign="top" align="left">131</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003g.jpg"/></media></entry>
+<entry valign="top" align="left">2.36</entry>
+<entry valign="top" align="left"> 9.60</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.98</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Methionine</entry>
+<entry valign="top" align="left">Met</entry>
+<entry valign="top" align="left">M</entry>
+<entry valign="top" align="left">149</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003h.jpg"/></media></entry>
+<entry valign="top" align="left">2.28</entry>
+<entry valign="top" align="left"> 9.21</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.74</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Phenylalanine</entry>
+<entry valign="top" align="left">Phe</entry>
+<entry valign="top" align="left">F</entry>
+<entry valign="top" align="left">165</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003i.jpg"/></media></entry>
+<entry valign="top" align="left">1.83</entry>
+<entry valign="top" align="left"> 9.13</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">5.48</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Proline</entry>
+<entry valign="top" align="left">Pro</entry>
+<entry valign="top" align="left">P</entry>
+<entry valign="top" align="left">115</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003j.jpg"/></media></entry>
+<entry valign="top" align="left">1.99</entry>
+<entry valign="top" align="left">10.60</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left">6.30</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Serine</entry>
+<entry valign="top" align="left">Ser</entry>
+<entry valign="top" align="left">S</entry>
+<entry valign="top" align="left">105</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003k.jpg"/></media></entry>
+<entry valign="top" align="left">2.21</entry>
+<entry valign="top" align="left"> 9.15</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left"> 5.68</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Threonine</entry>
+<entry valign="top" align="left">Thr</entry>
+<entry valign="top" align="left">T</entry>
+<entry valign="top" align="left">119</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003l.jpg"/></media></entry>
+<entry valign="top" align="left">2.09</entry>
+<entry valign="top" align="left"> 9.10</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left"> 5.60</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Tryptophan</entry>
+<entry valign="top" align="left">Trp</entry>
+<entry valign="top" align="left">W</entry>
+<entry valign="top" align="left">204</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003m.jpg"/></media></entry>
+<entry valign="top" align="left">2.83</entry>
+<entry valign="top" align="left"> 9.39</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left"> 5.89</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Tyrosine</entry>
+<entry valign="top" align="left">Tyr</entry>
+<entry valign="top" align="left">Y</entry>
+<entry valign="top" align="left">181</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003n.jpg"/></media></entry>
+<entry valign="top" align="left">2.20</entry>
+<entry valign="top" align="left"> 9.11</entry>
+<entry valign="top" align="left">10.07</entry>
+<entry valign="top" align="left"> 5.66</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Valine</entry>
+<entry valign="top" align="left">Val</entry>
+<entry valign="top" align="left">V</entry>
+<entry valign="top" align="left">117</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003o.jpg"/></media></entry>
+<entry valign="top" align="left">2.32</entry>
+<entry valign="top" align="left"> 9.62</entry>
+<entry valign="top" align="left">—</entry>
+<entry valign="top" align="left"> 5.96</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c9"><emphasis effect="bold"><span class="red-text">Acidic Amino Acids</span></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">  Aspartic acid</entry>
+<entry valign="top" align="left">Asp</entry>
+<entry valign="top" align="left">D</entry>
+<entry valign="top" align="left">133</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003p.jpg"/></media></entry>
+<entry valign="top" align="left">1.88</entry>
+<entry valign="top" align="left"> 9.60</entry>
+<entry valign="top" align="left"> 3.65</entry>
+<entry valign="top" align="left"> 2.77</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">  Glutamic acid</entry>
+<entry valign="top" align="left">Glu</entry>
+<entry valign="top" align="left">E</entry>
+<entry valign="top" align="left">147</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003q.jpg"/></media></entry>
+<entry valign="top" align="left">2.19</entry>
+<entry valign="top" align="left"> 9.67</entry>
+<entry valign="top" align="left"> 4.25</entry>
+<entry valign="top" align="left"> 3.22</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c9"><emphasis effect="bold"><span class="cyan-text">Basic Amino Acids</span></emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Arginine</entry>
+<entry valign="top" align="left">Arg</entry>
+<entry valign="top" align="left">R</entry>
+<entry valign="top" align="left">174</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003r.jpg"/></media></entry>
+<entry valign="top" align="left">2.17</entry>
+<entry valign="top" align="left"> 9.04</entry>
+<entry valign="top" align="left">12.48</entry>
+<entry valign="top" align="left">10.76</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Histidine</entry>
+<entry valign="top" align="left">His</entry>
+<entry valign="top" align="left">H</entry>
+<entry valign="top" align="left">155</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003s.jpg"/></media></entry>
+<entry valign="top" align="left">1.82</entry>
+<entry valign="top" align="left"> 9.17</entry>
+<entry valign="top" align="left"> 6.00</entry>
+<entry valign="top" align="left"> 7.59</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"> Lysine</entry>
+<entry valign="top" align="left">Lys</entry>
+<entry valign="top" align="left">K</entry>
+<entry valign="top" align="left">146</entry>
+<entry valign="top" align="left"><media alt="" display="inline"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003t.jpg"/></media></entry>
+<entry valign="top" align="left">2.18</entry>
+<entry valign="top" align="left"> 8.95</entry>
+<entry valign="top" align="left">10.53</entry>
+<entry valign="top" align="left"> 9.74</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure class="unnumbered scaled-down-30" id="fig-00003">
+<media alt="A two part illustration shows reversible chemical reactions. The first part labeled as “in acid solution” shows an amino acid reacting with pink hydronium ion to form cation and a pink water molecule. The amino acid shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion. The cation formed shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) the carbon of carbonyl group is bonded to a pink hydroxyl group. The second part labeled as “in base solution” shows an amino acid reacting with a blue hydroxyl anion to form an anion and a blue water molecule. The anion formed shows a carbon bonded to R on the left and wedge bonded to a blue amino group and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_01_004.jpg"/></media>
+</figure>
+<para id="para-00004">In addition to the 20 amino acids commonly found in proteins, 2 others—selenocysteine and pyrrolysine—are found in some organisms, and more than 700 nonprotein amino acids are also found in nature. <emphasis effect="italics">γ</emphasis>-Aminobutyric acid (GABA), for instance, is found in the brain and acts as a neurotransmitter; homocysteine is found in blood and is linked to coronary heart disease; and thyroxine is found in the thyroid gland, where it acts as a hormone.</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="A five part illustration shows structures of 5 amino acids. The first structure is of selenocysteine with a 3-carbon chain. C1 is a pink carboxylate ion. C2 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 is bonded to a green HSe. The second structure is of pyrrolysine having a cyclopentene with a blue embedded nitrogen cation attached to a hydrogen; the basal position at the top is wedge bonded to a methyl group and dash bonded to a hydrogen; the basal position at the base is wedge bonded to hydrogen and dash bonded to a carbonyl group bonded to a nitrogen attached to hydrogen; the nitrogen is bonded to a 6-carbon chain wherein C5 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C6 is a pink carboxylate ion. The third structure is of gamma-aminobutyric acid that shows a blue ammonium ion bonded to a 4-carbon chain wherein C4 is a pink carboxylate ion. The fourth structure is of homocysteine with a 4-carbon chain. C1 is a pink carboxylate ion. C2 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C4 is bonded to a green HS. The fifth structure is of thyroxine. It shows benzene bonded to two iodine at alternate positions on the left of ring; in between the iodine is bonded a hydroxyl group; the upper right position of ring is bonded to an oxygen bonded to another benzene bonded to two iodine at alternate positions including the tip and lower left position; the bottom right position is bonded to a carbon wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; the carbon is further bonded to a pink carboxylate ion.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_01_005.jpg"/></media>
+</figure>
+<para id="para-00005">Except for glycine, H<sub>2</sub>NCH<sub>2</sub>CO<sub>2</sub>H, the <emphasis effect="italics">α</emphasis> carbons of amino acids are chirality centers. Two enantiomers of each are therefore possible, but nature uses only one to build proteins. In Fischer projections, naturally occurring amino acids are represented by placing the –CO<sub>2</sub><sup>–</sup> group at the top and pointing the side chain downwards, as if drawing a carbohydrate (<link document="m00290"/>) and then placing the –NH<sub>3</sub><sup>+</sup> group on the left. Because of their stereochemical similarity to <emphasis effect="smallcaps">L</emphasis> sugars (<link document="m00291"/>), the naturally occurring <emphasis effect="italics">α</emphasis>-amino acids are often referred to as <emphasis effect="smallcaps">L</emphasis> amino acids. The nonnaturally occurring enantiomers are called <emphasis effect="smallcaps">D</emphasis> amino acids.</para>
+<figure class="unnumbered scaled-down" id="fig-00005">
+<media alt="A four part illustration shows four structures. The first structure L-Serine (S)-Serine shows a carbon dash bonded to HOCH2 and wedge bonded to a blue ammonium ion; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right. The second structure L-Cysteine (R)-Cysteine shows a carbon dash bonded to HSCH2 and wedge bonded to a blue ammonium ion; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right. The third structure L-Alanine (S)-Alanine shows a carbon dash bonded to a methyl group and wedge bonded to a blue ammonium ion; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right. The fourth structure D-Alanine (R)-Alanine shows a carbon dash bonded to a blue ammonium ion and wedge bonded to a methyl group; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_01_006.jpg"/></media>
+</figure>
+<para id="para-00006">The 20 common amino acids can be further classified as neutral, acidic, or basic, depending on the structure of their side chains. Fifteen of the twenty have neutral side chains, two (aspartic acid and glutamic acid) have an extra carboxylic acid function in their side chains, and three (lysine, arginine, and histidine) have basic amino groups in their side chains. Note that both cysteine (a thiol) and tyrosine (a phenol), although usually classified as neutral amino acids, nevertheless have weakly acidic side chains that can be deprotonated in a sufficiently basic solution.</para>
+<para id="para-00007">At the physiological pH of 7.3, the side-chain carboxyl groups of aspartic acid and glutamic acid are deprotonated and the basic side-chain nitrogens of lysine and arginine are protonated. Histidine, however, which contains a heterocyclic imidazole ring in its side chain, is not quite basic enough to be protonated at pH 7.3. Note that only the pyridine-like, doubly bonded nitrogen in histidine is basic. The pyrrole-like singly bonded nitrogen is nonbasic because its lone pair of electrons is part of the six-<emphasis effect="italics">π</emphasis>-electron aromatic imidazole ring (<link document="m00297"/>).</para>
+<figure class="unnumbered scaled-down" id="fig-00006">
+<media alt="An illustration shows the structure and electrostatic potential map of histidine. The structure of histidine shows a cyclopentadiene labeled as “imidazole ring” having a pink nitrogen with two electrons labeled as “basic; pyridine-like” embedded at the upper left position a blue nitrogen with two electrons labeled as “nonbasic; pyrrole-like” is embedded at the base of the ring and is bonded to a hydrogen; the tip of ring is bonded to a methylene group bonded to a methine group bonded to an ammonium ion at the bottom and a carboxylate ion on the right. The electrostatic potential map shows a ball-and-stick model with gray balls (carbons) white balls (hydrogens) blue balls (nitrogen atoms) and red balls (oxygen atoms). The basic and nonbasic nitrogens are labeled. The aura near the basic nitrogen is pinkish yellow the aura around the rest of the cyclopentane is greenish blue; the aura around the methylene group is bluish to purple; the aura around the oxygens is red.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_01_007.jpg"/></media>
+</figure>
+<para id="para-00008">Humans are able to biosynthesize only 11 of the 20 protein amino acids, called nonessential amino acids. The other 9, called essential amino acids, are biosynthesized only in plants and microorganisms and must be obtained in our diet. The division between essential and nonessential amino acids is not clear-cut, however. Tyrosine, for instance, is sometimes considered nonessential because humans can produce it from phenylalanine, but phenylalanine itself is essential and must be obtained in the diet. Arginine can be synthesized by humans, but much of the arginine we need also comes from our diet.</para>
+</content>
 </document>
