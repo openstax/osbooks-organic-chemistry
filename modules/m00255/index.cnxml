@@ -576,14 +576,14 @@
 </figure>
 </section>
 <section id="sect-00015">
-<title>FORMATION OF <m:math><m:mrow><m:mtext mathvariant="bold">C═Nu</m:mtext></m:mrow></m:math></title>
-<para id="para-00082">The second mode of nucleophilic addition, which often occurs with amine nucleophiles, involves elimination of oxygen and formation of a <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>N</m:mtext><m:mtext>u</m:mtext></m:mrow></m:math> double bond. For example, aldehydes and ketones react with primary amines, RNH<sub>2</sub>, to form <emphasis effect="italics">imines,</emphasis> <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C═NR</m:mtext><m:mo>′</m:mo></m:mrow></m:math>. These reactions use the same kind of tetrahedral intermediate as that formed during hydride reduction and Grignard reaction, but the initially formed alkoxide ion is not isolated. Instead, it is protonated and then loses water to form an imine, as shown in <link target-id="fig-00029"/>.</para>
+<title>FORMATION OF <m:math><m:mrow><m:mtext mathvariant="bold">C=Nu</m:mtext></m:mrow></m:math></title>
+<para id="para-00082">The second mode of nucleophilic addition, which often occurs with amine nucleophiles, involves elimination of oxygen and formation of a <m:math><m:mrow><m:mtext>C=N</m:mtext><m:mtext>u</m:mtext></m:mrow></m:math> double bond. For example, aldehydes and ketones react with primary amines, RNH<sub>2</sub>, to form <emphasis effect="italics">imines,</emphasis> <m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C=NR</m:mtext><m:mo>′</m:mo></m:mrow></m:math>. These reactions use the same kind of tetrahedral intermediate as that formed during hydride reduction and Grignard reaction, but the initially formed alkoxide ion is not isolated. Instead, it is protonated and then loses water to form an imine, as shown in <link target-id="fig-00029"/>.</para>
 <figure class="mechanism-figure scaled-down" id="fig-00029">
 <title>MECHANISM</title>
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_18_PCC_009.jpg"/>
 </media>
-<caption><emphasis effect="bold">Formation of an imine, R<sub>2</sub>C═NR′, by reaction of an amine with an aldehyde or a ketone</emphasis>.</caption>
+<caption><emphasis effect="bold">Formation of an imine, R<sub>2</sub>C=NR′, by reaction of an amine with an aldehyde or a ketone</emphasis>.</caption>
 </figure>
 </section>
 </section>
@@ -647,7 +647,7 @@
 <section id="sect-00019">
 <title>IV Summary</title>
 <para id="para-00091">To a great extent, the chemistry of living organisms is the chemistry of carbonyl compounds. We have not looked at the details of specific carbonyl reactions in this short preview but rather have laid the groundwork for the next five chapters. All the carbonyl-group reactions we’ll be studying in Chapters 19 through 23 fall into one of the four fundamental categories discussed in this preview. Knowing where we’ll be heading should help you keep matters straight in understanding this most important of all functional groups.</para>
-</section>
+</section></section>
 <section class="section-exercises" id="sect-00020">
   <title>Problems</title>
   <exercise id="exer-00052">
@@ -666,7 +666,7 @@
   </problem>
   </exercise>
   </section>
-</section>
+
 
 </content>
 </document>
