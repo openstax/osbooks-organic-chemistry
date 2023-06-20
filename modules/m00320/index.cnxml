@@ -6,5 +6,65 @@
     <md:uuid>27e03259-c891-4818-92cb-4969f67a8ef0</md:uuid>
   </metadata>
   <content>
-  </content>
+<para id="para-00001"><emphasis effect="italics">α</emphasis>-Amino acids can be synthesized in the laboratory using some of the reactions discussed in previous chapters. One of the oldest methods of <emphasis effect="italics">α</emphasis>-amino acid synthesis begins with <emphasis effect="italics">α</emphasis> bromination of a carboxylic acid by treatment with Br<sub>2</sub> and PBr<sub>3</sub> (the Hell–Volhard–Zelinskii reaction; <link document="m00260"/>). S<sub>N</sub>2 substitution of the <emphasis effect="italics">α</emphasis>-bromo acid with ammonia then yields an <emphasis effect="italics">α</emphasis>-amino acid.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a reaction wherein 4-methylpentanoic acid reacts with green Br2 green PBr3 and pink water molecule to form 2-Bromo-4-methylpentanoic acid that further reacts with blue ammonia “excess” to form (R S)-Leucine (45%). The structure of 4-methylpentanoic acid shows a methyl group bonded to a methine group bonded to another methyl at the top the methine group is further bonded to two methylene groups bonded to a carbonyl group (pink oxygen) whose carbon is bonded to a pink hydroxyl group. 2-Bromo-4-methylpentanoic acid shows a methyl group bonded to a methine group bonded to another methyl at the top the methine group is bonded to a methylene group bonded to a methine group bonded to a green bromine at the bottom the methine is bonded to a carbonyl group (pink oxygen) whose carbon is bonded to a pink hydroxyl group. (R S)-Leucine (45%) shows a methyl group bonded to a methine group bonded to another methyl at the top the methine group is bonded to a methylene group bonded to a methine group bonded to a blue ammonium ion at the bottom the methine is bonded to a carbonyl group (pink oxygen) whose carbon is bonded to a pink oxygen anion.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_03_001.jpg"/></media>
+</figure>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00002"><link class="os-embed" url="#exercise/26-03-OC-P05"/></para>
+</problem>
+</exercise>
+</section>
+<section id="sect-00002">
+<title>The Amidomalonate Synthesis</title>
+<para id="para-00003">A more general method for preparation of <emphasis effect="italics">α</emphasis>-amino acids is the <emphasis effect="italics">amidomalonate synthesis,</emphasis> a straightforward extension of the malonic ester synthesis (<link document="m00263"/>). The reaction begins with the conversion of diethyl acetamidomalonate into an enolate ion by treatment with base, followed by S<sub>N</sub>2 alkylation with a primary alkyl halide. Hydrolysis of both the amide protecting group and the esters occurs when the alkylated product is warmed with aqueous acid, and decarboxylation then takes place to yield an <emphasis effect="italics">α</emphasis>-amino acid. For example, aspartic acid can be prepared from ethyl bromoacetate, BrCH<sub>2</sub>CO<sub>2</sub>Et:</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a reaction wherein diethyl acetamidomalonate reacts with sodium ethoxide and green BrCH2CO2Et to form an intermediate compound that reacts with a hydronium ion and heat to form (R S)-Aspartic acid (55%). Diethyl acetamidomalonate shows a blue hydrogen bonded to a blue nitrogen bonded to a carbon at the top which is bonded to a hydrogen on the left and two pink ethyl acetate groups on the right and top; the blue nitrogen is further bonded to a carbonyl group bonded to a methyl group. The intermediate compound shows a blue hydrogen bonded to a blue nitrogen bonded to a carbon at the top which is bonded to a green methylene group bonded to a green ethyl acetate group on the left and two pink ethyl acetate groups on the right and top; the blue nitrogen is further bonded to a carbonyl group bonded to a methyl group. (R S)-Aspartic acid shows a green carboxylate ion bonded to a green methylene group bonded to a methine group bonded to a blue ammonium ion at the bottom and a pink carboxylate ion on the right.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_03_002.jpg"/></media>
+</figure>
+</section>
+<section class="section-exercises" id="sect-00003">
+<title>Problems</title>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00004"><link class="os-embed" url="#exercise/26-03-OC-P06"/></para>
+</problem>
+</exercise>
+</section>
+<section id="sect-00004">
+<title>Reductive Amination of <emphasis effect="italics">α</emphasis>-Keto Acids</title>
+<para id="para-00005">Yet another method for the synthesis of <emphasis effect="italics">α</emphasis>-amino acids is by reductive amination of an <emphasis effect="italics">α</emphasis>-keto acid with ammonia and a reducing agent. Alanine, for instance, is prepared by treatment of pyruvic acid with ammonia in the presence of NaBH<sub>4</sub>. As described in <link document="m00294"/>, the reaction proceeds through formation of an intermediate imine which is then reduced.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows a reaction wherein a pyruvic acid reacts with blue ammonia and NaBH4 to form an imine intermediate (shown in a parenthesis) that further yields (R S)-Alanine. The structure of pyruvic acid shows a methyl group bonded to a carbonyl group (pink oxygen) whose carbon is bonded to a pink bicarbonate group. The imine intermediate shows a methyl group bonded to a carbon double bonded to a blue NH group at the top the carbon is bonded to a pink bicarbonate group. (R S)-Alanine shows a methyl group bonded to a carbon bonded to a hydrogen and blue ammonium ion at the top the carbon is bonded to a pink carboxylate ion.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_03_003.jpg"/></media>
+</figure>
+</section>
+<section id="sect-00005">
+<title>Enantioselective Synthesis</title>
+<para id="para-00006">The synthesis of an <emphasis effect="italics">α</emphasis>-amino acid from an achiral precursor by any of the methods just described yields a racemic mixture, with equal amounts of <emphasis effect="italics">S</emphasis> and <emphasis effect="italics">R</emphasis> enantiomers. To use an amino acid in the laboratory synthesis of a naturally occurring protein, however, the pure <emphasis effect="italics">S</emphasis> enantiomer must be obtained.</para>
+<para id="para-00007">Two methods are used in practice to obtain enantiomerically pure amino acids. One way requires resolving the racemic mixture into its pure enantiomers (<link document="m00057"/>). A more direct approach, however, is to use an enantioselective synthesis to prepare only the desired <emphasis effect="italics">S</emphasis> enantiomer directly. As discussed in the <link document="m00225" target-id="sect-00006">Chapter 19 <emphasis effect="italics">Chemistry Matters</emphasis></link>, the idea behind enantioselective synthesis is to find a chiral reaction catalyst that will temporarily hold a substrate molecule in an unsymmetrical, chiral environment. While in that chiral environment, the substrate may be more open to reaction on one side than on another, leading to an excess of one enantiomeric product.</para>
+<para id="para-00008">William Knowles at the Monsanto Company discovered in 1968 that <emphasis effect="italics">α</emphasis>-amino acids can be prepared enantioselectively by hydrogenation of a <emphasis effect="italics">Z</emphasis> enamido acid with a chiral hydrogenation catalyst. (<emphasis effect="italics">S</emphasis>)-Phenylalanine, for instance, is prepared at 98.7% purity, contaminated by only 1.3% of the (<emphasis effect="italics">R</emphasis>) enantiomer, when using a chiral rhodium catalyst. For this discovery, Knowles shared the 2001 Nobel Prize in Chemistry.</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="An illustration shows a reaction wherein A (Z) enamido acid reacts with green hydrogen a chiral rhodium catalyst sodium hydroxide and water to form (S)-Phenylalanine. The structure of A (Z) enamido acid shows a benzene bonded to a carbon bonded to a hydrogen on top the carbon is pink double bonded to another carbon bonded to a pink bicarbonate group at the top and a blue nitrogen monohydride group bonded to an acetyl group. The rhodium catalyst shows [Rh(DiPAMP)(COD)] plus BF4 minus. (S)-Phenylalanine shows a benzene bonded to a 2-carbon chain having C2 bonded to a pink carboxylate ion dash bonded to a green hydrogen and wedge bonded to a blue ammonium ion.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_03_004.jpg"/></media>
+</figure>
+<para id="para-00009">The most effective catalysts for enantioselective amino acid synthesis are coordination complexes of rhodium(I) with 1,5-cyclooctadiene (COD) and a chiral diphosphine such as (<emphasis effect="italics">R</emphasis>,<emphasis effect="italics">R</emphasis>)-1,2-bis(<emphasis effect="italics">o</emphasis>-anisylphenylphosphino)ethane, the so-called DiPAMP ligand. This complex owes its chirality to the presence of trisubstituted phosphorus atoms (<link document="m00059"/>).</para>
+<figure class="unnumbered scaled-down-30" id="fig-00005">
+<media alt="An illustration shows the structure of Rhodium coordination complex [Rh(R R-DiPAMP) (COD)] plus BF4 minus. It shows a cyclopentane with two phosphorous atoms embedded at alternate positions; each phosphorous is wedge bonded to a phenyl group and dash bonded to an aniso group; the tip of cyclopentane shows a rhodium cation that is dash bonded to chair conformation of two cyclopentane rings. BF4 anion is shown beside the structure; next to BF4 is shown the structure of An in parenthesis that shows a benzene having an open bond intersected by a pink spiral line and the adjacent position is bonded to a methoxide group.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_03_005.jpg"/></media>
+</figure>
+</section>
+<section class="section-exercises" id="sect-00006">
+<title>Problems</title>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00010"><link class="os-embed" url="#exercise/26-03-OC-P07"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
