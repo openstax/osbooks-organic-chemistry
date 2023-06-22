@@ -6,12 +6,12 @@
     <md:uuid>fbebf2f0-34be-466d-85c5-7c25d759bbc7</md:uuid>
   </metadata>
   <content>
-  <para>As we saw in the previous section, enzymes work by bringing substrate and other reactant molecules together, holding them in the orientation necessary for reaction, providing any necessary acidic or basic sites to catalyze specific steps, and stabilizing the transition state for reaction. As an example, let&#8217;s look at citrate synthase, an enzyme that catalyzes the aldol-like addition of acetyl CoA to oxaloacetate to give citrate. This reaction is the first step in the citric acid cycle, in which acetyl groups produced by degradation of food molecules are metabolized to yield CO<sub>2</sub> and H<sub>2</sub>O. We&#8217;ll look at the details of the citric acid cycle in <emphasis effect="bold">Section 29.7</emphasis>.</para>
-<figure class="unnumbered scaled-down">
+  <para id="para-00001">As we saw in the previous section, enzymes work by bringing substrate and other reactant molecules together, holding them in the orientation necessary for reaction, providing any necessary acidic or basic sites to catalyze specific steps, and stabilizing the transition state for reaction. As an example, let’s look at citrate synthase, an enzyme that catalyzes the aldol-like addition of acetyl CoA to oxaloacetate to give citrate. This reaction is the first step in the citric acid cycle, in which acetyl groups produced by degradation of food molecules are metabolized to yield CO<sub>2</sub> and H<sub>2</sub>O. We’ll look at the details of the citric acid cycle in <emphasis effect="bold">Section 29.7</emphasis>.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
 <media alt="An illustration shows a reaction between oxaloacetate and acetyl CoA in the presence of citrate synthase to form citrate and green HSCoA. The structure of oxaloacetate shows a centrally placed carbonyl group (pink oxygen) bonded to a methylene group bonded to a carboxylate ion on the left; on the right the carbon is bonded to an carboxylate ion. Acetyl CoA (green) shows a centrally placed carbonyl group bonded to a methyl group on the left and to SCoA on the right. Citrate shows a carbon bonded to a pink hydroxyl group and to a methylene group bonded to a green carboxylate ion on the top; on the left the carbon is bonded to a methylene group bonded to a carboxylate ion; on the right the carbon is bonded to a carboxylate ion.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_11_001.jpg"/></media>
 </figure>
-<para>Citrate synthase is a globular protein of 433 amino acids with a deep cleft lined by an array of functional groups that can bind to the substrate, oxaloacetate. On binding oxaloacetate, the original cleft closes and another opens up nearby to bind acetyl CoA. This second cleft is also lined by appropriate functional groups, including a histidine at position 274 and an aspartic acid at position 375. The two reactants are now held by the enzyme in close proximity and with a suitable orientation for reaction. <link>Figure 26_11_OChem-26-11-003_80485-26-09_CrystalStr</link> shows the structure of citrate synthase as determined by X-ray crystallography, along with a close-up of the active site.</para>
+<para id="para-00002">Citrate synthase is a globular protein of 433 amino acids with a deep cleft lined by an array of functional groups that can bind to the substrate, oxaloacetate. On binding oxaloacetate, the original cleft closes and another opens up nearby to bind acetyl CoA. This second cleft is also lined by appropriate functional groups, including a histidine at position 274 and an aspartic acid at position 375. The two reactants are now held by the enzyme in close proximity and with a suitable orientation for reaction. <link>Figure 26_11_OChem-26-11-003_80485-26-09_CrystalStr</link> shows the structure of citrate synthase as determined by X-ray crystallography, along with a close-up of the active site.</para>
 <table summary="" id="table-00001">
 <title>Structures and Functions of Some Common Coenzymes</title>
 <tgroup cols="1">
@@ -26,5 +26,346 @@
 </tbody>
 </tgroup>
 </table>
-  </content>
+
+<figure class="scaled-down" id="fig-00002">
+<media alt="A three part illustration shows X-ray crystal structure of citrate synthase. The first part shows space-filling model having tightly packed numerous balls in the hues of gray red and blue. The second part shows a ribbon model having bluish and purplish ribbons entwined with each other. The third part shows loosely bound scattered tubular structures in gray with red edges; while some part comprises of open chains others comprise of rings having blue tubes embedded in the grey structures. The structures are labeled ‘Histidine 320’ ‘Oxaloacetate’ ‘Aspartate 375’ ‘Histidine 274’ and ‘Acetyl CoA mimic.’">
+<image mime-type="image/jpeg" src="../../media/OChem_26_11_003.jpg"/></media>
+<caption><emphasis effect="bold">X-ray crystal structure of citrate synthase</emphasis>. Part <emphasis effect="bold">(a)</emphasis> is a space-filling model and part <emphasis effect="bold">(b)</emphasis> is a ribbon model, which emphasizes the <emphasis effect="italics">α</emphasis>-helical segments of the protein chain and indicates that the enzyme is dimeric; that is, it consists of two identical chains held together by hydrogen bonds and other intermolecular attractions. Part <emphasis effect="bold">(c)</emphasis> is a close-up of the active site in which oxaloacetate and an unreactive acetyl CoA mimic are bound.</caption>
+</figure>
+<para id="para-00003">As shown in <link>Figure 26_11_OChem-26-11-004_80485-26-10_M-MechThre</link>, the first step in the aldol reaction of acetyl CoA and oxaloacetate is generation of the enol of acetyl CoA. The side-chain carboxyl of an aspartate residue acts as base to abstract an acidic <emphasis effect="italics">α</emphasis> proton, while at the same time the side-chain imidazole ring of a histidine donates H<sup>+</sup> to the carbonyl oxygen. The enol thus produced then performs a nucleophilic addition to the ketone carbonyl group of oxaloacetate. The first histidine acts as a base to remove the –OH hydrogen from the enol, while a second histidine residue simultaneously donates a proton to the oxaloacetate carbonyl group, giving citryl CoA. Water then hydrolyzes the thiol ester group in citryl CoA in a nucleophilic acyl substitution reaction, releasing citrate and coenzyme A as the final products.</para>
+<figure class="mechanism-figure" id="fig-00003">
+<title>MECHANISM</title>
+<media alt="An illustration shows three part mechanism leading to formation of (S)-citryl CoA. Step “1” reads: the side-chain carboxylate group of an aspartic acid acts as a base and removes an acidic alpha proton from acetyl CoA while the N-H group on the side chain of a histidine acts as an acid and donates a proton to the carbonyl oxygen giving an enol. The acetyl CoA shows a green carbon bonded to three hydrogens; the carbon is bonded to the carbon of carbonyl group whose carbon is bonded to SCoA; an arrow points from bond between C-H to the bond between carbon and carbon of carbonyl group. The carboxylate group is shown as an encircled “enzyme” bonded to a blue carbon of carbonyl group the bond is intersected by a pink spiral line; the carbon of carbonyl is bonded to a blue oxygen anion having three pairs of electrons; an arrow points from the oxygen electrons to the hydrogen of acetyl CoA. The structure of histidine (blue) shows a cyclopentadiene having nitrogens embedded at alternate positions the nitrogen on left is bonded to hydrogen; the top of ring is bonded to an encircled “enzyme” the bond is intersected by a pink spiral line; a blue H bonded to B cation is shown above the histidine; an arrow points from carbonyl double bond to hydrogen of histidine; another arrow points from H-N bond to the adjoining bond on the ring; third arrow points from double bond adjoining the nitrogen at the top to the hydrogen of H-B; fourth arrow points from H-B cation bond to B cation. The reaction arrow “1” points to the formation of an oxaloacetate and an enol. The oxaloacetate shows a carbonyl group (pink oxygen) whose carbon is bonded to a methylene bonded to an acetate ion on the left and the carbon is bonded to an acetate ion on the right. A histidine is shown above the oxaloacetate; the histidine shows a cyclopentadiene having nitrogens embedded at alternate positions the nitrogen on the right is bonded to hydrogen; the top of ring is bonded to an encircled “enzyme” the bond is intersected by a pink spiral line; pink H-A is shown below the histidine. An arrow points from N-H bond to the adjoining position on the ring; another arrow points from the double bond adjacent to embedded nitrogen on the left to the pink H; third arrow points from H-A bond to A; fourth arrow points from carbonyl group double bond to H bonded to N. The structure of enol (green) shows a carbon bonded to an oxygen bonded to hydrogen at the top; the carbon is double bonded to a methylene group on the left and to SCoA on the right. Another histidine is shown above the enol and above the histidine is shown a blue B with a pair of electrons; An arrow points from electrons of B to H bonded to N; another arrow points from N-H bond to the bond adjoining embedded nitrogen ; third arrow points from double bond adjacent to embedded nitrogen on the left to H bonded to O of enol; fourth arrow points from H-O bond to C-O bond; fifth arrow points from carbon methylene double bond to carbon of carbonyl belonging to the oxaloacetate. Step “2” reads: a histidine deprotonates the acetyl-CoA enol which adds to the ketone carbonyl group of oxaloacetate in an aldol-like reaction. Simultaneously an acid N-H proton of another histidine protonates the carbonyl oxygen producing (S)-citryl CoA. A reaction arrow “2” on the right shows formation of (S)-Citryl CoA having a centrally placed carbon wedge bonded to pink hydroxyl group on the top the top is dash bonded to a blue methylene bonded to a blue carbonyl group whose carbon is bonded to blue SCoA; the carbon is bonded to a methylene bonded to an acetate ion on the left and to another acetate ion on the right. Step “3” reads: the thioester group of citryl CoA is hydrolyzed by a typical nucleophilic acyl substitution reaction to produce citrate plus coenzyme A. A reaction arrow “3” indicating pink water points to citrate and pink H bonded to green SCoA. The citrate shows a centrally placed carbon wedge bonded to pink hydroxyl group on the top the top is dash bonded to a blue methylene bonded to a blue carbonyl group whose carbon is bonded to a pink oxygen anion; the carbon is bonded to a methylene bonded to an acetate ion on the left and to another acetate ion on the right">
+<image mime-type="image/jpeg" src="../../media/OChem_26_11_004.jpg"/></media>
+<caption><emphasis effect="bold">Mechanism of the addition of acetyl CoA to oxaloacetate to give (<emphasis effect="italics">S</emphasis>)-citryl CoA, catalyzed by citrate synthase</emphasis>.</caption>
+</figure>
+<section class="chemistry-matters" id="sect-00001">
+<title>The Protein Data Bank</title>
+<para id="para-00004">Enzymes are so large, so structurally complex, and so numerous that the use of computer databases and molecular visualization programs has become an essential tool for studying biological chemistry. Of the various databases available online, the Kyoto Encyclopedia of Genes and Genomes (KEGG) database (<link url="http://www.genome.jp/kegg/pathway.html">http://www.genome.jp/kegg/pathway.html</link>), maintained by the Kanehisa Laboratory of Kyoto University Bioinformatics Center, is useful for obtaining information on biosynthetic pathways of the sort we’ll be describing in Chapter 29. For obtaining information on a specific enzyme, the BRENDA database (<link url="http://www.brenda-enzymes.org">http://www.brenda-enzymes.org</link>), maintained by the Institute of Biochemistry at the University of Cologne, Germany, is particularly valuable.</para>
+<para id="para-00005">Perhaps the most useful of all biological databases is the Protein Data Bank (PDB), operated by the Research Collaboratory for Structural Bioinformatics (RCSB). The PDB is a worldwide repository of X-ray and NMR structural data for biological macromolecules. In mid-2022, data for more than 192,888 structures were available, and more than 7000 new ones were being added yearly. To access the Protein Data Bank, go to <link url="http://www.rcsb.org">www.rcsb.org</link> and a home page like that shown in [link target-id="OSC_Microbio_26_98_DataBank"/] will appear. As with much that is available online, however, the PDB site is changing rapidly, so you may not see quite the same thing.</para>
+<figure id="fig-00004">
+<media alt="An illustration shows a screen shot of protein data bank home web page that reads “an information portal to 105212 biological macromolecular structures”; below the logo “PDB” are mentioned PDB-101 and two other associations; a search bar is shown at the top right; the left side of web page shows tabs such as “welcome deposit search visualize analyze download learn” placed vertically; the center of web page shows “a structural view of biology” that provides information related to the website; the right side of page displays “November molecule of the month”; the molecule displayed is a lattice formation of methyl-coenzyme M reductase.">
+<image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
+<caption><emphasis effect="bold">The Protein Data Bank home page</emphasis>. (credit: RCSB Protein Data Bank)</caption>
+</figure>
+<para id="para-00006">To learn how to use the PDB, begin by running the short tutorial listed under Getting Started at the bottom of the page. After that introduction, start exploring. Let’s say you want to view citrate synthase, the enzyme that catalyzes the addition of acetyl CoA to oxaloacetate to give citrate. Type “citrate synthase” (with quotation marks) into the small search box on the top line, click on “Search,” and a list of 42 or so structures will appear. Scroll down near the end of the list until you find the entry with a PDB code of 5CTS and the title “Proposed Mechanism for the Condensation Reaction of Citrate Synthase: 1.9-Angstroms Structure of the Ternary Complex with Oxaloacetate and Carboxymethyl Coenzyme A.” Alternatively, if you know the code of the enzyme you want, you can enter it directly into the search box. Click on the PDB code of entry 5CTS, and a new page containing information about the enzyme will open.</para>
+<para id="para-00007">If you choose, you can download the structure file to your computer and open it with any of numerous molecular graphics programs to see an image like that in [link target-id="OSC_Microbio_26_98_CitrateImg"/]. The biologically active molecule is a dimer of two identical subunits consisting primarily of <emphasis effect="italics">α</emphasis>-helical regions displayed as coiled ribbons. For now, just click on “View in Jmol” under the enzyme image on the right side of the screen to see some of the options for visualizing and further exploring the enzyme.</para>
+<figure class="scaled-down-30" id="fig-00005">
+<media alt="An illustration shows ribbon model of citrate synthase having inter-twined ribbons of green yellow blue golden and red. The credit on the side reads: PDB ID: 1AL6 B. Schwartz et al. Mechanism of enzyme catalyzed deprotonation of acetyl-coenzyme A.">
+<image mime-type="image/jpeg" src="../../media/FPO.jpg"/></media>
+<caption><emphasis effect="bold">An image of citrate synthase, downloaded from the Protein Data Bank</emphasis>. (credit: Protein Data Bank, 1AL6 B. PDB ID: 1AL6 B. Schwartz, K.W. Vogel, K.C. Usher, C. Narasimhan, H.M. Miziorko, S.J. Remington, D.G. Drueckhammer. Mechanisms of Enzyme-Catalyzed Deprotonation of Acetyl-Coenzyme A, CC BY 1.0)</caption>
+</figure>
+</section>
+<section class="key-terms" id="sect-00002">
+<list id="list-00001">
+<item><emphasis effect="bold"><emphasis effect="italics">α</emphasis>-amino acids</emphasis></item>
+<item><emphasis effect="bold"><emphasis effect="italics">α</emphasis> helix</emphasis></item>
+<item><emphasis effect="bold">backbone</emphasis></item>
+<item><emphasis effect="bold"><emphasis effect="italics">β</emphasis>-pleated sheet</emphasis></item>
+<item><emphasis effect="bold">C-terminal amino acid</emphasis></item>
+<item><emphasis effect="bold">coenzyme</emphasis></item>
+<item><emphasis effect="bold">cofactor</emphasis></item>
+<item><emphasis effect="bold">denatured</emphasis></item>
+<item><emphasis effect="bold">Edman degradation</emphasis></item>
+<item><emphasis effect="bold">enzyme</emphasis></item>
+<item><emphasis effect="bold">fibrous proteins</emphasis></item>
+<item><emphasis effect="bold">globular proteins</emphasis></item>
+<item><emphasis effect="bold">isoelectric point, (p<emphasis effect="italics">I</emphasis>)</emphasis></item>
+<item><emphasis effect="bold">N-terminal amino acid</emphasis></item>
+<item><emphasis effect="bold">peptides</emphasis></item>
+<item><emphasis effect="bold">primary structure</emphasis></item>
+<item><emphasis effect="bold">proteins</emphasis></item>
+<item><emphasis effect="bold">quaternary structure</emphasis></item>
+<item><emphasis effect="bold">residues</emphasis></item>
+<item><emphasis effect="bold">secondary structure</emphasis></item>
+<item><emphasis effect="bold">side chain</emphasis></item>
+<item><emphasis effect="bold">tertiary structure</emphasis></item>
+<item><emphasis effect="bold">turnover number</emphasis></item>
+<item><emphasis effect="bold">zwitterion</emphasis></item>
+</list>
+</section>
+<section class="summary" id="sect-00003">
+<title>Key Concepts and Summary</title>
+<para id="para-00008"><emphasis effect="bold">Proteins</emphasis> and <emphasis effect="bold">peptides</emphasis> are large biomolecules made of <emphasis effect="bold"><emphasis effect="italics">α</emphasis>-amino acid residues</emphasis> linked together by amide, or peptide, bonds. Twenty amino acids are commonly found in proteins, and all except glycine have stereochemistry similar to that of L sugars. In neutral solution, amino acids exist as dipolar <emphasis effect="bold">zwitterions</emphasis>.</para>
+<para id="para-00009">Amino acids can be synthesized in racemic form by several methods, including ammonolysis of an <emphasis effect="italics">α</emphasis>-bromo acid, alkylation of diethyl acetamidomalonate, and reductive amination of an <emphasis effect="italics">α</emphasis>-keto acid. Alternatively, an enantioselective synthesis of amino acids can be carried out using a chiral hydrogenation catalyst.</para>
+<para id="para-00010">Determining the structure of a peptide or protein begins with amino acid analysis. The peptide is hydrolyzed to its constituent <emphasis effect="italics">α</emphasis>-amino acids, which are separated and identified. Next, the peptide is sequenced. <emphasis effect="bold">Edman degradation</emphasis> by treatment with phenyl isothiocyanate (PITC) cleaves one residue from the N terminus of the peptide and forms an easily identifiable phenylthiohydantoin (PTH) derivative of the <emphasis effect="bold">N-terminal amino acid</emphasis>. An automated series of Edman degradations can sequence peptide chains up to 50 residues in length.</para>
+<para id="para-00011">Peptide synthesis involves the use of protecting groups. An N-protected amino acid with a free –CO<sub>2</sub>H group is coupled using DCC or EDC to an O-protected amino acid with a free –NH<sub>2</sub> group. Amide formation occurs, the protecting groups are removed, and the sequence is repeated. Amines are usually protected as their <emphasis effect="italics">tert</emphasis>-butyloxycarbonyl (Boc) or fluorenylmethyloxycarbonyl (Fmoc) derivatives; acids are usually protected as esters. The synthesis is often carried out by the Merrifield solid-phase method, in which the peptide is bonded to insoluble polymer beads.</para>
+<para id="para-00012">Proteins have four levels of structure. <emphasis effect="bold">Primary structure</emphasis> describes a protein’s amino acid sequence; <emphasis effect="bold">secondary structure</emphasis> describes how segments of the protein chain orient into regular patterns—either <emphasis effect="bold"><emphasis effect="italics">α</emphasis> helix</emphasis> or <emphasis effect="bold"><emphasis effect="italics">β</emphasis>-pleated sheet</emphasis>; <emphasis effect="bold">tertiary structure</emphasis> describes how the entire protein molecule coils into an overall three-dimensional shape; and <emphasis effect="bold">quaternary structure</emphasis> describes how individual protein molecules aggregate into larger structures.</para>
+<para id="para-00013">Proteins are classified as either globular or fibrous. <emphasis effect="bold">Fibrous proteins</emphasis> such as <emphasis effect="italics">α</emphasis>-keratin are tough, rigid, and water-insoluble; <emphasis effect="bold">globular proteins</emphasis> such as myoglobin are water-soluble and roughly spherical in shape. Many globular proteins are <emphasis effect="bold">enzymes</emphasis>—substances that act as catalysts for biological reactions. Enzymes are grouped into six classes according to the kind of reaction they catalyze. In addition to their protein part, many enzymes contain <emphasis effect="bold">cofactors</emphasis>, which can be either metal ions or small organic molecules called <emphasis effect="bold">coenzymes</emphasis>.</para>
+</section>
+<section class="summary-reactions" id="sect-00004">
+<title>Summary of Reactions</title>
+<list list-type="enumerated" id="list-00002">
+<item>Amino acid synthesis (<link document="m00320"/>)
+<list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
+<item>From <emphasis effect="italics">α</emphasis>-bromo acids<newline/>
+<figure class="unnumbered scaled-down-30" id="fig-00006">
+<media alt="An illustration shows a reaction wherein an alpha-bromo acid reacts with pink bromine PBr3 and pink water molecule to form an intermediate that reacts with blue ammonia to form an amino acid. The alpha-bromo acid shows a carbon bonded to two hydrogens at the top R on the left and pink CO2H on the right. The structure of intermediate compound shows carbon bonded to hydrogen and pink bromine at the top R on the left and pink CO2H on the right. The amino acid shows carbon bonded to hydrogen and blue ammonium cation at the top; R on the left and a pink carboxylate ion on the right.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_001.jpg"/></media>
+</figure></item>
+<item>Diethyl acetamidomalonate synthesis<newline/>
+<figure class="unnumbered scaled-down-30" id="fig-00007">
+<media alt="An illustration shows a reaction in which diethyl acetamidomalonate reacts in the presence of sodium ethoxide RX and a hydronium ion to yield an amino acid. The structure of diethyl acetamidomalonate shows centrally located blue nitrogen bonded to a blue hydrogen at the bottom; the nitrogen is bonded to carbonyl group on the left bonded to a methyl group; the nitrogen is bonded to a carbon on the right that is bonded to a hydrogen and two ethyl acetate groups. The amino acid formed shows a carbon bonded to hydrogen and blue ammonium cation at the top; R on the left and a pink carboxylate ion on the right.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_002.jpg"/></media>
+</figure></item>
+<item>Reductive amination of an <emphasis effect="italics">α</emphasis>-keto acid<newline/>
+<figure class="unnumbered scaled-down-30" id="fig-00008">
+<media alt="An illustration shows synthesis of amino acid from alpha-keto acid in the presence of blue ammonia and NaBH4. The structure of alpha-keto acid shows a carbonyl group (pink oxygen) bonded to R on the left and pink CO2H on the right. The structure of amino acid shows carbon bonded to a hydrogen and blue ammonium ion at the top; R and pink carboxylate ion is bonded at the bottom.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_003.jpg"/></media>
+</figure></item>
+<item>Enantioselective synthesis<newline/>
+<figure class="unnumbered scaled-down" id="fig-00009">
+<media alt="An illustration shows synthesis of an (S)-amino acid from A (Z) enamido acid in the presence of green hydrogen [Rh(DiPAMP)(COD)] cation bonded to BF4 anion sodium hydroxide and water. The structure of A (Z) enamido acid shows a carbon double bonded to another carbon; the carbon at the left is bonded to H at the top and R at the bottom; the carbon on right is bonded to pink CO2H at the top and blue NH bonded to COCH3 at the bottom. The structure of (S)-amino acid shows carbon bonded to another carbon bonded to R on the left; the carbon is bonded to pink carboxylate ion on the right; a blue ammonium ion is wedge bonded to carbon at the bottom left and dash bonded to green hydrogen at bottom right.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_004.jpg"/></media>
+</figure></item></list>
+</item>
+<item>Peptide sequencing by Edman degradation (<link document="m00323"/>)<newline/>
+<figure class="unnumbered scaled-down" id="fig-00010">
+<media alt="An illustration shows a reaction wherein two reactants form two products. The first reactant shows a phenyl group bonded to nitrogen double bonded to carbon at the top which is double bonded to a green sulfur at the top. The second reactant shows a carbon bonded to another carbon at the top; the carbon at bottom is bonded to a blue amino group on the left wedge bonded to a hydrogen and dash bonded to R at the bottom right. The top carbon is double bonded to pink oxygen and single bonded to blue nitrogen monohydride bonded to an encircled peptide. The first product shows a cyclopentane with a nitrogen and blue nitrogen monohydride; the ring is double bonded to a pink oxygen and green sulfur; the nitrogen is bonded to a phenyl group; the bottom right position is wedge bonded to hydrogen and dash bonded to R. The second product shows a blue amino group bonded to an encircled peptide.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_005.jpg"/></media>
+</figure></item>
+<item>Peptide synthesis (<link document="m00324"/>)
+<list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
+<item>Amine protection<newline/>
+<figure class="unnumbered scaled-down" id="fig-00011">
+<media alt="An illustration shows a reaction of amino acid with two molecules of a green compound in the presence of (CH3CH2)3N to form Boc-protected amino acid. The structure of amino acid shows a carbon bonded to a blue ammonium ion on the left; the carbon is dash bonded to H and wedge bonded to R at the top; the carbon is bonded to a pink carboxylate ion on the right. The second reactant in parenthesis shows a carbon bonded to three methyl groups; the carbon is bonded to an oxygen bonded to carbonyl group bonded to an oxygen. The Boc-protected amino acid shows a green carbon bonded to three methyl groups; the carbon is bonded to a green oxygen bonded to a green carbonyl group bonded to a blue nitrogen bonded to a blue hydrogen at the bottom; the nitrogen is bonded to a carbon dash bonded to H and wedge bonded to R at the top and bonded to a pink carboxylate ion on the right.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_006.jpg"/></media>
+</figure></item>
+<item>Carboxyl protection<newline/>
+<figure class="unnumbered scaled-down-30" id="fig-00012">
+<media alt="An illustration shows two reactions. The first reaction shows a reactant reacting with green methanol and hydrogen chloride to form a product. The reactant shows a carbon bonded to a blue ammonium ion at the left and a pink carboxylate ion on the right; the carbon is wedge bonded to H and dash bonded to R at the bottom. The product shows carbon bonded to a blue ammonium ion on the left; the carbon is wedge bonded to H and dash bonded to R at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) whose carbon is bonded to a green methoxide. The second reaction shows a reactant reacting with green PhCH2OH and hydrogen chloride to form a product. The reactant is the same as in the first reaction. The product shows carbon bonded to a blue ammonium ion on the left; the carbon is wedge bonded to H and dash bonded to R at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) whose carbon is bonded to a green OCH2Ph group.">
+<image mime-type="image/jpeg" src="../../media/OChem_26_EC_007.jpg"/></media>
+</figure></item>
+</list></item></list>
+</section>
+<section class="additional-problems" id="sect-00005">
+<title>Additional Problems</title>
+<para id="para-00014"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00015"><link class="os-embed" url="#exercise/26-99-OC-VC01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00016"><link class="os-embed" url="#exercise/26-99-OC-VC02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00017"><link class="os-embed" url="#exercise/26-99-OC-VC03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00018"><link class="os-embed" url="#exercise/26-99-OC-VC04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00019"><link class="os-embed" url="#exercise/26-99-OC-VC05"/></para>
+</problem>
+</exercise>
+<para id="para-00020"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00021"><link class="os-embed" url="#exercise/26-99-OC-MP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00022"><link class="os-embed" url="#exercise/26-99-OC-MP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00023"><link class="os-embed" url="#exercise/26-99-OC-MP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00024"><link class="os-embed" url="#exercise/26-99-OC-MP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00025"><link class="os-embed" url="#exercise/26-99-OC-MP05"/></para>
+</problem>
+</exercise>
+<para id="para-00026"><emphasis effect="bold"><span class="red-text">Amino Acid Structures and Chirality</span></emphasis></para>
+<exercise id="exer-00011">
+<problem id="prob-00011">
+<para id="para-00027"><link class="os-embed" url="#exercise/26-99-OC-AP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00012">
+<problem id="prob-00012">
+<para id="para-00028"><link class="os-embed" url="#exercise/26-99-OC-AP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00013">
+<problem id="prob-00013">
+<para id="para-00029"><link class="os-embed" url="#exercise/26-99-OC-AP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00014">
+<problem id="prob-00014">
+<para id="para-00030"><link class="os-embed" url="#exercise/26-99-OC-AP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00015">
+<problem id="prob-00015">
+<para id="para-00031"><link class="os-embed" url="#exercise/26-99-OC-AP05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00016">
+<problem id="prob-00016">
+<para id="para-00032"><link class="os-embed" url="#exercise/26-99-OC-AP06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00017">
+<problem id="prob-00017">
+<para id="para-00033"><link class="os-embed" url="#exercise/26-99-OC-AP07"/></para>
+</problem>
+</exercise>
+<para id="para-00034"><emphasis effect="bold"><span class="red-text">Amino Acid Synthesis and Reactions</span></emphasis></para>
+<exercise id="exer-00018">
+<problem id="prob-00018">
+<para id="para-00035"><link class="os-embed" url="#exercise/26-99-OC-AP08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00019">
+<problem id="prob-00019">
+<para id="para-00036"><link class="os-embed" url="#exercise/26-99-OC-AP09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00020">
+<problem id="prob-00020">
+<para id="para-00037"><link class="os-embed" url="#exercise/26-99-OC-AP10"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00021">
+<problem id="prob-00021">
+<para id="para-00038"><link class="os-embed" url="#exercise/26-99-OC-AP11"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00022">
+<problem id="prob-00022">
+<para id="para-00039"><link class="os-embed" url="#exercise/26-99-OC-AP12"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00023">
+<problem id="prob-00023">
+<para id="para-00040"><link class="os-embed" url="#exercise/26-99-OC-AP13"/></para>
+</problem>
+</exercise>
+<para id="para-00041"><emphasis effect="bold"><span class="red-text">Peptides and Enzymes</span></emphasis></para>
+<exercise id="exer-00024">
+<problem id="prob-00024">
+<para id="para-00042"><link class="os-embed" url="#exercise/26-99-OC-AP14"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00025">
+<problem id="prob-00025">
+<para id="para-00043"><link class="os-embed" url="#exercise/26-99-OC-AP15"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00026">
+<problem id="prob-00026">
+<para id="para-00044"><link class="os-embed" url="#exercise/26-99-OC-AP16"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00027">
+<problem id="prob-00027">
+<para id="para-00045"><link class="os-embed" url="#exercise/26-99-OC-AP17"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00028">
+<problem id="prob-00028">
+<para id="para-00046"><link class="os-embed" url="#exercise/26-99-OC-AP18"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00029">
+<problem id="prob-00029">
+<para id="para-00047"><link class="os-embed" url="#exercise/26-99-OC-AP19"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00030">
+<problem id="prob-00030">
+<para id="para-00048"><link class="os-embed" url="#exercise/26-99-OC-AP20"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00031">
+<problem id="prob-00031">
+<para id="para-00049"><link class="os-embed" url="#exercise/26-99-OC-AP21"/></para>
+</problem>
+</exercise>
+<para id="para-00050"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+<exercise id="exer-00032">
+<problem id="prob-00032">
+<para id="para-00051"><link class="os-embed" url="#exercise/26-99-OC-AP22"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00033">
+<problem id="prob-00033">
+<para id="para-00052"><link class="os-embed" url="#exercise/26-99-OC-AP23"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00034">
+<problem id="prob-00034">
+<para id="para-00053"><link class="os-embed" url="#exercise/26-99-OC-AP24"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00035">
+<problem id="prob-00035">
+<para id="para-00054"><link class="os-embed" url="#exercise/26-99-OC-AP25"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00036">
+<problem id="prob-00036">
+<para id="para-00055"><link class="os-embed" url="#exercise/26-99-OC-AP26"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00037">
+<problem id="prob-00037">
+<para id="para-00056"><link class="os-embed" url="#exercise/26-99-OC-AP27"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00038">
+<problem id="prob-00038">
+<para id="para-00057"><link class="os-embed" url="#exercise/26-99-OC-AP28"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00039">
+<problem id="prob-00039">
+<para id="para-00058"><link class="os-embed" url="#exercise/26-99-OC-AP29"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00040">
+<problem id="prob-00040">
+<para id="para-00059"><link class="os-embed" url="#exercise/26-99-OC-AP30"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00041">
+<problem id="prob-00041">
+<para id="para-00060"><link class="os-embed" url="#exercise/26-99-OC-AP31"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00042">
+<problem id="prob-00042">
+<para id="para-00061"><link class="os-embed" url="#exercise/26-99-OC-AP32"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00043">
+<problem id="prob-00043">
+<para id="para-00062"><link class="os-embed" url="#exercise/26-99-OC-AP33"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00044">
+<problem id="prob-00044">
+<para id="para-00063"><link class="os-embed" url="#exercise/26-99-OC-AP34"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
