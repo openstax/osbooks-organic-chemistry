@@ -24,9 +24,9 @@
 <para id="para-00004">An organism’s genetic information is stored as a sequence of deoxyribonucleotides strung together in the DNA chain. For the information to be preserved and passed on to future generations, a mechanism must exist for copying DNA. For the information to be used, a mechanism must exist for decoding the DNA message and implementing the instructions it contains.</para>
 <para id="para-00005">What Crick called the “central dogma of molecular genetics” says that the function of DNA is to store information and pass it on to RNA. The function of RNA, in turn, is to read, decode, and use the information received from DNA to make proteins. This view is greatly oversimplified but is nevertheless a good place to start. Three fundamental processes take place.</para>
 <list id="list-00001">
-<item><emphasis effect="bold"><span class="magenta-text">Replication</span></emphasis> is the process by which identical copies of DNA are made so that information can be preserved and handed down to offspring</item>
-<item><emphasis effect="bold"><span class="green-text">Transcription</span></emphasis> is the process by which genetic messages are read and carried out of the cell nucleus to ribosomes, where protein synthesis occurs</item>
-<item><emphasis effect="bold"><span class="cyan-text">Translation</span></emphasis> is the process by which the genetic messages are decoded and used to synthesize proteins<newline/>
+<item><emphasis effect="bold"><span class="magenta-text">Replication</span></emphasis> is the process by which identical copies of DNA are made so that information can be preserved and handed down to offspring.</item>
+<item><emphasis effect="bold"><span class="green-text">Transcription</span></emphasis> is the process by which genetic messages are read and carried out of the cell nucleus to ribosomes, where protein synthesis occurs.</item>
+<item><emphasis effect="bold"><span class="cyan-text">Translation</span></emphasis> is the process by which the genetic messages are decoded and used to synthesize proteins.<newline/>
 <figure class="unnumbered scaled-down" id="fig-00003">
 <media alt="An illustration shows sequence of the central dogma of molecular genetics. The first step is the replication of DNA. The second step is the transcription of the DNA into RNA. The third step is the translation of the transcribed RNA to proteins.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_02_003.jpg"/>
@@ -38,7 +38,7 @@
 <para id="para-00006">What sequence of bases on one strand of DNA is complementary to the sequence TATGCAT on another strand?</para>
 <para id="para-00007"><title><span class="red-text">Strategy</span></title> Remember that A and G form complementary pairs with T and C, respectively, and then go through the sequence replacing A by T, G by C, T by A, and C by G. Remember also that the 5′ end is on the left and the 3′ end is on the right in the original strand.</para>
 <para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
-<para id="para-00009">Original:             (5′) TATGCAT (3′)</para>
+<para id="para-00009">Original:             &#8201;(5′) TATGCAT (3′)</para>
 <para id="para-00010">Complement:    (3′) ATACGTA (5′) or (5′) ATGCATA (3′)</para>
 </example>
 <section class="section-exercises" id="sect-00001">
