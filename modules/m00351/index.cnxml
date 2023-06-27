@@ -5,61 +5,7 @@
     <md:content-id>m00351</md:content-id>
     <md:uuid>7884bd87-8952-417b-85c8-3a318cefa02b</md:uuid>
   </metadata>
-  <content>
-<para>Synthetic polymers are classified by their method of synthesis as either <emphasis effect="italics">chain-growth</emphasis> or <emphasis effect="italics">step-growth</emphasis>. These categories are somewhat imprecise but nevertheless provide a useful distinction. <term>Chain-growth polymers</term> are produced by chain-reaction polymerization in which an initiator adds to the carbon&#8211;carbon double bond of an unsaturated substrate (a <emphasis effect="italics">vinyl monomer</emphasis>) to yield a reactive intermediate. This intermediate reacts with a second molecule of monomer to yield a new intermediate, which reacts with a third monomer unit, and so on.</para>
-<para>The initiator can be a radical, an acid, or a base. Historically, as we saw in <link>Section 8.10</link>, radical polymerization was the most common method because it can be carried out with practically any vinyl monomer.</para>
-<figure class="unnumbered scaled-down">
-<media alt="An illustration shows two reactions. In the first reaction benzoyl peroxide is heated to yield 2 moles of Benzoyloxy radical that further yield 2 moles of Phenyl radicals and 2 moles of carbon dioxide highlighted in pink. Benzoyl peroxide shows benzene bonded to carbonyl group bonded to an oxygen that is bonded to another oxygen bonded to a carbonyl group bonded to benzene. Each oxygen shows four electrons. Two arrows from the O-O bond point outward toward the two oxygen atoms. Benzoyloxy radical shows benzene with C1 bonded to carbon double bonded to an oxygen that shows four electrons and single bonded to an oxygen that shows five electrons. An arrow from the C1-C bond points to C1. An arrow from the C1-C bond points to C-O single bond. An arrow from the five electrons of oxygen points to C-O single bond. The carbonyl groups and oxygen are highlighted in pink. Phenyl radical shows benzene with an electron at C1. In the second reaction a phenyl radical highlighted in pink reacts with ethylene to yield an intermediate that polymerizes many times to yield a product. Ethylene shows two methylene groups double bonded. An arrow from the electron of phenyl radical and the double bond point outward. An arrow from the double bond points to the second methylene group. The intermediate shows a phenyl group highlighted in pink bonded to a methylene group bonded to another methylene group that shows an electron. The product shows a phenyl group highlighted in pink bonded to &#8216;n&#8217; units of a chain with two methylene groups that are bonded to a methylene group bonded to another methylene group that shows an electron.">
-<image mime-type="image/jpeg" src="../../media/OChem_31_01_001.jpg"/>
-</media>
-</figure>
-<para>Acid-catalyzed (cationic) polymerization, by contrast, is effective only with vinyl monomers that contain an electron-donating group (EDG) capable of stabilizing the chain-carrying carbocation intermediate.</para>
-<figure class="unnumbered">
-<media alt="An illustration shows a reaction in which an acid (H-A highlighted in pink) reacts with a vinyl monomer to yield a first carbocation intermediate that further reacts with a vinyl monomer to yield a second carbocation intermediate that after repeated steps yields a polymer. The vinyl monomer shows a methylene group double bonded to a methine group bonded to EDG (an electron-donating group highlighted in green). An arrow from the double bond points to H of HA. An arrow from the H-A bond points to A. The first carbocation intermediate shows H highlighted in pink bonded to a methylene group bonded to a methine cation bonded to EDG highlighted in green at the top. An arrow from the double bond of a second vinyl monomer points to the methine cation. The second carbocation intermediate shows a methyl group bonded to a methine group bonded to EDG highlighted in green at the top. The methine group is bonded to a methylene group bonded to a methine cation bonded to EDG highlighted in green at the top. The polymer enclosed in parentheses with subscript n shows a methylene group with a free bond bonded to a methine group that shows a free bond and bonded to EDG highlighted in green at the top.">
-<image mime-type="image/jpeg" src="../../media/OChem_31_01_002.jpg"/>
-</media>
-</figure>
-<para>Isobutylene (2-methylpropene) is a good example of a monomer that polymerizes rapidly under cationic conditions. The reaction is carried out commercially at &#8211;80 &#176;C, using BF<sub>3</sub> and a small amount of water to generate BF<sub>3</sub>OH<sup>&#8211;</sup> H<sup>+</sup> catalyst. The product is used in the manufacture of truck and bicycle inner tubes.</para>
-<figure class="unnumbered scaled-down-30">
-<media alt="An illustration shows a reaction in which Isobutylene after several steps yields Polyisobutylene. Isobutylene shows a methylene group double bonded to a methine group that is bonded to a green methyl group at the top. Polyisobutylene is shown inside parentheses with subscript n. It shows a methylene group bonded to a methine group that is bonded to a green methyl group at the top. The methylene group and methine group show a free bond each.">
-<image mime-type="image/jpeg" src="../../media/OChem_31_01_003.jpg"/>
-</media>
-</figure>
-<para>Vinyl monomers with electron-withdrawing groups (EWG) can be polymerized by basic (anionic) catalysts. The chain-carrying step is a conjugate nucleophilic addition of an anion to the unsaturated monomer (<link>Section 19-13</link>).</para>
-<figure class="unnumbered">
-<media alt="An illustration shows a reaction in which a nucleophile (Nu minus with two electrons highlighted in blue) reacts with a vinyl monomer to yield a first intermediate that further reacts with a vinyl monomer to yield a second intermediate that after repeated steps yields a polymer. The vinyl monomer shows a methylene group double bonded to a methine group bonded to EWG (an electron-withdrawing group highlighted in green). An arrow from the electrons of Nu points to the methylene group. An arrow from the double bond points to the methine group. The first intermediate shows Nu highlighted in blue bonded to a methylene group bonded to a methine anion bonded to EWG highlighted in green at the top. An arrow from the anion points to the methylene group of a second vinyl monomer. An arrow from the double bond points to the methine group. The second intermediate shows Nu bonded to a methylene group bonded to a methine group bonded to EWG highlighted in green at the top. The methine group is bonded to a methylene group bonded to a methine anion bonded to EWG highlighted in green at the top. The polymer enclosed in parentheses with subscript n shows a methylene group with a free bond bonded to a methine group that shows a free bond and bonded to EWG highlighted in green at the top.">
-<image mime-type="image/jpeg" src="../../media/OChem_31_01_004.jpg"/>
-</media>
-</figure>
-<para>Acrylonitrile (<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>&#x2550;</m:mtext><m:mtext>CHCN</m:mtext></m:mrow></m:math>), methyl methacrylate [<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>&#x2550;</m:mtext><m:mtext>C</m:mtext><m:mo stretchy='false'>(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy='false'>)</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math>], and styrene (<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>&#x2550;</m:mtext><m:msub><m:mrow><m:mtext>CHC</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub></m:mrow></m:math>) can all be polymerized anionically. The polystyrene used in foam coffee cups, for example, is prepared by anionic polymerization of styrene using butyllithium as catalyst.</para>
-<figure class="unnumbered scaled-down">
-<media alt="An illustration shows a reaction in which styrene reacts with butyllithium to yield an intermediate that further reacts with styrene molecules repeatedly to yield Polystyrene. Butyllithium shows Bu minus with two electrons highlighted in blue bonded to Li plus. Styrene shows benzene bonded to a methine group that is double bonded to a methylene group. An arrow from the electrons of Bu points to the methylene group. An arrow from the double bond points to the methine group. The intermediate shows Bu highlighted in blue bonded to a methylene group bonded to methine group that shows a negative charge and two electrons. An arrow from the electrons of methine group points to the methylene group of the second styrene. An arrow from the double bond points to the methine group. Polystyrene enclosed inside parentheses with subscript n shows benzene bonded to a methine group that is bonded to a methylene group. The methine and methylene groups show a free bond each.">
-<image mime-type="image/jpeg" src="../../media/OChem_31_01_005.jpg"/>
-</media>
-</figure>
-<para>An interesting example of anionic polymerization accounts for the remarkable properties of &#8220;super glue,&#8221; one drop of which can support up to 2000 lb. Super glue is simply a solution of pure methyl <emphasis effect="italics">&#945;</emphasis>-cyanoacrylate, which has two electron-withdrawing groups that make anionic addition particularly easy. Trace amounts of water or bases on the surface of an object are sufficient to initiate polymerization of the cyanoacrylate and bind articles together. Skin is a good source of the necessary basic initiators, and many people have found their fingers stuck together after inadvertently touching super glue. So good is super glue at binding tissues that related cyanoacrylate esters such as Dermabond are often used in place of sutures to close wounds.</para>
-<figure class="unnumbered scaled-down-30">
-<media alt="An illustration shows a reaction in which Methyl alpha-cyanoacrylate reacts with nucleophile highlighted in blue with two electrons yields an intermediate that after several steps yields a polymer. The structure of Dermabond (2-ethylhexyl -cyanoacrylate) is shown below the reaction. The reactant shows a methylene group double bonded to a carbon that is bonded to a nitrile group at the top and acetate group at the bottom. An arrow from the electrons of nucleophile points to methylene group. An arrow from the double bond points to the carbon. The intermediate shows the nucleophile bonded to a methylene group bonded to a carbon anion that shows two electrons and is bonded to a nitrile group at the top and acetate group at the bottom. The polymer enclosed in a parentheses with subscript n shows a methylene group with a free bond bonded to a carbon that is bonded to a nitrile group at the top and acetate group at the bottom. Dermabond shows a methylene group double bonded to a carbon that is bonded to a nitrile group at the top and carbonyl group at the bottom. The carbonyl group is bonded to an oxygen bonded to a 6-carbon chain. C2 of the chain is bonded to an ethyl group at the bottom.">
-<image mime-type="image/jpeg" src="../../media/OChem_31_01_006.jpg"/>
-</media>
-</figure>
-<section class="section-exercises">
-<title>Problems</title>
-<exercise>
-<problem>
-<para><link class="os-embed" url="#exercise/31-01-OC-P01"/></para>
-</problem>
-</exercise>
-<exercise>
-<problem>
-<para><link class="os-embed" url="#exercise/31-01-OC-P02"/></para>
-</problem>
-</exercise>
-<exercise>
-<problem>
-<para><link class="os-embed" url="#exercise/31-01-OC-P03"/></para>
-</problem>
-</exercise>
-</section>
-</content>
+<content>
+<para id="para-00001">Placeholder</para>
+   </content>
 </document>
