@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Step-Growth Polymers</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Step-Growth Polymers</md:title>
@@ -6,6 +6,55 @@
     <md:uuid>fb00cbe2-5524-4ddd-8e4f-348bf33de7d2</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<para>Step-growth polymers are produced by reactions in which each bond in the polymer is formed stepwise, independently of the other bonds. Like the polyamides (nylons) and polyesters that we saw in <link>Section 21.9</link>, most step-growth polymers are produced by reaction between two difunctional reactants. The polymer Nylon 66, for instance, is made by reaction between the six-carbon adipic acid and the six-carbon hexamethylenediamine (1,6-hexanediamine). Alternatively, a single reactant with two different functional groups can polymerize. Nylon 6 is made by polymerization of the six-carbon caprolactam. The reaction is initiated by adding a small amount of water, which hydrolyzes some caprolactam to 6-aminohexanoic acid. Nucleophilic addition of the amino group to caprolactam then propagates the polymerization.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows two reactions. In the first reaction Adipic acid (hexanedioic acid) and Hexamethylenediamine (1 6-hexanediamine) are heated to yield Nylon 66. Adipic acid shows a chain of 4 methylene groups with a carboxylic acid group at both ends. The oxygen and hydroxyl groups of the carboxylic acid groups are highlighted in pink. Hexamethylenediamine shows a chain of 6 methylene groups with an amino group at both ends. The amino groups are highlighted in blue. Nylon 66 enclosed in parentheses with subscript n shows a carbonyl group with a free bond bonded to a chain of 4 methylene groups bonded to a carbonyl group. The carbonyl group is bonded to a nitrogen monohydride highlighted in blue bonded to a chain of 6 methylene groups bonded to an amino group highlighted in blue. The amino group shows a free bond. The carbonyl oxygens are highlighted in pink. In the second reaction Caprolactam and water highlighted in pink are heated to yield 6-Aminohexanoic acid that reacts with Caprolactam in the presence of heat to yield Nylon 6. Caprolactam shows a 7-carbon ring with a nitrogen monohydride highlighted in blue. The ring is double bonded to an oxygen highlighted in pink. 6-Aminohexanoic acid shows a carboxylic acid group bonded to a chain of 5 methylene groups bonded to an amino group that is highlighted in blue and shows two electrons. The oxygen and hydroxyl groups of the carboxylic acid groups are highlighted in pink. An arrow from these electrons points to the carbon of the 7-carbon ring that is double bonded to oxygen. An arrow from the C-N bond points to N. Nylon 6 enclosed in parentheses with subscript n shows a carbonyl group with a free bond bonded to a chain of 5methylene groups bonded to a nitrogen monohydride highlighted in blue and shows a free bond. The carbonyl oxygens are highlighted in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_04_001.jpg"/>
+</media>
+</figure>
+<section>
+<title>Polycarbonates</title>
+<para><term>Polycarbonates</term> are like polyesters, but their carbonyl group is linked to two &#8201;&#8211;OR groups, [<m:math><m:mrow><m:mtext>O</m:mtext><m:mtext>&#x2550;</m:mtext><m:mtext>C</m:mtext><m:msub><m:mrow><m:mo stretchy='false'>(</m:mo><m:mtext>OR</m:mtext><m:mo stretchy='false'>)</m:mo></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>]. Lexan, for instance, is a polycarbonate prepared from diphenyl carbonate and a diphenol called bisphenol A. Lexan has unusually high impact strength, making it valuable for use in machinery housings, telephones, bicycle safety helmets, and bulletproof glass.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which Diphenyl carbonate reacts with Bisphenol A at 300 degree C to yield Lexan and 2n phenol. Diphenyl carbonate shows benzene bonded to an oxygen highlighted in green bonded to a carbonyl group that is bonded to an oxygen highlighted in green bonded to benzene. The carbonyl oxygen is highlighted in pink. Bisphenol A shows a central carbon bonded to two methyl groups and two benzene rings. Each benzene is bonded to a hydroxyl group highlighted in blue. Lexan enclosed in parentheses with subscript n shows a blue oxygen that shows a free bond and bonded to a benzene. The benzene is bonded to a carbon bonded to two methyl groups and a benzene that is bonded to an oxygen highlighted in BLUE. The oxygen is bonded to a carbon that is double bonded to a pink oxygen and shows a free bond. Phenol shows benzene bonded to a green hydroxyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_04_002.jpg"/>
+</media>
+</figure>
+</section>
+<section>
+<title>Polyurethanes</title>
+<para>A <term>urethane</term> is a carbonyl-containing functional group in which the carbonyl carbon is bonded to both an &#8201;&#8211;OR group and an &#8201;&#8211;NR<sub>2</sub> group. As such, a urethane is halfway between a carbonate and a urea.</para>
+<figure class="unnumbered scaled-down-30">
+<media alt="An illustration shows the structures of a carbonate urethane and urea. The carbonate shows a carbonyl group bonded to two green OR groups. The urethane shows a carbonyl group bonded to a green OR group and blue NR&#8217;2 group. The urea shows a carbonyl group bonded to two blue NR&#8217;2 groups. The carbonyl oxygen atoms are shown in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_04_003.jpg"/>
+</media>
+</figure>
+<para>A urethane is typically prepared by nucleophilic addition reaction of an alcohol with an isocyanate (<m:math><m:mrow><m:mtext>R</m:mtext><m:mtext>&#x2500;</m:mtext><m:mtext>N</m:mtext><m:mtext>&#x2550;</m:mtext><m:mtext>C</m:mtext><m:mtext>&#x2550;</m:mtext><m:mtext>O</m:mtext></m:mrow></m:math>), so a <term>polyurethane</term> is prepared by reaction of a diol with a diisocyanate. The diol is usually a low-molecular-weight polymer (MW &#8776; 1000 amu) with hydroxyl end-groups; the diisocyanate is often toluene-2,4-diisocyanate.</para>
+<figure class="unnumbered">
+<media alt="An illustration shows a reaction in which a diol reacts with Toluene-2 4-diisocyanate to yield a polyurethane. The diol shows a polymer highlighted in a green box bonded to two green hydroxyl groups one each side. Toluene-2 4-diisocyanate shows a benzene with C1 bonded to a methyl group C2 and C4 bonded to a nitrogen highlighted in blue. Each nitrogen is double bonded to a carbon double bonded to a pink oxygen. The polyurethane is shown inside parentheses with subscript n. The structure shows a green oxygen with a free bond bonded to a polymer highlighted in a green box bonded to another green oxygen that is bonded to a carbon. The carbon is double bonded to a pink oxygen and single bonded to a blue nitrogen monohydride that is bonded to benzene. The benzene is bonded to a methyl group and blue nitrogen monohydride that is bonded to a carbon double bonded to a pink oxygen. The carbon shows a free bond.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_04_004.jpg"/>
+</media>
+</figure>
+<para>Several different kinds of polyurethanes can be produced, depending on the nature of the polymeric alcohol used. One major use of polyurethane is in the stretchable spandex fibers used for bathing suits and athletic gear. These polyurethanes have a fairly low degree of cross-linking so that the resultant polymer is soft and elastic. A second major use of polyurethanes is in the foams used for insulation. Foaming occurs when a small amount of water is added during polymerization, giving a carbamic acid intermediate that spontaneously loses bubbles of CO<sub>2</sub>.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which a carbonyl compound reacts with water (highlighted in blue) to yield an intermediate that yields a carbamic acid that further yields an amine (R bonded to blue amino group) and carbon dioxide (carbon double bonded to a pink oxygen and blue oxygen). The carbonyl compound shows R bonded to blue nitrogen double bonded to a carbon that is double bonded to pink oxygen. Water shows oxygen with four electrons bonded to two hydrogens. An arrow from the electrons points to the carbonyl carbon. An arrow from the C-N double bond points to N. The first intermediate shows R bonded to nitrogen anion (highlighted in blue with four electrons) that is bonded to a carbonyl group bonded to blue oxygen cation. The oxygen is bonded to two blue hydrogens. The carbamic acid shows R bonded to blue nitrogen monohydride that is bonded to a carbonyl group bonded to blue hydroxyl group. The carbonyl oxygen atoms are highlighted in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_04_005.jpg"/>
+</media>
+</figure>
+<para>Polyurethane foams are generally made using a <emphasis effect="italics">poly</emphasis>alcohol rather than a diol as the monomer so that the polymer has a high amount of three-dimensional cross-linking. The result is a rigid but very light foam suitable for use as thermal insulation in building construction and portable ice chests.</para>
+</section>
+<section class="section-exercises">
+<title>Problems</title>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/31-04-OC-P08"/></para>
+</problem>
+</exercise>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/31-04-OC-P09"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>

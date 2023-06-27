@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Stereochemistry of Polymerization: Ziegler–Natta Catalysts</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Stereochemistry of Polymerization: Ziegler–Natta Catalysts</md:title>
@@ -6,6 +6,37 @@
     <md:uuid>dd7c16f6-5941-482b-996c-10d24e001a15</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<para>Although we didn&#8217;t point it out when discussing chain-growth polymers in <link>Section 8.10</link>, the polymerization of a substituted vinyl monomer can lead to a polymer with numerous chirality centers in its chain. Propylene, for example, might polymerize with any of the three stereochemical outcomes shown in <link>Figure 31_02_OChem-31-02-001_80485-31-01_ISAPoly</link>. A polymer with all methyl groups on the same side of the zigzag backbone is called <term>isotactic</term>, one in which the methyl groups alternate regularly on opposite sides of the backbone is called <term>syndiotactic</term>, and one with its methyl groups randomly oriented is called <term>atactic</term>.</para>
+<figure class="scaled-down">
+<media alt="An illustration shows the line-angle formulas of Isotactic (same side) Syndiotactic (alternating sides) and Atactic (random) polypropylene. Each structure shows an 18-carbon chain with C1 and C18 showing bond extension. The methyl groups are highlighted in pink in all the structures. In Isotactic polypropylene C3 C5 C7 C9 C11 C13 C15 and C17 are dash bonded to a hydrogen at the top left and wedge bonded to a methyl group at the top right. In Syndiotactic polypropylene C3 C7 C11 and C15 are dash bonded to a hydrogen at the top left and wedge bonded to a methyl group at the top right. C5 C9 C13 and C17 are dash bonded to a methyl group at the top left and wedge bonded to a hydrogen at the top right. In Atactic polypropylene C3 C9 C11 and C17 are dash bonded to a methyl group at the top left and wedge bonded to a hydrogen at the top right. C5 C7 and C13 C15 are dash bonded to a hydrogen at the top left and wedge bonded to a methyl group at the top right.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_02_001.jpg"/>
+</media>
+<caption><emphasis effect="bold">Isotactic, syndiotactic, and atactic forms of polypropylene.</emphasis></caption>
+</figure>
+<para>The three different stereochemical forms of polypropylene all have somewhat different properties, and all can be made by using the right polymerization catalyst. Propylene polymerization using radical initiators does not work well, but polymerization using <emphasis effect="italics">Ziegler&#8211;Natta catalysts</emphasis> allows preparation of isotactic, syndiotactic, and atactic polypropylene.</para>
+<para><term>Ziegler&#8211;Natta catalysts</term>&#8212;there are many different formulations&#8212;are organometallic transition-metal complexes prepared by treatment of an alkylaluminum with a titanium compound. Triethylaluminum with titanium tetrachloride is a typical preparation.</para>
+<equation class="unnumbered"><m:math><m:mrow><m:msub><m:mrow><m:mo stretchy='false'>(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo stretchy='false'>)</m:mo></m:mrow><m:mn>3</m:mn></m:msub><m:mtext>Al</m:mtext><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>TiCl</m:mtext></m:mrow><m:mn>4</m:mn></m:msub><m:mo>&#x2192;</m:mo><m:mtext>A Ziegler&#x2013;Natta catalyst</m:mtext></m:mrow></m:math></equation>
+<para>Following their introduction in 1953, Ziegler&#8211;Natta catalysts revolutionized the field of polymer chemistry because of two advantages: first, the resultant polymers are linear, with practically no chain branching, and second, they are stereochemically controllable. Isotactic, syndiotactic, and atactic forms can all be produced, depending on the catalyst system used.</para>
+<para>The active form of a Ziegler&#8211;Natta catalyst is an alkyltitanium intermediate with a vacant coordination site on the metal. Coordination of alkene monomer to the titanium occurs, and the coordinated alkene then inserts into the carbon&#8211;titanium bond to extend the alkyl chain. A new coordination site opens up during the insertion step, so the process repeats indefinitely.</para>
+<figure class="unnumbered scaled-down">
+<media alt="An illustration shows a reaction in which a reactant reacts with alkene to yield an intermediate that further yields the product. The reactant shows titanium highlighted in pink dash bonded to a chain of two methylene groups bonded to R. Ti is labeled &#8216;Vacant coordination site.&#8217; Ti shows two single bonds one dash bond and one wedge bond. The alkene highlighted in blue shows two methylene groups double bonded. The intermediate shows titanium highlighted in pink dash bonded to a chain of two methylene groups bonded to R. Ti shows two single bonds one dash bond and two wedge bonds. The alkene is coordinated in such a way that one of the wedge bonds is adjacent to the double bond of alkene. The product is similar to the reactant but the alkene is dash bonded to titanium and bonded to the chain of two methylene groups bonded to R.">
+<image mime-type="image/jpeg" src="../../media/OChem_31_02_002.jpg"/>
+</media>
+</figure>
+<para>The linear polyethylene produced by the Ziegler&#8211;Natta process, called <emphasis effect="italics">high-density polyethylene,</emphasis> is a highly crystalline polymer with 4000 to 7000 ethylene units per chain and molecular weights in the range 100,000 to 200,000 amu. High-density polyethylene has greater strength and heat resistance than the branched product of radical-induced polymerization, called <emphasis effect="italics">low-density polyethylene,</emphasis> and is used to produce plastic squeeze bottles and molded housewares.</para>
+<para>Polyethylenes of even higher molecular weights are produced for specialty applications. So-called high-molecular-weight (HMW) polyethylene contains 10,000 to 18,000 monomer units per chain and molecular weights in the range of 300,000&#8211;500,000. It is used for underground pipes and large containers. Ultrahigh-molecular-weight (UHMW) polyethylene contains more than 100,000 monomer units per chain and has molecular weights ranging from 3,000,000 to 6,000,000 amu. It is used in bearings, conveyor belts, and bulletproof vests, among other applications requiring exceptional wear resistance.</para>
+<section class="section-exercises">
+<title>Problems</title>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/31-02-OC-P04"/></para>
+</problem>
+</exercise>
+<exercise>
+<problem>
+<para><link class="os-embed" url="#exercise/31-02-OC-P05"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
