@@ -6,6 +6,270 @@
     <md:uuid>8847f520-4abc-4990-92bb-9ca484c1641f</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<para id="para-00001">As promised in the chapter introduction, the past few sections have been a fast-paced tour of a large number of reactions. Following it all undoubtedly required a lot of work and a lot of page-turning to look at earlier sections.</para>
+<para id="para-00002">After examining the various metabolic pathways, perhaps the main conclusion about biological chemistry is the remarkable similarity between the mechanisms of biological reactions and the mechanisms of laboratory reactions. If you were to look at the steps of vitamin B<sub>12</sub> biosynthesis, you would see the same kinds of reactions we’ve been seeing throughout the text—nucleophilic substitutions, eliminations, aldol reactions, nucleophilic acyl substitutions, and so forth. There are, of course, some complexities, but the fundamental mechanisms of organic chemistry remain the same, whether in the laboratory with smaller molecules or in organisms with larger molecules.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows reaction between succinyl CoA and glycine to synthesize vitamin B12 - cyanocobalamin. The structure of succinyl CoA shows a carboxylate ion bonded to a 2-carbon chain bonded to COSCoA. Glycine shows a blue ammonium ion bonded to a carbon bonded to two hydrogens at the top the carbon is further bonded to a carboxylate ion. The structure of vitamin B12 shows fusion of eight rings arranged in three tiers with a pink cobalt at the center; the first tier comprising of a cyclopentane tilted 90 degrees left is fused to a cyclohexadiene fused to a cyclopentane; the upper tip of cyclopentane on the left is bonded to a hydrogen and to a 2-carbon chain bonded to CONH2; the tip is bonded to a methyl group and bonded to a carbon bonded to CONH2; the lower left position shows an embedded blue nitrogen; the cyclohexadiene is bonded to a methyl group and bottom shows an embedded pink cobalt; a blue nitrogen is embedded on the right; the third ring is bonded to a methyl group and a carbon bonded to CONH2 the tip is bonded to a hydrogen and to a two-carbon chain bonded to CONH2. The second tier shows a cyclopentane tilted 90 degrees right such that its tip is fused a cyclohexene both of which have embedded blue nitrogens at the bottom. The fusion point between the first and second tier on the left is bonded to a methyl group. The third tier comprises of a cyclopentene fused to a cyclohexene fused to another cyclopentene; the first cyclopentene tilted 90 degree on the left is bonded to a carbon bonded to CONH2 and a hydrogen the bottom of cyclopentane is bonded to a methyl group and also has a long bond explained later; the second ring of third tier that is cyclohexene is bonded to a methyl group at the bottom; the third ring that is an inverted cyclopentene is bonded to two methyl groups on the right the bottom is bonded a hydrogen at the top and to a two-carbon chain bonded to CONH2 at the bottom; the bottom of the first cyclopentene is also bonded to a three-carbon chain having a carbonyl group at the third position bonded to HN bonded to a two-carbon chain having C2 wedge bonded to a methyl group and dash bonded to a hydrogen the carbon is further bonded to an oxygen bonded to a phosphorous double bonded to an oxygen and also to an oxygen ion at the bottom the phosphorous is bonded to an oxygen bonded to an inverted cyclopentane having an oxygen embedded at the tip the left bottom position of ring is bonded CH2OH; the upper right position is bonded to a hydroxyl group; the right side of cyclopentane is bonded to a cyclopentene having two nitrogens embedded at opposite positions; the nitrogen at the top forms a long bond with pink cobalt which is further bonded to a carbon triple bonded to nitrogen at the top; the cyclopentene is fused to a benzene bonded to two methyl groups.">
+<image mime-type="image/jpeg" src="../../media/OChem_29_10_001.jpg"/>
+</media>
+</figure>
+<para id="para-00003">So what is there to be learned from studying metabolism? One good answer is given in the following <emphasis effect="italics">Chemistry Matters</emphasis>, which relates the story of how knowledge of a biosynthetic pathway led to the design of new drugs that have saved millions of lives.</para>
+<section class="chemistry-matters" id="sect-00001">
+<title>Statin Drugs</title>
+<para id="para-00004">Coronary heart disease—the buildup of cholesterol-containing plaques on the walls of heart arteries—is the leading cause of death for both men and women older than 20 in industrialized countries. It’s estimated that up to one-third of women and one-half of men will develop the disease at some point in their lives.</para>
+<para id="para-00005">The onset of coronary heart disease is directly correlated with blood cholesterol levels (see the <link document="m00271" target-id="sect-00006">Chapter 27 <emphasis effect="italics">Chemistry Matters</emphasis></link>), and the first step in disease prevention is to lower those levels. It turns out that only about 25% of your blood cholesterol comes from what you eat; the remaining 75%—about 1 gram each day—is biosynthesized in your liver from dietary fats and carbohydrates. Thus, any effective plan for lowering your cholesterol level means limiting the amount that your body makes, which is where a detailed chemical knowledge of cholesterol biosynthesis comes in.</para>
+<figure id="fig-00002">
+<media alt="Alt Text Placeholder">
+<!--<image mime-type="image/jpeg" src="../../media/OChem_29_98_HeartDis.jpg"/>-->
+<image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+</media>
+<caption><emphasis effect="bold">The buildup of cholesterol deposits inside arteries can cause coronary heart disease, a leading cause of death for both men and women.</emphasis></caption>
+</figure>
+<para id="para-00006">We saw in <link document="m00269"/> and <link document="m00271"/> that all steroids, including cholesterol, are biosynthesized from the triterpenoid lanosterol, which in turn comes from acetyl CoA through isopentenyl diphosphate. If you knew all the mechanisms for all the chemical steps in cholesterol biosynthesis, you might be able to devise a drug that would block one of those steps, thereby short-circuiting the biosynthetic process and controlling the amount of cholesterol produced.</para>
+<para id="para-00007">But we do know those mechanisms! Look back at the pathway for the biosynthesis of isopentenyl diphosphate from acetyl CoA, shown in <link>Figure 27_05_OChem-27-05-004_80485-27-07_M-AcetylCoA</link>. It turns out that the rate-limiting step in the pathway is the reduction of 3-hydroxy-3-methylglutaryl CoA (abbreviated HMG-CoA) to mevalonate, brought about by the enzyme HMG-CoA reductase. If that enzyme could be stopped from functioning, cholesterol biosynthesis would also be stopped.</para>
+<figure class="unnumbered scaled-down" id="fig-00003">
+<media alt="An illustration shows 3-hydroxy-3-methyl-glutaryl coenzyme A (HMG-CoA) undergoing a “rate limiting” reaction to form mevalonate that further synthesizes cholesterol. The structure of 3-hydroxy-3-methyl-glutaryl coenzyme A (HMG-CoA) shows a central carbon wedge bonded to a methyl group at the top left and dash bonded to a hydroxyl group at the top right and single bonded to a methylene group at the bottom left that is bonded to a carboxylate ion; the carbon is single bonded to a methylene group at the bottom right that is bonded to a carbonyl group (pink O) whose carbon is bonded to SCoA. The structure of mevalonate is similar to the reactant but the methylene group at the bottom right is bonded to a methylene group bonded to a pink hydroxyl group. The structure of cholesterol shows a cyclohexane wedge bonded to a hydroxyl group and dash bonded to hydrogen at lower left position; the cyclohexane is fused to a cyclohexene which is fused to a cyclohexane at the top that is further fused to a cyclopentane tilted 90 degrees right; the point of fusion between first cyclohexane and the cyclohexene is wedge bonded to a methyl group; the upper right position of the cyclohexene is wedge bonded to a hydrogen at the top; the lower left and lower right positions of the cyclohexane are dash bonded to hydrogen. The upper point of fusion between the cyclohexane and cyclopentane is wedge bonded to a methyl group. The upper right position of cyclopentane is bonded to a hydrogen and wedge bonded to a carbon bonded to an open bond on the left and to a three-carbon chain on the right wherein C3 shows an open bond at the top.">
+<image mime-type="image/jpeg" src="../../media/OChem_29_10_003.jpg"/>
+</media>
+</figure>
+<para id="para-00008">To find a drug that blocks HMG-CoA reductase, chemists did two simultaneous experiments on a large number of potential drug candidates isolated from soil microbes. In one experiment, the drug candidate and mevalonate were added to liver extract; in the second experiment, only the drug candidate was added without mevalonate. If cholesterol was produced only in the presence of added mevalonate but not in the absence of mevalonate, the drug candidate must have blocked the enzyme for mevalonate synthesis.</para>
+<para id="para-00009">The drugs that block HMG-CoA reductase, and thus control cholesterol synthesis in the body, are called <emphasis effect="italics">statins</emphasis>. In just the 10-year period following their introduction in 1994, the death rate from coronary heart disease decreased by 33% in the United States.</para>
+<para id="para-00010">Like many drugs, statins don’t come without risks and have some serious side effects that people considering their use should be aware of, but approaching 30 years later, they remain among the most widely prescribed drugs in the world, with estimated annual sales of $14 billion. Atorvastatin (Lipitor), simvastatin (Zocor), rosuvastatin (Crestor), pravastatin (Pravachol), and lovastatin (Mevacor) are some examples. An X-ray crystal structure of the active site in the HMG-CoA reductase enzyme is shown in the accompanying graphic, along with a molecule of atorvastatin (blue) that is tightly bound in the active site and stops the enzyme from functioning. A good understanding of organic chemistry certainly paid off in this instance.</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="A two part illustration shows the X-ray crystal structure and the molecular structure of atorvastatin. The first illustration having x-ray structure shows the active site in the HMG-CoA reductase enzyme along with a molecule of atorvastatin. Green ribbons are embedded with yellow contorted tubular structure interspersed with green tubular structures and a purple tubular structure representing the atorvastatin. The green ribbon is labeled as L alpha 6 at the top right L alpha 4 at bottom left L alpha 10 at bottom center and L alpha 1 on the right. The yellow tubular structure is bound by two huge arrows at the bottom left labeled as “S beta 4” and at the center of structure; the tubular structures are marked with K691 K692 D690 R590 S684 and V683. The green tubular structure is labeled with units R556 L562 D586 R508 A850 H 753 L853 L967 K735. The tips of tubular structures have different colored edges; the distances between the open bonds of atorvastatin and the tips of yellow tubular structure are shown with dotted lines and the measurements given are 2.7 2.8 2.9 3.0 2.8; the embedded blue nitrogens are represented as blue joints in the purple atorvastatin structure. The second illustration having molecular structure of atorvastatin shows a centrally placed cyclopentadiene having a blue nitrogen embedded in the tip; the upper left position is bonded to a benzene bonded to “F” and the upper right position is bonded to a carbon bonded to two methyl groups; the lower left position is bonded to a benzene; the lower right position is bonded to a carbonyl group (oxygen highlighted in pink) whose carbon is bonded to a blue nitrogen attached to a hydrogen on the left and bonded to a benzene on the right; the blue nitrogen of cyclopentadiene is bonded to a six-carbon chain bonded to a pink carboxylate ion having C3 dash bonded to pink hydroxyl group and wedge bonded to a hydrogen; C5 is wedge bonded to a pink hydroxyl group and dash bonded to a hydrogen; the chain bends at C3 and forms a semi-cyclohexane structure on top.">
+<image mime-type="image/jpeg" src="../../media/OChem_29_10_004.jpg"/>
+</media>
+</figure>
+</section>
+<section class="key-terms" id="sect-00002">
+<list id="list-00001">
+<item>anabolism</item>
+<item><emphasis effect="italics">β</emphasis>-oxidation pathway</item>
+<item>catabolism</item>
+<item>citric acid cycle</item>
+<item>deamination</item>
+<item>gluconeogenesis</item>
+<item>glycolysis</item>
+<item>metabolism</item>
+<item>Schiff base</item>
+<item>transamination</item>
+</list>
+</section>
+<section class="summary" id="sect-00003">
+<title>Summary</title>
+<para id="para-00011"><emphasis effect="bold">Metabolism</emphasis> is the sum of all chemical reactions in the body. Reactions that break down large molecules into smaller fragments are called <emphasis effect="bold">catabolism</emphasis>, and those that build up large molecules from small pieces are called <emphasis effect="bold">anabolism</emphasis>. Although the details of specific biochemical pathways are sometimes complex, all the reactions that occur follow the normal rules of organic chemical reactivity.</para>
+<para id="para-00012">The catabolism of fats begins with digestion, in which ester bonds are hydrolyzed to give glycerol and fatty acids. The fatty acids are degraded in the four-step <emphasis effect="bold"><emphasis effect="italics">β</emphasis>-oxidation pathway</emphasis> by removal of two carbons at a time, yielding acetyl CoA. Catabolism of carbohydrates begins with the hydrolysis of glycoside bonds to give glucose, which is degraded in the ten-step <emphasis effect="bold">glycolysis</emphasis> pathway. Pyruvate, the initial product of glycolysis, is then converted into acetyl CoA. Acetyl CoA next enters the eight-step <emphasis effect="bold">citric acid cycle</emphasis>, where it is further degraded into CO<sub>2</sub>. The cycle is a closed loop of reactions in which the product of the final step (oxaloacetate) is a reactant in the first step.</para>
+<para id="para-00013">Catabolism of proteins is more complex than that of fats or carbohydrates because each of the 20 different amino acids is degraded by its own unique pathway. In general, though, the amino nitrogen atoms are removed and the substances that remain are converted into compounds that enter the citric acid cycle. Most amino acids lose their nitrogen atom by <emphasis effect="bold">transamination</emphasis>, a reaction in which the  –NH<sub>2</sub> group of the amino acid trades places with the keto group of an <emphasis effect="italics">α</emphasis>-keto acid such as <emphasis effect="italics">α</emphasis>-ketoglutarate. The products are a new <emphasis effect="italics">α</emphasis>-keto acid and glutamate.</para>
+<para id="para-00014">The energy released in catabolic pathways is used in the <emphasis effect="italics">electron-transport chain</emphasis> to make molecules of adenosine triphosphate, ATP. ATP, the final result of food catabolism, couples to and drives many otherwise unfavorable reactions.</para>
+<para id="para-00015">Biomolecules are synthesized as well as degraded, but the pathways for anabolism and catabolism are not the exact reverse of one another. Fatty acids are biosynthesized from acetate by an 8-step pathway, and carbohydrates are made from pyruvate by the 11-step <emphasis effect="bold">gluconeogenesis</emphasis> pathway.</para>
+</section>
+<section class="additional-problems" id="sect-00004">
+<title>Additional Problems</title>
+<para id="para-00016"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00017"><link class="os-embed" url="#exercise/29-99-OC-VC01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00018"><link class="os-embed" url="#exercise/29-99-OC-VC02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00019"><link class="os-embed" url="#exercise/29-99-OC-VC03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00020"><link class="os-embed" url="#exercise/29-99-OC-VC04"/></para>
+</problem>
+</exercise>
+<para id="para-00021"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00022"><link class="os-embed" url="#exercise/29-99-OC-MP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00023"><link class="os-embed" url="#exercise/29-99-OC-MP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00024"><link class="os-embed" url="#exercise/29-99-OC-MP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00025"><link class="os-embed" url="#exercise/29-99-OC-MP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00026"><link class="os-embed" url="#exercise/29-99-OC-MP05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00027"><link class="os-embed" url="#exercise/29-99-OC-MP06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00011">
+<problem id="prob-00011">
+<para id="para-00028"><link class="os-embed" url="#exercise/29-99-OC-MP07"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00012">
+<problem id="prob-00012">
+<para id="para-00029"><link class="os-embed" url="#exercise/29-99-OC-MP08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00013">
+<problem id="prob-00013">
+<para id="para-00030"><link class="os-embed" url="#exercise/29-99-OC-MP09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00014">
+<problem id="prob-00014">
+<para id="para-00031"><link class="os-embed" url="#exercise/29-99-OC-MP10"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00015">
+<problem id="prob-00015">
+<para id="para-00032"><link class="os-embed" url="#exercise/29-99-OC-MP11"/></para>
+</problem>
+</exercise>
+<para id="para-00033"><emphasis effect="bold"><span class="red-text">Enzymes and Coenzymes</span></emphasis></para>
+<exercise id="exer-00016">
+<problem id="prob-00016">
+<para id="para-00034"><link class="os-embed" url="#exercise/29-99-OC-AP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00017">
+<problem id="prob-00017">
+<para id="para-00035"><link class="os-embed" url="#exercise/29-99-OC-AP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00018">
+<problem id="prob-00018">
+<para id="para-00036"><link class="os-embed" url="#exercise/29-99-OC-AP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00019">
+<problem id="prob-00019">
+<para id="para-00037"><link class="os-embed" url="#exercise/29-99-OC-AP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00020">
+<problem id="prob-00020">
+<para id="para-00038"><link class="os-embed" url="#exercise/29-99-OC-AP05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00021">
+<problem id="prob-00021">
+<para id="para-00039"><link class="os-embed" url="#exercise/29-99-OC-AP06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00022">
+<problem id="prob-00022">
+<para id="para-00040"><link class="os-embed" url="#exercise/29-99-OC-AP07"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00023">
+<problem id="prob-00023">
+<para id="para-00041"><link class="os-embed" url="#exercise/29-99-OC-AP08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00024">
+<problem id="prob-00024">
+<para id="para-00042"><link class="os-embed" url="#exercise/29-99-OC-AP09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00025">
+<problem id="prob-00025">
+<para id="para-00043"><link class="os-embed" url="#exercise/29-99-OC-AP10"/></para>
+</problem>
+</exercise>
+<para id="para-00044"><emphasis effect="bold"><span class="red-text">Metabolism</span></emphasis></para>
+<exercise id="exer-00026">
+<problem id="prob-00026">
+<para id="para-00045"><link class="os-embed" url="#exercise/29-99-OC-AP11"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00027">
+<problem id="prob-00027">
+<para id="para-00046"><link class="os-embed" url="#exercise/29-99-OC-AP12"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00028">
+<problem id="prob-00028">
+<para id="para-00047"><link class="os-embed" url="#exercise/29-99-OC-AP13"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00029">
+<problem id="prob-00029">
+<para id="para-00048"><link class="os-embed" url="#exercise/29-99-OC-AP14"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00030">
+<problem id="prob-00030">
+<para id="para-00049"><link class="os-embed" url="#exercise/29-99-OC-AP15"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00031">
+<problem id="prob-00031">
+<para id="para-00050"><link class="os-embed" url="#exercise/29-99-OC-AP16"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00032">
+<problem id="prob-00032">
+<para id="para-00051"><link class="os-embed" url="#exercise/29-99-OC-AP17"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00033">
+<problem id="prob-00033">
+<para id="para-00052"><link class="os-embed" url="#exercise/29-99-OC-AP18"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00034">
+<problem id="prob-00034">
+<para id="para-00053"><link class="os-embed" url="#exercise/29-99-OC-AP19"/></para>
+</problem>
+</exercise>
+<para id="para-00054"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+<exercise id="exer-00035">
+<problem id="prob-00035">
+<para id="para-00055"><link class="os-embed" url="#exercise/29-99-OC-AP20"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00036">
+<problem id="prob-00036">
+<para id="para-00056"><link class="os-embed" url="#exercise/29-99-OC-AP21"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00037">
+<problem id="prob-00037">
+<para id="para-00057"><link class="os-embed" url="#exercise/29-99-OC-AP22"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00038">
+<problem id="prob-00038">
+<para id="para-00058"><link class="os-embed" url="#exercise/29-99-OC-AP23"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00039">
+<problem id="prob-00039">
+<para id="para-00059"><link class="os-embed" url="#exercise/29-99-OC-AP24"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00040">
+<problem id="prob-00040">
+<para id="para-00060"><link class="os-embed" url="#exercise/29-99-OC-AP25"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
