@@ -6,6 +6,264 @@
     <md:uuid>b7760263-972f-4c17-8cfc-d5ccfa4716d8</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<para id="para-00001">How can you keep straight all the rules about pericyclic reactions? The summary in <link document="m00344" target-id="table-00001"/>, <link document="m00346" target-id="table-00001"/>, and <link document="m00347" target-id="table-00001"/> can be distilled into a mnemonic phrase that provides an easy way to predict the stereochemical outcome of any pericyclic reaction:</para>
+<para id="para-00002"><emphasis class="centered-text">The Electrons Circle Around (<emphasis effect="bold"><span class="magenta-text">TECA</span></emphasis>)</emphasis></para>
+<para id="para-00003"><emphasis class="centered-text"><emphasis effect="bold"><emphasis effect="italics"><span class="magenta-text">T</span></emphasis></emphasis>hermal reactions with an <emphasis effect="bold"><emphasis effect="italics"><span class="magenta-text">E</span></emphasis></emphasis>ven number of electron pairs are <emphasis effect="bold"><emphasis effect="italics"><span class="magenta-text">C</span></emphasis></emphasis>onrotatory or <emphasis effect="bold"><emphasis effect="italics"><span class="magenta-text">A</span></emphasis></emphasis>ntarafacial.</emphasis></para>
+<para id="para-00004">A change either from thermal to photochemical or from an even to an odd number of electron pairs changes the outcome from conrotatory/antarafacial to disrotatory/suprafacial. A change from both thermal and even to photochemical and odd causes no change because two negatives make a positive.</para>
+<para id="para-00005">These selection rules are summarized in <link target-id="table-00001"/>; knowing them gives you the ability to predict the stereochemistry of literally thousands of pericyclic reactions.</para>
+<table summary="" id="table-00001">
+<title>Stereochemical Rules for Pericyclic Reactions</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Electronic state</entry>
+<entry valign="top" align="left">Electron pairs</entry>
+<entry valign="top" align="left">Stereochemistry</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="bold">Ground state (thermal)</emphasis></entry>
+<entry valign="top" align="left">Even number<newline/>Odd number</entry>
+<entry valign="top" align="left">Antara–con<newline/>Supra–dis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="bold">Excited state (photochemical)</emphasis></entry>
+<entry valign="top" align="left">Even number<newline/>Odd number</entry>
+<entry valign="top" align="left">Supra–dis<newline/>Antara–con</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00006"><link class="os-embed" url="#exercise/30-09-OC-P12"/></para>
+</problem>
+</exercise>
+</section>
+<section class="chemistry-matters" id="sect-00002">
+<title>Vitamin D, the Sunshine Vitamin</title>
+<para id="para-00007">Vitamin D, discovered in 1918, is a general name for two related compounds, <emphasis effect="bold">cholecalciferol</emphasis> (vitamin D<sub>3</sub>) and <emphasis effect="bold">ergocalciferol</emphasis> (vitamin D<sub>2</sub>). Both are derived from steroids (<link document="m00270"/>) and differ only in the nature of the hydrocarbon side chain attached to the five-membered ring. Cholecalciferol comes primarily from dairy products and fish; ergocalciferol comes from some vegetables.</para>
+<figure id="fig-00001">
+<media alt="Alt Text Placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_30_98_VitaminD.jpg"/>
+</media>
+<caption><emphasis effect="bold">Here are the sunbathers, again, with their chemical work complete.</emphasis></caption>
+</figure>
+<para id="para-00008">The function of vitamin D in the body is to control the calcification of bones by increasing intestinal absorption of calcium. When sufficient vitamin D is present, approximately 30% of ingested calcium is absorbed, but in the absence of vitamin D, calcium absorption falls to about 10%. A deficiency of vitamin D thus leads to poor bone growth and to the diseases <emphasis effect="italics">rickets</emphasis> in children and <emphasis effect="italics">osteoporosis</emphasis> in adults.</para>
+<para id="para-00009">Actually, neither vitamin D<sub>2</sub> nor D<sub>3</sub> is present in foods. Rather, foods contain the precursor molecules 7-dehydrocholesterol and ergosterol. In the presence of sunlight, both precursors are converted in the outer, epidermal layer of skin to the active vitamins, hence the nickname for vitamin D, the “sunshine vitamin.”</para>
+<figure class="unnumbered scaled-down" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where 7-Dehydrocholesterol Ergosterol upon a photochemical reaction yields an intermediate which undergoes [1 7] H shift to yield Cholecalciferol Ergocalciferol. The structure of 7-Dehydrocholesterol Ergosterol shows cyclohexane ring dash bonded to a hydroxyl group at its bottom left and fused to a cyclohexene having 2 pink double bonds. The fused top is wedge bonded to a methyl group. The top right of the cyclohexene is fused to a cyclohexane which is fused to a cyclopentane at its C2-C3. The fused top is wedge bonded to a methyl group and the top of the cyclopentane is wedge bonded to an R. The structure of the intermediate shows a cyclohexene with a pink double bond dash bonded to a hydroxyl group at its bottom. At the top left the ring is bonded to a methylene group bonded to pink hydrogen. At the top right the ring is bonded to a 2-carbon chain with a pink double bond between the carbons. C2 of the chain is bonded to a cyclohexene with a pink double bond. This cyclohexene is fused to a cyclopentane. The fused tip is wedge bonded to a methyl group and the tip of the cyclopentane is wedge bonded to an R. The structure of Cholecalciferol Ergocalciferol shows a cyclohexane dash bonded to a hydroxyl group at C4. C1 is double boned (one bond highlighted in pink) to a methylene group. C2 is bonded to a 2-carbon chain with a pink double bond at C1 and C2. C2 of the chain is bonded to a cyclohexene that is fused to a cyclopentane. The fused tip is wedge bonded to a methyl group and the tip of the cyclopentane is wedge bonded to an R.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_09_002.jpg"/>
+</media>
+</figure>
+<para id="para-00010">Pericyclic reactions are unusual in living organisms, and the photochemical synthesis of vitamin D is one of only a few well-studied examples. The reaction takes place in two steps, an electrocyclic ring-opening of a cyclohexadiene to yield an open-chain hexatriene, followed by a sigmatropic [1,7] H shift to yield an isomeric hexatriene. Only the initial electrocyclic ring-opening requires irradiation by so-called UVB light of 295 to 300 nm wavelength. The subsequent sigmatropic [1,7] H shift occurs spontaneously by a thermal isomerization.</para>
+<para id="para-00011">Following synthesis under the skin, further metabolic processing of cholecalciferol and ergocalciferol in the liver and kidney introduces two additional  –OH groups to give the active forms of the vitamin, calcitriol and ergocalcitriol.</para>
+</section>
+<section class="key-terms" id="sect-00003">
+<list id="list-00001">
+<item>antarafacial</item>
+<item>conrotatory</item>
+<item>cycloaddition reaction</item>
+<item>disrotatory</item>
+<item>electrocyclic reaction</item>
+<item>frontier orbitals</item>
+<item>highest occupied molecular orbital (HOMO)</item>
+<item>lowest unoccupied molecular orbital (LUMO)</item>
+<item>pericyclic reaction</item>
+<item>photochemical reaction</item>
+<item>sigmatropic rearrangement</item>
+<item>suprafacial</item>
+<item>symmetry-allowed</item>
+<item>symmetry-disallowed</item>
+</list>
+</section>
+<section class="summary" id="sect-00004">
+<title>Summary</title>
+<para id="para-00012">A <emphasis effect="bold">pericyclic reaction</emphasis> takes place in a single step through a cyclic transition state without intermediates. There are three major classes of pericyclic processes: electrocyclic reactions, cycloaddition reactions, and sigmatropic rearrangements. The stereochemistry of these reactions is controlled by the symmetry of the orbitals involved in bond reorganization.</para>
+<para id="para-00013"><emphasis effect="bold">Electrocyclic reactions</emphasis> involve the cyclization of conjugated acyclic polyenes. For example, 1,3,5-hexatriene cyclizes to 1,3-cyclohexadiene on heating. Electrocyclic reactions can occur by either <emphasis effect="bold">conrotatory</emphasis> or <emphasis effect="bold">disrotatory</emphasis> pathways, depending on the symmetry of the terminal lobes of the <emphasis effect="italics">π</emphasis> system. Conrotatory cyclization requires that both lobes rotate in the same direction, whereas disrotatory cyclization requires that the lobes rotate in opposite directions. The reaction course in a specific case can be found by looking at the symmetry of the <emphasis effect="bold">highest occupied molecular orbital (HOMO)</emphasis>.</para>
+<para id="para-00014"><emphasis effect="bold">Cycloaddition reactions</emphasis> are those in which two unsaturated molecules add together to yield a cyclic product. For example, Diels–Alder reaction between a diene (four <emphasis effect="italics">π</emphasis> electrons) and a dienophile (two <emphasis effect="italics">π</emphasis> electrons) yields a cyclohexene. Cycloadditions can take place either by <emphasis effect="bold">suprafacial</emphasis> or <emphasis effect="bold">antarafacial</emphasis> pathways. Suprafacial cycloaddition involves interaction between lobes on the same face of one component and on the same face of the second component. Antarafacial cycloaddition involves interaction between lobes on the same face of one component and on opposite faces of the other component. The reaction course in a specific case can be found by looking at the symmetry of the HOMO of one component and the <emphasis effect="bold">lowest unoccupied molecular orbital (LUMO)</emphasis> of the other.</para>
+<para id="para-00015"><emphasis effect="bold">Sigmatropic rearrangements</emphasis> involve the migration of a <emphasis effect="italics">σ</emphasis>-bonded group across a <emphasis effect="italics">π</emphasis> electron system. For example, Claisen rearrangement of an allylic vinylic ether yields an unsaturated carbonyl compound, and Cope rearrangement of a 1,5-hexadiene yields an isomeric 1,5-hexadiene. Sigmatropic rearrangements can occur with either suprafacial or antarafacial stereochemistry; the selection rules for a given case are the same as those for cycloaddition reactions.</para>
+<para id="para-00016">The stereochemistry of any pericyclic reaction can be predicted by counting the total number of electron pairs (bonds) involved in bond reorganization and then applying the mnemonic “<emphasis effect="bold"><span class="magenta-text">T</span></emphasis>he <emphasis effect="bold"><span class="magenta-text">E</span></emphasis>lectrons <emphasis effect="bold"><span class="magenta-text">C</span></emphasis>ircle <emphasis effect="bold"><span class="magenta-text">A</span></emphasis>round.” That is, <emphasis effect="bold">thermal</emphasis> (ground-state) reactions involving an even number of electron pairs occur with either conrotatory or antarafacial stereochemistry. Exactly the opposite rules apply to <emphasis effect="bold">photochemical</emphasis> (excited-state) reactions.</para>
+</section>
+<section class="additional-problems" id="sect-00005">
+<title>Additional Problems</title>
+<para id="para-00017"><emphasis effect="bold"><span class="red-text">Visualizing Chemistry</span></emphasis></para>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00018"><link class="os-embed" url="#exercise/30-99-OC-VC01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00019"><link class="os-embed" url="#exercise/30-99-OC-VC02"/></para>
+</problem>
+</exercise>
+<para id="para-00020"><emphasis effect="bold"><span class="red-text">Mechanism Problems</span></emphasis></para>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00021"><link class="os-embed" url="#exercise/30-99-OC-MP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00005">
+<problem id="prob-00005">
+<para id="para-00022"><link class="os-embed" url="#exercise/30-99-OC-MP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00006">
+<problem id="prob-00006">
+<para id="para-00023"><link class="os-embed" url="#exercise/30-99-OC-MP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00007">
+<problem id="prob-00007">
+<para id="para-00024"><link class="os-embed" url="#exercise/30-99-OC-MP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00008">
+<problem id="prob-00008">
+<para id="para-00025"><link class="os-embed" url="#exercise/30-99-OC-MP05"/></para>
+</problem>
+</exercise>
+<para id="para-00026"><emphasis effect="bold"><span class="red-text">Electrocyclic Reactions</span></emphasis></para>
+<exercise id="exer-00009">
+<problem id="prob-00009">
+<para id="para-00027"><link class="os-embed" url="#exercise/30-99-OC-AP01"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00010">
+<problem id="prob-00010">
+<para id="para-00028"><link class="os-embed" url="#exercise/30-99-OC-AP02"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00011">
+<problem id="prob-00011">
+<para id="para-00029"><link class="os-embed" url="#exercise/30-99-OC-AP03"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00012">
+<problem id="prob-00012">
+<para id="para-00030"><link class="os-embed" url="#exercise/30-99-OC-AP04"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00013">
+<problem id="prob-00013">
+<para id="para-00031"><link class="os-embed" url="#exercise/30-99-OC-AP05"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00014">
+<problem id="prob-00014">
+<para id="para-00032"><link class="os-embed" url="#exercise/30-99-OC-AP06"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00015">
+<problem id="prob-00015">
+<para id="para-00033"><link class="os-embed" url="#exercise/30-99-OC-AP07"/></para>
+</problem>
+</exercise>
+<para id="para-00034"><emphasis effect="bold"><span class="red-text">Cycloaddition Reactions</span></emphasis></para>
+<exercise id="exer-00016">
+<problem id="prob-00016">
+<para id="para-00035"><link class="os-embed" url="#exercise/30-99-OC-AP08"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00017">
+<problem id="prob-00017">
+<para id="para-00036"><link class="os-embed" url="#exercise/30-99-OC-AP09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00018">
+<problem id="prob-00018">
+<para id="para-00037"><link class="os-embed" url="#exercise/30-99-OC-AP10"/></para>
+</problem>
+</exercise>
+<para id="para-00038"><emphasis effect="bold"><span class="red-text">Sigmatropic Rearrangements</span></emphasis></para>
+<exercise id="exer-00019">
+<problem id="prob-00019">
+<para id="para-00039"><link class="os-embed" url="#exercise/30-99-OC-AP11"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00020">
+<problem id="prob-00020">
+<para id="para-00040"><link class="os-embed" url="#exercise/30-99-OC-AP12"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00021">
+<problem id="prob-00021">
+<para id="para-00041"><link class="os-embed" url="#exercise/30-99-OC-AP13"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00022">
+<problem id="prob-00022">
+<para id="para-00042"><link class="os-embed" url="#exercise/30-99-OC-AP14"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00023">
+<problem id="prob-00023">
+<para id="para-00043"><link class="os-embed" url="#exercise/30-99-OC-AP15"/></para>
+</problem>
+</exercise>
+<para id="para-00044"><emphasis effect="bold"><span class="red-text">General Problems</span></emphasis></para>
+<exercise id="exer-00024">
+<problem id="prob-00024">
+<para id="para-00045"><link class="os-embed" url="#exercise/30-99-OC-AP16"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00025">
+<problem id="prob-00025">
+<para id="para-00046"><link class="os-embed" url="#exercise/30-99-OC-AP17"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00026">
+<problem id="prob-00026">
+<para id="para-00047"><link class="os-embed" url="#exercise/30-99-OC-AP18"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00027">
+<problem id="prob-00027">
+<para id="para-00048"><link class="os-embed" url="#exercise/30-99-OC-AP19"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00028">
+<problem id="prob-00028">
+<para id="para-00049"><link class="os-embed" url="#exercise/30-99-OC-AP20"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00029">
+<problem id="prob-00029">
+<para id="para-00050"><link class="os-embed" url="#exercise/30-99-OC-AP21"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00030">
+<problem id="prob-00030">
+<para id="para-00051"><link class="os-embed" url="#exercise/30-99-OC-AP22"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00031">
+<problem id="prob-00031">
+<para id="para-00052"><link class="os-embed" url="#exercise/30-99-OC-AP23"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00032">
+<problem id="prob-00032">
+<para id="para-00053"><link class="os-embed" url="#exercise/30-99-OC-AP24"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00033">
+<problem id="prob-00033">
+<para id="para-00054"><link class="os-embed" url="#exercise/30-99-OC-AP25"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00034">
+<problem id="prob-00034">
+<para id="para-00055"><link class="os-embed" url="#exercise/30-99-OC-AP26"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
