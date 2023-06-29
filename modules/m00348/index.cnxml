@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Some Examples of Sigmatropic Rearrangements</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Some Examples of Sigmatropic Rearrangements</md:title>
@@ -6,6 +6,83 @@
     <md:uuid>ce8c5b6d-32f4-4153-b6f9-fdec12d65639</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<para id="para-00001">Because a [1,5] sigmatropic rearrangement involves three electron pairs (two <emphasis effect="italics">π</emphasis> bonds and one <emphasis effect="italics">σ</emphasis> bond), the orbital-symmetry rules in <link document="m00347" target-id="table-00001"/> predict a suprafacial reaction. In fact, the [1,5] suprafacial shift of a hydrogen atom across two double bonds of a <emphasis effect="italics">π</emphasis> system is a commonly observed sigmatropic rearrangements. For example, 5-methyl-1,3-cyclopentadiene rapidly rearranges at room temperature to yield a mixture of 1-methyl-, 2-methyl-, and 5-methyl-substituted products.</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows a chemical reaction of 5-methyl-1 3-cyclopentadiene to yield an intermediate compound by [1 5] shift at 25 degree C which upon undergoing [1 5] shift at 25 degree C yields a product. The structure of 5-methyl-1 3-cyclopentadiene shows a cyclopentene with a double bond at C1 and C3. C5 is bonded to a pink hydrogen and methyl group. The structure of the intermediate shows a cyclopentene with a double bond at C1 and C4. C2 is bonded to a methyl group. C3 is bonded to 2 hydrogen atoms of which one is in pink. The structure of the final product shows a cyclopentene with a double bond at C1 and C3. C3 is bonded to a methyl group. C5 is bonded to 2 hydrogen atoms of which one is in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">As another example, heating 5,5,5-trideuterio-(3<emphasis effect="italics">Z</emphasis>)-1,3-pentadiene causes scrambling of deuterium between positions 1 and 5.</para>
+<figure class="unnumbered scaled-down-30" id="fig-00002">
+<media alt="An illustration shows a chemical reaction where 5 5 5-trideuterio-(3Z)-1 3-pentadiene upon heating makes a [1 5] shift to yield a pentadiene with a shift in the deuterium position. The structure of 5 5 5-trideuterio-(3Z)-1 3-pentadiene shows a 5-carbon bent chain with a double bond at C2 and C4. C1 is bonded to 3 deuterium atoms highlighted in pink. C5 is bonded to 2 hydrogen atoms. The structure of the product shows a 5-carbon bent chain with a double bond at C1 and C3. C1 is bonded to 2 deuterium atoms highlighted in pink. C5 is bonded to 2 hydrogen atoms and a deuterium atom highlighted in pink.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_002.jpg"/>
+</media>
+</figure>
+<para id="para-00003">Both these [1,5] hydrogen shifts occur by a symmetry-allowed suprafacial pathway, as illustrated in <link>Figure 30_08_OChem-30-08-003_80485-30-12_TransState</link>. In contrast with these thermal [1,<emphasis effect="italics">5</emphasis>] sigmatropic hydrogen shifts, however, thermal [1,<emphasis effect="italics">3</emphasis>] hydrogen shifts are unknown. If they were to occur, they would have to proceed by a strained antarafacial reaction pathway.</para>
+<figure class="scaled-down" id="fig-00003">
+<media alt="An illustration shows an orbital view of a suprafacial [1 5] hydrogen shift. The reactant shows a pair of dumbbell shaped structures having blue lobes over pink lobes. Both the structures have an electron at the meeting point of the lobes. The first structure shows a pink lobe labeled “H” fused to another pink lobe. A 5-carbon chain with 2 double bonds is shown between the electrons. The structure of the intermediate shows 2 dumbbell shaped structures having blue lobes over pink lobes. Both the structures have an electron at the meeting point of the lobes. The bottom pink lobes of the 2 structures are fused to another pink lobe labeled “H”. A 5-carbon chain is shown between the electrons of the structures. An additional dotted line is shown parallel to the 5 carbon chain. The structure of the product shows a pair of dumbbell shaped structures having blue lobes over pink lobes. Both the structures have an electron at the meeting point of the lobes. The second structure shows a pink lobe labeled “H” fused to its pink lobe. A 5-carbon chain with 2 double bonds is shown between the electrons.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_003.jpg"/>
+</media>
+<caption><emphasis effect="bold">An orbital view of a suprafacial [1,5] hydrogen shift.</emphasis></caption>
+</figure>
+<para id="para-00004">Two other important sigmatropic reactions are the <emphasis effect="bold">Claisen rearrangement</emphasis> of either an allyl aryl ether (<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:msub><m:mrow><m:mtext>CHCH</m:mtext></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub><m:mtext>─</m:mtext><m:mtext>O</m:mtext><m:mtext>─</m:mtext><m:mtext>Ar</m:mtext></m:mrow></m:math>) or an allyl vinyl (<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:msub><m:mrow><m:mtext>CHCH</m:mtext></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub><m:mtext>─</m:mtext><m:mtext>O</m:mtext><m:mtext>─</m:mtext><m:mtext>CH</m:mtext><m:mtext>═</m:mtext><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mn>2</m:mn></m:mstyle></m:msub></m:mrow></m:math>) ether, and the <emphasis effect="bold">Cope rearrangement</emphasis> of a 1,5 hexadiene to an isomeric 1,5-diene. These two rearrangements, along with the Diels–Alder reaction, are among the most generally useful pericyclic reactions for organic synthesis. Thousands of examples of all three are known.</para>
+<figure class="unnumbered scaled-down" id="fig-00004">
+<media alt="An illustration shows 3 chemical reactions: Claisen rearrangement of an allylic aryl ether and an allylic vinylic ether and Cope rearrangement of a 1 5-diene. The first chemical reaction shows an allylic aryl ether undergoing a 3 3 rearrangement to yield an intermediate which further yields an o-allylphenol. The structure of the allylic aryl ether shows a cyclohexene ring with 3 alternate double bonds. The bond shown in bottom left is in pink. The bottom left carbon is bonded to a pink oxygen bonded to a 3-carbon chain with a terminal pink double bond. The intermediate shows a cyclohexane with two double bonds. The bottom left carbon is double bonded to a pink oxygen (one bond is highlighted in pink). The bottom right carbon is bonded to a hydrogen and bonded to a 3-carbon chain with a terminal pink double bond. The bond between C1 of the chain and the ring is highlighted in pink. The structure of o-allylphenol shows a benzene ring. The bottom right carbon is bonded to a pink hydroxyl group and bonded to a 3-carbon chain with a terminal pink double bond. The second chemical reaction shows an allylic vinylic ether undergoing a 3 3 rearrangement to yield an unsaturated ketone. The structure of the allylic vinylic ether shows a pink oxygen bonded to a 2-carbon chain on the right that shows a terminal pink double bond. At the bottom the oxygen is bonded to a 3-carbon chain with a terminal pink double bond. The bond between C1 of this chain and the ring is highlighted in pink. The unsaturated ketone shows a pink oxygen bonded to a 5-carbon chain on the right The double bond between oxygen and C1 bond between C2 and C3 and C4-C5 bond are highlighted in pink. The third chemical reaction (Cope rearrangement) shows a 1 5-diene undergoing a 3 3 rearrangement to yield an isomeric 1 5-diene. The structure of 1 5-diene shows a 5-carbon chain with a pink double bond at c1 and C5. C3-C4 bond is highlighted in pink. C1 is bonded to a methyl group. The structure of an isomeric 1 5-diene shows a cyclic 5-carbon chain with a pink double bond at C1 and C5. C3-C4 bond is highlighted in pink. C3 is bonded to a methyl group.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_004.jpg"/>
+</media>
+</figure>
+<para id="para-00005">Like the Diels–Alder reaction discussed in <link document="m00174"/> and <link document="m00175"/>, the Claisen rearrangement takes place in a single step through a pericyclic mechanism in which a reorganization of bonding electrons occurs in a six-membered, cyclic transition state. The 6-allyl-2,4-cyclohexadienone intermediate then isomerizes to <emphasis effect="italics">o</emphasis>-allylphenol (<link>Figure 30_08_OChem-18-04-003_80485-18-01_6allyl24</link>).</para>
+<figure class="scaled-down" id="fig-00005">
+<media alt="An illustration shows a chemical reaction of Allyl phenyl ether going through a transition state to form an intermediate (6-allyl-2 4-cyclohexadienone) that yields a o-Allylphenol. The structure of Allyl phenyl ether shows a benzene bonded to a pink oxygen bonded to green methylene group that is bonded to a methine group double bonded to a methylene group. An arrow from the double bond points to the bond between methine group and green methylene group. An arrow from the bond between green methylene group and oxygen points to O-C bond. An arrow from a double bond of benzene points outward. The transition state shows benzene bonded to pink oxygen. It is connected by dotted line to green methylene group bonded to methine group bonded to methylene group that is connected by dotted line to C2 of benzene. The dotted lines form another cyclohexane ring. The structure of the Intermediate (6-allyl-2 4-cyclohexadienone) shows a cyclohexene with 2 alternating double bonds. The ring is double bonded to an oxygen atom (shown in pink). C2 is bonded to a pink hydrogen and methylene group that is bonded to a methine group double bonded to a green methylene group. The structure of o-Allylphenol shows benzene with C1 bonded to a pink hydroxyl group. C2 is bonded to a methylene group that is bonded to a methine group double bonded to a green methylene group.">
+<image mime-type="image/jpeg" src="../../media/OChem_18_04_003.jpg"/>
+</media>
+<caption><emphasis effect="bold">Mechanism of Claisen rearrangement.</emphasis> C─O bond-breaking and C─C bond-making occur simultaneously.</caption>
+</figure>
+<para id="para-00006">Evidence for this mechanism comes from the observation that the rearrangement takes place with an inversion of the allyl group. That is, allyl phenyl ether containing a <sup>14</sup>C label on the allyl <emphasis effect="italics">ether</emphasis> carbon atom yields <emphasis effect="italics">o</emphasis>-allylphenol in which the label is on the <emphasis effect="italics">terminal</emphasis> vinylic carbon (green in <link>Figure 18_04_OChem-18-04-003_80485-18-01_6allyl24</link>). We’ll look at this reaction in more detail in <link document="m00348"/>.</para>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00007"><link class="os-embed" url="#exercise/30-08-OC-P08"/></para>
+</problem>
+</exercise>
+</section>
+<para id="para-00008">The Cope rearrangement that converts a 1,5-diene to an isomeric 1,5-diene is somewhat limited but a modification called the <emphasis effect="bold">Oxy Cope Rearrangement</emphasis> is wider in scope. As shown in the following example, a 1-5 diene with an –OH next to the double bond can be converted into an oxy-anion by reaction with a strong base such as potassium hydride (KH). A Cope rearrangement then occurs, and reaction with aqueous acid gives an enol that tautomerizes to a ketone.</para>
+<figure class="unnumbered" id="fig-00006">
+<media alt="Alt text placeholder">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_HOKH.jpg"/>
+</media>
+</figure>
+<para id="para-00009">Although biological examples of pericyclic reactions are relatively rare, a much-studied example occurs in bacteria during biosynthesis of the essential amino acid phenylalanine. Phenylalanine arises from the precursor chorismate through a Claisen rearrangement to prephenate, followed by decarboxylation to phenylpyruvate and reductive amination (<link>Figure 30_08_OChem-30-08-006_80485-30-14_Chorismate</link>). You might note that the reductive amination of phenylpyruvate is the exact reverse of the transamination process shown in <link>Figure 29_09_OChem-29-09-003_80485-29-14_M-PLPDepTran</link>, by which amino acids are deaminated. In addition, the reductive amination of ketones is a standard method for preparing amines in the laboratory, as we saw in <link document="m00294"/>.</para>
+<figure class="scaled-down" id="fig-00007">
+<media alt="An illustration shows two chemical reactions: Cope rearrangement of a 1 5-hexadiene and Claisen rearrangement of an allylic vinylic ether. Both react by suprafacial pathways [3 3]. The orbital view and its equivalent structure is shown for both the reactions. The first reaction shows the cope rearrangement of 1 5-hexadiene. The structure of the reactant shows a methylene group double bonded to a methine group at the right top that is wedge bonded to a methylene group at the bottom. The methylene group is wedge bonded to a methylene group wedge bonded to a methine group double bonded to a methylene group at the top. In the orbital representation of the reactant each methylene group is shown as a dumbbell shaped structure a pair of blue lobe and pink lobe with an electron at the meeting point of the lobes. The methylene groups at the top show the blue lobe at the top while the methylene groups at the bottom show the blue lobe at the bottom. The structure of the product shows the first and last methylene groups bonded. The bond between the second and third methylene groups is broken. The double bonds are replaced by single bonds and the single bonds are replaced by double bonds. The orbital representation of the product is similar to that of the reactant but the pink lobes of the first and last methylene groups are fused. The second reaction shows the Claisen rearrangement of an allylic vinylic ether. The structure of the reactant shows a methylene group double bonded to a methine group at the right top that is wedge bonded to a methylene group at the bottom. The methylene group is wedge bonded to an oxygen wedge bonded to a methine group that is double bonded to a methylene group at the top. The orbital representation of the reactant is the same as in the first reaction. The orbital representation of the product is the same as in the first reaction. The structure of the product shows the first and last methylene groups bonded. The bond between the second methylene group and the oxygen atom is broken.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_005.jpg"/>
+</media>
+<caption><emphasis effect="bold">Suprafacial [3,3] <emphasis effect="bold">(a)</emphasis> Cope and <emphasis effect="bold">(b)</emphasis> Claisen rearrangements.</emphasis></caption>
+</figure>
+<figure class="scaled-down" id="fig-00008">
+<media alt="An illustration shows a chemical reaction where chorismate reacts to yield phenylalanine by producing intermediaries like prephenate and phenylpyruvate. The structure of chorismate shows a cyclohexene with double bonds at C1 and C5. C1 is bonded to a carboxylate ion highlighted in pink. C3 is dash bonded to a hydrogen atom and wedge bonded to a pink oxygen bonded to a carbon atom bonded to a carboxylate ion and double bonded to a methylene group. C4 is wedge bonded to a hydrogen atom and dash bonded to a pink hydroxyl group. An arrow points from the double bond at C1 to C2-C3 bond. An arrow points from the wedge bond of pink oxygen to the O-C bond. An arrow points from the double bond between the carbon and methylene group to C1. The structure of prephenate shows a cyclohexene with double bonds at C2 and C5. C1 is bonded to a carboxylate ion highlighted in pink. C1 is wedge bonded to a methylene group bonded to a carbon single bonded to a carboxylate ion and double bonded to a pink oxygen. C4 is wedge bonded to a hydrogen atom and dash bonded to a pink hydroxyl group. An arrow points from the C1-C dash bond to C1-C2 bond. An arrow points from the double bond at C2 to C3-C4 bond. An arrow points from the dash bond of hydroxyl group to H of HA. An arrow points from H-A bond to A. This intermediate expels carbon dioxide and water both highlighted in pink while forming phenylpyruvate. The structure of phenylpyruvate shows a benzene ring bonded to a methylene group bonded to a carbon single bonded to a carboxylate ion and double bonded to a pink oxygen. The conversion of Phenylpyruvate to Phenylalanine is mediated by the conversion of glutamate highlighted in blue to alpha-ketoglutarate highlighted in pink. The structure of phenylalanine shows a benzene ring bonded to a methylene group bonded to a carbon single bonded to a carboxylate ion dash bonded to a hydrogen and wedge bonded to an ammonium ion.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_08_006.jpg"/>
+</media>
+<caption><emphasis effect="bold">Pathway for the bacterial biosynthesis of phenylalanine from chorismate, involving a Claisen rearrangement.</emphasis></caption>
+</figure>
+<section class="section-exercises" id="sect-00002">
+<title>Problems</title>
+<exercise id="exer-00002">
+<problem id="prob-00002">
+<para id="para-00010"><link class="os-embed" url="#exercise/30-08-OC-P09"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00003">
+<problem id="prob-00003">
+<para id="para-00011"><link class="os-embed" url="#exercise/30-08-OC-P10"/></para>
+</problem>
+</exercise>
+<exercise id="exer-00004">
+<problem id="prob-00004">
+<para id="para-00012"><link class="os-embed" url="#exercise/30-08-OC-P11"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>

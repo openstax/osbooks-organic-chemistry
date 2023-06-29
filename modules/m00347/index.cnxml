@@ -6,6 +6,55 @@
     <md:uuid>3dd3e548-7cbb-4fd8-b1e0-6e1d2157f44b</md:uuid>
   </metadata>
   <content>
-  <para id="para-00001">Placeholder</para>
-  </content>
+<para id="para-00001">A <term id="term-00001">sigmatropic rearrangement</term>, the third general kind of pericyclic reaction, is a process in which a <emphasis effect="italics">σ</emphasis>-bonded substituent atom or group migrates across a <emphasis effect="italics">π</emphasis> electron system from one position to another. A <emphasis effect="italics">σ</emphasis> bond is broken in the reactant, the <emphasis effect="italics">π</emphasis> bonds move, and a new <emphasis effect="italics">σ</emphasis> bond is formed in the product. The <emphasis effect="italics">σ</emphasis>-bonded group can be either at the end or in the middle of the <emphasis effect="italics">π</emphasis> system, as the following [1,5] and [3,3] rearrangements illustrate:</para>
+<figure class="unnumbered scaled-down" id="fig-00001">
+<media alt="An illustration shows two chemical reactions. The first chemical reaction shows a [1 5] sigmatropic rearrangement where a 1 3-diene undergoes a cyclic transition state to yield a 1 3-diene with a sigma bond formed. The structure of the reactant 1 3-diene shows a cyclic 5-carbon chain but C1 and C5 are not bonded. C1 is attached to a pink hydrogen (labeled 1) by a pink bond (labeled sigma bond broken). C1 shows 2 free bonds. C2 C3 and C4 have a free bond each and C5 has 2 free bonds. C2-C3 and C4-C5 have double bonds (pink). An arrow from the bond between C1 and pink hydrogen points to C1-C2; an arrow from the double bond between C2-C3 points to C3-C4; an arrow from the double bond between C4-C5 points to the pink hydrogen. The structure of Cyclic transition state shows a 5-carbon chain with C1 and C5 having 2 free bonds each and C2 C3 and C4 have one free bond each. A dashed pink cyclohexane ring having a pink hydrogen at its top is shown within the 5-carbon chain. The structure of the product 1 3-diene shows a 5 carbon chain having double bonds (pink) at C1 and C3. C1 has 2 free bonds. C2 C3 and C4 have one free bond each. C5 has 2 free bonds and is attached to a pink hydrogen by a pink bond. This pink bond is labeled “sigma bond formed.” The second chemical reaction shows a [3 3] sigmatropic rearrangement where an allylic vinyl ether with a broken sigma bond undergoes a cyclic transition state to yield an unsaturated ketone with a sigma bond formed. The structure of the reactant allylic vinyl ether shows 2 line-angle structures. The first one shows a 3-carbon chain with a pink double bond at C2. C2 is bonded to a methyl group. C3 is bonded to two methyl groups. C1 is bonded to an oxygen (highlighted in pink and labeled 1) that is bonded to C1 of the second line-angle structure which shows a 3-carbon chain with a pink double bond at C2-C3. C1 is bonded to 2 methyl groups and bonded (pink) to an oxygen atom. The pink bond between the pink oxygen and C1 of the second chain is labeled “sigma bond broken.” C2 is bonded to a methyl group. C3 is bonded to two methyl groups. An arrow from the broken sigma bond points to C1-C2 bond of the second chain. An arrow from the C2-C3 double bond of the second chain points to C3 of the second chain; an arrow from the double bond at C2-C3 of the first chain points to C1-C2 bond. C1-C2. The structure of cyclic transition state is similar to the reactant but the oxygen is not bonded to the second chain. A dashed pink cyclohexane ring having a pink oxygen at its top left is shown between the chains. The structure of the unsaturated ketone shows 2 line-angle structures. The first line-angle structure is similar to the one shown in the reactant except that C1 shows a pink double bond. C2 has no double bond. The second line-angle structure is similar to the one shown in the reactant but C3 of both chains are attached by a pink bond labeled “sigma bond formed;” no pink bond is shown between C1 of both the chains; in the second chain C1-C2 shows a pink double bond; no double bond between C2-C3.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_07_001.jpg"/>
+</media>
+</figure>
+<para id="para-00002">The notations [1,5] and [3,3] describe the kind of rearrangement that is occurring. The numbers refer to the two groups connected by the <emphasis effect="italics">σ</emphasis> bond in the reactant and designate the positions in those groups to which migration occurs. For example, in the [1,5] sigmatropic rearrangement of a 1,3-diene, the two groups connected by the <emphasis effect="italics">σ</emphasis> bond are a hydrogen atom and a pentadienyl group. Migration occurs to position 1 of the H group (the only possibility) and to position 5 of the pentadienyl group. In the [3,3] rearrangement of an allylic vinylic ether, the two groups connected by the <emphasis effect="italics">σ</emphasis> bond are an allylic group and the vinylic ether. Migration occurs to position 3 of the allylic group and also to position 3 of the vinylic ether.</para>
+<para id="para-00003">Like electrocyclic reactions and cycloadditions, sigmatropic rearrangements are controlled by orbital symmetries. There are two possible modes of reaction: migration of a group across the same face of the <emphasis effect="italics">π</emphasis> system is suprafacial, and migration of a group from one face of the <emphasis effect="italics">π</emphasis> system to the other face is antarafacial (<link>Figure 30_07_OChem-30-07-002_80485-30-11_SupAntSig</link>).</para>
+<figure class="scaled-down" id="fig-00002">
+<media alt="An illustration shows a cartoon representation of an orbital picture of Suprafacial and antarafacial sigmatropic rearrangements. The first set of dumbbell shaped structures show 2 pairs. The first one shows two dumbbell shaped structures fused at their pink lobes. The second one shows a dumbbell shaped structure with a blue lobe over a pink lobe. The electron shown at the base dumbbell of the fused structured is connected to the electron in the second one through a green strip. A dotted pink line is shown from the pink lobe of the dumbbell structure at the top of the fused structure to the pink lobe of the second one. This on undergoing antarafacial sigmatropic rearrangement (opposite side) yields a product in which 2 sets are shown. The first one shows a dumbbell shaped structure having a pink lobe over a blue lobe. The second one is a fused dumbbell shaped structure as shown in the first part of the reactant. The electron from the first one is connected to the electron shown at the top dumbbell shaped structure of the fused one through a green strip. The second reaction shows a suprafacial sigmatropic rearrangement. The first one shows 2 dumbbell shaped structures fused at their pink lobes. The second one shows a dumbbell shaped structure with a pink lobe over a blue lobe. The electron shown at the base dumbbell of the fused structured is connected to the electron in the second one through a green strip. Two dotted parallel pink lines are shown from the first pink lobe of the fused dumbbell shaped structure to the pink lobe of the second dumbbell shaped structure. The structure of the product is similar to the one shown in anatarafacial rearrangement except that the green strip between the electrons is partially overlapping the pink lobes of the fused dumbbell shaped structure.">
+<image mime-type="image/jpeg" src="../../media/OChem_30_07_002.jpg"/>
+</media>
+<caption><emphasis effect="bold">Suprafacial and antarafacial sigmatropic rearrangements.</emphasis></caption>
+</figure>
+<para id="para-00004">Both suprafacial and antarafacial sigmatropic rearrangements are symmetry-allowed, but suprafacial rearrangements are often easier for geometric reasons. The rules for sigmatropic rearrangements are identical to those for cycloaddition reactions (<link target-id="table-00001"/>).</para>
+<table summary="" id="table-00001">
+<title>Stereochemical Rules for Sigmatropic Rearrangements</title>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Electron pairs (double bonds)</entry>
+<entry valign="top" align="left"><span class="magenta-text">Thermal reaction</span></entry>
+<entry valign="top" align="left"><span class="green-text">Photochemical reaction</span></entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Even number</entry>
+<entry valign="top" align="left">Antarafacial</entry>
+<entry valign="top" align="left">Suprafacial</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Odd number</entry>
+<entry valign="top" align="left">Suprafacial</entry>
+<entry valign="top" align="left">Antarafacial</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section class="section-exercises" id="sect-00001">
+<title>Problems</title>
+<exercise id="exer-00001">
+<problem id="prob-00001">
+<para id="para-00005"><link class="os-embed" url="#exercise/30-07-OC-P07"/></para>
+</problem>
+</exercise>
+</section>
+</content>
 </document>
