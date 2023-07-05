@@ -204,8 +204,236 @@
         <col:module document="m00142"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Structure Determination: Nuclear Magnetic Resonance Spectroscopy</md:title>
+      <col:content>
+        <col:module document="m00143"/>
+        <col:module document="m00144"/>
+        <col:module document="m00145"/>
+        <col:module document="m00146"/>
+        <col:module document="m00147"/>
+        <col:module document="m00148"/>
+        <col:module document="m00149"/>
+        <col:module document="m00150"/>
+        <col:module document="m00151"/>
+        <col:module document="m00152"/>
+        <col:module document="m00153"/>
+        <col:module document="m00154"/>
+        <col:module document="m00155"/>
+        <col:module document="m00156"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Conjugated Compounds and Ultraviolet Spectroscopy</md:title>
+      <col:content>
+        <col:module document="m00170"/>
+        <col:module document="m00171"/>
+        <col:module document="m00172"/>
+        <col:module document="m00173"/>
+        <col:module document="m00174"/>
+        <col:module document="m00175"/>
+        <col:module document="m00176"/>
+        <col:module document="m00177"/>
+        <col:module document="m00178"/>
+        <col:module document="m00179"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Benzene and Aromaticity</md:title>
+      <col:content>
+        <col:module document="m00180"/>
+        <col:module document="m00181"/>
+        <col:module document="m00182"/>
+        <col:module document="m00183"/>
+        <col:module document="m00184"/>
+        <col:module document="m00185"/>
+        <col:module document="m00186"/>
+        <col:module document="m00187"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chemistry of Benzene: Electrophilic Aromatic Substitution</md:title>
+      <col:content>
+        <col:module document="m00188"/>
+        <col:module document="m00189"/>
+        <col:module document="m00190"/>
+        <col:module document="m00191"/>
+        <col:module document="m00192"/>
+        <col:module document="m00193"/>
+        <col:module document="m00194"/>
+        <col:module document="m00195"/>
+        <col:module document="m00196"/>
+        <col:module document="m00197"/>
+        <col:module document="m00198"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Alcohols and Phenols</md:title>
+      <col:content>
+        <col:module document="m00199"/>
+        <col:module document="m00200"/>
+        <col:module document="m00201"/>
+        <col:module document="m00202"/>
+        <col:module document="m00203"/>
+        <col:module document="m00204"/>
+        <col:module document="m00205"/>
+        <col:module document="m00206"/>
+        <col:module document="m00207"/>
+        <col:module document="m00208"/>
+        <col:module document="m00209"/>
+        <col:module document="m00210"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ethers and Epoxides; Thiols and Sulfides</md:title>
+      <col:content>
+        <col:module document="m00075"/>
+        <col:module document="m00074"/>
+        <col:module document="m00249"/>
+        <col:module document="m00250"/>
+        <col:module document="m00251"/>
+        <col:module document="m00252"/>
+        <col:module document="m00253"/>
+        <col:module document="m00254"/>
+        <col:module document="m00255"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Aldehydes and Ketones: Nucleophilic Addition Reactions</md:title>
+      <col:content>
+        <col:module document="m00211"/>
+        <col:module document="m00212"/>
+        <col:module document="m00213"/>
+        <col:module document="m00214"/>
+        <col:module document="m00215"/>
+        <col:module document="m00216"/>
+        <col:module document="m00217"/>
+        <col:module document="m00218"/>
+        <col:module document="m00219"/>
+        <col:module document="m00220"/>
+        <col:module document="m00221"/>
+        <col:module document="m00222"/>
+        <col:module document="m00223"/>
+        <col:module document="m00224"/>
+        <col:module document="m00225"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Carboxylic Acids and Nitriles</md:title>
+      <col:content>
+        <col:module document="m00229"/>
+        <col:module document="m00230"/>
+        <col:module document="m00231"/>
+        <col:module document="m00232"/>
+        <col:module document="m00233"/>
+        <col:module document="m00234"/>
+        <col:module document="m00235"/>
+        <col:module document="m00236"/>
+        <col:module document="m00237"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Carboxylic Acid Derivatives: Nucleophilic Acyl Substitution Reactions</md:title>
+      <col:content>
+        <col:module document="m00238"/>
+        <col:module document="m00239"/>
+        <col:module document="m00240"/>
+        <col:module document="m00241"/>
+        <col:module document="m00242"/>
+        <col:module document="m00243"/>
+        <col:module document="m00244"/>
+        <col:module document="m00245"/>
+        <col:module document="m00246"/>
+        <col:module document="m00247"/>
+        <col:module document="m00248"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Carbonyl Alpha-Substitution Reactions</md:title>
+      <col:content>
+        <col:module document="m00256"/>
+        <col:module document="m00257"/>
+        <col:module document="m00258"/>
+        <col:module document="m00259"/>
+        <col:module document="m00260"/>
+        <col:module document="m00261"/>
+        <col:module document="m00262"/>
+        <col:module document="m00263"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Carbonyl Condensation Reactions</md:title>
+      <col:content>
+        <col:module document="m00272"/>
+        <col:module document="m00276"/>
+        <col:module document="m00277"/>
+        <col:module document="m00278"/>
+        <col:module document="m00279"/>
+        <col:module document="m00280"/>
+        <col:module document="m00281"/>
+        <col:module document="m00282"/>
+        <col:module document="m00283"/>
+        <col:module document="m00284"/>
+        <col:module document="m00285"/>
+        <col:module document="m00286"/>
+        <col:module document="m00287"/>
+        <col:module document="m00288"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Amines and Heterocycles</md:title>
+      <col:content>
+        <col:module document="m00273"/>
+        <col:module document="m00289"/>
+        <col:module document="m00290"/>
+        <col:module document="m00291"/>
+        <col:module document="m00292"/>
+        <col:module document="m00293"/>
+        <col:module document="m00294"/>
+        <col:module document="m00295"/>
+        <col:module document="m00296"/>
+        <col:module document="m00297"/>
+        <col:module document="m00298"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biomolecules: Carbohydrates</md:title>
+      <col:content>
+        <col:module document="m00274"/>
+        <col:module document="m00299"/>
+        <col:module document="m00300"/>
+        <col:module document="m00301"/>
+        <col:module document="m00302"/>
+        <col:module document="m00303"/>
+        <col:module document="m00304"/>
+        <col:module document="m00305"/>
+        <col:module document="m00306"/>
+        <col:module document="m00307"/>
+        <col:module document="m00308"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biomolecules: Amino Acids, Peptides, and Proteins</md:title>
+      <col:content>
+        <col:module document="m00275"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biomolecules: Lipids</md:title>
+      <col:content>
+        <col:module document="m00264"/>
+        <col:module document="m00265"/>
+        <col:module document="m00266"/>
+        <col:module document="m00267"/>
+        <col:module document="m00268"/>
+        <col:module document="m00269"/>
+        <col:module document="m00270"/>
+        <col:module document="m00271"/>
+      </col:content>
+    </col:subcollection>
     <col:module document="m00016"/>
     <col:module document="m00030"/>
+    <col:module document="m00226"/>
     <col:module document="m00228"/>
   </col:content>
 </col:collection>
