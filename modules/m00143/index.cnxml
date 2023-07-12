@@ -19,21 +19,17 @@
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <colspec colnum="3" colname="c3"/>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Mass spectrometry</emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Molecular size and formula</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Infrared spectroscopy</emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Functional groups present</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">NMR spectroscopy</span></emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Map of carbon–hydrogen framework</entry>
     </row>
     </tbody>
