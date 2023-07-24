@@ -11,26 +11,21 @@
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
-    <colspec colnum="3" colname="c3"/>
     <tbody>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold">Mass spectrometry</emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Molecular size and formula</entry>
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold">IR spectroscopy</emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Functional groups present</entry>
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold">NMR spectroscopy</emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left">Carbon–hydrogen framework</entry>
     </row>
     <row>
     <entry valign="top" align="left"><emphasis effect="bold"><span class="magenta-text">UV spectroscopy</span></emphasis></entry>
-    <entry>      </entry>
     <entry valign="top" align="left"><emphasis effect="bold">Nature of conjugated <emphasis effect="italics">π</emphasis> electron systems</emphasis></entry>
     </row>
     </tbody>
