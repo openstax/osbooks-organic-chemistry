@@ -24,3 +24,5 @@ teams:
     permission: push
   - name: katalyst
     permission: pull
+  - name: disco-devs
+    permission: pull
