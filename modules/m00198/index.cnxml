@@ -104,14 +104,14 @@
     </media>
     </figure>
     <para id="para-00024">Two main approaches to combinatorial chemistry are used—<emphasis effect="italics">parallel synthesis</emphasis> and <emphasis effect="italics">split synthesis.</emphasis> In parallel synthesis, each compound is prepared independently. Typically, a reactant is first linked to the surface of polymer beads, which are then placed into small wells on a 96-well glass plate. Programmable robotic instruments add different sequences of building blocks to the different wells, thereby making 96 different products. When the reaction sequences are complete, the polymer beads are washed and their products are released.</para>
-    <para id="para-00025">In split synthesis, the initial reactant is again linked to the surface of polymer beads, which are then divided into several groups. A different building block is added to each group of beads, the different groups are combined, and the reassembled mix is again split to form new groups. Another building block is added to each group, the groups are again combined and redivided, and the process continues. If, for example, the beads are divided into four groups at each step, the number of compounds increases in the progression <m:math><m:mrow><m:mn>4</m:mn><m:mo>→</m:mo><m:mn>16</m:mn><m:mo>→</m:mo><m:mn>64</m:mn><m:mo>→</m:mo><m:mn>256</m:mn></m:mrow></m:math>. After 10 steps, more than 1 million compounds have been prepared (<link target-id="fig-00013"/>).</para>
+    <para id="para-00025">In split synthesis, the initial reactant is again linked to the surface of polymer beads, which are then divided into several groups. A different building block is added to each group of beads, the different groups are combined, and the reassembled mix is again split to form new groups. Another building block is added to each group, the groups are again combined and redivided, and the process continues. If, for example, the beads are divided into four groups at each step, the number of compounds increases in the progression 4 → 16 → 64 → 256. After 10 steps, more than 1 million compounds have been prepared (<link target-id="fig-00013"/>).</para>
     <para id="para-00026">Of course, with so many different final products mixed together, the problem is to identify them. What structure is linked to what bead? Several approaches to this problem have been developed, all of which involve the attachment of encoding labels to each polymer bead to keep track of the chemistry each has undergone. Encoding labels used thus far have included proteins, nucleic acids, halogenated aromatic compounds, and even computer chips.</para>
     <figure class="scaled-down-30" id="fig-00012">
         <media alt="Alt Text Placeholder">
           <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_16_98_Robot.jpeg"/>
     <!--<image mime-type="image/jpeg" src="../../media/OChem_16_98_Robot.jpg"/>-->
     </media>
-    <caption><emphasis effect="bold">Organic chemistry by robot means no spilled flasks!</emphasis></caption>
+    <caption>Organic chemistry by robot means no spilled flasks!</caption>
     </figure>
     <figure class="scaled-down" id="fig-00013">
     <media alt="An illustration shows a chart representing the results of split synthesis. ‘A’ after step 1 yields four compounds: AB1 (combination with B1) AB2 (combination with B2) AB3 (combination with B3) and AB4 (combination with B4). The products of step 2 are as follows: AB1C1 AB2C1 AB3C1 AB4C1 (combination with C1) AB1C2 AB2C2 AB3C2 AB4C2 (combination with C2) AB1C3 AB2C3 AB3C3 AB4C3 (combination with C3) and AB1C4 AB2C4 AB3C4 AB4C4 (combination with C4). The products of step 3 are as follows: AB1C1D1 AB2C1D1 AB3C1D1 AB4C1D1 AB1C2D1 AB2C2D1 AB3C2D1 AB4C2D1 AB1C3D1 AB2C3D1 AB3C3D1 AB4C3D1 AB1C4D1 AB2C4D1 AB3C4D1 AB4C4D1 (combination with D1) 16 products (combination with D2) 16 products (combination with D3) and 16 products (combination with D4).">
@@ -123,7 +123,7 @@
     <section class="key-terms" id="sect-00003">
     <list id="list-00001">
       <item><link document="m00191" target-id="term-00005">acyl group</link></item>
-      <item>acylation</item>
+      <item><link document="m00191" target-id="term-00006">acylation</link></item>
       <item><link document="m00191" target-id="term-00001">alkylation</link></item>
       <item><link document="m00195" target-id="term-00001">benzyne</link></item>
       <item><link document="m00198" target-id="term-00001">combinatorial chemistry</link></item>
@@ -195,38 +195,7 @@
     <image mime-type="image/jpeg" src="../../media/OChem_16_EC_008.jpg"/>
     </media>
     </figure><newline/>
-    <m:math>
- <m:mrow>
-  <m:mtable columnalign='left'>
-   <m:mtr columnalign='left'>
-    <m:mtd columnalign='left'>
-     <m:mrow>
-      <m:mtext>Aromatic&#x00A0;ring</m:mtext><m:mtext>.</m:mtext></m:mrow>
-    </m:mtd>
-    <m:mtd columnalign='left'>
-     <m:mrow>
-      <m:mtext>Must&#x00A0;be&#x00A0;at&#x00A0;least&#x00A0;as&#x00A0;reactive&#x00A0;as&#x00A0;a&#x00A0;halobenzene</m:mtext><m:mtext>.</m:mtext></m:mrow>
-    </m:mtd>
-    <m:mtd columnalign='left'>
-     <m:mrow><m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext></m:mrow>
-    </m:mtd>
-   </m:mtr>
-   <m:mtr columnalign='left'>
-    <m:mtd columnalign='left'>
-     <m:mrow>
-      <m:mtext>Alkyl&#x00A0;halide</m:mtext><m:mtext>.</m:mtext></m:mrow>
-    </m:mtd>
-    <m:mtd columnalign='left'>
-     <m:mrow>
-      <m:mtext>Primary&#x00A0;alkyl&#x00A0;halides&#x00A0;undergo&#x00A0;carbocation&#x00A0;rearrangement</m:mtext><m:mtext>.</m:mtext></m:mrow>
-    </m:mtd>
-    <m:mtd columnalign='left'>
-     <m:mrow><m:mtext>&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;</m:mtext></m:mrow>
-    </m:mtd>
-   </m:mtr>   
-  </m:mtable></m:mrow>
-</m:math>
-</item>
+    </item>
     <item>Friedel–Crafts acylation (<link document="m00191"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00022">
     <media alt="An illustration shows a reaction in which benzene reacts with pink methanoyl chloride in the presence of AlCl3 to yield HCl and another product. Methanoyl chloride shows a methyl group bonded to a carbonyl group bonded to chlorine. The product shows a benzene bonded to a pink carbonyl group bonded to pink methyl group. The chlorine atom is shown in pink.">
@@ -560,11 +529,6 @@
     <para id="para-00092"><link class="os-embed" url="#exercise/16-99-OC-AP32"/></para>
     </problem>
     </exercise>
-    <exercise id="exer-00057">
-    <problem id="prob-00057">
-    <para id="para-00093"><link class="os-embed" url="#exercise/16-99-OC-AP33"/></para>
-    </problem>
-    </exercise>
-    </section>
+        </section>
     </content>
 </document>
