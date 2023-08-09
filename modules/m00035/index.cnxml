@@ -18,13 +18,13 @@
     <para id="para-00005">All but the most complex branched-chain alkanes can be named by following four steps. For a very few compounds, a fifth step is needed.</para>
     <para id="para-00006"><emphasis effect="bold"><span class="red-text">STEP 1</span></emphasis> <newline /><emphasis effect="bold">Identify the parent hydrocarbon.</emphasis></para>
     <para id="para-00008"><emphasis effect="bold">(a)</emphasis> Find the longest continuous chain of carbon atoms in the molecule, and use the name of that chain as the parent name. The longest chain may not always be apparent from the manner of writing; you may have to “turn corners.”</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="The molecular structures of two substituted alkanes are represented. The first and second structures are substituted hexane and heptane, respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_002.jpg"/>
     </media>
     </figure>
     <para id="para-00009"><emphasis effect="bold">(b)</emphasis> If two different chains of equal length are present, choose the one with the larger number of branch points as the parent.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="The correct and incorrect naming of substituted hexane molecular structures are presented. ">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_003.jpg"/>
     </media>
@@ -51,7 +51,7 @@
     </media>
     </figure>
     <para id="para-00018"><emphasis effect="bold">(b)</emphasis> If there are two substituents on the same carbon, give both the same number. There must be as many numbers in the name as there are substituents.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="The molecular structure of hexane that includes substituents on C2, C4, and C4 are 2-methyl, 4-methyl, and 4-ethyl, respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_007.jpg"/>
     </media>
@@ -76,7 +76,7 @@
     </media>
     </figure>
     <para id="para-00025">Number the branched substituent beginning at the point of its attachment to the main chain, and identify it—in this case, a 2-methylpropyl group. The substituent is treated as a whole and is alphabetized according to the first letter of its complete name, including any numerical prefix. It is set off in parentheses when naming the entire molecule.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <figure class="unnumbered scaled-down" id="fig-00011">
     <media alt="The molecular structure of 2,3-dimethyl-6-(2-methylpropyl)decane featuring a 10-carbon chain.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_011.jpg"/>
     </media>
@@ -94,7 +94,7 @@
     </media>
     </figure>
     <para id="para-00028">The common names of these simple alkyl groups are so well entrenched in the chemical literature that IUPAC rules make allowance for them. Thus, the following compound is properly named either 4-(1-methylethyl)heptane or 4-isopropylheptane. There’s no choice but to memorize these common names; fortunately, there are only a few of them.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00014">
+    <figure class="unnumbered scaled-down" id="fig-00014">
     <media alt="The molecular structure of 4-(1-Methylethyl)heptane or 4-Isopropylheptane is represented featuring a seven-carbon chain.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_014.jpg"/>
     </media>
@@ -103,14 +103,14 @@
     <example id="exam-00001">
     <title>Naming Alkanes</title>
     <para id="para-00030">What is the IUPAC name for the following alkane?</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00015">
+    <figure class="unnumbered scaled-down" id="fig-00015">
     <media alt="The molecular structure of 2,6-dimethyloctane featuring a an eight-carbon chain.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_015.jpg"/>
     </media>
     </figure>
     <para id="para-00031"><title><span class="red-text">Strategy</span></title> Find the longest continuous carbon chain in the molecule, and use that as the parent name. This molecule has a chain of eight carbons—octane—with two methyl substituents. (You have to turn corners to see it.) Numbering from the end nearer the first methyl substituent indicates that the methyls are at C2 and C6.</para>
     <para id="para-00032"><title><span class="cyan-text">Solution</span></title>
-    <figure class="unnumbered scaled-down-30" id="fig-00016">
+    <figure class="unnumbered scaled-down" id="fig-00016">
     <media alt="The molecular structure of 2,6-dimethyloctane featuring an eight-carbon chain and is numbered from right to left.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_016.jpg"/>
     </media>
@@ -122,14 +122,14 @@
     <para id="para-00034"><title><span class="red-text">Strategy</span></title> This is the reverse of <link target-id="exam-00001"/> and uses a reverse strategy. Look at the parent name (hexane), and draw its carbon structure.</para>
     <para id="para-00035"><emphasis class="centered-text">C–C–C–C–C–C <emphasis effect="bold">Hexane</emphasis></emphasis></para>
     <para id="para-00036">Next, find the substituents (3-isopropyl and 2-methyl), and place them on the proper carbons.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <figure class="unnumbered scaled-down" id="fig-00017">
     <media alt="The structure of a compound has 6-carbon chain and is numbered from left to right. An isopropyl group at C3 and a methyl group at C2 are shown.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_017.jpg"/>
     </media>
     </figure>
     <para id="para-00037">Finally, add hydrogens to complete the structure.</para>
     <para id="para-00038"><title><span class="cyan-text">Solution</span></title>
-    <figure class="unnumbered scaled-down-30" id="fig-00018">
+    <figure class="unnumbered scaled-down" id="fig-00018">
     <media alt="The molecular structure of 3-isopropyl-2-methylhexane is represented. It presents a six-carbon chain.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_04_018.jpg"/>
     </media>

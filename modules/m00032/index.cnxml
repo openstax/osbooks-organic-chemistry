@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">The structural features that make it possible to classify compounds into families are called <emphasis effect="italics">functional groups.</emphasis> A <term id="term-00001">functional group</term> is a group of atoms within a molecule that has a characteristic chemical behavior. Chemically, a given functional group behaves in nearly the same way in every molecule it’s a part of. For example, compare ethylene, a plant hormone that causes fruit to ripen, with menthene, a much more complicated molecule found in peppermint oil. Both substances contain a carbon–carbon double-bond functional group, and both therefore react with Br<sub>2</sub> in the same way to give a product in which a Br atom has added to each of the double-bond carbons (<link target-id="fig-00001"/>). This example is typical: <emphasis effect="italics">the chemistry of every organic molecule, regardless of size and complexity, is determined by the functional groups it contains.</emphasis></para>
-    <figure id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="Ethylene and menthene undergo a chemical reaction with bromine, forming their respective products">
     <image mime-type="image/jpeg" src="../../media/OChem_03_01_001.jpg"/>
     </media>
@@ -42,7 +42,7 @@
     <entry valign="top" align="left">Alkene (double bond)</entry>
     <entry valign="top" align="left">
     <media alt="The general structure of alkene.">
-    <image mime-type="image/jpeg" src="../../media/OChem_03_01_003a.jpg"/>
+    <image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_03_01_003a.jpg"/>
     </media>
     </entry>
     <entry valign="top" align="left">-<emphasis effect="italics">ene</emphasis></entry>
@@ -58,13 +58,13 @@
     <entry valign="top" align="left">Arene (aromatic ring)</entry>
     <entry valign="top" align="left">
     <media alt="The general structure of arene.">
-    <image mime-type="image/jpeg" src="../../media/OChem_03_01_003b.jpg"/>
+    <image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_03_01_003b.jpg"/>
     </media>
     </entry>
     <entry valign="top" align="left">None</entry>
     <entry valign="top" align="left">
     <media alt="The general structure of benzene.">
-    <image mime-type="image/jpeg" src="../../media/OChem_03_01_003k.jpg"/>
+    <image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_03_01_003k.jpg"/>
     </media>
     </entry>
     </row>
@@ -72,7 +72,7 @@
     <entry valign="top" align="left">Halide</entry>
     <entry valign="top" align="left">
     <media alt="The general structure of halide where X represents any halogen element.">
-    <image mime-type="image/jpeg" src="../../media/OChem_03_01_003c.jpg"/>
+    <image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_03_01_003c.jpg"/>
     </media>
     <para id="para-00004">(<span class="magenta-text">X</span>=F, Cl, Br, I)</para>
     </entry>
@@ -313,7 +313,7 @@
     <section id="sect-00002">
     <title>Functional Groups with Carbon Singly Bonded to an Electronegative Atom</title>
     <para id="para-00006">Alkyl halides (haloalkanes), alcohols, ethers, alkyl phosphates, amines, thiols, sulfides, and disulfides all have a carbon atom singly bonded to an electronegative atom—halogen, oxygen, nitrogen, or sulfur. <term id="term-00005">Alkyl halides</term> have a carbon atom bonded to halogen (–X), <term id="term-00006">alcohols</term> have a carbon atom bonded to the oxygen of a hydroxyl group (–OH), <term id="term-00007">ethers</term> have two carbon atoms bonded to the same oxygen, organophosphates have a carbon atom bonded to the oxygen of a phosphate group (–OPO<sub>3</sub><sup>2−</sup>), <term id="term-00008">amines</term> have a carbon atom bonded to a nitrogen, <term id="term-00009">thiols</term> have a carbon atom bonded to the sulfur of an –SH group, <term id="term-00010">sulfides</term> have two carbon atoms bonded to the same sulfur, and <term id="term-00011">disulfides</term> have carbon atoms bonded to two sulfurs that are joined together. In all cases, the bonds are polar, with the carbon atom bearing a partial positive charge (<emphasis effect="italics">δ</emphasis>+) and the electronegative atom bearing a partial negative charge (<emphasis effect="italics">δ</emphasis>–).</para>
-    <figure class="unnumbered" id="fig-00035">
+    <figure class="unnumbered scaled-down" id="fig-00035">
     <media alt="The ball and stick models and general structure of alkyl halide, alcohol, ether, phosphate, amine, thiol, sulfide, and disulfide.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_01_004.jpg"/>
     </media>
