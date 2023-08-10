@@ -42,7 +42,7 @@
 </media>
 <caption><emphasis effect="bold">Mechanism of the conversion of 2,3-oxidosqualene to lanosterol.</emphasis> Four cationic cyclizations are followed by four rearrangements and a final loss of H<sup>+</sup> from C9. The steroid numbering system is used for referring to specific positions in the intermediates (<link document="m00270"/>). Individual steps are explained in the text.</caption>
 </figure>
-<figure id="fig-00005">
+<figure class="mechanism-figure" id="fig-00005">
 <media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_005.jpg"/>
 </media>
@@ -98,7 +98,7 @@
 <caption><emphasis effect="bold">It’s hard to resist, but a high intake of saturated animal fat doesn’t do much for your cholesterol level.</emphasis> (credit: modification of work “food-chicken-meat-outdoors” by www.pixel.la/Flickr, Public Domain)</caption>
 </figure>
 <para id="para-00012">Evidence suggests that LDLs transport cholesterol as its fatty-acid ester to peripheral tissues, whereas HDLs remove cholesterol as its stearate ester from dying cells. If LDLs deliver more cholesterol than is needed, and if insufficient HDLs are present to remove it, the excess is deposited in arteries. Thus, a <emphasis effect="italics">low</emphasis> level of <emphasis effect="italics">low</emphasis>-density lipoproteins is good because it means that less cholesterol is being transported, and a <emphasis effect="italics">high</emphasis> level of <emphasis effect="italics">high</emphasis>-density lipoproteins is good because it means that more cholesterol is being removed. In addition, HDL contains an enzyme that has antioxidant properties, offering further protection against heart disease.</para>
-<para id="para-00013">As a rule of thumb, a person’s risk drops about 25% for each increase of 5 mg/dL in HDL concentration. Normal values are about 45 mg/dL for men and 55 mg/dL for women, perhaps explaining why premenopausal women appear to be somewhat less susceptible than men to heart disease.</para>
+<para id="para-00013">As a rule of thumb, a person’s risk drops about 25% for each increase of 5 mg/dL in HDL concentration. Normal values are &#62;40 mg/dL for men and &#60;50 mg/dL for women, perhaps explaining why premenopausal women appear to be somewhat less susceptible than men to heart disease.</para>
 <table summary="" id="table-00001">
 <title>Serum Lipoproteins</title>
 <tgroup cols="6">
