@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">The final point we’ll consider about cycloalkane stereochemistry is to see what happens when two or more cycloalkane rings are fused together along a common bond to construct a <term id="term-00001">polycyclic molecule</term>—for example, decalin.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="The bond-line structure of decalin featuring two fused cyclohexane rings. All carbon atoms are numbered.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_09_001.jpg"/>
     </media>
@@ -33,7 +33,7 @@
     </figure>
     <para id="para-00005">Norbornane has a conformationally locked boat cyclohexane ring (<link document="m00044"/>) in which carbons 1 and 4 are joined by an additional CH<sub>2</sub> group. In drawing this structure, a break in the rear bond indicates that the vertical bond crosses in front of it. Making a molecular model is particularly helpful when trying to see the three-dimensionality of norbornane.</para>
     <para id="para-00006">Substituted norbornanes, such as camphor, are found widely in nature, and many have been important historically in developing organic structural theories.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="The bond-line structure and ball and stick model of camphor. In the model, black, gray, red spheres represent carbon, hydrogen, and oxygen atoms, respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_09_005.jpg"/>
     </media>
@@ -56,7 +56,7 @@
     <para id="para-00009">All the structural models in this book are computer-drawn. To make sure they accurately represent bond angles, bond lengths, torsional interactions, and steric interactions, the most stable geometry of each molecule has been calculated on a desktop computer using a commercially available <emphasis effect="italics">molecular mechanics</emphasis> program based on work by Norman Allinger at the University of Georgia.</para>
     <para id="para-00010">The idea behind molecular mechanics is to begin with a rough geometry for a molecule and then calculate a total strain energy for that starting geometry, using mathematical equations that assign values to specific kinds of molecular interactions. Bond angles that are too large or too small cause angle strain; bond lengths that are too short or too long cause stretching or compressing strain; unfavorable eclipsing interactions around single bonds cause torsional strain; and nonbonded atoms that approach each other too closely cause steric, or <emphasis effect="italics">van der Waals,</emphasis> strain.</para>
     <equation id="eq-00001" class="unnumbered"><m:math><m:msub><m:mi>E</m:mi><m:mtext>total</m:mtext></m:msub><m:mo>=</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>bond stretching</m:mtext></m:msub><m:mo>+</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>angle strain</m:mtext></m:msub><m:mo>+</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>torsional strain</m:mtext></m:msub> <m:mo>+</m:mo> <m:msub><m:mi>E</m:mi><m:mtext>van der Waals</m:mtext></m:msub></m:math></equation>
-    <figure class="scaled-down-30" id="fig-00006">
+    <figure class="scaled-down" id="fig-00006">
     <media alt="A person views a computer screen showing a 3 D ball and stick model.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_09_007.jpg"/>
     </media>
