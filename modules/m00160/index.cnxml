@@ -9,7 +9,7 @@
     <para id="para-00001">The lowest-energy arrangement, or <term id="term-00001">ground-state electron configuration</term>, of an atom is a list of the orbitals occupied by its electrons. We can predict this arrangement by following three rules.</para>
     <para id="para-00002"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis><newline />The lowest-energy orbitals fill up first, <m:math><m:mrow><m:mn>1</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>p</m:mi><m:mo>→</m:mo><m:mn>4</m:mn><m:mi>s</m:mi><m:mo>→</m:mo><m:mn>3</m:mn><m:mi>d</m:mi></m:mrow></m:math>, according to the following graphic, a statement called the <term id="term-00002"><emphasis effect="italics">Aufbau principle</emphasis></term>. Note that the 4<emphasis effect="italics">s</emphasis> orbital lies between the 3<emphasis effect="italics">p</emphasis> and 3<emphasis effect="italics">d</emphasis> orbitals in energy.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00001">
-    <media alt="Alt text placeholder">
+    <media alt="The orbital arrangement featuring orbitals in order 1s; 2s; 2p-3s; 3p-4s; 3d-4p-5s; 4d-5p-6s; 4f-5d-6p; 5f-6d; and 6f. Arrows denote the order in which orbitals are filled with electrons.">
     <image mime-type="image/jpeg" src="../../media/OChem_01_02_Aufbau.jpg"/>
     </media>
     </figure>
@@ -33,17 +33,17 @@
     <row valign="top">
     <entry valign="top" align="left">Hydrogen</entry>
     <entry valign="top" align="center">1</entry>
-    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_01_03_001a.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="The electron configuration of hydrogen. A 1s orbital contains one electron."><image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_01_03_001a.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Carbon</entry>
     <entry valign="top" align="center">6</entry>
-    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image class="scaled-down" mime-type="image/jpeg" src="../../media/OChem_01_03_001b.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="The electron configuration of carbon. 1s and 2p orbitals contain a pair of electrons. 2p contains two unpaired electrons and a vacant subshell."><image class="scaled-down" mime-type="image/jpeg" src="../../media/OChem_01_03_001b.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Phosphorus</entry>
     <entry valign="top" align="center">15</entry>
-    <entry valign="top" align="left"><media class="unnumbered" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_01_03_001c.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="The electron configuration of phosphorus. 1s, 2s, 2p, and 3s have paired electrons in their subshells. 3p has three unpaired electrons."><image mime-type="image/jpeg" src="../../media/OChem_01_03_001c.jpg"/></media></entry>
     </row>
     </tbody>
     </tgroup>
