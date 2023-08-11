@@ -8,7 +8,7 @@
   <content>
     <para id="para-00001">A molecule that is not identical to its mirror image is said to be <term id="term-00001">chiral</term> (<emphasis effect="bold">ky</emphasis>-ral, from the Greek <emphasis effect="italics">cheir,</emphasis> meaning “hand”). You can’t take a chiral molecule and its enantiomer and place one on the other so that all atoms coincide.</para>
     <para id="para-00002">How can you predict whether a given molecule is or is not chiral? A molecule is not chiral if it has a plane of symmetry. A plane of symmetry is a plane that cuts through the middle of a molecule (or any object) in such a way that one half of the molecule or object is a mirror image of the other half. A coffee mug, for example, has a plane of symmetry. If you were to cut the coffee mug in half from top to bottom, one half would be a mirror image of the other half. A hand, however, does not have a plane of symmetry. One “half” of a hand is not a mirror image of the other half (<link target-id="fig-00001"/>).</para>
-    <figure class="scaled-down-30" id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="An illustration shows two planes one with a coffee mug and the other with a hand. Both show a vertical cut in the center creating two halves.">
     <image mime-type="image/jpeg" src="../../media/OChem_05_02_001.jpg"/>
     </media>
@@ -46,7 +46,7 @@
     <para id="para-00009">Draw the structure of a chiral alcohol.</para>
     <para id="para-00010"><title><span class="red-text">Strategy</span></title> An alcohol is a compound that contains the −OH functional group. To make an alcohol chiral, we need to have four different groups bonded to a single carbon atom, say −H, −OH, −CH<sub>3</sub>, and −CH<sub>2</sub>CH<sub>3</sub>.</para>
     <para id="para-00011"><title><span class="cyan-text">Solution</span></title>
-    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows the structural formula of 2-Butanol (chiral). The structure shows a carbon with an asterisk that is bonded to a hydrogen at the bottom a methyl group on the right a hydroxyl group at the top and an ethyl group on the left.">
     <image mime-type="image/jpeg" src="../../media/OChem_05_02_006.jpg"/>
     </media>

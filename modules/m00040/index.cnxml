@@ -15,14 +15,14 @@
     <para id="para-00002">Substituted cycloalkanes are named by rules similar to those we saw in (<link document="m00035"/>) for open-chain alkanes. For most compounds, there are only two steps.</para>
     <para id="para-00003"><emphasis effect="bold"><span class="red-text">STEP 1</span></emphasis> <newline /><emphasis effect="bold">Find the parent.</emphasis>
     <newline />Count the number of carbon atoms in the ring and the number in the largest substituent. If the number of carbon atoms in the ring is equal to or greater than the number in the substituent, the compound is named as an alkyl-substituted cycloalkane. If the number of carbon atoms in the largest substituent is greater than the number in the ring, the compound is named as a cycloalkyl-substituted alkane. For example:</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="An illustration shows two structures; the first structure labeled as methylcyclopentane shows a pentane ring bonded to a methyl group; the cyclopentane is shown drawn in pink color. The second structure labeled as 1-cyclopropylbutane shows a propane ring having “3 carbons” bonded to butane shown as CH2CH2CH2CH3 comprising of “4 carbons” and drawn in pink.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_01_002.jpg"/>
     </media>
     </figure>
     <para id="para-00005"><emphasis effect="bold"><span class="red-text">STEP 2</span></emphasis> <newline /><emphasis effect="bold">Number the substituents, and write the name.</emphasis>
     <newline />For an alkyl- or halo-substituted cycloalkane, choose a point of attachment as carbon 1 and number the substituents on the ring so that the <emphasis effect="italics">second</emphasis> substituent has as low a number as possible. If ambiguity still exists, number so that the third or fourth substituent has as low a number as possible, until a point of difference is found.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00003">
+    <figure class="unnumbered scaled-down" id="fig-00003">
     <media alt="An illustration distinguishes the correct and incorrect method of numbering in cycloalkanes by placing “not” in between the correct and incorrect names; all the numbers of the structures are shown in pink color. The correct numbering in the first structure is written as “1 3-Dimethylcyclohexane” wherein 1 3-Dimethyl is written in pink and labeled as “lower”; the incorrect numbering of the first structure is written as “1 5-Dimethylcyclohexane” wherein 1 5-Dimethyl is labeled as “higher” and is written in blue color. The structure of 1 3-Dimethylcyclohexane shows a cyclohexane bonded to methyl groups at two alternate positions; the numbering begins from the tip of the ring as “1” and follows the clockwise path till position “6” on the left side of the ring. The structure of 1 5-Dimethylcyclohexane shows the same structure except that the numbering starts from the upper tip of the ring and follows an anticlockwise path till position “6” on the right side of the ring.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_01_003.jpg"/>
     </media>
@@ -33,13 +33,13 @@
     </media>
     </figure>
     <para id="para-00007"><emphasis effect="bold">(a)</emphasis> When two or more different alkyl groups are present that could potentially take the same numbers, number them by alphabetical priority, ignoring numerical prefixes such as di- and tri-.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows correct and incorrect numbering of a compound. The correct numbering of a structure labeled as 1-ethyl-2-methylcyclopentane wherein 1-ethyl-is written in pink and 2-methyl is written in blue color is shown. The structure shows a cyclopentane having an ethyl group CH2CH3 that is written in pink bonded to the upper right side of the ring; a methyl group written in blue color is bonded anticlockwise at the adjacent position; the numbering continues anticlockwise and position “5” occupies the right side of cyclopentane base. The incorrect numbering expressed as 2-Ethyl-1-methylcyclopentane shows the same structure except that the numbering begins with the methyl group as “1” and continues clockwise; the ethyl group CH2CH3 is bonded to position “2”; position “5” is shown at the top left side of the ring.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_01_005.jpg"/>
     </media>
     </figure>
     <para id="para-00008"><emphasis effect="bold">(b)</emphasis> If halogens are present, treat them just like alkyl groups.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows correct and incorrect numbering of a compound; the numbering is done in pink color. The correct numbering of a structure labeled as 1-Bromo-2-methylcyclobutane wherein 1-Bromo- is mentioned in pink color and 2-methyl is mentioned in blue color. The structure shows a cyclobutane having a methyl group written in blue color and the adjacent position bonded to bromine that is written in pink color; the numbering begins from bromine as “1” and continues anticlockwise to methyl group as “2.” The incorrect numbering is expressed as 2-Bromo-1-methylcyclobutane having the same structure except that the methyl group is shown at position “1” and bromine at position “2.”">
     <image mime-type="image/jpeg" src="../../media/OChem_04_01_006.jpg"/>
     </media>

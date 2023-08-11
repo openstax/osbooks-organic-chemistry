@@ -7,7 +7,7 @@
   </metadata>
   <content>
   <para id="para-00001">Closely related to the concept of chirality, and particularly important in biological chemistry, is the notion of <emphasis effect="italics">prochirality.</emphasis> A molecule is said to be <term id="term-00001">prochiral</term> if it can be converted from achiral to chiral in a single chemical step. For instance, an unsymmetrical ketone like 2-butanone is prochiral because it can be converted to the chiral alcohol 2-butanol by the addition of hydrogen, as we’ll see in <emphasis effect="bold">Section 17.4</emphasis>.</para>
-  <figure class="unnumbered scaled-down-30" id="fig-00001">
+  <figure class="unnumbered scaled-down" id="fig-00001">
   <media alt="An illustration shows the structures of 2-Butanone (prochiral) and 2-Butanol (chiral). 2-Butanone shows a carbonyl group bonded to a methyl group and ethyl group. An arrow points to the carbonyl carbon. 2-Butanol shows a carbon bonded to a hydrogen hydroxyl group methyl group and ethyl group. An arrow points to the carbon.">
   <image mime-type="image/jpeg" src="../../media/OChem_05_11_001.jpg"/>
   </media>
@@ -19,7 +19,7 @@
   </media>
   </figure>
   <para id="para-00003">In addition to compounds with planar, <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized atoms, compounds with tetrahedral, <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized atoms can also be prochiral. An <emphasis effect="italics">sp</emphasis><sup>3</sup>-hybridized atom is said to be a <term id="term-00004">prochirality center</term> if, by changing one of its attached groups, it becomes a chirality center. The −CH<sub>2</sub>OH carbon atom of ethanol, for instance, is a prochirality center because changing one of its attached −H atoms converts it into a chirality center.</para>
-  <figure class="unnumbered scaled-down-30" id="fig-00003">
+  <figure class="unnumbered scaled-down" id="fig-00003">
   <media alt="An illustration shows two structures of Ethanol. The first structure shows a carbon bonded to two hydrogen atoms a hydroxyl group and a methyl group. The carbon is labeled prochirality center. The second structure shows a carbon bonded to a hydrogen a hydroxyl group X and a methyl group. The carbon is labeled chirality center.">
   <image mime-type="image/jpeg" src="../../media/OChem_05_11_003.jpg"/>
   </media>
