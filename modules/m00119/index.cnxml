@@ -8,54 +8,54 @@
   <content>
     <para id="para-00001">Many other kinds of organometallic compounds can be prepared in a manner similar to that of Grignard reagents. For instance, alkyllithium reagents, RLi, can be prepared by the reaction of an alkyl halide with lithium metal. Alkyllithiums are both nucleophiles and strong bases, and their chemistry is similar in many respects to that of alkylmagnesium halides.</para>
     <figure class="unnumbered" id="fig-00001">
-    <media alt="An illustration shows the reaction of 1-bromobutane in the presence of 2 moles of Li and pentane to yield butyllithium and LiBr. The electrostatic potential map of butyllithium is also shown. 1-Bromobutane shows a butyl group bonded to bromine. Butyllithium shows a butyl group bonded to lithium. The ball-and-stick model in the electrostatic potential map shows gray balls (carbon atoms) white balls (hydrogen atoms) and red ball (lithium). The area around the carbon is shown in red. Text pointing to the carbon in the electrostatic potential map reads: Basic and nucleophilic.">
+    <media alt="1-bromobutane reacts with 2 equivalents of lithium in pentane to form butyllithium and LiBr. C1 of butyllithium (ball-and-stick model in an electrostatic potential map) is labeled basic and nucleophilic.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">One particularly valuable reaction of alkyllithiums occurs when making lithium diorganocopper compounds, R<sub>2</sub>CuLi, by reaction with copper(I) iodide in diethyl ether as solvent. Often called <term id="term-00001">Gilman reagents (LiR<sub>2</sub>Cu)</term>, lithium diorganocopper compounds are useful because they undergo a <emphasis effect="italics">coupling</emphasis> reaction with organochlorides, bromides, and iodides (but not fluorides). One of the alkyl groups from the lithium diorganocopper reagent replaces the halogen of the organohalide, forming a new carbon–carbon bond and yielding a hydrocarbon product. Lithium dimethylcopper, for instance, reacts with 1-iododecane to give undecane in a 90% yield.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction of 2 equivalents of methyllithium with copper iodide in ether forms lithium dimethylcopper (a Gilman reagent) and lithium iodide.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_002.jpg"/>
     </media>
     </figure>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="Alt Text Placeholder">
+    <media alt="Lithium dimethylcopper and 1-iododecane in ether at 0 degrees Celcius forms undecane (90%), lithium iodide, and methyl copper.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_003.jpg"/>
     </media>
     </figure>
     <para id="para-00003">This organometallic coupling reaction is useful in organic synthesis because it forms carbon–carbon bonds, thereby allowing the preparation of larger molecules from smaller ones. As the following examples indicate, the coupling reaction can be carried out on aryl and vinylic halides as well as on alkyl halides.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows two reactions. In the first reaction trans-1-Iodo-1-nonene reacts with (n-C4H9)2CuLi to yield trans-5-Tridecene (71%) n-C4H9Cu and LiI. In the second reaction iodobenzene reacts with (CH3)2CuLi to yield Toluene (91%) CH3Cu and LiI. trans-1-Iodo-1-nonene shows two carbons double bonded to each other. The left carbon is bonded to hydrogen and n-C7H15. The right carbon is bonded to hydrogen and iodine. trans-5-Tridecene is similar to trans-1-Iodo-1-nonene but the right carbon is bonded to hydrogen and n-C4H9. Iodobenzene shows a benzene ring bonded to iodine. Toluene shows a benzene ring bonded to a methyl group.">
+    <media alt="Trans-1-iodo-1-nonene reacts with lithium dibutylcopper to form trans-5-tridecene (71%), n-butylcopper, and LiI. Iodobenzene reacts with lithium dimethylcopper to form toluene (91%), methyl copper, and LiI.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_004.jpg"/>
     </media>
     </figure>
     <para id="para-00004">An organocopper coupling reaction is carried out commercially to synthesize muscalure, (9<emphasis effect="italics">Z</emphasis>)-tricosene, the sex attractant secreted by the common housefly. Minute amounts of muscalure greatly increase the lure of insecticide-treated fly bait and provide an effective and species-specific means of insect control.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows a reaction of cis-1-Bromo-9-octadecene in the presence of [CH3(CH2)4]2CuLi to yield muscalure (9Z-tricosene). cis-1-Bromo-9-octadecene shows two carbons double bonded to each other. The left carbon is bonded to hydrogen and a chain of 7 methylene groups and a methyl group. The right carbon is bonded to hydrogen and a chain of 7 methylene groups and a bromo methane group. Muscalure is similar to cis-1-Bromo-9-octadecene but the right carbon is bonded to hydrogen and a chain of 12 methylene groups and a methyl group.">
+    <media alt="The reaction of cis-1-bromo-9-octadecene with lithium dipentylcopper form muscalure (9Z-tricosene).">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_005.jpg"/>
     </media>
     </figure>
     <para id="para-00005">The mechanism of the coupling reaction involves initial formation of a triorganocopper intermediate, followed by coupling and loss of a mono-organocopper, RCu. The coupling is not a typical polar nucleophilic substitution reaction of the sort considered in the next chapter.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows a 2-step reaction. RX reacts with (R’CuR’) minus Li plus to yield an intermediate (R’Cu (R) R’) that further reacts to yield RR’ and R’Cu.">
+    <media alt="RX reacts with lithium di-R' copper to form an intermediate which further reacts to form R-R' and R'-Cu.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_006.jpg"/>
     </media>
     </figure>
     <para id="para-00006">In addition to the coupling reaction of diorganocopper reagents with organohalides, related processes also occur with other organometallic reagents, particularly organopalladium compounds. One of the most commonly used procedures is the coupling reaction of an aromatic or vinyl substituted boronic acid [R—B(OH)<sub>2</sub>] with an aromatic or vinyl substituted organohalide in the presence of a base and a palladium catalyst. This reaction is less general than the diorganocopper reaction because it doesn’t work with alkyl substrates, but it is preferred when possible because it uses only a catalytic amount of metal rather than a full equivalent and because palladium compounds are less toxic than copper compounds. For example:</para>
     <figure class="unnumbered scaled-down" id="fig-00007">
-    <media alt="An illustration shows the reaction of an aromatic substituted boronic acid and iodobenzene in the presence of Pd(PPh3)4 CaCO3 THF to yield a biaryl compound (92%). The aromatic substituted boronic acid shows a benzene bonded to three methyl groups and a boron that is bonded to two hydroxyl groups. Iodobenzene shows a benzene bonded to iodine. The biaryl compound shows a benzene bonded to three methyl groups and another benzene. Ph represents phenyl group.">
+    <media alt="The reaction of an aromatic substituted boronic acid and iodobenzene in the presence of palladium-tetrakis(triphenylphosphine), calcium carbonate, and tetrahydrofuran form a biaryl compound (92%).">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_007.jpg"/>
     </media>
     </figure>
     <para id="para-00007">Called the <emphasis effect="italics">Suzuki–Miyaura</emphasis> reaction, this process is particularly useful for preparing so-called biaryl compounds, which have two linked aromatic rings. A large number of commonly used drugs fit this description, so the Suzuki–Miyaura reaction is much-used in the pharmaceutical industry. As an example, valsartan, marketed as Diovan, is widely prescribed to treat high blood pressure, heart failure, and diabetic kidney disease. Its synthesis begins with a Suzuki–Miyaura coupling of <emphasis effect="italics">ortho</emphasis>-chlorobenzonitrile with <emphasis effect="italics">para</emphasis>-methylbenzeneboronic acid.</para>
     <figure class="unnumbered" id="fig-00008">
-    <media alt="An illustration shows the reaction of para-Methylbenzeneboronic acid and ortho-Chlorobenzonitrile in the presence of Pd catalyst and K2CO3 to yield an intermediate compound that further yields Valsartan (Diovan). para-Methylbenzeneboronic acid shows a benzene bonded to a methyl group and boron that is bonded to two hydroxyl groups. ortho-Chlorobenzonitrile shows a benzene bonded to a chlorine and nitrile group. The intermediate compound shows two benzene rings bonded. The first ring is bonded to a methyl group and the second ring is bonded to a nitrile group. Valsartan shows two benzene rings bonded. The first ring is bonded to a 5-membered ring with two double bonds 3 nitrogen atoms and a nitrogen monohydride. The second ring is bonded to a methylene group bonded to a nitrogen. The nitrogen is bonded to a carbonyl group that is bonded to a butane. The nitrogen is also bonded to a carbon that is single bonded to a carboxyl group dash bonded to a hydrogen and wedge bonded to a methine bonded to two methyl groups.">
+    <media alt="The reaction of para-methylbenzeneboronic acid and ortho-chloro-benzonitrile in the presence of palladium catalyst and potassium carbonate forms an intermediate that further produces Valsartan (Diovan).">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_008.jpg"/>
     </media>
     </figure>
     <para id="para-00008">Shown in a simplified form in <link target-id="fig-00009"/>, the mechanism of the Suzuki–Miyaura reaction involves initial reaction of the aromatic halide with the palladium catalyst to form an organopalladium intermediate, followed by reaction of that intermediate with the aromatic boronic acid. The resultant diorganopalladium complex then decomposes to the coupled biaryl product plus regenerated catalyst.</para>
     <figure class="scaled-down" id="fig-00009">
-    <media alt="An illustration shows a cyclic 3-step reaction. An aryl halide (ArX) reacts with PdLn to yield two compounds: ArPdLmX and L (a metal ligand). ArPdLmX reacts with Ar’ B(OH)2 (aromatic boronic acid) to yield ArPd(Ar’) (Lm) and XB(OH)2. Decomposition of this compound yields Ar-Ar’ (biaryl product) and PdLn that enters the first step again.">
+    <media alt="Via a three-step cyclic reaction, an aromatic halide reacts with catalyst, forming an organopalladium intermediate, which reacts with aromatic boronic acid, yielding diarylpalladium intermediate. Decomposition produces a biaryl product.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_009.jpg"/>
     </media>
     <caption><emphasis effect="bold">Mechanism of the Suzuki–Miyaura coupling reaction of an aromatic boronic acid with an aromatic halide to give a biaryl.</emphasis> The reaction takes place by (<emphasis effect="bold"><span class="magenta-text">1</span></emphasis>) reaction of the aromatic halide, ArX, with the catalyst to form an organopalladium intermediate, followed by (<emphasis effect="bold"><span class="magenta-text">2</span></emphasis>) reaction with the aromatic boronic acid. (<emphasis effect="bold"><span class="magenta-text">3</span></emphasis>) Subsequent decomposition of the diarylpalladium intermediate gives the biaryl product.</caption>
