@@ -6,7 +6,7 @@
     <md:uuid>ce8c5b6d-32f4-4153-b6f9-fdec12d65639</md:uuid>
   </metadata>
   <content>
-<para id="para-00001">Because a [1,5] sigmatropic rearrangement involves three electron pairs (two <emphasis effect="italics">π</emphasis> bonds and one <emphasis effect="italics">σ</emphasis> bond), the orbital-symmetry rules in <link document="m00347" target-id="table-00001"/> predict a suprafacial reaction. In fact, the [1,5] suprafacial shift of a hydrogen atom across two double bonds of a <emphasis effect="italics">π</emphasis> system is a commonly observed sigmatropic rearrangements. For example, 5-methyl-1,3-cyclopentadiene rapidly rearranges at room temperature to yield a mixture of 1-methyl-, 2-methyl-, and 5-methyl-substituted products.</para>
+<para id="para-00001">Because a [1,5] sigmatropic rearrangement involves three electron pairs (two <emphasis effect="italics">π</emphasis> bonds and one <emphasis effect="italics">σ</emphasis> bond), the orbital-symmetry rules in <link document="m00347" target-id="table-00001"/> predict a suprafacial reaction. In fact, the [1,5] suprafacial shift of a hydrogen atom across two double bonds of a <emphasis effect="italics">π</emphasis> system is a commonly observed sigmatropic rearrangements. For example, 5-methyl-1,3-cyclopentadiene rapidly rearranges at room temperature to yield a mixture of 1-methyl-, 2-methyl-, and 5-methyl-isomers.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
 <media alt="An illustration shows a chemical reaction of 5-methyl-1 3-cyclopentadiene to yield an intermediate compound by [1 5] shift at 25 degree C which upon undergoing [1 5] shift at 25 degree C yields a product. The structure of 5-methyl-1 3-cyclopentadiene shows a cyclopentene with a double bond at C1 and C3. C5 is bonded to a pink hydrogen and methyl group. The structure of the intermediate shows a cyclopentene with a double bond at C1 and C4. C2 is bonded to a methyl group. C3 is bonded to 2 hydrogen atoms of which one is in pink. The structure of the final product shows a cyclopentene with a double bond at C1 and C3. C3 is bonded to a methyl group. C5 is bonded to 2 hydrogen atoms of which one is in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_30_08_001.jpg"/>
@@ -38,7 +38,7 @@
 </media>
 <caption><emphasis effect="bold">Mechanism of Claisen rearrangement.</emphasis> C─O bond-breaking and C─C bond-making occur simultaneously.</caption>
 </figure>
-<para id="para-00006">Evidence for this mechanism comes from the observation that the rearrangement takes place with an inversion of the allyl group. That is, allyl phenyl ether containing a <sup>14</sup>C label on the allyl <emphasis effect="italics">ether</emphasis> carbon atom yields <emphasis effect="italics">o</emphasis>-allylphenol in which the label is on the <emphasis effect="italics">terminal</emphasis> vinylic carbon (green in <link target-id="fig-00005"/>).</para>
+<para id="para-00006">Evidence for this mechanism comes from the observation that the rearrangement takes place with transposition of the allyl group. That is, allyl phenyl ether containing a <sup>14</sup>C label on the allyl <emphasis effect="italics">ether</emphasis> carbon atom yields <emphasis effect="italics">o</emphasis>-allylphenol in which the label is on the <emphasis effect="italics">terminal</emphasis> vinylic carbon (green in <link target-id="fig-00005"/>).</para>
 <section class="section-exercises" id="sect-00001">
 <title>Problems</title>
 <exercise id="exer-00001">
@@ -47,7 +47,7 @@
 </problem>
 </exercise>
 </section>
-<para id="para-00008">The Cope rearrangement that converts a 1,5-diene to an isomeric 1,5-diene is somewhat limited but a modification called the <emphasis effect="bold">Oxy Cope Rearrangement</emphasis> is wider in scope. As shown in the following example, a 1-5 diene with an –OH next to the double bond can be converted into an oxy-anion by reaction with a strong base such as potassium hydride (KH). A Cope rearrangement then occurs, and reaction with aqueous acid gives an enol that tautomerizes to a ketone.</para>
+<para id="para-00008">The Cope rearrangement that converts a 1,5-diene to an isomeric 1,5-diene is somewhat limited but a modification called the <emphasis effect="bold">Oxy Cope Rearrangement</emphasis> is wider in scope. As shown in the following example, a 1-5 diene with an –OH next to the double bond can be converted into an oxy-anion by reaction with a strong base such as potassium hydride (KH). A Cope rearrangement then occurs, and reaction with aqueous acid gives an enol that tautomerizes to an aldehyde.</para>
 <figure class="unnumbered" id="fig-00006">
 <media alt="Alt text placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_30_08_HOKH.jpg"/>
