@@ -10,25 +10,25 @@
     <para id="para-00002"><emphasis effect="bold"><span class="red-text">STEP 1</span></emphasis><newline/><emphasis effect="bold">Find the longest chain, and name it as the parent.</emphasis> If a double or triple bond is present, the parent chain must contain it.</para>
     <para id="para-00003"><emphasis effect="bold"><span class="red-text">STEP 2</span></emphasis><newline/><emphasis effect="bold">Number the carbons of the parent chain beginning at the end nearer the first substituent, whether alkyl or halo.</emphasis> Assign each substituent a number according to its position on the chain.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows the structures of 5-Bromo-2 4-dimethylheptane and 2-Bromo-4 5-dimethylheptane. Each structure shows a 7-carbon chain. The carbon atoms are labeled from left to right. In 5-Bromo-2 4-dimethylheptane C2 and C4 are bonded to a methyl group each. C5 is bonded to a bromine atom. In 2-Bromo-4 5-dimethylheptane C4 and C5 are bonded to a methyl group each. C2 is bonded to a bromine atom.">
+    <media alt="The structures of 5-bromo-2,4-dimethylheptane and 2-bromo-4,5-dimethylheptane in which the carbon chain is numbered and halogen and methyl substituents are highlighted in red and green respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_01_001.jpg"/>
     </media>
     </figure>
     <para id="para-00004">If different halogens are present, number each one and list them in alphabetical order when writing the name.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00002">
-    <media alt="An illustration shows the structure of 1-Bromo-3-chloro-4-methylpentane. It shows a 5-carbon chain. The carbon atoms are labeled from left to right. C1 is bonded to a bromine atom. C3 is bonded to a chlorine atom. C4 is bonded to a methyl group.">
+    <media alt="The structure of 1-bromo-3-chloro-4-methylpentane in which the carbon chain is numbered and bromine, chlorine, and methyl substituents are highlighted in red, blue, and green respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_01_002.jpg"/>
     </media>
     </figure>
     <para id="para-00005"><emphasis effect="bold"><span class="red-text">STEP 3</span></emphasis><newline/><emphasis effect="bold">If the parent chain can be properly numbered from either end by step 2, begin at the end nearer the substituent that has alphabetical precedence.</emphasis></para>
     <figure class="unnumbered scaled-down-30" id="fig-00003">
-    <media alt="An illustration shows the structure of 2-Bromo-5-methylhexane (Not 5-bromo-2-methylhexane). It shows a 6-carbon chain. The carbon atoms are labeled from right to left. C2 is bonded to a bromine atom. C5 is bonded to a methyl group.">
+    <media alt="The structure of 2-bromo-5-methylhexane in which the carbon chain is numbered and halogen and methyl substituents are highlighted in red and green respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_01_003.jpg"/>
     </media>
     </figure>
     <para id="para-00006">In addition to their systematic names, many simple alkyl halides are also named by identifying first the alkyl group and then the halogen. For example, CH<sub>3</sub>I can be called either iodomethane or methyl iodide. Such names are well entrenched in the chemical literature and in daily usage, but they won’t be used in this book.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows the structures of Iodomethane (or methyl iodide) 2-Chloropropane (or isopropyl chloride) and bromocyclohexane (or cyclohexyl bromide). Iodomethane shows a methylene group bonded to highlighted iodine. 2-Chloropropane shows a methine group bonded to a methyl group on the left a methyl group on the right and a highlighted chlorine at the top. Bromocyclohexane shows a hexane bonded to highlighted bromine.">
+    <media alt="The structures of iodomethane (or methyl iodide), 2-chloropropane (or isopropyl chloride), and bromocyclohexane (or cyclohexyl bromide) with halogens highlighted in red.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_01_004.jpg"/>
     </media>
     </figure>
@@ -87,7 +87,7 @@
     </table>
     <para id="para-00008">In our discussion of bond polarity in functional groups in <link document="m00080"/>, we noted that halogens are more electronegative than carbon. The C−X bond is therefore polar, with the carbon atom bearing a slight positive charge (<emphasis effect="italics">δ</emphasis>+) and the halogen a slight negative charge (<emphasis effect="italics">δ</emphasis>−). This polarity results in a dipole moment for all the halomethanes (<link target-id="table-00001"/>) and implies that the alkyl halide C−X carbon atom should behave as an electrophile in polar reactions. We’ll soon see that this is indeed the case.</para>
     <figure class="unnumbered scaled-down-30" id="fig-00005">
-    <media alt="An illustration shows the electrostatic potential map and structure of a functional group. The electrostatic potential map shows gray ball (carbon) white balls (hydrogens) and red ball (X atom). The structure shows a central carbon labeled ‘electrophilic carbon’ with a single bond dash bond and wedge bond. The carbon shows delta positive charge and is bonded to X that shows a delta negative charge.">
+    <media alt="A ball and stick model in an electrostatic potential map and wedge-dash structure of a carbon-halogen bond. The  carbon is labeled as electrophilic with a partial positive charge.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_01_005.jpg"/>
     </media>
     </figure>
