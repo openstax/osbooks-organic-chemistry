@@ -41,13 +41,13 @@
     <example id="exam-00002">
     <title>Devising a Synthesis Route</title>
     <para id="para-00010">How would you synthesize 2-bromopentane from acetylene and an alkyl halide? More than one step is needed.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows a reaction between “acetylene” and “alkyl halide” pointing with double arrows to the product “2-Bromopentane.” Acetylene is shown as a methine group triple bonded to another methine group. The alkyl halide is shown as RX. The structure of 2-bromopentane is shown as a methyl group bonded to two consecutive methylene groups bonded to a methine group bonded to a bromine at the top and a methyl group on the right.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_09_005.jpg"/>
     </media>
     </figure>
     <para id="para-00011"><title><span class="red-text">Strategy</span></title> Identify the functional group in the product (an alkyl bromide) and work the problem retrosynthetically. What is an immediate precursor of an alkyl bromide? Perhaps an alkene plus HBr. Of the two possibilities, Markovnikov addition of HBr to 1-pentene looks like a better choice than addition to 2-pentene because the latter reaction would give a mixture of isomers.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows a reaction comprising of two optional reactants that react in the presence of hydrogen bromide and an ether to form an alkyl bromide. The optional reactant is 1-pentene or 2-pentene. The structural formula of 1-pentene shows a methyl group bonded to two consecutive methylene groups bonded to a methine group double bonded to a methylene group. The structure of 2-pentene shows a methyl group bonded to a methylene group bonded to a methine group double bonded to another methine group bonded to a methyl group. The structure of alkyl bromide shows a methyl group bonded to two consecutive methylene groups bonded to a methine group sharing an upward bond with a pink bromine and a side bond with a methyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_09_006.jpg"/>
     </media>
@@ -120,20 +120,20 @@
     </section>
     <section class="chemistry-matters" id="sect-00002">
     <title>The Art of Organic Synthesis</title>
-    <figure class="scaled-down-30" id="fig-00015">
+    <figure class="scaled-down" id="fig-00015">
     <media alt="A sludge-waste municipal tank">
     <image mime-type="image/jpeg" src="../../media/OChem_09_98_VitaminB12.jpg"/>
     </media>
     <caption>Vitamin B<sub>12</sub> has been synthesized from scratch in the laboratory, but the bacteria growing on sludge from municipal sewage plants do a much better job. (credit: “Aeration and sludge-wasting” by U.S. Department of Agriculture/Flickr, Public Domain)</caption>
     </figure>
     <para id="para-00023">If you think some of the synthesis problems at the end of this chapter are difficult, try devising a synthesis of vitamin B<sub>12</sub> starting only from simple substances you can buy in a chemical catalog. This extraordinary achievement was reported in 1973 as the culmination of a collaborative effort headed by Robert B. Woodward of Harvard University and Albert Eschenmoser of the Swiss Federal Institute of Technology in Zürich. More than 100 graduate students and postdoctoral associates contributed to the work, which took more than a decade to complete.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00016">
+    <figure class="unnumbered scaled-down" id="fig-00016">
     <media alt="An illustration shows the molecular structure of Vitamin B12. The three dimensional structure shows four pyrrole-like subunits that are organized into a fully conjugated ring with alternating double bonds and single bonds; A methyl group is bonded to each of the four positions connecting the pyrrole-like subunits; a centrally placed Co(III) is bonded to a cyanide atom. The cobalt ion is bonded to four nitrogen atoms that are part of the four pyrrole-like subunits. Each of the two subunits at the top is bonded to a hydrogen methyl group and two methylene groups; each methylene group is bonded to an amide group. The subunit at the bottom right is bonded to a hydrogen two methyl groups and two methylene groups; the second methylene group is bonded to an amide group. The subunit at the bottom left is bonded to a hydrogen methyl group and a methylene group bonded to an amide group. This subunit is bonded to a 2-carbon chain at the bottom. C2 of the chain is bonded to a carbonyl group bonded to a nitrogen monohydride. The nitrogen is bonded to a methylene group bonded to a carbon. The carbon is dash bonded to a hydrogen wedge bonded to a methyl group and single bonded to a phosphate group that is bonded to a furanose ring. The furanose ring is bonded to a hydroxy methyl group a hydroxyl group and a nitrogen of a 5-membered ring that shows a second nitrogen bonded to the cobalt ion. The 5-membered ring is fused to a benzene ring bonded to two methyl groups.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_09_016.jpg"/>
     </media>
     </figure>
     <para id="para-00024">Why put such extraordinary effort into the laboratory synthesis of a molecule so easily obtained from natural sources? There are many reasons. On a basic human level, a chemist might be motivated primarily by the challenge, much as a climber might be challenged by the ascent of a difficult peak. Beyond the pure challenge, the completion of a difficult synthesis is also valuable in that it establishes new standards and raises the field to a new level. If vitamin B<sub>12</sub> can be made, then why can’t any molecule found in nature be made? Indeed, the decades that have passed since the work of Woodward and Eschenmoser have seen the laboratory synthesis of many enormously complex and valuable substances. Sometimes these substances—for instance, the anticancer compound paclitaxel, trade named Taxol—are not easily available in nature, so laboratory synthesis is the only method for obtaining larger quantities.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <figure class="unnumbered scaled-down" id="fig-00017">
     <media alt="An illustration shows the structure of “Paclitaxel (Taxol)” having a benzene bonded to a carbonyl group that is bonded to nitrogen monohydride; the nitrogen is dash boded to a methine group bonded to a benzene at the bottom left and a two-carbon chain at the bottom right. C1 is dash bonded to a hydroxyl group and C2 is a carboxyl group dash bonded to a cyclohexene ring. This ring is single bonded to three methyl groups wedge bonded to a hydrogen and hydroxyl group and bonded to another 2-carbon chain at the top. C1 of the chain is wedge bonded to an oxygen atom bonded to a methyl acetate. C2 is a carbonyl group bonded to a hexane ring. The hexane is wedge bonded to a hydroxyl group methyl group and a 4-membered ring with an oxygen atom. The hexane is dash bonded to an oxygen bonded to methyl acetate group. The hexane ring is bonded to a methine group dash bonded to an oxygen that is also bonded to the cyclohexene ring. The oxygen is bonded to a carbonyl group bonded to a benzene ring.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_09_017.jpg"/>
     </media>
@@ -205,7 +205,7 @@
     </media>
     </figure>
     <para id="para-101">(2) Hydroboration–oxidation</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00024">
+    <figure class="unnumbered scaled-down" id="fig-00024">
     <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of borane and hydrogen peroxide to yield an aldehyde. The structure of alkyne shows R bonded to carbon triple bonded to carbon attached to hydrogen. An aldehyde shows a carbon sharing two downward bonds with hydrogens; the carbon is bonded to R on the left side on the right side carbon bonds to a carbonyl group having pink oxygen the carbon of carbonyl group is further bonded to hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_007.jpg"/>
     </media>
@@ -213,13 +213,13 @@
     <item>Reduction (<link document="m00107"/>)
     
     <para id="para-102">(1) Catalytic hydrogenation</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00025">
+    <figure class="unnumbered scaled-down" id="fig-00025">
     <media alt="An illustration shows two reactions. The first reaction shows an alkyne reacting in the presence of two moles of hydrogen and a palladium catalyst to yield an alkyl group. The structural formula of an alkyne shows R bonded to carbon triple bonded to another carbon attached to R’. The structure of alkyl product shows a carbon bonded to R two hydrogens and another carbon that is further bonded to two hydrogens and an R’. The second reaction shows an alkyne reacting in the presence of hydrogen and Lindlar catalyst to yield “a cis alkene”. The structure of cis alkene shows two carbons double bonded to each other; the carbon at left side shows an upward bond with a pink hydrogen and a downward bond with R; the carbon on right side shares an upward bond with pink hydrogen and a downward bond with R’.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_008.jpg"/>
     </media>
     </figure>
     <para id="para-104">(2) Lithium in liquid ammonia</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00026">
+    <figure class="unnumbered scaled-down" id="fig-00026">
     <media alt="An illustration shows a reaction wherein an alkyne reacts in the presence of lithium and ammonia to yield a trans alkene. The structural formula of alkyne shows R bonded to carbon triple bonded to another carbon attached to R’. The structure of a trans alkene shows two carbons double bonded to each other; the carbon at the left shares an upward bond with pink hydrogen and a downward bond with R; the carbon at the right side shows an upward bond with R’ and a downward bond with a pink hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_EC_009.jpg"/>
     </media>
