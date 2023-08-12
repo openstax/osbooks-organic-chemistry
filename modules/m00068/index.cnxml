@@ -7,13 +7,13 @@
   </metadata>
   <content>
     <para id="para-00001">Although the cis–trans interconversion of alkene isomers does not occur spontaneously, it can often be made to happen by treating the alkene with a strong acid catalyst. If we interconvert <emphasis effect="italics">cis</emphasis>-2-butene with <emphasis effect="italics">trans</emphasis>-2-butene and allow them to reach equilibrium, we find that they aren’t of equal stability. The trans isomer is more stable than the cis isomer by 2.8 kJ/mol (0.66 kcal/mol) at room temperature, corresponding to a 76&#8201;:&#8201;24 ratio.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows the interconversion of a Trans (76%) isomer of an alkene to Cis (24%) in the presence of acid catalyst. The trans isomer shows two carbons double bonded. the first carbon is bonded to a methyl group at the bottom and hydrogen at the top. The second carbon is bonded to a methyl group at the top and hydrogen at the bottom. The cis isomer shows two carbons double bonded; each carbon is bonded to a methyl group at the top and hydrogen at the bottom.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_06_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">Cis alkenes are less stable than their trans isomers because of steric strain between the two larger substituents on the same side of the double bond. This is the same kind of steric interference that we saw previously in the axial conformation of methylcyclohexane (<link document="m00046"/>).</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="An illustration shows the space filling models of cis-2-Butene and trans-2-Butene. Gray balls show carbon atoms and white balls show hydrogen atoms. Steric strain is shown between two hydrogen atoms.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_06_002.jpg"/>
     </media>
@@ -97,14 +97,14 @@
     </media>
     </figure>
     <para id="para-00008">The stability order of substituted alkenes is due to a combination of two factors. One is a stabilizing interaction between the <m:math><m:mrow><m:mtext>C&#x2550;C</m:mtext></m:mrow></m:math> <emphasis effect="italics">π</emphasis> orbital and adjacent C−H <emphasis effect="italics">σ</emphasis> bonds on substituents. In valence-bond language, the interaction is called <term id="term-00001">hyperconjugation</term>. In a molecular orbital description, there is a bonding MO that extends over the four-atom <m:math><m:mrow><m:mtext>C&#x2550;C&#x2212;C&#x2212;H</m:mtext></m:mrow></m:math> grouping, as shown in <link target-id="fig-00007"/>. The more substituents present on the double bond, the more hyperconjugation occurs and the more stable the alkene.</para>
-    <figure class="scaled-down-30" id="fig-00007">
+    <figure class="scaled-down" id="fig-00007">
     <media alt="An illustration shows the cartoon representation and electrostatic potential map of an alkene. The cartoon model shows three sp2 orbitals. The center carbon is dash bonded to a hydrogen. The left carbon is dash bonded to a hydrogen and wedge bonded to a hydrogen. The right carbon is single bonded to a hydrogen dash bonded to a hydrogen and wedge bonded to a hydrogen. The ball-and-stick model shows gray balls (carbons) and white balls (hydrogens).">
     <image mime-type="image/jpeg" src="../../media/OChem_07_06_007.jpg"/>
     </media>
     <caption><emphasis effect="bold">Hyperconjugation is a stabilizing interaction between the <m:math><m:mrow><m:mtext mathvariant="bold">C&#x2550;C</m:mtext></m:mrow></m:math> <emphasis effect="italics">π</emphasis> orbital and adjacent C−H <emphasis effect="italics">σ</emphasis> bonds on substituents</emphasis>. The more substituents there are, the greater the stabilization of the alkene.</caption>
     </figure>
     <para id="para-00009">A second factor that contributes to alkene stability involves bond strengths. A bond between a <emphasis effect="italics">sp</emphasis><sup>2</sup> carbon and a <emphasis effect="italics">sp</emphasis><sup>3</sup> carbon is somewhat stronger than a bond between two <emphasis effect="italics">sp</emphasis><sup>3</sup> carbons. Thus, in comparing 1-butene and 2-butene, the monosubstituted isomer has one <emphasis effect="italics">sp</emphasis><sup>3</sup>–<emphasis effect="italics">sp</emphasis><sup>3</sup> bond and one <emphasis effect="italics">sp</emphasis><sup>3</sup>–<emphasis effect="italics">sp</emphasis><sup>2</sup> bond, while the disubstituted isomer has two <emphasis effect="italics">sp</emphasis><sup>3</sup>–<emphasis effect="italics">sp</emphasis><sup>2</sup> bonds. More highly substituted alkenes always have a higher ratio of <emphasis effect="italics">sp</emphasis><sup>3</sup>–<emphasis effect="italics">sp</emphasis><sup>2</sup> bonds to <emphasis effect="italics">sp</emphasis><sup>3</sup>–<emphasis effect="italics">sp</emphasis><sup>3</sup> bonds than less highly substituted alkenes and are therefore more stable.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00008">
+    <figure class="unnumbered scaled-down" id="fig-00008">
     <media alt="An illustration shows the structures of 2-Butene (more stable) and 1-Butene (less stable). 2-Butene (more stable) shows two methine groups double bonded. each methine is bonded to a methyl group. The bonds between methine and methyl groups are sp3–sp2. 1-Butene shows a methyl group bonded to a methylene group that is bonded to a methine group double bonded to a methylene group. The bond between the methyl and methylene groups is sp3–sp3 and methylene and methine groups is sp3–sp2.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_06_008.jpg"/>
     </media>
