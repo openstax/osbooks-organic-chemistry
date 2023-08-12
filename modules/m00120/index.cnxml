@@ -10,19 +10,19 @@
     <para id="para-00002"><m:math><m:mrow><m:mtable columnalign="left"><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mspace width="3em"/><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext style="color: #E00087">Oxidation</m:mtext></m:mstyle><m:mspace width="2em"/></m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow><m:mtext>Decreases electron density on carbon by:</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>forming one of these:</m:mtext><m:mspace width="0.2em"/><m:mtext>C−</m:mtext><m:mtext style="color: #E00087">O</m:mtext><m:mspace width="1.2em"/><m:mtext>C−</m:mtext><m:mtext style="color: #E00087">N</m:mtext><m:mspace width="1.2em"/><m:mtext>C−</m:mtext><m:mtext style="color: #E00087">X</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>or breaking this:</m:mtext><m:mspace width="0.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #0078A3">H</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow><m:mspace width="3em"/><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext style="color: #0078A3">Reduction</m:mtext></m:mstyle><m:mspace width="2em"/></m:mrow></m:mtd><m:mtd columnalign="left"><m:mrow><m:mtext>Increases electron density on carbon by:</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>forming this:</m:mtext><m:mspace width="0.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #0078A3">H</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr columnalign="left"><m:mtd columnalign="left"><m:mrow/></m:mtd><m:mtd columnalign="left"><m:mrow><m:mspace width="2em"/><m:mo>–</m:mo><m:mtext>or breaking one of these:</m:mtext><m:mspace width="0.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #E00087">O</m:mtext><m:mspace width="1.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #E00087">N</m:mtext><m:mspace width="1.2em"/><m:mtext>C–</m:mtext><m:mtext style="color: #E00087">X</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:math></para>
     <para id="para-00003">Based on these definitions, the chlorination reaction of methane to yield chloromethane is an oxidation because a C−H bond is broken and a C−Cl bond is formed. The conversion of an alkyl chloride to an alkane via a Grignard reagent followed by protonation is a reduction, however, because a C−Cl bond is broken and a C−H bond is formed.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows two reactions. In the first reaction methane reacts with chlorine to yield chloromethane and hydrochloric acid. Text reads: Oxidation: C–H bond broken and C–Cl bond formed. Methane shows a carbon single bonded to two hydrogen atoms dash bonded to a hydrogen and wedge bonded to a hydrogen. Chloromethane shows a carbon single bonded to a hydrogen atom and chlorine dash bonded to a hydrogen and wedge bonded to a hydrogen. In the second reaction chloromethane reacts in the presence of Mg ether and hydronium ion to yield methane. Text reads: Reduction: C–Cl bond broken and C–H bond formed.">
+    <media alt="Via oxidation, methane reacts with chlorine to form chloromethane and HCl. Via reduction, chloromethane reacts with Mg, ether, and hydronium ions to form methane.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_001.jpg"/>
     </media>
     </figure>
     <para id="para-00004">As other examples, the reaction of an alkene with Br<sub>2</sub> to yield a 1,2-dibromide is an oxidation because two C−Br bonds are formed, but the reaction of an alkene with HBr to yield an alkyl bromide is neither an oxidation nor a reduction because both a C−H and a C−Br bond are formed.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows two reactions. In the first reaction ethylene reacts with bromine to yield 1 2-dibromoethane. Ethylene shows two methylene groups double bonded to each other. 1 2-Dibromoethane shows two carbons single bonded to each other. Each carbon is bonded to two hydrogen atoms and a bromine atom. Text reads: Oxidation: Two new bonds formed between carbon and a more electronegative element. In the second reaction ethylene reacts with HBr to yield 1 2-bromoethane. Bromoethane shows two carbons single bonded to each other. The first carbon is bonded to two hydrogen atoms and a hydrogen. The second carbon is bonded to two hydrogen atoms and a bromine atom. Text reads: Neither oxidation nor reduction: One new C–H bond and one new C–Br bond formed.">
+    <media alt="Via oxidation, ethylene reacts with bromine to form 1,2-Dibromoethane. Via neither oxidation nor reduction, ethylene reacts with HBr to form bromoethane.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_002.jpg"/>
     </media>
     </figure>
     <para id="para-00005">A list of compounds of increasing oxidation level is shown in <link target-id="fig-00003"/>. Alkanes are at the lowest oxidation level because they have the maximum possible number of C−H bonds per carbon, and CO<sub>2</sub> is at the highest level because it has the maximum possible number of C−O bonds per carbon. Any reaction that converts a compound from a lower level to a higher level is an oxidation, any reaction that converts a compound from a higher level to a lower level is a reduction, and any reaction that doesn’t change the level is neither an oxidation nor a reduction.</para>
     <figure class="scaled-down" id="fig-00003">
-    <media alt="An illustration shows the oxidation levels of some compounds as follows: Low oxidation level: CH3CH3; high oxidation level: CO2 CCl4. In between these two levels the following is the increasing oxidation level: group 1 (Ethylene CH3OH CH3Cl CH3NH2); group 2 (acetylene CH2O CH2Cl2 CH2NH); group 3 (HCO2H CHCl3 CHN).">
+    <media alt="Fourteen compounds are listed in order of increasing level of oxidation. Alkanes have lowest whereas CO2 and CCl4 have the highest level. Other compounds fall between these.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_003.jpg"/>
     </media>
     <caption><emphasis effect="bold">Oxidation levels of some common compounds.</emphasis></caption>
@@ -32,14 +32,14 @@
     <title>Comparing Oxidation Levels</title>
     <para id="para-00007">Rank the following compounds in order of increasing oxidation level:</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows the structures of four compounds. The first compound shows a methyl group bonded to a methine group that is double bonded to a methylene group. The second compound shows a methyl group bonded to a methine group that is bonded to a methyl group on the right and a hydroxyl group at the top. The third compound shows a methyl group bonded to a carbonyl group that is bonded to a methyl group. The fourth compound shows a methyl group bonded to a methylene group that is bonded to a methyl group.">
+    <media alt="Chemical structures of propene, isopropyl alcohol, acetone and propane.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_004.jpg"/>
     </media>
     </figure>
     <para id="para-00008"><title><span class="red-text">Strategy</span></title> Compounds that have the same number of carbon atoms can be compared by adding the number of C−O, C−N, and C−X bonds in each and then subtracting the number of C−H bonds. The larger the resultant value, the higher the oxidation level.</para>
     <para id="para-00009"><title><span class="cyan-text">Solution</span></title> The first compound (propene) has six C−H bonds, giving an oxidation level of −6; the second (2-propanol) has one C−O bond and seven C−H bonds, giving an oxidation level of −6; the third (acetone) has two C−O bonds and six C−H bonds, giving an oxidation level of −4; and the fourth (propane) has eight C−H bonds, giving an oxidation level of −8. Thus, the order of increasing oxidation level is</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows the order of increasing oxidation level of four compounds. The first compound shows a methyl group bonded to a methylene group that is bonded to a methyl group. The second compound shows a methyl group bonded to a methine group that is double bonded to a methylene group. The third compound shows a methyl group bonded to a methine group that is bonded to a methyl group on the right and a hydroxyl group at the top. The level of the second and third compounds are equal. The fourth compound shows a methyl group bonded to a carbonyl group that is bonded to a methyl group.">
+    <media alt="Four compounds arranged in order of increasing oxidation level: propane is lowest, isopropyl alcohol and propene are equal and intermediate, and acetone is highest. ">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_005.jpg"/>
     </media>
     </figure>
@@ -61,14 +61,14 @@
     <title>Naturally Occurring Organohalides</title>
     <para id="para-00012">Just forty years ago in 1980, only about 30 naturally occurring organohalides were known. It was simply assumed that chloroform, halogenated phenols, chlorinated aromatic compounds called PCBs, and other such substances found in the environment were industrial pollutants. Now, less than half a century later, the situation is quite different. More than 5000 organohalides have been found to occur naturally, and tens of thousands more surely exist. From a simple compound like chloromethane to an extremely complex one like the antibiotic vancomycin, a remarkably diverse range of organohalides exists in plants, bacteria, and animals. Many even have valuable physiological activity. The pentahalogenated alkene halomon, for instance, has been isolated from the red alga <emphasis effect="italics">Portieria hornemannii</emphasis> and found to have anticancer activity against several human tumor cell lines.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows the structure and ball-and-stick model of halomon. The structure shows a 7-carbon chain. C2 is bonded to a methyl group and chlorine. C3 is dash bonded to a hydrogen and wedge bonded to bromine. C6 is dash bonded to chlorine and wedge bonded to a bromo methane. C7 is single bonded to chlorine atom and double bonded to a methylene group. The ball-and-stick model shows gray balls (carbon atoms) white balls (hydrogen atoms) red balls (bromine atoms) and green balls (chlorine atoms).">
+    <media alt="The wedge-dash structure and ball and stick model of Halomon. Black, gray, green, and red spheres represent carbon, hydrogen, chlorine, and bromine atoms, respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_009.jpg"/>
     </media>
     </figure>
     <para id="para-00013">Some naturally occurring organohalides are produced in massive quantities. Forest fires, volcanic eruptions, and marine kelp release up to 5 million tons of CH<sub>3</sub>Cl per year, for example, while annual industrial emissions total about 26,000 tons. Termites are thought to release as much as 10<sup>8</sup> kg of chloroform per year. A detailed examination of the Okinawan acorn worm <emphasis effect="italics">Ptychodera flava</emphasis> found that the 64 million worms living in a 1 km<sup>2</sup> study area excreted nearly 8000 pounds per year of bromophenols and bromoindoles, compounds previously thought to be non-natural pollutants.</para>
     <para id="para-00014">Why do organisms produce organohalides, many of which are undoubtedly toxic? The answer seems to be that many organisms use organohalogen compounds for self-defense, either as feeding deterrents, irritants to predators, or natural pesticides. Marine sponges, coral, and sea hares, for example, release foul-tasting organohalides that deter fish, starfish, and other predators. Even humans appear to produce halogenated compounds as part of their defense against infection. The human immune system contains a peroxidase enzyme capable of carrying out halogenation reactions on fungi and bacteria, thereby killing the pathogen. And most remarkable of all, even free chlorine—Cl<sub>2</sub>—has been found to be present in humans.</para>
     <figure class="scaled-down-30" id="fig-00007">
-    <media alt="A colorful coral reef.">
+    <media alt="Colorful marine corals that secrete organohalogen compounds.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_010.jpg"/>
     </media>
     <caption>Marine corals secrete organohalogen compounds that act as a feeding deterrent to fish. (credit: “Coral reef” by Qui Nguyen, United Nations Environment Programme/Flickr, Public Domain)</caption>
@@ -102,7 +102,7 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
     <item>From alkenes by allylic bromination (<link document="m00115"/>)<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00008">
-    <media alt="An illustration shows the reaction of an alkene in the presence of NBS hv and CCl4 to yield an alkyl bromide. The alkene shows a carbon double bonded to a carbon that is bonded to another carbon. The first carbon shows two free bonds; the second carbon shows one free bond. The third carbon shows two double bonds and is bonded to a hydrogen. The alkyl bromide is similar to the reactant but the bromine is replaced by a bromine.">
+    <media alt="The bromination reaction of alkene in the presence of N-bromosuccinimide, light, and carbon tetrachloride produces an allyl bromide through replacement of an allylic hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_001.jpg"/>
     </media>
     </figure></item>
@@ -110,25 +110,25 @@
     
     <para id="para-00058">(1) Reaction with HX</para>
     <figure class="unnumbered scaled-down-30" id="fig-00009">
-    <media alt="An illustration shows the reaction of an alcohol in the presence of HX and ether to yield an alkyl halide. The alcohol shows a central carbon with a free bond dash bond and a single bond. The carbon is bonded to a hydroxyl group. The alkyl halide is similar to the reactant but the hydroxyl group is replaced by X.">
+    <media alt="The reaction of tertiary alcohol with HX in the presence of ether forms an alkyl halide. The reactivity of alcohols in decreasing order is tertiary, secondary, and primary.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_002.jpg"/>
     </media>
     </figure>
     <para id="para-00059">(2) Reaction of 1° and 2° alcohols with SOCl<sub>2</sub></para>
     <figure class="unnumbered scaled-down-30" id="fig-00010">
-    <media alt="An illustration shows the reaction of an alcohol in the presence of SOCl2 and pyridine to yield an alkyl chloride. The alcohol shows a central carbon with a free bond dash bond and a single bond. The carbon is bonded to a hydroxyl group. The alkyl chloride is similar to the reactant but the hydroxyl group is replaced by a chlorine atom.">
+    <media alt="The reaction of secondary alcohol with thionyl chloride in the presence of pyridine forms alkyl chloride where the OH in the reactant is replaced by Cl in the product.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_003.jpg"/>
     </media>
     </figure>
     <para id="para-00060">(3) Reaction of 1° and 2° alcohols with PBr<sub>3</sub></para>
     <figure class="unnumbered scaled-down-30" id="fig-00011">
-    <media alt="An illustration shows the reaction of an alcohol in the presence of PBr3 and ether to yield an alkyl bromide. The alcohol shows a central carbon with a free bond dash bond and a single bond. The carbon is bonded to a hydroxyl group. The alkyl bromide is similar to the reactant but the hydroxyl group is replaced by a bromine atom.">
+    <media alt="The reaction of secondary alcohol with phosphorus tribromide in the presence of ether forms an alkyl bromide where the OH in the reactant is replaced by Br in the product.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_004.jpg"/>
     </media>
     </figure>
     <para id="para-00061">(4) Reaction of 1° and 2° alcohols with HF–pyridine</para>
     <figure class="unnumbered scaled-down-30" id="fig-00012">
-    <media alt="An illustration shows the reaction of an alcohol in the presence of HF and pyridine to yield a product. The alcohol shows a hexane bonded to a hydroxyl group. The product is similar to the reactant but the hydroxyl group is replaced by a fluorine atom. The structure of pyridine is shown inside parentheses. It shows a 6-membered ring with a nitrogen and alternate double bonds.">
+    <media alt="The reaction of cyclohexanol with HF in the presence of pyridine forms fluorocyclohexane. Pyridine is shown as a six-membered aromatic ring containing five carbon atoms and one nitrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_005.jpg"/>
     </media>
     </figure>
@@ -137,18 +137,18 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
     <item>Formation of Grignard (organomagnesium) reagents (<link document="m00118"/>)<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00013">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction of RX with magnesium in the presence of ether forms a Grignard reagent having formula R-Mg-X.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_006.jpg"/>
     </media>
     </figure></item>
     <item>Formation of Gilman (diorganocopper) reagents (<link document="m00119"/>)<newline/>
     <figure class="unnumbered scaled-down-30" id="fig-00014">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction of RX with 2 equivalents of lithium in the presence of pentane forms R-Li and Li-X.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_007.jpg"/>
     </media>
     </figure>
     <figure class="unnumbered scaled-down" id="fig-00015">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction of 2 equivalents of R-Li with CuI in ether forms lithium di-R copper and Li I.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_008.jpg"/>
     </media>
     </figure></item>
@@ -156,13 +156,13 @@
     
     <para id="para-00062">(1) Diorganocopper reaction</para>
     <figure class="unnumbered scaled-down" id="fig-00016">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction of di-R copper with R'-X in ether forms three products, R-R', R-Cu, and Li-X.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_009.jpg"/>
     </media>
     </figure>
     <para id="para-00063">(2) Palladium-catalyzed Suzuki–Miyaura reaction</para><newline/>
     <figure class="unnumbered scaled-down" id="fig-00017">
-    <media alt="An illustration shows the reaction of an alcohol and alkyl iodide in the presence of Pd(PPh3)4 CaCO3 and THF to yield a product. The alcohol shows a benzene bonded to B that is bonded to two hydroxyl groups. The alkyl iodide shows a benzene bonded to iodine. The product shows two benzene rings bonded to each other.">
+    <media alt="The reaction between phenylboronic acid and iodobenzene in the presence of Pd (P Ph 3) 4, calcium carbonate, and tetrahydrofuran forms biphenyl.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_010.jpg"/>
     </media>
     </figure>
