@@ -11,7 +11,7 @@
     <title>The Substrate</title>
     <para id="para-00002">According to the Hammond postulate (<link document="m00072"/>), any factor that stabilizes a high-energy intermediate also stabilizes the transition state leading to that intermediate. Because the rate-limiting step in an S<sub>N</sub>1 reaction is the spontaneous, unimolecular dissociation of the substrate to yield a carbocation, the reaction is favored whenever a stabilized carbocation intermediate is formed. The more stable the carbocation intermediate, the faster the S<sub>N</sub>1 reaction.</para>
     <para id="para-00003">We saw in <link document="m00071"/> that the stability order of alkyl carbocations is 3° > 2° > 1° > methyl. To this list we should also add the resonance-stabilized allyl and benzyl cations. Just as allylic radicals are unusually stable because the unpaired electron can be delocalized over an extended <emphasis effect="italics">π</emphasis> orbital system (<link document="m00116"/>), so allylic and benzylic carbocations are unusually stable. (The word <term id="term-00001">benzylic</term> means “next to an aromatic ring.”) As <link target-id="fig-00001"/> indicates, an allylic cation has two resonance forms. In one form, the double bond is on the “left”; in the other form it’s on the “right.” A benzylic cation has five resonance forms, all of which contribute to the overall resonance hybrid.</para>
-    <figure id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="An illustration shows the resonance forms and electrostatic potential maps of allyl carbocation and benzyl carbocation. Allyl carbocation: In the first form a methylene group is double bonded to a methine group bonded to a carbocation that is bonded to two hydrogens. The second form is the mirror image of the first form. Benzyl carbocation: In the first form a benzene is bonded to a carbocation bonded to two hydrogens. Three arrows show the change of the position of the double bonds. The second form is similar but an arrow outside the ring points from a double bond to C-C bond. In the third form the C-C bond is a double bond. C2 of the ring is carbocation. An arrow within the ring points the position change of a double bond. In the fourth form the C-C bond is a double bond. C4 of the ring is carbocation. An arrow within the ring points the position change of a double bond. In the fifth form the C-C bond is a double bond. C6 of the ring is carbocation. In the ball-and-stick models of electrostatic potential maps gray balls represent carbons and white balls represent hydrogens. In allyl carbocation C1 and C3 are indicated by blue arrows. In benzyl carbocation C2 C4 and C6 are indicated by blue arrows.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_05_001.jpg"/>
     </media>
@@ -46,7 +46,7 @@
     <section id="sect-00003">
     <title>The Leaving Group</title>
     <para id="para-00008">We said during the discussion of S<sub>N</sub>2 reactivity that the best leaving groups are those that are most stable; that is, those that are the conjugate bases of strong acids. An identical reactivity order is found for the S<sub>N</sub>1 reaction because the leaving group is directly involved in the rate-limiting step. Thus, the S<sub>N</sub>1 reactivity order is</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows the leaving group reactivity in the following increasing order: hydroxyl ion chloride ion bromide ion iodide ion equivalent to ToSO ion water.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_05_005.jpg"/>
     </media>
@@ -63,7 +63,7 @@
     <section id="sect-00004">
     <title>The Nucleophile</title>
     <para id="para-00010">The nature of the nucleophile plays a major role in the S<sub>N</sub>2 reaction but does not affect an S<sub>N</sub>1 reaction. Because the S<sub>N</sub>1 reaction occurs through a rate-limiting step in which the added nucleophile has no part, the nucleophile can’t affect the reaction rate. The reaction of 2-methyl-2-propanol with HX, for instance, occurs at the same rate regardless of whether X is Cl, Br, or I. Furthermore, neutral nucleophiles are just as effective as negatively charged ones, so S<sub>N</sub>1 reactions frequently occur under neutral or acidic conditions.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows a reaction of 2-Methyl-2-propanol with HX to yield an alkyl halide and water. 2-Methyl-2-propanol shows a carbon bonded to three methyl groups and a hydroxyl group. The product shows a carbon bonded to three methyl groups and X. Text reads: Same rate for X equal to Cl, Br, I).">
     <image mime-type="image/jpeg" src="../../media/OChem_11_05_007.jpg"/>
     </media>
@@ -73,7 +73,7 @@
     <title>The Solvent</title>
     <para id="para-00011">What about the solvent? Do solvents have the same effect in S<sub>N</sub>1 reactions that they have in S<sub>N</sub>2 reactions? The answer is both yes and no. Yes, solvents have a large effect on S<sub>N</sub>1 reactions, but no, the reasons for the effects on S<sub>N</sub>1 and S<sub>N</sub>2 reactions are not the same. Solvent effects in the S<sub>N</sub>2 reaction are due largely to stabilization or destabilization of the nucleophile <emphasis effect="italics">reactant,</emphasis> while solvent effects in the S<sub>N</sub>1 reaction are due largely to stabilization or destabilization of the <emphasis effect="italics">transition state</emphasis>.</para>
     <para id="para-00012">The Hammond postulate says that any factor stabilizing the intermediate carbocation should increase the rate of an S<sub>N</sub>1 reaction. Solvation of the carbocation—the interaction of the ion with solvent molecules—has such an effect. Solvent molecules orient around the carbocation so that the electron-rich ends of the solvent dipoles face the positive charge (<link target-id="fig-00007"/>), thereby lowering the energy of the ion and favoring its formation.</para>
-    <figure class="scaled-down-30" id="fig-00007">
+    <figure class="scaled-down" id="fig-00007">
     <media alt="An illustration shows the cartoon representation of a carbocation surrounded by 6 water molecules. The carbocation shows sp2 orbital with the carbon cation showing a free single bond wedge bond and dash bond. Each water molecule shows an oxygen bonded to two hydrogens. Each oxygen shows four electrons.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_05_008.jpg"/>
     </media>

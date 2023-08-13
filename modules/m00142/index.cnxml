@@ -10,7 +10,7 @@
     <section id="sect-00001">
     <title>Alkanes</title>
     <para id="para-00002">The IR spectrum of an alkane is fairly uninformative because no functional groups are present and all absorptions are due to C–H and C–C bonds. Alkane C–H bonds show a strong absorption from 2850 to 2960 cm<sup>–1</sup>, and saturated C–C bonds show a number of bands in the 800 to 1300 cm<sup>–1</sup> range. Since most organic compounds contain saturated alkane-like portions, most organic compounds have these characteristic IR absorptions. The C–H and C–C bands are clearly visible in the three spectra shown previously in <link document="m00141" target-id="fig-00001"/>.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="Characteristic alkane bonds and their absorption values. Alkane CH bonds absorb at 2850 to 2960 inverse centimeters and alkane CC bonds absorb at 800 to 1300 inverse centimeters.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_08_001.jpg"/>
     </media>
@@ -20,7 +20,7 @@
     <title>Alkenes</title>
     <para id="para-00003">Alkenes show several characteristic stretching absorptions. Vinylic =C–H bonds absorb from 3020 to 3100 cm<sup>–1</sup>, and alkene <m:math><m:mrow><m:mtext>C&#x2550;C</m:mtext></m:mrow></m:math> bonds usually absorb near 1650 cm<sup>–1</sup>, although in some cases their peaks can be rather small and difficult to see clearly when the alkene is symmetric, or nearly so. Both absorptions are visible in the 1-hexene spectrum in <link document="m00141" target-id="fig-00001"/>b.</para>
     <para id="para-00004">Alkenes have characteristic =C–H out-of-plane bending absorptions in the 700 to 1000 cm<sup>–1</sup> range, thereby allowing the substitution pattern on a double bond to be determined (<link target-id="fig-00003"/>). For example, monosubstituted alkenes such as 1-hexene show strong characteristic bands at 910 and 990 cm<sup>–1</sup>, and 1,1-disubstituted alkenes (<m:math><m:mrow><m:msub><m:mtext>R</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C&#x2550;</m:mtext><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math>) have an intense band at 890 cm<sup>–1</sup>.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="Characteristic alkene bonds and their absorption values. Various alkene CC and CH bond types absorb just below 3100, below 1680, below 990, and at 890 inverse centimeters.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_08_002.jpg"/>
     </media>
@@ -35,7 +35,7 @@
     <section id="sect-00003">
     <title>Alkynes</title>
     <para id="para-00005">Alkynes show a <m:math><m:mrow><m:mtext>C≡C</m:mtext></m:mrow></m:math> stretching absorption at 2100 to 2260 cm<sup>–1</sup>, an absorption that is much more intense for terminal alkynes than for internal alkynes. Terminal alkynes such as 1-hexyne also have a characteristic <m:math><m:mrow><m:mtext>≡C–H</m:mtext></m:mrow></m:math> stretching absorption at 3300 cm<sup>–1</sup> (<link document="m00141" target-id="fig-00001"/>c). This band is diagnostic for terminal alkynes because it is fairly intense and quite sharp.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="Characteristic alkyne bonds and their absorption values. Alkyne CC bonds absorb at 2100 to 2260 inverse centimeters and alkyne CH bonds absorb at 3300 inverse centimeters.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_08_004.jpg"/>
     </media>
@@ -60,7 +60,7 @@
     <section id="sect-00005">
     <title>Alcohols</title>
     <para id="para-00008">The O–H functional group of alcohols is easy to spot. Alcohols have a characteristic band in the range 3400 to 3650 cm<sup>–1</sup> that is usually broad and intense. Hydrogen bonding between O–H groups is responsible for making the absorbance so broad. If an O–H stretch is present, it’s hard to miss this band or to confuse it with anything else.</para>
-    <figure class="unnumbered" id="fig-00007">
+    <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="A characteristic alcohol bond and its absorption value, indicated as a broad intense band at 3400 to 3650 inverse centimeters.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_08_007.jpg"/>
     </media>
@@ -148,7 +148,7 @@
     </figure>
     <para id="para-00022"><title><span class="red-text">Strategy</span></title> All IR spectra have many absorptions, but those useful for identifying specific functional groups are usually found in the region from 1500 cm<sup>–1</sup> to 3300 cm<sup>–1</sup>. Pay particular attention to the carbonyl region (1670 to 1780 cm<sup>–1</sup>), the aromatic region (1660 to 2000 cm<sup>–1</sup>), the triple-bond region (2000 to 2500 cm<sup>–1</sup>), and the C–H region (2500 to 3500 cm<sup>–1</sup>).</para>
     <para id="para-00023"><title><span class="cyan-text">Solution</span></title> The spectrum shows an intense absorption at 1725 cm<sup>–1</sup> due to a carbonyl group (perhaps an aldehyde, –CHO), a series of weak absorptions from 1800 to 2000 cm<sup>–1</sup> characteristic of aromatic compounds, and a C–H absorption near 3030 cm<sup>–1</sup>, also characteristic of aromatic compounds. In fact, the compound is phenylacetaldehyde.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00017">
+    <figure class="unnumbered scaled-down" id="fig-00017">
     <media alt="Chemical structure structure of phenylacetaldehyde.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_08_017.jpg"/>
     </media>
