@@ -27,14 +27,14 @@
 <example id="exam-00001">
 <title>Predicting the Product of an Ether Cleavage Reaction</title>
 <para id="para-00004">Predict the products of the following reaction:</para>
-<figure class="unnumbered scaled-down-30" id="fig-00004">
+<figure class="unnumbered scaled-down" id="fig-00004">
 <media alt="An illustration shows a chemical reaction with the product not filled. The reactant shows a carbon atom bonded to 3 methyl groups and bonded to an oxygen atom bonded to a propyl group. This reacts in the presence of Hydrogen Bromide to yield ‘?’.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_004.jpg"/>
 </media>
 </figure>
 <para id="para-00005"><title><span class="red-text">Strategy</span></title> Identify the substitution pattern of the two groups attached to oxygen—in this case a tertiary alkyl group and a primary alkyl group. Then recall the guidelines for ether cleavages. An ether with only primary and secondary alkyl groups usually undergoes cleavage by S<sub>N</sub>2 attack of a nucleophile on the less hindered alkyl group, but an ether with a tertiary alkyl group usually undergoes cleavage by an S<sub>N</sub>1 mechanism. In this case, an S<sub>N</sub>1 cleavage of the tertiary C–O bond will occur, giving 1-propanol and a tertiary alkyl bromide. In addition, a competitive E1 reaction leading to alkene might occur.</para>
 <para id="para-00006"><title><span class="cyan-text">Solution</span></title></para>
-<figure class="unnumbered scaled-down-30" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="An illustration shows a chemical reaction where “tert-Butyl propyl ether” reacts in the presence of Hydrogen Bromide (shown in pink) and yields “2-Bromo-2-methylpropane” and “1-Propanol.” The structure of tert-Butyl propyl ether shows a carbon atom bonded to 3 methyl groups and bonded to an oxygen atom (shown in pink) bonded to a propyl group. The structure of 2-Bromo-2-methylpropane shows a carbon atom bonded to 3 methyl groups and 1 bromine atom (shown in pink). The structure of 1-Propanol shows a hydroxyl group (shown in pink) attached to a propyl group.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_005.jpg"/>
 </media>
