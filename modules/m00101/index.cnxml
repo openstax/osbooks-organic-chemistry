@@ -8,14 +8,14 @@
   <content>
     <para id="para-00001">The reaction discussed in the previous section involves an addition to an achiral reactant and forms an optically inactive, racemic mixture of two enantiomeric products. What would happen, though, if we were to carry out the reaction on a single enantiomer of a chiral reactant? For example, what stereochemical result would be obtained from addition of H<sub>2</sub>O to a chiral alkene, such as (<emphasis effect="italics">R</emphasis>)-4-methyl-1-hexene? The product of the reaction, 4-methyl-2-hexanol, has two chirality centers and so has four possible stereoisomers.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a chemical reaction. A chiral alkene (R) -4-Methyl-1-hexene undergoes Acid catalyst represented by water highlighted in pink to form 4-Methyl-2-hexanol (Chiral). (R) -4-Methyl-l-hexene shows a hydroxyl group with double bonds at C-4 highlighted in pink. 4-Methyl-2-hexanol (Chiral) which shows a hydroxyl group linked by a bond to C-4 to the right of the hydrogen on C-4.">
+    <media alt="A reaction shows (R)-4-methyl-1-hexene (chiral) reacting with water in the presence of acid catalyst to form 4-methyl-2 hexanol (chiral).">
     <image mime-type="image/jpeg" src="../../media/OChem_08_13_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">Let’s think about the two chirality centers separately. What about the configuration at C4, the methyl-bearing carbon atom? Since C4 has the <emphasis effect="italics">R</emphasis> configuration in the starting material and this chirality center is unaffected by the reaction, its configuration is unchanged. Thus, the configuration at C4 in the product remains <emphasis effect="italics">R</emphasis> (assuming that the relative rankings of the four attached groups are not changed by the reaction).</para>
     <para id="para-00003">What about the configuration at C2, the newly formed chirality center? As shown in <link target-id="fig-00002"/>, the stereochemistry at C2 is established by reaction of H<sub>2</sub>O with a carbocation intermediate in the usual manner. But this carbocation doesn’t have a plane of symmetry; it is chiral because of the chirality center at C4. Because the carbocation is chiral and has no plane of symmetry, it doesn’t react equally well from the top and bottom faces. One of the two faces is likely, for steric reasons, to be a bit more accessible than the other, leading to a mixture of <emphasis effect="italics">R</emphasis> and <emphasis effect="italics">S</emphasis> products in some ratio other than 50 : 50. Thus, two diastereomeric products, (2<emphasis effect="italics">R</emphasis>,4<emphasis effect="italics">R</emphasis>)-4-methyl-2-hexanol and (2<emphasis effect="italics">S</emphasis>,4<emphasis effect="italics">R</emphasis>)-4-methyl-2-hexanol, are formed in unequal amounts, and the mixture is optically active.</para>
     <figure class="scaled-down" id="fig-00002">
-    <media alt="An illustration shows a chemical reaction. A chiral alkene (R)-4-methyl-1-hexene undergoes acid hydrolysis represented by the hydronium ion highlighted in green to form (2S 4R)-4-Methyl-2-hexanol and (2R 4R)-4-Methyl-2-hexanol via a chiral carbocation intermediate. (R)-4-methyl-1-hexene shows a carbon bonded to a hydrogen via a dashed line and to another hydrogen via solid wedge all highlighted in blue; this first carbon is also bonded to a second carbon which is bonded to a hydrogen by a dashed bond via a double bond. The third carbon is bonded to two hydrogen atoms and to the fourth carbon which is bonded to a hydrogen via a dashed bond and a methyl group via a solid wedge. The octet of the fifth and sixth carbons are satisfied by bonding with hydrogen. Pink arrows indicate the direction of electron transfer. In the carbocation intermediate an arrow points toward the upper lobe of the p-orbital shaded pink of C-1 and another points toward the lower lobe shaded blue from water highlighted in pink; the oxygen has two pairs of electrons. C-1 has a positive charge. The reaction of the intermediate from the top generates (2S 4R)-4-Methyl-2-hexanol which shows a hydroxyl group linked to C-2 by a solid wedge bond to the left of the hydrogen on C-2. The reaction of the intermediate from the bottom generates (2R 4R)-4-Methyl-2-hexanol which shows a hydroxyl group linked by a dashed bond to C-2 to the right of the hydrogen on C-2.">
+    <media alt="Chiral alkene on reaction with hydronium ion forms a chiral carbocation, which further forms (2 S, 4 R)-4-methyl-2-hexanol and (2 R, 4 R)-4-methyl-2-hexanol.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_13_002.jpg"/>
     </media>
     <caption><emphasis effect="bold">Stereochemistry of the acid-catalyzed addition of H<sub>2</sub>O to the chiral alkene, (<emphasis effect="italics">R</emphasis>)-4-methyl-1-hexene.</emphasis> A mixture of diastereomeric 2<emphasis effect="italics">R</emphasis>,4<emphasis effect="italics">R</emphasis> and 2<emphasis effect="italics">S</emphasis>,4<emphasis effect="italics">R</emphasis> products is formed in unequal amounts because reaction of the chiral carbocation intermediate is not equally likely from top and bottom. The product mixture is optically active.</caption>
@@ -38,32 +38,32 @@
     <title>Terpenes: Naturally Occurring Alkenes</title>
     <para id="para-00007">Ever since its discovery in Persia around 1000 A.D., it has been known that <emphasis effect="italics">steam distillation</emphasis>, the distillation of plant materials together with water, produces a fragrant mixture of liquids called essential oils. The resulting oils have long been used as medicines, spices, and perfumes, and their investigation played a major role in the emergence of organic chemistry as a science during the 19th century.</para>
     <figure class="scaled-down" id="fig-00003">
-    <media alt="A photo of a bay laurel tree’s leaves and fruit.">
+    <media alt="The leaves and fruits of a California Bay Umbellularia californica laurel tree.">
     <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_08_98_BayLaurel.jpg"/>
     </media>
     <caption>The wonderful fragrance of leaves from the California bay laurel is due primarily to myrcene, a simple terpene. (credit: “California Bay Umbellularia californica” by Don Loaire/Flickr, CC BY 2.0)</caption>
     </figure>
     <para id="para-00008">Chemically, plant essential oils consist largely of mixtures of compounds called terpenoids—small organic molecules with an immense diversity of structure. More than 60,000 different terpenoids are known. Some are open-chain molecules, and others contain rings; some are hydrocarbons, and others contain oxygen. Hydrocarbon terpenoids, in particular, are known as terpenes, and all contain double bonds. For example:</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows the structural formula of four terpenes. The first structure shows myrcene (oil of bay). It shows an octadiene skeleton with double bonds at C-1 and C-6 a methylene group at C-3 and a methyl group at C-7. The second structure shows alpha-pinene (turpentine). It shows a bicyclic heptene with one methyl group at C-2 and two methyl groups at C-6 and a double bond. The third structure shows humulene (oil of hops). It shows an 11-membered macrocycle consisting of three isoprene units with three double bonds at C-1 C-4 and C-8; two methyl groups are bonded to C-11 and a methyl group is bonded to C-4 and C-8. The fourth structure shows beta-Santalene (sandalwood oil). It shows a bicyclo [2.2.1] heptane with a methylidene group at C-2 and a methyl group at C-3; at C-3 a substituent shows a five-carbon chain with a double bond at the third carbon and a methyl group at the fourth carbon.">
+    <media alt="The structures of myrcene (oil of bay), alpha-pinene (turpentine), humulene (oil of hops), and beta-santalene (sandalwood oil).">
     <image mime-type="image/jpeg" src="../../media/OChem_08_13_004.jpg"/>
     </media>
     </figure>
     <para id="para-00009">Regardless of their apparent structural differences, all terpenoids are related. According to a formalism called the isoprene rule, they can be thought of as arising from head-to-tail joining of 5-carbon isoprene units (2-methyl-1,3-butadiene). Carbon 1 is the head of the isoprene unit, and carbon 4 is the tail. For example, myrcene contains two isoprene units joined head to tail, forming an 8-carbon chain with two 1-carbon branches. <emphasis effect="italics">α</emphasis>-Pinene similarly contains two isoprene units assembled into a more complex cyclic structure, and humulene contains three isoprene units. See if you can identify the isoprene units in <emphasis effect="italics">α</emphasis>-pinene, humulene, and <emphasis effect="italics">β</emphasis>-santalene.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="Alt Text Placeholder">
+    <media alt="The figure shows two isoprene units linked together to form myrcene. C1 and C4 of isoprene units are labeled as head and tail.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_13_005.jpg"/>
     </media>
     </figure>
     <para id="para-00010">Terpenes (and terpenoids) are further classified according to the number of 5-carbon units they contain. Thus, monoterpenes are 10-carbon substances derived from two isoprene units, sesquiterpenes are 15-carbon molecules derived from three isoprene units, diterpenes are 20-carbon substances derived from four isoprene units, and so on. Monoterpenes and sesquiterpenes are found primarily in plants, but the higher terpenoids occur in both plants and animals, and many have important biological roles. The triterpenoid lanosterol, for instance, is the biological precursor from which all steroid hormones are made.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows the structure of lanosterol (a triterpenes C30). It shows a 30-carbon skeleton with three six-membered rings fused with a five-membered ring with double bonds at C-8 and C-24 and at an 8-carbon chain at C-17. It shows a hydroxyl group bonded by a solid wedge at C-3 and two methyl groups bonded by a dashed line and solid wedge at C-4; methyl groups form C-18 and C-19 and C-14 bonding to the ring system by solid wedges and a dashed line respectively. Hydrogen atoms at C-5 and C-17 are bonded by dashed lines.">
+    <media alt="The wedge-dash structure of lanosterol (a triterpene, C 30).">
     <image mime-type="image/jpeg" src="../../media/OChem_08_13_006.jpg"/>
     </media>
     </figure>
     <para id="para-00011">Isoprene itself is not the true biological precursor of terpenoids. Nature instead uses two “isoprene equivalents”—isopentenyl diphosphate and dimethylallyl diphosphate—which are themselves made by two different routes depending on the organism. Lanosterol, in particular, is biosynthesized from acetic acid by a complex pathway that has been worked out in great detail. We’ll look at the subject more closely in <emphasis effect="bold">Sections 27.5</emphasis> and <emphasis effect="bold">27.7</emphasis>.</para>
     <figure class="unnumbered scaled-down" id="fig-00007">
-    <media alt="An illustration shows the structure of Isopentenyl diphosphate and Dimethylallyl diphosphate. Isopentenyl diphosphate shows two phosphate groups bonded to C-4 of an isoprene unit. Dimethylallyl diphosphate shows butene with a double bond at C-2 and a methyl group at C-3; two phosphate groups are bonded to C-1.">
+    <media alt="The structures of isopentenyl diphosphate and dimethylallyl diphosphate.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_13_007.jpg"/>
     </media>
     </figure>
@@ -117,69 +117,69 @@
     <item>Addition of HCl, HBr, and HI (<link document="m00069"/> and <link document="m00070"/>)<newline/>
     Markovnikov regiochemistry occurs, with H adding to the less highly substituted alkene carbon and halogen adding to the more highly substituted carbon.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00008">
-    <media alt="An illustration shows the addition of a hydrogen halide to an alkene. An alkene represented by two carbons linked by a double bond reacts with a hydrogen halide HX in ether to form haloalkane where the double bond is converted to a single bond and the hydrogen bonds to C-1 and the halogen to C-2. HX is highlighted in pink.">
+    <media alt="An alkene reacts with hydrogen halide in the presence of ether to form a product, in which C1 is bonded to a hydrogen to C2 and a halogen atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_001.jpg"/>
     </media>
     </figure></item>
     <item>Addition of halogens Cl<sub>2</sub> and Br<sub>2</sub> (<link document="m00090"/>)<newline/>
     Anti addition is observed through a halonium ion intermediate.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00009">
-    <media alt="An illustration shows the addition of a halogen to an alkene. An alkene reacts with halogen X2 and dichloromethane to form an alkane with each halogen atom on opposite sides of the carbon-carbon bond. Halogen is highlighted in pink. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <media alt="A reaction shows an alkene reacting with dihalide in dichloromethane to form a product, in which each carbon is bonded to a halogen group.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_002.jpg"/>
     </media>
     </figure></item>
     <item>Halohydrin formation (<link document="m00091"/>)<newline/>
     Markovnikov regiochemistry and anti stereochemistry occur.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00010">
-    <media alt="An illustration shows halohydrin formation. An alkene reacts with a halogen X2 highlighted in pink and water highlighted in green to form HX where H is highlighted in green and X in pink and a halohydrin represented by a halogen and a hydroxyl bonded on opposite sides to the adjacent carbon atoms; the hydroxyl group is highlighted in green and the halogen in pink.">
+    <media alt="An alkene reacts with dihalogen in presence of water to form product and hydrogen halide. In product, C1 is bonded to hydroxyl group. C2 is bonded to halogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_003.jpg"/>
     </media>
     </figure></item>
     <item>Addition of water by oxymercuration–demercuration (<link document="m00092"/>)<newline/>
     Markovnikov regiochemistry occurs.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00011">
-    <media alt="An illustration shows the addition of water by oxymercuration–demercuration. An alkene represented by two carbons linked by a double bond reacts first with mercury (II) acetate and aqueous tetrahydrofuran both highlighted in pink and then with sodium borohydride highlighted in blue to form an alcohol where a hydroxyl group highlighted in pink is bonded to the first carbon and a hydrogen highlighted in blue is bonded to the other carbon.">
+    <media alt="Alkene reacts with mercury (II) acetate, water in tetrahydrofuran in first step, and sodium borohydride in second step to form a product, in which C1 is bonded to hydroxyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_004.jpg"/>
     </media>
     </figure></item>
     <item>Addition of water by hydroboration–oxidation (<link document="m00093"/>)<newline/>
     Non-Markovnikov syn addition occurs.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00012">
-    <media alt="An illustration shows the addition of water by hydroboration–oxidation. An alkene reacts first with borane highlighted in blue and tetrahydrofuran and then with basic hydrogen peroxide highlighted in pink to form an alcohol where a hydroxyl group highlighted in pink is bonded to the second carbon and a hydrogen highlighted in blue is bonded to the first carbon. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <media alt="Alkene reacts with borane in tetrahydrofuran and hydrogen peroxide in hydroxide ion to form a product, in which C1 is bonded to a hydroxyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_005.jpg"/>
     </media>
     </figure></item>
     <item>Catalytic hydrogenation (<link document="m00094"/>)<newline/>
     Syn addition occurs.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00013">
-    <media alt="An illustration shows catalytic dehydrogenation. An alkene reacts with hydrogen highlighted in pink and palladium on charcoal or platinum dioxide as catalyst to form an alkane; the two hydrogen atoms added to the two carbons are highlighted in pink. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <media alt="Alkene reacts with hydrogen in the presence of palladium on carbon  or platinum dioxide to form an alkane.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_006.jpg"/>
     </media>
     </figure></item>
     <item>Epoxidation with a peroxyacid (<link document="m00095"/>)<newline/>
     Syn addition occurs.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00014">
-    <media alt="An illustration shows epoxidation by a peroxyacid. An alkene reacts with a peroxyacid to form an epoxide. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon. The oxygen of the three-atom ether is highlighted in pink; one of the oxygen atoms of the acid is highlighted in pink. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <media alt="Alkene reacts with peroxyacid to form an epoxide.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_007.jpg"/>
     </media>
     </figure></item>
     <item>Hydroxylation with OsO<sub>4</sub> (<link document="m00095"/>)<newline/>
     Syn addition occurs.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00015">
-    <media alt="An illustration shows hydroxylation with osmium tetroxide. An alkene reacts first with osmium tetroxide highlighted in pink and then with sodium bisulfite water or osmium tetroxide and NMO to form a diol. In the diol a hydroxyl group highlighted in pink is bonded to each carbon on the same side of the C–C bond. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon.">
+    <media alt="Alkene reacts with osmium tetroxide in the first step, sodium bisulfite water or osmium tetroxide, and N M O in the second step to form a diol.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_008.jpg"/>
     </media>
     </figure></item>
     <item>Addition of carbenes to yield cyclopropanes (<link document="m00097"/>)
         <para id="para-100">(1) Dichlorocarbene addition</para>
           <figure class="unnumbered scaled-down" id="fig-00016">
-          <media alt="An illustration shows dichlorocarbene addition. An alkene forms a cis-cyclopropane when trichloromethane highlighted in pink reacts with potassium hydroxide. The alkene shows two carbons linked by a double bond; a dashed line and wedge line extend from each carbon. The cyclopropane shows two chlorine atoms bonded to the apex carbon of the three-carbon ring.">
+          <media alt="A reaction shows an alkene reacting with trichloromethane in the presence of potassium hydroxide to form a cyclopropane, in which C 1 is bonded to two chlorine atoms.">
           <image mime-type="image/jpeg" src="../../media/OChem_08_EC_009.jpg"/>
           </media>
           </figure>
         <para id="para-101">(2) Simmons–Smith reaction</para>
           <figure class="unnumbered scaled-down" id="fig-00017">
-          <media alt="An illustration shows the Simmons-Smith reaction. An alkene reacts with diiodomethane highlighted in pink in the presence of Zinc–Copper in ether to form cyclopropane which shows two hydrogen atoms bonded to the apex carbon all highlighted in pink of the three-carbon ring.">
+          <media alt="A reaction shows an alkene reacting with diiodomethane in the presence of zinc-copper and ether to form cyclopropane.">
           <image mime-type="image/jpeg" src="../../media/OChem_08_EC_010.jpg"/>
           </media>
     </figure></item>
@@ -187,7 +187,7 @@
     <item>Hydroxylation by acid-catalyzed epoxide hydrolysis (<link document="m00095"/>)<newline/>
     Anti stereochemistry occurs.<newline/>
     <figure class="unnumbered scaled-down" id="fig-00018">
-    <media alt="An illustration shows hydroxylation by acid-catalyzed epoxide hydrolysis. An epoxide reacts with an acid represented by a hydronium ion highlighted in pink to form a trans-1 2-diol. The epoxide shows an oxygen highlighted in pink bonded to two carbon atoms to form a three-atom ring. The diol shows a hydroxyl group highlighted in pink bonded to each carbon on opposite sides of the C–C bond.">
+    <media alt="A reaction shows an epoxide reacting with hydronium ion to form a trans-1,2-diol.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_011.jpg"/>
     </media>
     </figure></item>
@@ -195,20 +195,20 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
     <item>Reaction with ozone followed by zinc in acetic acid<newline/>
     <figure class="unnumbered scaled-down" id="fig-00019">
-    <media alt="An illustration shows reaction of an alkene with ozone and zinc in acetic acid. An alkene reacts first with ozone highlighted in pink and then with zinc highlighted in blue in acid which is represented by a hydronium ion to form two carbonyl compounds. The alkene shows two carbons linked by a double bond; each carbon is bonded to two groups denoted by R. Each carbonyl compound shows a carbon bonded to an oxygen highlighted in pink by a double bond and to two R groups by single bonds.">
+    <media alt="Alkene with two R groups on each carbon reacts with ozone and zinc-hydronium to form two ketones, each with a carbonyl group bonded to two R groups.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_012.jpg"/>
     </media>
     </figure></item>
     <item>Reaction with KMnO<sub>4</sub> in acidic solution<newline/>
     <figure class="unnumbered scaled-down" id="fig-00020">
-    <media alt="An illustration shows the reaction of two different alkenes with potassium permanganate in acidic reaction. The first alkene reacts with potassium permanganate in acidic solution represented by a hydronium ion to form two carbonyl compounds. Potassium permanganate in acidic solution is highlighted in pink. The alkene shows two carbons linked by a double bond; each carbon is bonded to two groups denoted by R. Each carbonyl compound shows a carbon bonded to an oxygen highlighted in pink by a double bond and to two R groups by single bonds. The second alkene reacts with potassium permanganate in acidic solution represented by a hydronium ion to form an acid and carbon dioxide. Potassium permanganate in acidic solution is highlighted in pink. The alkene shows two carbons linked by a double bond; one carbon is bonded to a hydrogen and a group denoted by R and the other carbon is bonded to two groups denoted by R. The acid shows a carbon bonded to an oxygen highlighted in pink by a double bond and a hydroxyl group highlighted in pink by a single bond; the carbon is also bonded to R.">
+    <media alt="Alkene with two R groups on each carbon reacts with potassium permanganate and hydronium ion, yielding two ketones. Alkene with one R converts to carboxylic acid and carbon dioxide.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_013.jpg"/>
     </media>
     </figure></item></list>
     </item>
     <item>Cleavage of 1,2-diols (<link document="m00096"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00021">
-    <media alt="An illustration shows the cleavage of 1 2-diols. A 1 2-diol reacts with aqueous periodic acid to form two carbonyl groups represented by a carbon bonded to an oxygen highlighted in pink by a double bond. In the diol a hydroxyl group highlighted in pink is bonded to each carbon on the same side of the C–C bond.">
+    <media alt="The figure shows 1,2-diol reacts with periodic acid in the presence of water to form two carbonyl compounds.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_EC_014.jpg"/>
     </media>
     </figure>
