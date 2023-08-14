@@ -9,13 +9,13 @@
 <section id="sect-00001">
 <title>Acid-Catalyzed Epoxide Opening</title>
 <para id="para-00001">Epoxides are cleaved by treatment with acid just as other ethers are, but under much milder conditions because of ring strain. As we saw in <link document="m00095"/>, dilute aqueous acid at room temperature is sufficient for facilitating the hydrolysis of epoxides to give 1,2-diols, also called <emphasis effect="italics">vicinal glycols.</emphasis> (The word <emphasis effect="italics">vicinal</emphasis> means “adjacent,” and a <emphasis effect="italics">glycol</emphasis> is a diol.) The epoxide cleavage takes place by S<sub>N</sub>2-like backside attack of a nucleophile on the protonated epoxide, giving a trans-1,2-diol as product.</para>
-<figure class="unnumbered" id="fig-00001">
+<figure class="unnumbered scaled-down" id="fig-00001">
 <media alt="An illustration shows 2 chemical reactions. The first reaction shows 1 2-Epoxycyclohexane in the presence of a hydronium ion yielding two intermediate compounds where the first one in the presence of water will yield the second intermediate. This in the presence of water yields “trans-1 2-Cyclohexanediol (86%) and a hydronium ion. The structure of 1 2-Epoxycyclohexane shows a cyclohexane with C1 and C2 dash bonded to a hydrogen each and wedge bonded to a common oxygen atom having four electrons. The first intermediate shows a cyclohexane with C1 and C2 dash bonded to a hydrogen atom each and wedge bonded to a common oxygen cation (pink) bonded to hydrogen atom (blue). The oxygen shows two electrons. The oxygen of water shows four electrons and an arrow from the electrons points to C2. An arrow from the C2-O bond points to O. The second intermediate shows a cyclohexane with C1 dash bonded to a hydrogen and wedge bonded to a hydroxyl group (O is pink and H is blue). C2 is wedge bonded to a hydrogen atom and single bonded to oxygen cation bonded to two hydrogens. The oxygen of water shows four electrons and an arrow from the electrons points to a hydrogen bonded to oxygen cation. An arrow from the H-O cation bond points to O cation. The structure of trans-1 2-Cyclohexanediol shows a cyclohexane ring with C1 dash bonded to a hydrogen and wedge bonded to a hydroxyl group (O is pink and H is blue). C2 is wedge bonded to a hydrogen atom and dash bonded to blue hydroxyl group. Text of the second reaction reads: Recall the following. The reaction shows a cyclohexene reacting in the presence of pink bromine yielding an intermediate which in the presence of blue bromine anion with eight electrons yields trans-1 2-Dibromocyclohexane. The cyclohexene shows a single double bond and is bonded to two hydrogens. The structure of the intermediate shows a cyclohexene ring with C1 and C2 dash bonded to a hydrogen atom each. C1 and C2 are wedge bonded to a common Bromine cation; an arrow from the electrons of bromine ion points to C2. An arrow from the C2-Br bond points to Br. trans-1 2-Dibromocyclohexane shows a cyclohexane with C1 dash bonded to a hydrogen and wedge bonded to a pink bromine. C2 is wedge bonded to a hydrogen atom and dash bonded to blue bromine.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_06_001.jpg"/>
 </media>
 </figure>
 <para id="para-00002">Epoxides can also be opened by reaction with acids other than H<sub>3</sub>O<sup>+</sup>. If anhydrous HX is used, for instance, an epoxide is converted into a trans halohydrin.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00002">
+<figure class="unnumbered scaled-down" id="fig-00002">
 <media alt="An illustration shows a chemical reaction where an epoxide reacts in the presence of ether and “HX” to yield a trans 2-halocyclohexanol. The epoxide shows a cyclohexane with C1 and C2 dash bonded to a hydrogen each and wedge bonded to a common oxygen atom. In HX H is pink and X is green. The structure of trans 2-halocyclohexanol shows a cyclohexane with C1 dash bonded to a hydrogen and wedge bonded to a pink hydroxyl group. C2 is dash bonded to green X and wedge bonded to a hydrogen. X may be F Br Cl or I.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_06_002.jpg"/>
 </media>
@@ -37,14 +37,14 @@
 <example id="exam-00001">
 <title>Predicting the Product of Epoxide Ring-Opening</title>
 <para id="para-00006">Predict the major product of the following reaction:</para>
-<figure class="unnumbered scaled-down-30" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="An illustration shows a chemical reaction whose yield is to be predicted. The reaction shows a cyclohexane structure bonded to a 3-membered ring with a pink oxygen atom reacting in the presence of hydrochloric acid and ether.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_06_005.jpg"/>
 </media>
 </figure>
 <para id="para-00007"><title><span class="red-text">Strategy</span></title> Identify the substitution pattern of the two epoxide carbon atoms. In this case, one carbon is secondary and one is primary. Then recall the guidelines for epoxide cleavages. An epoxide with only primary and secondary carbons usually undergoes cleavage by S<sub>N</sub>2-like attack of a nucleophile on the less hindered carbon, but an epoxide with a tertiary carbon atom usually undergoes cleavage by backside attack on the more hindered carbon. In this case, an S<sub>N</sub>2 cleavage of the primary C–O epoxide bond will occur.</para>
 <para id="para-00008"><title><span class="cyan-text">Solution</span></title></para>
-<figure class="unnumbered scaled-down-30" id="fig-00006">
+<figure class="unnumbered scaled-down" id="fig-00006">
 <media alt="An illustration shows a chemical reaction where an epoxide reacts in the presence of hydrochloric acid (hydrogen atom shown in pink and chlorine atom shown in green) and ether to yield a product. The structure of the epoxide shows a cyclohexane bonded to the secondary carbon of a 3-membered ring that shows a pink oxygen atom. The primary carbon where reaction occurs is labeled. The structure of the product shows a cyclohexane bonded to a 2-carbon chain. C1 is bonded to a pink hydroxyl group. C2 is bonded to a green chlorine atom.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_06_006.jpg"/>
 </media>
@@ -73,7 +73,7 @@
 </media>
 </figure>
 <para id="para-00012">Base-catalyzed epoxide opening is a typical S<sub>N</sub>2 reaction in which attack of the nucleophile takes place at the less hindered epoxide carbon. For example, 1,2-epoxypropane reacts with ethoxide ion exclusively at the less highly substituted, primary carbon to give 1-ethoxy-2-propanol.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00008">
+<figure class="unnumbered scaled-down" id="fig-00008">
 <media alt="An illustration shows a chemical reaction of “1 2-epoxypropane” in the presence of ethanol and ethoxide ion to yield “1-Ethoxy-2-propanol (83%).” The structure of 1 2-epoxypropane shows 2 carbon atoms bonded to each other and bonded to a common oxygen atom (shown in pink) forming a three-membered ring. The first carbon atom labeled “No attack here (secondary)” is also bonded to a hydrogen atom and a methyl group. The second carbon atom is bonded to 2 hydrogen atoms. An arrow from the ethoxide ion points to the carbon that is bonded to two hydrogens. An arrow from the bond between this carbon and oxygen points to oxygen. The structure of 1-Ethoxy-2-propanol shows a methyl group bonded to a methine group bonded to a methylene group that is bonded to a blue oxygen bonded to a blue ethyl group. The methine group is bonded to a hydroxyl group that shows pink oxygen and blue hydrogen.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_06_010.jpg"/>
 </media>
