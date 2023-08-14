@@ -48,7 +48,7 @@
     <para id="para-00003">The value of the equilibrium constant tells which side of the reaction arrow is energetically favored. If <emphasis effect="italics">K</emphasis><sub>eq</sub> is much larger than 1, then the product concentration term [C]<emphasis effect="italics"><sup>c</sup></emphasis>[D]<emphasis effect="italics"><sup>d</sup></emphasis> is much larger than the reactant concentration term [A]<emphasis effect="italics"><sup>a</sup></emphasis>[B]<emphasis effect="italics"><sup>b</sup></emphasis>, and the reaction proceeds as written from left to right. If <emphasis effect="italics">K</emphasis><sub>eq</sub> is near 1, appreciable amounts of both reactant and product are present at equilibrium. And if <emphasis effect="italics">K</emphasis><sub>eq</sub> is much smaller than 1, the reaction does not take place as written but instead goes in the reverse direction, from right to left.</para>
     <para id="para-00004">In the reaction of ethylene with HBr, for example, we can write the following equilibrium expression and determine experimentally that the equilibrium constant at room temperature is approximately 7.1 × 10<sup>7</sup>:</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a reversible reaction and its corresponding energy equation. The reaction between ethylene (shown as two methylene groups double bonded to each other) and hydrogen bromide (with pink bromine) to yield ethyl bromide (with pink bromine). The energy reaction shows “Keq equals ethyl bromide CH3CH2Br divided by ethylene multiplied with hydrogen bromide” wherein all the formulae are shown in parenthesis” this equation equals 7.1 multiplied with ten to the power seven.">
+    <media alt="Reversible reaction shows ethene reacting with hydrogen bromide to form ethyl bromide. Formation of product is more favored. K E Q value is 7.1 times 10 to the seventh.">
     <image mime-type="image/jpeg" src="../../media/OChem_06_07_001.jpg"/>
     </media>
     </figure>
@@ -57,7 +57,7 @@
     <para id="para-00007">The energy change that occurs during a chemical reaction is called the <term id="term-00001">Gibbs free-energy change (Δ<emphasis effect="italics">G</emphasis>)</term>, which is equal to the free energy of the products minus the free energy of the reactants: Δ<emphasis effect="italics">G</emphasis> = <emphasis effect="italics">G</emphasis><sub>products</sub> − <emphasis effect="italics">G</emphasis><sub>reactants</sub>. For a favorable reaction, Δ<emphasis effect="italics">G</emphasis> has a negative value, meaning that energy is lost by the chemical system and released <emphasis effect="italics">to</emphasis> the surroundings, usually as heat. Such reactions are said to be <term id="term-00002">exergonic</term>. For an unfavorable reaction, Δ<emphasis effect="italics">G</emphasis> has a positive value, meaning that energy is absorbed by the chemical system <emphasis effect="italics">from</emphasis> the surroundings. Such reactions are said to be <term id="term-00003">endergonic</term>.</para>
     <para id="para-00008">You might also recall from general chemistry that the <emphasis effect="italics">standard</emphasis> free-energy change for a reaction is denoted as Δ<emphasis effect="italics">G</emphasis>°, where the superscript ° means that the reaction is carried out under standard conditions, with pure substances in their most stable form at 1 atm pressure and a specified temperature, usually 298 K. For biological reactions, the standard free-energy change is denoted as Δ<emphasis effect="italics">G</emphasis>°′ and refers to a reaction carried out at pH = 7.0 with solute concentrations of 1.0 M.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows a flask partially filled with a solution; a pink arrow points from the flask to an equation “Keq greater than 1; energy out: delta G degree negative”; a green arrow points from the equation “Keq lesser than 1; energy in: delta G degree positive” to the flask.">
+    <media alt="Schematic arrows indicate energy out if K E Q greater than 1, delta G naught negative. Energy in if K E Q less than 1, delta G naught positive.">
     <image mime-type="image/jpeg" src="../../media/OChem_06_07_002.jpg"/>
     </media>
     </figure>
@@ -187,7 +187,7 @@
     </equation>
     <para id="para-00013">For the reaction of ethylene with HBr at room temperature (298 K), the approximate values are</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="An illustration shows a reversible reaction between ethylene and pink hydrogen bromide to yield ethyl bromide having a pink bromine. The accompanying equations shown are “delta G degree equals minus 44.8 kJ/mol; delta H degree equals minus 84.1 kJ/mol; delta S degree equals minus 0.132 kJ/(K.mol); Keq equals 7.1 multiplied by ten to the power seven.”">
+    <media alt="A forward-favored reaction shows ethene reacting with hydrogen bromide to form ethyl bromide. The values of delta G naught, delta H naught, delta S naught, and K E Q are mentioned.">
     <image mime-type="image/jpeg" src="../../media/OChem_06_07_003.jpg"/>
     </media>
     </figure>
