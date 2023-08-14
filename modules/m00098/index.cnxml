@@ -9,15 +9,23 @@
     <para id="para-00001">In our brief introduction to radical reactions in <link document="m00079"/>, we said that radicals can add to <m:math><m:mrow><m:mtext>C&#x2550;C</m:mtext></m:mrow></m:math> bonds, taking one electron from the double bond and leaving one behind to yield a new radical. Let’s now look at the process in more detail, focusing on the industrial synthesis of alkene polymers. A <term id="term-00001">polymer</term> is a large—sometimes <emphasis effect="italics">very</emphasis> large—molecule, built up by repetitive joining together of many smaller molecules, called <term id="term-00002">monomers</term>.</para>
     <para id="para-00002">Nature makes wide use of biological polymers. Cellulose, for instance, is a polymer built of repeating glucose monomer units; proteins are polymers built of repeating amino acid monomers; and nucleic acids are polymers built of repeating nucleotide monomers.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows structures of various polymers. Cellulose- A glucose polymer: The formation of cellulose from glucose units joined by beta (1–4) linkages. It is a reversible reaction. The chair conformation of beta-D-glucose with staggered C–H bonds shows C-2 C-3 C-5 and C-6 lying on the same plane while C-1 lies above the plane and C-4 below; the hydroxyl group attached to C-1 and the hydroxymethyl group at C-5 lie on the same side of the plane. Hydroxyl groups at C-1 and C-4 are highlighted in pink. The polymer cellulose shows a linear chain of glucose units bonding; all substituents in a glucose unit are equatorial. In the chain one constituent unit is enclosed within parentheses. Protein- an amino acid polymer: The formation of a protein from amino acid joined in a head-to-tail fashion. It is a reversible reaction. An amino acid shows a central alpha carbon bonded to an amino group highlighted in blue a carboxyl group highlighted in pink a variable side chain denoted by uppercase letter R by a dashed bond and to a hydrogen atom by a wedged bond. In the polymer amino acids are aligned side by side with the carboxyl group of one next to the amino group of another other which are joined by –CONH bonds. In the chain one constituent unit is enclosed within parentheses. Nucleic acid- a nucleotide polymer: The formation of a nucleic acid from nucleotide units. It is a reversible reaction. A nucleotide shows a nitrogenous base denoted by letter N in blue bonded to C-1 prime of a pentose sugar which can have a hydroxyl group or a hydrogen at C-2 depending on the type and a phosphate group bonded to C-5 prime of the sugar. In the polymer the 3 prime carbon atom of one sugar molecule is bonded to the 5 prime carbon atom of another via a phosphate which is bonded to the sugars by two ester bonds.">
+    <media alt="The figure shows glucose units combine together to form a long chain of cellulose.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_001.jpg"/>
+    </media>
+    </figure>
+    <figure class="unnumbered scaled-down" id="fig-00008">
+    <media alt="The figure shows amino acids link together to form a protein structure.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_002.jpg"/>
+    </media>
+    </figure>
+    <figure class="unnumbered scaled-down" id="fig-00009">
+    <media alt="The figure shows nucleotide units link together to form a nucleic acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_003.jpg"/>
     </media>
     </figure>
     <para id="para-00003">Synthetic polymers, such as polyethylene, are much simpler chemically than biopolymers, but there is still a great diversity to their structures and properties, depending on the identity of the monomers and on the reaction conditions used for polymerization. The simplest synthetic polymers are those that result when an alkene is treated with a small amount of a suitable catalyst. Ethylene, for example, yields polyethylene, an enormous alkane that may have a molecular weight up to <emphasis effect="italics">6 million</emphasis> u and may contain as many as 200,000 monomer units. Worldwide production of polyethylene is approximately 88 million tons per year.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows the formation of polyethylene from ethylene. Ethylene shows two carbon atoms bonded by a double bond; each carbon is also bonded to two hydrogen atoms. In the polymer a series of methylene bridges are linked by single bonds. In polyethylene one constituent unit is enclosed within parentheses.">
+    <media alt="The figure shows a polymerization reaction of ethylene forming polyethylene.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_004.jpg"/>
     </media>
     </figure>
@@ -26,13 +34,13 @@
     <list id="list-00001">
       <item><span class="magenta-text"><emphasis effect="bold">Initiation</emphasis></span> The polymerization reaction is initiated when a few radicals are generated on heating a small amount of benzoyl peroxide catalyst to break the weak O−O bond. The initially formed benzoyloxy radical loses CO<sub>2</sub> and gives a phenyl radical (Ph<emphasis effect="bold">·</emphasis>), which adds to the <m:math><m:mrow><m:mtext>C&#x2550;C</m:mtext></m:mrow></m:math> bond of ethylene to start the polymerization process. One electron from the ethylene double bond pairs up with the odd electron on the phenyl radical to form a new C−C bond, and the other electron remains on carbon.
         <figure class="unnumbered" id="fig-00003">
-        <media alt="An illustration shows the initiation step of ethylene polymerization. In the first step benzoyl peroxide gives two phenyl radicals (Ph·) and two molecules of carbon dioxide on heating; the reaction proceeds via the formation of two benzoyloxy radicals. Benzoyl peroxide shows two benzoyl groups bonded by a peroxide link that is two oxygen atoms forming a bridge. Each of benzoyl group shows a carboxyl group highlighted in pink bonded to a benzene ring; each oxygen carries two lone pairs of electrons. Pink fishhook arrows indicate the direction of electron transfer. An arrow points to each oxygen atom in the peroxide link from the link. In the benzoyloxy radical an arrow points from a free electron on the oxygen bonded to the carbonyl carbon by a single bond to the bond; another arrow points from the bond between the benzene ring and carbonyl carbon to the single bond between the carbon and the oxygen of the carboxyl group. A third arrow points to the ring carbon and the bond between it and the carbonyl carbon of the carboxyl group. A phenyl radical shows a benzene ring with a free electron. In the second step the phenyl radical adds to ethylene to give a molecule where phenyl is attached to the first carbon of ethylene by a single bond; the first carbon of ethylene is bonded to the second carbon which carries an electron of ethylene. A pink arrow points from the phenyl radical to the double bond in an ethylene molecule; one arrow from the bond points toward the odd electron and another toward the second carbon of ethylene.">
+        <media alt="Benzoyl peroxide on heating forms two benzoyloxy radicals, which decompose to phenyl radicals and carbon dioxide molecules. At the bottom, phenyl radical reacts with ethylene to form ethylbenzene radical.">
         <image mime-type="image/jpeg" src="../../media/OChem_08_10_006.jpg"/>
         </media>
         </figure></item>
       <item><span class="magenta-text"><emphasis effect="bold">Propagation</emphasis></span> Polymerization occurs when the carbon radical formed in the initiation step adds to another ethylene molecule to yield another radical. Repetition of the process for hundreds or thousands of times builds the polymer chain.
         <figure class="unnumbered" id="fig-00004">
-        <media alt="An illustration shows the propagation step of ethylene polymerization. Pink fishhook arrows indicate the direction of electron transfer. Phenyl is attached to the first carbon of ethylene by a single bond; the first carbon of ethylene is bonded to the second carbon which carries an electron of ethylene. An arrow points from the electron on the second carbon to another molecule of ethylene; one arrow from the double bond in ethylene points toward the odd electron and another toward the second carbon of ethylene. The product shows phenyl bonded to a chain of four methanediyl groups bonded by single bonds. The steps repeat many times to give a polymer where a phenyl is attached to two methanediyl groups within brackets with subscript “n” representing the repeat unit; the repeat unit is bonded to an end group which shows one methanediyl group bonded to another with an odd electron.">
+        <media alt="A reaction shows the ethylene polymerization of a  phenylethylene radical with ethylene to form a phenylbutyl radical that grows in length with multiple additions of ethylene.">
         <image mime-type="image/jpeg" src="../../media/OChem_08_10_007.jpg"/>
         </media>
         </figure></item>
@@ -42,13 +50,13 @@
     <equation class="unnumbered" id="eq-00001"><m:math><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mtext>R</m:mtext><m:mo>–</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mstyle mathvariant="bold"><m:mtext>·</m:mtext></m:mstyle><m:mo stretchy="false">⟶</m:mo><m:mtext>R</m:mtext><m:mo>–</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>–</m:mo><m:mtext>R</m:mtext></m:mrow></m:math></equation>
     <para id="para-00009">Ethylene is not unique in its ability to form a polymer. Many substituted ethylenes, called vinyl monomers, also undergo polymerization to yield polymers with substituent groups regularly spaced on alternating carbon atoms along the chain. Propylene, for example, yields polypropylene, and styrene yields polystyrene.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows two formations. First structure depicts the formation of polypropylene from propylene which shows a three-carbon chain with a methanediyl group bonded to a carbon which is bonded to a methyl group and hydrogen via double bond. Polypropylene shows repeating units of propene linked without double bonds. Second structure depicts the formation of polystyrene from styrene which shows an ethenyl group bonded to benzene. Polystyrene shows repeating units of styrene linked without double bonds.">
+    <media alt="Two reactions show the formation of polypropylene and polystyrene from propylene and styrene, respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_008.jpg"/>
     </media>
     </figure>
     <para id="para-00010">When an unsymmetrically substituted vinyl monomer such as propylene or styrene is polymerized, the radical addition steps can take place at either end of the double bond to yield either a primary radical intermediate (RCH<sub>2</sub><emphasis effect="bold">·</emphasis>) or a secondary radical (R<sub>2</sub>CH<emphasis effect="bold">·</emphasis>). Just as in electrophilic addition reactions, however, we find that only the more highly substituted, secondary radical is formed.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows the addition of a radical in the polymerization of propylene. A phenyl radical adds to propylene to give a molecule where phenyl is attached to the propylene radical by a single bond; this is a secondary radical with the odd electron on the first carbon. A primary radical which shows the odd electron on the second carbon is not formed. Pink fishhook arrows indicate the direction of electron transfer. A pink arrow points from the phenyl radical to the double bond in a propylene molecule; one arrow from the bond points toward the odd electron and another toward the second carbon of propylene.">
+    <media alt="A polymerization reaction shows a phenyl radical reacting with propene to form a secondary radical. Primary radical is not formed.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_009.jpg"/>
     </media>
     </figure>
@@ -107,7 +115,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Methyl methacrylate</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down-30" alt="Alt text placeholder"><image mime-type="image/jpeg" src="../../media/OChem_08_10_010.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down-30" alt="The condensed structural formula has a methylene group double bonded to a carbon atom, which is single bonded to a methyl group and C O 2 C H 3 group."><image mime-type="image/jpeg" src="../../media/OChem_08_10_010.jpg"/></media></entry>
     <entry valign="top" align="left">Plexiglas, Lucite</entry>
     <entry valign="top" align="left">Paint, sheets, moldings</entry>
     </row>
@@ -126,7 +134,7 @@
     <para id="para-00013"><title><span class="red-text">Strategy</span></title> Mentally break the carbon–carbon double bond in the monomer unit, and form single bonds by connecting numerous units together.</para>
     <para id="para-00014"><title><span class="cyan-text">Solution</span></title> The general structure of poly(vinyl chloride) is</para>
     <figure class="unnumbered scaled-down" id="fig-00007">
-    <media alt="An illustration shows the general structure of polyvinyl chloride which shows a chain of repeating units; each unit shows a methanediyl group bonded to a carbon which is bonded to a hydrogen and a chlorine.">
+    <media alt="The polymer enclosed in parentheses shows a chain of three C H 2 C H groups. The carbon of each C H group is bonded to a chlorine atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_10_011.jpg"/>
     </media>
     </figure>
