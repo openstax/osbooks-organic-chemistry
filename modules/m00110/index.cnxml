@@ -8,33 +8,33 @@
   <content>
     <para id="para-00001">The negative charge and unshared electron pair on carbon make an acetylide anion strongly nucleophilic. As a result, an acetylide anion can react with electrophiles, such as alkyl halides, in a process that replaces the halide and yields a new alkyne product.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a reaction between “acetylide anion” and “methyl bromide” to form “propyne” and “sodium bromide.” The structure of anion shows a hydrogen bonded to carbon having a triple bond with a carbon anion having a pair of electrons a sodium cation is placed near the carbon anion. Methyl bromide shows a carbon bonded to three hydrogens and a pink bromide; a pink arrow points from the carbon anion to carbon of methyl bromide and a tiny pink arrow points from the bond between carbon and bromine to the bromine atom. Propyne shows a hydrogen bonded to carbon triple bonded to another carbon bonded to a carbon sharing an upward side and downward bonds with three hydrogen atoms. Sodium bromide shows a pink bromine.">
+    <media alt="The figure shows the reaction mechanism of an acetylide anion with methyl bromide to form propyne and sodium bromide.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_08_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">We won’t study the details of this substitution reaction until Chapter 11, but for now you can picture it as happening by the pathway shown in <link target-id="fig-00002"/>. The nucleophilic acetylide ion uses an electron pair to form a bond to the positively polarized, electrophilic carbon atom of bromomethane. As the new C−C bond forms, Br<sup>−</sup> departs, taking with it the electron pair from the former C−Br bond and yielding propyne as product. We call such a reaction an <term id="term-00001">alkylation</term> because a new alkyl group has become attached to the starting alkyne.</para>
     <figure class="mechanism-figure scaled-down" id="fig-00002">
     <title>MECHANISM</title>
-    <media alt="An illustration shows two steps involved in the alkylation reaction of acetylide anion to form propyne. Step “1” reads “the nucleophilic acetylide anion uses its electron lone pair to form a bond to the positively polarized electrophilic carbon atom of bromomethane. As the new C-C bond begins to form the C-Br bond begins to break in the transition state. The acetylide anion shows a blue hydrogen bonded to a carbon triple bonded to a carbon anion having a pair of electrons a blue sodium cation is shown near the anion. The bromomethane is shown as a carbon sharing a single bond dashed bond and a wedge bond with three hydrogens on its left side and to its right side is shown a bond with pink bromine; a pink arrow points from carbon anion to carbon of bromomethane and a tiny pink arrow points from bond between carbon and bromine to the pink bromine atom. An arrow “1” shows two products in a “transition state” that are placed in a parentheses having a double dagger outside it; the structure shows a blue hydrogen bonded to a carbon having a triple bond with another carbon (delta minus) which shares a dotted pink bond with a carbon having an upward bond with hydrogen and a downward dashed and wedge bond with two hydrogen atoms; to its right the carbon shares a pink dotted bond with bromine (delta minus); another product formed within parentheses is a blue sodium cation. Step “2” reads the new C-C bond is fully formed and the old C-Br bond is fully broken at the end of the reaction. Propyne shows a blue hydrogen bonded to a blue carbon triple bonded to another blue carbon bonded to a carbon having a single dashed and a wedge bond with three hydrogen atoms. The second product formed is sodium bromide having a pink sodium bonded to blue bromine.">
+    <media alt="The figure shows a two-step mechanism of an acetylide anion reacting with bromomethane to form propyne. The reaction proceeds through a transition state.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_08_002.jpg"/>
     </media>
     <caption><emphasis effect="bold">A mechanism for the alkylation reaction of acetylide anion with bromomethane to give propyne.</emphasis></caption>
     </figure>
     <para id="para-00003">Alkyne alkylation is not limited to acetylene itself. Any terminal alkyne can be converted into its corresponding anion and then allowed to react with an alkyl halide to give an internal alkyne product. Hex-1-yne, for instance, gives dec-5-yne when treated first with NaNH<sub>2</sub> and then with 1-bromobutane.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction shows 1-hexyne reacting with sodium amide, ammonia and bromobutane to form 5-decyne (76%).">
     <image mime-type="image/jpeg" src="../../media/OChem_09_08_003.jpg"/>
     </media>
     </figure>
     <para id="para-00004">Because of its generality, acetylide alkylation is a good method for preparing substituted alkynes from simpler precursors. A terminal alkyne can be prepared by alkylation of acetylene itself, and an internal alkyne can be prepared by further alkylation of a terminal alkyne.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="Alt Text Placeholder">
+    <media alt="Figure shows the alkylation of terminal alkynes with the same reagents. The first reaction forms a terminal alkyne. The second reaction forms an internal alkyne.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_08_004.jpg"/>
     </media>
     </figure>
     <para id="para-00005">The only limit to the alkylation reaction is that it can only use primary alkyl bromides and alkyl iodides because acetylide ions are sufficiently strong bases to cause elimination instead of substitution when they react with secondary and tertiary alkyl halides. For example, reaction of bromocyclohexane with propyne anion yields the elimination product cyclohexene rather than the substitution product 1-propynylcyclohexane.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows a reaction wherein a “bromocyclohexane (a secondary alkyl halide)” reacts with “acetylide anion” to yield a “cyclohexene” propyne and sodium bromide having pink bromine; the second arrow of reaction is marked with a pink “cross” showing the product 1-propynylcylohexane that is “not formed.” The structure of bromocyclohexane shows a cyclohexane bonded to a hydrogen and pink bromine at upper right side and a pink hydrogen and another hydrogen at lower right side of the ring. Acetylide anion shows a methyl group attached to carbon triple bonded to a carbon anion having a pair of electrons a sodium cation is placed near the carbon anion. Cyclohexene shows a cyclohexane having a pink double bond and bonded to two hydrogens at two positions. Propyne is shown as a methyl group bonded to carbon triple bonded to another carbon attached to a pink hydrogen. The product “not formed” is shown as a cyclohexane bonded to a carbon triple bonded to another carbon bonded to a methyl group.">
+    <media alt="Bromocyclohexane (a secondary alkyl halide) reacts with sodium acetylide anion to form cyclohexene, propyne, and sodium bromide. 1-cyclohexyl-1-propyne is not formed.">
     <image mime-type="image/jpeg" src="../../media/OChem_09_08_005.jpg"/>
     </media>
     </figure>
