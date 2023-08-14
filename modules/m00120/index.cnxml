@@ -67,7 +67,7 @@
     </figure>
     <para id="para-00013">Some naturally occurring organohalides are produced in massive quantities. Forest fires, volcanic eruptions, and marine kelp release up to 5 million tons of CH<sub>3</sub>Cl per year, for example, while annual industrial emissions total about 26,000 tons. Termites are thought to release as much as 10<sup>8</sup> kg of chloroform per year. A detailed examination of the Okinawan acorn worm <emphasis effect="italics">Ptychodera flava</emphasis> found that the 64 million worms living in a 1 km<sup>2</sup> study area excreted nearly 8000 pounds per year of bromophenols and bromoindoles, compounds previously thought to be non-natural pollutants.</para>
     <para id="para-00014">Why do organisms produce organohalides, many of which are undoubtedly toxic? The answer seems to be that many organisms use organohalogen compounds for self-defense, either as feeding deterrents, irritants to predators, or natural pesticides. Marine sponges, coral, and sea hares, for example, release foul-tasting organohalides that deter fish, starfish, and other predators. Even humans appear to produce halogenated compounds as part of their defense against infection. The human immune system contains a peroxidase enzyme capable of carrying out halogenation reactions on fungi and bacteria, thereby killing the pathogen. And most remarkable of all, even free chlorine—Cl<sub>2</sub>—has been found to be present in humans.</para>
-    <figure class="scaled-down-30" id="fig-00007">
+    <figure class="scaled-down" id="fig-00007">
     <media alt="Colorful marine corals that secrete organohalogen compounds.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_08_010.jpg"/>
     </media>
@@ -101,7 +101,7 @@
     <item>Preparation of alkyl halides
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
     <item>From alkenes by allylic bromination (<link document="m00115"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00008">
+    <figure class="unnumbered scaled-down" id="fig-00008">
     <media alt="The bromination reaction of alkene in the presence of N-bromosuccinimide, light, and carbon tetrachloride produces an allyl bromide through replacement of an allylic hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_001.jpg"/>
     </media>
@@ -109,25 +109,25 @@
     <item>From alcohols (<link document="m00117"/>)
     
     <para id="para-00058">(1) Reaction with HX</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <figure class="unnumbered scaled-down" id="fig-00009">
     <media alt="The reaction of tertiary alcohol with HX in the presence of ether forms an alkyl halide. The reactivity of alcohols in decreasing order is tertiary, secondary, and primary.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_002.jpg"/>
     </media>
     </figure>
     <para id="para-00059">(2) Reaction of 1° and 2° alcohols with SOCl<sub>2</sub></para>
-    <figure class="unnumbered scaled-down-30" id="fig-00010">
+    <figure class="unnumbered scaled-down" id="fig-00010">
     <media alt="The reaction of secondary alcohol with thionyl chloride in the presence of pyridine forms alkyl chloride where the OH in the reactant is replaced by Cl in the product.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_003.jpg"/>
     </media>
     </figure>
     <para id="para-00060">(3) Reaction of 1° and 2° alcohols with PBr<sub>3</sub></para>
-    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <figure class="unnumbered scaled-down" id="fig-00011">
     <media alt="The reaction of secondary alcohol with phosphorus tribromide in the presence of ether forms an alkyl bromide where the OH in the reactant is replaced by Br in the product.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_004.jpg"/>
     </media>
     </figure>
     <para id="para-00061">(4) Reaction of 1° and 2° alcohols with HF–pyridine</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00012">
+    <figure class="unnumbered scaled-down" id="fig-00012">
     <media alt="The reaction of cyclohexanol with HF in the presence of pyridine forms fluorocyclohexane. Pyridine is shown as a six-membered aromatic ring containing five carbon atoms and one nitrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_005.jpg"/>
     </media>
@@ -136,13 +136,13 @@
     <item>Reactions of alkyl halides
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
     <item>Formation of Grignard (organomagnesium) reagents (<link document="m00118"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00013">
+    <figure class="unnumbered scaled-down" id="fig-00013">
     <media alt="The reaction of RX with magnesium in the presence of ether forms a Grignard reagent having formula R-Mg-X.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_006.jpg"/>
     </media>
     </figure></item>
     <item>Formation of Gilman (diorganocopper) reagents (<link document="m00119"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00014">
+    <figure class="unnumbered scaled-down" id="fig-00014">
     <media alt="The reaction of RX with 2 equivalents of lithium in the presence of pentane forms R-Li and Li-X.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_EC_007.jpg"/>
     </media>

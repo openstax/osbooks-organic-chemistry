@@ -52,13 +52,13 @@
     <example id="exam-00002">
     <title>Synthesizing an Alcohol</title>
     <para id="para-00010">How might you prepare the following alcohol?</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="The reactant is unknown (a question mark) and the product is 4-Methyl-3-hexanol. 4-Methyl-3-hexanol shows a 6-carbon chain. C3 is a methine group bonded to a hydroxyl group at the bottom.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_05_007.jpg"/>
     </media>
     </figure>
     <para id="para-00011"><title><span class="red-text">Strategy</span></title> Problems that require the synthesis of a specific target molecule should always be worked backward. Look at the target, identify its functional group(s), and ask yourself, “What are the methods for preparing that functional group?” In the present instance, the target molecule is a secondary alcohol (R<sub>2</sub>CHOH), and we’ve seen that alcohols can be prepared from alkenes by either hydroboration–oxidation or oxymercuration–demercuration. The −OH-bearing carbon in the product must have been a double-bond carbon in the alkene reactant, so there are two possibilities here: 4-methyl-2-hexene and 3-methyl-3-hexene.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00008">
+    <figure class="unnumbered scaled-down" id="fig-00008">
     <media alt="An illustration shows an incomplete reaction. The reactant is unknown (a question mark) and the product is 4-Methyl-3-hexanol. 4-Methyl-3-hexanol shows a 6-carbon chain. C3 is a methine group bonded to a hydroxyl group at the bottom. C4 is a methine group bonded to a methyl group at the top. An illustration shows two structures. The structure of 2-Methyl-2-hexene shows a 6-carbon chain. C2 C3 and C4 are methine groups. The methine groups at the second and third positions are double bonded. C4 is bonded to a methyl group at the top. An arrow pointing toward C3 from text reads Add –OH here. The structure of 3-Methyl-3-hexene shows a 6-carbon chain. C3 is single bonded to a methyl group at the top and double bonded to C4 on the right. An arrow pointing toward C4 from text reads Add –OH here. An illustration shows a chemical reaction. 3-Methyl-3-hexene reacts first with borane in THF solvent followed by reaction with basic hydrogen peroxide to give 4-Methyl-3-hexanol. 3-Methyl-3-hexene shows a 6-carbon chain. C3 is single bonded to a methyl group at the top and double bonded to C4 on the right. 4-Methyl-3-hexanol shows a 6-carbon chain. C3 is a methine group bonded to a hydroxyl group at the bottom. C4 is a methine group bonded to a methyl group at the top.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_05_008.jpg"/>
     </media>

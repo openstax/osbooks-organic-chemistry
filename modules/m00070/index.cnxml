@@ -36,14 +36,14 @@
     <example id="exam-00001">
     <title>Predicting the Product of an Electrophilic Addition Reaction</title>
     <para id="para-00010">What product would you expect from reaction of HCl with 1-ethylcyclopentene?</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows the reaction of 1-ethylcyclopentene with hydrochloric acid to yield unknown product. 1-Ethylcyclopentene shows a cyclopentene with an ethyl group at C1.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_005.jpg"/>
     </media>
     </figure>
     <para id="para-00011"><title><span class="red-text">Strategy</span></title> When solving a problem that asks you to predict a reaction product, begin by looking at the functional group(s) in the reactants and deciding what kind of reaction is likely to occur. In the present instance, the reactant is an alkene that will probably undergo an electrophilic addition reaction with HCl. Next, recall what you know about electrophilic addition reactions to predict the product. You know that electrophilic addition reactions follow Markovnikov’s rule, so H<sup>+</sup> will add to the double-bond carbon that has one alkyl group (C2 on the ring) and the Cl will add to the double-bond carbon that has two alkyl groups (C1 on the ring).</para>
     <para id="para-00012"><title><span class="cyan-text">Solution</span></title> The expected product is 1-chloro-1-ethylcyclopentane.
-    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows the reaction of 1-ethylcyclopentene with hydrochloric acid to yield 1-Chloro-1-ethylcyclopentane. 1-ethylcyclopentene shows a cyclopentene with an ethyl group at C1. 1-Chloro-1-ethylcyclopentane shows a cyclopentane bonded to chlorine and ethyl group.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_006.jpg"/>
     </media>
@@ -52,7 +52,7 @@
     <example id="exam-00002">
     <title>Synthesizing a Specific Compound</title>
     <para id="para-00013">What alkene would you start with to prepare the following alkyl halide? There may be more than one possibility.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="An illustration shows an unknown reactant yielding an alkyl halide. The alkyl halide shows a carbon bonded to two ethyl groups a methyl group and a chlorine.">
     <image mime-type="image/jpeg" src="../../media/OChem_07_08_007.jpg"/>
     </media>

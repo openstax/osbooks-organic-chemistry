@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">Discovery of the nucleophilic substitution reaction of alkyl halides dates back to work carried out by the German chemist Paul Walden in 1896. Walden found that the pure enantiomeric (+)- and (–)-malic acids could be interconverted through a series of simple substitution reactions. When Walden treated (–)-malic acid with PCl<sub>5</sub>, he isolated (+)-chlorosuccinic acid. This, on treatment with wet Ag<sub>2</sub>O, gave (+)-malic acid. Similarly, reaction of (+)-malic acid with PCl<sub>5</sub> gave (–)-chlorosuccinic acid, which was converted into (–)-malic acid when treated with wet Ag<sub>2</sub>O. The full cycle of reactions is shown in <link target-id="fig-00001"/>.</para>
-    <figure class="scaled-down-30" id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="An illustration shows a cyclic reaction. (–)-Malic acid with [alpha] subscript D equal to –2.3 reacts with PCl5 and ether to produce (+)-Chlorosuccinic acid that reacts with Ag2O H2O to produce (+)-Malic acid with [alpha] subscript D equal to +2.3 that reacts with PCl5 and ether to produce (-)-Chlorosuccinic acid that reacts with Ag2O H2O to produce (-)-Malic acid. Malic acid shows a carboxyl group bonded to methylene group that is bonded to a methine group bonded to a carboxyl group. The methine group is bonded to hydroxyl group at the bottom. Chlorosuccinic acid is similar to malic acid but the methine group is bonded to chlorine at the bottom.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_01_001.jpg"/>
     </media>
@@ -15,7 +15,7 @@
     </figure>
     <para id="para-00002">At the time, the results were astonishing. The eminent chemist Emil Fischer called Walden’s discovery “the most remarkable observation made in the field of optical activity since the fundamental observations of Pasteur.” Because (–)-malic acid was converted into (+)-malic acid, some reactions in the cycle must have occurred with a change, or inversion, of configuration at the chirality center. But which ones, and how? (Remember from <link document="m00054"/> that the direction of light rotation and the configuration of a chirality center aren’t directly related. You can’t tell by looking at the sign of rotation whether a change in configuration has occurred during a reaction.)</para>
     <para id="para-00003">Today, we refer to the transformations taking place in Walden’s cycle as <term id="term-00001">nucleophilic substitution reactions</term> because each step involves the substitution of one nucleophile (chloride ion, Cl<sup>–</sup>, or hydroxide ion, HO<sup>–</sup>) by another. Nucleophilic substitution reactions are one of the most common and versatile reaction types in organic chemistry.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00002">
+    <figure class="unnumbered scaled-down" id="fig-00002">
     <media alt="Alt Text Placeholder">
     <image mime-type="image/jpeg" src="../../media/OChem_11_01_002.jpg"/>
     </media>
@@ -37,14 +37,14 @@
     <example id="exam-00001">
     <title>Predicting the Stereochemistry of a Nucleophilic Substitution Reaction</title>
     <para id="para-00007">What product would you expect from a nucleophilic substitution reaction of (<emphasis effect="italics">R</emphasis>)-1-bromo-1-phenylethane with cyanide ion, <m:math><m:mrow><m:msup><m:mrow></m:mrow><m:mo>&#x2212;</m:mo></m:msup><m:mtext>C&#x2261;N</m:mtext></m:mrow></m:math>, as nucleophile? Show the stereochemistry of both reactant and product, assuming that inversion of configuration occurs.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows the reaction of a bromo alkane with Na plus CN minus to produce unknown product. The bromo alkane shows a benzene bonded to methine group bonded to methyl group and bromine atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_01_005.jpg"/>
     </media>
     </figure>
     <para id="para-00008"><title><span class="red-text">Strategy</span></title> Draw the <emphasis effect="italics">R</emphasis> enantiomer of the reactant, and then change the configuration of the chirality center while replacing the <sup>–</sup>Br with a <sup>–</sup>CN.</para>
     <para id="para-00009"><title><span class="cyan-text">Solution</span></title></para>
-    <figure class="unnumbered scaled-down-30" id="fig-00006">
+    <figure class="unnumbered scaled-down" id="fig-00006">
     <media alt="An illustration shows the reaction of (R)-1-bromo-1-phenylethane with cyanide ion (Na plus CN minus) to produce (S)-2-Phenylpropanenitrile. (R)-1-bromo-1-phenylethane shows a benzene bonded to carbon single bonded to methyl group dash bonded to bromine and wedge bonded to a hydrogen. (S)-2-Phenylpropanenitrile is similar to the reagent but the hydrogen is replaced by cyanide and bromine is replaced by hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_01_006.jpg"/>
     </media>

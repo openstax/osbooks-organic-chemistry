@@ -48,7 +48,7 @@
     <section id="sect-00003">
     <title>Halides</title>
     <para id="para-00007">The fact that some elements have two common isotopes gives their mass spectra a distinctive appearance. Chlorine, for example, exists as two isotopes, <sup>35</sup>Cl and <sup>37</sup>Cl, in roughly a 3 : 1 ratio. In a sample of chloroethane, three out of four molecules contain a <sup>35</sup>Cl atom and one out of four has a <sup>37</sup>Cl atom. In the mass spectrum of chloroethane (<link target-id="fig-00006"/> we see the molecular ion (M) at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 64 for ions that contain a <sup>35</sup>Cl and another peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 66, called the M + 2 peak, for ions containing a <sup>37</sup>Cl. The ratio of the relative abundance of M : M + 2 is about 3 : 1, a reflection of the isotopic abundances of chlorine.</para>
-    <figure class="scaled-down-30" id="fig-00006">
+    <figure class="scaled-down" id="fig-00006">
     <media alt="The mass spectrum of chloroethane with two peaks at m / z 64 and 66, labeled M and M + 2, on a 3 to 1 height ratio.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_03_006.jpg"/>
     </media>
@@ -77,7 +77,7 @@
     </media>
     </figure>
     <para id="para-00011">(To be more general about neighboring positions in carbonyl compounds, Greek letters are used in alphabetical order: alpha, beta, gamma, delta, and so on.)</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00010">
+    <figure class="unnumbered scaled-down" id="fig-00010">
     <media alt="The carbon directly adjacent to a carbonyl carbon is marked alpha; subsequent carbons are marked beta, gamma, and delta.">
     <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_12_03_GreekLets_img.jpg"/>
     </media>

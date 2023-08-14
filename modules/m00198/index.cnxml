@@ -13,7 +13,7 @@
     <title>Synthesizing a Polysubstituted Benzene</title>
     <para id="para-00004">How would you synthesize 4-bromo-2-nitrotoluene from benzene?</para>
     <para id="para-00005"><title><span class="red-text">Strategy</span></title> Draw the target molecule, identify the substituents, and recall how each group can be introduced separately. Then plan retrosynthetically.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00001">
+    <figure class="unnumbered scaled-down" id="fig-00001">
     <media alt="An illustration shows the structure of 4-Bromo-2-nitrotoluene. A benzene ring is shown with C1 bonded to a methyl group C2 bonded to a nitro group and C4 bonded to a bromine atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_10_001.jpg"/>
     </media>
@@ -33,7 +33,7 @@
     </figure>
     <para id="para-00009">“What is an immediate precursor of toluene?” Benzene, which could be methylated in a Friedel–Crafts reaction. Alternatively, “What is an immediate precursor of bromobenzene?” Benzene, which could be brominated.</para>
     <para id="para-00010">The retrosynthetic analysis has provided two valid routes from benzene to 4-bromo-2-nitrotoluene.</para>
-    <figure class="unnumbered" id="fig-00004">
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows two reactions. In the first reaction benzene reacts with green CH3Cl and AlCl3 to yield toluene that reacts with pink bromine and FeBr3 to yield p-Bromotoluene which reacts with blue nitric acid and sulfuric acid to yield 4-Bromo-2-nitrotoluene. Toluene shows benzene bonded to green methyl group. p-Bromotoluene shows benzene with C1 bonded to green methyl group and C4 bonded to pink bromine. 4-Bromo-2-nitrotoluene shows benzene with C1 bonded to green methyl group C2 bonded to blue nitro group and C4 bonded to pink bromine. In the second reaction benzene reacts with pink bromine and FeBr3 to yield bromobenzene that reacts with green CH3Cl and AlCl3 to yield p-Bromotoluene and the further reaction yields 4-Bromo-2-nitrotoluene. Bromobenzene shows benzene bonded to pink bromine.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_10_004.jpg"/>
     </media>
@@ -68,7 +68,7 @@
     </media>
     </figure>
     <para id="para-00017">“What is an immediate precursor of propiophenone?” Benzene, which could undergo Friedel–Crafts acylation with propanoyl chloride and AlCl<sub>3</sub>.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00009">
+    <figure class="unnumbered scaled-down" id="fig-00009">
     <media alt="An illustration shows a reaction in which benzene reacts with green propanoyl chloride and AlCl3 to yield propiophenone. Propiophenone shows a benzene ring with C1 bonded to a green ethyl acetate group.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_10_009.jpg"/>
     </media>
@@ -106,7 +106,7 @@
     <para id="para-00024">Two main approaches to combinatorial chemistry are used—<emphasis effect="italics">parallel synthesis</emphasis> and <emphasis effect="italics">split synthesis.</emphasis> In parallel synthesis, each compound is prepared independently. Typically, a reactant is first linked to the surface of polymer beads, which are then placed into small wells on a 96-well glass plate. Programmable robotic instruments add different sequences of building blocks to the different wells, thereby making 96 different products. When the reaction sequences are complete, the polymer beads are washed and their products are released.</para>
     <para id="para-00025">In split synthesis, the initial reactant is again linked to the surface of polymer beads, which are then divided into several groups. A different building block is added to each group of beads, the different groups are combined, and the reassembled mix is again split to form new groups. Another building block is added to each group, the groups are again combined and redivided, and the process continues. If, for example, the beads are divided into four groups at each step, the number of compounds increases in the progression 4 → 16 → 64 → 256. After 10 steps, more than 1 million compounds have been prepared (<link target-id="fig-00013"/>).</para>
     <para id="para-00026">Of course, with so many different final products mixed together, the problem is to identify them. What structure is linked to what bead? Several approaches to this problem have been developed, all of which involve the attachment of encoding labels to each polymer bead to keep track of the chemistry each has undergone. Encoding labels used thus far have included proteins, nucleic acids, halogenated aromatic compounds, and even computer chips.</para>
-    <figure class="scaled-down-30" id="fig-00012">
+    <figure class="scaled-down" id="fig-00012">
         <media alt="Alt Text Placeholder">
           <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_16_98_Robot.jpeg"/>
     <!--<image mime-type="image/jpeg" src="../../media/OChem_16_98_Robot.jpg"/>-->
@@ -225,25 +225,25 @@
     </figure>
     </item></list></item>
     <item>Oxidation of alkylbenzene side chain (<link document="m00196"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00026">
+    <figure class="unnumbered scaled-down" id="fig-00026">
     <media alt="An illustration shows a reaction in which methylbenzene reacts in the presence of pink KMnO4 and water to yield benzoic acid. Methylbenzene shows a benzene with C1 bonded to a methyl group. Benzoic acid shows a benzene with C1 bonded to a carboxyl group. The oxygen atom and hydroxyl group are shown in pink.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_EC_013.jpg"/>
     </media>
     </figure></item>
     <item>Benzylic bromination of alkylbenzene side chain (<link document="m00196"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00027">
+    <figure class="unnumbered scaled-down" id="fig-00027">
     <media alt="An illustration shows a reaction in which methylbenzene reacts in the presence of N-bromosuccinimide (BzO)2 and CCl4 to yield a product. Methylbenzene shows a benzene bonded to a methyl group. N-bromosuccinimide shows a 5-membered ring with a nitrogen bonded to a pink bromine. The ring is double bonded to two oxygen atoms. The product shows a benzene bonded to a methylene group bonded to a pink bromine.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_EC_014.jpg"/>
     </media>
     </figure></item>
     <item>Catalytic hydrogenation of aromatic ring (<link document="m00197"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00028">
+    <figure class="unnumbered scaled-down" id="fig-00028">
     <media alt="An illustration shows a reaction in which benzene reacts in the presence of pink hydrogen and Rh/C catalyst to yield a cyclohexane ring.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_EC_015.jpg"/>
     </media>
     </figure></item>
     <item>Reduction of aryl alkyl ketones (<link document="m00197"/>)<newline/>
-    <figure class="unnumbered scaled-down-30" id="fig-00029">
+    <figure class="unnumbered scaled-down" id="fig-00029">
     <media alt="An illustration shows a reaction in which an aryl alkyl ketone reacts in the presence of blue hydrogen/Pd and ethanol to yield a product. The reactant shows a benzene bonded to carbonyl group bonded to R. The carbonyl oxygen is shown in pink. The product shows a benzene bonded to carbon that is bonded to R and two blue hydrogens.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_EC_016.jpg"/>
     </media>

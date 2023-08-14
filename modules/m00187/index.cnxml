@@ -74,7 +74,7 @@
     <section id="sect-00002">
     <title>Ultraviolet Spectroscopy</title>
     <para id="para-00004">Aromatic rings are detectable by ultraviolet spectroscopy because they contain a conjugated <emphasis effect="italics">π</emphasis> electron system. In general, aromatic compounds show a series of bands, with a fairly intense absorption near 205 nm and a less intense absorption in the 255 to 275 nm range. The presence of these bands in the ultraviolet spectrum of a molecule is a sure indication of an aromatic ring. <link target-id="fig-00002"/> shows the ultraviolet spectrum of benzene.</para>
-    <figure class="scaled-down-30" id="fig-00002">
+    <figure class="scaled-down" id="fig-00002">
     <media alt="An illustration shows the UV spectrum of benzene. The spectrum shows wavelength on the horizontal axis from 160 to 280 at an interval of 20; increasing log epsilon is shown on the vertical axis. The tallest peak is shown at 184 nm followed by one at 202 nm. About 7 peaks are shown between 225 nm to 265 nm.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_07_002.jpg"/>
     </media>
@@ -123,7 +123,7 @@
     <title>Aspirin, NSAIDs, and COX-2 Inhibitors</title>
     <para id="para-00012">Whatever the cause—whether tennis elbow, a sprained ankle, or a wrenched knee—pain and inflammation seem to go together. They are, however, different in their origin, and powerful drugs are available for treating each separately. Codeine, for example, is a powerful <emphasis effect="italics">analgesic,</emphasis> or pain reliever, used in the management of debilitating pain, while cortisone and related steroids are potent <emphasis effect="italics">anti-inflammatory</emphasis> agents, used for treating arthritis and other crippling inflammations. For minor pains and inflammation, both problems are often treated together by using a common over-the-counter medication called an <emphasis effect="italics">NSAID,</emphasis> or <emphasis effect="italics">nonsteroidal anti-inflammatory drug.</emphasis></para>
     <para id="para-00013">One of the most common NSAIDs is aspirin, or acetylsalicylic acid, whose use goes back to the late 1800s. It had been known from before the time of Hippocrates in 400 BC that fevers could be lowered by chewing the bark of willow trees. The active agent in willow bark was found in 1827 to be an aromatic compound called <emphasis effect="italics">salicin,</emphasis> which could be converted by reaction with water into salicyl alcohol and then oxidized to give salicylic acid. Salicylic acid turned out to be even more effective than salicin for reducing fevers and to have analgesic and anti-inflammatory action as well. Unfortunately, it also turned out to be too corrosive to the walls of the stomach for everyday use. Conversion of the phenol –OH group into an acetate ester, however, yielded acetylsalicylic acid, which proved just as potent as salicylic acid but less corrosive to the stomach.</para>
-    <figure class="scaled-down-30" id="fig-00008">
+    <figure class="scaled-down" id="fig-00008">
     <media alt="Photo of a baseball player pitching a ball.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_98_Athlete.jpg"/>
     </media>
@@ -143,7 +143,7 @@
     </figure>
     <para id="para-00016">Aspirin and other NSAIDs function by blocking the cyclooxygenase (COX) enzymes that carry out the body’s synthesis of prostaglandins (<link document="m00099"/> and <emphasis effect="bold">Section 27.4</emphasis>). There are two forms of the enzyme: COX-1, which carries out the normal physiological production of prostaglandins, and COX-2, which mediates the body’s response to arthritis and other inflammatory conditions. Unfortunately, both COX-1 and COX-2 enzymes are blocked by aspirin, ibuprofen, and other NSAIDs, thereby shutting down not only the response to inflammation but also various protective functions, including the control mechanism for production of acid in the stomach.</para>
     <para id="para-00017">Medicinal chemists have therefore devised a number of drugs that act as selective inhibitors of only the COX-2 enzyme. Inflammation is thereby controlled without blocking protective functions. Originally heralded as a breakthrough in arthritis treatment, the first generation of COX-2 inhibitors, including rofecoxib, (marketed as Vioxx), celecoxib, (marketed as Celebrex), and Valdecoxib (marketed as Bextra), turned out to cause potentially serious heart problems, particularly in elderly or compromised patients. As a result, all three Cox-2 inhibitors were removed from the U.S. and other markets. Further studies, however, concluded that in proper doses the Cox-2 inhibitors were little different from other NSAIDs, and Vioxx returned to the market in 2017 for topical treatment of osteoarthritis.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00011">
+    <figure class="unnumbered scaled-down" id="fig-00011">
     <media alt="An illustration shows the structure of Rofecoxib (Vioxx). A 5-membered ring with a single double bond and oxygen atom is double bonded to an oxygen atom and single bonded to two benzene rings. One of the benzene rings is bonded to a sulfur single bonded to a methyl group and double bonded to two oxygen atoms.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_07_013.jpg"/>
     </media>

@@ -82,13 +82,13 @@
     </table>
     <para id="para-00010">Spin–spin splitting in <sup>1</sup>H NMR can be summarized by three rules.</para>
     <para id="para-00011"><emphasis effect="bold"><span class="red-text">RULE 1</span></emphasis><newline /><emphasis effect="bold">Chemically equivalent protons don’t show spin–spin splitting.</emphasis> Equivalent protons may be on the same carbon or on different carbons, but their signals don’t split.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00004">
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="An illustration shows two parts. The first part reads: “three C-H protons are chemically equivalent; no splitting occurs”; the accompanying structure shows a centrally placed carbon dash bonded to a hydrogen wedge bonded to a hydrogen and single bonded to a hydrogen and chlorine. The hydrogen atoms are shown in blue. The second part reads: “four C-H protons are chemically equivalent; no splitting occurs”; the accompanying structure shows a carbon bonded to another carbon; each carbon is single bonded to a chlorine atom dash bonded to a hydrogen and wedge bonded to a hydrogen.">
     <image mime-type="image/jpeg" src="../../media/OChem_13_06_004.jpg"/>
     </media>
     </figure>
     <para id="para-00012"><emphasis effect="bold"><span class="red-text">RULE 2</span></emphasis><newline /><emphasis effect="bold">The signal of a proton with <emphasis effect="italics">n</emphasis> equivalent neighboring protons is split into a multiplet of <emphasis effect="italics">n</emphasis></emphasis> + <emphasis effect="bold">1 peaks with coupling constant <emphasis effect="italics">J</emphasis>.</emphasis> Protons that are farther than two carbon atoms apart don’t usually couple, although they sometimes show weak coupling when they are separated by a <emphasis effect="italics">π</emphasis> bond.</para>
-    <figure class="unnumbered scaled-down-30" id="fig-00005">
+    <figure class="unnumbered scaled-down" id="fig-00005">
     <media alt="An illustration shows two parts. The first part labeled as “splitting observed” shows a carbon bonded to another carbon; each carbon shows two open bonds and is bonded to a pink hydrogen atom at the top. The second part labeled as “splitting not usually observed” shows a three-carbon chain. Each carbon shows two free bonds. C1 and C3 are bonded to a blue hydrogen each.">
     <image mime-type="image/jpeg" src="../../media/OChem_13_06_005.jpg"/>
     </media>
@@ -107,7 +107,7 @@
     <para id="para-00016"><title><span class="red-text">Strategy</span></title> It’s best to begin solving structural problems by calculating a molecule’s degree of unsaturation (we’ll see this again in Worked Example 13.4). In the present instance, a formula of C<sub>5</sub>H<sub>12</sub>O corresponds to a saturated, open-chain molecule, either an alcohol or an ether.</para>
     <para id="para-00017">To interpret the NMR information, let’s look at each absorption individually. The three-proton absorption at 0.92 <emphasis effect="italics">δ</emphasis> is due to a methyl group in an alkane-like environment, and the triplet-splitting pattern implies that the CH<sub>3</sub> is next to a CH<sub>2</sub>. Thus, our molecule contains an ethyl group, CH<sub>3</sub>CH<sub>2</sub>–. The six-proton singlet at 1.20 <emphasis effect="italics">δ</emphasis> is due to two equivalent alkane-like methyl groups attached to a carbon with no hydrogens, (CH<sub>3</sub>)<sub>2</sub>C, and the two-proton quartet at 1.50 <emphasis effect="italics">δ</emphasis> is due to the CH<sub>2</sub> of the ethyl group. All 5 carbons and 11 of the 12 hydrogens in the molecule are now accounted for. The remaining hydrogen, which appears as a broad one-proton singlet at 1.64 <emphasis effect="italics">δ,</emphasis> is probably due to an OH group, since there is no other way to account for it. Putting the pieces together gives the structure: 2-methyl-2-butanol.</para>
     <para id="para-00018"><title><span class="cyan-text">Solution</span></title></para>
-    <figure class="unnumbered scaled-down-30" id="fig-00007">
+    <figure class="unnumbered scaled-down" id="fig-00007">
     <media alt="An illustration shows the structure of “2-Methyl-2-butanol.” A carbon is bonded to a hydroxyl group at the bottom methyl group on the left and at the top. The hydrogen atoms of the methyl groups are shown in pink; both methyl groups are labeled as “1.20 delta”; the carbon is bonded to a methylene group (with green hydrogens) bonded to a methyl group (with blue hydrogens). The green hydrogen is labeled as “1.50 delta” and the blue hydrogen is labeled as “0.92 delta.”">
     <image mime-type="image/jpeg" src="../../media/OChem_13_06_007.jpg"/>
     </media>
