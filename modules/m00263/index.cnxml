@@ -21,7 +21,7 @@
 <section id="sect-00001">
 <title>The Malonic Ester Synthesis</title>
 <para id="para-00003">One of the oldest and best known carbonyl alkylation reactions is the <term id="term-00001">malonic ester synthesis</term>, a method for preparing a carboxylic acid from an alkyl halide while lengthening the carbon chain by two atoms.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00003">
+<figure class="unnumbered scaled-down" id="fig-00003">
 <media alt="An illustration shows a chemical reaction where an alkyl halide yields a carboxylic acid by undergoing malonic ester synthesis. The structure of alkyl halide is shown as R (green) - X (pink). The structure of carboxylic acid shows a green R bonded to a methylene group that is bonded to a pink carboxyl group.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_003.jpg"/>
 </media>
@@ -95,7 +95,7 @@
 <section id="sect-00003">
 <title>The Acetoacetic Ester Synthesis</title>
 <para id="para-00016">Just as the malonic ester synthesis converts an alkyl halide into a carboxylic acid, the <term id="term-00003">acetoacetic ester synthesis</term> converts an alkyl halide into a methyl ketone having three more carbons.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00011">
+<figure class="unnumbered scaled-down" id="fig-00011">
 <media alt="An illustration shows a chemical reaction where an alkyl halide upon undergoing acetoacetic ester synthesis yields methyl ketone. The structure of alkyl halide shows a green R bonded to a pink X. The structure of methyl ketone shows a carbon atom bonded to a green R 2 hydrogen atoms and a carbonyl group bonded to a methyl group. The carbonyl oxygen atom is highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_013.jpg"/>
 </media>
@@ -113,7 +113,7 @@
 </media>
 </figure>
 <para id="para-00019">The three-step sequence of (<emphasis effect="bold">1</emphasis>) enolate ion formation, (<emphasis effect="bold">2</emphasis>) alkylation, and (<emphasis effect="bold">3</emphasis>) hydrolysis/decarboxylation is applicable to all <emphasis effect="italics">β</emphasis>-keto esters with acidic <emphasis effect="italics">α</emphasis> hydrogens, not just to acetoacetic ester itself. For example, cyclic <emphasis effect="italics">β</emphasis>-keto esters, such as ethyl 2-oxocyclohexanecarboxylate, can be alkylated and decarboxylated to give 2-substituted cyclohexanones.</para>
-<figure class="unnumbered" id="fig-00014">
+<figure class="unnumbered scaled-down" id="fig-00014">
 <media alt="An illustration shows the two steps of a chemical reaction where Ethyl 2-oxocyclohexanecarboxylate (a cyclic beta-keto ester) in the presence of sodium ethoxide and phenyl bromide yields an intermediate compound which in the presence of hydronium ion upon heating yields 2-Benzylcyclohexanone (77 percent) carbon dioxide (highlighted in pink) and ethanol (highlighted in pink). The structure of Ethyl 2-oxocyclohexanecarboxylate shows a cyclohexanone bonded to a blue hydrogen and a pink COOEt group at C2. The structure of the intermediate compound shows a cyclohexanone with C2 bonded to a pink COOEt group and a methylene group that is bonded to a benzene (highlighted in green). The structure of 2-Benzylcyclohexanone shows a cyclohexanone with C2 bonded to a methylene group that is bonded to a benzene ring (highlighted in green). In all the structures the carbonyl oxygen atoms are highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_016.jpg"/>
 </media>
@@ -122,7 +122,7 @@
 <title>Using Acetoacetic Ester Synthesis to Prepare a Ketone</title>
 <para id="para-00020">How would you prepare 2-pentanone by an acetoacetic ester synthesis?</para>
 <para id="para-00021"><title><span class="red-text">Strategy</span></title> An acetoacetic ester synthesis yields a methyl ketone by adding three carbons to an alkyl halide.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00015">
+<figure class="unnumbered scaled-down" id="fig-00015">
 <media alt="An illustration shows the structure of 2-pentanone. A green R group is bonded to a methylene group bonded to a carbonyl group bonded to a methyl group. The carbonyl oxygen atom is highlighted in pink. A pink pointer to the pink bond between the R group and the methylene group reads: This bond formed. A green pointer to the R group reads: This R group from alkyl halide. A pointer to CH2COCH3 reads: These three carbons from acetoacetic ester.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_017.jpg"/>
 </media>
@@ -170,14 +170,14 @@
 <example id="exam-00003">
 <title>Using an Alkylation Reaction to Prepare a Substituted Ester</title>
 <para id="para-00030">How might you use an alkylation reaction to prepare ethyl 1-methylcyclohexanecarboxylate?</para>
-<figure class="unnumbered scaled-down-30" id="fig-00018">
+<figure class="unnumbered scaled-down" id="fig-00018">
 <media alt="An illustration shows the structure of Ethyl 1-methylcyclohexanecarboxylate. A cyclohexane ring is bonded to COOEt and a methyl group at C1.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_025.jpg"/>
 </media>
 </figure>
 <para id="para-00031"><title><span class="red-text">Strategy</span></title> An alkylation reaction is used to introduce a methyl or primary alkyl group onto the <emphasis effect="italics">α</emphasis> position of a ketone, ester, or nitrile by S<sub>N</sub>2 reaction of an enolate ion with an alkyl halide. Thus, we need to look at the target molecule and identify any methyl or primary alkyl groups attached to an <emphasis effect="italics">α</emphasis> carbon. In the present instance, the target has an <emphasis effect="italics">α</emphasis> methyl group, which might be introduced by alkylation of an ester enolate ion with iodomethane.</para>
 <para id="para-00032"><title><span class="cyan-text">Solution</span></title></para>
-<figure class="unnumbered scaled-down-30" id="fig-00019">
+<figure class="unnumbered scaled-down" id="fig-00019">
 <media alt="An illustration shows a chemical reaction where Ethyl cyclohexanecarboxylate in the presence LDA THF and methyl iodide (green methyl group and pink iodine) yields Ethyl 1-methylcyclohexanecarboxylate. The structure of Ethyl cyclohexanecarboxylate shows a cyclohexane ring bonded to a pink COOEt and blue hydrogen at C1. The structure of Ethyl 1-methylcyclohexanecarboxylate shows a cyclohexane ring bonded to a pink COOEt and green methyl group at C1.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_026.jpg"/>
 </media>
@@ -205,7 +205,7 @@
 <section class="chemistry-matters" id="sect-00008">
 <title>Barbiturates</title>
 <para id="para-00035">The use of herbal remedies to treat illness and disease goes back thousands of years, but the medical use of chemicals prepared in the laboratory has a much shorter history. Barbiturates, a large class of drugs with a wide variety of uses, constitute one of the earliest successes of medicinal chemistry. The synthesis and medical use of barbiturates goes back to 1904 when Bayer, a German chemical company, first marketed a compound called barbital, trade named Veronal, as a treatment for insomnia. Since that time, more than 2500 different barbiturate analogs have been synthesized by drug companies, more than 50 have been used medicinally, and about a dozen are still in use as anesthetics, anticonvulsants, sedatives, and anxiolytics.</para>
-<figure class="scaled-down-30" id="fig-00021">
+<figure class="scaled-down" id="fig-00021">
 <media alt="Photo of a variety of pills and capsules in various colors">
 <image mime-type="image/jpeg" src="../../media/OChem_22_98_BarbColors.jpg"/>
 </media>
@@ -218,7 +218,7 @@
 </media>
 <caption><emphasis effect="bold">The synthesis of barbiturates relies on malonic ester alkylations and nucleophilic acyl substitution reactions.</emphasis> More than 2500 different barbiturates have been synthesized over the past 100 years.</caption>
 </figure>
-<figure class="unnumbered scaled-down-30" id="fig-00023">
+<figure class="unnumbered scaled-down" id="fig-00023">
 <media alt="An illustration shows the structure of Barbital (Veronal) the first barbiturate having a cyclohexane ring. C1 C3 and C5 are carbonyl groups; C2 and C6 show a nitrogen monohydride each; C4 is bonded to 2 ethyl groups.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_029.jpg"/>
 </media>
@@ -257,19 +257,19 @@
 </media>
 </figure></item>
 <item>Hell–Volhard–Zelinskii bromination of acids (<link document="m00260"/>)<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00026">
+<figure class="unnumbered scaled-down" id="fig-00026">
 <media alt="An illustration shows a chemical reaction in which a carboxylic acid reacts in the presence of bromine and phosphorus tribromide (highlighted in pink) and water to yield a product. The structure of the reactant shows a hydroxyl group bonded to a carbonyl group bonded to a carbon atom bonded to a blue hydrogen and having 2 open bonds. The product shows a hydroxyl group bonded to a carbonyl group bonded to a carbon atom bonded to a bromine atom and having 2 open bonds. The carbonyl oxygen atoms are highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_EC_003.jpg"/>
 </media>
 </figure></item>
 <item>Dehydrobromination of <emphasis effect="italics">α</emphasis>-bromo ketones (<link document="m00259"/>)<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00027">
+<figure class="unnumbered scaled-down" id="fig-00027">
 <media alt="An illustration shows a chemical reaction in which an alpha-bromo ketone reacts in the presence of pyridine (highlighted in blue) upon heating to yield an alkene. The reactant shows an R group bonded to a carbonyl group bonded to a carbon atom having an open bond and bonded to a pink bromine atom and to a carbon atom bonded to a pink hydrogen atom and having 2 open bonds. The structure of the product shows an R group bonded to a carbonyl group bonded to a carbon atom having an open bond and double bonded to a carbon atom having 2 double bonds. The carbonyl oxygen atoms are highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_EC_004.jpg"/>
 </media>
 </figure></item>
 <item>Haloform reaction (<link document="m00262"/>)<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00028">
+<figure class="unnumbered scaled-down" id="fig-00028">
 <media alt="An illustration shows a chemical reaction in which a ketone reacts in the presence of sodium hydroxide and a pink halide (X2) to yield a carboxylate and alkyl halide. The structure of the reactant shows an R group bonded to a carbonyl group bonded to a methyl group. The structure of the product shows an R group bonded to a carbonyl group bonded to an oxygen anion. The second product shows a methine group bonded to pink X3. The carbonyl oxygen atoms are highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_EC_005.jpg"/>
 </media>
@@ -289,19 +289,19 @@
 </media>
 </figure></item>
 <item>Direct alkylation of ketones<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00031">
+<figure class="unnumbered scaled-down" id="fig-00031">
 <media alt="An illustration shows a chemical reaction in which an ester reacts in the presence of LDA in THF and alkyl halide (green R prime and pink X) to yield a product. The structure of the reactant shows a carbon atom bonded to an alkoxide (OR) double bonded to an oxygen and bonded to a carbon having 2 open bonds and bonded to a blue hydrogen atom. The structure of the product is similar to the reactant except that the blue hydrogen atom bonded to the second carbon atom is replaced by green R prime. The carbonyl oxygen atoms are highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_EC_008.jpg"/>
 </media>
 </figure></item>
 <item>Direct alkylation of esters<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00032">
+<figure class="unnumbered scaled-down" id="fig-00032">
 <media alt="An illustration shows a chemical reaction in which an ester reacts in the presence of LDA in THF and alkyl halide (green R prime and pink X) to yield a product. The structure of the reactant shows a carbon atom bonded to an alkoxide (OR) double bonded to an oxygen and bonded to a carbon having 2 open bonds and bonded to a blue hydrogen atom. The structure of the product is similar to the reactant except that the blue hydrogen atom bonded to the second carbon atom is replaced by green R prime. The carbonyl oxygen atoms are highlighted in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_EC_009.jpg"/>
 </media>
 </figure></item>
 <item>Direct alkylation of nitriles<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00033">
+<figure class="unnumbered scaled-down" id="fig-00033">
 <media alt="An illustration shows a chemical reaction in which a nitrile reacts in the presence of LDA in THF and alkyl halide (green R and pink X) to yield another nitrile compound. The structure of the reactant shows a carbon atom having 2 open bonds bonded to a blue hydrogen and bonded to a carbon atom triple bonded to a pink nitrogen atom. The structure of the product shows a carbon atom having 2 open bonds bonded to green R group and bonded to a carbon atom triple bonded to a pink nitrogen atom.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_EC_010.jpg"/>
 </media>

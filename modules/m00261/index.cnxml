@@ -13,7 +13,7 @@
 </media>
 </figure>
 <para id="para-00002">Proton abstraction from a carbonyl compound occurs when the <emphasis effect="italics">α</emphasis> C–H bond is oriented roughly parallel to the <emphasis effect="italics">p</emphasis> orbitals of the carbonyl group. The <emphasis effect="italics">α</emphasis> carbon atom of the enolate ion is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized and has a <emphasis effect="italics">p</emphasis> orbital that overlaps the neighboring carbonyl <emphasis effect="italics">p</emphasis> orbitals. Thus, the negative charge is shared by the electronegative oxygen atom, and the enolate ion is stabilized by resonance (<link target-id="fig-00002"/>).</para>
-<figure id="fig-00002">
+<figure class="scaled-down" id="fig-00002">
 <media alt="An illustration shows the formation of an enolate ion from a carbonyl compound through proton abstraction and the corresponding electron potential map. The first structure shows a carbon atom with an open dash bond and wedge bond; the carbon is bonded to another carbon atom that shows a free dash bond and is wedge bonded to an oxygen atom. The first carbon labeled sp3 hybridized has 2 overlapping pink lobes labeled “H” above it. The lobe on the front has a pair of electrons. The second carbon atom has a pink lobe at the top with one electron and a blue lobe at the bottom with one electron. The second structure of the enolate ion is similar to the first one but the first carbon is labeled sp2 hybridized and shows a negatively charged pink lobe with a pair of electrons at the top and a blue lobe at the bottom. The third structure is similar to the second structure but the pink lobe of the first carbon shows only one electron and the first carbon has no charge. The first and second carbons are double bonded to each other. The second carbon shares a single wedge bond with the oxygen. The third carbon shows negative charge. The electrostatic potential map shows a ball-and-stick model with gray balls (carbons) white balls (hydrogens) and a red ball (oxygen). A methylene group is bonded to a carbonyl group bonded to a methyl group. The region around the red ball is shown red and is labeled ‘electron-rich.’ The region around the methyl group is greenish yellow. The region around the methylene carbon is labeled ‘electron-rich.’">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_002.jpg"/>
 </media>
@@ -119,7 +119,7 @@
 <title>Identifying the Acidic Hydrogens in a Compound</title>
 <para id="para-00007">Identify the most acidic hydrogens in each of the following compounds, and rank the compounds in order of increasing acidity:</para>
 
-<figure class="unnumbered scaled-down-30" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_006.jpg"/>
 </media>
@@ -129,7 +129,7 @@
 <para id="para-00011"><title><span class="red-text">Strategy</span></title> Hydrogens on carbon next to a carbonyl group are acidic. In general, a <emphasis effect="italics">β</emphasis>-dicarbonyl compound is most acidic, a ketone or aldehyde is next most acidic, and a carboxylic acid derivative is least acidic. Remember that alcohols, phenols, and carboxylic acids are also acidic because of their –OH hydrogens.</para>
 <para id="para-00012"><title><span class="cyan-text">Solution</span></title> The acidity order is (<emphasis effect="bold">a</emphasis>) > (<emphasis effect="bold">c</emphasis>) > (<emphasis effect="bold">b</emphasis>). Acidic hydrogens are shown in red.</para>
 
-<figure class="unnumbered scaled-down-30" id="fig-00008">
+<figure class="unnumbered scaled-down" id="fig-00008">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_007.jpg"/>
 </media>
