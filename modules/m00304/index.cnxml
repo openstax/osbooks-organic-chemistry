@@ -17,7 +17,7 @@
 </media>
 </figure>
 <para id="para-00004">Carbohydrates are converted into ethers by treatment with an alkyl halide in the presence of base—the Williamson ether synthesis (<link document="m00249"/>). Standard Williamson conditions using a strong base tend to degrade sensitive sugar molecules, but silver oxide works well as a mild base and gives high yields of ethers. For example, <emphasis effect="italics">α</emphasis>-<emphasis effect="smallcaps">D</emphasis>-glucopyranose is converted into its pentamethyl ether in 85% yield on reaction with iodomethane and Ag<sub>2</sub>O.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00002">
+<figure class="unnumbered scaled-down" id="fig-00002">
 <media alt="An illustration shows a chemical reaction. Alpha-D-Glucopyranose reacts with iodomethane highlighted in blue and silver (I) oxide to form 85 percent alpha-D-Glucopyranose pentamethyl ether. The chair conformation of alpha-D-glucopyranose shows a six-carbon ring with the ring oxygen highlighted in green. The equatorial hydroxyl groups bonded to C2 C3 and C4 are highlighted in pink. The hydroxyl group on C1 is on the opposite face as the hydroxymethyl group (C6) bonded to C5; the hydroxyl group bonded to C6 is highlighted in pink. Alpha-D-Glucopyranose pentamethyl ether shows a methoxy moiety replacing the hydrogen of every hydroxyl on the sugar.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_002.jpg"/>
 </media>
@@ -34,7 +34,7 @@
 <section id="sect-00003">
 <title>Glycoside Formation</title>
 <para id="para-00006">We saw in <link document="m00221"/> that treatment of a hemiacetal with an alcohol and an acid catalyst yields an acetal.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00003">
+<figure class="unnumbered scaled-down" id="fig-00003">
 <media alt="An illustration shows a reversible chemical reaction. A hemiacetal reacts with an alcohol in the presence of hydrochloric acid to form an acetal and water highlighted in pink. The hemiacetal shows a carbon bonded to a hydroxyl group highlighted in pink and to O-R highlighted in blue; the carbon shows a free wedge bond and dash bond. The alcohol shows a hydroxyl group bonded to R where the R and oxygen are highlighted in blue and the hydrogen in pink. The acetal shows a carbon bonded to two O-R groups which are highlighted in blue; the carbon shows a free wedge bond and dash bond.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_004.jpg"/>
 </media>
@@ -53,7 +53,7 @@
 </media>
 </figure>
 <para id="para-00010">The laboratory synthesis of glycosides can be difficult because of the numerous –OH groups on the sugar molecule. One method that is particularly suitable for preparing glucose <emphasis effect="italics">β</emphasis>-glycosides involves treatment of glucose pentaacetate with HBr, followed by addition of the appropriate alcohol in the presence of silver oxide. Called the <term id="term-00002">Koenigs–Knorr reaction</term>, the sequence involves formation of a pyranosyl bromide, followed by nucleophilic substitution. For example, methylarbutin, a glycoside found in pears, has been prepared by reaction of tetraacetyl-<emphasis effect="italics">α</emphasis>-<emphasis effect="smallcaps">D</emphasis>-glucopyranosyl bromide with <emphasis effect="italics">p</emphasis>-methoxyphenol.</para>
-<figure class="unnumbered" id="fig-00006">
+<figure class="unnumbered scaled-down" id="fig-00006">
 <media alt="An illustration shows the Koenigs–Knorr reaction. Pentaacetyl-beta-D-glucopyranose reacts with hydrogen bromide highlighted in pink to form Tetraacetyl-alpha-D-glucopyranosyl bromide which reacts with ArOH highlighted in blue and silver oxide then with aqueous sodium hydroxide to form Methylarbutin. Pentaacetyl-beta-D-glucopyranose shows four acetyl groups and a methyl acetate group bonded to glucopyranose which is represented in the chair conformation. Tetraacetyl-alpha-D-pyranosyl bromide shows three acetyl groups bonded to C2 C3 and C4. C5 is bonded to a methyl acetate group; a bromine atom highlighted in pink is bonded to C1. Methylarbutin is similar to the intermediate but C2 C3 and C4 are bonded to a hydroxyl group each. C1 is bonded to a blue oxygen bonded to benzene bonded to methoxide group.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_007.jpg"/>
 </media>
@@ -172,7 +172,7 @@
 <title>Chain Shortening: The Wohl Degradation</title>
 <para id="para-00032">Just as the Kiliani–Fischer synthesis lengthens an aldose chain by one carbon, the <emphasis effect="bold"><emphasis effect="italics">Wohl degradation</emphasis></emphasis> shortens an aldose chain by one carbon. Wohl degradation is almost the exact opposite of the Kiliani–Fischer sequence. That is, the aldose aldehyde carbonyl group is first converted into a nitrile, and the resulting cyanohydrin loses HCN under basic conditions—the reverse of a nucleophilic addition reaction.</para>
 <para id="para-00033">Conversion of the aldehyde into a nitrile is accomplished by treatment of an aldose with hydroxylamine to give an imine called an <emphasis effect="bold"><emphasis effect="italics">oxime</emphasis></emphasis> (<link document="m00219"/>), followed by dehydration of the oxime with acetic anhydride. The Wohl degradation does not give particularly high yields of chain-shortened aldoses, but the reaction is general for all aldopentoses and aldohexoses. For example, <emphasis effect="smallcaps">D</emphasis>-galactose is converted by Wohl degradation into <emphasis effect="smallcaps">D</emphasis>-lyxose.</para>
-<figure class="unnumbered" id="fig-00015">
+<figure class="unnumbered scaled-down" id="fig-00015">
 <media alt="An illustration shows a reaction. D-Galactose reacts with hydroxylamine highlighted in blue to form D-Galactose oxime which reacts with acetic anhydride to form a cyanohydrin. The cyanohydrin reacts with sodium methoxide which shows a positively charged sodium ion bonded to a negatively charged methoxide ion to form 37 percent D-Lyxose and hydrogen cyanide. In D-Galactose the carbonyl group highlighted in blue lies at the top of the chain. The second carbon is bonded to a hydroxyl group on the right highlighted in pink and to a hydrogen atom on the left. The third and fourth carbon atoms are bonded to a hydrogen atom on the right and a hydroxyl group on the left. The fifth carbon is bonded to a hydroxyl group on the right and to a hydrogen atom on the left and the sixth carbon is bonded to two hydrogen atoms and a hydroxyl group on the right. In D-Galactose oxime the first carbon is bonded to a hydrogen on the left and double-bonded to a nitrogen bonded to a hydroxyl group all highlighted in blue. In the cyanohydrin the first carbon is bonded to a nitrogen via three bonds. D-Lyxose shows a carbonyl group (aldehyde) lies at the top of the chain C3 is bonded to a hydroxyl group on the left and to a hydrogen atom on the right and C5 is bonded to two hydrogen atoms and a hydroxyl group on the right. The hydroxyl group on C2 and C3 lie on the left and the hydrogen atoms on the right.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_016.jpg"/>
 </media>
