@@ -19,7 +19,7 @@
 <section id="sect-00002">
 <title>Nuclear Magnetic Resonance Spectroscopy</title>
 <para id="para-00002">Amines are difficult to identify solely by <sup>1</sup>H NMR spectroscopy because N–H hydrogens tend to appear as broad signals without clear-cut coupling to neighboring C–H hydrogens. As with O–H absorptions (<link document="m00210"/>), amine N–H absorptions can appear over a wide range and are best identified by adding a small amount of D<sub>2</sub>O to the sample. Exchange of N–D for N–H occurs, and the N–H signal disappears from the NMR spectrum.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00002">
+<figure class="unnumbered scaled-down" id="fig-00002">
 <media alt="An illustration shows a reaction catalyzed by pink D2O. The reactant shows a blue nitrogen monohydride. The nitrogen shows two free bonds. The first product shows a blue nitrogen with two free bonds. The nitrogen is bonded to pink D. The second product shows blue H bonded to pink DO.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_002.jpg"/>
 </media>
@@ -32,7 +32,7 @@
 <caption><emphasis effect="bold">Proton NMR spectrum of <emphasis effect="italics">N</emphasis>-methylcyclohexylamine.</emphasis></caption>
 </figure>
 <para id="para-00004">Carbons next to amine nitrogens are slightly deshielded in the <sup>13</sup>C NMR spectrum and absorb about 20 ppm downfield from where they would absorb in an alkane of similar structure. In <emphasis effect="italics">N</emphasis>-methylcyclohexylamine, for example, the ring carbon to which nitrogen is attached absorbs at a position 24 ppm downfield from any other ring carbon.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00004">
+<figure class="unnumbered scaled-down" id="fig-00004">
 <media alt="An illustration shows the structure of amine. A cyclohexane is shown with C1 bonded to a blue nitrogen bonded to hydrogen and methyl group. C1 is labeled 58.7. The methyl carbon is labeled 33.4. C2 is labeled 33.3. C3 is labeled 25.2. C4 is labeled 26.5.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_004.jpg"/>
 </media>
@@ -136,19 +136,19 @@
 <item>Synthesis of amines (<link document="m00294"/>)
 <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
 <item>Reduction of nitriles<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00012">
+<figure class="unnumbered scaled-down" id="fig-00012">
 <media alt="An illustration shows a reaction in which a reactant (RCH2 bonded to pink X) reacts with blue NaCN to yield a nitrile (RCH2 bonded to a blue nitrile group). The nitrile reacts with green LiAlH4 ether and water to yield an amine. The amine shows a carbon bonded to RCH2 two green hydrogens and blue amino group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_001.jpg"/>
 </media>
 </figure></item>
 <item>Reduction of amides<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00013">
+<figure class="unnumbered scaled-down" id="fig-00013">
 <media alt="An illustration shows a reaction in which an amide (RCO bonded to blue amino group) reacts with green LiAlH4 ether and water to yield an amine. The amine shows a carbon bonded to R two green hydrogens and blue amino group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_002.jpg"/>
 </media>
 </figure></item>
 <item>Reduction of nitrobenzenes<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00014">
+<figure class="unnumbered scaled-down" id="fig-00014">
 <media alt="An illustration shows a reaction in which a nitrobenzene (benzene bonded to pink nitro group) reacts with blue hydrogen Pt or blue Fe hydronium ion or blue SnCl2 hydronium ion to yield an amine. The amine shows a benzene bonded to an amino group (pink N bonded to blue hydrogens).">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_003.jpg"/>
 </media>
@@ -172,13 +172,13 @@
 </media>
 </figure></item>
 <item>Reductive amination of aldehydes/ketones<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00018">
+<figure class="unnumbered scaled-down" id="fig-00018">
 <media alt="An illustration shows a reaction in which a reactant (RCOR’) reacts with blue ammonia and green NaBH4 to yield an amino group that shows carbon bonded to R R’ green hydrogen and blue amino group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_007.jpg"/>
 </media>
 </figure></item>
 <item>Hofmann rearrangement of amides<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00019">
+<figure class="unnumbered scaled-down" id="fig-00019">
 <media alt="An illustration shows a reaction in which a reactant (RCO bonded to blue amino group) reacts with sodium hydroxide bromine and water (pink oxygen) to yield an amino group (R bonded to blue amino group) and pink carbon dioxide.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_008.jpg"/>
 </media>
@@ -193,7 +193,7 @@
 <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
 <item>Alkylation with alkyl halides; see reaction 1(d)</item>
 <item>Hofmann elimination (<link document="m00295"/>)<newline/>
-<figure class="unnumbered scaled-down-30" id="fig-00021">
+<figure class="unnumbered scaled-down" id="fig-00021">
 <media alt="An illustration shows a reaction in which an alkane reacts in the presence of pink iodomethane and silver oxide and heat to yield an alkene. The alkane shows two carbons single bonded. The left carbon is bonded to a blue hydrogen. The right carbon is bonded to a blue NR2. Each carbon shows a free dash bond and wedge bond. The alkene shows two carbons double bonded. Each carbon shows two free bonds.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_010.jpg"/>
 </media>

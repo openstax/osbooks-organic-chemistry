@@ -7,7 +7,7 @@
   </metadata>
   <content>
 <para id="para-00001">As noted in <link document="m00185"/> in connection with a discussion of aromaticity, a cyclic organic compound that contains atoms of two or more elements in its ring is a called a <emphasis effect="italics">heterocycle.</emphasis> Heterocyclic amines are particularly common, and many have important biological properties. Pyridoxal phosphate, a coenzyme; sildenafil (Viagra), a well-known pharmaceutical; and heme, the oxygen carrier in blood, are a few examples.</para>
-<figure class="unnumbered" id="fig-00001">
+<figure class="unnumbered scaled-down" id="fig-00001">
 <media alt="An illustration shows the structures of 3 compounds: Pyridoxal phosphate (a coenzyme) Sildenafil (Viagra) and Heme. Pyridoxal phosphate shows a cyclohexane with alternate double bonds and a blue nitrogen cation bonded to hydrogen. The ring is bonded to a methyl group a hydroxyl group an aldehyde group and a methylene group bonded to phosphate group. Sildenafil shows benzene bonded to an ethoxide group at the top and a sulfur dioxide at the bottom. The sulfur is bonded to a blue nitrogen that is part of a cyclohexane that shows another blue nitrogen bonded to a methyl group. On the right the benzene is bonded to a cyclohexene that shows a blue nitrogen and nitrogen monohydride. The cyclohexene is double bonded to an oxygen and fused to a cyclopentene that shows two double bonds and two blue nitrogen atoms. The cyclopentene is bonded to a methyl group and a propyl group. Heme shows a central pink iron atom single bonded to two blue nitrogen atoms and dash bonded to two blue nitrogen atoms. Each nitrogen is a part of a 5-membered ring that is double bonded to a methine group that is bonded to the adjacent ring. The two bottom rings are bonded to a methyl group on one side and bonded to a chain of two methylene groups and a carboxyl group on the other side. The two top rings are bonded to a methyl group on one side and bonded to a methine group on the other side that is further double bonded to a methylene group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_001.jpg"/>
 </media>
@@ -16,7 +16,7 @@
 <section id="sect-00001">
 <title>Pyrrole and Imidazole</title>
 <para id="para-00003">Pyrrole, the simplest five-membered unsaturated heterocyclic amine, is obtained commercially by treatment of furan with ammonia over an alumina catalyst at 400 °C. Furan, the oxygen-containing analog of pyrrole, is obtained by acid-catalyzed dehydration of the five-carbon sugars found in oat hulls and corncobs.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00002">
+<figure class="unnumbered scaled-down" id="fig-00002">
 <media alt="An illustration shows a reaction in which furan reacts with blue ammonia water and Al2O3 at 400 degree C to yield pyrrole. Furan shows a cyclopentane with two double bonds; a pink oxygen is in place of C1. C2 and C3 are labeled. Pyrrole shows a cyclopentane with two double bonds; a blue nitrogen is in place of C1. C2 and C3 are labeled.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_002.jpg"/>
 </media>
@@ -34,13 +34,13 @@
 </media>
 </figure>
 <para id="para-00006">The chemistry of pyrrole is similar to that of activated benzene rings. In general, however, the heterocycles are more reactive toward electrophiles than benzene rings, and low temperatures are often necessary to control the reactions. Halogenation, nitration, sulfonation, and Friedel–Crafts acylation can all be accomplished. For example:</para>
-<figure class="unnumbered scaled-down-30" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="An illustration shows a reaction in which pyrrole reacts with pink bromine at 0 degree C to yield 2-Bromopyrrole (92%) and HBr (pink bromine). Pyrrole shows a cyclopentane with two double bonds; a blue nitrogen is in place of C1. The nitrogen shows two electrons and is bonded to a hydrogen. 2-Bromopyrrole shows a cyclopentane with two double bonds; a blue nitrogen is in place of C1. The nitrogen shows two electrons and is bonded to a hydrogen. C2 is bonded to a pink bromine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_005.jpg"/>
 </media>
 </figure>
 <para id="para-00007">Electrophilic substitutions normally occur at C2, the position next to the nitrogen, because reaction at this position leads to a more stable intermediate cation having three resonance forms, whereas reaction at C3 gives a less stable cation with only two resonance forms (<link target-id="fig-00006"/>).</para>
-<figure id="fig-00006">
+<figure class="scaled-down" id="fig-00006">
 <media alt="An illustration shows two electrophilic nitration reactions of pyrrole. The first reaction shows three intermediates (resonance forms) with 2-Nitropyrrole as end product. The second reaction shows two intermediates with 3-Nitropyrrole (not formed) as end product. Pyrrole shows a cyclopentane with two double bonds and a blue nitrogen bonded to hydrogen. The nitrogen shows two electrons. First reaction: The first resonance form shows C2 bonded to a hydrogen and a pink nitro group. An arrow from the C5-N bond points to N. The second resonance form shows C2 bonded to a hydrogen and a pink nitro group. C5 is a cation. An arrow from the double bond at C3 points to C4-C5 bond. The third resonance form shows C2 bonded to a hydrogen and a pink nitro group. C3 is a cation. An arrow from the C2-H bond points to C2-C3 bond. 2-Nitropyrrole is similar to pyrrole but C2 is bonded to a pink nitro group. Second reaction: The first resonance form shows C3 bonded to a hydrogen and a pink nitro group. C2 is a cation. The second resonance form shows C3 bonded to a hydrogen and a pink nitro group. The nitrogen is a cation. 3-Nitropyrrole is similar to pyrrole but C3 is bonded to a pink nitro group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_006.jpg"/>
 </media>
@@ -76,19 +76,19 @@
 </media>
 </figure>
 <para id="para-00013">Unlike benzene, pyridine undergoes electrophilic aromatic substitution reactions with difficulty. Halogenation can be carried out under drastic conditions, but nitration occurs in very low yield, and Friedel–Crafts reactions are not successful. Reactions usually give the 3-substituted product.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00009">
+<figure class="unnumbered scaled-down" id="fig-00009">
 <media alt="An illustration shows a reaction in which pyridine reacts with pink bromine at 300 degree C to yield 3-Bromopyridine (30%). Pyridine shows a cyclohexane ring with a nitrogen atom in place of C1. The carbons are labeled 1 to 4. The nitrogen shows two electrons. 3-Bromopyridine is similar to pyridine but C3 is bonded to pink bromine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_009.jpg"/>
 </media>
 </figure>
 <para id="para-00014">The low reactivity of pyridine toward electrophilic aromatic substitution is caused by a combination of factors. One is that acid–base complexation between the basic ring’s nitrogen atom and the incoming electrophile places a positive charge on the ring, thereby deactivating it. Equally important is that the electron density of the ring is decreased by the electron-withdrawing inductive effect of the electronegative nitrogen atom. Thus, pyridine has a substantial dipole moment (<emphasis effect="italics">μ</emphasis> = 2.26 D), with the ring carbons acting as the positive end of the dipole. Reaction of an electrophile with the positively polarized carbon atoms is therefore difficult.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00010">
+<figure class="unnumbered scaled-down" id="fig-00010">
 <media alt="An illustration shows the structure of a cyclohexane ring with a nitrogen atom in place of C1 with mu equal to 2.26D.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_010.jpg"/>
 </media>
 </figure>
 <para id="para-00015">In addition to pyridine, the six-membered diamine pyrimidine is also found commonly in biological molecules, particularly as a constituent of nucleic acids. With a p<emphasis effect="italics">K</emphasis><sub>a</sub> of 1.3, pyrimidine is substantially less basic than pyridine because of the inductive effect of the second nitrogen.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00011">
+<figure class="unnumbered scaled-down" id="fig-00011">
 <media alt="An illustration shows the structure of Pyrimidine (pKa equal to 1.3). It shows a cyclohexane ring with a nitrogen atom in place of C1 and C3. The carbons are labeled 1 to 6. Each nitrogen shows two electrons.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_011.jpg"/>
 </media>
@@ -117,13 +117,13 @@
 </media>
 </figure>
 <para id="para-00019">Indole has a nonbasic, pyrrole-like nitrogen and undergoes electrophilic substitution more easily than benzene. Substitution occurs at C3 of the electron-rich pyrrole ring rather than on the benzene ring.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00014">
+<figure class="unnumbered scaled-down" id="fig-00014">
 <media alt="An illustration shows a reaction in which indole reacts with pink bromine and dioxane at 0 degree C to yield 3-Bromoindole and HBr. Indole shows benzene fused to a cyclopentene that shows blue nitrogen bonded to hydrogen. 3-Bromoindole is similar to indole but the cyclopentene is bonded to pink bromine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_014.jpg"/>
 </media>
 </figure>
 <para id="para-00020">Purine has three basic, pyridine-like nitrogens with lone-pair electrons in <emphasis effect="italics">sp</emphasis><sup>2</sup> orbitals in the plane of the ring. The remaining purine nitrogen is nonbasic and pyrrole-like, with its lone-pair electrons as part of the aromatic <emphasis effect="italics">π</emphasis> electron system.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00015">
+<figure class="unnumbered scaled-down" id="fig-00015">
 <media alt="An illustration shows the structure and electrostatic potential map of purine. A cyclopentene is fused to benzene. Each ring shows two nitrogen atoms (at C1 C3 C7 and C9). The map shows gray balls (carbons) white balls (hydrogens) and blue balls (nitrogen atoms).">
 <image mime-type="image/jpeg" src="../../media/OChem_24_09_015.jpg"/>
 </media>

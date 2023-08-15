@@ -9,27 +9,27 @@
 <section id="sect-00001">
 <title>Electrophilic Aromatic Substitutions</title>
 <para id="para-00001">An amino group is strongly activating and ortho- and para-directing in electrophilic aromatic substitution reactions (<link document="m00192"/>). This high reactivity of amino-substituted benzenes can be a drawback at times because it’s often difficult to prevent polysubstitution. Reaction of aniline with Br<sub>2</sub>, for instance, takes place rapidly and yields the 2,4,6-tribrominated product. The amino group is so strongly activating that it’s not possible to stop at the monobromo stage.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00001">
+<figure class="unnumbered scaled-down" id="fig-00001">
 <media alt="An illustration shows a reaction in which Aniline reacts in the presence of 3 moles of bromine (pink) and water to yield 2 4 6-Tribromoaniline (100%). Aniline shows benzene bonded to blue amino group. 2 4 6-Tribromoaniline shows benzene with C1 bonded to blue amino group. C2 C4 and C6 are bonded to a pink bromine each.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_001.jpg"/>
 </media>
 </figure>
 <para id="para-00002">Another drawback to the use of amino-substituted benzenes in electrophilic aromatic substitution reactions is that Friedel–Crafts reactions are not successful (<link document="m00191"/>). The amino group forms an acid–base complex with the AlCl<sub>3</sub> catalyst, which prevents further reaction. Both drawbacks can be overcome, however, by carrying out electrophilic aromatic substitution reactions on the corresponding amide rather than on the free amine.</para>
 <para id="para-00003">As we saw in <link document="m00243"/>, treatment of an amine with acetic anhydride yields the corresponding acetyl amide, or acetamide. Although still activating and ortho-, para-directing, amido substituents (<m:math><m:mrow><m:mtext>R–N–C=O</m:mtext></m:mrow></m:math>) are less strongly activating and less basic than amino groups because their nitrogen lone-pair electrons are delocalized by the neighboring carbonyl group. As a result, bromination of an <emphasis effect="italics">N</emphasis>-arylamide occurs cleanly to give a monobromo product, and hydrolysis of the amide with aqueous base then gives the free amine. For example, <emphasis effect="italics">p</emphasis>-toluidine (4-methylaniline) can be acetylated, brominated, and hydrolyzed to yield 2-bromo-4-methylaniline. None of the 2,6-dibrominated product is obtained.</para>
-<figure class="unnumbered" id="fig-00002">
+<figure class="unnumbered scaled-down" id="fig-00002">
 <media alt="An illustration shows a reaction in which p-toluidine reacts with green (CH3CO)2O and Pyridine to yield an intermediate that reacts with pink bromine to yield a second intermediate that reacts with NaOH and H2O to yield 2-bromo-4-methylaniline (79%) and green acetate ion. p-Toluidine shows benzene with C1 bonded to blue amino group and C4 bonded to a methyl group. The first intermediate shows benzene with C1 bonded to blue nitrogen monohydride bonded to green carbonyl group bonded to green methyl group. C4 is bonded to a methyl group. The second intermediate is similar to the first intermediate but C2 is bonded to pink bromine. 2-bromo-4-methylaniline shows benzene with C1 bonded to blue amino group C2 bonded to a pink bromine C4 bonded to a methyl group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_002.jpg"/>
 </media>
 </figure>
 <para id="para-00004">Friedel–Crafts alkylations and acylations of <emphasis effect="italics">N</emphasis>-arylamides also proceed normally. For example, benzoylation of acetanilide (<emphasis effect="italics">N</emphasis>-acetylaniline) under Friedel–Crafts conditions gives 4-aminobenzophenone in 80% yield after hydrolysis.</para>
-<figure class="unnumbered" id="fig-00003">
+<figure class="unnumbered scaled-down" id="fig-00003">
 <media alt="An illustration shows a reaction in which p-aniline reacts with green (CH3CO)2O and Pyridine to yield an intermediate that reacts with C6H5COCl and AlCl3 to yield a second intermediate that reacts with NaOH and H2O to yield 4-Aminobenzophenone (80%). Aniline shows benzene with C1 bonded to blue amino group. The first intermediate shows benzene with C1 bonded to blue nitrogen monohydride bonded to green carbonyl group bonded to green methyl group. The second intermediate is similar to the first intermediate but C4 is bonded to a carbonyl group bonded to benzene. 4-Aminobenzophenone shows benzene with C4 bonded to blue amino group and C1 bonded to a carbonyl group bonded to benzene.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_003.jpg"/>
 </media>
 </figure>
 <para id="para-00005">Moderating the reactivity of an amino-substituted benzene by forming an amide is a useful trick that allows many kinds of electrophilic aromatic substitutions to be carried out that would otherwise be impossible. One example is the preparation of the sulfa drugs, such as sulfanilamide.</para>
 <para id="para-00006">Sulfa drugs were among the first pharmaceutical agents to be used clinically against bacterial infection. Although they have largely been replaced today by safer and more powerful antibiotics, sulfa drugs are credited with saving the lives of thousands of wounded during World War II and are still prescribed for urinary tract infections. They are prepared by chlorosulfonation of acetanilide, followed by reaction of <emphasis effect="italics">p</emphasis>-(<emphasis effect="italics">N</emphasis>-acetylamino)benzenesulfonyl chloride with ammonia or some other amine to give a sulfonamide. Hydrolysis of the amide then yields the sulfa drug. Note that hydrolysis of the amide can be carried out in the presence of the sulfonamide group because sulfonamides hydrolyze very slowly.</para>
-<figure class="unnumbered" id="fig-00004">
+<figure class="unnumbered scaled-down" id="fig-00004">
 <media alt="An illustration shows a reaction in which Acetanilide reacts with pink HOSO2Cl to yield an intermediate that reacts with blue ammonia to yield a second intermediate that reacts with NaOH and H2O to yield Sulfanilamide (a sulfa drug). Acetanilide shows a methyl group bonded to a carbonyl group bonded to a blue nitrogen monohydride bonded to benzene. The first intermediate is similar to the Acetanilide but benzene is further bonded to pink sulfur single bonded to chlorine and double bonded to two oxygen atoms. The second intermediate is similar to the first intermediate but the chlorine is replaced by a blue amino group. Sulfanilamide shows benzene with C1 bonded to blue amino group and C4 bonded to a pink sulfur single bonded to a blue amino group and double bonded to two oxygen atoms.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_004.jpg"/>
 </media>
@@ -82,13 +82,13 @@
 </media>
 </figure>
 <para id="para-00015">Reduction of a diazonium salt to give an arene occurs on treatment with hypophosphorous acid, H<sub>3</sub>PO<sub>2</sub>. This reaction is used primarily when there is a need for temporarily introducing an amino substituent onto a ring to take advantage of its directing effect. Suppose, for instance, that you needed to make 3,5-dibromotoluene. This product can’t be made by direct bromination of toluene because reaction would occur at positions 2 and 4. Starting with <emphasis effect="italics">p</emphasis>-methylaniline (<emphasis effect="italics">p</emphasis>-toluidine), however, dibromination occurs ortho to the strongly directing amino substituent, and diazotization followed by treatment with H<sub>3</sub>PO<sub>2</sub> to remove the amino group yields the desired product.</para>
-<figure class="unnumbered" id="fig-00010">
+<figure class="unnumbered scaled-down" id="fig-00010">
 <media alt="An illustration shows two reactions. In the first reaction p-Methylaniline reacts with 2 moles of pink bromine to yield an intermediate that reacts with blue HNO2 and sulfuric acid to yield a second intermediate that reacts with pink hypophosphorous acid to yield 3 5-Dibromotoluene. p-Methylaniline shows benzene with C1 bonded to a blue amino group and C4 bonded to a methyl group. The first intermediate shows benzene with C1 bonded to a methyl group C3 and C5 bonded to a pink bromine each and C4 bonded to a blue amino group. The second intermediate is similar to the first intermediate but C4 is bonded to a blue nitrogen cation triple bonded to another nitrogen bonded to HSO4 minus. 3 5-Dibromotoluene shows benzene with C1 bonded to a methyl group C3 and C5 bonded to a pink bromine each. In the second reaction toluene reacts with 2 moles of bromine and FeBr3 to yield 2 4-Dibromotoluene. Toluene shows benzene bonded to a methyl group. 2 4-Dibromotoluene shows benzene with C1 bonded to a methyl group C2 and C4 bonded to a pink bromine each.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_011.jpg"/>
 </media>
 </figure>
 <para id="para-00016">Mechanistically, these diazonio replacement reactions occur through radical rather than polar pathways. In the presence of a copper(I) compound, for instance, it’s thought that the arenediazonium ion is first converted to an aryl radical plus copper(II), followed by subsequent reaction to give product plus regenerated copper(I) catalyst.</para>
-<figure class="unnumbered" id="fig-00011">
+<figure class="unnumbered scaled-down" id="fig-00011">
 <media alt="An illustration shows a reaction in which a Diazonium compound reacts with pink CuX to yield an aryl radical Cu(HSO4)X and blue nitrogen. The final products are CuHSO4 and a benzene bonded to pink X. The diazonium compound shows benzene bonded to blue N2 plus bonded to HSO4 minus.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_012.jpg"/>
 </media>
@@ -96,7 +96,7 @@
 <example id="exam-00001">
 <title>Using Diazonium Replacement Reactions</title>
 <para id="para-00017">How would you prepare <emphasis effect="italics">m</emphasis>-hydroxyacetophenone from benzene, using a diazonium replacement reaction in your scheme?</para>
-<figure class="unnumbered scaled-down-30" id="fig-00012">
+<figure class="unnumbered scaled-down" id="fig-00012">
 <media alt="An illustration shows the structure of m-Hydroxyacetophenone. It shows a benzene with C1 bonded to a carbonyl group bonded to a methyl group. C3 is bonded to a hydroxyl group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_08_013.jpg"/>
 </media>
