@@ -10,7 +10,7 @@
     <para id="para-00002">Biot made the remarkable observation that when a beam of plane-polarized light passes through a solution of certain organic molecules, such as sugar or camphor, the plane of polarization is rotated through an angle, <emphasis effect="italics">α</emphasis>. Not all organic substances exhibit this property, but those that do are said to be <term id="term-00001">optically active</term>.</para>
     <para id="para-00003">The angle of rotation can be measured with an instrument called a polarimeter, represented in <link target-id="fig-00001"/>. A solution of optically active organic molecules is placed in a sample tube, plane-polarized light is passed through the tube, and rotation of the polarization plane occurs. The light then goes through a second polarizer called the analyzer. By rotating the analyzer until the light passes through <emphasis effect="italics">it</emphasis>, we can find the new plane of polarization and can tell to what extent rotation has occurred.</para>
     <figure class="scaled-down" id="fig-00001">
-    <media alt="An illustration shows unpolarized light passing through polarimeter. A sample tube containing organic molecules is shown. At one end a light source (bulb) is placed. Light passes through a circular disc (polarizer) that has a vertical orientation. At the other end a circular analyzer is placed through which the light reaches the observer’s eye. The analyzer has a horizontal orientation. The angle of rotation is alpha.">
+    <media alt="Schematic representation of a polarimeter. Unpolarized light from light source passes through polarizer, followed by polarized light, sample tube containing organic molecules, analyzer, and observer.">
     <image mime-type="image/jpeg" src="../../media/OChem_05_03_001.jpg"/>
     </media>
     <caption><emphasis effect="bold">Schematic representation of a polarimeter.</emphasis> Plane-polarized light passes through a solution of optically active molecules, which rotate the plane of polarization.</caption>
@@ -65,7 +65,7 @@
     <title>Calculating an Optical Rotation</title>
     <para id="para-00009">A 1.20 g sample of cocaine, [<emphasis effect="italics">α</emphasis>]<sub>D</sub>&#8201;=&#8201;−16, was dissolved in 7.50 mL of chloroform and placed in a sample tube having a pathlength of 5.00 cm. What was the observed rotation?</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows the structural formula of Cocaine. The structure shows a cycloheptane with two carbon atoms bonded to a nitrogen that is bonded to a methyl group. The cycloheptane is bonded to a methyl acetate group and an oxygen. The oxygen is bonded to a carbonyl group that is bonded to a benzene ring at the bottom.">
+    <media alt="The structure of cocaine.">
     <image mime-type="image/jpeg" src="../../media/OChem_05_03_002.jpg"/>
     </media>
     </figure>
