@@ -26,7 +26,7 @@
 <section id="sect-00001">
 <title>Steps <span class="magenta-text">1</span>, <span class="magenta-text">2</span> of <link target-id="fig-00004"/>: Epoxide Opening and Initial Cyclizations</title>
 <para id="para-00004">Cyclization begins in step <emphasis effect="bold"><span class="magenta-text">1</span></emphasis> with protonation of the epoxide ring by an aspartic acid residue in the enzyme. Nucleophilic opening of the protonated epoxide by the nearby 5,10 double bond (steroid numbering; <link document="m00270"/>) then yields a tertiary carbocation at C10. Further addition of C10 to the 8,9 double bond in step <emphasis effect="bold"><span class="magenta-text">2</span></emphasis> next gives a bicyclic tertiary cation at C8.</para>
-<figure class="unnumbered" id="fig-00003">
+<figure class="unnumbered scaled-down" id="fig-00003">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_003.jpg"/>
 </media>
@@ -35,20 +35,20 @@
 <section id="sect-00002">
 <title>Step <span class="magenta-text">3</span> of <link target-id="fig-00004"/>: Third Cyclization</title>
 <para id="para-00005">The third cationic cyclization is somewhat unusual because it occurs with non-Markovnikov regiochemistry and gives a secondary cation at C13 rather than the alternative tertiary cation at C14. There is growing evidence, however, that the tertiary carbocation may in fact be formed initially and that the secondary cation arises by subsequent rearrangement. The secondary cation is probably stabilized in the enzyme pocket by the proximity of an electron-rich aromatic ring.</para>
-<figure class="mechanism-figure" id="fig-00004">
+<figure class="mechanism-figure scaled-down" id="fig-00004">
 <title>MECHANISM</title>
 <media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_004.jpg"/>
 </media>
 <caption><emphasis effect="bold">Mechanism of the conversion of 2,3-oxidosqualene to lanosterol.</emphasis> Four cationic cyclizations are followed by four rearrangements and a final loss of H<sup>+</sup> from C9. The steroid numbering system is used for referring to specific positions in the intermediates (<link document="m00270"/>). Individual steps are explained in the text.</caption>
 </figure>
-<figure class="mechanism-figure" id="fig-00005">
+<figure class="mechanism-figure scaled-down" id="fig-00005">
 <media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_005.jpg"/>
 </media>
 <caption><emphasis effect="bold">(Continued)</emphasis></caption>
 </figure>
-<figure class="unnumbered" id="fig-00006">
+<figure class="unnumbered scaled-down" id="fig-00006">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_006.jpg"/>
 </media>
@@ -91,7 +91,7 @@
 <title>Saturated Fats, Cholesterol, and Heart Disease</title>
 <para id="para-00010">We hear a lot these days about the relationship between saturated fats, cholesterol, and heart disease. What are the facts? It’s well established that a diet rich in saturated animal fats often leads to an increase in blood serum cholesterol, particularly in sedentary, overweight individuals. Conversely, a diet lower in saturated fats and higher in polyunsaturated fats leads to a lower serum cholesterol level. Studies have shown that a serum cholesterol level greater than 240 mg/dL (a desirable value is &lt; 200 mg/dL) is correlated with an increased incidence of coronary artery disease, in which cholesterol deposits build up on the inner walls of coronary arteries, blocking the flow of blood to the heart muscles.</para>
 <para id="para-00011">A better indication of a person’s risk of heart disease comes from a measurement of blood lipoprotein levels. <term id="term-00001">Lipoproteins</term> are complex molecules with both lipid and protein components that transport lipids through the body. They can be divided into three types according to density, as shown in <link target-id="table-00001"/>. Very-low-density lipoproteins (VLDLs) act primarily as carriers of triglycerides from the intestines to peripheral tissues, whereas low-density lipoproteins (LDLs) and high-density lipoproteins (HDLs) act as carriers of cholesterol to and from the liver.</para>
-<figure class="scaled-down-30" id="fig-00010">
+<figure class="scaled-down" id="fig-00010">
 <media alt="Photo of a variety of meats being cooked on a grill.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_98_GrillMeat.jpg"/>
 </media>

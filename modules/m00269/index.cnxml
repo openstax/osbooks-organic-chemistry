@@ -42,7 +42,7 @@
 </media>
 <caption><emphasis effect="bold">The mevalonate pathway for the biosynthesis of isopentenyl diphosphate from three molecules of acetyl CoA.</emphasis> Individual steps are explained in the text.</caption>
 </figure>
-<figure class="unnumbered" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_005.jpg"/>
 </media>
@@ -51,7 +51,7 @@
 <section id="sect-00004">
 <title>Step <span class="magenta-text">3</span> of <link target-id="fig-00004"/>: Reduction</title>
 <para id="para-00007">Reduction of HMG-CoA to give (<emphasis effect="italics">R</emphasis>)-mevalonate is catalyzed by 3-hydroxy-3-methylglutaryl-CoA reductase and requires 2 equivalents of reduced nicotinamide adenine dinucleotide phosphate (NADPH), a close relative of NADH (<link document="m00223"/>). The reaction occurs in two steps and proceeds through an aldehyde intermediate. The first step is a nucleophilic acyl substitution reaction involving hydride transfer from NADPH to the thioester carbonyl group of HMG-CoA. Following expulsion of HSCoA as leaving group, the aldehyde intermediate undergoes a second hydride addition to give mevalonate.</para>
-<figure class="unnumbered" id="fig-00006">
+<figure class="unnumbered scaled-down" id="fig-00006">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_006.jpg"/>
 </media>
@@ -86,7 +86,7 @@
 <title>Conversion of Isopentenyl Diphosphate to Terpenoids</title>
 <para id="para-00012">The conversion of isopentenyl diphosphate (IPP) to terpenoids begins with its isomerization to dimethylallyl diphosphate, abbreviated DMAPP and formerly called dimethylallyl pyrophosphate. These two C<sub>5</sub> building blocks then combine to give the C<sub>10</sub> unit geranyl diphosphate (GPP). The corresponding alcohol, geraniol, is itself a fragrant terpenoid that occurs in rose oil.</para>
 <para id="para-00013">Further combination of GPP with another IPP gives the C<sub>15</sub> unit farnesyl diphosphate (FPP), and so on, up to C<sub>25</sub>. Terpenoids with more than 25 carbons—that is, triterpenoids (C<sub>30</sub>) and tetraterpenoids (C<sub>40</sub>)—are synthesized by dimerization of C<sub>15</sub> and C<sub>20</sub> units, respectively (<link target-id="fig-00009"/>). Triterpenoids and steroids, in particular, arise from dimerization of farnesyl diphosphate to give squalene.</para>
-<figure id="fig-00009">
+<figure class="scaled-down" id="fig-00009">
 <media alt="An overview of terpenoid biosynthesis from isopentenyl diphosphate.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_010.jpg"/>
 </media>
@@ -116,14 +116,14 @@
 <example id="exam-00001">
 <title>Proposing a Terpenoid Biosynthesis Pathway</title>
 <para id="para-00018">Propose a mechanistic pathway for the biosynthesis of <emphasis effect="italics">α</emphasis>-terpineol from geranyl diphosphate.</para>
-<figure class="unnumbered scaled-down-30" id="fig-00013">
+<figure class="unnumbered scaled-down" id="fig-00013">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_014.jpg"/>
 </media>
 </figure>
 <para id="para-00019"><title><span class="red-text">Strategy</span></title> <emphasis effect="italics">α</emphasis>-Terpineol, a monoterpenoid, must be derived biologically from geranyl diphosphate through its isomer linalyl diphosphate. Draw the precursor in a conformation that approximates the structure of the target molecule, and then carry out a cationic cyclization, using the appropriate double bond to displace the diphosphate leaving group. Since the target is an alcohol, the carbocation resulting from cyclization evidently reacts with water.</para>
 <para id="para-00020"><title><span class="cyan-text">Solution</span></title></para>
-<figure class="unnumbered" id="fig-00014">
+<figure class="unnumbered scaled-down" id="fig-00014">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_015.jpg"/>
 </media>
