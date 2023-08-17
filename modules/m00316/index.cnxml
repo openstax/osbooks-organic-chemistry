@@ -14,7 +14,7 @@
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_001.jpg"/>
 </media>
 </figure>
-<figure class="unnumbered" id="fig-00002">
+<figure class="unnumbered scaled-down" id="fig-00002">
 <media alt="An illustration shows the second step of DNA synthesis. A deoxynucleoside shows DMT highlighted in green bonded to the 5-prime carbon via an oxygen highlighted in pink; the 3-prime carbon is bonded via an oxygen highlighted in pink to a carbon bonded to silica and double-bonded to an oxygen. A base is bonded via a ring nitrogen highlighted in blue to the first carbon of deoxyribose. The protected nucleoside reacts with dichloroacetic acid and dichloromethane to remove DMT; the fifth carbon of the sugar is now bonded to a hydroxyl group highlighted in pink and two hydrogen atoms.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_002.jpg"/>
 </media>
@@ -26,13 +26,13 @@
 </media>
 </figure>
 <para id="para-00005"><emphasis effect="bold"><span class="red-text">STEP 3</span></emphasis><newline/>The third step is the coupling of the polymer-bonded deoxynucleoside with a protected deoxynucleoside containing a <emphasis effect="italics">phosphoramidite</emphasis> group [R<sub>2</sub>NP(OR)<sub>2</sub>] at its 3′ position. The coupling reaction takes place in the polar aprotic solvent acetonitrile, requires catalysis by the heterocyclic amine tetrazole, and yields a <emphasis effect="italics">phosphite,</emphasis> P(OR)<sub>3</sub>, as product. Note that one of the phosphorus oxygen atoms is protected by a <emphasis effect="italics">β</emphasis>-cyanoethyl group, <m:math><m:mrow><m:mo>–</m:mo><m:msub><m:mrow><m:mtext>OCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C≡N</m:mtext></m:mrow></m:math>. The coupling step takes place with better than 99% yield.</para>
-<figure class="unnumbered" id="fig-00004">
+<figure class="unnumbered scaled-down" id="fig-00004">
 <media alt="An illustration shows the third step of DNA synthesis where two nucleosides couple in the presence pf tetrazole to form a phosphite. One deoxynucleoside shows a hydroxyl group highlighted in pink bonded to the 5-prime carbon and the 3-prime carbon bonded via an oxygen highlighted in pink to a carbon bonded to silica and double-bonded to an oxygen. The other nucleoside shows a phosphoramidite group bonded via an oxygen highlighted in pink at its 3-prime position and DMT bonded via an oxygen highlighted in pink at its 5-prime position. The phosphoramidite group consists of a phosphorus bonded to an oxygen bonded to a beta-cyanoethyl group and to a diisopropylamino group. In both deoxynucleosides the base is bonded via a ring nitrogen highlighted in blue to the first carbon of deoxyribose. The product shows one nucleoside bonded via its phosphoramidite group; the diisopropylamino group is replaced by a bond to the fifth carbon of the other nucleoside via an oxygen highlighted in pink. Tetrazole shows a 5-membered ring of four nitrogen atoms and one carbon atom and two double bonds between N2 and N3 and N4 and C5.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_004.jpg"/>
 </media>
 </figure>
 <para id="para-00006"><emphasis effect="bold"><span class="red-text">STEP 4</span></emphasis><newline/>With the coupling accomplished, the phosphite product is oxidized to a phosphate by treatment with iodine in aqueous tetrahydrofuran in the presence of 2,6-dimethylpyridine. The cycle of (<emphasis effect="bold"><span class="red-text">1</span></emphasis>) deprotection, (<emphasis effect="bold"><span class="red-text">2</span></emphasis>) coupling, and (<emphasis effect="bold"><span class="red-text">3</span></emphasis>) oxidation is then repeated until an oligonucleotide chain of the desired sequence has been constructed.</para>
-<figure class="unnumbered" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="An illustration shows the fourth step of DNA synthesis where a phosphite product of polymer-bonded to the 3-prime position of a deoxynucleoside and a deoxynucleoside protected at its 5-prime position by a DMT and a beta-cyanoethyl group reacts with iodine in aqueous tetrahydrofuran in the presence of 2 6-Dimethylpryidine. In both deoxynucleosides the base is bonded via a ring nitrogen highlighted in blue to the first carbon of deoxyribose. The phosphite is oxidized to form a phosphate product where the phosphorus is now also double-bonded to an oxygen.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_005.jpg"/>
 </media>

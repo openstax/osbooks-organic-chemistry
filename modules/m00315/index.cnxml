@@ -23,7 +23,7 @@
 </figure>
 <para id="para-00005">DNA polymerase is added to the mixture, and a strand of DNA complementary to the restriction fragment begins to grow from the end of the primer. Most of the time, only normal deoxyribonucleotides are incorporated into the growing chain because of their much higher concentration in the mixture, but every so often, a dideoxyribonucleotide is incorporated. When that happens, DNA synthesis stops because the chain end no longer has a 3′-hydroxyl group for adding further nucleotides.</para>
 <para id="para-00006">When reaction is complete, the product consists of a mixture of DNA fragments of all possible lengths, each terminated by one of the four dye-labeled dideoxyribonucleotides. This product mixture is then separated according to the size of the pieces by gel electrophoresis (<link document="m00319"/>), and the identity of the terminal dideoxyribonucleotide in each piece—and thus the sequence of the restriction fragment—is determined by noting the color with which the attached dye fluoresces. <link target-id="fig-00002"/> shows a typical result.</para>
-<figure id="fig-00002">
+<figure class="scaled-down" id="fig-00002">
 <media alt="An illustration shows a sequencing chromatogram of a restriction fragment subject to the Sanger dideoxy method. The signal intensities are presented with the four bases; where adenine guanine thymine and cytosine are identified by green black red and blue. The peaks are of varying heights. The horizontal axis represents the size of the DNA sequence size in base pairs and vertical axis represents the fluorescence intensity in relative fluorescence units.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_06_002.jpg"/>
 </media>
