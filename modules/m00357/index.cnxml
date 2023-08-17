@@ -8,7 +8,7 @@
 <content>
 <para id="para-00001">Polymers aren’t really that different from other organic molecules. They’re much larger, of course, but their chemistry is similar to that of analogous small molecules. Thus, the alkane chains of polyethylene undergo radical-initiated halogenation, the aromatic rings of polystyrene undergo typical electrophilic aromatic substitution reactions, and the amide linkages of nylon are hydrolyzed by aqueous base.</para>
 <para id="para-00002">The major difference between small and large organic molecules is in their physical properties. For instance, their large size means that polymers experience substantially greater van der Waals forces than do small molecules (<link document="m00029"/>). But because van der Waals forces operate only at close distances, they are strongest in polymers like high-density polyethylene, in which chains can pack together closely in a regular way. Many polymers, in fact, have regions that are essentially crystalline. These regions, called <term id="term-00001">crystallites</term>, consist of highly ordered portions in which the zigzag polymer chains are held together by van der Waals forces (<link target-id="fig-00001"/>).</para>
-<figure id="fig-00001" class="scaled-down-30">
+<figure id="fig-00001" class="scaled-down">
 <media alt="An illustration shows a polymer with three crystallites highlighted by pink dotted ellipses. Each crystallite shows zigzag polymer chains arranged in parallel lines.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_06_001.jpg"/>
 </media>
@@ -17,14 +17,14 @@
 <para id="para-00003">As you might expect, polymer crystallinity is strongly affected by the steric requirements of substituent groups on the chains. Linear polyethylene is highly crystalline, but poly(methyl methacrylate) is noncrystalline because the chains can’t pack closely together in a regular way. Polymers with a high degree of crystallinity are generally hard and durable. When heated, the crystalline regions melt at the <term id="term-00002">melt transition temperature, <emphasis effect="italics">T</emphasis><sub>m</sub></term>, to give an amorphous material.</para>
 <para id="para-00004">Noncrystalline, amorphous polymers like poly(methyl methacrylate), sold under the trade name Plexiglas, have little or no long-range ordering among chains but can nevertheless be very hard at room temperature. When heated, the hard amorphous polymer becomes soft and flexible at a point called the <term id="term-00003">glass transition temperature, <emphasis effect="italics">T</emphasis><sub>g</sub></term>. Much of the art in polymer synthesis lies in finding methods for controlling the degree of crystallinity and the glass transition temperature, thereby imparting useful properties to the polymer.</para>
 <para id="para-00005">In general, polymers can be divided into four major categories, depending on their physical behavior: <emphasis effect="italics">thermoplastics, fibers, elastomers,</emphasis> and <emphasis effect="italics">thermosetting resins</emphasis>. <term id="term-00004">Thermoplastics</term> are the polymers most people think of when the word <emphasis effect="italics">plastic</emphasis> is mentioned. These polymers have a high glass transition temperature and are therefore hard at room temperature but become soft and viscous when heated. As a result, they can be molded into toys, beads, telephone housings, or any of a thousand other items. Because thermoplastics have little or no cross-linking, the individual chains can slip past one another in the melt. Some thermoplastic polymers, such as poly(methyl methacrylate) and polystyrene, are amorphous and noncrystalline; others, such as polyethylene and nylon, are partially crystalline. Among the better-known thermoplastics is poly(ethylene terephthalate), or PET, used for making plastic soft-drink bottles.</para>
-<figure id="fig-00002" class="unnumbered scaled-down-30">
+<figure id="fig-00002" class="unnumbered scaled-down">
 <media alt="An illustration shows the structure of Poly(ethylene terephthalate) inside parentheses with subscript n. It shows a green oxygen with a free bond bonded to a chain of two methylene groups and then a green oxygen. The green oxygen is bonded to a carbonyl group that is bonded to benzene bonded to a carbonyl group that is bonded to a green oxygen that shows free bond. The carbonyl oxygen atoms are pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_06_002.jpg"/>
 </media>
 </figure>
 <para id="para-00006"><term id="term-00005">Plasticizers</term>—small organic molecules that act as lubricants between chains—are usually added to thermoplastics to keep them from becoming brittle at room temperature. An example is poly(vinyl chloride), which is brittle when pure but becomes supple and pliable when a plasticizer is added. In fact, most drip bags used in hospitals to deliver intravenous saline solutions are made of poly(vinyl chloride), although replacements such as polypropylene are appearing.</para>
 <para id="para-00007">Dialkyl phthalates such as di(2-ethylhexyl) phthalate (generally called dioctyl phthalate) are commonly used as plasticizers, although questions about their safety have been raised. The U.S. Food and Drug Administration (FDA) has advised the use of alternative materials in compromised patients and infants but has found no evidence of toxicity for healthy individuals. In addition, children’s toys that contain phthalates have been banned in the United States.</para>
-<figure id="fig-00003" class="unnumbered scaled-down-30">
+<figure id="fig-00003" class="unnumbered scaled-down">
 <media alt="An illustration shows the structure of Di(2-ethylhexyl) phthalate (or dioctyl phthalate) a plasticizer. It shows benzene with C1 and C2 bonded to a carbonyl group each. Each carbonyl group is bonded to an oxygen bonded to a 6-carbon chain. C2 of the chain is bonded to an ethyl group. The carbonyl oxygen is shown in pink.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_06_003.jpg"/>
 </media>
@@ -44,7 +44,7 @@
 <caption><emphasis effect="bold">Unstretched and stretched forms of an elastomer.</emphasis></caption>
 </figure>
 <para id="para-00010">Natural rubber (<link document="m00176"/>) is the most common example of an elastomer. Rubber has the long chains and occasional cross-links needed for elasticity, but its irregular geometry prevents close packing of the chains into crystallites. Gutta-percha, by contrast, is highly crystalline and is not an elastomer (<link target-id="fig-00006"/>).</para>
-<figure id="fig-00006" class="scaled-down-30">
+<figure id="fig-00006" class="scaled-down">
 <media alt="An illustration shows two parts a and b. Part a shows the line-angle formula of Natural rubber. An 18-carbon bent chain is shown with cis double bonds at C3 C7 C11 and C15. C3 C7 C11 and C15 are bonded to a methyl group each. C1 and C18 show bond extension represented by a free bond with a pink wavy line. Part b shows the line-angle formula of gutta-percha. An 18-carbon straight chain is shown with double bonds at C3 C7 C11 and C15. C3 C7 C11 and C15 are bonded to a methyl group each. C1 and C18 show bond extension represented by a free bond with a pink wavy line.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_06_006.jpg"/>
 </media>
@@ -73,7 +73,7 @@
 <section class="chemistry-matters" id="sect-00002">
 <title>Degradable Polymers</title>
 <para id="para-00015">The high chemical stability of many polymers is both a blessing and a curse. Heat resistance, wear resistance, and long life are valuable characteristics of clothing fibers, bicycle helmets, underground pipes, food wrappers, and many other items. Yet when these items outlive their usefulness, disposal becomes a problem.</para>
-<figure id="fig-00008">
+<figure id="fig-00008" class="scaled-down">
 <media alt="A tractor works atop a large pile of garbage at a landfill.">
 <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_31_98_Landfill.jpg"/></media>
 <!--Ochem_31_98_Landfill.jpg-->
