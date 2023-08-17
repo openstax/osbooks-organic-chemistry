@@ -17,14 +17,14 @@
 <item>Very small amounts of the four 2′,3′-dideoxyribonucleoside triphosphates (ddNTPs), each of which is labeled with a fluorescent dye of a different color (A 2′,3′-<emphasis effect="italics">dideoxy</emphasis>ribonucleoside triphosphate is one in which both 2′ and 3′ –OH groups are missing from ribose.)</item>
 </list>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="An illustration shows the structures of A 2 -deoxyribonucleoside triphosphate (dNTP) and A 2 3 -dideoxyribonucleoside triphosphate (ddNTP). In dNTP the fifth carbon of 2 prime-deoxyribose a pentose sugar is bonded to three phosphate groups highlighted in green and the first carbon is bonded to a nitrogen on the base. The axial hydroxyl group on the third carbon is highlighted in pink. ddNTP shows a pentose sugar with its fifth carbon bonded to three phosphate groups and the first carbon is bonded to a nitrogen on a base that is linked to a dye.">
+<media alt="Structure of 2 prime deoxyribonucleoside triphosphate contains a hydroxyl group at C 3 in deoxyribose sugar whereas 2 prime, 3 prime dideoxyribonucleoside triphosphate contains a dye bonded to the base.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_06_001.jpg"/>
 </media>
 </figure>
 <para id="para-00005">DNA polymerase is added to the mixture, and a strand of DNA complementary to the restriction fragment begins to grow from the end of the primer. Most of the time, only normal deoxyribonucleotides are incorporated into the growing chain because of their much higher concentration in the mixture, but every so often, a dideoxyribonucleotide is incorporated. When that happens, DNA synthesis stops because the chain end no longer has a 3′-hydroxyl group for adding further nucleotides.</para>
 <para id="para-00006">When reaction is complete, the product consists of a mixture of DNA fragments of all possible lengths, each terminated by one of the four dye-labeled dideoxyribonucleotides. This product mixture is then separated according to the size of the pieces by gel electrophoresis (<link document="m00319"/>), and the identity of the terminal dideoxyribonucleotide in each piece—and thus the sequence of the restriction fragment—is determined by noting the color with which the attached dye fluoresces. <link target-id="fig-00002"/> shows a typical result.</para>
 <figure class="scaled-down" id="fig-00002">
-<media alt="An illustration shows a sequencing chromatogram of a restriction fragment subject to the Sanger dideoxy method. The signal intensities are presented with the four bases; where adenine guanine thymine and cytosine are identified by green black red and blue. The peaks are of varying heights. The horizontal axis represents the size of the DNA sequence size in base pairs and vertical axis represents the fluorescence intensity in relative fluorescence units.">
+<media alt="The graph denotes D N A sequence size in base pairs versus the fluorescence intensity. The four-color chromatogram of D N A sequencing is evaluated by the Sanger dideoxy method.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_06_002.jpg"/>
 </media>
 <caption><emphasis effect="bold">The sequence of a restriction fragment determined by the Sanger dideoxy method can be read simply by noting the colors of the dye attached to each of the various terminal nucleotides.</emphasis></caption>
