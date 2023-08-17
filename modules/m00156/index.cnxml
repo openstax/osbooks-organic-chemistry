@@ -34,7 +34,7 @@
     <para id="para-00006">Like NMR spectroscopy, MRI takes advantage of the magnetic properties of certain nuclei, typically hydrogen, and of the signals emitted when those nuclei are stimulated by radiofrequency energy. Unlike what happens in NMR spectroscopy, though, MRI instruments use data manipulation techniques to look at the three-dimensional <emphasis effect="italics">location</emphasis> of magnetic nuclei in the body rather than at the chemical nature of the nuclei. As noted, most MRI instruments currently look at hydrogen, present in abundance wherever there is water or fat in the body.</para>
     <para id="para-00007">The signals detected by MRI vary with the density of hydrogen atoms and with the nature of their surroundings, allowing identification of different types of tissue and even allowing the visualization of motion. For example, the volume of blood leaving the heart in a single stroke can be measured, and heart motion can be observed. Soft tissues that don’t show up well on X-ray images can be seen clearly, allowing diagnosis of brain tumors, strokes, and other conditions. This technique is also valuable in diagnosing damage to knees or other joints and is a noninvasive alternative to surgical explorations.</para>
     <para id="para-00008">Several types of atoms in addition to hydrogen can be detected by MRI, and the applications of images based on <sup>31</sup>P atoms are being explored. This approach holds great promise for studies of metabolism.</para>
-    <figure class="scaled-down-30" id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <media alt="An MRI of a knee">
     <image mime-type="image/jpeg" src="../../media/OChem_13_98_KneeMRI.jpg"/>
     </media>
