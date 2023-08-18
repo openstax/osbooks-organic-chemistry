@@ -17,19 +17,19 @@
     <title>Predicting the Product and Mechanism of Reactions</title>
     <para id="para-00005">Tell whether each of the following reactions is likely to be S<sub>N</sub>1, S<sub>N</sub>2, E1, E1cB, or E2, and predict the product of each:</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="Alt Text Placeholder">
+    <media alt="A reaction of chloropentane with sodium methoxide and methanol yields an unknown product, depicted by a question mark. A reaction of 1-bromoethylbenzene in the presence of formic acid and water yields an unknown product, depicted by a question mark.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_12_001.jpg"/></media>
     </figure>
     <para id="para-00006"><title><span class="red-text">Strategy</span></title> Look carefully in each reaction at the structure of the substrate, the leaving group, the nucleophile, and the solvent. Then decide from the preceding summary which kind of reaction is likely to be favored.</para>
     <para id="para-00007"><title><span class="cyan-text">Solution</span></title></para>
     <para id="para-00008"><emphasis effect="bold">(a)</emphasis> A secondary, nonallylic substrate can undergo an S<sub>N</sub>2 reaction with a good nucleophile in a polar aprotic solvent but will undergo an E2 reaction on treatment with a strong base in a protic solvent. In this case, E2 reaction is likely to predominate.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows E2 reaction of a chloropentane with sodium methoxide and methanol to yield a cyclopentene.">
+    <media alt="The E2 reaction of chloropentane with sodium methoxide and methanol to form cyclopentene.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_12_002.jpg"/></media>
     </figure>
     <para id="para-00009"><emphasis effect="bold">(b)</emphasis> A secondary benzylic substrate can undergo an S<sub>N</sub>2 reaction on treatment with a nonbasic nucleophile in a polar aprotic solvent and will undergo an E2 reaction on treatment with a base. Under protic conditions, such as aqueous formic acid (HCO<sub>2</sub>H), an S<sub>N</sub>1 reaction is likely, along with some E1 reaction.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="An illustration shows the reaction of a bromoalkane in the presence of formic acid and water to yield two products. The bromoalkane shows a benzene bonded to a methine group that is bonded to a bromine and methyl group. The product of SN1 reaction is a benzene bonded to a methine group that is bonded to a methyl group and an oxygen bonded to aldehyde group. The product of E1 reaction is a benzene bonded to a 2-carbon chain with a double bond.">
+    <media alt="1-bromoethylbenzene reacts in the presence of formic acid and water. The two products come from S N 1 (formate replaces bromine) and E1 (product is styrene).">
     <image mime-type="image/jpeg" src="../../media/OChem_11_12_003.jpg"/></media>
     </figure>
     </example>
@@ -62,7 +62,7 @@
   </list>
     <para id="para-00025">The foregoing 12 principles may not all be met in most real-world applications, but they provide a worthy goal and they can make chemists think more carefully about the environmental implications of their work. Real success stories have occurred, and more are in progress. Approximately 7 million pounds per year of ibuprofen (6 billion tablets!) are now made by a “green” process that produces approximately 99% less waste than the process it replaces. Only three steps are needed, the anhydrous HF solvent used in the first step is recovered and reused, and the second and third steps are catalytic.</para>
     <figure class="unnumbered" id="fig-00005">
-    <media alt="An illustration shows the reaction of isobutylbenzene in the presence of acetate and HF to yield an intermediate that reacts in the presence of hydrogen and Ni catalyst to yield another intermediate that reacts in the presence of CO and Pd catalyst to yield ibuprofen. Isobutylbenzene shows a benzene bonded to an isobutyl group at the bottom. The first intermediate is similar to the reactant but the ring is bonded to a carbonyl group bonded to a methyl group at the top. The second intermediate is similar to the reactant but the ring is bonded to a carbon at the top that is bonded to a methyl group and hydroxyl group. Ibuprofen is similar to the reactant but the ring is bonded to a carbon at the top that is bonded to a methyl group and carboxyl group.">
+    <media alt="A reaction shows the production of ibuprofen from isobutylbenzene and acetic anhydride with H F through the formation of two intermediates.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_12_006.jpg"/></media>
     </figure>
     </section>
@@ -103,7 +103,7 @@
     <para id="para-00031">In the E1cB reaction, C–H bond-breaking occurs first. A base abstracts a proton to give a carbanion, followed by loss of the leaving group from the adjacent carbon in a second step. The reaction is favored when the leaving group is two carbons removed from a carbonyl, which stabilizes the intermediate anion by resonance. Biological elimination reactions typically occur by this E1cB mechanism.</para>
     <para id="para-00032">In general, substrates react in the following way:</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="Alt Text Placeholder">
+    <media alt="Schematic of alkyl halide reactions. Primary substrates undergo S N 2, secondary undergo S N 2 (E 2 with strong bases), and tertiary undergo E2 unless nonbasic solvent.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_EC_001.jpg"/></media>
     </figure>
     </section>
@@ -114,12 +114,12 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
     <item>S<sub>N</sub>1 reaction of 3°, allylic, and benzylic halides (<link document="m00125"/> and <link document="m00126"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00007">
-    <media alt="An illustration shows the reaction of tertiary halide to yield an intermediate that reacts with nucleophile to yield halide ion and another product. The reactant shows a central carbon bonded to three R and an X. The intermediate shows a carbocation bonded to three R. The nucleophile shows a negative charge and two electrons. The product shows a central carbon bonded to three R and Nu. The halide ion shows two electrons.">
+    <media alt="The S N 1 reaction of tertiary halide forms a carbocation intermediate, which further reacts with a nucleophile to yield a halide ion and a substitution product.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_EC_002.jpg"/></media>
     </figure></item>
     <item>S<sub>N</sub>2 reaction of 1° and simple 2° halides (<link document="m00123"/> and <link document="m00124"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00008">
-    <media alt="An illustration shows the reaction of a halide to yield a halide ion and another product. The reactant shows a central carbon bonded to an X. The carbon shows a free single bond dash bond and wedge bond. The nucleophile shows two electrons. An arrow from the electrons points to the carbon. An arrow from the C-X bond points to X. The product shows a central carbon bonded to an X. The carbon shows a free single bond dash bond and wedge bond.">
+    <media alt="The S N 2 reaction between an alkyl halide and nucleophile forms a halide ion and substitution product with inversion of configuration.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_EC_003.jpg"/></media>
     </figure></item>
     </list></item>
@@ -127,17 +127,17 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
     <item>E1 reaction (<link document="m00131"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00009">
-    <media alt="An illustration shows the reaction of a halide to yield an intermediate that further yields an alkene and HX. The reactant shows two carbons single bonded. The first carbon shows two free bonds; it is bonded to a hydrogen. The second carbon is bonded to two R and an X. An arrow from the C-X bond points to X. The intermediate is similar to the reactant but the second carbon is a cation bonded to two R. The alkene shows two carbons double bonded. The first carbon shows two free bonds. The second carbon is bonded to two R.">
+    <media alt="The E 1 reaction of an alkyl halide forms a carbocation intermediate, which is deprotonated to yield an alkene and H-X.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_EC_004.jpg"/></media>
     </figure></item>
     <item>E1cB reaction (<link document="m00131"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00010">
-    <media alt="An illustration shows the reaction of a halide in the presence of base to yield an intermediate that further yields an alkene and HX. The reactant shows a chain of three carbons. The first carbon shows two free bonds; it is bonded to X. The second carbon shows a free bond and is bonded to a hydrogen. The third carbon is a carbonyl carbon with a free bond. The intermediate is similar to the reactant but the second carbon is an anion with two electrons. An arrow from the electrons points to C1-C2 bond. An arrow from the C1-X bond points to X. The alkene shows two carbons double bonded. The first carbon shows two free bonds. The second carbon shows a free bond and is bonded to a carbonyl group that shows a free bond.">
+    <media alt="The E 1 C B reaction of an alkyl halide in concentrated base forms a carbanion intermediate through abstraction of hydrogen alpha to carbonyl, which reacts to produce an allylic carbonyl.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_EC_005.jpg"/></media>
     </figure></item>
     <item>E2 reaction (<link document="m00129"/>)<newline/>
     <figure class="unnumbered scaled-down" id="fig-00011">
-    <media alt="An illustration shows the reaction of a bromoalkane with a base in the presence of KOH and ethanol to yield an alkene. The bromoalkane shows two carbons single bonded. The first carbon shows two free bonds; it is bonded to a hydrogen. The second carbon shows two free bonds and is bonded to a bromine. The base shows two electrons. An arrow from the electrons points to the hydrogen. An arrow from the C-Br bond points to Br. The alkene shows two carbons double bonded. Each carbon shows two free bonds.">
+    <media alt="The E 2 reaction mechanism of bromoalkane with a base such as K O H forms an alkene in one step.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_EC_006.jpg"/></media>
     </figure></item>
     </list></item>
