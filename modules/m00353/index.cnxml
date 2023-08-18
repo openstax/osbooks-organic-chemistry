@@ -8,7 +8,7 @@
 <content>
 <para id="para-00001">Up to this point we’ve discussed only <term id="term-00001">homopolymers</term>—polymers that are made up of identical repeating units. In practice, however, <emphasis effect="italics">copolymers</emphasis> are more important commercially. <term id="term-00002">Copolymers</term> are obtained when two or more different monomers are allowed to polymerize together. For example, copolymerization of vinyl chloride with vinylidene chloride (1,1-dichloroethylene) in a 1 : 4 ratio leads to the polymer Saran.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="An illustration shows a reaction in which a Vinyl chloride reacts with Vinylidene chloride to yield Saran after several steps. Vinyl chloride shows a methylene group double bonded to a methine group bonded to a pink chlorine. Vinylidene chloride shows a methylene group double bonded to a carbon bonded to two chlorine atoms highlighted in green. Saran shows two bonded structures. The first structure enclosed in parentheses with subscript m shows a methylene group with a free bond bonded to a methine group bonded to a pink chlorine at the top. The second structure enclosed in parentheses with subscript n shows a methylene group bonded to a carbon bonded to a green chlorine at the top and at the bottom. The methine group of the first structure and the methylene group of the second structure are bonded.">
+<media alt="Vinyl chloride reacts with vinylidene chloride to form the polymer named saran depicted in parentheses. m denotes the vinyl chloride unit and n denotes vinylidene chloride unit in the product.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_03_001.jpg"/>
 </media>
 </figure>
@@ -31,37 +31,37 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left">Vinyl chloride<newline/>Vinylidene chloride</entry>
-<entry valign="top" align="left"><media display="inline" alt="Saran: Vinyl chloride and Vinylidene chloride; the first structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a chlorine and hydrogen. The second structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to two chlorine atoms; Uses: Fibers food packaging."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002a.jpg"/></media></entry>
+<entry valign="top" align="left"><media display="inline" alt="Structures of vinyl chloride and vinylidene chloride (C H 2 C Cl 2) separated by a plus sign."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002a.jpg"/></media></entry>
 <entry valign="top" align="left">Saran</entry>
 <entry valign="top" align="left">Fibers, food packaging</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Styrene<newline/>1,3-Butadiene</entry>
-<entry valign="top" align="left"><media display="inline" alt="SBR (styrene–butadiene rubber): Styrene and 1 3-Butadiene; the first structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a phenyl group and hydrogen. The second structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a hydrogen and a vinyl group; Uses: Tires rubber articles."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002b.jpg"/></media></entry>
+<entry valign="top" align="left"><media display="inline" alt="Structures of styrene (vinylbenzene) and 1,3-butadiene separated by a plus sign."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002b.jpg"/></media></entry>
 <entry valign="top" align="left">SBR (styrene–butadiene rubber)</entry>
 <entry valign="top" align="left">Tires, rubber articles</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Hexafluoropropene<newline/>Vinylidene fluoride</entry>
-<entry valign="top" align="left"><media display="inline" alt="Viton: Hexafluoropropene and Vinylidene fluoride; the first structure shows two carbons double bonded. The left carbon is bonded to two fluorine atoms; the right carbon is bonded to a fluorine and CF3. The second structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to two fluorine atoms; Uses: Gaskets seals;"><image mime-type="image/jpeg" src="../../media/OChem_31_03_002c.jpg"/></media></entry>
+<entry valign="top" align="left"><media display="inline" alt="Structures of hexafluoropropene and vinylidene fluoride (C H 2 C F 2) separated by a plus sign."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002c.jpg"/></media></entry>
 <entry valign="top" align="left">Viton</entry>
 <entry valign="top" align="left">Gaskets, seals</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Acrylonitrile<newline/>1,3-Butadiene</entry>
-<entry valign="top" align="left"><media display="inline" alt="Nitrile rubber: Acrylonitrile and 1 3-Butadiene; the first structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to CN and a hydrogen. The second structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a hydrogen and a vinyl group; Uses: Adhesives hoses."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002d.jpg"/></media></entry>
+<entry valign="top" align="left"><media display="inline" alt="Structures of acrylonitrile (cyanoethene) and 1,3-butadiene separated by a plus sign."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002d.jpg"/></media></entry>
 <entry valign="top" align="left">Nitrile rubber</entry>
 <entry valign="top" align="left">Adhesives, hoses</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Isobutylene<newline/>Isoprene</entry>
-<entry valign="top" align="left"><media display="inline" alt="Butyl rubber: Isobutylene and Isoprene; the first structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to two methyl groups. The second structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a hydrogen and another carbon that is single bonded to a methyl group and double bonded to a methylene group; Uses: Inner tubes."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002e.jpg"/></media></entry>
+<entry valign="top" align="left"><media display="inline" alt="Structures of isobutylene (2-methyl-1-propene) and isoprene (2-methyl-1,3-butadiene) separated by a plus sign."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002e.jpg"/></media></entry>
 <entry valign="top" align="left">Butyl rubber</entry>
 <entry valign="top" align="left">Inner tubes</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Acrylonitrile<newline/>1,3-Butadiene<newline/>Styrene</entry>
-<entry valign="top" align="left"><media display="inline" alt="ABS (monomer initials): Acrylonitrile 1 3-Butadiene and Styrene; the first structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to CN and a hydrogen. The second structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a hydrogen and a vinyl group; the third structure shows two carbons double bonded. The left carbon is bonded to two hydrogens; the right carbon is bonded to a phenyl group and hydrogen. Uses: Pipes high-impact applications."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002f.jpg"/></media></entry>
+<entry valign="top" align="left"><media display="inline" alt="Structures of acrylonitrile (cyanoethene) and styrene (vinylbenzene) on the left separated from 1,3-butadiene on the right by a plus sign."><image mime-type="image/jpeg" src="../../media/OChem_31_03_002f.jpg"/></media></entry>
 <entry valign="top" align="left">ABS (monomer initials)</entry>
 <entry valign="top" align="left">Pipes, high-impact applications</entry>
 </row>
@@ -70,14 +70,14 @@
 </table>
 <para id="para-00003">Several different types of copolymers can be defined, depending on the distribution of monomer units in the chain. If monomer A is copolymerized with monomer B, for instance, the resultant product might have a random distribution of the two units throughout the chain, or it might have an alternating distribution.</para>
 <figure class="unnumbered scaled-down" id="fig-00002">
-<media alt="Alt Text Placeholder">
+<media alt="The structures of random copolymer and alternating copolymer. The random copolymer has monomer units A and B distributed randomly. An alternating copolymer has monomer units in an alternating manner.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_03_003.jpg"/>
 </media>
 </figure>
 <para id="para-00004">The exact distribution of monomer units depends on the initial proportions of the two reactant monomers and their relative reactivities. In practice, neither perfectly random nor perfectly alternating copolymers are usually found. Most copolymers have many random imperfections.</para>
 <para id="para-00005">Two other forms of copolymers that can be prepared under certain conditions are called <emphasis effect="italics">block copolymers</emphasis> and <emphasis effect="italics">graft copolymers</emphasis>. <term id="term-00003">Block copolymers</term> are those in which different blocks of identical monomer units alternate with each other; <term id="term-00004">graft copolymers</term> are those in which homopolymer branches of one monomer unit are “grafted” onto a homopolymer chain of another monomer unit.</para>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="An illustration shows the structures of a block copolymer and graft copolymer. The block copolymer shows a chain of 8 ‘A’ units highlighted in pink bonded to a chain of 8 ‘B’ units highlighted in blue. The graft copolymer shows a chain of 16 ‘A’ units highlighted in pink; A2 A9 and A13 are bonded to a chain of three ‘B’ units each highlighted in blue. The ends of both the polymers show extension.">
+<media alt="Two copolymer structures. Block: many units of monomer A are followed by many units of monomer B. Graft: chains of Bs branch off a stem of As.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_03_004.jpg"/>
 </media>
 </figure>
