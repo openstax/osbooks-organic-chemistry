@@ -8,7 +8,7 @@
   <content>
     <para id="para-00001">We said at the beginning of this chapter that two kinds of reactions can take place when a nucleophile/Lewis base reacts with an alkyl halide. The nucleophile can either substitute for the halide by reaction at carbon or can cause elimination of HX by reaction at a neighboring hydrogen:</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a substitution reaction and elimination reaction of a bromoalkane with a hydroxyl group. Substitution yields an alcohol and bromide ion. Elimination yields an alkene water and bromide ion. The bromoalkane shows two carbons single bonded. The first carbon is single bonded to hydrogen and shows a free dash bond and wedge bond. The second carbon is single bonded to bromine and shows a free dash bond and wedge bond. The alcohol is similar but the bromine is replaced by hydroxyl group. The alkene shows two carbons double bonded. Each carbon shows two free bonds.">
+    <media alt="The substitution and elimination reactions of a bromoalkane with a hydroxyl group. Substitution forms an alcohol and bromide ion. Elimination forms an alkene, water, and bromide ion.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_07_001.jpg"/>
     </media>
     </figure>
@@ -17,24 +17,24 @@
     <para id="para-00004"><emphasis effect="bold"><span class="red-text">ZAITSEV’S RULE</span></emphasis>
      <newline />In the elimination of HX from an alkyl halide, the more highly substituted alkene product predominates.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows two reactions. In the first reaction 2-Bromobutane reacts in the presence of sodium ethoxide and ethanol to yield 2-Butene (81%) and 1-Butene (19%). In the second reaction 2-Bromo-2-methylbutane reacts in the presence of sodium ethoxide and ethanol to yield 2-Methyl-2-butene (70%) and 2-Methyl-1-butene (30%). 2-Bromobutane shows a butane with a bromine bonded to C2. 2-Butene shows two methine groups double bonded. Each methine is bonded to a methyl group. 1-Butene shows an ethyl group bonded to a methine group double bonded to a methylene group. 2-Bromo-2-methylbutane shows a butane with a bromine and methyl group bonded to C2. 2-Methyl-2-butene shows a methyl group bonded to a methine group that is double bonded to a carbon bonded to two methyl groups. 2-Methyl-1-butene shows an ethyl group bonded to a carbon single bonded to a methyl group and double bonded to a methylene group.">
+    <media alt="Two reactions in presence of sodium ethoxide and ethanol. 2-Bromobutane reacts to form 2-butene (81%) and 1-butene (19%). In the second reaction, 2-bromo-2-methylbutane yields 2-methyl-2-butene (70%) and 2-methyl-1-butene (30%).">
     <image mime-type="image/jpeg" src="../../media/OChem_11_07_002.jpg"/>
     </media>
     </figure>
     <para id="para-00006">Another factor that complicates a study of elimination reactions is that they can take place by different mechanisms, just as substitutions can. We’ll consider three of the most common mechanisms—the E1, E2, and E1cB reactions—which differ in the timing of C–H and C–X bond-breaking.</para>
     <para id="para-00007">In the E1 reaction, the C–X bond breaks first to give a carbocation intermediate, which undergoes subsequent base abstraction of H<sup>+</sup> to yield the alkene. In the E2 reaction, base-induced C–H bond cleavage is simultaneous with C–X bond cleavage, giving the alkene in a single step. In the E1cB reaction (cB for “<emphasis effect="italics">conjugate base</emphasis>”), base abstraction of the proton occurs first, giving a carbanion (R<emphasis effect="bold">:</emphasis><sup>–</sup>) intermediate. This anion, the conjugate base of the reactant “acid,” then undergoes loss of X<sup>–</sup> in a subsequent step to give the alkene. All three mechanisms occur frequently in the laboratory, but the E1cB mechanism predominates in biological pathways.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="An illustration shows a 2-step reaction. An alkyl halide reacts to produce X ion and carbocation that reacts to produce alkene and B plus H. The alkyl halide shows two carbons single bonded. The right carbon is single bonded to X and shows a free wedge bond and dash bond. The left carbon is single bonded to hydrogen and shows a free wedge bond and dash bond. An arrow from the C-X bond points to X. The carbocation shows two carbons single bonded. The right carbon is carbocation and shows a free wedge bond and dash bond. The left carbon is single bonded to hydrogen and shows a free wedge bond and dash bond. An arrow from the electrons of base points to hydrogen. An arrow from the C-H bond points to C-C bond. The alkene shows two carbons double bonded. Each carbon shows two free bonds. Text reads: E1 Reaction: C–X bond breaks first to give a carbocation intermediate followed by base removal of a proton to yield the alkene.">
+    <media alt="E1 reaction mechanism. Halide leaves alkyl halide to produce carbocation, and base abstracts hydrogen on adjacent carbon to yield alkene.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_07_003.jpg"/>
     </media>
     </figure>
     <figure class="unnumbered scaled-down" id="fig-00004">
-      <media alt="">
+      <media alt="E2 reaction mechanism. Base abstracts hydrogen adjacent to halogen on alkyl halide; movement of electrons results in halide leaving and forming double bond, all in one step.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_07_004.jpg"/>
   </media>
 </figure>
 <figure class="unnumbered scaled-down" id="fig-00007">
-  <media alt="An illustration shows two reactions. In the first reaction an alkyl halide reacts to produce an alkene X ion and B plus H. The alkyl halide shows two carbons single bonded. The right carbon is single bonded to X and shows a free wedge bond and dash bond. The left carbon is single bonded to hydrogen and shows a free wedge bond and dash bond. An arrow from the electrons of base points to hydrogen. An arrow from the C-H bond points to C-C bond. An arrow from the C-X bond points to X. The alkene shows two carbons double bonded. Each carbon shows two free bonds. Text reads: E2 Reaction: C–H and C–X bonds break simultaneously giving the alkene in a single step without intermediates. In the second reaction an alkyl halide reacts to produce B plus H and a carbanion that reacts to produce alkene and X ion. The alkyl halide shows two carbons single bonded. The right carbon is single bonded to X and shows a free wedge bond and dash bond. The left carbon is single bonded to hydrogen and shows a free wedge bond and dash bond. An arrow from the electrons of base points to hydrogen. An arrow from the C-H bond points to the left carbon. The carbanion shows two carbons single bonded. The right carbon is bonded to X and shows a free wedge bond and dash bond. The left carbon is an anion with two electrons; it shows a free wedge bond and dash bond. An arrow from the electrons of the left carbon points to C-C bond. An arrow from the C-X bond points to X. The alkene shows two carbons double bonded. Each carbon shows two free bonds. Text reads: E1cB Reaction: C–H bond breaks first giving a carbanion intermediate that loses X– to form the alkene.">
+  <media alt="E1cb reaction mechanism. Base abstracts hydrogen adjacent to halogen on alkyl halide, producing carbanion intermediate. Movement of electrons results in halide leaving, forming double bond.">
 <image mime-type="image/jpeg" src="../../media/OChem_11_07_005.jpg"/>
 </media>
     </figure>
@@ -42,14 +42,14 @@
     <title>Predicting the Product of an Elimination Reaction</title>
     <para id="para-00008">What product would you expect from reaction of 1-chloro-1-methylcyclohexane with KOH in ethanol?</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows the reaction of 1-chloro-1-methylcyclohexane with KOH and ethanol to yield an unknown product. 1-Chloro-1-methylcyclohexane shows a hexane bonded to a chlorine and methyl group.">
+    <media alt="The reaction of 1-chloro-1-methylcyclohexane with K O H and ethanol forms an unknown product, depicted by a question mark.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_07_006.jpg"/>
     </media>
     </figure>
     <para id="para-00009"><title><span class="red-text">Strategy</span></title> Treatment of an alkyl halide with a strong base such as KOH yields an alkene. To find the products in a specific case, locate the hydrogen atoms on each carbon next to the leaving group, and then generate the potential alkene products by removing HX in as many ways as possible. The major product will be the one that has the most highly substituted double bond—in this case, 1-methylcyclohexene.</para>
     <para id="para-00010"><title><span class="cyan-text">Solution</span></title></para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows the reaction of 1-chloro-1-methylcyclohexane with KOH and ethanol to yield 1-Methylcyclohexene (major) and Methylenecyclohexane (minor). 1-Chloro-1-methylcyclohexane shows a hexane bonded to a chlorine and methyl group. 1-Methylcyclohexene shows a cyclohexene bonded to a methyl group. Methylenecyclohexane shows a cyclohexene double bonded to a methylene group.">
+    <media alt="The reaction of 1-chloro-1-methylcyclohexane with K O H and ethanol  forms 1-methylcyclohexene (major) and methylenecyclohexane (minor).">
     <image mime-type="image/jpeg" src="../../media/OChem_11_07_007.jpg"/>
     </media>
     </figure>
