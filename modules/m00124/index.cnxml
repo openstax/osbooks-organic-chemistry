@@ -8,7 +8,7 @@
   <content>
     <para id="para-00001">Now that we know how S<sub>N</sub>2 reactions occur, we need to see how they can be used and what variables affect them. Some S<sub>N</sub>2 reactions are fast, and some are slow; some take place in high yield and others in low yield. Understanding the factors involved can be of tremendous value. Let’s begin by recalling a few things about reaction rates in general.</para>
     <para id="para-00002">The rate of a chemical reaction is determined by the activation energy ∆<emphasis effect="italics">G</emphasis><sup>‡</sup>, the energy difference between reactant ground state and transition state. A change in reaction conditions can affect ∆<emphasis effect="italics">G</emphasis><sup>‡</sup> either by changing the reactant energy level or by changing the transition-state energy level. Lowering the reactant energy or raising the transition-state energy increases ∆<emphasis effect="italics">G</emphasis><sup>‡</sup> and decreases the reaction rate; raising the reactant energy or decreasing the transition-state energy decreases ∆<emphasis effect="italics">G</emphasis><sup>‡</sup> and increases the reaction rate (<link target-id="fig-00001"/>). We’ll see examples of all these effects as we look at S<sub>N</sub>2 reaction variables.</para>
-    <figure class="scaled-down" id="fig-00001">
+    <figure id="fig-00001">
     <media alt="Two line graphs of energy level versus reaction progress. In both graphs, the vertical distance between starting point of curves and their peaks is labeled by delta G double dagger.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_03_001.jpg"/>
     </media>
@@ -17,7 +17,7 @@
     <section id="sect-00001">
     <title>Steric Effects in the S<sub>N</sub>2 Reaction</title>
     <para id="para-00003">The first S<sub>N</sub>2 reaction variable to look at is the structure of the substrate. Because the S<sub>N</sub>2 transition state involves partial bond formation between the incoming nucleophile and the alkyl halide carbon atom, it seems reasonable that a hindered, bulky substrate should prevent easy approach of the nucleophile, making bond formation difficult. In other words, the transition state for reaction of a sterically hindered substrate, whose carbon atom is “shielded” from the approach of the incoming nucleophile, is higher in energy and forms more slowly than the corresponding transition state for a less hindered substrate (<link target-id="fig-00002"/>).</para>
-    <figure class="scaled-down" id="fig-00002">
+    <figure id="fig-00002">
     <media alt="The figure shows the structures and space-filling models of four compounds. The substrate carbon is more accessible to nucleophilic attack (less hindered) in methyl bromide and most hindered in t-butylbromide.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_03_002.jpg"/>
     </media>
