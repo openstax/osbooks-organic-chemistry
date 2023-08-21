@@ -8,7 +8,7 @@
  <content>
 <para id="para-00001">Steroids are heavily modified triterpenoids that are biosynthesized in living organisms from farnesyl diphosphate (C<sub>15</sub>). A reductive dimerization first converts farnesyl diphosphate to the acyclic hydrocarbon squalene (C<sub>30</sub>), which is converted into lanosterol (<link target-id="fig-00001"/>). Further rearrangements and degradations then take place to yield various steroids. The conversion of squalene to lanosterol is among the most intensively studied of biosynthetic transformations. Starting from an achiral, open-chain polyene, the entire process requires only two enzymes and results in the formation of six carbon–carbon bonds, four rings, and seven chirality centers.</para>
 <figure class="scaled-down" id="fig-00001">
-<media alt="An overview of steroid biosynthesis from farnesyl diphosphate.">
+<media alt="Two farnesyl diphosphate molecules undergo dimerization to form squalene which cyclizes to lanosterol. This leads to the formation of steroids.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_001.jpg"/>
 </media>
 <caption><emphasis effect="bold">An overview of steroid biosynthesis from farnesyl diphosphate.</emphasis></caption>
@@ -16,7 +16,7 @@
 <para id="para-00002">Lanosterol biosynthesis begins with the selective epoxidation of squalene to give (3<emphasis effect="italics">S</emphasis>)-2,3-oxidosqualene, catalyzed by squalene epoxidase. Molecular O<sub>2</sub> provides the epoxide oxygen atom, and NADPH is required, along with a flavin coenzyme. The proposed mechanism involves reaction of FADH<sub>2</sub> with O<sub>2</sub> to produce a flavin hydroperoxide intermediate (ROOH), which transfers an oxygen to squalene in a pathway initiated by nucleophilic attack of the squalene double bond on the terminal hydroperoxide oxygen (<link target-id="fig-00002"/>). The flavin alcohol formed as a by-product loses H<sub>2</sub>O to give FAD, which is reduced back to FADH<sub>2</sub> by NADPH. As noted in <link document="m00095"/>, this biological epoxidation mechanism is closely analogous to the mechanism by which peroxyacids (RCO<sub>3</sub>H) react with alkenes to give epoxides in the laboratory.</para>
 <para id="para-00003">The second part of lanosterol biosynthesis is catalyzed by oxidosqualene-lanosterol cyclase and occurs as shown in <link target-id="fig-00004"/>. Squalene is folded by the enzyme into a conformation that aligns the various double bonds for a cascade of successive intramolecular electrophilic additions, followed by a series of hydride and methyl migrations. Except for the initial epoxide protonation/cyclization, the process is probably stepwise and appears to involve discrete carbocation intermediates that are stabilized by electrostatic interactions with electron-rich aromatic amino acids in the enzyme.</para>
 <figure class="scaled-down" id="fig-00002">
-<media alt="Proposed mechanism of the oxidation of squalene by flavin hydroperoxide.">
+<media alt="Squalene undergoes expoxidation to form (3 S)-2,3-oxidosqualene via flavin adenine dinucleotide hydroperoxide, generated from flavin adenine dinucleotide dihydrogen and molecular oxygen.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_002.jpg"/>
 </media>
 <caption><emphasis effect="bold">Proposed mechanism of the oxidation of squalene by flavin hydroperoxide.</emphasis></caption>
@@ -27,7 +27,7 @@
 <title>Steps <span class="magenta-text">1</span>, <span class="magenta-text">2</span> of <link target-id="fig-00004"/>: Epoxide Opening and Initial Cyclizations</title>
 <para id="para-00004">Cyclization begins in step <emphasis effect="bold"><span class="magenta-text">1</span></emphasis> with protonation of the epoxide ring by an aspartic acid residue in the enzyme. Nucleophilic opening of the protonated epoxide by the nearby 5,10 double bond (steroid numbering; <link document="m00270"/>) then yields a tertiary carbocation at C10. Further addition of C10 to the 8,9 double bond in step <emphasis effect="bold"><span class="magenta-text">2</span></emphasis> next gives a bicyclic tertiary cation at C8.</para>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="Alt Text Placeholder">
+<media alt="Acid-promoted ring opening of (3 S)-2,3-oxidosqualene undergoes two cationic cyclizations to form a decaline ring with carbocation at C 8.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_003.jpg"/>
 </media>
 </figure>
@@ -37,19 +37,19 @@
 <para id="para-00005">The third cationic cyclization is somewhat unusual because it occurs with non-Markovnikov regiochemistry and gives a secondary cation at C13 rather than the alternative tertiary cation at C14. There is growing evidence, however, that the tertiary carbocation may in fact be formed initially and that the secondary cation arises by subsequent rearrangement. The secondary cation is probably stabilized in the enzyme pocket by the proximity of an electron-rich aromatic ring.</para>
 <figure class="mechanism-figure scaled-down" id="fig-00004">
 <title>MECHANISM</title>
-<media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
+<media alt="A four-step reaction mechanism in the formation of protosteryl cation from (3 S)-2,3-oxidosqualene.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_004.jpg"/>
 </media>
 <caption><emphasis effect="bold">Mechanism of the conversion of 2,3-oxidosqualene to lanosterol.</emphasis> Four cationic cyclizations are followed by four rearrangements and a final loss of H<sup>+</sup> from C9. The steroid numbering system is used for referring to specific positions in the intermediates (<link document="m00270"/>). Individual steps are explained in the text.</caption>
 </figure>
 <figure class="mechanism-figure scaled-down" id="fig-00005">
-<media alt="Mechanism of the conversion of 2 3-oxidosqualene to lanosterol.">
+<media alt="The remaining five steps in the formation of lanosterol where the protosteryl cation undergoes five rearragnments.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_005.jpg"/>
 </media>
 <caption><emphasis effect="bold">(Continued)</emphasis></caption>
 </figure>
 <figure class="unnumbered scaled-down" id="fig-00006">
-<media alt="Alt Text Placeholder">
+<media alt="The intermediate generated at the second step of oxidation of (3 S)-2,3-oxidosqualene forms tricyclic secondary and tertiary carbocations.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_006.jpg"/>
 </media>
 </figure>
@@ -58,7 +58,7 @@
 <title>Step <span class="magenta-text">4</span> of <link target-id="fig-00004"/>: Final Cyclization</title>
 <para id="para-00006">The fourth and last cyclization occurs in step 4 by addition of the cationic center at C13 to the 17,20 double bond, giving what is known as the <emphasis effect="italics">protosteryl</emphasis> cation. The side-chain alkyl group at C17 has <emphasis effect="italics">β</emphasis> (up) stereochemistry, although this stereochemistry is lost in step 5 and then reset in step 6.</para>
 <figure class="unnumbered scaled-down" id="fig-00007">
-<media alt="Alt Text Placeholder">
+<media alt="The intermediate generated at the third step undergoes cyclization to form protosteryl cation.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_007.jpg"/>
 </media>
 </figure>
@@ -67,13 +67,13 @@
 <title>Steps <span class="magenta-text">5</span>–<span class="magenta-text">9</span> of <link target-id="fig-00004"/>: Carbocation Rearrangements</title>
 <para id="para-00007">Once the tetracyclic carbon skeleton of lanosterol has been formed, a series of carbocation rearrangements occur (<link document="m00073"/>). The first rearrangement, hydride migration from C17 to C20, occurs in step 5 and results in establishment of <emphasis effect="italics">R</emphasis> stereochemistry at C20 in the side chain. In step 6, a second hydride migration occurs from C13 to C17 on the <emphasis effect="italics">α</emphasis> (bottom) face of the ring and reestablishes the 17<emphasis effect="italics">β</emphasis> orientation of the side chain. Finally, two methyl migrations, the first from C14 to C13 on the top (<emphasis effect="italics">β</emphasis>) face and the second from C8 to C14 on the bottom (<emphasis effect="italics">α</emphasis>) face, place the positive charge at C8. A basic histidine residue in the enzyme then removes the neighboring <emphasis effect="italics">β</emphasis> proton from C9 to give lanosterol.</para>
 <figure class="unnumbered scaled-down" id="fig-00008">
-<media alt="Alt Text Placeholder">
+<media alt="A base reacts with the protosteryl cation to form lanosterol. The reaction mechanism is denoted by multiple arrows.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_008.jpg"/>
 </media>
 </figure>
 <para id="para-00008">From lanosterol, the pathway for steroid biosynthesis continues on to yield cholesterol. Cholesterol then becomes a branch point, serving as the common precursor from which all other steroids are derived.</para>
 <figure class="unnumbered scaled-down" id="fig-00009">
-<media alt="Alt Text Placeholder">
+<media alt="Lanosterol forms cholesterol via a double bond rearrangement and a double bond reduction.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_07_009.jpg"/>
 </media>
 </figure>
@@ -92,7 +92,7 @@
 <para id="para-00010">We hear a lot these days about the relationship between saturated fats, cholesterol, and heart disease. What are the facts? It’s well established that a diet rich in saturated animal fats often leads to an increase in blood serum cholesterol, particularly in sedentary, overweight individuals. Conversely, a diet lower in saturated fats and higher in polyunsaturated fats leads to a lower serum cholesterol level. Studies have shown that a serum cholesterol level greater than 240 mg/dL (a desirable value is &lt; 200 mg/dL) is correlated with an increased incidence of coronary artery disease, in which cholesterol deposits build up on the inner walls of coronary arteries, blocking the flow of blood to the heart muscles.</para>
 <para id="para-00011">A better indication of a person’s risk of heart disease comes from a measurement of blood lipoprotein levels. <term id="term-00001">Lipoproteins</term> are complex molecules with both lipid and protein components that transport lipids through the body. They can be divided into three types according to density, as shown in <link target-id="table-00001"/>. Very-low-density lipoproteins (VLDLs) act primarily as carriers of triglycerides from the intestines to peripheral tissues, whereas low-density lipoproteins (LDLs) and high-density lipoproteins (HDLs) act as carriers of cholesterol to and from the liver.</para>
 <figure class="scaled-down" id="fig-00010">
-<media alt="Photo of a variety of meats being cooked on a grill.">
+<media alt="The cooking of meat on a grill.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_98_GrillMeat.jpg"/>
 </media>
 <caption><emphasis effect="bold">It’s hard to resist, but a high intake of saturated animal fat doesn’t do much for your cholesterol level.</emphasis> (credit: modification of work “food-chicken-meat-outdoors” by www.pixel.la/Flickr, Public Domain)</caption>
