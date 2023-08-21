@@ -10,14 +10,14 @@
 <para id="para-00002">The several dozen known prostaglandins have an extraordinarily wide range of biological effects. Among their many properties, they can lower blood pressure, affect blood platelet aggregation during clotting, lower gastric secretions, control inflammation, affect kidney function, affect reproductive systems, and stimulate uterine contractions during childbirth.</para>
 <para id="para-00003">Prostaglandins, together with related compounds called thromboxanes and leukotrienes, make up a class of compounds called <term id="term-00002">eicosanoids</term> because they are derived biologically from 5,8,11,14-eicosatetraenoic acid, or arachidonic acid (<link target-id="fig-00001"/>). Prostaglandins (PG) have a cyclopentane ring with two long side chains; thromboxanes (TX) have a six-membered, oxygen-containing ring; and leukotrienes (LT) are acyclic.</para>
 <figure class="scaled-down" id="fig-00001">
-<media alt="Structures of some representative eicosanoids.">
+<media alt="The figure shows five structures. Arachidonic acid, Prostaglandin E 1 ( P G E 1), Prostaglandin I 2, Thromboxane E 2, and Leukotriene E 4.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_04_001.jpg"/>
 </media>
 <caption><emphasis effect="bold">Structures of some representative eicosanoids. All are derived biologically from arachidonic acid</emphasis>.</caption>
 </figure>
 <para id="para-00004">Eicosanoids are named based on their ring system (PG, TX, or LT), substitution pattern, and number of double bonds. The various substitution patterns on the ring are indicated by letter as in <link target-id="fig-00002"/>, and the number of double bonds is indicated by a subscript. Thus, PGE<sub>1</sub> is a prostaglandin with the “E” substitution pattern and one double bond. The numbering of the atoms in the various eicosanoids is the same as in arachidonic acid, starting with the –CO<sub>2</sub>H carbon as C1, continuing around the ring, and ending with the  –CH<sub>3</sub> carbon at the other end of the chain as C20.</para>
 <figure class="scaled-down" id="fig-00002">
-<media alt="The nomenclature system for eicosanoids.">
+<media alt="The structures of Prostaglandin, Thromboxane, and Leukotriene where carbon atoms are numbered. They are named P G, T X, or L T according to the ring system and substitution pattern.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_04_002.jpg"/>
 </media>
 <caption><emphasis effect="bold">The naming system for eicosanoids.</emphasis></caption>
@@ -26,7 +26,7 @@
 <para id="para-00006">PGHS accomplishes two transformations, an initial reaction of arachidonic acid with O<sub>2</sub> to yield PGG<sub>2</sub> and a subsequent reduction of the hydroperoxide group (–OOH) to the alcohol PGH<sub>2</sub>. The sequence of steps involved in these transformations was shown in <link document="m00099" target-id="fig-00002"/>.</para>
 <para id="para-00007">Further processing of PGH<sub>2</sub> leads to other eicosanoids. PGE<sub>2</sub>, for instance, arises by an isomerization of PGH<sub>2</sub> catalyzed by PGE synthase (PGES) (<link target-id="fig-00003"/>).</para>
 <figure class="scaled-down" id="fig-00003">
-<media alt="Mechanism of the conversion of">
+<media alt="Arachidonic acid converts to P G H 2. This further converts to thioperoxy intermediate that converts to P G E 2. The release of R S negative ion.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_04_003.jpg"/>
 </media>
 <caption><emphasis effect="bold">Mechanism of the conversion of PGH<sub>2</sub> into PGE<sub>2</sub>.</emphasis></caption>
