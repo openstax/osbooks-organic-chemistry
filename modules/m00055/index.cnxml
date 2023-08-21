@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">Molecules like lactic acid, alanine, and glyceraldehyde are relatively simple because each has only one chirality center and thus only two stereoisomers. The situation becomes more complex, however, with molecules that have more than one chirality center. As a general rule, a molecule with <emphasis effect="italics">n</emphasis> chirality centers can have up to 2<emphasis effect="italics"><sup>n</sup></emphasis> stereoisomers (although it may have fewer, as we’ll see below). Take the amino acid threonine (2-amino-3-hydroxybutanoic acid), for example. Since threonine has two chirality centers (C2 and C3), there are four possible stereoisomers, as shown in <link target-id="fig-00001"/>. Check for yourself that the <emphasis effect="italics">R</emphasis>,<emphasis effect="italics">S</emphasis> configurations of all stereoisomers are correct.</para>
-    <figure id="fig-00001">
+    <figure class="scaled-down" id="fig-00001">
     <media alt="The figure shows the wedge-dash structures and ball-and-stick models of enantiomer pairs of 2-amino-3-hydroxybutanoic acid. 2R, 3R mirror image is 2S, 3S. 2R, 3S mirror image is 2S, 3R.">
     <image mime-type="image/jpeg" src="../../media/OChem_05_06_001.jpg"/>
     </media>
