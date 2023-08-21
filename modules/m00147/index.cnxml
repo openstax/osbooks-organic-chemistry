@@ -14,7 +14,7 @@
     <colspec colnum="1" colname="c1"/>
     <tbody>
     <row valign="top">
-    <entry valign="top" align="left"><media class="unnumbered" alt="An illustration shows chemical shifts of five molecules on a 1H NMR spectrum: aromatic vinylic unnamed allylic and saturated. The chemical shifts are shown in “delta” on the horizontal axis having 8 delta on the left and 0 delta on the right of the spectrum. Pink dashed lines separate the five structures. The aromatic molecule shows a benzene bonded to pink hydrogen placed between 8-6.5 delta. The vinylic molecule shows a carbon double bonded to another carbon; the left carbon shows two free bonds and the right carbon shows a free bond and is bonded to a pink hydrogen; the molecule is placed between 6.5-5.5 delta. The third molecule shows a carbon bonded to blue Y (oxygen nitrogen or halogen) and a pink hydrogen. The molecule shows two free bonds and is placed between 4.5-3.5 delta. The allylic molecule shows a carbon with a free single bond and double bond bonded to a carbon that shows two free bonds and is bonded to a pink hydrogen; it is placed between 3.5-2.5 delta. The saturated molecule shows a carbon with three free bonds further bonded to another carbon that shows two free bonds and bonded to a pink hydrogen; it is placed between 1.5-0 delta."><image mime-type="image/jpeg" src="../../media/OChem_13_04_001.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered" alt="H N M R shows shifts of hydrogens(from downfield to upfield): aromatic, vinylic, on carbon bonded to O, N, or halogen, allylic, and saturated."><image mime-type="image/jpeg" src="../../media/OChem_13_04_001.jpg"/></media></entry>
     </row>
     </tbody>
     </tgroup>
@@ -51,17 +51,17 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alkyl (tertiary)</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002a.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A C H group with three open single bonds. The hydrogen atom is highlighted."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002a.jpg"/></media></entry>
     <entry valign="top" align="center">1.4–1.8</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Allylic</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002b.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A 3-carbon chain with a double bond between C 1 and C 2. C 3 with two open single bonds is bonded to a highlighted hydrogen atom."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002b.jpg"/></media></entry>
     <entry valign="top" align="center">1.6–2.2</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Methyl ketone</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002c.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbonyl group with an open single bond is bonded to a methyl group, in which the hydrogen atoms are highlighted."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002c.jpg"/></media></entry>
     <entry valign="top" align="center">2.0–2.4</entry>
     </row>
     <row valign="top">
@@ -76,22 +76,22 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alkyl halide</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002d.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbon with two open single bonds is bonded to a highlighted hydrogen and halogen."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002d.jpg"/></media></entry>
     <entry valign="top" align="center">2.5–4.0</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alcohol</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002e.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbon with three open single bonds is bonded to an oxygen atom, which is bonded to a highlighted hydrogen atom."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002e.jpg"/></media></entry>
     <entry valign="top" align="center">2.5–5.0</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Alcohol, ether</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002f.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbon with two open single bonds is bonded to a highlighted hydrogen and oxygen atom that has an open single bond."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002f.jpg"/></media></entry>
     <entry valign="top" align="center">3.3–4.5</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Vinylic</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002g.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbon with two open bonds is double bonded to another carbon that has an open single bond and is bonded to highlighted hydrogen."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002g.jpg"/></media></entry>
     <entry valign="top" align="center">4.5–6.5</entry>
     </row>
     <row valign="top">
@@ -101,12 +101,12 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Aldehyde</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002h.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbonyl group with an open single bond is bonded to a highlighted hydrogen atom."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002h.jpg"/></media></entry>
     <entry valign="top" align="center">9.7–10.0</entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Carboxylic acid</entry>
-    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_13_04_002i.jpg"/></media></entry>
+    <entry valign="top" align="left"><media class="unnumbered scaled-down" alt="A carbonyl group with an open single bond is bonded to an oxygen atom, which is bonded to a highlighted hydrogen atom."><image mime-type="image/jpeg" src="../../media/OChem_13_04_002i.jpg"/></media></entry>
     <entry valign="top" align="center">11.0–12.0</entry>
     </row>
     </tbody>

@@ -9,13 +9,13 @@
     <para id="para-00001">The information derived from <sup>13</sup>C NMR spectroscopy is extraordinarily useful for structure determination. Not only can we count the number of nonequivalent carbon atoms in a molecule, we can also get information about the electronic environment of each carbon and find how many protons are attached to each. As a result, we can address many structural questions that go unanswered by IR spectroscopy or mass spectrometry.</para>
     <para id="para-00002">Here’s an example: how do we know that the E2 reaction of an alkyl halide follows Zaitsev’s rule (<link document="m00128"/>)? Does treatment of 1-chloro-1-methylcyclohexane with a strong base give predominantly the trisubstituted alkene 1-methylcyclohexene or the disubstituted alkene methylenecyclohexane?</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a reaction wherein “1-Chloro-1-methylcyclohexane” reacts in the presence of blue “potassium hydroxide and ethanol” to form “1-Methylcyclohexane” or “Methylenecyclohexene”; a question mark is shown next to Methylenecyclohexene. The structure of 1-Chloro-1-methylcyclohexane shows a cyclohexane bonded to a methyl group and a pink chlorine at C1. The structure of 1-Methylcyclohexane shows a cyclohexene bonded to a methyl group at C1. The structure of Methylenecyclohexene shows a cyclohexane double bonded to a methylene group at C1.">
+    <media alt="1-chloro-1-methylcyclohexane reacts with potassium hydroxide in the presence of ethanol to form 1-methylcyclohexane or methylenecyclohexene. A question mark is mentioned beside the product.">
     <image mime-type="image/jpeg" src="../../media/OChem_13_13_001.jpg"/>
     </media>
     </figure>
     <para id="para-00003">1-Methylcyclohexene will have five <emphasis effect="italics">sp</emphasis><sup>3</sup>-carbon resonances in the 20 to 50 <emphasis effect="italics">δ</emphasis> range and two <emphasis effect="italics">sp</emphasis><sup>2</sup>-carbon resonances in the 100 to 150 <emphasis effect="italics">δ</emphasis> range. Methylenecyclohexane, however, because of its symmetry, will have only three <emphasis effect="italics">sp</emphasis><sup>3</sup>-carbon resonance peaks and two <emphasis effect="italics">sp</emphasis><sup>2</sup>-carbon peaks. The spectrum of the actual reaction product, shown in <link target-id="fig-00002"/>, clearly identifies 1-methylcyclohexene as the product of this E2 reaction.</para>
     <figure class="scaled-down" id="fig-00002">
-    <media alt="An illustration shows 13C NMR spectrum of “1-methyl cyclohexene.” The horizontal axis shows chemical shift (delta) from 200 on the left to 0 ppm on the right at the intervals of 20 delta. The vertical axis shows increasing intensity. A short peak is shown at 136 delta; a slightly taller peak is shown at 122 delta; a medium length peak is shown at 30 delta; a set containing a tall peak at 25 delta and a cluster of four indistinct peaks is shown between 22 and 24 delta. A medium length peak labeled as pink “TM” is shown at 0 delta.">
+    <media alt="The 13 C N M R spectrum shows a cluster of peaks between 22-26, other peaks at 30, 122, and 135.">
     <image mime-type="image/jpeg" src="../../media/OChem_13_13_002.jpg"/>
     </media>
     <caption><emphasis effect="bold">The <sup>13</sup>C NMR spectrum of 1-methylcyclohexene, the E2 reaction product from treatment of 1-chloro-1-methylcyclohexane with base.</emphasis></caption>
@@ -35,7 +35,7 @@
     <para id="para-00007">The signals detected by MRI vary with the density of hydrogen atoms and with the nature of their surroundings, allowing identification of different types of tissue and even allowing the visualization of motion. For example, the volume of blood leaving the heart in a single stroke can be measured, and heart motion can be observed. Soft tissues that don’t show up well on X-ray images can be seen clearly, allowing diagnosis of brain tumors, strokes, and other conditions. This technique is also valuable in diagnosing damage to knees or other joints and is a noninvasive alternative to surgical explorations.</para>
     <para id="para-00008">Several types of atoms in addition to hydrogen can be detected by MRI, and the applications of images based on <sup>31</sup>P atoms are being explored. This approach holds great promise for studies of metabolism.</para>
     <figure class="scaled-down" id="fig-00003">
-    <media alt="An MRI of a knee">
+    <media alt="An M R I of the knee shows an irregular-shaped structure.">
     <image mime-type="image/jpeg" src="../../media/OChem_13_98_KneeMRI.jpg"/>
     </media>
     <caption>If you’re a runner, you really don’t want this to happen to you. The MRI of this left knee shows bone formation in the tissue in a patient with osteochondroma. (credit: “Osteochondroma MRI” by Michael R Carmont, Sian Davies, Daniel Gey van Pittius and Robin Rees/Wikimedia Commons, CC BY 2.0)</caption>
