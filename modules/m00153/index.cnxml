@@ -19,5 +19,4 @@
     <para id="para-00005">One further question needs to be answered before moving forward with our discussion of <sup>13</sup>C NMR. Why is spin–spin splitting seen only for <sup>1</sup>H NMR? Why is there no splitting of <emphasis effect="italics">carbon</emphasis> signals into multiplets in <sup>13</sup>C NMR? After all, you might expect that the spin of a given <sup>13</sup>C nucleus would couple with the spin of an adjacent magnetic nucleus, either <sup>13</sup>C or <sup>1</sup>H.</para>
     <para id="para-00006">No coupling of a <sup>13</sup>C nucleus with nearby carbons is seen because their low natural abundance makes it unlikely that two <sup>13</sup>C nuclei will be adjacent. No coupling of a <sup>13</sup>C nucleus with nearby hydrogens is seen because <sup>13</sup>C spectra are normally recorded using <emphasis effect="italics">broadband decoupling</emphasis>. At the same time that the sample is irradiated with a pulse of rf energy to cover the carbon resonance frequencies, it is also irradiated by a second band of rf energy covering all the hydrogen resonance frequencies. This second irradiation makes the hydrogens spin-flip so rapidly that their local magnetic fields average to zero and no coupling with carbon spins occurs.</para>
     </content>
-    
-</document>
+    </document>
