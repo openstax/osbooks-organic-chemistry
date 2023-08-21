@@ -8,13 +8,13 @@
   <content>
 <para id="para-00001"><term id="term-00001">Waxes</term> are mixtures of esters of long-chain carboxylic acids with long-chain alcohols. The carboxylic acid usually has an even number of carbons from 16 to 36, while the alcohol has an even number of carbons from 24 to 36. One of the major components of beeswax, for instance, is triacontyl hexadecanoate, the ester of the C<sub>30</sub> alcohol (1-triacontanol) and the C<sub>16</sub> acid (hexadecanoic acid). The waxy protective coatings on most fruits, berries, leaves, and animal furs have similar structures.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="Alt Text Placeholder">
+<media alt="The ball-and-stick model of beeswax. The structure of triacontyl hexadecanoate is the major constituent of beeswax.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_01_001.jpg"/>
 </media>
 </figure>
 <para id="para-00002">Animal fats and vegetable oils are the most widely occurring lipids. Although they appear different—animal fats like butter and lard are solids, whereas vegetable oils like corn and peanut oil are liquid—their structures are closely related. Chemically, fats and oils are <emphasis effect="italics">triglycerides,</emphasis> or <term id="term-00002">triacylglycerols</term>—triesters of glycerol with three long-chain carboxylic acids called <term id="term-00003">fatty acids</term>. Animals use fats for long-term energy storage because they are far less highly oxidized than carbohydrates and provide about six times as much energy as an equal weight of stored, hydrated glycogen.</para>
 <figure class="unnumbered scaled-down" id="fig-00002">
-<media alt="Alt Text Placeholder">
+<media alt="The structure of a triacylglycerol comprises stearoyl (stearic acid), oleoyl (oleic acid), and linoleoyl (linoleic acid). The glycerol and fatty acyl groups are labeled in the structure.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_01_002.jpg"/>
 </media>
 </figure>
@@ -214,19 +214,19 @@
 </table>
 <para id="para-00004">More than 100 different fatty acids are known and about 40 occur widely. Palmitic acid (C<sub>16</sub>) and stearic acid (C<sub>18</sub>) are the most abundant saturated fatty acids; oleic and linoleic acids (both C<sub>18</sub>) are the most abundant unsaturated ones. Oleic acid is monounsaturated because it has only one double bond, whereas linoleic, linolenic, and arachidonic acids are <term id="term-00004">polyunsaturated fatty acids</term> because they have more than one double bond. Linoleic and linolenic acids occur in cream and are essential in the human diet; infants grow poorly and develop skin lesions if fed a diet of nonfat milk for prolonged periods. Linolenic acid, in particular, is an example of an <term id="term-00005">omega-3 fatty acid</term>, which has been found to lower blood triglyceride levels and reduce the risk of heart attack. The name omega-3 means that there is a double bond three carbons in from the noncarboxyl end of the chain.</para>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="Alt Text Placeholder">
+<media alt="The ball-and-stick model and structure of stearic acid. It is an eighteen-carbon chain with a carboxylic acid group. Black, gray, and red spheres denote carbon, hydrogen, and oxygen, respectively.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_01_003.jpg"/>
 </media>
 </figure>
 <figure class="unnumbered scaled-down" id="fig-00004">
-<media alt="Alt Text Placeholder">
+<media alt="A ball-and-stick model of linolenic acid. It is an eighteen-carbon chain with double bond and carboxylic acid group. Black, gray, and red spheres denote carbon, hydrogen, and oxygen, respectively.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_01_004.jpg"/>
 </media>
 </figure>
 <para id="para-00005">The data in <link target-id="table-00001"/> show that unsaturated fatty acids generally have lower melting points than their saturated counterparts, a trend that is also true for triacylglycerols. Since vegetable oils generally have a higher proportion of unsaturated to saturated fatty acids than animal fats (<link target-id="table-00002"/>), they have lower melting points. The difference is a consequence of structure. Saturated fats have a uniform shape that allows them to pack together efficiently in a crystal lattice. In unsaturated vegetable oils, however, the <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> bonds introduce bends and kinks into the hydrocarbon chains, making crystal formation more difficult. The more double bonds there are, the harder it is for the molecules to crystallize and the lower the melting point of the oil.</para>
 <para id="para-00006">The <m:math><m:mrow><m:mtext>C</m:mtext><m:mo>═</m:mo><m:mtext>C</m:mtext></m:mrow></m:math> bonds in vegetable oils can be reduced by catalytic hydrogenation, typically carried out at high temperature using a nickel catalyst, to produce saturated solid or semisolid fats. Prior to 2015, industrially produced margarine and shortening were produced by hydrogenating soybean, peanut, or cottonseed oil until the proper consistency is obtained. As of 2015, trans fats are no longer considered safe by the FDA and have since been phased out of industrially produced foods. Unfortunately, the hydrogenation reaction is accompanied by some cis–trans isomerization of the remaining double bonds, producing fats with about 10% to 15% trans unsaturated fatty acids. Dietary intake of trans fatty acids increases cholesterol levels in the blood, thereby increasing the risk of heart problems. The conversion of linoleic acid into elaidic acid is an example.</para>
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="Alt Text Placeholder">
+<media alt="Linoleic acid reacts with hydrogen in the presence of catalyst to form elaidic acid. The double bond is in cis position for the reactant and trans position for the product.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_01_005.jpg"/>
 </media>
 </figure>
