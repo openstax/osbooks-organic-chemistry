@@ -25,7 +25,7 @@
     <section id="sect-00002">
     <title>Cyclobutane</title>
     <para id="para-00003">Cyclobutane has less angle strain than cyclopropane but has more torsional strain because of its larger number of ring hydrogens. As a result, the total strain for the two compounds is nearly the same—110 kJ/mol (26.4 kcal/mol) for cyclobutane versus 115 kJ/mol (27.5 kcal/mol) for cyclopropane. Cyclobutane is not quite flat but is slightly bent so that one carbon atom lies about 25° above the plane of the other three (<link target-id="fig-00003"/>). The effect of this slight bend is to increase angle strain but to decrease torsional strain, until a minimum-energy balance between the two opposing effects is achieved.</para>
-    <figure id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <media alt="The ball and stick model, chair conformation, and Newman projection of cyclobutane. In Newman, the hydrogen atoms are not eclipsed.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_04_003.jpg"/>
     </media>
@@ -35,7 +35,7 @@
     <section id="sect-00003">
     <title>Cyclopentane</title>
     <para id="para-00004">Cyclopentane was predicted by Baeyer to be nearly strain-free, but it actually has a total strain energy of 26 kJ/mol (6.2 kcal/mol). Although planar cyclopentane has practically no angle strain, it has a large torsional strain. Cyclopentane therefore twists to adopt a puckered, nonplanar conformation that strikes a balance between increased angle strain and decreased torsional strain. Four of the cyclopentane carbon atoms are in approximately the same plane, with the fifth carbon atom bent out of the plane. Most of the hydrogens are nearly staggered with respect to their neighbors (<link target-id="fig-00004"/>).</para>
-    <figure id="fig-00004">
+    <figure class="scaled-down" id="fig-00004">
     <media alt="The ball and stick model, chair conformation, and Newman projection of cyclopentane. The carbon atoms are numbered in chair conformation and Newman projection.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_04_004.jpg"/>
     </media>
