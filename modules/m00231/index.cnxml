@@ -16,7 +16,7 @@
     <colspec colnum="4" colname="c4"/>
     <thead>
     <row valign="top">
-    <entry valign="top" align="center" namest="c1" nameend="c4"><media class="unnumbered" alt="Alt Text Placeholder"><image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_20_02_001.jpg"/></media></entry>
+    <entry valign="top" align="center" namest="c1" nameend="c4"><media class="unnumbered" alt="A wedge-dash structure and ball-and-stick model of acetic acid. The gray, black, and red spheres represent hydrogen, carbon, and oxygen atoms, respectively."><image class="scaled-down-30" mime-type="image/jpeg" src="../../media/OChem_20_02_001.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">Bond angle</entry>
@@ -49,19 +49,19 @@
     </table>
     <para id="para-00002">Like alcohols, carboxylic acids are strongly associated because of hydrogen-bonding. Most carboxylic acids exist as cyclic dimers held together by two hydrogen bonds. This strong hydrogen-bonding has a noticeable effect on boiling points, making carboxylic acids boil far less easily than their corresponding alcohols. Acetic acid, for instance, has a boiling point of 117.9 °C, versus 78.3 °C for ethanol, even though both compounds have two carbons.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="Alt Text Placeholder">
+    <media alt="Structure of acetic acid dimer and ball-and-stick model in electrostatic potential map. Hydrogen bonding shown between each molecule's acidic H and the other's carbonyl O.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_002.jpg"/>
     </media>
     </figure>
     <para id="para-00003">The most obvious property of carboxylic acids is implied by their name: carboxylic acids are <emphasis effect="italics">acidic.</emphasis> They therefore react with bases such as NaOH and NaHCO<sub>3</sub> to give metal carboxylate salts, RCO<sub>2</sub><sup>−</sup> M<sup>+</sup>. Carboxylic acids with more than six carbons are only slightly soluble in water, but the alkali metal salts of carboxylic acids are often highly water-soluble. In fact, it’s often possible to purify an acid by extracting its salt into aqueous base, then reacidifying and extracting the pure acid back into an organic solvent.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reaction between carboxylic acid (water-insoluble) and sodium hydroxide in the presence of water to give a water-soluble sodium salt of carboxylic acid and water.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_003.jpg"/>
     </media>
     </figure>
     <para id="para-00004">Like other Brønsted–Lowry acids discussed in <link document="m00024"/>, carboxylic acids dissociate slightly in dilute aqueous solution to give H<sub>3</sub>O<sup>+</sup> and the corresponding carboxylate anions, RCO<sub>2</sub><sup>–</sup>. The extent of dissociation is given by an acidity constant, <emphasis effect="italics">K</emphasis><sub>a</sub>.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="Alt Text Placeholder">
+    <media alt="Reversible dissociation of a carboxylic acid in water gives carboxylate and hydronium ions. The expression for K a and relationship between K a and p K a are given.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_004.jpg"/>
     </media>
     </figure>
@@ -86,7 +86,7 @@
     <entry valign="top" align="left">CF<sub>3</sub>CO<sub>2</sub>H</entry>
     <entry valign="top" align="center">0.59</entry>
     <entry valign="top" align="left">0.23</entry>
-    <entry valign="middle" align="left" morerows="7"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_02_005.jpg"/></media></entry>
+    <entry valign="middle" align="left" morerows="7"><media class="unnumbered" alt="A vertical arrow indicates the acid strength. The bottom blue part denotes weaker acids and the top pink part denotes stronger acids."><image mime-type="image/jpeg" src="../../media/OChem_20_02_005.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left">HCO<sub>2</sub>H</entry>
@@ -128,20 +128,20 @@
     </table>
     <para id="para-00006">Although much weaker than mineral acids, carboxylic acids are nevertheless much stronger acids than alcohols and phenols. The <emphasis effect="italics">K</emphasis><sub>a</sub> of ethanol, for example, is approximately 10<sup>–16</sup>, making it a weaker acid than acetic acid by a factor of 10<sup>11</sup>.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="Alt Text Placeholder">
+    <media alt="A horizontal arrow indicates acid strength in increasing order, with p K a values mentioned: ethanol (16), phenol (9.89), acetic acid (4.76), and hydrochloric acid (-7).">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_006.jpg"/>
     </media>
     </figure>
     <para id="para-00007">Why are carboxylic acids so much more acidic than alcohols, even though both contain –OH groups? An alcohol dissociates to give an alkoxide ion, in which the negative charge is localized on a single electronegative atom. A carboxylic acid, however, gives a carboxylate ion, in which the negative charge is delocalized over two equivalent oxygen atoms (<link target-id="fig-00005"/>). In resonance terms (<link document="m00021"/>), a carboxylate ion is a stabilized resonance hybrid of two equivalent structures. Since a carboxylate ion is more stable than an alkoxide ion, it is lower in energy and more favored in the dissociation equilibrium.</para>
     <figure class="scaled-down" id="fig-00005">
-    <media alt="Alt Text Placeholder">
+    <media alt="The reversible dissociation reaction of ethanol in water produces ethoxide (localized charge) and hydronium. Dissociation of acetic acid in water produces acetate (delocalized charge) and hydronium.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_007.jpg"/>
     </media>
     <caption><emphasis effect="bold">An alkoxide ion has its charge localized on one oxygen atom and is less stable, while a carboxylate ion has the charge spread equally over both oxygens and is therefore more stable.</emphasis></caption>
     </figure>
     <para id="para-00008">Experimental evidence for the equivalence of the two carboxylate oxygens comes from X-ray crystallographic studies on sodium formate. Both carbon–oxygen bonds are 127 pm in length, midway between the <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> double bond (120 pm) and the C–O single bond (134 pm) of formic acid. An electrostatic potential map of the formate ion also shows how the negative charge (red) is spread equally over both oxygens.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="Alt Text Placeholder">
+    <media alt="The structure of sodium formate and formic acid. The bond length of C-O in sodium formate is 127 picometres and in formic acid is 120 and 134 picometres.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_02_008.jpg"/>
     </media>
     </figure>
