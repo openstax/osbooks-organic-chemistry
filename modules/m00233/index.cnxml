@@ -9,13 +9,13 @@
     <para id="para-00001">The listing of p<emphasis effect="italics">K</emphasis><sub>a</sub> values shown previously in <link document="m00231" target-id="table-00002"/> indicates that there are substantial differences in acidity from one carboxylic acid to another. For example, trifluoroacetic acid (<emphasis effect="italics">K</emphasis><sub>a</sub> = 0.59) is 33,000 times as strong as acetic acid (<emphasis effect="italics">K</emphasis><sub>a</sub> = 1.75 × 10<sup>–5</sup>). How can we account for such differences?</para>
     <para id="para-00002">Because the dissociation of a carboxylic acid is an equilibrium process, any factor that stabilizes the carboxylate anion relative to undissociated carboxylic acid will drive the equilibrium toward increased dissociation and result in increased acidity. For instance, three electron-withdrawing fluorine atoms delocalize the negative charge in the trifluoroacetate anion, thereby stabilizing the ion and increasing the acidity of CF<sub>3</sub>CO<sub>2</sub>H. In the same way, glycolic acid (HOCH<sub>2</sub>CO<sub>2</sub>H; p<emphasis effect="italics">K</emphasis><sub>a</sub> = 3.83) is stronger than acetic acid because of the electron-withdrawing effect of the electronegative oxygen atom.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="Alt Text Placeholder">
+    <media alt="The p K a values of acetic (4.76), glycolic (3.83), and trifluoroacetic (-0.23) acids are compared. A horizontal arrow indicates increasing acid strength from acetic through glycolic to trifluoroacetic.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_04_001.jpg"/>
     </media>
     </figure>
     <para id="para-00003">Because inductive effects operate through <emphasis effect="italics">σ</emphasis> bonds and are dependent on distance, the effect of halogen substitution decreases as the substituent moves farther from the carboxyl. Thus, 2-chlorobutanoic acid has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 2.86, 3-chlorobutanoic acid has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 4.05, and 4-chlorobutanoic acid has p<emphasis effect="italics">K</emphasis><sub>a</sub> = 4.52, similar to that of butanoic acid itself.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="Alt Text Placeholder">
+    <media alt="The p K a values of 3-chloro (4.52), 2-chloro (4.05), and 1-chloro (2.86) acetic acids are compared. A horizontal arrow indicates increasing acid strength from 3-chloro to 1-chloroacetic acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_04_002.jpg"/>
     </media>
     </figure>
@@ -30,7 +30,7 @@
     <colspec colnum="5" colname="c5"/>
     <thead>
     <row valign="top">
-    <entry valign="top" align="center" namest="c1" nameend="c5"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_04_003.jpg"/></media></entry>
+    <entry valign="top" align="center" namest="c1" nameend="c5"><media class="unnumbered" alt="The structure of substituted benzoic acid. The substituent Y is placed in the para position of the carboxylic acid group in the benzene ring."><image mime-type="image/jpeg" src="../../media/OChem_20_04_003.jpg"/></media></entry>
     </row>
     <row valign="top">
     <entry valign="top" align="left"> </entry>
@@ -42,7 +42,7 @@
     </thead>
     <tbody>
     <row valign="top">
-    <entry valign="middle" align="left" morerows="8"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_20_04_004.jpg"/></media></entry>
+    <entry valign="middle" align="left" morerows="8"><media class="unnumbered" alt="A vertical arrow represents the effect of substituents on the acidity of benzoic acid. The bottom part denotes weaker acids (activating groups), and the top part denotes stronger ones (deactivating)."><image mime-type="image/jpeg" src="../../media/OChem_20_04_004.jpg"/></media></entry>
     <entry valign="top" align="left"><span class="magenta-text">–NO<sub>2</sub></span></entry>
     <entry valign="top" align="left">39</entry>
     <entry valign="top" align="left">3.41</entry>
@@ -95,13 +95,13 @@
     </table>
     <para id="para-00005">As <link target-id="table-00001"/> shows, an electron-donating (activating) group such as methoxy decreases acidity by destabilizing the carboxylate anion, and an electron-withdrawing (deactivating) group such as nitro increases acidity by stabilizing the carboxylate anion.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="Alt Text Placeholder">
+    <media alt="The p K a values of p-methoxybenzoic (4.46), benzoic (4.19), and p-nitrobenzoic (3.41) acid are compared. A horizontal arrow indicates increasing acid strength from p-methoxybenzoic to p-nitrobenzoic acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_04_005.jpg"/>
     </media>
     </figure>
     <para id="para-00006">Because it’s much easier to measure the acidity of a substituted benzoic acid than it is to determine the relative reactivity of an aromatic ring toward electrophilic substitution, the correlation between the two effects is useful for predicting reactivity. If we want to know the effect of a certain substituent on electrophilic reactivity, we can simply find the acidity of the corresponding benzoic acid. Worked Example 20.1 gives an illustration.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="Alt Text Placeholder">
+    <media alt="Structures of para-substituted benzoic acid and substituted benzene, both with substituent Y. Text says finding K a of para-substituted benzoic acid allows predicting reactivity of substituted benzene to electrophilic attack.">
     <image mime-type="image/jpeg" src="../../media/OChem_20_04_006.jpg"/>
     </media>
     </figure>
