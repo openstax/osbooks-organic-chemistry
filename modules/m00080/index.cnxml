@@ -70,7 +70,7 @@
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Aldehyde has a carbon with an open single bond and a partial positive charge single bonded to hydrogen and double bonded to oxygen with a partial negative charge."><image mime-type="image/jpeg" src="../../media/OChem_06_04_003n.jpg"/></media></entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Ester has carbon with open bond and partial positive charge double bonded to oxygen and single bonded to another oxygen with partial negative charges. Second oxygen is bonded to carbon."><image mime-type="image/jpeg" src="../../media/OChem_06_04_003o.jpg"/></media></entry>
+<entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Ester has carbon with open bond and partial positive charge double bonded to oxygen and single bonded to another oxygen with partial negative charges. Oxygen is bonded to another carbon."><image mime-type="image/jpeg" src="../../media/OChem_06_04_003o.jpg"/></media></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left" namest="c1" nameend="c2"><media alt="Ketone has carbon with an open single bond and a partial positive charge bonded to another carbon and double bonded to oxygen with a partial negative charge."><image mime-type="image/jpeg" src="../../media/OChem_06_04_003p.jpg"/></media></entry>
@@ -93,7 +93,7 @@
 <para id="para-00007">What does functional-group polarity mean with respect to chemical reactivity? Because unlike charges attract, the fundamental characteristic of all polar organic reactions is that electron-rich sites react with electron-poor sites. Bonds are made when an electron-rich atom donates a pair of electrons to an electron-poor atom, and bonds are broken when one atom leaves with both electrons from the former bond.</para>
 <para id="para-00008">As we saw in <link document="m00028"/>, the movement of an electron pair during a polar reaction is indicated using a curved, full-headed arrow to show where electrons move when reactant bonds are broken and product bonds are formed during the reaction.</para>
 <figure class="unnumbered scaled-down" id="fig-00004">
-<media alt="Full arrow points from lone pair on nucleophile species B (negative, electron-rich) to species A (positive, electron-poor) to form species A B with single bond.">
+<media alt="Full arrow points from lone pair on nucleophile species B (negative, electron-rich) to electrophile species A (positive, electron-poor) to form species A B with single bond.">
 <image mime-type="image/jpeg" src="../../media/OChem_06_04_005.jpg"/>
 </media>
 </figure>
