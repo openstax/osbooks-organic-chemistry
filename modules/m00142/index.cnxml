@@ -67,7 +67,7 @@
     </figure>
     <para id="para-00009">Cyclohexanol (<link target-id="fig-00008"/>) is a good example.</para>
     <figure class="scaled-down" id="fig-00008">
-    <media alt="An infrared spectrum in which a wide absorption band near 3300 inverse centimeters is labeled O H, and a sharp band below 1100 is labeled C O.">
+    <media alt="An infrared spectrum in which a wide absorption band near 3300 inverse centimeters is labeled O H, and a sharp band below 1100 is labeled C single bond O.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_08_008.jpg"/>
     </media>
     <caption><emphasis effect="bold">IR spectrum of cyclohexanol.</emphasis></caption>
@@ -181,8 +181,7 @@
     <para id="para-00029">Let’s say that we want to determine the structure and shape of an enzyme or other biological molecule. The technique used is called <emphasis effect="bold">X-ray crystallography</emphasis>. First, the molecule is crystallized (which often turns out to be the most difficult and time-consuming part of the entire process) and a small crystal of 0.4 to 0.5 mm on its longest axis is glued to the end of a glass fiber. The fiber and attached crystal are then mounted in an instrument called an X-ray diffractometer, which consists of a radiation source, a sample positioning and orienting device that can rotate the crystal in any direction, a detector, and a controlling computer.</para>
     <para id="para-00030">Once mounted in the diffractometer, the crystal is irradiated with X rays, usually so-called Cu<emphasis effect="italics">K<sub>α</sub></emphasis> radiation with a wavelength of 0.154 nm. When the X rays strike the enzyme crystal, they interact with electrons in the molecule and are scattered into a diffraction pattern which, when detected and visualized, appears as a series of intense spots against a null background.</para>
     <figure class="scaled-down" id="fig-00018">
-    <media alt="A ribbon diagram of a protein comprising multiple regions in various colors.
-    aldolase.Green ribbons are seen at the center and red ribbon at the outer edges.">
+    <media alt="A ribbon diagram of a protein comprising multiple regions in various colors.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_98_Ribbon.jpg"/>
     </media>
     <caption>The structure of human muscle fructose-1,6-bisphosphate aldolase, as determined by X-ray crystallography. (credit: modification of work Protein Data Bank, 1ALD. PDB ID: 1ALD, Gamblin, S.J. Davies, G.J. Grimes, J.M. Jackson, R.M. Littlechild, J.A. Watson, H.C. (1991) J. Mol. Biol. 219: 573-576, CC BY 1.0.)</caption>
