@@ -10,25 +10,25 @@
     <title>Oxidation of Alkyl Side Chains</title>
     <para id="para-00001">Despite its unsaturation, the benzene ring is inert to strong oxidizing agents such as KMnO<sub>4</sub>, which will cleave alkene carbon–carbon bonds (<link document="m00096"/>). It turns out, however, that the presence of the aromatic ring has a dramatic effect on the reactivity of alkyl side chains. These side chains react rapidly with oxidizing agents and are converted into carboxyl groups, –CO<sub>2</sub>H.The net effect is conversion of an alkylbenzene into a benzoic acid, <m:math><m:mrow><m:mtext>Ar–R</m:mtext><m:mo>→</m:mo><m:mtext>Ar</m:mtext><m:mo>–</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>H</m:mtext></m:mrow></m:math>. Butylbenzene is oxidized by aqueous KMnO<sub>4</sub> to give benzoic acid, for instance.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a reaction in which butylbenzene reacts in the presence of pink KMnO4 and water to yield Benzoic acid (85%). Butylbenzene shows a benzene with C1 bonded to a butyl group. Benzoic acid shows a benzene with C1 bonded to a carboxyl group. The oxygen atom and hydroxyl group are shown in pink.">
+    <media alt="Butylbenzene reacts with potassium permanganate in the presence of water to form benzoic acid in 85 percent yield.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002">A similar oxidation is employed industrially for the preparation of the terephthalic acid used in the production of polyester fibers. Worldwide, approximately 118 million tons per year of terephthalic acid is produced by oxidation of <emphasis effect="italics">p</emphasis>-xylene, using air as the oxidant and Co(III) salts as catalyst.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows a reaction in which p-xylene reacts in the presence of pink oxygen and Co (III) to yield Terephthalic acid. p-Xylene shows a benzene with C1 and C4 bonded to a methyl group each. Terephthalic acid shows a benzene with C1 and C4 bonded to a carboxyl group each. The oxygen atoms and hydroxyl groups are shown in pink.">
+    <media alt="Para-xylene reacts with molecular oxygen in the presence of cobalt (3) to form terephthalic acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_002.jpg"/>
     </media>
     </figure>
     <para id="para-00003">The mechanism of side-chain oxidation is complex and involves reaction of C–H bonds at the position next to the aromatic ring to form intermediate benzylic radicals. <emphasis effect="italics">tert</emphasis>-Butylbenzene has no benzylic hydrogens, however, and is therefore inert.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="An illustration shows a reaction in which tert-Butylbenzene reacts in the presence of pink KMnO4 and water. Text reads: No reaction. tert-Butylbenzene shows a benzene bonded to a carbon that is bonded to three methyl groups.">
+    <media alt="Tertiary-butylbenzene does not react with potassium permanganate in water">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_003.jpg"/>
     </media>
     </figure>
     <para id="para-00004">Analogous side-chain oxidations occur in various biosynthetic pathways. The neurotransmitter norepinephrine, for instance, is biosynthesized from dopamine by a benzylic hydroxylation reaction. The process is catalyzed by the copper-containing enzyme dopamine <emphasis effect="italics">β</emphasis>-monooxygenase and occurs by a radical mechanism. A copper–oxygen species in the enzyme first abstracts the pro-R benzylic hydrogen to give a radical, and a hydroxyl is then transferred from copper to carbon.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows a reaction in which Dopamine yields an intermediate that further yields Norepinephrine. Dopamine shows benzene bonded to two hydroxyl groups and a 2-carbon chain. C1 of the chain is dash bonded to a hydrogen wedge bonded to a pink hydrogen. C2 is bonded to an amino group. The intermediate shows benzene bonded to two hydroxyl groups and a 2-carbon chain. C1 of the chain is bonded to a hydrogen and shows an electron. C2 is bonded to an amino group. Norepinephrine is similar to dopamine but the pink hydrogen is replaced by a pink hydroxyl group.">
+    <media alt="A reaction shows dopamine forming norepinephrine through an intermediate.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_004.jpg"/>
     </media>
     </figure>
@@ -45,19 +45,19 @@
     <title>Bromination of Alkylbenzene Side Chains</title>
     <para id="para-00006">Side-chain bromination at the benzylic position occurs when an alkylbenzene is treated with <emphasis effect="italics">N</emphasis>-bromosuccinimide (NBS). For example, propylbenzene gives (1-bromopropyl)benzene in 97% yield on reaction with NBS in the presence of benzoyl peroxide, (PhCO<sub>2</sub>)<sub>2</sub>, as a radical initiator. Bromination occurs exclusively in the benzylic position next to the aromatic ring and does not give a mixture of products.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows a reaction in which propylbenzene reacts in the presence of N-bromosuccinimide (PhCO2)2 and CCl4 to yield (1-Bromopropyl)benzene (97%) and succinimide (shown in parentheses). Propylbenzene shows a benzene bonded to a propyl group. N-bromosuccinimide shows a 5-membered ring with a nitrogen bonded to a pink bromine. The ring is double bonded to two oxygen atoms.(1-Bromopropyl)benzene shows a benzene bonded to a methine group that is bonded to a pink bromine and ethyl group. The other product is similar to N-bromosuccinimide but the bromine is replaced by a hydrogen.">
+    <media alt="In C C l 4, propylbenzene reacts with N-bromosuccinimide in the presence of (P h C O 2) 2 to form (1-Bromopropyl)benzene in 97 percent yield and succinimide.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_006.jpg"/>
     </media>
     </figure>
     <para id="para-00007">The mechanism of benzylic bromination is similar to that discussed in <link document="m00115"/> for allylic bromination of alkenes. Abstraction of a benzylic hydrogen atom first generates an intermediate benzylic radical, which then reacts with Br<sub>2</sub> in step 2 to yield product and a <m:math><m:mrow><m:mtext>Br</m:mtext><m:mo>·</m:mo></m:mrow></m:math> radical, which cycles back into the reaction to carry on the chain shown below as a summary. The Br<sub>2</sub> needed for reaction with the benzylic radical is produced in step 3 by a concurrent reaction of HBr with NBS.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows three steps of a reaction. In the first step a reactant reacts with pink bromine radical to yield an intermediate benzylic radical and HBr in which H is green and Br is pink. In step 2 the benzylic radical reacts with Br2 to yield product and a bromine radical which cycles back into the step 1 of the reaction. In step 3 HBr reacts with NBS to yield pink bromine and another product. The first reactant shows a benzene bonded to a carbon bonded to R hydrogen and a green hydrogen. The benzylic radical shows a benzene bonded to a carbon bonded to R and hydrogen. The carbon shows an electron. The product of step 2 shows a benzene bonded to a carbon bonded to R pink Br and hydrogen. NBS shows a 5-membered ring with a nitrogen bonded to pink bromine. The ring is double bonded to two oxygen atoms. The product of step 3 shows a 5-membered ring with a nitrogen bonded to green hydrogen. The ring is double bonded to two oxygen atoms.">
+    <media alt="Three-step reaction of a B r plus ion wih a benzene ring bearing a C H 2 R group, in the presence of N bromosuccinimide.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_007.jpg"/>
     </media>
     </figure>
     <para id="para-00008">Reaction occurs exclusively at the benzylic position because the benzylic radical intermediate is stabilized by resonance. <link target-id="fig-00007"/> shows how the benzyl radical is stabilized by overlap of its <emphasis effect="italics">p</emphasis> orbital with the ringed <emphasis effect="italics">π</emphasis> electron system.</para>
     <figure id="fig-00007">
-    <media alt="An illustration shows four resonance forms of benzyl radicals and an electrostatic potential map. The first form shows a benzene bonded to a carbon that shows an electron and is bonded to two hydrogens. An arrow from the electron points to the bond between the ring and the carbon. Two arrows from a double bond of benzene point outward. The second form shows a cyclohexane with two double bonds double bonded to a methylene group. A carbon of the ring shows an electron. An arrow from the electron points to the adjacent C-C bond. Two arrows from a double bond of benzene point outward. The third form is similar to the third form but another carbon shows an electron and the arrows point from another double bond. The fourth form shows a cyclohexane with two double bonds double bonded to a methylene group. A carbon shows an electron. The electrostatic potential map shows the fourth form with gray balls (carbons) and white balls (hydrogens).Three arrows point to three carbon atoms of the ring. The region around the other carbons is shown in red surrounded by yellow. An arrow points to the carbon of methylene group and the region surrounded by this carbon is purple.">
+    <media alt="Four benzylic radicals with double-headed arrows in-between. To the right, the ball-and-stick model with the electrostatic potential map of benzylic radical is depicted.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_08_008.jpg"/>
     </media>
     <caption><emphasis effect="bold">A resonance-stabilized benzylic radical</emphasis>. The spin-density surface shows that the <emphasis effect="bold"><span class="cyan-text">unpaired electron</span></emphasis> is shared by the ortho and para carbons of the ring.</caption>
