@@ -10,14 +10,14 @@
       <title>Infrared Spectroscopy</title>
       <para id="para-00001">Alcohols have a strong C–O stretching absorption near 1050 cm<sup>–1</sup> and a characteristic O–H stretching absorption at 3300 to 3600 cm<sup>–1</sup>. The exact position of the O–H stretch depends on the extent of hydrogen-bonding in the molecule. Unassociated alcohols show a fairly sharp absorption near 3600 cm<sup>–1</sup>, whereas hydrogen-bonded alcohols show a broader absorption in the 3300 to 3400 cm<sup>–1</sup> range. The hydrogen-bonded hydroxyl absorption appears at 3350 cm<sup>–1</sup> in the IR spectrum of cyclohexanol (<link target-id="fig-00001"/>).</para>
       <figure class="scaled-down" id="fig-00001">
-      <media alt="An illustration shows infrared spectrum of a cyclohexanol. The horizontal axis shows wavenumber in cm to power minus one starting from 4000 on the left to 500 on the right following interval of 500 units. The vertical axis shows transmittance (%). The spectrum shows an O-H stretch between wavenumbers 3200 and 3600 near 16% transmittance; a bifurcated sharp peak is shown between 2800 and 3000 near 0% and 10%; few sharp descending peaks are shown between 1200 and 1500 from 20% to 60% transmittance; a “C-O stretch” is shown at 1100 near 15% followed by another stretch near 950 at 25%; three sharp peaks are shown between 900 and 700 near 40% 50% and 65%; another sharp peak is shown at 790 near 70%; the last sharp peak is shown at 550 near 60%.">
+      <media alt="I R spectrum of cyclohexanol. Sharp peak just below 1100 is labeled C O stretch, broad peak around 3400 labeled O H stretch. Other significant peaks just below 3000 wavenumbers.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_001.jpg"/>
       </media>
       <caption><emphasis effect="bold">IR spectrum of cyclohexanol</emphasis>. Characteristic O–H and C–O stretching absorptions are indicated.</caption>
       </figure>
       <para id="para-00002">Phenols also show a characteristic broad IR absorption at 3500 cm<sup>–1</sup> due to the –OH group, as well as the usual 1500 and 1600 cm<sup>–1</sup> aromatic bands (<link target-id="fig-00002"/>). In phenol itself, monosubstituted aromatic-ring peaks are visible at 690 and 760 cm<sup>–1</sup>.</para>
       <figure class="scaled-down" id="fig-00002">
-      <media alt="An illustration shows infrared spectrum of a phenol shown as a benzene bonded to a hydroxyl group. The horizontal axis shows wavenumber in cm to power minus one starting from 4000 on the left to 500 on the right following interval of 500 units. The vertical axis shows transmittance (%). A stretch labeled as “H-O-” is shown between 3700 and 3000 near 18%; a sharp peak is shown at 1600 near 0%; a bifurcated curve is shown between 1400 and 1500 at 1%; these peaks are pointed with pink arrows originating from the double bond on the lower right position of the phenol ring; three sharp peaks are shown between 1100 and 1000 near 30% 45% and 60%.">
+      <media alt="I R spectrum of phenol. Sharp peaks around 1500 and 1600 are associated with benzene ring, broad peak around 3400 wavenumbers labeled O H.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_002.jpg"/>
       </media>
       <caption><emphasis effect="bold">IR spectrum of phenol</emphasis>.</caption>
@@ -35,19 +35,19 @@
       <title>Nuclear Magnetic Resonance Spectroscopy</title>
       <para id="para-00004">Carbon atoms bonded to electron-withdrawing –OH groups are deshielded and absorb at a lower field in the <sup>13</sup>C NMR spectrum than do typical alkane carbons. Most alcohol carbon absorptions fall in the range 50 to 80 <emphasis effect="italics">δ,</emphasis> as shown in the following drawing for cyclohexanol:</para>
       <figure class="unnumbered scaled-down" id="fig-00003">
-      <media alt="An illustration shows the structure of a cyclohexanol. A benzene is bonded to a pink hydroxyl group at C1; the position of bond is encircled pink and is labeled as “69.5 delta”; C2 is labeled as “35.5 delta”; C3 is labeled as “24.4 delta”; C4 is labeled as “25.9 delta.”">
+      <media alt="The structure of cyclohexanol with shifts for each carbon (starting from C 1 and proceeding clockwise): 69.5, 35.5, 24.4, 25.9.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_004.jpg"/>
       </media>
       </figure>
       <para id="para-00005">Alcohols also show characteristic absorptions in the <sup>1</sup>H NMR spectrum. Hydrogens on the oxygen-bearing carbon atom are deshielded by the electron-withdrawing effect of the nearby oxygen, and their absorptions occur in the range 3.4 to 4.5 <emphasis effect="italics">δ.</emphasis> Spin–spin splitting, however, is not usually observed between the O–H proton of an alcohol and the neighboring protons on carbon. Most samples contain small amounts of acidic impurities, which catalyze an exchange of the O–H proton on a timescale so rapid that the effect of spin–spin splitting is removed. It’s often possible to take advantage of this rapid proton exchange to identify the position of the O–H absorption. If a small amount of deuterated water, D<sub>2</sub>O, is added to an NMR sample tube, the O–H proton is rapidly exchanged for deuterium and the hydroxyl absorption disappears from the spectrum.</para>
       <figure class="unnumbered scaled-down" id="fig-00004">
-      <media alt="An illustration shows a reversible reaction wherein a reactant reacts with green “D2O” to form a product and HDO (pink H and green DO). The reactant is shown as a carbon having three open bonds bonded to an oxygen attached to a pink hydrogen. The product shows a carbon having three open bonds bonded to an oxygen attached to a green “D.”">
+      <media alt="A reversible reaction in which an alcohol reacts with deuterium oxide; hydroxide hydrogen is replaced with deuterium.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_005.jpg"/>
       </media>
       </figure>
       <para id="para-00006">Typical spin–spin splitting <emphasis effect="italics">is</emphasis> observed between protons on the oxygen-bearing carbon and other neighbors. For example, the signal of the two –CH<sub>2</sub>O– protons in 1-propanol is split into a triplet by coupling with the neighboring –CH<sub>2</sub>– protons (<link target-id="fig-00005"/>).</para>
       <figure class="scaled-down" id="fig-00005">
-      <media alt="An illustration shows 1H NMR spectrum of 1-propanol. The structural formula shows a methyl group (blue hydrogens) bonded to a methylene group (green hydrogens) bonded to another methylene group (pink hydrogens) bonded to a hydroxyl group. The horizontal axis shows chemical shift (delta) starting from 10 on the left to 0 ppm on the right. The vertical axis shows increasing intensity. The chemical shifts given are 0.93 1.56 3.17 3.58 and relative areas are 3.00 2.00 1.00 and 2.00. A cluster of three pink peaks having the tallest peak at the center surrounded by two shorter peaks is shown at 3.5 delta; a single sharp peak is shown near 3.2 delta; a cluster of six medium length green peaks having two tallest peaks at the center and other peaks in descending heights are shown near 1.5 delta; a cluster of three blue peaks having the tallest peak of the spectrum at the center near 0.8 ppm; a short peak labeled “TMS” is shown at 0 delta.">
+      <media alt="H N M R spectrum with signals at 0.93 (triplet, C 3 hydrogens), 1.56 (sextet, C 2 hydrogens), 3.17 (singlet, hydroxyl hydrogen), and 3.58 (triplet, C 1 hydrogens).">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_006.jpg"/>
       </media>
       <caption><emphasis effect="bold"><sup>1</sup>H NMR spectrum of 1-propanol</emphasis>. The protons on the oxygen-bearing carbon are split into a triplet at 3.58 <emphasis effect="italics">δ.</emphasis></caption>
@@ -66,19 +66,19 @@
       <title>Mass Spectrometry</title>
       <para id="para-00009">As noted in <link document="m00137"/>, alcohols undergo fragmentation in the mass spectrometer by two characteristic pathways, alpha cleavage and dehydration. In the alpha-cleavage pathway, a C–C bond nearest the hydroxyl group is broken, yielding a neutral radical plus a resonance-stabilized, oxygen-containing cation.</para>
       <figure class="unnumbered scaled-down" id="fig-00006">
-      <media alt="An illustration shows a reaction wherein a cation in parentheses with an electron undergoes “alpha cleavage” to form RCH2 with an electron and a two reversible structures in parentheses. The cation shows a centrally placed carbon bonded to RCH2 on the left the bond is intersected by a pink spiral line; the carbon is bonded to a pink hydroxyl group on the right; the carbon has two open bonds at the bottom. The first structure shows a centrally placed carbon cation bonded to a pink hydroxyl group with two pairs of electrons at the top. The second structure shows a centrally placed carbon double bonded to a pink hydroxyl cation having a pair of electrons at the top and two open bonds at the sides.">
+      <media alt="A cation radical undergoes alpha cleavage to form R C H 2 radical and two reversible structures in parentheses.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_007.jpg"/>
       </media>
       </figure>
       <para id="para-00010">In the dehydration pathway, water is eliminated, yielding an alkene radical cation.</para>
       <figure class="unnumbered scaled-down" id="fig-00007">
-      <media alt="An illustration shows a reaction wherein a cation in parentheses with an electron undergoes “dehydration” to form pink water molecule and an alkene cation in parentheses with an electron. The cation shows two centrally placed carbons; the carbon on the left is bonded to pink hydrogen at the top and two open bonds at the bottom; the carbon on the right is bonded to a pink hydroxyl group at the top and two open bonds at the bottom. The alkene cation shows two carbons double bonded to each other; each carbon shows two open bonds.">
+      <media alt="Cation radical undergoes dehydration to form water and alkene cation radical.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_008.jpg"/>
       </media>
       </figure>
       <para id="para-00011">Both fragmentation modes are apparent in the mass spectrum of 1-butanol (<link target-id="fig-00008"/>). The peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 56 is due to loss of water from the molecular ion, and the peak at <emphasis effect="italics">m/z</emphasis> = 31 is due to an alpha cleavage.</para>
       <figure class="scaled-down" id="fig-00008">
-      <media alt="A two-part illustration shows mass spectrum of 1-butanol and two reactions. The first part shows mass spectrum of 1-butanol. The horizontal axis shows m/z starting from 10 on the left to 140 on the right at the interval of 10 units from m/z 10 to 20 and increases by 20 units from m/z 20 onwards. The vertical axis shows relative abundance (%) starting from 0 to 100 at the interval of 20 units. Between m/z 26 and 33 six peaks are shown wherein the tallest peak is at “m/z = 31” reaching 100% abundance followed by a shorter peak at m/z 27 reaching 50%; a still shorter peak is shown at 29 near 30%; the remaining peaks are below 20%; between 37 and 45 two medium length peaks are shown at 41 and 43 near 60% followed by shorter peak at 42 reaching 30%; a tall peak “m/z = 56” is shown near 90%; a tiny peak “M plus = 74” is shown below 5% abundance. The second part shows two reactions of 1-butanol “m/z = 74”; in the first reaction 1-butanol undergoes “alpha cleavage” to form a propyl group and another compound with “m/z = 31.” The propyl group shows a methyl group bonded to two methylene groups; the other compound shows a hydroxymethyl cation in a parentheses. In the second reaction 1-butanol undergoes “dehydration” to form an alkene with “m/z = 56” and water; the structural formula of the alkene shows a cation enclosed in a parentheses having an electron outside it; the cation shows a methyl group bonded to a methylene group bonded to a methine group double bonded to a methylene group.">
+      <media alt="The mass spectrum of 1-butanol. Molecular ion at 74, base at m over z 31 (C H 2 O H plus), another large peak at 56 (dehydration).">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_009.jpg"/>
       </media>
       <caption><emphasis effect="bold">Mass spectrum of 1-butanol (M<sup>+</sup> = 74)</emphasis>. Dehydration gives a peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 56, and fragmentation by alpha cleavage gives a peak at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 31.</caption>
@@ -88,14 +88,14 @@
       <title>Ethanol: Chemical, Drug, and Poison</title>
       <para id="para-00012">The production of ethanol by fermentation of grains and sugars is one of the oldest known organic reactions, going back at least 8000 years in the Middle East and perhaps as many as 9000 years in China. Fermentation is carried out by adding yeast to an aqueous sugar solution, where enzymes break down carbohydrates into ethanol and CO<sub>2</sub>. As noted in the chapter introduction, approximately 26 billion gallons of ethanol is produced each year by fermentation of corn and sugar, with essentially the entire amount used to make bus and automobile fuel.</para>
       <figure class="unnumbered scaled-down" id="fig-00009">
-      <media alt="Alt Text Placeholder">
+      <media alt="A carbohydrate C 6 H 1 2 O 6 is reacted by yeast to form two equivalents each of ethanol and carbon dioxide.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_11_011.jpg"/>
       </media>
       </figure>
       <para id="para-00013">Ethanol is classified medically as a central nervous system (CNS) depressant. Its effects—that is, being drunk—resemble the human response to anesthetics. There is an initial excitability and increase in sociable behavior, but this results from depression of inhibition rather than from stimulation. At a blood alcohol concentration of 0.1% to 0.3%, motor coordination is affected, accompanied by loss of balance, slurred speech, and amnesia. When blood alcohol concentration rises to between 0.3% and 0.4%, nausea and loss of consciousness occur. Above 0.6%, spontaneous respiration and cardiovascular regulation are affected, ultimately leading to death. The LD<sub>50</sub> of ethanol is 10.6 g/kg (<link document="m00169" target-id="sect-00002">Chapter 1 <emphasis effect="italics">Chemistry Matters</emphasis></link>).</para>
       <para id="para-00014">The passage of ethanol through the body begins with its absorption in the stomach and small intestine, followed by rapid distribution to all body fluids and organs. In the pituitary gland, ethanol inhibits the production of a hormone that regulates urine flow, causing increased urine production and dehydration. In the stomach, ethanol stimulates production of acid. Throughout the body, ethanol causes blood vessels to dilate, resulting in flushing of the skin and a sensation of warmth as blood moves into capillaries beneath the surface. The result is not a warming of the body, but an increased loss of heat at the surface.</para>
       <figure class="scaled-down" id="fig-00010">
-      <media alt="A police officer holds a balloon attached to a machine labeled Harger Drunkometer.">
+      <media alt="A photo of a police officer holding balloon that is connected to the Harger Drunkometer.">
       <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_17_98_BrthAlyzer.jpg"/>
       </media>
       <caption>The Harger Drunkometer was the first breath analyzer, introduced in 1938 to help convict drunk drivers. (credit: “Unidentified police officer with a Harger “Drunkometer” breathalyzer” by Florida Memory, State Library and Archives of Florida/Wikimedia Commons, Public Doman)</caption>
@@ -132,28 +132,28 @@
       <para id="para-100">(1) Aldehydes</para>
       
       <figure class="unnumbered scaled-down" id="fig-00011">
-      <media alt="An illustration shows reduction of carbonyl compound in an aldehyde. The aldehyde reacts with blue NaBH4 or LiAl4 and hydronium ion to form a “primary alcohol.” The aldehyde shows a centrally placed carbonyl group with pink oxygen bonded to R on the left and H on the right. The primary alcohol shows a centrally placed carbon bonded to a hydrogen and blue hydrogen at the top and to R and pink hydroxyl group at the bottom.">
+      <media alt="An aldehyde reacts with sodium borohydride or lithium aluminum hydride, then hydronium ion to form a primary alcohol.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_001.jpg"/>
       </media>
       </figure>
       <para id="para-101">(2) Ketones</para>
       
       <figure class="unnumbered scaled-down" id="fig-00012">
-      <media alt="An illustration shows reduction of carbonyl compound in a ketone. The ketone reacts with blue NaBH4 or LiAl4 and hydronium ion to form a “secondary alcohol.” The ketone shows a centrally placed carbonyl group with pink oxygen bonded to R on the left and R’ on the right. The primary alcohol shows a centrally placed carbon bonded to R’ and blue hydrogen at the top and to R and pink hydroxyl group at the bottom.">
+      <media alt="A ketone reacts with sodium borohydride or lithium aluminum hydride, then hydronium ion to form a secondary alcohol.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_002.jpg"/>
       </media>
       </figure>
       <para id="para-102">(3) Esters</para>
       
       <figure class="unnumbered scaled-down" id="fig-00013">
-      <media alt="An illustration shows reduction of carbonyl compound in an ester. The ester reacts with blue LiAl4 and hydronium ion to form a “primary alcohol” and pink R’ bonded to pink hydroxyl group. The ester shows a centrally placed carbonyl group with pink oxygen bonded to R on the left and OR’ on the right. The primary alcohol shows a centrally placed carbon bonded to a two blue hydrogens at the top and to R and pink hydroxyl group at the bottom.">
+      <media alt="An R C O O R prime ester reacts with lithium aluminum hydride, then hydronium ion to form R O H (primary) and R prime O H.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_003.jpg"/>
       </media>
       </figure>
       <para id="para-103">(4) Carboxylic acids</para>
       
       <figure class="unnumbered scaled-down" id="fig-00014">
-      <media alt="An illustration shows reduction of carbonyl compound in a carboxylic acid. The carboxylic acid reacts with blue or LiAl4 and hydronium ion to form a “primary alcohol.” The carboxylic acid shows a centrally placed carbonyl group with pink oxygen bonded to R on the left and H on the right. The primary alcohol shows a centrally placed carbon bonded to two blue hydrogens at the top to R and pink hydroxyl group at the bottom.">
+      <media alt="A carboxylic acid reacts with lithium aluminum hydride, then hydronium ion to form a primary alcohol.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_004.jpg"/>
       </media>
       </figure>
@@ -164,28 +164,28 @@
         <para id="para-104">(1) Formaldehyde</para>
       
       <figure class="unnumbered scaled-down" id="fig-00015">
-      <media alt="An illustration shows formaldehyde reacting with blue R’MgBr ether and hydronium ion to form primary alcohol. Formaldehyde shows a centrally placed carbonyl group with pink oxygen bonded to two hydrogens at the bottom. The primary alcohol shows a centrally placed carbon bonded to two hydrogens at the top and to R’ and pink hydroxyl group at the bottom.">
+      <media alt="Formaldehyde reacts with R M g B r, ether, then hydronium ion to form primary alcohol.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_005.jpg"/>
       </media>
       </figure>
       <para id="para-105">(2) Aldehydes</para>
       
       <figure class="unnumbered scaled-down" id="fig-00016">
-      <media alt="An illustration shows an aldehyde reacting with blue R’MgBr ether and hydronium ion to form a secondary alcohol. Aldehyde shows a centrally placed carbonyl group with pink oxygen bonded to R and H at the bottom. The secondary alcohol shows a centrally placed carbon bonded to blue R’ and hydrogen at the top and to R and pink hydroxyl group at the bottom.">
+      <media alt="Aldehyde R C H O reacts with R prime M g B r and ether, then hydronium to form secondary alcohol with both R and R prime groups.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_006.jpg"/>
       </media>
       </figure>
       <para id="para-106">(3) Ketones</para>
       
       <figure class="unnumbered scaled-down" id="fig-00017">
-      <media alt="An illustration shows a ketone reacting with blue R’MgBr ether and hydronium ion to form tertiary alcohol. Ketone shows a centrally placed carbonyl group with pink oxygen bonded to R and R” at the bottom. The tertiary alcohol shows a centrally placed carbon bonded to R” and blue R’ at the top and to R and pink hydroxyl group at the bottom.">
+      <media alt="Ketone R C O R double prime reacts with R prime M g B r, ether, then hydronium to form tertiary alcohol with R, R prime, and R double prime.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_007.jpg"/>
       </media>
       </figure>
       <para id="para-107">(4) Esters</para>
       
       <figure class="unnumbered scaled-down" id="fig-00018">
-      <media alt="An illustration shows an ester reacting with blue R’MgBr ether and hydronium ion to form a tertiary alcohol and pink R&quot;OH. The ester shows a centrally placed carbonyl group with pink oxygen bonded to R and pink OR” at the bottom. The tertiary alcohol shows a centrally placed carbon bonded to two blue R’ groups at the top and to R and pink hydroxyl group at the bottom.">
+      <media alt="Ester R C O O R double prime reacts with R prime M g B r, ether, then hydronium to form tertiary alcohol with R and two R prime.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_008.jpg"/>
       </media>
       </figure>
@@ -197,14 +197,14 @@
         <para id="para-108">(1) Tertiary alcohols</para>
       
       <figure class="unnumbered scaled-down" id="fig-00019">
-      <media alt="An illustration shows dehydration of tertiary alcohol in the presence of pink hydronium ion to form an alkene. The alcohol is shown as carbon bonded to another carbon; the carbon on the left is bonded to pink hydrogen at the top and shows an open dash and wedge bond at the bottom. The carbon on the right is bonded to a pink hydroxyl group at the top and a dash bond to R and wedge bond to another R. The alkene shows carbon sharing a blue double bond with another carbon; the carbon on the left shows two open bonds and the carbon on the right is bonded to two R.">
+      <media alt="A tertiary alcohol reacts with hydronium ion to form an alkene.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_009.jpg"/>
       </media>
       </figure>
       <para id="para-109">(2) Secondary and tertiary alcohols</para>
       
       <figure class="unnumbered scaled-down" id="fig-00020">
-      <media alt="An illustration shows dehydration of an alcohol in the presence of green POCl3 and pyridine to form an alkene. The alcohol is shown as carbon bonded to another carbon; the carbon on the left is bonded to pink hydrogen at the top and shows an open dash and wedge bond at the bottom. The carbon on the right is bonded to a pink hydroxyl group at the top and shows open dash and wedge bonds. The alkene shows carbon sharing a blue double bond with another carbon and each carbon has two open bonds.">
+      <media alt="An alcohol reacts with phosphoryl chloride to form an alkene.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_010.jpg"/>
       </media>
       </figure>
@@ -213,26 +213,26 @@
         <para id="para-110">(1) Primary alcohols</para>
       
       <figure class="unnumbered scaled-down" id="fig-00021">
-      <media alt="">
+      <media alt="A primary alcohol reacts with Dess-Martin periodinane and methylene chloride to form an aldehyde.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_011.jpg"/>
       </media>
       </figure>
       <figure class="unnumbered scaled-down" id="fig-00022">
-      <media alt="A two-part illustration shows two reactions of primary alcohols. The first reaction shows a primary alcohol reacting with green “Dess-Martin periodinane” to form an aldehyde. The second reaction shows a primary alcohol reacting with green CrO3 hydronium ion and acetone to form a carboxylic acid. The primary alcohol shows a centrally placed carbon bonded to two blue hydrogens at the top to R pink hydroxyl group at the bottom. The aldehyde shows a centrally placed carbonyl group with pink oxygen bonded to R and blue hydrogen at the bottom. The carboxylic acid shows a centrally placed carbonyl group with pink oxygen bonded to R and pink hydroxyl group at the bottom.">
+      <media alt="A primary alcohol reacts with chromium trioxide, hydronium ion and acetone to form a carboxylic acid.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_012.jpg"/>
       </media>
       </figure>
       <para id="para-111">(2) Secondary alcohols</para>
       
       <figure class="unnumbered scaled-down" id="fig-00023">
-      <media alt="An illustration shows a secondary alcohol reacting with “Dess-Martin periodinane” to form a ketone. The secondary alcohol shows a centrally placed carbon bonded to blue hydrogen and pink hydroxyl group at the top and to R and R’ at the bottom. The ketone shows a centrally placed carbonyl group with pink oxygen bonded to R and R’ at the bottom.">
+      <media alt="A secondary alcohol reacts with Dess-Martin periodinane and methylene chloride to form a ketone.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_013.jpg"/>
       </media>
       </figure>
       </item></list></item>
       <item>Oxidation of phenols to quinones (<link document="m00209"/>)<newline/>
       <figure class="unnumbered scaled-down" id="fig-00024">
-      <media alt="An illustration shows a phenol reacting with pink Na2Cr2O7 and pink water molecule to form a quinone. The phenol is shown as benzene bonded to a pink hydroxyl group and quinone shows a cyclohexadiene double bonded to two pink oxygens at the top and bottom.">
+      <media alt="Phenol reacts with sodium dichromate and water to form benzoquinone.">
       <image mime-type="image/jpeg" src="../../media/OChem_17_EC_014.jpg"/>
       </media>
       </figure></item>
