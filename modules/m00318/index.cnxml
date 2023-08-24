@@ -8,12 +8,12 @@
 <content>
 <para id="para-00001">We saw in <link document="m00232"/> and <link document="m00293"/> that a carboxyl group is deprotonated and exists as the carboxylate anion at a physiological pH of 7.3, while an amino group is protonated and exists as the ammonium cation. Thus, amino acids exist in aqueous solution primarily in the form of a dipolar ion, or <term id="term-00001">zwitterion</term> (from the German <emphasis effect="italics">zwitter,</emphasis> meaning “hybrid”).</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="An illustration shows reversible reaction of an alanine from “uncharged” form to a “zwitterion.” The uncharged structure shows a methyl group bonded to a carbon wedge bonded to a blue amino group and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to a hydroxyl group having pink oxygen and blue hydrogen. The electrostatic potential map of the uncharged alanine shows a ball-and-stick model with gray balls (carbons) white balls (hydrogens) and red balls (oxygen atoms); the aura is greenish near methyl group and reddish yellow near the nitrogen; the aura around the carbonyl oxygen is orange and yellowish; the aura around the hydroxyl group is purplish. The zwitterion form shows a methyl group bonded to carbon wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to a pink oxygen anion. The electrostatic potential map shows red aura around the carboxylate ion and the rest is shown in purple.">
+<media alt="The ball-and-stick model in electrostatic potential map and structures of uncharged and zwitterionic forms of alanine. The uncharged form undergoes a reversible reaction to form a zwitterion.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_01_001.jpg"/></media>
 </figure>
 <para id="para-00002">Amino acid zwitterions are internal salts and therefore have many of the physical properties associated with salts. They have large dipole moments, are relatively soluble in water but insoluble in hydrocarbons, and are crystalline with relatively high melting points. In addition, amino acids are <emphasis effect="italics">amphiprotic;</emphasis> they can react either as acids or as bases, depending on the circumstances. In aqueous acid solution, an amino acid zwitterion is a base that accepts a proton onto its –CO<sub>2</sub><sup>–</sup> group to yield a cation. In aqueous base solution, the zwitterion is an acid that loses a proton from its –NH<sub>3</sub><sup>+</sup> group to form an anion.</para>
 <figure class="unnumbered scaled-down" id="fig-00002">
-<media alt="A two part illustration shows reversible chemical reactions. The first part labeled as “in acid solution” shows an amino acid reacting with pink hydronium ion to form cation and a pink water molecule. The amino acid shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion. The cation formed shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) the carbon of carbonyl group is bonded to a pink hydroxyl group. The second part labeled as “in base solution” shows an amino acid reacting with a blue hydroxyl anion to form an anion and a blue water molecule. The anion formed shows a carbon bonded to R on the left and wedge bonded to a blue amino group and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion.">
+<media alt="In acid solution, zwitter ions react with hydronium ion to form cation. In basic solution, zwitter ion reacts with a hydroxide ion to form an anion.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_01_002.jpg"/></media>
 </figure>
 <para id="para-00003">The structures, abbreviations (both three- and one-letter), and p<emphasis effect="italics">K</emphasis><sub>a</sub> values of the 20 amino acids commonly found in proteins are shown in <link target-id="table-00001"/>. All are <term id="term-00002"><emphasis effect="italics">α</emphasis>-amino acids</term>, meaning that the amino group in each is a substituent on the <emphasis effect="italics">α</emphasis> carbon—the one next to the carbonyl group. Nineteen of the twenty amino acids are primary amines, RNH<sub>2</sub>, and differ only in the nature of their <term id="term-00003">side chain</term>—the substituent attached to the <emphasis effect="italics">α</emphasis> carbon. Proline is a secondary amine whose nitrogen and <emphasis effect="italics">α</emphasis> carbon atoms are part of a five-membered pyrrolidine ring.</para>
@@ -50,7 +50,7 @@
 <entry valign="top" align="left">Ala</entry>
 <entry valign="top" align="left">A</entry>
 <entry valign="top" align="left"> 89</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003a.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The ball-and-stick model in electrostatic potential map and structures of uncharged and zwitterionic forms of L-alanine. The uncharged form undergoes a reversible reaction to form a zwitterion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003a.jpg"/></media></entry>
 <entry valign="top" align="left">2.34</entry>
 <entry valign="top" align="left"> 9.69</entry>
 <entry valign="top" align="left">—</entry>
@@ -61,7 +61,7 @@
 <entry valign="top" align="left">Asn</entry>
 <entry valign="top" align="left">N</entry>
 <entry valign="top" align="left">132</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003b.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-asparagine. It has a carbon linked to methylene connected to amide, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003b.jpg"/></media></entry>
 <entry valign="top" align="left">2.02</entry>
 <entry valign="top" align="left"> 8.80</entry>
 <entry valign="top" align="left">—</entry>
@@ -72,7 +72,7 @@
 <entry valign="top" align="left">Cys</entry>
 <entry valign="top" align="left">C</entry>
 <entry valign="top" align="left">121</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003c.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-cysteine. It has a carbon linked to methylene connected to thiol, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003c.jpg"/></media></entry>
 <entry valign="top" align="left">1.96</entry>
 <entry valign="top" align="left">10.28</entry>
 <entry valign="top" align="left">8.18</entry>
@@ -83,7 +83,7 @@
 <entry valign="top" align="left">Gln</entry>
 <entry valign="top" align="left">Q</entry>
 <entry valign="top" align="left">146</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003d.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-glutamine. It has a carbon linked to two methylene connected to amide, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003d.jpg"/></media></entry>
 <entry valign="top" align="left">2.17</entry>
 <entry valign="top" align="left"> 9.13</entry>
 <entry valign="top" align="left">—</entry>
@@ -94,7 +94,7 @@
 <entry valign="top" align="left">Gly</entry>
 <entry valign="top" align="left">G</entry>
 <entry valign="top" align="left"> 75</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003e.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of glycine. It has a carbon linked to hydrogen, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003e.jpg"/></media></entry>
 <entry valign="top" align="left">2.34</entry>
 <entry valign="top" align="left"> 9.60</entry>
 <entry valign="top" align="left">—</entry>
@@ -105,7 +105,7 @@
 <entry valign="top" align="left">Ile</entry>
 <entry valign="top" align="left">I</entry>
 <entry valign="top" align="left">131</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003f.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-isoleucine. Carbon is linked to C-H bonded to dashed methyl, wedged hydrogen and methylene is linked to methyl group, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003f.jpg"/></media></entry>
 <entry valign="top" align="left">2.36</entry>
 <entry valign="top" align="left"> 9.60</entry>
 <entry valign="top" align="left">—</entry>
@@ -116,7 +116,7 @@
 <entry valign="top" align="left">Leu</entry>
 <entry valign="top" align="left">L</entry>
 <entry valign="top" align="left">131</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003g.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-leucine. It has a carbon linked to methylene linked to C-H bonded to two methyl groups, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003g.jpg"/></media></entry>
 <entry valign="top" align="left">2.36</entry>
 <entry valign="top" align="left"> 9.60</entry>
 <entry valign="top" align="left">—</entry>
@@ -127,7 +127,7 @@
 <entry valign="top" align="left">Met</entry>
 <entry valign="top" align="left">M</entry>
 <entry valign="top" align="left">149</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003h.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-methionine. It has a carbon linked to two methylene groups linked to sulfur and methyl group, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003h.jpg"/></media></entry>
 <entry valign="top" align="left">2.28</entry>
 <entry valign="top" align="left"> 9.21</entry>
 <entry valign="top" align="left">—</entry>
@@ -138,7 +138,7 @@
 <entry valign="top" align="left">Phe</entry>
 <entry valign="top" align="left">F</entry>
 <entry valign="top" align="left">165</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003i.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-phenylalanine. It has a carbon linked to methylene linked to a benzene ring, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003i.jpg"/></media></entry>
 <entry valign="top" align="left">1.83</entry>
 <entry valign="top" align="left"> 9.13</entry>
 <entry valign="top" align="left">—</entry>
@@ -149,7 +149,7 @@
 <entry valign="top" align="left">Pro</entry>
 <entry valign="top" align="left">P</entry>
 <entry valign="top" align="left">115</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003j.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-proline. It has a carbon linked to cyclopentane with wedged bond linked to N H 2 positive, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003j.jpg"/></media></entry>
 <entry valign="top" align="left">1.99</entry>
 <entry valign="top" align="left">10.60</entry>
 <entry valign="top" align="left">—</entry>
@@ -160,7 +160,7 @@
 <entry valign="top" align="left">Ser</entry>
 <entry valign="top" align="left">S</entry>
 <entry valign="top" align="left">105</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003k.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-serine. It has a carbon linked to methylene connected to an alcohol, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003k.jpg"/></media></entry>
 <entry valign="top" align="left">2.21</entry>
 <entry valign="top" align="left"> 9.15</entry>
 <entry valign="top" align="left">—</entry>
@@ -171,7 +171,7 @@
 <entry valign="top" align="left">Thr</entry>
 <entry valign="top" align="left">T</entry>
 <entry valign="top" align="left">119</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003l.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-threonine. It has a carbon linked to C-H bonded to dashed hydrogen, wedged alcohol and methyl group, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003l.jpg"/></media></entry>
 <entry valign="top" align="left">2.09</entry>
 <entry valign="top" align="left"> 9.10</entry>
 <entry valign="top" align="left">—</entry>
@@ -182,7 +182,7 @@
 <entry valign="top" align="left">Trp</entry>
 <entry valign="top" align="left">W</entry>
 <entry valign="top" align="left">204</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003m.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-tryptophan. It has a carbon linked to methylene linked to cyclopentene with N-H fused to a benzene ring, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003m.jpg"/></media></entry>
 <entry valign="top" align="left">2.83</entry>
 <entry valign="top" align="left"> 9.39</entry>
 <entry valign="top" align="left">—</entry>
@@ -193,7 +193,7 @@
 <entry valign="top" align="left">Tyr</entry>
 <entry valign="top" align="left">Y</entry>
 <entry valign="top" align="left">181</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003n.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-tyrosine. It has a carbon linked to methylene linked to phenol, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003n.jpg"/></media></entry>
 <entry valign="top" align="left">2.20</entry>
 <entry valign="top" align="left"> 9.11</entry>
 <entry valign="top" align="left">10.07</entry>
@@ -204,7 +204,7 @@
 <entry valign="top" align="left">Val</entry>
 <entry valign="top" align="left">V</entry>
 <entry valign="top" align="left">117</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003o.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-valine. It has a carbon linked to C-H linked to two methyl groups, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003o.jpg"/></media></entry>
 <entry valign="top" align="left">2.32</entry>
 <entry valign="top" align="left"> 9.62</entry>
 <entry valign="top" align="left">—</entry>
@@ -218,7 +218,7 @@
 <entry valign="top" align="left">Asp</entry>
 <entry valign="top" align="left">D</entry>
 <entry valign="top" align="left">133</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003p.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-aspartic acid. It has a carbon linked to methylene linked to carboxylate ion, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003p.jpg"/></media></entry>
 <entry valign="top" align="left">1.88</entry>
 <entry valign="top" align="left"> 9.60</entry>
 <entry valign="top" align="left"> 3.65</entry>
@@ -229,7 +229,7 @@
 <entry valign="top" align="left">Glu</entry>
 <entry valign="top" align="left">E</entry>
 <entry valign="top" align="left">147</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003q.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-glutamic acid. It has a carbon linked to two methylene groups linked to carboxylate ion, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003q.jpg"/></media></entry>
 <entry valign="top" align="left">2.19</entry>
 <entry valign="top" align="left"> 9.67</entry>
 <entry valign="top" align="left"> 4.25</entry>
@@ -243,7 +243,7 @@
 <entry valign="top" align="left">Arg</entry>
 <entry valign="top" align="left">R</entry>
 <entry valign="top" align="left">174</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003r.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-arginine comprises carbon linked to three methylene to N-H, carbon linked to an amine, and an alkene bonded to amine cation, carboxylate, dashed hydrogen, and wedged ammonia." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003r.jpg"/></media></entry>
 <entry valign="top" align="left">2.17</entry>
 <entry valign="top" align="left"> 9.04</entry>
 <entry valign="top" align="left">12.48</entry>
@@ -254,7 +254,7 @@
 <entry valign="top" align="left">His</entry>
 <entry valign="top" align="left">H</entry>
 <entry valign="top" align="left">155</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003s.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of L-histidine. It has a carbon linked to methylene group linked to cyclopentadiene with nitrogen and N-H, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003s.jpg"/></media></entry>
 <entry valign="top" align="left">1.82</entry>
 <entry valign="top" align="left"> 9.17</entry>
 <entry valign="top" align="left"> 6.00</entry>
@@ -265,7 +265,7 @@
 <entry valign="top" align="left">Lys</entry>
 <entry valign="top" align="left">K</entry>
 <entry valign="top" align="left">146</entry>
-<entry valign="top" align="left"><media alt="" class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003t.jpg"/></media></entry>
+<entry valign="top" align="left"><media alt="The structure of lysine. It has a carbon linked to four methylene groups linked to ammonia cation, carboxylate ion, dashed hydrogen, and wedged ammonia ion." class="unnumbered"><image mime-type="image/jpeg" src="../../media/OChem_26_01_003t.jpg"/></media></entry>
 <entry valign="top" align="left">2.18</entry>
 <entry valign="top" align="left"> 8.95</entry>
 <entry valign="top" align="left">10.53</entry>
@@ -275,23 +275,23 @@
 </tgroup>
 </table>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="A two part illustration shows reversible chemical reactions. The first part labeled as “in acid solution” shows an amino acid reacting with pink hydronium ion to form cation and a pink water molecule. The amino acid shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion. The cation formed shows a carbon bonded to R on the left and wedge bonded to a blue ammonium ion and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) the carbon of carbonyl group is bonded to a pink hydroxyl group. The second part labeled as “in base solution” shows an amino acid reacting with a blue hydroxyl anion to form an anion and a blue water molecule. The anion formed shows a carbon bonded to R on the left and wedge bonded to a blue amino group and dash bonded to a hydrogen at the bottom; the carbon is bonded to a carbonyl group (pink oxygen) bonded to an oxygen anion.">
+<media alt="The structure of a generic primary alpha-amino acid, with an arrow pointing towards R, denoting the side chain  and L-proline, a secondary alpha-amino acid.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_01_004.jpg"/></media>
 </figure>
 <para id="para-00004">In addition to the 20 amino acids commonly found in proteins, 2 others—selenocysteine and pyrrolysine—are found in some organisms, and more than 700 nonprotein amino acids are also found in nature. <emphasis effect="italics">γ</emphasis>-Aminobutyric acid (GABA), for instance, is found in the brain and acts as a neurotransmitter; homocysteine is found in blood and is linked to coronary heart disease; and thyroxine is found in the thyroid gland, where it acts as a hormone.</para>
 <figure class="unnumbered scaled-down" id="fig-00004">
-<media alt="A five part illustration shows structures of 5 amino acids. The first structure is of selenocysteine with a 3-carbon chain. C1 is a pink carboxylate ion. C2 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C3 is bonded to a green HSe. The second structure is of pyrrolysine having a cyclopentene with a blue embedded nitrogen cation attached to a hydrogen; the basal position at the top is wedge bonded to a methyl group and dash bonded to a hydrogen; the basal position at the base is wedge bonded to hydrogen and dash bonded to a carbonyl group bonded to a nitrogen attached to hydrogen; the nitrogen is bonded to a 6-carbon chain wherein C5 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C6 is a pink carboxylate ion. The third structure is of gamma-aminobutyric acid that shows a blue ammonium ion bonded to a 4-carbon chain wherein C4 is a pink carboxylate ion. The fourth structure is of homocysteine with a 4-carbon chain. C1 is a pink carboxylate ion. C2 is wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; C4 is bonded to a green HS. The fifth structure is of thyroxine. It shows benzene bonded to two iodine at alternate positions on the left of ring; in between the iodine is bonded a hydroxyl group; the upper right position of ring is bonded to an oxygen bonded to another benzene bonded to two iodine at alternate positions including the tip and lower left position; the bottom right position is bonded to a carbon wedge bonded to a blue ammonium ion and dash bonded to hydrogen at the bottom; the carbon is further bonded to a pink carboxylate ion.">
+<media alt="The structure of five amino acids. Selenocysteine and pyrrolysine are at the top whereas gamma-aminobutyric acid, homocysteine, and thyroxine are at the bottom.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_01_005.jpg"/></media>
 </figure>
 <para id="para-00005">Except for glycine, H<sub>2</sub>NCH<sub>2</sub>CO<sub>2</sub>H, the <emphasis effect="italics">α</emphasis> carbons of amino acids are chirality centers. Two enantiomers of each are therefore possible, but nature uses only one to build proteins. In Fischer projections, naturally occurring amino acids are represented by placing the –CO<sub>2</sub><sup>–</sup> group at the top and pointing the side chain downwards, as if drawing a carbohydrate (<link document="m00300"/>) and then placing the –NH<sub>3</sub><sup>+</sup> group on the left. Because of their stereochemical similarity to <emphasis effect="smallcaps">L</emphasis> sugars (<link document="m00301"/>), the naturally occurring <emphasis effect="italics">α</emphasis>-amino acids are often referred to as <emphasis effect="smallcaps">L</emphasis> amino acids. The nonnaturally occurring enantiomers are called <emphasis effect="smallcaps">D</emphasis> amino acids.</para>
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="A four part illustration shows four structures. The first structure L-Serine (S)-Serine shows a carbon dash bonded to HOCH2 and wedge bonded to a blue ammonium ion; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right. The second structure L-Cysteine (R)-Cysteine shows a carbon dash bonded to HSCH2 and wedge bonded to a blue ammonium ion; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right. The third structure L-Alanine (S)-Alanine shows a carbon dash bonded to a methyl group and wedge bonded to a blue ammonium ion; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right. The fourth structure D-Alanine (R)-Alanine shows a carbon dash bonded to a blue ammonium ion and wedge bonded to a methyl group; the carbon is bonded to a pink carboxylate ion at the top; the carbon is bonded to a hydrogen at the right.">
+<media alt="The structure of four amino acids from left to right, L-Serine or (S)-Serine, L-Cysteine or (R)-Cysteine, L-Alanine or (S)-Alanine, and D-Alanine or (R)-Alanine. The last structure is enclosed inside parentheses.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_01_006.jpg"/></media>
 </figure>
 <para id="para-00006">The 20 common amino acids can be further classified as neutral, acidic, or basic, depending on the structure of their side chains. Fifteen of the twenty have neutral side chains, two (aspartic acid and glutamic acid) have an extra carboxylic acid function in their side chains, and three (lysine, arginine, and histidine) have basic amino groups in their side chains. Note that both cysteine (a thiol) and tyrosine (a phenol), although usually classified as neutral amino acids, nevertheless have weakly acidic side chains that can be deprotonated in a sufficiently basic solution.</para>
 <para id="para-00007">At the physiological pH of 7.3, the side-chain carboxyl groups of aspartic acid and glutamic acid are deprotonated and the basic side-chain nitrogens of lysine and arginine are protonated. Histidine, however, which contains a heterocyclic imidazole ring in its side chain, is not quite basic enough to be protonated at pH 7.3. Note that only the pyridine-like, doubly bonded nitrogen in histidine is basic. The pyrrole-like singly bonded nitrogen is nonbasic because its lone pair of electrons is part of the six-<emphasis effect="italics">π</emphasis>-electron aromatic imidazole ring (<link document="m00297"/>).</para>
 <figure class="unnumbered scaled-down" id="fig-00006">
-<media alt="An illustration shows the structure and electrostatic potential map of histidine. The structure of histidine shows a cyclopentadiene labeled as “imidazole ring” having a pink nitrogen with two electrons labeled as “basic; pyridine-like” embedded at the upper left position a blue nitrogen with two electrons labeled as “nonbasic; pyrrole-like” is embedded at the base of the ring and is bonded to a hydrogen; the tip of ring is bonded to a methylene group bonded to a methine group bonded to an ammonium ion at the bottom and a carboxylate ion on the right. The electrostatic potential map shows a ball-and-stick model with gray balls (carbons) white balls (hydrogens) blue balls (nitrogen atoms) and red balls (oxygen atoms). The basic and nonbasic nitrogens are labeled. The aura near the basic nitrogen is pinkish yellow the aura around the rest of the cyclopentane is greenish blue; the aura around the methylene group is bluish to purple; the aura around the oxygens is red.">
+<media alt="Ball-and-stick model with the electrostatic potential map and structure of histidine. Basic pyridine-like nitrogen, basic pyrrole-like nitrogen, and imidazole ring are labeled. Basic and nonbasic nitrogen are labeled in model.">
 <image mime-type="image/jpeg" src="../../media/OChem_26_01_007.jpg"/></media>
 </figure>
 <para id="para-00008">Humans are able to biosynthesize only 11 of the 20 protein amino acids, called nonessential amino acids. The other 9, called essential amino acids, are biosynthesized only in plants and microorganisms and must be obtained in our diet. The division between essential and nonessential amino acids is not clear-cut, however. Tyrosine, for instance, is sometimes considered nonessential because humans can produce it from phenylalanine, but phenylalanine itself is essential and must be obtained in the diet. Arginine can be synthesized by humans, but much of the arginine we need also comes from our diet.</para>
