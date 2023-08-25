@@ -11,7 +11,7 @@
 <para id="para-00001">Aldol reactions occur in many biological pathways but are particularly common in carbohydrate metabolism, where enzymes called <emphasis effect="italics">aldolases</emphasis> catalyze the addition of a ketone enolate ion to an aldehyde. Aldolases occur in all organisms and are of two types. Type I aldolases occur primarily in animals and higher plants; type II aldolases occur primarily in fungi and bacteria. Both types catalyze the same kind of reaction, but type I aldolases operate through an enamine while type II aldolases require a metal ion (usually Zn<sup>2+</sup>) as a Lewis acid and operate through an enolate ion.</para>
 <para id="para-00002">An example of an aldolase-catalyzed reaction occurs in glucose biosynthesis when dihydroxyacetone phosphate reacts with glyceraldehyde 3-phosphate to give fructose 1,6-bisphosphate. In animals and higher plants, dihydroxyacetone phosphate is first converted into an enamine by reaction with the –NH<sub>2</sub> group on a lysine amino acid in the enzyme. The enamine then adds to glyceraldehyde 3-phosphate, and the iminium ion that results is hydrolyzed. In bacteria and fungi, the aldol reaction occurs directly, with the ketone carbonyl group of glyceraldehyde 3-phosphate complexed to a Zn<sup>2+</sup> ion to make it a better acceptor.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="An illustration shows two chemical reactions of type 1 aldolase and type 2 aldolase. The first chemical reaction shows dihydroxyacetone phosphate reacting in the presence of an amine group yielding an enamine that reacts with Glyceraldehyde 3-phosphate to yield iminium ion which upon hydrolysis yields Fructose 1 6-bisphosphate. The structure of dihydroxyacetone phosphate shows a vertical 3-carbon chain where the first carbon is a methylene group bonded to a phosphate group; C2 is double bonded to an oxygen atom and C3 is bonded to a pink hydrogen wedge bonded to a hydrogen and dash bonded to a hydrogen atom. The blue amine group is bonded in blue to an enzyme. A pink wavy line is shown over the bond. The structure of enamine shows vertical 3 carbon chain where C1 is bonded to a phosphate group; C2 is bonded to a blue nitrogen monohydride (with nitrogen having lone pair of electrons bonded to an enzyme). The bond between the enzyme and the nitrogen atom shows a pink wavy line over it. C2 is also double bonded to C3 bonded to a hydrogen atom and a hydroxyl group. The structure of Glyceraldehyde 3-phosphate shows a vertical chain of 3 carbon atoms where C1 is bonded to a hydrogen atom and double bonded to an oxygen atom. A pink hydrogen atom is bonded to a pink acid adjacent to the oxygen atom. C2 is bonded to a hydrogen atom and a hydroxide group; C3 is bonded to a phosphate group. A pink curved arrow is shown from the lone electrons pair of nitrogen to the bond between the nitrogen and carbon atom; an arrow from the double bond between C2 and C3 of the enamine points to C1 of Glyceraldehyde 3-phosphate; an arrow from the double bond between C1 and oxygen atom of glyceraldehyde 3-phosphate group points to the pink hydrogen atom of HA. An arrow from the H-A bond points to A. The structure of iminium ion shows a vertical 6-carbon chain where C1 and C2 are bonded to a methylene group bonded to a phosphate group each. C2 is double bonded to a blue nitrogen ion bonded (blue) to a blue hydrogen and bonded (blue) to an enzyme. A pink wavy line is shown over the blue bond between the nitrogen and enzyme. C3 is bonded to a hydrogen atom on the right and a hydroxyl group to he left; C4 is bonded to a pink hydroxyl group on the right and a hydrogen atom to the left; C5 is bonded to a hydroxyl group to the right and a hydrogen atom to the left; C6 is a methylene group bonded to a phosphate group. Fructose 1 6-bisphosphate is similar to iminium ion but C2 is a keto group. The second chemical reaction type 2 aldolase shows dihydroxyacetone phosphate in the presence of a base yielding an intermediate that reacts with glyceraldehyde 3-phosphate to yield Fructose 1 6-bisphosphate. A pink curved arrow is shown from the lone electron pair of the pink base to the pink hydrogen bonded to C3; an arrow from the C3-H bond points to C2-C3 bond; an arrow from the carbonyl double bond points to H of HB plus. An arrow from the H-B bond points to B plus. The structure of enamine shows a vertical 3-carbon chain where C1 is bonded to a methylene group bonded to a phosphate group; C2 is bonded to a pink oxygen bonded to a pink hydrogen. A pink base with lone pair of electrons is shown adjacently. The structure of glyceraldehyde 3-phosphate shows a structure similar to the one shown in type 1 aldolase reaction. An additional zinc ion is connected to pink oxygen through dots. A pink arrow is shown from the electron pair of the pink base to the pink hydrogen atom; an arrow from the bond between the pink hydrogen and oxygen points to the bond between pink oxygen and C2; an arrow from the double bond between C2 and C3 points to C1 of glyceraldehyde 3-phosphate; an arrow from double bond between C1 and O of glyceraldehyde 3 phosphate points to pink hydrogen of HA; an arrow from the H-A bond points to A.">
+<media alt="The scheme shows type one and two aldolase reactions. In both, dihydroxyacetone phosphate reacts with glyceraldehyde-3-phosphate yielding fructose 1,6-bisphosphate. Iminium ion is formed in type one on hydrolysis yields product.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_13_001.jpg"/>
 </media>
 </figure>
@@ -21,13 +21,13 @@
 <title>Biological Claisen Condensations</title>
 <para id="para-00004">Claisen condensations, like aldol reactions, also occur in a large number of biological pathways. In fatty-acid biosynthesis, for instance, an enolate ion generated by decarboxylation (<link document="m00263"/>) of malonyl ACP adds to the carbonyl group of another acyl group bonded through a thioester linkage to a synthase enzyme. The tetrahedral intermediate that results then expels the synthase, giving acetoacetyl ACP. (The abbreviation ACP stands for acyl carrier protein, which forms thioester bonds to acyl groups.)</para>
 <figure class="unnumbered scaled-down" id="fig-00002">
-<media alt="An illustration shows a chemical reaction where a malonyl ACP reacts by expelling carbon dioxide to yield an enolate ion that reacts with acetyl synthase to yield a tetrahedral intermediate that expels synthase-SH to yield acetoacetyl ACP. The structure of malonyl ACP shows a pink oxygen atom with 3 pairs of electrons bonded to a pink carbonyl atom bonded to a methylene group bonded to a carbonyl group bonded to a green S-ACP. A curved pink arrow is shown from the electron pair of oxygen to the bond between it and the carbonyl carbon atom; an arrow from the bond between the first and second carbon atoms points to the second carbon atom. The structure of enolate ion shows a methylene group with a carbon anion having a lone pair of electrons bonded to a carbonyl group bonded to a green S-ACP. The structure of acetyl synthase shows a methyl group bonded to a carbonyl group bonded to a green S-Synthase. A pink curved arrow is shown from the carbon ion of the enolate ion to the carbon of the carbonyl group of acetyl synthase; an arrow from the double bond of carbonyl group points to its oxygen atom in acetyl synthase. The structure of the tetrahedral intermediate shows a carbon atom bonded to a methyl group oxygen anion with 3 pairs of electrons green S-Synthase and a methylene group bonded to a carbonyl group bonded to a green S-ACP. The tetrahedral intermediate reacts with green H-A. A pink curved arrow is shown from the electron pair of oxygen to the bond between it and carbon; an arrow from the bond between carbon and S-Synthase points to the green hydrogen of HA. An arrow from the H-A bond points to A. The structure of acetoacetyl ACP shows a methyl group bonded to a carbonyl group bonded to a methylene group bonded to a carbonyl group bonded to a green S-ACP.">
+<media alt="Malonyl A C P reacts with acetyl synthase generating enolate ion expelling carbon dioxide. The reaction expels synthase - S H, giving acetoacetyl A C P.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_13_002.jpg"/>
 </media>
 </figure>
 <para id="para-00005">Mixed Claisen condensations also occur frequently in living organisms, particularly in the pathway for fatty-acid biosynthesis that we’ll discuss in <emphasis effect="bold">Section 29.4</emphasis>. Butyryl synthase, for instance, reacts with malonyl ACP in a mixed Claisen condensation to give 3-ketohexanoyl ACP.</para>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="An illustration shows a chemical reaction where butyryl synthase in combination with malonyl ACP yields 3-Ketohexanoyl ACP. It also releases pink carbon dioxide and green synthase SH during the process. The structure of butyryl synthase shows a propyl group bonded to a carbonyl group bonded to a green S-synthase. The structure of malonyl ACP shows a pink carboxylate ion bonded to a methylene group bonded to a carbonyl group bonded to a green S-ACP. The structure of 3-Ketohexanoyl ACP shows a propyl group bonded to a carbonyl group that is bonded to a methylene group bonded to a carbonyl group bonded to a green S-ACP.">
+<media alt="The butyryl synthase and malonyl A C P reaction form 3-ketohexanoyl A C P. The product has six-carbon chain with two carbonyl groups positioned on the first and third carbon.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_13_003.jpg"/>
 </media>
 </figure>
@@ -36,26 +36,26 @@
 <title>A Prologue to Metabolism</title>
 <para id="para-00006">Biochemistry is carbonyl chemistry. Almost all metabolic pathways used by living organisms involve one or more of the four fundamental carbonyl-group reactions we’ve seen in the chapters on <link document="m00211">Aldehydes and Ketones: Nucleophilic Addition Reactions</link> through <link document="m00272">Carbonyl Condensation Reactions</link>. The digestion and metabolic breakdown of all the major classes of food molecules—fats, carbohydrates, and proteins—take place by nucleophilic addition reactions, nucleophilic acyl substitutions, <emphasis effect="italics">α</emphasis> substitutions, and carbonyl condensations. Similarly, hormones and other crucial biological molecules are built up from smaller precursors by these same carbonyl-group reactions.</para>
 <figure class="scaled-down" id="fig-00004">
-<media alt="An illustration shows a human portrait done using paintings of leaves flowers and plants.">
+<media alt="A photo shows a portrait human face made using different dried and fresh, flowers and leaves.">
 <image mime-type="image/jpeg" src="../../media/OSX_OrgChem_23_98_Flowers.jpg"/>
 </media>
 <caption><emphasis effect="bold">You are what you eat. Food molecules are metabolized by pathways that involve the four major carbonyl-group reactions</emphasis>. (credit: “Spring” by Giuseppe Arcimboldo, Louvre Museum/Wikimedia Commons, Public Domain)</caption>
 </figure>
 <para id="para-00007">Take <emphasis effect="italics">glycolysis,</emphasis> for example, the metabolic pathway by which organisms convert glucose to pyruvate as the first step in extracting energy from carbohydrates.</para>
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="An illustration shows a chemical reaction where glucose is converted to 2 moles of pyruvate by the process of glycosis. The structure of glucose shows a chair conformation of cyclohexane with C1 and C6 highlighted in blue. C2 and C5 are highlighted in green. C3 and C4 are highlighted in pink. Each carbon is bonded to a hydroxyl group. The structure of pyruvate shows a methyl group (having a pink carbon atom bonded to a carbonyl group (having a green carbon) bonded to a carboxylate ion (having a blue carbon).">
+<media alt="The reaction shows the glycolysis of glucose into two pyruvate molecules. Glucose is in a chair conformation with carbon atoms highlighted using pink, blue, and green colors.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_13_005.jpg"/>
 </media>
 </figure>
 <para id="para-00008">Glycolysis is a ten-step process that begins with isomerization of glucose from its cyclic hemiacetal form to its open-chain aldehyde form—the reverse of a nucleophilic addition reaction. The aldehyde then undergoes tautomerization to yield an enol, which undergoes yet another tautomerization to give the ketone fructose.</para>
 <figure class="unnumbered scaled-down" id="fig-00006">
-<media alt="An illustration shows a chemical reaction where Glucose (hemiacetal) is converted into fructose with 2 intermediaries Glucose (aldehyde) and glucose (enol). The structure of glucose (hemiacetal) shows a chair conformation of a cyclohexane; each carbon is bonded to a hydroxyl group. The hydroxyl group of C1 is pink and that of C2 is blue. Glucose reacts with a base with a lone electron pair and green H-A. A pink curved arrow is shown from the electron pair of the base to the pink hydrogen atom; an arrow from the pink bond between the oxygen and hydrogen atom points to C1-hydroxyl O bond. An arrow from the O-C1 bond points to H of HA. Ana arrow from the H-A bond points to A. The structure of the glucose shows a vertical chain of 6 carbon atoms starting with a carbon atom bonded to a hydrogen atom on the left and double bonded to an oxygen atom on the right; second carbon atom bonded to a blue hydroxyl group on the right and a hydrogen atom on the left; third carbon atom bonded to a hydrogen atom on the right and hydroxyl group on the left; fourth carbon atom bonded to a hydroxyl group on the right and hydrogen atom on the left; fifth carbon atom bonded to a green hydroxyl group on the right and hydrogen atom on the left. The sixth carbon is a hydroxy methyl group. The structure of the second intermediate glucose is similar to aldehyde glucose but C1 is bonded to a hydrogen and pink hydroxyl group and is double bonded to C2 that is bonded to blue hydroxyl group. The structure of fructose is similar to aldehyde glucose but C1 is bonded to two hydrogens and a pink hydroxyl group. C2 is double bonded to a blue oxygen.">
+<media alt="The reversible reaction shows the conversion of glucose into fructose through the formation of aldehyde and enol forms of glucose. The initial glucose is in hemiacetal form.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_13_006.jpg"/>
 </media>
 </figure>
 <para id="para-00009">Fructose, a <emphasis effect="italics">β</emphasis>-hydroxy ketone, is then cleaved by a retro-aldol reaction into two three-carbon molecules—one ketone and one aldehyde. Further carbonyl-group reactions then occur until pyruvate is formed.</para>
 <figure class="unnumbered scaled-down" id="fig-00007">
-<media alt="An illustration shows a chemical reaction where fructose cleaves by a retro-aldol reaction into a ketone and aldehyde with the final yield being pyruvate. The structure of fructose shows a vertical carbon chain consisting of 6 carbon atoms where C1 is a hydroxy methyl group. C2 is a keto group. C3 is bonded to a hydrogen atom on the right and hydroxyl group on the left; C4 is bonded on the right to a green oxygen bonded to a green hydrogen atom and bonded to a hydrogen atom on the left; C5 is bonded to a hydroxyl group on the right and a hydrogen atom on the left. C6 is a hydroxy methyl group. The base shows two electrons. An arrow from the electron pair points to the green hydrogen; an arrow from the green hydroxyl bond points to C4-O bond. An arrow from the C3-C4 bond points to C2-C3 bond. An arrow from the carbonyl bond points to H of HA. An arrow from the H-A bond points to A. The structure of first aldehyde shows a vertical chain of 3 carbon atoms. C1 is a hydroxy methyl group. C2 is bonded to a pink hydroxyl group. C3 is bonded to a hydrogen atom on the right and a hydroxyl group on the left. The structure of second aldehyde shows a vertical chain of 3 carbon atoms. C1 is an aldehyde group. C2 is bonded to a hydroxyl group on the right and a hydrogen atom on the left. C3 is a hydroxy methyl group. The structure of pyruvate (ketone) shows a vertical chain of 3 carbon atoms. C1 and C3 are hydroxy methyl groups. C2 is double bonded to a pink oxygen atom.">
+<media alt="The reaction shows the conversion of fructose (six-carbon chain) in the presence of a base to form a ketone and aldehyde, both containing a vertical three-carbon chain.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_13_007.jpg"/>
 </media>
 </figure>
@@ -76,7 +76,7 @@
 <title>Summary</title>
 <para id="para-00011">In this chapter, we’ve discussed the fourth and last of the common carbonyl-group reactions—the carbonyl condensation. A <emphasis effect="bold">carbonyl condensation reaction</emphasis> takes place between two carbonyl partners and involves both nucleophilic addition and <emphasis effect="italics">α</emphasis>-substitution processes. One carbonyl partner is converted by base into a nucleophilic enolate ion, which then adds to the electrophilic carbonyl group of the second partner. The first partner thus undergoes an <emphasis effect="italics">α</emphasis> substitution, while the second undergoes a nucleophilic addition.</para>
 <figure class="unnumbered scaled-down" id="fig-00008">
-<media alt="An illustration shows a chemical reaction between a nucleophilic donor and electrophilic acceptor undergoing carbonyl condensation reaction to yield a product. The structure of the nucleophilic donor shows a radical group bonded to a carbonyl group bonded to a carbon anion with lone pair of electrons having 2 open bonds. The structure of the electrophilic acceptor shows a carbonyl group with the pink oxygen atom having 2 pairs of electrons and having 2 open bonds. The structure of the product shows a radical group bonded to a carbonyl group bonded to a carbon atom having 2 open bonds and bond to a carbon atom having 2 open bonds and bonded to a pink anion with 3 pairs of electrons.">
+<media alt="The structure shows electron transfer from nucleophilic donor to electrophilic acceptor of a carbonyl compound, forming a carbonyl compound with a new carbon-carbon bond.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_001.jpg"/>
 </media>
 </figure>
@@ -90,55 +90,55 @@
 <list list-type="enumerated" id="list-00002">
 <item>Aldol reaction (<link document="m00276"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00009">
-<media alt="Alt Text Placeholder">
+<media alt="The reversible reaction shows two aldehydes with sodium hydroxide/ethanol, forming beta-hydroxy aldehyde. The product is R C H 2 C H O H C H R C H O.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_002.jpg"/>
 </media>
 </figure></item>
 <item>Mixed aldol reaction (<link document="m00280"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00010">
-<media alt="Alt Text Placeholder">
+<media alt="A ketone reacts with phenylaldehyde and sodium hydroxide, ethanol to form a compound with hydroxyl and keto. A ketone reacts with formaldehyde to form a compound with alcohol.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_003.jpg"/>
 </media>
 </figure></item>
 <item>Intramolecular aldol reaction (<link document="m00281"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00011">
-<media alt="Alt Text Placeholder">
+<media alt="The reaction shows the intramolecular aldol formation of a diketocarbonyl compound with sodium ethoxide in ethanol, forming a cyclic carbonyl compound and water as the products.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_004.jpg"/>
 </media>
 </figure></item>
 <item>Dehydration of aldol products (<link document="m00278"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00012">
-<media alt="Alt Text Placeholder">
+<media alt="The reaction shows the dehydration of a beta-hydroxy carbonyl compound, in the presence of sodium hydroxide or hydronium ions, forming an alpha-beta-unsaturated carbonyl compound and water.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_005.jpg"/>
 </media>
 </figure></item>
 <item>Claisen condensation reaction (<link document="m00282"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00013">
-<media alt="Alt Text Placeholder">
+<media alt="Claisen condensation of two molecules of an ester in the presence of sodium ethoxide in ethanol forms a beta keto ester product, releasing alcohol as a byproduct.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_006.jpg"/>
 </media>
 </figure></item>
 <item>Mixed Claisen condensation reaction (<link document="m00283"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00014">
-<media alt="Alt Text Placeholder">
+<media alt="A mixed Claisen condensation between two different esters produces a beta-ketoester product and ethyl alcohol as a byproduct. This reaction forms new carbon-carbon bonds and releases alcohol.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_007.jpg"/>
 </media>
 </figure></item>
 <item>Intramolecular Claisen condensation (Dieckmann cyclization; <link document="m00284"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00015">
-<media alt="Alt Text Placeholder">
+<media alt="The first reaction shows the intramolecular condensation of a diester (six-carbon) forming a cyclic five-membered dicarbonyl. The second reaction shows the formation of cyclic six-membered dicarbonyl (seven-carbon) using sodium ethoxide/ethanol.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_008.jpg"/>
 </media>
 </figure></item>
 <item>Michael reaction (<link document="m00285"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00016">
-<media alt="Alt Text Placeholder">
+<media alt="The reaction of dicarbonyl and alpha, beta-unsaturated carbonyl compound with sodium ethoxide and ethanol, forms a new carbon-carbon bond between the two reactants.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_009.jpg"/>
 </media>
 </figure></item>
 <item>Carbonyl condensations with enamines (Stork enamine reaction; <link document="m00286"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00017">
-<media alt="Alt Text Placeholder">
+<media alt="An enamine reacts with alpha, beta-unsaturated carbonyl compound in T H F solvent followed by acid hydrolysis, yielding a dicarbonyl product, forming a new carbon-carbon bond.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_EC_010.jpg"/>
 </media>
 </figure>
