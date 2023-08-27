@@ -212,7 +212,7 @@
     <section id="sect-00004">
     <title>Ortho- and Para-Directing Activators: Alkyl Groups</title>
     <para id="para-00016">Inductive and resonance effects account not only for reactivity but also for the orientation of electrophilic aromatic substitutions. Take alkyl groups, for instance, which have an electron-donating inductive effect and are ortho and para directors. The results of toluene nitration are shown in <link target-id="fig-00008"/>.</para>
-    <figure id="fig-00008">
+    <figure class="scaled-down" id="fig-00008">
     <media alt="Toluene undergoes nitration reaction to form 63 percent ortho, 3 percent meta, and 34 percent para substituted intermediates. The resonance structures of intermediates are depicted.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_04_011.jpg"/>
     </media>

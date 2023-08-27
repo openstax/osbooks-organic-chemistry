@@ -8,13 +8,13 @@
   <content>
 <para id="para-00001">Carbonyl condensation reactions are perhaps the most versatile methods available for synthesizing complex molecules. By putting a few fundamental reactions together in the proper sequence, some remarkably useful transformations can be carried out. One such example is the <term id="term-00001">Robinson annulation reaction</term> for the synthesis of polycyclic molecules. The word <emphasis effect="italics">annulation</emphasis> derives from the Latin <emphasis effect="italics">annulus,</emphasis> meaning “ring,” so an annulation reaction is one that builds a new ring onto a molecule.</para>
 <para id="para-00002">Named after Robert Robinson, a British chemist and 1947 Nobel Prize winner, the Robinson annulation is a two-step process that combines a Michael reaction with an intramolecular aldol reaction. It takes place between a nucleophilic donor, such as a <emphasis effect="italics">β</emphasis>-keto ester; an enamine, or a <emphasis effect="italics">β</emphasis>-diketone; and an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone acceptor, such as 3-buten-2-one. The product is a substituted 2-cyclohexenone.</para>
-<figure class="unnumbered scaled-down" id="fig-00001">
+<figure class="unnumbered" id="fig-00001">
 <media alt="The Michael addition of 3-buten-2-one and ethyl acetoacetate in the presence of sodium ethoxide forming Michael product (intermediate). Further aldol reaction, in presence of sodium ethoxide, yields ethyl-2-methyl-4-oxocyclohex-2-enecarboxylate (annulation product).">
 <image mime-type="image/jpeg" src="../../media/OChem_23_12_001.jpg"/>
 </media>
 </figure>
 <para id="para-00003">The first step of the Robinson annulation is simply a Michael reaction. An enamine or an enolate ion from a <emphasis effect="italics">β</emphasis>-keto ester or <emphasis effect="italics">β</emphasis>-diketone effects a conjugate addition to an <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated ketone, yielding a 1,5-diketone. But as we saw in <link document="m00281"/>, 1,5-diketones undergo intramolecular aldol condensation to yield cyclohexenones when treated with base. Thus, the final product contains a six-membered ring, and an annulation has been accomplished. One example of this occurs during a synthesis of the steroid hormone estrone (<link target-id="fig-00002"/>).</para>
-<figure class="scaled-down" id="fig-00002">
+<figure id="fig-00002">
 <media alt="The Michael addition of alpha-beta unsaturated ketone (acceptor) with beta-diketone (donor) in base gives intermediate (Michael product). Subsequent reactions give Robinson annulation product, which undergoes multiple reactions to form estrone.">
 <image mime-type="image/jpeg" src="../../media/OChem_23_12_002.jpg"/>
 </media>

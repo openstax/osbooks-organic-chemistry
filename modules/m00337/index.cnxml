@@ -33,7 +33,7 @@
 <section id="sect-00002">
 <title>Step <span class="magenta-text">1</span> of <link target-id="fig-00002"/>: Carboxylation</title>
 <para id="para-00004">Gluconeogenesis begins with the carboxylation of pyruvate to yield oxaloacetate. The reaction is catalyzed by pyruvate carboxylase and requires ATP, bicarbonate ion, and the coenzyme biotin, which acts as a carrier to transport CO<sub>2</sub> to the enzyme active site. The mechanism is analogous to that of step 3 in fatty-acid biosynthesis (<link document="m00333" target-id="fig-00001"/>), in which acetyl CoA is carboxylated to yield malonyl CoA.</para>
-<figure class="unnumbered scaled-down" id="fig-00004">
+<figure class="unnumbered" id="fig-00004">
 <media alt="N-Carboxy biotin mediated pyruvate carboxylation leads to an intermediate, which is protonated to form oxaloacetate.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_002.jpg"/>
 </media>
@@ -42,7 +42,7 @@
 <section id="sect-00003">
 <title>Step <span class="magenta-text">2</span> of <link target-id="fig-00002"/>: Decarboxylation and Phosphorylation</title>
 <para id="para-00005">Decarboxylation of oxaloacetate, a <emphasis effect="italics">β</emphasis>-keto acid, occurs by the typical retro-aldol mechanism like that in step 3 in the citric acid cycle (<link document="m00336" target-id="fig-00001"/>), and phosphorylation of the resultant pyruvate enolate ion by GTP occurs concurrently to give phosphoenolpyruvate. This reaction is catalyzed by phosphoenolpyruvate carboxykinase.</para>
-<figure class="unnumbered scaled-down" id="fig-00005">
+<figure class="unnumbered" id="fig-00005">
 <media alt="Magnesium-mediated phosphorylation of oxaloacetate with guanosine triphosphate yielded phosphoenolpyruvate, carbon dioxide, and guanosine diphosphate.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_005.jpg"/>
 </media>
@@ -51,7 +51,7 @@
 <section id="sect-00004">
 <title>Steps <span class="magenta-text">3</span>–<span class="magenta-text">4</span> of <link target-id="fig-00002"/>: Hydration and Isomerization</title>
 <para id="para-00006">Conjugate nucleophilic addition of water to the double bond of phosphoenolpyruvate gives 2-phosphoglycerate by a process similar to that of step 7 in the citric acid cycle. Phosphorylation of C3 and dephosphorylation of C2 then yields 3-phosphoglycerate. Mechanistically, these steps are the reverse of steps 9 and 8 in glycolysis (<link document="m00334" target-id="fig-00001"/>), which have equilibrium constants near 1 so that substantial amounts of reactant and product are both present.</para>
-<figure class="unnumbered scaled-down" id="fig-00006">
+<figure class="unnumbered" id="fig-00006">
 <media alt="The hydration of phosphoenol pyruvate provided 2-phosphoglycerate that is phosphorated to yield  2,3-bisphosphoglycerate, which was then further hydrolyzed to form 3-phosphoglycerate.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_006.jpg"/>
 </media>
@@ -60,7 +60,7 @@
 <section id="sect-00005">
 <title>Steps <span class="magenta-text">5</span>–<span class="magenta-text">7</span> of <link target-id="fig-00002"/>: Phosphorylation, Reduction, and Tautomerization</title>
 <para id="para-00007">Reaction of 3-phosphoglycerate with ATP generates the corresponding acyl phosphate, 1,3-bisphosphoglycerate, which binds to the glyceraldehyde 3-phosphate dehydrogenase by a thioester bond to a cysteine residue. Reduction of the thioester by NADH/H<sup>+</sup> yields the corresponding aldehyde, and keto–enol tautomerization of the aldehyde gives dihydroxyacetone phosphate. All three steps comprise a mechanistic reversal of the corresponding steps 7, 6, and 5 of glycolysis and have equilibrium constants near 1.</para>
-<figure class="unnumbered scaled-down" id="fig-00007">
+<figure class="unnumbered" id="fig-00007">
 <media alt="3-Phosphoglycerate is converted to dihydroxyacetone phosphate via  1,3-bisphosphoglycerate, an enzyme-bound thioester, and glyceraldehyde 3-phosphate intermediates.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_007.jpg"/>
 </media>
@@ -69,7 +69,7 @@
 <section id="sect-00006">
 <title>Step <span class="magenta-text">8</span> of <link target-id="fig-00003"/>: Aldol Reaction</title>
 <para id="para-00008">Dihydroxyacetone phosphate and glyceraldehyde 3-phosphate, the two 3-carbon units produced in step 7, join by an aldol reaction to give fructose 1,6-bisphosphate, the reverse of step 4 in glycolysis (<link document="m00334" target-id="fig-00006"/>). As in glycolysis, the reaction is catalyzed in plants and animals by a class I aldolase and takes place on an iminium ion formed by reaction of dihydroxyacetone phosphate with a side-chain lysine  –NH<sub>2</sub> group on the enzyme. Loss of a proton from the neighboring carbon then generates an enamine, an aldol-like reaction ensues, and the product is hydrolyzed.</para>
-<figure class="unnumbered scaled-down" id="fig-00008">
+<figure class="unnumbered" id="fig-00008">
 <media alt="Deprotonation of an enzyme-bound iminium ion condenses with  glyceraldehyde-3-phosphate which upon isomerization providee fructose-1,6-bisphosphate.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_008.jpg"/>
 </media>
@@ -79,7 +79,7 @@
 <title>Steps <span class="magenta-text">9</span>–<span class="magenta-text">10</span> of <link target-id="fig-00003"/>: Hydrolysis and Isomerization</title>
 <para id="para-00009">Hydrolysis of the phosphate group at C1 of fructose 1,6-bisphosphate gives fructose 6-phosphate. Although the result of the reaction is the exact opposite of step 3 in glycolysis, the mechanism is not. In glycolysis, phosphorylation is accomplished by reaction of fructose with ATP, with formation of ADP as by-product. The reverse of that process, however—the reaction of fructose 1,6-bisphosphate with ADP to give fructose 6-phosphate and ATP—is energetically unfavorable because ATP is too high in energy. Thus, an alternative pathway is used in which the C1 phosphate group is removed by a direct hydrolysis reaction, catalyzed by fructose 1,6-bisphosphatase.</para>
 <para id="para-00010">Following hydrolysis, keto–enol tautomerization of the carbonyl group from C2 to C1 gives glucose 6-phosphate. The isomerization is the reverse of step 2 in glycolysis.</para>
-<figure class="unnumbered scaled-down" id="fig-00009">
+<figure class="unnumbered" id="fig-00009">
 <media alt="The phosphate hydrolysis of fructose-1,6-bisphosphate yields  fructose-6-phosphate  which isomerizes to glucose-6-phosphate.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_009.jpg"/>
 </media>
@@ -89,13 +89,13 @@
 <title>Step <span class="magenta-text">11</span> of <link target-id="fig-00003"/>: Hydrolysis</title>
 <para id="para-00011">The final step in gluconeogenesis is the conversion of glucose 6-phosphate to glucose by a second phosphatase-catalyzed hydrolysis reaction. As just discussed for the hydrolysis of fructose 1,6-bisphosphate in step 9, and for the same energetic reasons, the mechanism of the glucose 6-phosphate hydrolysis is not the exact opposite of the corresponding step 1 in glycolysis.</para>
 <para id="para-00012">Interestingly, however, the mechanisms of the two phosphate hydrolysis reactions in steps 9 and 11 are not the same. In step 9, water is the nucleophile, but in the glucose 6-phosphate reaction of step 11, a histidine residue on the enzyme attacks phosphorus, giving a phosphoryl enzyme intermediate that subsequently reacts with water.</para>
-<figure class="unnumbered scaled-down" id="fig-00010">
+<figure class="unnumbered" id="fig-00010">
 <media alt="Enzymatic catalyzed dephosphorylation of glucose 6-phosphate to provide glucose and the phosphorylated enzyme.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_010.jpg"/>
 </media>
 </figure>
 <para id="para-00013">The overall result of gluconeogenesis is summarized by the following equation:</para>
-<figure class="unnumbered scaled-down" id="fig-00011">
+<figure class="unnumbered" id="fig-00011">
 <media alt="Pyruvate reacts with adenosine triphosphate, nicotinamide adenine dinucleotide phosphate hydride, hydronium ion, and guanosine triphosphate to form glucose, adenosine diphosphate, nicotinamide adenine dinucleotide cation, guanosine diphosphate, and phosphate ion.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_08_011.jpg"/>
 </media>
