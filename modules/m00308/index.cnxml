@@ -120,7 +120,7 @@
 <item><link document="m00304" target-id="term-00004">aldonic acid</link></item>
 <item><link document="m00299" target-id="term-00004">aldose</link></item>
 <item><link document="m00305" target-id="term-00002">amino sugar</link></item>
-<item><emphasis effect="italics">α</emphasis> anomer, <emphasis effect="italics">β</emphasis> anomer</item>
+<item><link document="m00303" target-id="term-00004"><emphasis effect="italics">α</emphasis> anomer</link>, <link document="m00303" target-id="term-00005"><emphasis effect="italics">β</emphasis> anomer</link></item>
 <item><link document="m00303" target-id="term-00003">anomeric center</link></item>
 <item><link document="m00303" target-id="term-00002">anomer</link></item>
 <item><link document="m00274" target-id="term-00001">carbohydrate</link></item>
@@ -132,8 +132,8 @@
 <item><link document="m00303" target-id="term-00006">furanose</link></item>
 <item><link document="m00304" target-id="term-00001">glycoside</link></item>
 <item><link document="m00299" target-id="term-00005">ketose</link></item>
-<item><link document="m00308" target-id="term-00001">Kiliani-Fischer synthesis</link></item>
-<item><link document="m00304" target-id="term-00002">Koenigs-Knorr reaction</link></item>
+<item><link document="m00304" target-id="term-00008">Kiliani–Fischer synthesis</link></item>
+<item><link document="m00304" target-id="term-00002">Koenigs–Knorr reaction</link></item>
 <item><link document="m00301" target-id="term-00002"><emphasis effect="smallcaps">L</emphasis> sugar</link></item>
 <item><link document="m00299" target-id="term-00002">monosaccharide</link></item>
 <item><link document="m00303" target-id="term-00007">mutarotation</link></item>
@@ -142,14 +142,14 @@
 <item><link document="m00304" target-id="term-00005">reducing sugar</link></item>
 <item><link document="m00299" target-id="term-00001">simple sugar</link></item>
 <item><link document="m00304" target-id="term-00007">uronic acid</link></item>
-<item><link document="m00308" target-id="term-00002">Wohl degradation</link></item>
+<item><link document="m00304" target-id="term-00009">Wohl degradation</link></item>
 </list>
 </section>
 <section class="summary" id="sect-00003">
 <title>Summary</title>
 <para id="para-00007">Now that we’ve now seen all the common functional groups and reaction types, our focus has changed to looking at the major classes of biological molecules. <emphasis effect="bold">Carbohydrates</emphasis> are polyhydroxy aldehydes and ketones. They are classified according to the number of carbon atoms and the kind of carbonyl group they contain. Glucose, for example, is an aldohexose, a six-carbon aldehydo sugar. <emphasis effect="bold">Monosaccharides</emphasis> are further classified as either <emphasis effect="bold"><emphasis effect="smallcaps">D</emphasis> sugars</emphasis> or <emphasis effect="bold"><emphasis effect="smallcaps">L</emphasis> sugars</emphasis>, depending on the stereochemistry of the chirality center farthest from the carbonyl group. Carbohydrate stereochemistry is frequently depicted using <emphasis effect="bold">Fischer projections</emphasis>, which represent a chirality center as the intersection of two crossed lines.</para>
 <para id="para-00008">Monosaccharides normally exist as cyclic hemiacetals rather than as open-chain aldehydes or ketones. The hemiacetal linkage results from reaction of the carbonyl group with an –OH group three or four carbon atoms away. A five-membered cyclic hemiacetal is called a <emphasis effect="bold">furanose</emphasis>, and a six-membered cyclic hemiacetal is called a <emphasis effect="bold">pyranose</emphasis>. Cyclization leads to the formation of a new chirality center called the <emphasis effect="bold">anomeric center</emphasis> and the production of two diastereomeric hemiacetals called <emphasis effect="bold">alpha (<emphasis effect="italics">α</emphasis>) and beta (<emphasis effect="italics">β</emphasis>) anomers</emphasis>.</para>
-<para id="para-00009">Much of the chemistry of monosaccharides is the familiar chemistry of alcohols and aldehydes/ketones. Thus, the hydroxyl groups of carbohydrates form esters and ethers. The carbonyl group of a monosaccharide can be reduced with NaBH<sub>4</sub> to form an <emphasis effect="bold">alditol</emphasis>, oxidized with aqueous Br<sub>2</sub> to form an <emphasis effect="bold">aldonic acid</emphasis>, oxidized with HNO<sub>3</sub> to form an <emphasis effect="bold">aldaric acid</emphasis>, oxidized enzymatically to form a <emphasis effect="bold">uronic acid</emphasis>, or treated with an alcohol in the presence of acid to form a <emphasis effect="bold">glycoside</emphasis>. Monosaccharides can also be chain-lengthened by the multistep <term id="term-00001">Kiliani–Fischer synthesis</term> and can be chain-shortened by <term id="term-00002">Wohl degradation</term>.</para>
+<para id="para-00009">Much of the chemistry of monosaccharides is the familiar chemistry of alcohols and aldehydes/ketones. Thus, the hydroxyl groups of carbohydrates form esters and ethers. The carbonyl group of a monosaccharide can be reduced with NaBH<sub>4</sub> to form an <emphasis effect="bold">alditol</emphasis>, oxidized with aqueous Br<sub>2</sub> to form an <emphasis effect="bold">aldonic acid</emphasis>, oxidized with HNO<sub>3</sub> to form an <emphasis effect="bold">aldaric acid</emphasis>, oxidized enzymatically to form a <emphasis effect="bold">uronic acid</emphasis>, or treated with an alcohol in the presence of acid to form a <emphasis effect="bold">glycoside</emphasis>. Monosaccharides can also be chain-lengthened by the multistep <emphasis effect="bold">Kiliani–Fischer synthesis</emphasis> and can be chain-shortened by <emphasis effect="bold">Wohl degradation</emphasis>.</para>
 <para id="para-00010"><emphasis effect="bold">Disaccharides</emphasis> are complex carbohydrates in which simple sugars are linked by a glycoside bond between the <emphasis effect="bold">anomeric center</emphasis> of one unit and a hydroxyl of the second unit. The sugars can be the same, as in maltose and cellobiose, or different, as in lactose and sucrose. The glycosidic bond can be either <emphasis effect="italics">α</emphasis> (maltose) or <emphasis effect="italics">β</emphasis> (cellobiose, lactose) and can involve any hydroxyl of the second sugar. A 1→4 link is most common (cellobiose, maltose), but others such as 1→2 (sucrose) are also known. <emphasis effect="bold">Polysaccharides</emphasis>, such as cellulose, starch, and glycogen, are used in nature as structural materials, as a means of long-term energy storage, and as cell-surface markers.</para>
 </section>
 <section class="summary-reactions" id="sect-00004">
