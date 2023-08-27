@@ -33,13 +33,13 @@
     <para id="para-00005">Historically, ethylene polymerization was carried out at high pressure (1000–3000 atm) and high temperature (100–250 °C) in the presence of a radical initiator such as benzoyl peroxide. Like many radical reactions, the mechanism of ethylene polymerization occurs in three steps: initiation, propagation, and termination:</para>
     <list id="list-00001">
       <item><span class="magenta-text"><emphasis effect="bold">Initiation</emphasis></span> The polymerization reaction is initiated when a few radicals are generated on heating a small amount of benzoyl peroxide catalyst to break the weak O−O bond. The initially formed benzoyloxy radical loses CO<sub>2</sub> and gives a phenyl radical (Ph<emphasis effect="bold">·</emphasis>), which adds to the <m:math><m:mrow><m:mtext>C&#x2550;C</m:mtext></m:mrow></m:math> bond of ethylene to start the polymerization process. One electron from the ethylene double bond pairs up with the odd electron on the phenyl radical to form a new C−C bond, and the other electron remains on carbon.
-        <figure class="unnumbered scaled-down" id="fig-00003">
+        <figure class="unnumbered" id="fig-00003">
         <media alt="Benzoyl peroxide on heating forms two benzoyloxy radicals, which decompose to phenyl radicals and carbon dioxide molecules. At the bottom, phenyl radical reacts with ethylene to form ethylbenzene radical.">
         <image mime-type="image/jpeg" src="../../media/OChem_08_10_006.jpg"/>
         </media>
         </figure></item>
       <item><span class="magenta-text"><emphasis effect="bold">Propagation</emphasis></span> Polymerization occurs when the carbon radical formed in the initiation step adds to another ethylene molecule to yield another radical. Repetition of the process for hundreds or thousands of times builds the polymer chain.
-        <figure class="unnumbered scaled-down" id="fig-00004">
+        <figure class="unnumbered" id="fig-00004">
         <media alt="A reaction shows the ethylene polymerization of a  phenylethylene radical with ethylene to form a phenylbutyl radical that grows in length with multiple additions of ethylene.">
         <image mime-type="image/jpeg" src="../../media/OChem_08_10_007.jpg"/>
         </media>

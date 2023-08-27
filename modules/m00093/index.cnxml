@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">In addition to the oxymercuration–demercuration method, which yields the Markovnikov product, a complementary method that yields the non-Markovnikov product is also useful. Discovered in 1959 by H.C. Brown at Purdue University and called <term id="term-00001">hydroboration</term>, the reaction involves addition of a B−H bond of borane, BH<sub>3</sub>, to an alkene to yield an organoborane intermediate, RBH<sub>2</sub>. Oxidation of the organoborane by reaction with basic hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>, then gives an alcohol. For example:</para>
-    <figure class="unnumbered scaled-down" id="fig-00001">
+    <figure class="unnumbered" id="fig-00001">
     <media alt="A reaction shows 2-methyl-2-pentene reacting with borane in tetrahydrofuran solvent to form organoborane intermediate, which reacts with basic hydrogen peroxide to form 2-methyl-3-pentanol.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_05_001.jpg"/>
     </media>
@@ -19,7 +19,7 @@
     </media>
     </figure>
     <para id="para-00003">When an alkene reacts with BH<sub>3</sub> in THF solution, rapid addition to the double bond occurs three times and a trialkylborane, R<sub>3</sub>B, is formed. For example, 1 molar equivalent of BH<sub>3</sub> adds to 3 molar equivalents of cyclohexene to yield tricyclohexylborane. When tricyclohexylborane is then treated with aqueous hydrogen H<sub>2</sub>O<sub>2</sub> in basic solution, an oxidation takes place. The three C−B bonds are broken, −OH groups bond to the three carbons, and 3 equivalents of cyclohexanol are produced. The net effect of the two-step hydroboration–oxidation sequence is hydration of the alkene double bond.</para>
-    <figure class="unnumbered scaled-down" id="fig-00003">
+    <figure class="unnumbered" id="fig-00003">
     <media alt="Three cyclohexene molecules react with borane in tetrahydrofuran to form tricyclohexylborane, which reacts with hydrogen peroxide and aqueous sodium hydroxide to form cyclohexanol (87 percent yield) and boric acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_05_003.jpg"/>
     </media>
@@ -31,7 +31,7 @@
     </media>
     </figure>
     <para id="para-00005">Why does alkene hydroboration take place with syn, non-Markovnikov regiochemistry to yield the less highly substituted alcohol? Hydroboration differs from many other alkene addition reactions in that it occurs in a single step without a carbocation intermediate (<link target-id="fig-00005"/>). Because the C−H and C−B bonds form at the same time and from the same face of the alkene, syn stereochemistry results. Non-Markovnikov regiochemistry occurs because attachment of boron is favored at the less sterically crowded carbon atom of the alkene.</para>
-    <figure class="scaled-down" id="fig-00005">
+    <figure id="fig-00005">
     <media alt="A reaction shows 1-methyl-cyclopentene reacting with borane to form an intermediate, which reacts with basic hydrogen peroxide to  form trans-2-methyl-cyclopentanol. Structure of not formed transition state is also depicted.">
     <image mime-type="image/jpeg" src="../../media/OChem_08_05_005.jpg"/>
     </media>

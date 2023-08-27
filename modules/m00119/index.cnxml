@@ -7,7 +7,7 @@
   </metadata>
   <content>
     <para id="para-00001">Many other kinds of organometallic compounds can be prepared in a manner similar to that of Grignard reagents. For instance, alkyllithium reagents, RLi, can be prepared by the reaction of an alkyl halide with lithium metal. Alkyllithiums are both nucleophiles and strong bases, and their chemistry is similar in many respects to that of alkylmagnesium halides.</para>
-    <figure class="unnumbered scaled-down" id="fig-00001">
+    <figure class="unnumbered" id="fig-00001">
     <media alt="1-bromobutane reacts with 2 equivalents of lithium in pentane to form butyllithium and LiBr. C1 of butyllithium (ball-and-stick model in an electrostatic potential map) is labeled basic and nucleophilic.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_001.jpg"/>
     </media>
@@ -24,7 +24,7 @@
     </media>
     </figure>
     <para id="para-00003">This organometallic coupling reaction is useful in organic synthesis because it forms carbon–carbon bonds, thereby allowing the preparation of larger molecules from smaller ones. As the following examples indicate, the coupling reaction can be carried out on aryl and vinylic halides as well as on alkyl halides.</para>
-    <figure class="unnumbered scaled-down" id="fig-00004">
+    <figure class="unnumbered" id="fig-00004">
     <media alt="Trans-1-iodo-1-nonene reacts with lithium dibutylcopper to form trans-5-tridecene (71%), n-butylcopper, and LiI. Iodobenzene reacts with lithium dimethylcopper to form toluene (91%), methyl copper, and LiI.">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_004.jpg"/>
     </media>
@@ -48,7 +48,7 @@
     </media>
     </figure>
     <para id="para-00007">Called the <emphasis effect="italics">Suzuki–Miyaura</emphasis> reaction, this process is particularly useful for preparing so-called biaryl compounds, which have two linked aromatic rings. A large number of commonly used drugs fit this description, so the Suzuki–Miyaura reaction is much-used in the pharmaceutical industry. As an example, valsartan, marketed as Diovan, is widely prescribed to treat high blood pressure, heart failure, and diabetic kidney disease. Its synthesis begins with a Suzuki–Miyaura coupling of <emphasis effect="italics">ortho</emphasis>-chlorobenzonitrile with <emphasis effect="italics">para</emphasis>-methylbenzeneboronic acid.</para>
-    <figure class="unnumbered scaled-down" id="fig-00008">
+    <figure class="unnumbered" id="fig-00008">
     <media alt="The reaction of para-methylbenzeneboronic acid and ortho-chloro-benzonitrile in the presence of palladium catalyst and potassium carbonate forms an intermediate that further produces Valsartan (Diovan).">
     <image mime-type="image/jpeg" src="../../media/OChem_10_07_008.jpg"/>
     </media>
