@@ -8,7 +8,7 @@
   <content>
     <para id="para-00001">Chemists in the late 1800s knew that cyclic molecules existed, but the limitations on ring size were unclear. Although numerous compounds containing five-membered and six-membered rings were known, smaller and larger ring sizes had not been prepared, despite many attempts.</para>
     <para id="para-00002">A theoretical interpretation of this observation was proposed in 1885 by Adolf von Baeyer, who suggested that small and large rings might be unstable due to <term id="term-00001">angle strain</term>&#8212;the strain induced in a molecule when bond angles are forced to deviate from the ideal 109° tetrahedral value. Baeyer based his suggestion on the simple geometric notion that a three-membered ring (cyclopropane) should be an equilateral triangle with bond angles of 60° rather than 109°, a four-membered ring (cyclobutane) should be a square with bond angles of 90°, a five-membered ring should be a regular pentagon with bond angles of 108°, and so on. Continuing this argument, large rings should be strained by having bond angles that are much greater than 109°.</para>
-    <figure class="unnumbered scaled-down" id="fig-00001">
+    <figure class="unnumbered" id="fig-00001">
     <media alt="The bond-line structures of cyclopropane, cyclobutane, cyclopentane, and cyclohexane along with angle strains outside and inside the rings.">
     <image mime-type="image/jpeg" src="../../media/OChem_04_03_001.jpg"/>
     </media>

@@ -8,7 +8,7 @@
   <content>
     <para id="para-00001">Up until now, we’ve viewed molecules primarily in a two-dimensional way and have given little thought to any consequences that might arise from the spatial arrangement of atoms in molecules. Now it’s time to add a third dimension to our study. <term id="term-00001">Stereochemistry</term> is the branch of chemistry concerned with the three-dimensional aspects of molecules. We’ll see on many occasions in future chapters that the exact three-dimensional structure of a molecule is often crucial to determining its properties and biological behavior.</para>
     <para id="para-00002">We know from <link document="m00162"/> that <emphasis effect="italics">σ</emphasis> bonds are cylindrically symmetrical. In other words, the intersection of a plane cutting through a carbon–carbon single-bond orbital looks like a circle. Because of this cylindrical symmetry, rotation is possible around carbon–carbon bonds in open-chain molecules. In ethane, for instance, rotation around the C–C bond occurs freely, constantly changing the spatial relationships between the hydrogens on one carbon and those on the other (<link target-id="fig-00001"/>).</para>
-    <figure class="scaled-down" id="fig-00001">
+    <figure id="fig-00001">
     <media alt="The molecular structure and a ball and stick model of ethane are represented before and after rotation. The rotation occurs around the carbon–carbon single bond.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_06_001.jpg"/>
     </media>
@@ -16,14 +16,14 @@
     </figure>
     <para id="para-00003">The different arrangements of atoms that result from bond rotation are called <term id="term-00002">conformations</term>, and molecules that have different arrangements are called <term id="term-00003">conformational isomers</term>, or <term id="term-00004">conformers</term>. Unlike constitutional isomers, however, different conformers often can’t be isolated because they interconvert too rapidly.</para>
     <para id="para-00004">Conformational isomers are represented in two ways, as shown in <link target-id="fig-00002"/>. A <term id="term-00005">sawhorse representation</term> views the carbon–carbon bond from an oblique angle and indicates spatial orientation by showing all C–H bonds. A <term id="term-00006">Newman projection</term> views the carbon–carbon bond directly end-on and represents the two carbon atoms by a circle. Bonds attached to the front carbon are represented by lines to the center of the circle, and bonds attached to the rear carbon are represented by lines to the edge of the circle.</para>
-    <figure class="scaled-down" id="fig-00002">
+    <figure id="fig-00002">
     <media alt="A sawhorse representation and a Newman projection of ethane are depicted.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_06_002.jpg"/>
     </media>
     <caption><emphasis effect="bold">A sawhorse representation and a Newman projection of ethane.</emphasis> The sawhorse representation views the molecule from an oblique angle, while the Newman projection views the molecule end-on. Note that the molecular model of the Newman projection appears at first to have six atoms attached to a single carbon. Actually, the front carbon, with three attached <emphasis effect="bold"><span class="green-text">green atoms</span></emphasis>, is directly in front of the rear carbon, with three attached <emphasis effect="bold"><span class="magenta-text">red atoms</span></emphasis>.</caption>
     </figure>
     <para id="para-00005">Despite what we’ve just said, we actually don’t observe perfectly free rotation in ethane. Experiments show that there is a small (12 kJ/mol; 2.9 kcal/mol) barrier to rotation and that some conformations are more stable than others. The lowest-energy, most stable conformation is the one in which all six C–H bonds are as far away from one another as possible—<emphasis effect="italics">staggered</emphasis> when viewed end-on in a Newman projection. The highest-energy, least stable conformation is the one in which the six C–H bonds are as close as possible—<emphasis effect="italics">eclipsed</emphasis> in a Newman projection. At any given instant, about 99% of ethane molecules have an approximately <term id="term-00007">staggered conformation</term> and only about 1% are near the <term id="term-00008">eclipsed conformation</term>.</para>
-    <figure class="unnumbered scaled-down" id="fig-00003">
+    <figure class="unnumbered" id="fig-00003">
     <media alt="Staggered conformation of ethane undergoes rotation of rear carbon 60 degrees to form eclipsed conformation of ethane.">
     <image mime-type="image/jpeg" src="../../media/OChem_03_06_003.jpg"/>
     </media>
