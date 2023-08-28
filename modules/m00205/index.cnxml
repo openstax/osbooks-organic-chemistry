@@ -26,13 +26,13 @@
     <section id="sect-00002">
     <title>Conversion of Alcohols into Tosylates</title>
     <para id="para-00005">Alcohols react with <emphasis effect="italics">p</emphasis>-toluenesulfonyl chloride (tosyl chloride, <emphasis effect="italics">p</emphasis>-TosCl) in pyridine solution to yield alkyl tosylates, ROTos (<link document="m00122"/>). Only the O–H bond of the alcohol is broken in this reaction; the C–O bond remains intact, so no change of configuration occurs if the oxygen is attached to a chirality center. The resultant alkyl tosylates behave much like alkyl halides, undergoing both S<sub>N</sub>1 and S<sub>N</sub>2 substitution reactions.</para>
-    <figure class="unnumbered scaled-down" id="fig-00003">
+    <figure class="unnumbered" id="fig-00003">
     <media alt="An alcohol reacts with para-toluenesulfonylchloride in the presence of pyridine to form a tosylate (R O T o S) and pyridine dot hydrogen chloride.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_06_003.jpg"/>
     </media>
     </figure>
     <para id="para-00006">One of the most important reasons for using tosylates in S<sub>N</sub>2 reactions is stereochemical. The S<sub>N</sub>2 reaction of an alcohol with an alkyl halide proceeds with two inversions of configuration—one to make the halide from the alcohol and one to substitute the halide—and yields a product with the same stereochemistry as the starting alcohol. The S<sub>N</sub>2 reaction of an alcohol with a tosylate, however, proceeds with only one inversion and yields a product of opposite stereochemistry to the starting alcohol. <link target-id="fig-00004"/> shows a series of reactions on the <emphasis effect="italics">R</emphasis> enantiomer of 2-octanol that illustrates these stereochemical relationships.</para>
-    <figure class="scaled-down" id="fig-00004">
+    <figure id="fig-00004">
     <media alt="(R)-2-octanol reacts with phosphorus tribromide to form (S)-2-bromooctane. This reacts with sodium ethoxide forming ethyl (R)-1-methylheptyl ether. (R)-2-octanol reacts with para-tosylchloride to form (R)-1-methylheptyl tosylate that forms ethyl (S)-1-methylheptyl ether.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_06_004.jpg"/>
     </media>
@@ -84,7 +84,7 @@
     <caption><emphasis effect="bold">Mechanism for the dehydration of secondary and tertiary alcohols by reaction with POCl<sub>3</sub> in pyridine</emphasis>. The reaction is an E2 process.</caption>
     </figure>
     <para id="para-00013">As noted in <link document="m00132"/>, biological dehydrations are also common and usually occur by an E1cB mechanism on a substrate in which the –OH group is two carbons away from a carbonyl group. One example occurs in the biosynthesis of the aromatic amino acid tyrosine. A base (<emphasis effect="bold">:</emphasis>B) first abstracts a proton from the carbon adjacent to the carbonyl group, and the anion intermediate then expels the –OH group with simultaneous protonation by an acid (HA) to form water.</para>
-    <figure class="unnumbered scaled-down" id="fig-00010">
+    <figure class="unnumbered" id="fig-00010">
     <media alt="A base reacts with 5-dehydroquinate to form an anion intermediate. This is followed by the release of water to form 5-dehydroshikimate. This further forms tyrosine.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_06_011.jpg"/>
     </media>
@@ -101,7 +101,7 @@
     <section id="sect-00006">
     <title>Conversion of Alcohols into Esters</title>
     <para id="para-00015">Alcohols react with carboxylic acids to give esters, a reaction that is common in both the laboratory and living organisms. In the laboratory, the reaction can be carried out in a single step if a strong acid is used as catalyst. More frequently, though, the reactivity of the carboxylic acid is enhanced by first converting it into a carboxylic acid chloride, which then reacts with the alcohol.</para>
-    <figure class="unnumbered scaled-down" id="fig-00011">
+    <figure class="unnumbered" id="fig-00011">
     <media alt="Benzoic acid reacts with methanol, hydrogen chloride, heat to form methyl benzoate. It reacts with thionyl chloride to form benzoyl chloride. Benzoyl chloride reacts with methanol to form methyl benzoate.">
     <image mime-type="image/jpeg" src="../../media/OChem_17_06_013.jpg"/>
     </media>
