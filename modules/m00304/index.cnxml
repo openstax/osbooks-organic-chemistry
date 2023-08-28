@@ -47,7 +47,7 @@
 </figure>
 <para id="para-00008">Glycosides are named by first citing the alkyl group and then replacing the -<emphasis effect="italics">ose</emphasis> ending of the sugar with -<emphasis effect="italics">oside.</emphasis> Like all acetals, glycosides are stable in neutral water. They aren’t in equilibrium with an open-chain form, and they don’t show mutarotation. They can, however, be hydrolyzed to give back the free monosaccharide plus alcohol on treatment with aqueous acid (<link document="m00221"/>).</para>
 <para id="para-00009">Glycosides are abundant in nature, and many biologically important molecules contain glycosidic linkages. For example, digitoxin, the active component of the digitalis preparations used for treatment of heart disease, is a glycoside consisting of a steroid alcohol linked to a trisaccharide. Note also that the three sugars are linked to one another by glycoside bonds.</para>
-<figure class="unnumbered" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="The structure of digitoxin, a glycoside. The trisaccharide and steroid in the structure are labeled.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_006.jpg"/>
 </media>
@@ -60,7 +60,7 @@
 </figure>
 <para id="para-00011">Although the Koenigs–Knorr reaction appears to involve a simple backside S<sub>N</sub>2 displacement of bromide ion by alkoxide ion, the situation is actually more complex. Both <emphasis effect="italics">α</emphasis> and <emphasis effect="italics">β</emphasis> anomers of tetraacetyl-<emphasis effect="smallcaps">D</emphasis>-glucopyranosyl bromide give the same <emphasis effect="italics">β</emphasis>-glycoside product, implying that they react by a common pathway.</para>
 <para id="para-00012">This result can be understood by assuming that tetraacetyl-<emphasis effect="smallcaps">D</emphasis>-glucopyranosyl bromide (either <emphasis effect="italics">α</emphasis> or <emphasis effect="italics">β</emphasis> anomer) undergoes a spontaneous S<sub>N</sub>1-like loss of Br<sup>–</sup>, followed by internal reaction with the ester group at C2 to form an oxonium ion. Since the acetate at C2 is on the bottom of the glucose ring, the C–O bond also forms from the bottom. Backside S<sub>N</sub>2 displacement of the oxonium ion then occurs with the usual inversion of configuration, yielding a <emphasis effect="italics">β</emphasis>-glycoside and regenerating the acetate at C2 (<link target-id="fig-00007"/>).</para>
-<figure id="fig-00007">
+<figure class="scaled-down" id="fig-00007">
 <media alt="Tetraacetyl-D-glucopyranosyl bromide undergoes the elimination of bromide and the anomeric cation is stabilized by neighboring C 2 acetyl. Alcohol displacement of the oxonium ion gives a beta-glycoside.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_008.jpg"/>
 </media>
@@ -149,7 +149,7 @@
 <para id="para-00027">Much early activity in carbohydrate chemistry was devoted to unraveling the stereochemical relationships among monosaccharides. One of the most important methods used was the <term id="term-00008"><emphasis effect="italics">Kiliani–Fischer synthesis</emphasis></term>, which results in the lengthening of an aldose chain by one carbon atom. The C1 aldehyde group of the starting sugar becomes C2 of the chain-lengthened sugar, and a new C1 carbon is added. For example, an aldopentose is converted by Kiliani–Fischer synthesis into two aldohexoses.</para>
 <para id="para-00028">Discovery of the chain-lengthening sequence was initiated by the observation of Heinrich Kiliani in 1886 that aldoses react with HCN to form cyanohydrins (<link document="m00217"/>). Emil Fischer immediately realized the importance of Kiliani’s discovery and devised a method for converting the cyanohydrin nitrile group into an aldehyde.</para>
 <para id="para-00029">Fischer’s original method for conversion of the nitrile into an aldehyde involved hydrolysis to a carboxylic acid, ring closure to a cyclic ester (lactone), and subsequent reduction. A modern improvement involves reducing the nitrile over a palladium catalyst, yielding an imine intermediate that is hydrolyzed to an aldehyde. Note that the cyanohydrin is formed as a mixture of stereoisomers at the new chirality center, so two new aldoses, differing only in their stereochemistry at C2, result from Kiliani–Fischer synthesis. Chain extension of <emphasis effect="smallcaps">D</emphasis>-arabinose, for example, yields a mixture of <emphasis effect="smallcaps">D</emphasis>-glucose and <emphasis effect="smallcaps">D</emphasis>-mannose.</para>
-<figure class="unnumbered" id="fig-00014">
+<figure class="unnumbered scaled-down" id="fig-00014">
 <media alt="Aldoses form cyanohydrins with hydrogen cyanide. Cyanohydrins are reduced with hydrogen and palladium catalyst to yield an imine intermediate that is hydrolyzed to form two chain lengthened aldoses.">
 <image mime-type="image/jpeg" src="../../media/OChem_25_06_015.jpg"/>
 </media>

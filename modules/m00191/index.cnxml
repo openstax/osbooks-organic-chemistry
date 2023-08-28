@@ -21,14 +21,14 @@
     </media>
     </figure>
     <para id="para-00003">Another limitation is that Friedel–Crafts reactions don’t succeed on aromatic rings that are substituted either by a strongly electron-withdrawing group such as carbonyl (C=O) or by a basic amino group that can be protonated. We’ll see in the next section that the presence of a substituent group already on a ring can have a dramatic effect on that ring’s reactivity to further electrophilic substitution. Rings that contain any of the substituents listed in <link target-id="fig-00003"/> do not undergo Friedel–Crafts alkylation.</para>
-    <figure id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <media alt="Benzene bonded to Y and R single bonded to X in the presence of aluminum trichloride do not react with one another. Possible Y groups are mentioned.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_03_003.jpg"/>
     </media>
     <caption><emphasis effect="bold">Limitations on the aromatic substrate in Friedel–Crafts reactions</emphasis>. No reaction occurs if the substrate has either an electron-withdrawing substituent or a basic amino group.</caption>
     </figure>
     <para id="para-00004">A third limitation to the Friedel–Crafts alkylation is that it’s often difficult to stop the reaction after a single substitution. Once the first alkyl group is on the ring, a second substitution reaction is facilitated for reasons we’ll discuss in the next section. Thus, we often observe <emphasis effect="italics">polyalkylation.</emphasis> Reaction of benzene with 1 mol equivalent of 2-chloro-2-methylpropane, for example, yields <emphasis effect="italics">p</emphasis>-di-<emphasis effect="italics">tert</emphasis>-butylbenzene as the major product, along with small amounts of <emphasis effect="italics">tert</emphasis>-butylbenzene and unreacted benzene. A high yield of mono-alkylation product is obtained only when a large excess of benzene is used.</para>
-    <figure class="unnumbered" id="fig-00004">
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="In the presence of aluminum trichloride, benzene reacts with 2-chloro-2-methylpropane. Monosubstituted and disubstituted products are formed, along with unreacted benzene.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_03_004.jpg"/>
     </media>
