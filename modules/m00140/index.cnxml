@@ -9,14 +9,14 @@
     <para id="para-00001">In <term id="term-00001">infrared (IR) spectroscopy</term>, the IR region of the electromagnetic spectrum covers the range from just above the visible (7.8 × 10<sup>–7</sup> m) to approximately 10<sup>–4</sup> m, but only the midportion from 2.5 × 10<sup>–6</sup> m to 2.5 × 10<sup>–5</sup> m is used by organic chemists (<link target-id="fig-00001"/>. Wavelengths within the IR region are usually given in micrometers (1 <emphasis effect="italics">μ</emphasis>m = 10<sup>–6</sup> m), and frequencies are given in wavenumbers rather than in hertz. The <term id="term-00002">wavenumber <m:math><m:mover accent="true"><m:mi>v</m:mi><m:mo>˜</m:mo></m:mover></m:math></term> is the reciprocal of wavelength in centimeters and is therefore expressed in units of cm<sup>–1</sup>.</para>
     <equation class="unnumbered" id="eq-00001"><m:math><m:mrow><m:mtext>Wavenumber:</m:mtext><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mover accent="true"><m:mi>v</m:mi><m:mo>˜</m:mo></m:mover><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>λ</m:mi><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mtext>cm</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></equation>
     <para id="para-00002">Thus, the useful IR region is from 4000 to 400 cm<sup>–1</sup>, corresponding to energies of 48.0 kJ/mol to 4.80 kJ/mol (11.5–1.15 kcal/mol).</para>
-    <figure class="scaled-down" id="fig-00001">
+    <figure id="fig-00001">
     <media alt="A partial electromagnetic spectrum extending from ultraviolet through visible light and infrared to microwave radiation, where ultraviolet is higher in energy and microwave is lower.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_06_001.jpg"/>
     </media>
     <caption><emphasis effect="bold">The infrared and adjacent regions of the electromagnetic spectrum.</emphasis></caption>
     </figure>
     <para id="para-00003">Why does an organic molecule absorb some wavelengths of IR radiation but not others? All molecules have a certain amount of energy and are in constant motion. Their bonds stretch and contract, atoms wag back and forth, and other molecular vibrations occur. Some of the kinds of allowed vibrations are shown below:</para>
-    <figure class="unnumbered scaled-down" id="fig-00002">
+    <figure class="unnumbered" id="fig-00002">
     <media alt="A ball and stick model of four structures showing the bending (in-plane and out-of-plane) and stretching (symmetric and antisymmetric) of bonds. Gray and white spheres represent carbon and hydrogen, respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_12_06_002.jpg"/>
     </media>

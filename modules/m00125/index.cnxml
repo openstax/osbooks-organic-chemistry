@@ -45,20 +45,20 @@
     <caption><emphasis effect="bold">An energy diagram for an S<sub>N</sub>1 reaction.</emphasis> The rate-limiting step is the spontaneous dissociation of the alkyl halide to give a carbocation intermediate. Reaction of the carbocation with a nucleophile then occurs in a second, faster step.</caption>
     </figure>
     <para id="para-00006">Because an S<sub>N</sub>1 reaction occurs through a carbocation intermediate, its stereochemical outcome is different from that of an S<sub>N</sub>2 reaction. Carbocations, as we’ve seen, are planar, <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized, and achiral. Thus, if we carry out an S<sub>N</sub>1 reaction on one enantiomer of a chiral reactant and go through an achiral carbocation intermediate, the product loses its optical activity (<link document="m00100"/>). That is, the symmetrical intermediate carbocation can react with a nucleophile equally well from either side, leading to a racemic, 50 : 50 mixture of enantiomers (<link target-id="fig-00004"/>).</para>
-    <figure class="scaled-down" id="fig-00004">
+    <figure id="fig-00004">
     <media alt="The reaction is represented using ball-and-stick model. Chiral substrate undergoes dissociation to form a planar, achiral carbocation intermediate, which reacts with nucleophile to produce 50% inversion or 50% retention of configurations.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_04_004.jpg"/>
     </media>
     <caption><emphasis effect="bold">Stereochemistry of the S<sub>N</sub>1 reaction.</emphasis> Because the reaction goes through an achiral intermediate, an enantiomerically pure reactant gives an optically inactive racemic product.</caption>
     </figure>
     <para id="para-00007">The conclusion that S<sub>N</sub>1 reactions on enantiomerically pure substrates should give racemic products is nearly, but not exactly, what is found. In fact, few S<sub>N</sub>1 displacements occur with complete racemization. Most give a minor (0–20%) excess of inversion. The reaction of (<emphasis effect="italics">R</emphasis>)-6-chloro-2,6-dimethyloctane with H<sub>2</sub>O, for example, leads to an alcohol product that is approximately 80% racemized and 20% inverted (80% <emphasis effect="italics">R,S</emphasis> + 20% <emphasis effect="italics">S</emphasis> is equivalent to 40% <emphasis effect="italics">R</emphasis> + 60% <emphasis effect="italics">S</emphasis>).</para>
-    <figure class="unnumbered scaled-down" id="fig-00005">
+    <figure class="unnumbered" id="fig-00005">
     <media alt="A reaction of (R)-6-chloro-2,6-dimethyloctane with water and ethanol, forms two products with 60% S (inversion) and 40% R (retention), respectively.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_04_005.jpg"/>
     </media>
     </figure>
     <para id="para-00008">This lack of complete racemization in S<sub>N</sub>1 reactions is due to the fact that <term id="term-00005"><emphasis effect="italics">ion pairs</emphasis></term> are involved. According to this explanation, first proposed by Saul Winstein at UCLA, dissociation of the substrate occurs to give a structure in which the two ions are still loosely associated and in which the carbocation is effectively shielded from reaction on one side by the departing anion. If a certain amount of substitution occurs before the two ions fully diffuse apart, then a net inversion of configuration will be observed (<link target-id="fig-00006"/>).</para>
-    <figure class="scaled-down" id="fig-00006">
+    <figure id="fig-00006">
     <media alt="The reaction is represented using ball-and-stick model. Chiral substrate undergoes dissociation to form intermediates and yields two products by racemization (from free carbocation) and one product by inversion (from ion pair).">
     <image mime-type="image/jpeg" src="../../media/OChem_11_04_006.jpg"/>
     </media>

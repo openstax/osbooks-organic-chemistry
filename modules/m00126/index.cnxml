@@ -11,7 +11,7 @@
     <title>The Substrate</title>
     <para id="para-00002">According to the Hammond postulate (<link document="m00072"/>), any factor that stabilizes a high-energy intermediate also stabilizes the transition state leading to that intermediate. Because the rate-limiting step in an S<sub>N</sub>1 reaction is the spontaneous, unimolecular dissociation of the substrate to yield a carbocation, the reaction is favored whenever a stabilized carbocation intermediate is formed. The more stable the carbocation intermediate, the faster the S<sub>N</sub>1 reaction.</para>
     <para id="para-00003">We saw in <link document="m00071"/> that the stability order of alkyl carbocations is 3° > 2° > 1° > methyl. To this list we should also add the resonance-stabilized allyl and benzyl cations. Just as allylic radicals are unusually stable because the unpaired electron can be delocalized over an extended <emphasis effect="italics">π</emphasis> orbital system (<link document="m00116"/>), so allylic and benzylic carbocations are unusually stable. (The word <term id="term-00001">benzylic</term> means “next to an aromatic ring.”) As <link target-id="fig-00001"/> indicates, an allylic cation has two resonance forms. In one form, the double bond is on the “left”; in the other form it’s on the “right.” A benzylic cation has five resonance forms, all of which contribute to the overall resonance hybrid.</para>
-    <figure class="scaled-down" id="fig-00001">
+    <figure id="fig-00001">
     <media alt="Resonance forms and electrostatic potential maps of allyl carbocation and benzyl carbocation. Two resonance forms of allyl carbocation and five resonance forms of benzyl carbocation.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_05_001.jpg"/>
     </media>

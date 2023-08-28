@@ -28,7 +28,7 @@
     </media>
     </figure>
     <para id="para-00005">What’s so special about periplanar geometry? Because the <emphasis effect="italics">sp</emphasis><sup>3</sup> <emphasis effect="italics">σ</emphasis> orbitals in the reactant C–H and C–X bonds must overlap and become <emphasis effect="italics">p π</emphasis> orbitals in the alkene product, there must also be some overlap in the transition state. This can occur most easily if all the orbitals are in the same plane to begin with—that is, if they’re periplanar (<link target-id="fig-00004"/>).</para>
-    <figure class="scaled-down" id="fig-00004">
+    <figure id="fig-00004">
     <media alt="Orbital representation of E 2 reaction. Anti periplanar reactant reacts with base and forms anti transition state which further forms alkene as the product.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_08_004.jpg"/>
     </media>
@@ -41,7 +41,7 @@
     </media>
     </figure>
     <para id="para-00007">Anti periplanar geometry for E2 eliminations has specific stereochemical consequences that provide strong evidence for the proposed mechanism. To take just one example, <emphasis effect="italics">meso</emphasis>-1,2-dibromo-1,2-diphenylethane undergoes E2 elimination on treatment with base to give only the <emphasis effect="italics">E</emphasis> alkene. None of the isomeric <emphasis effect="italics">Z</emphasis> alkene is formed because the transition state leading to the <emphasis effect="italics">Z</emphasis> alkene would have to have syn periplanar geometry and would thus be higher in energy.</para>
-    <figure class="unnumbered scaled-down" id="fig-00006">
+    <figure class="unnumbered" id="fig-00006">
     <media alt="A reaction of meso-1,2-dibromo-1,2-diphenylethane with base in the presence of K O H and ethanol, forms (E)-1-bromo-1,2-diphenylethylene. The structural formula and Newman projection of the reactant and product are mentioned.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_08_006.jpg"/>
     </media>
