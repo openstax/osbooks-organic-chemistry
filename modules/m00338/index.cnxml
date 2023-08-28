@@ -31,7 +31,7 @@
 <section id="sect-00002">
 <title>Step <span class="magenta-text">1</span> of <link target-id="fig-00003"/>: Transimination</title>
 <para id="para-00004">The first step in trans<emphasis effect="italics">amination</emphasis> is trans<emphasis effect="italics">imination</emphasis>—the reaction of the PLP–enzyme imine with an <emphasis effect="italics">α</emphasis>-amino acid to give a PLP–amino acid imine plus expelled enzyme as the leaving group. The reaction occurs by nucleophilic addition of the amino acid  –NH<sub>2</sub> group to the <m:math><m:mrow><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>N</m:mtext></m:mrow></m:math> bond of the PLP imine, much as an amine adds to the <m:math><m:mrow><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>O</m:mtext></m:mrow></m:math> bond of a ketone or aldehyde in a nucleophilic addition reaction (<link document="m00219"/>). The protonated diamine intermediate undergoes a proton transfer and expels the lysine amino group in the enzyme to complete the step.</para>
-<figure class="unnumbered" id="fig-00004">
+<figure class="unnumbered scaled-down" id="fig-00004">
 <media alt="An enzyme-bound PLP-amino acid imine reacts with an amino acid to provide a diamine intermediate which decomposes to a PlP-amino acid imine and the free amino enzyme.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_09_004.jpg"/>
 </media>
@@ -41,7 +41,7 @@
 <title>Steps <span class="magenta-text">2</span>–<span class="magenta-text">4</span> of <link target-id="fig-00003"/>: Tautomerization and Hydrolysis</title>
 <para id="para-00005">Following formation of the PLP–amino acid imine in <emphasis effect="bold"><span class="magenta-text">step 1</span></emphasis>, a tautomerization of the <m:math><m:mrow><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>N</m:mtext></m:mrow></m:math> bond occurs in <emphasis effect="bold"><span class="magenta-text">step 2</span></emphasis>. The basic lysine residue in the enzyme that was expelled as a leaving group during transimination deprotonates the acidic <emphasis effect="italics">α</emphasis> position of the amino acid, with the protonated pyridine ring of PLP acting as the electron acceptor. Reprotonation occurs on the carbon atom next to the ring, generating a tautomeric product that is the imine of an <emphasis effect="italics">α</emphasis>-keto acid with pyridoxamine phosphate, abbreviated PMP.</para>
 <para id="para-00006">Hydrolysis of this PMP–<emphasis effect="italics">α</emphasis>-keto acid imine then completes the first part of the transamination reaction. This is the mechanistic reverse of imine formation and occurs by nucleophilic addition of water to the imine, followed by proton transfer and expulsion of PMP as leaving group.</para>
-<figure class="unnumbered" id="fig-00005">
+<figure class="unnumbered scaled-down" id="fig-00005">
 <media alt="PLP-amino acid imine reacts with an amino-bound enzyme to form an alpha-keto imine, which isomerizes to an imine tautomer, upon hydrolysis provided  pyridoxamine phosphate and an alpha-keto acid.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_09_005.jpg"/>
 </media>
@@ -51,7 +51,7 @@
 <section id="sect-00004">
 <title>Regeneration of PLP from PMP</title>
 <para id="para-00007">With PLP plus the <emphasis effect="italics">α</emphasis>-amino acid now converted into PMP plus an <emphasis effect="italics">α</emphasis>-keto acid, PMP must be transformed back into PLP to complete the catalytic cycle. The conversion occurs by another transamination reaction, this one between PMP and an <emphasis effect="italics">α</emphasis>-keto acid, usually <emphasis effect="italics">α</emphasis>-ketoglutarate. The products are PLP plus glutamate, and the mechanism is the exact reverse of that shown in <link target-id="fig-00003"/>. That is, PMP and <emphasis effect="italics">α</emphasis>-ketoglutarate give an imine; the PMP–<emphasis effect="italics">α</emphasis>-ketoglutarate imine undergoes tautomerization of the <m:math><m:mrow><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>N</m:mtext></m:mrow></m:math> bond to give a PLP–glutamate imine; and the PLP–glutamate imine reacts with a lysine residue on the enzyme in a transimination process to yield PLP–enzyme imine plus glutamate.</para>
-<figure class="unnumbered" id="fig-00006">
+<figure class="unnumbered scaled-down" id="fig-00006">
 <media alt="Pyridoxamine phosphate reacts with alpha-ketoglutarate to form a pyridoxal phosphate bound enzyme imine, with the release of water and glutamate.">
 <image mime-type="image/jpeg" src="../../media/OChem_29_09_006.jpg"/>
 </media>

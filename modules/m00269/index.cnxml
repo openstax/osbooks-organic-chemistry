@@ -42,7 +42,7 @@
 </media>
 <caption><emphasis effect="bold">The mevalonate pathway for the biosynthesis of isopentenyl diphosphate from three molecules of acetyl CoA.</emphasis> Individual steps are explained in the text.</caption>
 </figure>
-<figure class="unnumbered scaled-down" id="fig-00005">
+<figure class="unnumbered" id="fig-00005">
 <media alt="Base catalyzed Aldol condensation of acetyl CoA with an enzyme-bound thiol diketone generated a tetrahedral intermediate which collapses to (3 S)-3-hydroxy-3-methylglutaryl coenzyme A.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_005.jpg"/>
 </media>
@@ -51,7 +51,7 @@
 <section id="sect-00004">
 <title>Step <span class="magenta-text">3</span> of <link target-id="fig-00004"/>: Reduction</title>
 <para id="para-00007">Reduction of HMG-CoA to give (<emphasis effect="italics">R</emphasis>)-mevalonate is catalyzed by 3-hydroxy-3-methylglutaryl-CoA reductase and requires 2 equivalents of reduced nicotinamide adenine dinucleotide phosphate (NADPH), a close relative of NADH (<link document="m00223"/>). The reaction occurs in two steps and proceeds through an aldehyde intermediate. The first step is a nucleophilic acyl substitution reaction involving hydride transfer from NADPH to the thioester carbonyl group of HMG-CoA. Following expulsion of HSCoA as leaving group, the aldehyde intermediate undergoes a second hydride addition to give mevalonate.</para>
-<figure class="unnumbered scaled-down" id="fig-00006">
+<figure class="unnumbered" id="fig-00006">
 <media alt="H M G CoA is reduced by two nicotinamide adenine dinucleotide phosphate hydride molecules to form an aldehyde intermediate and then (R)-mevalonate.">
 <image mime-type="image/jpeg" src="../../media/OChem_27_05_006.jpg"/>
 </media>

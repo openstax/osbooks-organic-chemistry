@@ -14,7 +14,7 @@
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_001.jpg"/>
 </media>
 </figure>
-<figure class="unnumbered scaled-down" id="fig-00002">
+<figure class="unnumbered" id="fig-00002">
 <media alt="The figure shows the structure of four bases named N-protected adenine, N-protected guanine, N-protected cytosine, and thymine. Wavy line denotes bond extension.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_002.jpg"/>
 </media>
@@ -26,13 +26,13 @@
 </media>
 </figure>
 <para id="para-00005"><emphasis effect="bold"><span class="red-text">STEP 3</span></emphasis><newline/>The third step is the coupling of the polymer-bonded deoxynucleoside with a protected deoxynucleoside containing a <emphasis effect="italics">phosphoramidite</emphasis> group [R<sub>2</sub>NP(OR)<sub>2</sub>] at its 3′ position. The coupling reaction takes place in the polar aprotic solvent acetonitrile, requires catalysis by the heterocyclic amine tetrazole, and yields a <emphasis effect="italics">phosphite,</emphasis> P(OR)<sub>3</sub>, as product. Note that one of the phosphorus oxygen atoms is protected by a <emphasis effect="italics">β</emphasis>-cyanoethyl group, <m:math><m:mrow><m:mo>–</m:mo><m:msub><m:mrow><m:mtext>OCH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C≡N</m:mtext></m:mrow></m:math>. The coupling step takes place with better than 99% yield.</para>
-<figure class="unnumbered scaled-down" id="fig-00004">
+<figure class="unnumbered" id="fig-00004">
 <media alt="The third step of D N A synthesis. The reaction of two nucleosides in presence of tetrazole forms a product where the phosphoramidite group is replaced by the phosphite group.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_004.jpg"/>
 </media>
 </figure>
 <para id="para-00006"><emphasis effect="bold"><span class="red-text">STEP 4</span></emphasis><newline/>With the coupling accomplished, the phosphite product is oxidized to a phosphate by treatment with iodine in aqueous tetrahydrofuran in the presence of 2,6-dimethylpyridine. The cycle of (<emphasis effect="bold"><span class="red-text">1</span></emphasis>) deprotection, (<emphasis effect="bold"><span class="red-text">2</span></emphasis>) coupling, and (<emphasis effect="bold"><span class="red-text">3</span></emphasis>) oxidation is then repeated until an oligonucleotide chain of the desired sequence has been constructed.</para>
-<figure class="unnumbered scaled-down" id="fig-00005">
+<figure class="unnumbered" id="fig-00005">
 <media alt="The fourth step of D N A synthesis. It involves the oxidation of the phosphite product to phosphate by reaction with iodine along with 2,6 dimethylpyridine in aqueous tetrahydrofuran.">
 <image mime-type="image/jpeg" src="../../media/OChem_28_07_005.jpg"/>
 </media>

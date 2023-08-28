@@ -8,7 +8,7 @@
   <content>
 <para id="para-00001">Once the structure of a peptide is known, its synthesis can be undertaken—perhaps to obtain a larger amount for biological evaluation. A simple amide might be formed by treating an amine and a carboxylic acid with a carbodiimide (either DCC or EDC; <link document="m00241"/>), but peptide synthesis is a more difficult problem because many different amide bonds must be formed in a specific order, rather than at random.</para>
 <para id="para-00002">The solution to the specificity problem is protection (<link document="m00207"/>). If we want to couple alanine with leucine to synthesize Ala-Leu, for instance, we could protect the –NH<sub>2</sub> group of alanine and the –CO<sub>2</sub>H group of leucine to shield them from reacting, then form the desired Ala-Leu amide bond by reaction with EDC or DCC, and then remove the protecting groups.</para>
-<figure class="unnumbered scaled-down" id="fig-00001">
+<figure class="unnumbered" id="fig-00001">
 <media alt="The coupling of an N-protected L-alanine  and a carboxyl-protected L-leucine  ester with D C C, followed by deprotection of the protecting groups  provided the corresponding dipeptide  Ala-Leu">
 <image mime-type="image/jpeg" src="../../media/OChem_26_07_001.jpg"/></media>
 </figure>

@@ -8,13 +8,13 @@
 <content>
 <para id="para-00001">Synthetic polymers are classified by their method of synthesis as either <emphasis effect="italics">chain-growth</emphasis> or <emphasis effect="italics">step-growth</emphasis>. These categories are somewhat imprecise but nevertheless provide a useful distinction. <term id="term-00001">Chain-growth polymers</term> are produced by chain-reaction polymerization in which an initiator adds to the carbon–carbon double bond of an unsaturated substrate (a <emphasis effect="italics">vinyl monomer</emphasis>) to yield a reactive intermediate. This intermediate reacts with a second molecule of monomer to yield a new intermediate, which reacts with a third monomer unit, and so on.</para>
 <para id="para-00002">The initiator can be a radical, an acid, or a base. Historically, as we saw in <link document="m00098"/>, radical polymerization was the most common method because it can be carried out with practically any vinyl monomer.</para>
-<figure class="unnumbered scaled-down" id="fig-00001">
+<figure class="unnumbered" id="fig-00001">
 <media alt="Benzoyl peroxide reacts with heat to form benzoyloxy radical, which reacts to form phenyl radical. Phenyl radical reacts with ethene to form ethylbenzene radical; continued polymerization with ethene forms product.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_01_001.jpg"/>
 </media>
 </figure>
 <para id="para-00003">Acid-catalyzed (cationic) polymerization, by contrast, is effective only with vinyl monomers that contain an electron-donating group (EDG) capable of stabilizing the chain-carrying carbocation intermediate.</para>
-<figure class="unnumbered scaled-down" id="fig-00002">
+<figure class="unnumbered" id="fig-00002">
 <media alt="Acid reacts with a vinyl monomer bonded to an electron-donating group to form a cationic intermediate. Continued reaction with units of monomer result in polymerization (always via cation formation).">
 <image mime-type="image/jpeg" src="../../media/OChem_31_01_002.jpg"/>
 </media>
@@ -26,19 +26,19 @@
 </media>
 </figure>
 <para id="para-00005">Vinyl monomers with electron-withdrawing groups (EWG) can be polymerized by basic (anionic) catalysts. The chain-carrying step is a conjugate nucleophilic addition of an anion to the unsaturated monomer (<link document="m00224"/>).</para>
-<figure class="unnumbered scaled-down" id="fig-00004">
+<figure class="unnumbered" id="fig-00004">
 <media alt="A nucleophile reacts with a vinyl monomer bonded to an electron-withdrawing group to form an anionic intermediate. Continued reaction with units of monomer result in polymerization (always via anion formation).">
 <image mime-type="image/jpeg" src="../../media/OChem_31_01_004.jpg"/>
 </media>
 </figure>
 <para id="para-00006">Acrylonitrile (<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>CHCN</m:mtext></m:mrow></m:math>), methyl methacrylate [<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>C</m:mtext><m:mo stretchy="false">(</m:mo><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math>], and styrene (<m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:msub><m:mrow><m:mtext>CHC</m:mtext></m:mrow><m:mn>6</m:mn></m:msub><m:msub><m:mtext>H</m:mtext><m:mn>5</m:mn></m:msub></m:mrow></m:math>) can all be polymerized anionically. The polystyrene used in foam coffee cups, for example, is prepared by anionic polymerization of styrene using butyllithium as catalyst.</para>
-<figure class="unnumbered scaled-down" id="fig-00005">
+<figure class="unnumbered" id="fig-00005">
 <media alt="Butyl lithium reacts with styrene to form an anionic intermediate that further reacts with styrene. The process repeats many times to give polystyrene.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_01_005.jpg"/>
 </media>
 </figure>
 <para id="para-00007">An interesting example of anionic polymerization accounts for the remarkable properties of “super glue,” one drop of which can support up to 2000 lb. Super glue is simply a solution of pure methyl <emphasis effect="italics">α</emphasis>-cyanoacrylate, which has two electron-withdrawing groups that make anionic addition particularly easy. Trace amounts of water or bases on the surface of an object are sufficient to initiate polymerization of the cyanoacrylate and bind articles together. Skin is a good source of the necessary basic initiators, and many people have found their fingers stuck together after inadvertently touching super glue. So good is super glue at binding tissues that related cyanoacrylate esters such as Dermabond are often used in place of sutures to close wounds.</para>
-<figure class="unnumbered scaled-down" id="fig-00006">
+<figure class="unnumbered" id="fig-00006">
 <media alt="Methyl alpha cyanoacrylate reacts with a nucleophile with lone pair to give an intermediate, that forms a polymer. The figure below shows the structure of dermabond, 2-ethylhexyl alpha cyanoacrylate.">
 <image mime-type="image/jpeg" src="../../media/OChem_31_01_006.jpg"/>
 </media>
