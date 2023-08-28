@@ -28,8 +28,8 @@
     </media>
     <caption><emphasis effect="bold">The origin of 1,3-diaxial interactions in methylcyclohexane.</emphasis> The steric strain between <emphasis effect="bold"><span class="magenta-text">an axial methyl group</span></emphasis> and <emphasis effect="bold"><span class="magenta-text">an axial hydrogen atom</span></emphasis> three carbons away is identical to the steric strain in gauche butane. (To display clearly the diaxial interactions in methylcyclohexane, two of the equatorial hydrogens are not shown.)</caption>
     </figure>
-    <para id="para-00005">The exact amount of 1,3-diaxial steric strain in a substituted cyclohexane depends on the nature and size of the substituent, as indicated in <link target-id="table-00001"/>. Not surprisingly, the amount of steric strain increases through the series H<sub>3</sub>C− &lt; CH<sub>3</sub>CH<sub>2</sub>− &lt; (CH<sub>3</sub>)<sub>2</sub>CH–&lt;&lt; (CH<sub>3</sub>)<sub>3</sub>C−, paralleling the increasing size of the alkyl groups. Note that the values in <link target-id="table-00001"/> refer to 1,3-diaxial interactions of the substituent with a single hydrogen atom. These values must be doubled to arrive at the amount of strain in a monosubstituted cyclohexane.</para>
-    <table id="table-00001" summary="Alt Text Placeholder">
+    <para id="para-00005">The exact amount of 1,3-diaxial steric strain in a substituted cyclohexane depends on the nature and size of the substituent, as indicated in <link target-id="table-00001"/>. Not surprisingly, the amount of steric strain increases through the series H<sub>3</sub>C− &lt; CH<sub>3</sub>CH<sub>2</sub>− &lt; (CH<sub>3</sub>)<sub>2</sub>CH–&lt;&lt; (CH<sub>3</sub>)<sub>3</sub>C−, paralleling the increasing size of the alkyl groups. Note that the values given in <link target-id="table-00001"/> refer to a single 1,3-diaxial interaction of the substituent with one H atom. But as shown previously in <link target-id="fig-00003"/>, a monosubstituted cyclohexane has two 1,3 diaxial interactions of the substituent with two H atoms, so the total amount of steric strain in the molecule is twice that shown in <link target-id="table-00001"/>.</para>
+    <table id="table-00001" summary=" ">
     <title>Steric Strain in Monosubstituted Cyclohexanes</title>
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
@@ -39,7 +39,7 @@
     <thead>
     <row valign="top">
     <entry valign="top" align="left" rowsep="0"></entry>
-    <entry valign="top" align="left" namest="c2" nameend="c3">1,3-Diaxial strain</entry>
+    <entry valign="top" align="left" namest="c2" nameend="c3">a 1,3-Diaxial strain</entry>
     <entry valign="top" align="left" morerows="1">
     <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="In the chain conformation of cyclohexane, C1 is bonded to axial Y. C3 is bonded to axial hydrogen. Both H and Y have a double-headed arrow in-between.">
