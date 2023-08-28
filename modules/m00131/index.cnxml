@@ -24,7 +24,7 @@
     </figure>
     <para id="para-00003">Much evidence has been obtained in support of the E1 mechanism. For example, E1 reactions show first-order kinetics, consistent with a rate-limiting, unimolecular dissociation process. Furthermore, E1 reactions show no deuterium isotope effect because rupture of the C–H (or C–D) bond occurs after the rate-limiting step rather than during it. Thus, we can’t measure a rate difference between a deuterated and nondeuterated substrate.</para>
     <para id="para-00004">A final piece of evidence involves the stereochemistry of elimination. Unlike the E2 reaction, where anti periplanar geometry is required, there is no geometric requirement on the E1 reaction because the halide and the hydrogen are lost in separate steps. We might therefore expect to obtain the more stable (Zaitsev’s rule) product from E1 reaction, which is just what we find. To return to a familiar example, menthyl chloride loses HCl under E1 conditions in a polar solvent to give a mixture of alkenes in which the Zaitsev product, 3-menthene, predominates (<link target-id="fig-00003"/>).</para>
-    <figure id="fig-00003">
+    <figure class="scaled-down" id="fig-00003">
     <media alt="The figure shows the elimination reactions of menthyl chloride. Under E2 conditions, the reactant forms 2-menthene (100%). Under E1 conditions, the reactant forms 2-menthene (32%) and 3-menthene (68%).">
     <image mime-type="image/jpeg" src="../../media/OChem_11_10_003.jpg"/>
     </media>
@@ -34,7 +34,7 @@
     <section id="sect-00002">
     <title>The E1cB Reaction</title>
     <para id="para-00005">In contrast to the E1 reaction, which involves a carbocation intermediate, the <term id="term-00002">E1cB reaction</term> takes place through a carbanion intermediate. Base-induced abstraction of a proton in a slow, rate-limiting step gives an anion, which expels a leaving group on the adjacent carbon. The reaction is particularly common in substrates that have a poor leaving group, such as –OH, two carbons removed from a carbonyl group, as in <m:math><m:mrow><m:mtext>HOC&#x2013;CH&#x2013;C&#x2550;O</m:mtext></m:mrow></m:math>. The poor leaving group disfavors the alternative E1 and E2 possibilities, and the carbonyl group makes the adjacent hydrogen unusually acidic by resonance stabilization of the anion intermediate. We’ll look at this acidifying effect of a carbonyl group in <emphasis effect="bold">Section 22.5</emphasis>.</para>
-    <figure class="unnumbered" id="fig-00004">
+    <figure class="unnumbered scaled-down" id="fig-00004">
     <media alt="The reaction mechanism of a beta-halogenated carbonyl compound with a base. The alpha proton is lost to form two resonance-stabilized anions. Loss of halogen results in vinyl carbonyl product.">
     <image mime-type="image/jpeg" src="../../media/OChem_11_10_004.jpg"/>
     </media>
