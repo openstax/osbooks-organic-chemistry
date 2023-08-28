@@ -32,25 +32,25 @@
 <section id="sect-00003">
 <title>S<sub>N</sub>2 Reactions of Alkyl Halides</title>
 <para id="para-00004">Ammonia and other amines are good nucleophiles in S<sub>N</sub>2 reactions. As a result, the simplest method of alkylamine synthesis is by S<sub>N</sub>2 alkylation of ammonia or an alkylamine with an alkyl halide. If ammonia is used, a primary amine results; if a primary amine is used, a secondary amine results; and so on. Even tertiary amines react rapidly with alkyl halides to yield quaternary ammonium salts, R<sub>4</sub>N<sup>+</sup> X<sup>–</sup>.</para>
-<figure class="unnumbered scaled-down" id="fig-00003">
+<figure class="unnumbered" id="fig-00003">
 <media alt="An illustration shows four reactions. In the first reaction ammonia with two electrons reacts with R-X (SN2 reaction) to yield RNH3 plus X minus that reacts with NaOH to yield a primary amine (blue RNH2). In the second reaction primary amine with two electrons reacts with R-X (SN2 reaction) to yield R2NH2 plus X minus that reacts with NaOH to yield a secondary amine (green R2NH). In the third reaction secondary amine with two electrons reacts with R-X (SN2 reaction) to yield R3NH plus X minus that reacts with NaOH to yield a tertiary amine (pink R3N). In the fourth reaction tertiary amine with two electrons reacts with R-X (SN2 reaction) to yield R4N plus X minus (Quaternary ammonium). In all the reactions an arrow from the electrons of nitrogen points to R of RX. An arrow from the R-X bond points to X.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_06_003.jpg"/>
 </media>
 </figure>
 <para id="para-00005">Unfortunately, these reactions don’t stop cleanly after a single alkylation has occurred. Because ammonia and primary amines have similar reactivity, the initially formed monoalkylated substance often undergoes further reaction to yield a mixture of products. Even secondary and tertiary amines undergo further alkylation, although to a lesser extent. For example, treatment of 1-bromooctane with a twofold excess of ammonia leads to a mixture containing only 45% octylamine. A nearly equal amount of dioctylamine is produced by double alkylation, along with smaller amounts of trioctylamine and tetraoctylammonium bromide.</para>
-<figure class="unnumbered scaled-down" id="fig-00004">
+<figure class="unnumbered" id="fig-00004">
 <media alt="Alt Text Placeholder">
 <image mime-type="image/jpeg" src="../../media/OChem_24_06_004.jpg"/>
 </media>
 </figure>
 <para id="para-00006">A better method for preparing primary amines is to use azide ion, N<sub>3</sub><sup>–</sup>, rather than ammonia, as the nucleophile for S<sub>N</sub>2 reaction with a primary or secondary alkyl halide. The product is an alkyl azide, which is not nucleophilic, so overalkylation can’t occur. Subsequent reduction of the alkyl azide with LiAlH<sub>4</sub> then leads to the desired primary amine. Although this method works well, low-molecular-weight alkyl azides are explosive and must be handled carefully.</para>
-<figure class="unnumbered scaled-down" id="fig-00005">
+<figure class="unnumbered" id="fig-00005">
 <media alt="An illustration shows a reaction in which 1-Bromo-2-phenylethane reacts with blue NaN3 and ethanol to yield 2-Phenylethyl azide that further reacts in the presence of blue Li AlH4 ether and water to yield 2-Phenylethylamine (89%). 1-Bromo-2-phenylethane shows benzene with C1 bonded to a methylene group bonded to bromomethane (bromine is pink). 2-Phenylethyl azide is similar to 1-Bromo-2-phenylethane but the bromine is replaced by a chain of three blue nitrogen atoms. N2 is double bonded to N1 and N3. N2 is a cation; N3 is an anion. 2-Phenylethylamine is similar to 1-Bromo-2-phenylethane but the bromine is replaced by a blue amino group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_06_005.jpg"/>
 </media>
 </figure>
 <para id="para-00007">Another alternative for preparing a primary amine from an alkyl halide is the <term id="term-00001">Gabriel amine synthesis</term>, which uses a <emphasis effect="italics">phthalimide</emphasis> alkylation. An <term id="term-00002">imide</term> (<m:math><m:mrow><m:mtext mathvariant="bold">O=C–N–C=O</m:mtext></m:mrow></m:math>) is similar to a <emphasis effect="italics">β</emphasis>-keto ester in that the acidic N–H hydrogen is flanked by two carbonyl groups. Thus, imides are deprotonated by such bases as KOH, and the resultant anions are readily alkylated in a reaction similar to acetoacetic ester synthesis (<link document="m00263"/>). Basic hydrolysis of the <emphasis effect="italics">N</emphasis>-alkylated imide then yields a primary amine product. The imide hydrolysis step is analogous to the hydrolysis of an amide (<link document="m00245"/>).</para>
-<figure class="unnumbered scaled-down" id="fig-00006">
+<figure class="unnumbered" id="fig-00006">
 <media alt="An illustration shows a reaction in which Phthalimide reacts in the presence of KOH and ethanol to yield an intermediate that further reacts in the presence of pink RX and DMF to yield another intermediate that further reacts in the presence of NaOH and water to yield a primary amine (pink R bonded to blue NH2) and a carboxylate ion. Phthalimide shows a benzene fused to a cyclopentane that shows a blue nitrogen monohydride. The nitrogen shows two electrons. The carbons adjacent to the nitrogen are double bonded to an oxygen each. The first intermediate is similar to Phthalimide but the nitrogen shows a negative charge and four electrons. The second intermediate is similar to Phthalimide but the nitrogen shows no charge; the nitrogen is bonded to pink R. The carboxylate ion shows benzene bonded to two carboxylate ions.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_06_006.jpg"/>
 </media>
