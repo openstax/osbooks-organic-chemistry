@@ -27,20 +27,20 @@
     </media>
     </figure>
     <para id="para-00005">Because all six carbon atoms and all six <emphasis effect="italics">p</emphasis> orbitals in benzene are equivalent, it’s impossible to define three localized <emphasis effect="italics">π</emphasis> bonds in which a given <emphasis effect="italics">p</emphasis> orbital overlaps only one neighboring <emphasis effect="italics">p</emphasis> orbital. Rather, each <emphasis effect="italics">p</emphasis> orbital overlaps equally well with both neighboring <emphasis effect="italics">p</emphasis> orbitals, leading to a picture of benzene in which all six <emphasis effect="italics">π</emphasis> electrons are free to move about the entire ring (<link target-id="fig-00004"/>b). In resonance terms (<link document="m00021"/> and <link document="m00022"/>), benzene is a hybrid of two equivalent forms. Neither form is correct by itself; the true structure of benzene is somewhere in between the two resonance forms but is impossible to draw with our usual conventions. Because of this resonance, benzene is more stable and less reactive than a typical alkene.</para>
-    <figure class="scaled-down" id="fig-00004">
+    <figure id="fig-00004">
     <media alt="Part A: Electrostatic potential map of benzene along with two resonance structures of benzene. Part B: The orbital representation of benzene shows each carbon with a dot in red lobe.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_02_004.jpg"/>
     </media>
     <caption><emphasis effect="bold">(a) An electrostatic potential map of benzene and (b) an orbital picture.</emphasis> Each of the six carbon atoms has a <emphasis effect="italics">p</emphasis> orbital that can overlap equally well with neighboring <emphasis effect="italics">p</emphasis> orbitals on both sides. As a result, all C–C bonds are equivalent and benzene must be represented as a hybrid of two resonance forms.</caption>
     </figure>
     <para id="para-00006">Chemists sometimes represent the two benzene resonance forms by using a circle to indicate the equivalence of the carbon–carbon bonds, but this representation has to be used carefully because it doesn’t indicate the number of <emphasis effect="italics">π</emphasis> electrons in the ring. (How many electrons does a circle represent?) In this book, benzene and other aromatic compounds will be represented by single line-bond structures. We’ll be able to keep count of <emphasis effect="italics">π</emphasis> electrons this way but must be aware of the limitations of the drawings.</para>
-    <figure class="unnumbered scaled-down" id="fig-00005">
+    <figure class="unnumbered" id="fig-00005">
     <media alt="A hexagonal ring with a circle inside. To the right, two resonance structures of benzene are enclosed in square brackets.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_02_005.jpg"/>
     </media>
     </figure>
     <para id="para-00007">Having just seen a resonance description of benzene, let’s now look at the alternative molecular orbital description. We can construct <emphasis effect="italics">π</emphasis> molecular orbitals for benzene just as we did for 1,3-butadiene in <link document="m00171"/>. If six <emphasis effect="italics">p</emphasis> atomic orbitals combine in a cyclic manner, six benzene molecular orbitals result, as shown in <link target-id="fig-00006"/>. The three low-energy molecular orbitals, denoted <emphasis effect="italics">ψ</emphasis><sub>1</sub>, <emphasis effect="italics">ψ</emphasis><sub>2</sub>, and <emphasis effect="italics">ψ</emphasis><sub>3</sub>, are bonding combinations, and the three high-energy orbitals are antibonding.</para>
-    <figure class="scaled-down" id="fig-00006">
+    <figure id="fig-00006">
     <media alt="Six p atomic orbitals each with an unpaired electron become three bonding molecular orbitals, each having two electrons, and three antibonding molecular orbitals which are empty.">
     <image mime-type="image/jpeg" src="../../media/OChem_15_02_006.jpg"/>
     </media>

@@ -7,13 +7,13 @@
   </metadata>
   <content>
     <para id="para-00001">Although aromatic substitution reactions usually occur by an <emphasis effect="italics">electrophilic</emphasis> mechanism, aryl halides that have electron-withdrawing substituents can also undergo a <emphasis effect="italics">nucleophilic</emphasis> substitution reaction. For example, 2,4,6-trinitrochlorobenzene reacts with aqueous NaOH at room temperature to give 2,4,6-trinitrophenol. Here, the nucleophile OH<sup>–</sup> substitutes for Cl<sup>–</sup>.</para>
-    <figure class="unnumbered scaled-down" id="fig-00001">
+    <figure class="unnumbered" id="fig-00001">
     <media alt="The ball-and-stick model in the electrostatic potential map of 2,4,6-trinitrochlorobenzene and its reaction with hydroxide ion to produce 2,4,6-trinitrophenol.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_06_001.jpg"/>
     </media>
     </figure>
     <para id="para-00002"><term id="term-00001">Nucleophilic aromatic substitution</term> is much less common than electrophilic substitution but nevertheless does have certain uses. One such use is the reaction of proteins with 2,4-dinitrofluorobenzene, known as <emphasis effect="italics">Sanger’s reagent,</emphasis> to attach a “label” to the terminal NH<sub>2</sub> group of the amino acid at one end of the protein chain.</para>
-    <figure class="unnumbered scaled-down" id="fig-00002">
+    <figure class="unnumbered" id="fig-00002">
     <media alt="A reaction shows 2,4-dinitrofluorobenzene reacting with a protein to yield a labeled protein.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_06_002.jpg"/>
     </media>
@@ -33,7 +33,7 @@
     <caption><emphasis effect="bold">Mechanism of nucleophilic aromatic substitution</emphasis>. The reaction occurs in two steps and involves a resonance-stabilized carbanion intermediate.</caption>
     </figure>
     <para id="para-00005">Nucleophilic aromatic substitution occurs only if the aromatic ring has an electron-withdrawing substituent in a position ortho or para to the leaving group to stabilize the anion intermediate through resonance (<link target-id="fig-00005"/>). A meta substituent offers no such resonance stabilization. Thus, <emphasis effect="italics">p</emphasis>-chloronitrobenzene and <emphasis effect="italics">o</emphasis>-chloronitrobenzene react with hydroxide ion at 130 °C to yield substitution products, but <emphasis effect="italics">m</emphasis>-chloronitrobenzene is inert to OH<sup>–</sup>.</para>
-    <figure class="scaled-down" id="fig-00005">
+    <figure id="fig-00005">
     <media alt="The reaction mechanisms of ortho-, meta- and para-chloronitrobenzene with a hydroxide ion are each shown.">
     <image mime-type="image/jpeg" src="../../media/OChem_16_06_005.jpg"/>
     </media>
