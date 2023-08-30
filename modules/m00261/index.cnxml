@@ -8,13 +8,13 @@
   <content>
 <para id="para-00001">As noted in <link document="m00257"/>, a hydrogen on the <emphasis effect="italics">α</emphasis> position of a carbonyl compound is weakly acidic and can be removed by a strong base to yield an enolate ion. In comparing acetone (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 19.3) with ethane (p<emphasis effect="italics">K</emphasis><sub>a</sub> ≈ 60), for instance, the presence of a neighboring carbonyl group increases the acidity of the ketone over the alkane by a factor of 10<sup>40</sup>.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="An illustration shows 2 structures. The structure of acetone shows a carbon atom single bonded dash bonded and wedge bonded to a blue hydrogen atom each and bonded to a carbon atom double bonded to a pink oxygen atom and bonded to a carbon atom line bonded dash bonded and wedge bonded to a blue hydrogen atom each. The pKa value is 19.3 The structure of ethane shows a carbon atom dash bonded single bonded and wedge bonded to a blue hydrogen atom each and bonded to a carbon atom which is further dash bonded single bonded and wedge bonded to a blue hydrogen atom each. The pKa value is approximately 60.">
+<media alt="A wedge-dash structure of acetone with labeled p K a value equal to 19.3 and ethane with labeled p K a value of approximately 60.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_001.jpg"/>
 </media>
 </figure>
 <para id="para-00002">Proton abstraction from a carbonyl compound occurs when the <emphasis effect="italics">α</emphasis> C–H bond is oriented roughly parallel to the <emphasis effect="italics">p</emphasis> orbitals of the carbonyl group. The <emphasis effect="italics">α</emphasis> carbon atom of the enolate ion is <emphasis effect="italics">sp</emphasis><sup>2</sup>-hybridized and has a <emphasis effect="italics">p</emphasis> orbital that overlaps the neighboring carbonyl <emphasis effect="italics">p</emphasis> orbitals. Thus, the negative charge is shared by the electronegative oxygen atom, and the enolate ion is stabilized by resonance (<link target-id="fig-00002"/>).</para>
 <figure id="fig-00002">
-<media alt="An illustration shows the formation of an enolate ion from a carbonyl compound through proton abstraction and the corresponding electron potential map. The first structure shows a carbon atom with an open dash bond and wedge bond; the carbon is bonded to another carbon atom that shows a free dash bond and is wedge bonded to an oxygen atom. The first carbon labeled sp3 hybridized has 2 overlapping pink lobes labeled “H” above it. The lobe on the front has a pair of electrons. The second carbon atom has a pink lobe at the top with one electron and a blue lobe at the bottom with one electron. The second structure of the enolate ion is similar to the first one but the first carbon is labeled sp2 hybridized and shows a negatively charged pink lobe with a pair of electrons at the top and a blue lobe at the bottom. The third structure is similar to the second structure but the pink lobe of the first carbon shows only one electron and the first carbon has no charge. The first and second carbons are double bonded to each other. The second carbon shares a single wedge bond with the oxygen. The third carbon shows negative charge. The electrostatic potential map shows a ball-and-stick model with gray balls (carbons) white balls (hydrogens) and a red ball (oxygen). A methylene group is bonded to a carbonyl group bonded to a methyl group. The region around the red ball is shown red and is labeled ‘electron-rich.’ The region around the methyl group is greenish yellow. The region around the methylene carbon is labeled ‘electron-rich.’">
+<media alt="Orbital representation of the mechanism for enolate formation by removal of an alpha proton, along with the ball-and-stick model of the enolate.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_002.jpg"/>
 </media>
 <caption><emphasis effect="bold">Mechanism of enolate-ion formation by abstraction of an <emphasis effect="italics">α</emphasis> proton from a carbonyl compound.</emphasis> The enolate ion is stabilized by resonance, and the negative charge (red) is shared by the oxygen and the <emphasis effect="italics">α</emphasis> carbon atom, as indicated in the electrostatic potential map.</caption>
@@ -22,7 +22,7 @@
 <para id="para-00003">Because carbonyl compounds are only weakly acidic, a strong base is needed for the formation of an enolate-ion. If an alkoxide ion, such as sodium ethoxide, is used as base, deprotonation of acetone only takes place to the extent of about 0.1% because acetone is a weaker acid than ethanol (p<emphasis effect="italics">K</emphasis><sub>a</sub> = 16). If, however, a more powerful base is used, then a carbonyl compound is completely converted into its enolate ion.</para>
 <para id="para-00004">In practice, the strong base lithium diisopropylamide [LiN(<emphasis effect="italics">i</emphasis>-C<sub>3</sub>H<sub>7</sub>)<sub>2</sub>; abbreviated LDA] is commonly used for making enolate ions. As the lithium salt of the weak acid diisopropylamine, p<emphasis effect="italics">K</emphasis><sub>a</sub> = 36, LDA can readily deprotonate most carbonyl compounds. It is easily prepared by reaction of butyllithium with diisopropylamine and is soluble in organic solvents because of its two alkyl groups.</para>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="An illustration shows 2 chemical reactions. The first intermediate reaction shows Diisopropylamine (pKa value equals 36) in the presence of butyllithium (highlighted in blue) and Tetrahydrofuran solvent yields Lithium diisopropylamide (LDA) and butane. The structure of Diisopropylamine shows a nitrogen bonded to a pink hydrogen and 2 isopropyl groups. The structure of Lithium diisopropylamide (LDA) shows a nitrogen bonded to blue lithium cation and 2 isopropyl groups. The second chemical reaction shows cyclohexanone combining with LDA and Tetrahydrofuran solvent to yield Cyclohexanone enolate ion and Diisopropylamine. The structure of cyclohexanone shows a cyclohexane ring double bonded to a pink oxygen atom at C1. The structure of Cyclohexanone enolate ion shows a cyclohexene ring bonded to a pink oxygen anion at C1. A blue lithium cation is shown adjacent to the oxygen atom. The structure of Diisopropylamine shows a nitrogen bonded to a hydrogen and 2 isopropyl groups.">
+<media alt="Diisopropylamine reacts with butyllithium in tetrahydrofuran to form lithium diisopropylamide (known as L D A) and butane. Cyclohexanone reacts with L D A in tetrahydrofuran to form cyclohexanone enolate ion and diisopropylamine.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_003.jpg"/>
 </media>
 </figure>
@@ -43,22 +43,22 @@
 <tbody>
 <row valign="top">
 <entry valign="top" align="left">Carboxylic acid</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004a.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="The structure of acetic acid having carboxylic acid functional group with condensed formula, C H 3 is bonded to a C O O H group."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004a.jpg"/></media></entry>
 <entry valign="top" align="left">&#8199;5</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">1,3-Diketone</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004b.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="Structure of acetylacetone having 1,3-diketone functional group. Condensed formula, C H 3 bonded to C O bonded to C H 2 bonded to C O bonded to C H 3."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004b.jpg"/></media></entry>
 <entry valign="top" align="left">&#8199;9</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">3-Keto ester</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004c.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A structure of methyl acetoacetate having a 3-keto ester functional group. Condensed formula, C H 3 bonded to C O bonded to C H 2 bonded to C O O bonded to C H 3."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004c.jpg"/></media></entry>
 <entry valign="top" align="left">11</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">1,3-Diester</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004d.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="Structure of a 1,3-diester functional group. Condensed formula is C H 3 O bonded to C O bonded to C H 2 bonded to Co O bonded to O C H 3."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004d.jpg"/></media></entry>
 <entry valign="top" align="left">13</entry>
 </row>
 <row valign="top">
@@ -68,27 +68,27 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left">Acid chloride</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004e.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A structure of acetyl chloride with condensed formula, C H 3 bonded to C O bonded to C l."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004e.jpg"/></media></entry>
 <entry valign="top" align="left">16</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Aldehyde</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004f.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A structure of acetaldehyde with condensed formula, C H 3 bonded to C H O."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004f.jpg"/></media></entry>
 <entry valign="top" align="left">17</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Ketone</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004g.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A structure of acetone with condensed formula, C H 3 bonded to C O bonded to C H 3."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004g.jpg"/></media></entry>
 <entry valign="top" align="left">19</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Thioester</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004h.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A thioester functional group where R and R dash are methyl groups. Condensed formula reads C H 3 bonded to C O bonded to S bonded to C H 3."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004h.jpg"/></media></entry>
 <entry valign="top" align="left">21</entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Ester</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004i.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A structure of methyl ester where R is the methyl group with condensed formula, C H 3 bonded to C O O bonded to C H 3."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004i.jpg"/></media></entry>
 <entry valign="top" align="left">25</entry>
 </row>
 <row valign="top">
@@ -98,7 +98,7 @@
 </row>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="italics">N</emphasis>,<emphasis effect="italics">N</emphasis>-Dialkylamide</entry>
-<entry valign="top" align="left"><media class="unnumbered" alt=""><image mime-type="image/jpeg" src="../../media/OChem_22_05_004j.jpg"/></media></entry>
+<entry valign="top" align="left"><media class="unnumbered" alt="A structure of N, N dimethyl acetamide with condensed formula, C H 3 bonded to C O bonded to N bonded to 2 C H 3 groups."><image mime-type="image/jpeg" src="../../media/OChem_22_05_004j.jpg"/></media></entry>
 <entry valign="top" align="left">30</entry>
 </row>
 <row valign="top">
@@ -111,31 +111,25 @@
 </table>
 <para id="para-00006">When a hydrogen atom is flanked by two carbonyl groups, its acidity is enhanced further. <link target-id="table-00001"/> thus shows that 1,3-diketones (<emphasis effect="italics">β</emphasis>-diketones), 3-oxo esters (<emphasis effect="italics">β</emphasis>-keto esters), and 1,3-diesters (malonic esters) are more acidic than water. The enolate ions derived from these <emphasis effect="italics">β</emphasis>-dicarbonyl compounds are stabilized by sharing the negative charge of the two neighboring carbonyl oxygens. The enolate ion of 2,4-pentanedione, for instance, has three resonance forms. Similar resonance forms can be drawn for other doubly stabilized enolate ions.</para>
 <figure class="unnumbered" id="fig-00004">
-<media alt="An illustration shows a chemical reaction where 2 4-Pentanedione (pKa equals 9) in the presence of a base yields 3 resonance forms. The structure of 2 4-Pentanedione shows a methyl group bonded to a carbonyl group (pink oxygen having 2 pairs of electrons) bonded to a methylene group (2 blue hydrogen atoms) bonded to a carbonyl group (pink oxygen having 2 pairs of electrons) bonded to a methyl group. The structure of the first resonance form shows a methyl group bonded to a carbonyl group (pink oxygen anion having 3 pairs of electrons) bonded to a methine (having blue hydrogen) double bonded to a carbonyl group bonded to a methyl group. An arrow from the electrons of oxygen anion points to the C-oxygen anion bond. An arrow from the C-C double bond points to the carbon of the methine group. The structure of the second resonance form shows a structure similar to the first resonance form with the following changes: the oxygen atom of the second carbonyl group is double bonded to the carbon atom and has 2 pairs of electrons; the carbon atom of the methine group is negatively charged with a pair of electrons; the carbon atom of the methine group is single bonded to the carbon atom of the second carbonyl group; a pink curved arrow is shown from the double bond in the first carbonyl group to its oxygen atom; a pink curved arrow is shown from the electron pair of the carbon atom in the methine group to the bond between it and the carbon atom of the first carbonyl group. The structure of the third resonance form is similar to the first one with the following changes: the third carbon atom is single bonded to the oxygen atom (negatively charged with 3 pairs of electrons); the carbon atom of the first carbonyl group is double bonded to the carbon atom of the methine group; the carbon atom of the second carbonyl group is double bonded to the pink oxygen atom having 2 pairs of electrons.">
+<media alt="A reversible chemical reaction in which 2, 4- pentanedione with labeled p K a equals 9 is deprotonated to form three resonance structures of an enolate..">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_005.jpg"/>
 </media>
 </figure>
 <example id="exam-00001">
 <title>Identifying the Acidic Hydrogens in a Compound</title>
 <para id="para-00007">Identify the most acidic hydrogens in each of the following compounds, and rank the compounds in order of increasing acidity:</para>
-
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="Alt Text Placeholder">
+<media alt="A benzene ring bonded to a four-carbon chain in which C1 and C3 are carbonyl groups. The structure of methyl-2-methylpropanoate which comprises of a three-carbon chain in which C 2 is bonded to a methyl group and C 1 is a carbonyl group which in turn is bonded to an O C H 3 group. A cyclopentane ring bonded to a C H O group.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_006.jpg"/>
 </media>
 </figure>
-
-
 <para id="para-00011"><title><span class="red-text">Strategy</span></title> Hydrogens on carbon next to a carbonyl group are acidic. In general, a <emphasis effect="italics">β</emphasis>-dicarbonyl compound is most acidic, a ketone or aldehyde is next most acidic, and a carboxylic acid derivative is least acidic. Remember that alcohols, phenols, and carboxylic acids are also acidic because of their –OH hydrogens.</para>
 <para id="para-00012"><title><span class="cyan-text">Solution</span></title> The acidity order is (<emphasis effect="bold">a</emphasis>) > (<emphasis effect="bold">c</emphasis>) > (<emphasis effect="bold">b</emphasis>). Acidic hydrogens are shown in red.</para>
-
 <figure class="unnumbered scaled-down" id="fig-00008">
-<media alt="Alt Text Placeholder">
+<media alt="The structure of benzoyl acetone which comprises of a benzene ring bonded to a four-carbon chain in which C1 and C3 are carbonyl groups. Two pink hydrogens (on the carbon between the carbonyls) and three green hydrogens (on the methyl group at the end of the chain) are labeled more and less acidic, respectively. The structure of methyl-2-methylpropanoate which comprises of a three-carbon chain in which C 2 is bonded to a methyl group and C 1 is a carbonyl group which in turn is bonded to an O C H 3 group. A cyclopentane ring bonded to a C H O group at C 1. The hydrogen atom at C 1 is also highlighted.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_05_007.jpg"/>
 </media>
 </figure>
-
-
 </example>
 <section class="section-exercises" id="sect-00001">
 <title>Problems</title>
