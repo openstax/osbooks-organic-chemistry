@@ -28,7 +28,7 @@
     </media>
     <caption><emphasis effect="bold">The origin of 1,3-diaxial interactions in methylcyclohexane.</emphasis> The steric strain between <emphasis effect="bold"><span class="magenta-text">an axial methyl group</span></emphasis> and <emphasis effect="bold"><span class="magenta-text">an axial hydrogen atom</span></emphasis> three carbons away is identical to the steric strain in gauche butane. (To display clearly the diaxial interactions in methylcyclohexane, two of the equatorial hydrogens are not shown.)</caption>
     </figure>
-    <para id="para-00005">The exact amount of 1,3-diaxial steric strain in a substituted cyclohexane depends on the nature and size of the substituent, as indicated in <link target-id="table-00001"/>. Not surprisingly, the amount of steric strain increases through the series H<sub>3</sub>C− &lt; CH<sub>3</sub>CH<sub>2</sub>− &lt; (CH<sub>3</sub>)<sub>2</sub>CH–&lt;&lt; (CH<sub>3</sub>)<sub>3</sub>C−, paralleling the increasing size of the alkyl groups. Note that the values given in <link target-id="table-00001"/> refer to a single 1,3-diaxial interaction of the substituent with one H atom. But as shown previously in <link target-id="fig-00003"/>, a monosubstituted cyclohexane has two 1,3 diaxial interactions of the substituent with two H atoms, so the total amount of steric strain in the molecule is twice that shown in <link target-id="table-00001"/>.</para>
+    <para id="para-00005">The exact amount of 1,3-diaxial steric strain in a given substituted cyclohexane depends on the nature and size of the substituent, as indicated in <link target-id="table-00001"/>. Not surprisingly, the amount of steric strain increases through the series H<sub>3</sub>C− &lt; CH<sub>3</sub>CH<sub>2</sub>− &lt; (CH<sub>3</sub>)<sub>2</sub>CH–&lt;&lt; (CH<sub>3</sub>)<sub>3</sub>C−, paralleling the increasing size of the alkyl groups. Note that the values given in <link target-id="table-00001"/> refer to 1,3-diaxial interactions of the substituent with a single hydrogen atom. These values must be doubled to arrive at the amount of strain in a monosubstituted cyclohexane.</para>
     <table id="table-00001" summary=" ">
     <title>Steric Strain in Monosubstituted Cyclohexanes</title>
     <tgroup cols="4">
@@ -55,83 +55,58 @@
     </row>
     </thead>
     <tbody>
-    <row valign="top">
-    <entry valign="top" align="left">F</entry>
-    <entry valign="top" align="left">&#8199;0.63</entry>
-    <entry valign="top" align="left">0.15</entry>
-    <entry valign="top" align="left" morerows="14"> </entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Cl</entry>
-    <entry valign="top" align="left">&#8199;1.8</entry>
-    <entry valign="top" align="left">0.43</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">Br</entry>
-    <entry valign="top" align="left">&#8199;1.6</entry>
-    <entry valign="top" align="left">0.38</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">OH</entry>
-    <entry valign="top" align="left">&#8199;3.6</entry>
-    <entry valign="top" align="left">0.87</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">NH<sub>2</sub></entry>
-    <entry valign="top" align="left">&#8199;6.7</entry>
-    <entry valign="top" align="left">1.6</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CH<sub>3</sub></entry>
-    <entry valign="top" align="left">&#8199;7.1</entry>
-    <entry valign="top" align="left">1.7</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CH<sub>2</sub>CH<sub>3</sub></entry>
-    <entry valign="top" align="left">&#8199;7.3</entry>
-    <entry valign="top" align="left">1.75</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CH(CH<sub>3</sub>)<sub>2</sub></entry>
-    <entry valign="top" align="left">&#8199;9.0</entry>
-    <entry valign="top" align="left">2.15</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CH(CH<sub>3</sub>)<sub>3</sub></entry>
-    <entry valign="top" align="left">20</entry>
-    <entry valign="top" align="left">4.7</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CH&#x2550;CH</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow></m:math></entry>
-    <entry valign="top" align="left">&#8199;5.60</entry>
-    <entry valign="top" align="left">1.35</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">C<sub>6</sub>H<sub>5</sub></entry>
-    <entry valign="top" align="left">12.5</entry>
-    <entry valign="top" align="left">3.0</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CO<sub>2</sub>H</entry>
-    <entry valign="top" align="left">&#8199;5.65</entry>
-    <entry valign="top" align="left">1.35</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CN</entry>
-    <entry valign="top" align="left">&#8199;0.7</entry>
-    <entry valign="top" align="left">0.17</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">OCH<sub>3</sub></entry>
-    <entry valign="top" align="left">&#8199;2.5</entry>
-    <entry valign="top" align="left">0.6</entry>
-    </row>
-    <row valign="top">
-    <entry valign="top" align="left">CO<sub>2</sub>CH<sub>3</sub></entry>
-    <entry valign="top" align="left">&#8199;5.3</entry>
-    <entry valign="top" align="left">1.27</entry>
-    </row>
-    </tbody>
+      <row valign="top">
+      <entry valign="top" align="left">F</entry>
+      <entry valign="top" align="left">&#8199;0.5</entry>
+      <entry valign="top" align="left">0.12</entry>
+      <entry valign="top" align="left" morerows="9"> </entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">Cl, Br</entry>
+      <entry valign="top" align="left">&#8199;1.0</entry>
+      <entry valign="top" align="left">0.25</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">OH</entry>
+      <entry valign="top" align="left">&#8199;2.1</entry>
+      <entry valign="top" align="left">0.5</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">CH<sub>3</sub></entry>
+      <entry valign="top" align="left">&#8199;3.8</entry>
+      <entry valign="top" align="left">0.9</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">CH<sub>2</sub>CH<sub>3</sub></entry>
+      <entry valign="top" align="left">&#8199;4.0</entry>
+      <entry valign="top" align="left">0.95</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">CH(CH<sub>3</sub>)<sub>2</sub></entry>
+      <entry valign="top" align="left">&#8199;4.6</entry>
+      <entry valign="top" align="left">1.1</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">C(CH<sub>3</sub>)<sub>3</sub></entry>
+      <entry valign="top" align="left">11.4</entry>
+      <entry valign="top" align="left">2.7</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">C<sub>6</sub>H<sub>5</sub></entry>
+      <entry valign="top" align="left">6.3</entry>
+      <entry valign="top" align="left">1.5</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">CO<sub>2</sub>H</entry>
+      <entry valign="top" align="left">2.9</entry>
+      <entry valign="top" align="left">0.7</entry>
+      </row>
+      <row valign="top">
+      <entry valign="top" align="left">CN</entry>
+      <entry valign="top" align="left">&#8199;0.4</entry>
+      <entry valign="top" align="left">0.1</entry>
+      </row>
+      </tbody>
     </tgroup>
     </table>
     <section class="section-exercises" id="sect-00001">
