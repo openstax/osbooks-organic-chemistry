@@ -10,7 +10,7 @@
 <title>Infrared Spectroscopy</title>
 <para id="para-00001">Primary and secondary amines can be identified by a characteristic N–H stretching absorption in the 3300 to 3500 cm<sup>–1</sup> range of the IR spectrum. Alcohols also absorb in this range (<link document="m00210"/>), but amine absorption bands are generally sharper and less intense than hydroxyl bands. Primary amines show a pair of bands at about 3350 and 3450 cm<sup>–1</sup> from the symmetric and asymmetric stretching modes, and secondary amines show a single band at 3350 cm<sup>–1</sup>. Tertiary amines have no absorption in this region because they have no N–H bonds. <link target-id="fig-00001"/> recalls the IR spectrum of cyclohexylamine from <link document="m00142"/>.</para>
 <figure class="scaled-down" id="fig-00001">
-<media alt="An illustration shows infrared spectrum of a cyclohexylamine shown as a cyclohexane bonded to an amino group. The horizontal axis shows wavenumber in cm to power minus one starting from 4000 on the left to 500 on the right following interval of 500 units. The vertical axis shows transmittance (%). A stretch labeled as “-NH2” is shown at 3300 near 50%; a sharp peak is shown between 2900 to 2800 near 0%; a bifurcated curve is shown between 1400 and 1500 at 1%; peaks of different sizes are shown throughout the graph.">
+<media alt="The IR spectrum of cyclohexylamine, where peaks are observed at 900, 1500, 2900, and 3400 centimeter inverse. The peak around 3400 indicates the presence of an amine group.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_001.jpg"/>
 </media>
 <caption><emphasis effect="bold">IR spectrum of cyclohexylamine.</emphasis></caption>
@@ -20,20 +20,20 @@
 <title>Nuclear Magnetic Resonance Spectroscopy</title>
 <para id="para-00002">Amines are difficult to identify solely by <sup>1</sup>H NMR spectroscopy because N–H hydrogens tend to appear as broad signals without clear-cut coupling to neighboring C–H hydrogens. As with O–H absorptions (<link document="m00210"/>), amine N–H absorptions can appear over a wide range and are best identified by adding a small amount of D<sub>2</sub>O to the sample. Exchange of N–D for N–H occurs, and the N–H signal disappears from the NMR spectrum.</para>
 <figure class="unnumbered scaled-down" id="fig-00002">
-<media alt="An illustration shows a reaction catalyzed by pink D2O. The reactant shows a blue nitrogen monohydride. The nitrogen shows two free bonds. The first product shows a blue nitrogen with two free bonds. The nitrogen is bonded to pink D. The second product shows blue H bonded to pink DO.">
+<media alt="A reversible reaction in which N-methylmethanamine reacts with deuterium oxide to form a product in which hydrogen is replaced by deuterium. H D O is the second product.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_002.jpg"/>
 </media>
 </figure>
 <para id="para-00003">Hydrogens on the carbon next to nitrogen are deshielded because of the electron-withdrawing effect of the nitrogen, and they therefore absorb further downfield than alkane hydrogens. <emphasis effect="italics">N</emphasis>-Methyl groups are particularly distinctive because they absorb as a sharp three-proton singlet at 2.2 to 2.6 <emphasis effect="italics">δ</emphasis>. This <emphasis effect="italics">N</emphasis>-methyl resonance at 2.42 <emphasis effect="italics">δ</emphasis> is easily seen in the <sup>1</sup>H NMR spectrum of <emphasis effect="italics">N</emphasis>-methylcyclohexylamine (<link target-id="fig-00003"/>).</para>
 <figure class="scaled-down" id="fig-00003">
-<media alt="An illustration shows the proton NMR spectrum of N-methylcyclohexylamine. The structure shows a cyclohexane bonded to a blue nitrogen monohydride bonded to pink methyl group. The ruled spectrum area shows “chemical shift (delta)” starting from 10 ppm on the left to 0 ppm on the right on the horizontal axis; “intensity” is shown on the vertical axis. A tall peak of high intensity is shown approximately at 2.4 delta. A set of small peaks is shown between 2.4 to 1 delta. A peak labeled pink TMS is shown at 0 delta.">
+<media alt="H N M R spectrum with peaks at shift 0 (T M S), several small multiplets between 1 and 2, and a large singlet at around 2.4.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_003.jpg"/>
 </media>
 <caption><emphasis effect="bold">Proton NMR spectrum of <emphasis effect="italics">N</emphasis>-methylcyclohexylamine.</emphasis></caption>
 </figure>
 <para id="para-00004">Carbons next to amine nitrogens are slightly deshielded in the <sup>13</sup>C NMR spectrum and absorb about 20 ppm downfield from where they would absorb in an alkane of similar structure. In <emphasis effect="italics">N</emphasis>-methylcyclohexylamine, for example, the ring carbon to which nitrogen is attached absorbs at a position 24 ppm downfield from any other ring carbon.</para>
 <figure class="unnumbered scaled-down" id="fig-00004">
-<media alt="An illustration shows the structure of amine. A cyclohexane is shown with C1 bonded to a blue nitrogen bonded to hydrogen and methyl group. C1 is labeled 58.7. The methyl carbon is labeled 33.4. C2 is labeled 33.3. C3 is labeled 25.2. C4 is labeled 26.5.">
+<media alt="The structure of cyclohexyl methyl amine. The chemical shift values of the carbon atoms are mentioned.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_004.jpg"/>
 </media>
 </figure>
@@ -51,13 +51,13 @@
 <para id="para-00006">The <emphasis effect="italics">nitrogen rule</emphasis> of mass spectrometry says that a compound with an odd number of nitrogen atoms has an odd-numbered molecular weight. Thus, the presence of nitrogen in a molecule is detected simply by observing its mass spectrum. An odd-numbered molecular ion usually means that the unknown compound has one or three nitrogen atoms, and an even-numbered molecular ion usually means that a compound has either zero or two nitrogen atoms. The logic behind the rule derives from the fact that nitrogen is trivalent, thus requiring an odd number of hydrogen atoms. For example, morphine has the formula C<sub>17</sub>H<sub>19</sub>NO<sub>3</sub> and a molecular weight of 285 amu.</para>
 <para id="para-00007">Alkylamines undergo a characteristic <emphasis effect="italics">α</emphasis> cleavage in the mass spectrometer, similar to the cleavage observed for alcohols (<link document="m00210"/>). C–C bond nearest the nitrogen atom is broken, yielding an alkyl radical and a resonance-stabilized, nitrogen-containing cation.</para>
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="An illustration shows a reaction in which an alkyl halide undergoes alpha cleavage to yield RCH2 (with an electron) and two resonance forms. The reactant shows a central carbon with two free bonds. The carbon is bonded to blue NR2 and CH2R with a wavy pink line above the bond between C-C bond. The first form shows a carbon cation with two free bonds. The carbon is bonded to blue NR2 that shows two electrons. The second form shows a carbon with two free bonds. The carbon is double bonded to blue NR2 (plus charge).">
+<media alt="Alkyl amines undergo alpha cleavage to form a radical and carbocation with two reversible resonance forms enclosed inside parentheses.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_006.jpg"/>
 </media>
 </figure>
 <para id="para-00008">As an example, the mass spectrum of <emphasis effect="italics">N</emphasis>-ethylpropylamine shown in <link target-id="fig-00006"/> has peaks at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 58 and <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 72, corresponding to the two possible modes of <emphasis effect="italics">α</emphasis> cleavage.</para>
 <figure class="scaled-down" id="fig-00006">
-<media alt="An illustration shows the mass spectrum of N-ethylpropylamine and its alpha-cleavage. In the mass spectrum the horizontal axis shows m/z starting from 10 on the left to 140 on the right having an initial interval of 10 units followed by 20 units. The vertical axis shows relative abundance (%) from 0 to 100 at the interval of 20%. A tall peak is shown at m/z 58 (100%). A peak is shown at m/z 72 (10%). A peak labeled M plus equal to 87 is shown at 18%. The structure of N-ethylpropylamine shows a central blue nitrogen bonded to a hydrogen at the top and a methylene group on the right and on the left. The methylene group on the left is bonded to a methyl group with a pink wavy line above the bond. The methylene group on the right is bonded to an ethyl group with a pink wavy line above the bond. The first mode of alpha-cleavage yields two products. The first product is methyl radical and the second product shows a methylene group double bonded to a blue nitrogen bonded to a hydrogen at the top and a propyl group on the right. The structure is shown inside parentheses with a positive charge with m/z 72. The second mode of alpha-cleavage yields two products. The second product is an ethyl radical and the first product shows an ethyl group bonded to a blue nitrogen bonded to a hydrogen at the top and double bonded to a methylene group on the right. The structure is shown inside parentheses with a positive charge with m/z 58.">
+<media alt="Mass spectrum of N-ethylpropylamine. M plus peak is at 87 and m by z peak is at 72 and 58. Alpha cleavage of the species leads to two fragment ions.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_007.jpg"/>
 </media>
 <caption><emphasis effect="bold">Mass spectrum of <emphasis effect="italics">N</emphasis>-ethylpropylamine.</emphasis> The two possible modes of <emphasis effect="italics">α</emphasis> cleavage lead to the observed fragment ions at <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 58 and <emphasis effect="italics">m</emphasis>/<emphasis effect="italics">z</emphasis> = 72.</caption>
@@ -68,13 +68,13 @@
 <para id="para-00009">Liquids made of ions? Usually when we think of ionic compounds, we think of high-melting solids: sodium chloride, magnesium sulfate, lithium carbonate, and so forth. But yes, there are also ionic compounds that are liquid at room temperature, and they are gaining importance as reaction solvents, particularly for use in green chemistry processes (see the <link document="m00133" target-id="sect-00002">Chapter 11 <emphasis effect="italics">Chemistry Matters</emphasis></link>). More than 1500 ionic liquids are known, and about 500 are available commercially.</para>
 <para id="para-00010">Ionic liquids have been studied for nearly a century; the first to be discovered was ethylammonium nitrate, CH<sub>3</sub>CH<sub>2</sub>NH<sub>3</sub><sup>+</sup> NO<sub>3</sub><sup>–</sup>, with a melting point of 12 °C. More generally, however, the ionic liquids in use today are salts in which the cation is unsymmetrical and in which one or both of the ions are bulky so that the charges are dispersed over a large volume. Both factors minimize the crystal lattice energy and disfavor formation of the solid. Typical cations are quaternary ammonium ions from heterocyclic amines, either 1,3-dialkylimidazolium ions, <emphasis effect="italics">N</emphasis>-alkylpyridinium ions, or ring-substituted <emphasis effect="italics">N</emphasis>-alkylpyridinium ions.</para>
 <figure class="unnumbered scaled-down" id="fig-00007">
-<media alt="An illustration shows two resonance forms of 1 3-Dialkylimidazolium ion and s form of N-Alkylpyridinium ion. 1 3-Dialkylimidazolium ions: The first form shows a cyclopentene with two double bonds. C1 shows a blue nitrogen bonded to a methyl group. C3 is a blue nitrogen cation bonded to R. R can be methyl group ethyl group butyl group or octyl group. N-Alkylpyridinium ions: The structure shows a cyclohexene with three double bonds. C1 shows a blue nitrogen cation bonded to R. R can be ethyl group butyl group or hexyl group.">
+<media alt="The structure shows two resonance forms of 1,3-dialkylimidazolium ions and one form of N-alkylpyridinium ions. The possible R groups in each structure are mentioned.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_009.jpg"/>
 </media>
 </figure>
 <para id="para-00011">Anions are just as varied as the cations. Hexafluorophosphate, tetrafluoroborate, alkyl sulfates, trifluoromethanesulfonates (triflates), and halides are some anion possibilities.</para>
 <figure class="unnumbered scaled-down" id="fig-00009">
-<media alt="An illustration shows five structures. The first two structures are inside parentheses with a negative charge. Hexafluorophosphate shows central phosphorus single bonded to two fluorine atoms dash bonded to two fluorine atoms and wedge bonded to two fluorine atoms. Tetrafluoroborate shows central boron single bonded to two fluorine atoms dash bonded to a fluorine atom and wedge bonded to a fluorine atom. Methyl sulfate shows a central sulfur double bonded to two oxygen atoms and single bonded to an oxygen anion and methoxide group. Trifluoromethanesulfonate shows a central sulfur double bonded to two oxygen atoms and single bonded to an oxygen anion and CF3. Halide shows chloride bromide and iodide ions.">
+<media alt="The structures of hexafluorophosphate, tetrafluoroborate, methyl sulfate, trifluoromethane-sulfonate, and halide. The structure of hexafluorophosphate and tetrafluoroborate are enclosed in parentheses and have a negative charge on it.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_010.jpg"/>
 </media>
 </figure>
@@ -89,13 +89,13 @@
 </list>
 <para id="para-00013">As an example of their use in organic chemistry, the analgesic drug pravadoline has been synthesized in two steps using 1-butyl-3-methylimidazolium hexafluorophosphate, abbreviated [bmim][PF<sub>6</sub>], as the solvent for both steps. The first step is a base-induced S<sub>N</sub>2 reaction of 2-methylindole with a primary alkyl halide, and the second is a Friedel–Crafts acylation. Both steps take place with 95% yield, and the ionic solvent is recovered simply by washing the reaction mixture, first with toluene and then with water.</para>
 <figure class="unnumbered scaled-down" id="fig-00010">
-<media alt="An illustration shows two steps of a reaction. In the first step 2-methylindole reacts with a primary alkyl halide in the presence of KOH and [bmim][PF6] to yield an intermediate that further reacts in the presence of an acid chloride and [bmim][PF6] to yield Pravadoline. 2-methylindole shows benzene fused to a cyclopentene that shows blue nitrogen monohydride. The cyclopentene is bonded to a methyl group. The primary alkyl halide shows a cyclohexane with an oxygen and nitrogen. the nitrogen is bonded to a methylene group bonded to chloromethane. The intermediate shows benzene fused to a cyclopentene that shows blue nitrogen. The cyclopentene is bonded to a methyl group. The nitrogen is bonded to a chain of two methylene groups and then a nitrogen that is part of a cyclohexane that shows an oxygen. The acid chloride shows benzene bonded to a methyl group and a carbonyl group bonded to green chlorine. Pravadoline shows benzene bonded to a methoxide group at the top and a carbonyl group at the bottom. the carbon is bonded to a cyclopentene that shows a blue nitrogen; the cyclopentene is bonded to a methyl group and fused to benzene. the nitrogen is bonded to a chain of two methylene groups and then a nitrogen that is part of a cyclohexane that shows an oxygen.">
+<media alt="2-Methyl indole reacts with alkyl halide in presence of potassium hydroxide and [bmim][P F 6] to form an intermediate. This reacts with acid chloride and [bmim][P F 6] forming pravadoline.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_011.jpg"/>
 </media>
 </figure>
 <para id="para-00014">The first commercial process using an ionic liquid catalyst was introduced by PetroChina in 2008, when they opened a plant producing 65,000 tons per year of alkylate gasoline from isobutane. The aluminum-based ionic liquid catalyst replaced the sulfuric acid and hydrofluoric acid catalysts that had previously been used.</para>
 <figure class="unnumbered scaled-down" id="fig-00011">
-<media alt="An illustration shows a reaction in an alkane reacts with an alkene in the presence of acid catalyst to produce three products and others. The alkane is a 3-carbon chain with a methyl group at C2. The alkene is a 4-carbon chain with a double bond at C2. The first product (52%) shows a 5-carbon chain with a methyl group at C2 and two methyl groups at C5. The second product (20%) shows a 5-carbon chain with a methyl group at C2 C3 and C4. The third product (18%) shows a 5-carbon chain with a methyl group at C2 and two methyl groups at C3.">
+<media alt="Reversible reaction of 2-methylpropane with trans-2-butene to form 2,2,4-trimethyl pentene, 2,3,4-trimethylpentene, and 2,3,3-trimethylpeneten in 52, 20, and 18 percent yield, respectively.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_10_012.jpg"/>
 </media>
 </figure>
@@ -137,55 +137,55 @@
 <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
 <item>Reduction of nitriles<newline/>
 <figure class="unnumbered scaled-down" id="fig-00012">
-<media alt="An illustration shows a reaction in which a reactant (RCH2 bonded to pink X) reacts with blue NaCN to yield a nitrile (RCH2 bonded to a blue nitrile group). The nitrile reacts with green LiAlH4 ether and water to yield an amine. The amine shows a carbon bonded to RCH2 two green hydrogens and blue amino group.">
+<media alt="An alkyl halide reacts with sodium cyanide to form cyano nitrile. This reacts with lithium aluminum hydride in ether, then water to form an amine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_001.jpg"/>
 </media>
 </figure></item>
 <item>Reduction of amides<newline/>
 <figure class="unnumbered scaled-down" id="fig-00013">
-<media alt="An illustration shows a reaction in which an amide (RCO bonded to blue amino group) reacts with green LiAlH4 ether and water to yield an amine. The amine shows a carbon bonded to R two green hydrogens and blue amino group.">
+<media alt="An amide reacts with lithium aluminum hydride in ether, then water to form an amine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_002.jpg"/>
 </media>
 </figure></item>
 <item>Reduction of nitrobenzenes<newline/>
 <figure class="unnumbered scaled-down" id="fig-00014">
-<media alt="An illustration shows a reaction in which a nitrobenzene (benzene bonded to pink nitro group) reacts with blue hydrogen Pt or blue Fe hydronium ion or blue SnCl2 hydronium ion to yield an amine. The amine shows a benzene bonded to an amino group (pink N bonded to blue hydrogens).">
+<media alt="Nitrobenzene reacts with hydrogen, platinum, or iron, hydronium or tin (II) chloride, hydronium ion to form aniline.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_003.jpg"/>
 </media>
 </figure></item>
 <item>S<sub>N</sub>2 Alkylation of alkyl halides<newline/>
 <figure class="unnumbered scaled-down" id="fig-00015">
-<media alt="Alt Text Placeholder">
+<media alt="The primary, secondary, and tertiary amine and quaternary ammonium salt are formed from ammonia, primary, secondary, and tertiary amine, respectively.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_004.jpg"/>
 </media>
 </figure></item>
 <item>Gabriel amine synthesis<newline/>
 <figure class="unnumbered scaled-down" id="fig-00016">
-<media alt="An illustration shows a reaction in which a reactant reacts with KOH and pink R-X to yield an intermediate that further reacts with NaOH and water to yield an amine (pink R bonded to blue amino group). The reactant shows benzene fused with a cyclopentane that shows blue nitrogen monohydride. The cyclopentane is double bonded to two oxygen atoms. The intermediate is similar to the reactant but the hydrogen is replaced by a pink R.">
+<media alt="Phthalimide reacts with potassium hydroxide, then alkyl halide to form a product in which N-H gets replaced by N-R bond. This reacts with sodium hydroxide and water forming primary amine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_005.jpg"/>
 </media>
 </figure></item>
 <item>Reduction of azides<newline/>
 <figure class="unnumbered scaled-down" id="fig-00017">
-<media alt="Alt Text Placeholder">
+<media alt="An alkyl halide reacts with sodium azide and ethanol to form a compound that further reacts with lithium aluminum hydride in ether, then water to form an amine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_006.jpg"/>
 </media>
 </figure></item>
 <item>Reductive amination of aldehydes/ketones<newline/>
 <figure class="unnumbered scaled-down" id="fig-00018">
-<media alt="An illustration shows a reaction in which a reactant (RCOR’) reacts with blue ammonia and green NaBH4 to yield an amino group that shows carbon bonded to R R’ green hydrogen and blue amino group.">
+<media alt="A carbonyl compound reacts with ammonia and sodium borohydride to form a secondary amine.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_007.jpg"/>
 </media>
 </figure></item>
 <item>Hofmann rearrangement of amides<newline/>
 <figure class="unnumbered scaled-down" id="fig-00019">
-<media alt="An illustration shows a reaction in which a reactant (RCO bonded to blue amino group) reacts with sodium hydroxide bromine and water (pink oxygen) to yield an amino group (R bonded to blue amino group) and pink carbon dioxide.">
+<media alt="An amide reacts with sodium hydroxide, bromine, and water to produce a primary amine and carbon dioxide.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_008.jpg"/>
 </media>
 </figure></item>
 <item>Curtius rearrangement of acyl azides<newline/>
 <figure class="unnumbered scaled-down" id="fig-00020">
-<media alt="An illustration shows a reaction in which a reactant (RCO bonded to green chlorine) reacts with blue Na plus N3 minus and ethanol to yield an intermediate that further reacts with water (pink oxygen) in the presence of heat to yield an amine (R bonded to blue amino group) pink carbon dioxide and blue nitrogen. The intermediate shows R bonded to pink carbonyl group bonded to a chain of three nitrogen atoms. N2 is double bonded to N1 and N3. N2 is a cation. N3 is an anion.">
+<media alt="An acyl chloride reacts with sodium azide and ethanol to form an intermediate. This reacts with water in the presence of heat to form an amine, carbon dioxide, and nitrogen.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_009.jpg"/>
 </media>
 </figure></item></list></item>
@@ -194,13 +194,13 @@
 <item>Alkylation with alkyl halides; see reaction 1(d)</item>
 <item>Hofmann elimination (<link document="m00295"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00021">
-<media alt="An illustration shows a reaction in which an alkane reacts in the presence of pink iodomethane and silver oxide and heat to yield an alkene. The alkane shows two carbons single bonded. The left carbon is bonded to a blue hydrogen. The right carbon is bonded to a blue NR2. Each carbon shows a free dash bond and wedge bond. The alkene shows two carbons double bonded. Each carbon shows two free bonds.">
+<media alt="An alkyl amine reacts with methyl iodide, then silver oxide in the presence of heat to form an alkene.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_010.jpg"/>
 </media>
 </figure></item>
 <item>Diazotization (<link document="m00296"/>)<newline/>
 <figure class="unnumbered scaled-down" id="fig-00022">
-<media alt="An illustration shows a reaction in which an amino compound reacts with blue HNO2 and sulfuric acid to yield an arenediazonium salt. The amino compound shows benzene bonded to blue amino group. The arenediazonium salt shows benzene bonded to a nitrogen cation that is triple bonded to another nitrogen. HSO4 minus is shown next to benzene.">
+<media alt="Aniline reacts with nitrous acid and sulfuric acid to form an arene diazonium salt and H S O 4 minus.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_011.jpg"/>
 </media>
 </figure></item></list></item>
@@ -208,13 +208,13 @@
 <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
 <item>Nucleophilic substitutions<newline/>
 <figure class="unnumbered scaled-down" id="fig-00023">
-<media alt="An illustration shows 6 reactions of arenediazonium salt that shows benzene bonded to a nitrogen cation that is triple bonded to another nitrogen. HSO4 minus is shown next to benzene. The salt reacts in the presence of pink HCl and CuCl to yield chlorobenzene. The salt reacts in the presence of pink HBr and CuBr to yield bromobenzene. The salt reacts in the presence of pink NaI to yield iodobenzene. The salt reacts in the presence of pink KCN and CuCN to yield benzonitrile. The salt reacts in the presence of pink Cu2O H2O Cu(NO3)2 to yield phenol. The salt reacts in the presence of pink H3PO2 to yield benzene.">
+<media alt="Benezenediazonium hydrogen phosphate can react with any of six different sets of reagents to form chlorobenzene, bromobenzene, iodobenzene, cyanobenzene, phenol and benzene.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_012.jpg"/>
 </media>
 </figure></item>
 <item>Diazonium coupling<newline/>
 <figure class="unnumbered scaled-down" id="fig-00024">
-<media alt="An illustration shows two reactions of arenediazonium salt that shows benzene bonded to a nitrogen cation that is triple bonded to another nitrogen. HSO4 minus is shown next to benzene. In the first reaction the salt reacts with phenol (pink hydroxyl group) to yield a product that shows benzene bonded to a nitrogen double bonded to another nitrogen that is bonded to phenol. In the second reaction the salt reacts with a reactant that shows benzene bonded to pink NR2 to yield a product that shows benzene bonded to a nitrogen double bonded to another nitrogen that is bonded to benzene bonded to pink NR2.">
+<media alt="Benzenediazonium hydrogen phosphate reacts with phenol to form para-hydroxyazobenzene. It reacts with aryl amine to form para-aminoazobenzene in which a secondary amine is bonded at fourth position.">
 <image mime-type="image/jpeg" src="../../media/OChem_24_EC_013.jpg"/>
 </media>
 </figure></item></list></item>
