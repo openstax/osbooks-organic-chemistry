@@ -8,19 +8,19 @@
   <content>
 <para id="para-00001">Ethers are unreactive to many reagents used in organic chemistry, a property that accounts for their wide use as reaction solvents. Halogens, dilute acids, bases, and nucleophiles have no effect on most ethers. In fact, ethers undergo only one truly general reaction—they are cleaved by strong acids. Aqueous HBr and HI both work well, but HCl does not cleave ethers.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="An illustration shows a chemical reaction of Ethyl phenyl ether in the presence of Hydrogen Bromide (shown in pink) water and Reflux to yield “Phenol” and “Bromoethane.” Ethyl phenyl ether shows benzene ring bonded to a pink oxygen bonded to an ethyl group. Phenol shows benzene bonded to pink hydroxyl group.">
+<media alt="Ethyl phenyl ether reacts with hydrogen bromide and water under reflux, to yield phenol and bromoethane.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_001.jpg"/>
 </media>
 </figure>
 <para id="para-00002">Acidic ether cleavages are typical nucleophilic substitution reactions and take place by either S<sub>N</sub>1 or S<sub>N</sub>2 mechanisms, depending on the structure of the substrate. Ethers with only primary and secondary alkyl groups react by an S<sub>N</sub>2 mechanism, in which I<sup>–</sup> or Br<sup>–</sup> reacts with the protonated ether at the less hindered site. This usually results in a selective cleavage into a single alcohol and a single alkyl halide. For example, ethyl isopropyl ether exclusively yields isopropyl alcohol and iodoethane on cleavage by HI because nucleophilic attack by iodide ion occurs at the less hindered primary site rather than at the more hindered secondary site.</para>
 <figure class="unnumbered" id="fig-00002">
-<media alt="An illustration shows a chemical reaction of “Ethyl isopropyl ether” with HI to yield an intermediate compound (given in parentheses) that undergoes SN2 reaction and yields “Isopropyl alcohol” and “Iodoethane.” The structure of “Ethyl isopropyl ether” shows a central pink oxygen with four electrons bonded to an ethyl group and a methine group. The methine group is bonded to two methyl groups. An arrow from the electrons of oxygen points to H of HI. An arrow from the H-I bond points to I. The structure of the intermediate compound is similar to the reactant but the oxygen shows a positive charge and two electrons and is bonded to a hydrogen. The carbon of the methine group is labeled “More hindered.” The carbon of the methylene group of ethyl group is labeled “Less hindered.” An iodine anion shown below has 4 pairs of electrons. An arrow from the iodine anion points to the methylene group. An arrow from the CH2-O bond points to the oxygen. The structure of isopropyl alcohol shows a methyl group bonded to a methine group that is bonded to a methyl group at the bottom and a pink hydroxyl group on the right. The structure of iodoethane shows an iodine atom (shown in pink) bonded to an ethyl group.">
+<media alt="Ethyl isopropyl ether reacts with hydrogen iodide, forming intermediate in which ethyl carbon is labeled less hindered, is attacked by iodide (S N 2) to produce isopropyl alcohol and iodoethane.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_002.jpg"/>
 </media>
 </figure>
 <para id="para-00003">Ethers with a tertiary, benzylic, or allylic group cleave by either an S<sub>N</sub>1 or E1 mechanism because these substrates can produce stable intermediate carbocations. These reactions are often fast and take place at moderate temperatures. <emphasis effect="italics">tert</emphasis>-Butyl ethers, for example, react by an E1 mechanism on treatment with trifluoroacetic acid at 0 °C. We’ll see in <emphasis effect="bold">Section 26.7</emphasis> that this reaction is often used in the laboratory synthesis of peptides.</para>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="An illustration shows a chemical reaction of “tert-Butyl cyclohexyl ether” having the structure of a cyclohexane bonded to an oxygen atom (shown in pink) at the top right bonded to a carbon that is bonded to 3 methyl groups. This in the presence of “Trifluoracetic acid” at zero degree centigrade yields “Cyclohexanol (90%)” and “2-Methylpropene.” The structure of cyclohexanol shows a cyclohexane ring bonded to a hydroxyl group at top right. The structure of 2-Methylpropene shows the carbon atom of a Methylene group double bonded to a carbon atom bonded to 2 methyl groups.">
+<media alt="Tert-butyl cyclohexyl ether reacts with trifluoroacetic acid at zero degrees Celcius forming cyclohexanol (90 percent yield) and 2-methylpropene.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_003.jpg"/>
 </media>
 </figure>
@@ -28,14 +28,14 @@
 <title>Predicting the Product of an Ether Cleavage Reaction</title>
 <para id="para-00004">Predict the products of the following reaction:</para>
 <figure class="unnumbered scaled-down" id="fig-00004">
-<media alt="An illustration shows a chemical reaction with the product not filled. The reactant shows a carbon atom bonded to 3 methyl groups and bonded to an oxygen atom bonded to a propyl group. This reacts in the presence of Hydrogen Bromide to yield ‘?’.">
+<media alt="A tertiary butyl group is bonded to a propyl group via an ether linkage which reacts with hydrogen bromide to form unknown product(s), depicted by a question mark.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_004.jpg"/>
 </media>
 </figure>
 <para id="para-00005"><title><span class="red-text">Strategy</span></title> Identify the substitution pattern of the two groups attached to oxygen—in this case a tertiary alkyl group and a primary alkyl group. Then recall the guidelines for ether cleavages. An ether with only primary and secondary alkyl groups usually undergoes cleavage by S<sub>N</sub>2 attack of a nucleophile on the less hindered alkyl group, but an ether with a tertiary alkyl group usually undergoes cleavage by an S<sub>N</sub>1 mechanism. In this case, an S<sub>N</sub>1 cleavage of the tertiary C–O bond will occur, giving 1-propanol and a tertiary alkyl bromide. In addition, a competitive E1 reaction leading to alkene might occur.</para>
 <para id="para-00006"><title><span class="cyan-text">Solution</span></title></para>
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="An illustration shows a chemical reaction where “tert-Butyl propyl ether” reacts in the presence of Hydrogen Bromide (shown in pink) and yields “2-Bromo-2-methylpropane” and “1-Propanol.” The structure of tert-Butyl propyl ether shows a carbon atom bonded to 3 methyl groups and bonded to an oxygen atom (shown in pink) bonded to a propyl group. The structure of 2-Bromo-2-methylpropane shows a carbon atom bonded to 3 methyl groups and 1 bromine atom (shown in pink). The structure of 1-Propanol shows a hydroxyl group (shown in pink) attached to a propyl group.">
+<media alt="Tert-butyl propyl ether reacts with hydrogen bromide to produce 2-bromo-2-methylpropane and 1-propanol.">
 <image mime-type="image/jpeg" src="../../media/OChem_18_03_005.jpg"/>
 </media>
 </figure>
