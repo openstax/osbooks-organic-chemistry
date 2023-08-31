@@ -105,7 +105,7 @@
     <title>Nuclear Magnetic Resonance Spectroscopy</title>
     <para id="para-00005">Hydrogens on the carbon next to a carbonyl group are slightly deshielded and absorb near 2 <emphasis effect="italics">δ</emphasis> in the <sup>1</sup>H NMR spectrum, although the exact identity of the carbonyl group can’t be determined. <link target-id="fig-00001"/> shows the <sup>1</sup>H NMR spectrum of ethyl acetate.</para>
     <figure class="scaled-down" id="fig-00001">
-    <media alt="An illustration shows the proton NMR spectrum of ethyl acetate. The horizontal axis shows chemical shift (delta) starting from 10 on the left to 0 ppm at the interval of one unit. The vertical axis shows increasing intensity. The left corner of the graph shows chemical shifts as 1.23 2.01 and 4.10 at relative area 1.50 1.50 and 1.00. The structure shows a carbon bonded to three green hydrogens and a carboxyl group that is bonded to a carbon bonded to two pink hydrogens and then a carbon bonded to three blue hydrogens. At 4.1 ppm a cluster of small pink peaks is shown. At 2 ppm a tall green peak is shown. At 1.2 ppm a cluster of small blue peaks is shown; at 0 ppm a short peak labeled pink “TMS” is shown.">
+    <media alt="The proton NMR spectrum of ethyl acetate shows peaks at 1.23 (triplet), 2.01 (singlet), and 4.10 (quartet). The methylene protons are deshielded due to the presence of an adjacent O atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_10_001.jpg"/>
     </media>
     <caption><emphasis effect="bold"><sup>1</sup>H NMR spectrum of ethyl acetate.</emphasis></caption>
@@ -162,19 +162,19 @@
     <para id="para-00009">Fleming realized that the <emphasis effect="italics">Penicillium</emphasis> mold must be producing a chemical that killed the <emphasis effect="italics">Staphylococcus</emphasis> bacteria, and he spent several years trying to isolate the substance. Finally, in 1939, the Australian pathologist Howard Florey and the German refugee Ernst Chain managed to isolate the active substance, called <emphasis effect="italics">penicillin.</emphasis> The dramatic ability of penicillin to cure infections in mice was soon demonstrated, and successful tests in humans followed shortly thereafter. By 1943, penicillin was being produced on a large scale for military use in World War II, and by 1944 it was being used on civilians. Fleming, Florey, and Chain shared the 1945 Nobel Prize in Physiology or Medicine.</para>
     <para id="para-00010">Now called benzylpenicillin, or penicillin G, the substance first discovered by Fleming is but one member of a large class of so-called <emphasis effect="bold"><emphasis effect="italics">β</emphasis>-lactam antibiotics</emphasis>, compounds with a four-membered lactam (cyclic amide) ring. The four-membered lactam ring is fused to a five-membered, sulfur-containing ring, and the carbon atom next to the lactam carbonyl group is bonded to an acylamino substituent, RCONH–. This acylamino side chain can be varied in the laboratory to provide many hundreds of penicillin analogs with different biological activity profiles. Ampicillin, for instance, has an <emphasis effect="italics">α</emphasis>-aminophenylacetamido substituent [PhCH(NH<sub>2</sub>)CONH–].</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="An illustration shows the structure of Benzylpenicillin (penicillin G). It shows a benzene bonded to a methylene group bonded to a carbonyl group that is bonded to a nitrogen monohydride. The CO-NH bond is labeled ‘Acylamino substituent.’ The structure from benzene to nitrogen is highlighted in green. The nitrogen is wedge bonded to a cyclobutane ring highlighted in pink (labeled ‘beta-lactam ring) that shows a nitrogen and is double bonded to a pink oxygen and dash bonded to two hydrogen atoms. The cyclobutane is fused to a cyclopentane that shows a sulfur. The cyclopentane is single bonded to two methyl groups and dash bonded to a carboxylate ion bonded to sodium cation.">
+    <media alt="The structure shows benzylpenicillin (Penicillin G). The beta-lactam ring is highlighted in pink color. Acylamino substituent is shown in green color.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_10_003.jpg"/>
     </media>
     </figure>
     <para id="para-00011">Closely related to the penicillins are the <emphasis effect="italics">cephalosporins</emphasis>, a group of <emphasis effect="italics">β</emphasis>-lactam antibiotics that contain an unsaturated, six-membered, sulfur-containing ring. Cephalexin, marketed under the trade name Keflex, is an example. Cephalosporins generally have much greater antibacterial activity than penicillins, particularly against resistant strains of bacteria.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows the structure of Cephalexin (a cephalosporin). It shows a benzene bonded to a methine group bonded to an amino group and carbonyl group that is bonded to a nitrogen monohydride. The nitrogen is wedge bonded to a cyclobutane ring that shows a nitrogen and is double bonded to an oxygen and dash bonded to two hydrogen atoms. The cyclobutane is fused to a cyclohexene that shows a sulfur. The cyclohexane is single bonded to a methyl group and carboxylic acid.">
+    <media alt="The structure shows cephalexin (a cephalosporin). A beta-lactam ring is present in the structure.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_10_004.jpg"/>
     </media>
     </figure>
     <para id="para-00012">The biological activity of penicillins and cephalosporins is due to the presence of the strained <emphasis effect="italics">β</emphasis>-lactam ring, which reacts with and deactivates the transpeptidase enzyme needed to synthesize and repair bacterial cell walls. With the wall either incomplete or weakened, the bacterial cell ruptures and dies.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows a reaction in which Penicillin (beta -lactam) reacts with Transpeptidase (active enzyme) to yield an intermediate that after several steps yields an inactive enzyme. The structure of penicillin shows an R bonded to a carbonyl group that is bonded to a nitrogen monohydride. The nitrogen is wedge bonded to a cyclobutane ring that shows a blue nitrogen and is double bonded to a pink oxygen and dash bonded to two hydrogen atoms. The cyclobutane is fused to a cyclopentane that shows a sulfur. The cyclopentane is single bonded to two methyl groups and dash bonded to a carboxyl group. Transpeptidase shows an enzyme bonded to blue hydroxyl group that shows four electrons. An arrow from the electrons points to the double bond between the cyclobutane and pink oxygen. An arrow from the double bond points to the pink oxygen. The intermediate is similar to the reactant but the pink oxygen is single bonded and shows a negative charge and six electrons. The carbon bonded to the pink oxygen is also bonded to a blue oxygen that is bonded to Enzyme. An arrow from the electrons of pink oxygen points to the bond between the cyclobutane and pink oxygen. An arrow from the C-blue N bond points to H of H-A. An arrow from the H-A bond points to A. The inactive enzyme shows an R bonded to a carbonyl group that is bonded to a nitrogen monohydride. The nitrogen is wedge bonded to an open cyclobutane ring that shows a blue nitrogen monohydride and is double bonded to a pink oxygen and dash bonded to two hydrogen atoms. The pink oxygen is bonded to a blue oxygen that is bonded to Enzyme. The cyclobutane is fused to a cyclopentane that shows a sulfur. The cyclopentane is single bonded to two methyl groups and dash bonded to a carboxyl group.">
+    <media alt="The reaction schee shows the conversion of the active enzyme transpeptidase to an inactive enzyme. An intermediate is formed in the pathway is enclosed in parentheses.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_10_005.jpg"/>
     </media>
     </figure>
@@ -202,7 +202,7 @@
     <para id="para-00013"><emphasis effect="bold">Carboxylic acid derivatives</emphasis>—compounds in which the –OH group of a carboxylic acid has been replaced by another substituent—are among the most widely occurring of all molecules and are involved in almost all biological pathways. In this chapter, we covered the chemistry necessary for understanding them and thus also necessary for understanding living organisms. <emphasis effect="bold">Acid halides, acid anhydrides, esters,</emphasis> and <emphasis effect="bold">amides</emphasis> are the most common such derivatives in the laboratory; <emphasis effect="bold">thioesters</emphasis> and <emphasis effect="bold">acyl phosphates</emphasis> are common in biological molecules.</para>
     <para id="para-00014">The chemistry of carboxylic acid derivatives is dominated by the <emphasis effect="bold">nucleophilic acyl substitution reaction</emphasis>. Mechanistically, these substitutions take place by addition of a nucleophile to the polar carbonyl group of the acid derivative to give a tetrahedral intermediate, followed by expulsion of a leaving group.</para>
     <figure class="unnumbered scaled-down" id="fig-00006">
-    <media alt="An illustration shows a reaction in which a carbonyl compound reacts with a nucleophile that shows two electrons to give a tetrahedral intermediate that yields another carbonyl compound and Y anion that shows two electrons. The reactant shows an R bonded to a carbonyl group bonded to green Y. An arrow from the electrons of blue Nu points to the carbon. An arrow from the double bond points to the carbonyl oxygen. The tetrahedral intermediate shows a carbon dash bonded to R on the left single bonded to blue Nu on the right and pink oxygen anion at the top and wedge bonded to Y at the bottom. The oxygen shows six electrons. An arrow from the electrons of oxygen points to the C-O bond. An arrow from the C-Y bond points to Y. The product shows an R bonded to a carbonyl group bonded to blue Nu. Y groups are highlighted in green. The carbonyl oxygen is pink.">
+    <media alt="The curly arrow mechanism for the nucleophilic acyl substitution reaction of a carbonyl compound. The tetrahedral intermediate is shown.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_001.jpg"/>
     </media>
     </figure>
@@ -218,25 +218,25 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00003">
     <item>Conversion into acid chlorides<newline/>
     <figure class="unnumbered scaled-down" id="fig-00007">
-    <media alt="An illustration shows a reaction in which a carboxylic acid reacts with SOCl2 (highlighted in blue) and CHCl3 to yield an acid chloride (RCOCl) SO2 (highlighted in blue) and HCl. The hydroxyl group is green and the chlorine is blue. The carbonyl oxygen atoms are highlighted in pink. In HCl H is green and Cl is blue.">
+    <media alt="Conversion of a carboxylic acid to an acid chloride, by reaction with thionyl chloride in trichloromethane (chloroform). The hydroxyl group is replaced by a chlorine atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_002.jpg"/>
     </media>
     </figure></item>
     <item>Conversion into esters<newline/>
     <figure class="unnumbered scaled-down" id="fig-00008">
-    <media alt="An illustration shows two reactions. In the first reaction a carboxylate (RCO-green oxygen anion) reacts with blue R’X (Via SN2 reaction) to yield an ester. The carbonyl oxygen is pink. The ester shows R bonded to a carbonyl group bonded to green O bonded to blue R’. In the second reaction a carboxylic acid (RCO-green hydroxyl group) reacts with R’OH (highlighted in blue) in the presence of acid catalyst to yield an ester and water (highlighted in green). The carbonyl oxygen is pink. The ester shows R bonded to a carbonyl group bonded to blue OR’.">
+    <media alt="At the top, reaction of a carboxylate ion with an alkyl halide to give an ester through an S N 2 mechanism. At the bottom, reaction of a carboxylic acid with an alcohol to yield an ester.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_003.jpg"/>
     </media>
     </figure></item>
     <item>Conversion into amides<newline/>
     <figure class="unnumbered scaled-down" id="fig-00009">
-    <media alt="An illustration shows a reaction in which a carboxylic acid reacts with blue RNH2 and DCC to yield an amide (RCONHR). The hydroxyl group is green and ‘NHR’ is blue. The carbonyl oxygen is pink.">
+    <media alt="Conversion of a carboxylic acid to an N-substituted amide by reaction with a monosubstituted amine and D C C.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_004.jpg"/>
     </media>
     </figure></item>
     <item>Reduction to yield primary alcohols<newline/>
     <figure class="unnumbered scaled-down" id="fig-00010">
-    <media alt="An illustration shows a reaction in which a carboxylic acid reacts with LiAlH4 (highlighted in blue)to yield a primary alcohol (RCH2OH). The hydroxyl group of the reactant is green and that of alcohol is pink. The hydrogens of methylene group are blue. The carbonyl oxygen is pink.">
+    <media alt="Conversion of a carboxylic acid to a primary alcohol using lithium aluminum hydride.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_005.jpg"/>
     </media>
     </figure></item></list>
@@ -245,43 +245,43 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00004">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00011">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with water (highlighted in blue) to yield an acid (RCOOH) and green HCl. The chlorine of the reactant is green and that of HCl is blue. The hydroxyl group is blue. The carbonyl oxygen is pink.">
+    <media alt="Hydrolysis of an acid chloride using water to give a carboxylic acid and hydrochloric acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_006.jpg"/>
     </media>
     </figure></item>
     <item>Reaction with carboxylates to yield anhydrides<newline/>
     <figure class="unnumbered scaled-down" id="fig-00012">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with blue carboxylate ion (RCOO minus) to yield an anhydride (RCOOCOR) and green chloride ion. The chlorine of the reactant is green. The hydroxyl group is blue. In anhydride OCOR is blue. The carbonyl oxygen is pink.">
+    <media alt="Reaction of an acid chloride with a carboxylate in to form an acid anhydride.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_007.jpg"/>
     </media>
     </figure></item>
     <item>Alcoholysis to yield esters<newline/>
     <figure class="unnumbered scaled-down" id="fig-00013">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with R’OH (highlighted in blue) in the presence of pyridine to yield an ester (RCOOR) and HCl. The chlorine atoms are green. The OR’ group is blue. In HCl H is blue and Cl is green. The carbonyl oxygen is pink.">
+    <media alt="The reaction of an acid chloride with an alcohol in the presence of pyridine to form an ester.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_008.jpg"/>
     </media>
     </figure></item>
     <item>Aminolysis to yield amides<newline/>
     <figure class="unnumbered scaled-down" id="fig-00014">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with 2 moles of ammonia (highlighted in blue) to yield an amide (RCONH2) and NH4Cl. The chlorine atoms are green. NH3 NH2 and NH4 groups are blue. The carbonyl oxygen is pink.">
+    <media alt="Two molecules of ammonia react with an acid chloride to form an amide and ammonium chloride.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_009.jpg"/>
     </media>
     </figure></item>
     <item>Reduction to yield primary alcohols<newline/>
     <figure class="unnumbered scaled-down" id="fig-00015">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with 1. blue LiAlH4 ether 2. hydronium ion (highlighted in pink) to yield a primary alcohol. The chlorine atom is green. The carbonyl oxygen is pink. The primary alcohol shows a carbon bonded to R pink hydroxyl group and two blue hydrogens.">
+    <media alt="Reaction of an acid chloride with lithium aluminum hydride in ether followed by treatment with acid to generate an alcohol.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_010.jpg"/>
     </media>
     </figure></item>
     <item>Grignard reaction to yield tertiary alcohols<newline/>
     <figure class="unnumbered scaled-down" id="fig-00016">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with 1. 2 moles of RMgX ether 2. hydronium ion (highlighted in pink) to yield a tertiary alcohol. The chlorine atom is green. The carbonyl oxygen is pink. The tertiary alcohol shows a carbon bonded to R pink hydroxyl group and two blue R’ groups.">
+    <media alt="Reaction of an acid chloride with two moles of Grignard reagent in ether followed by treatment with acid to give a tertiary alcohol.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_011.jpg"/>
     </media>
     </figure></item>
     <item>Diorganocopper reaction to yield ketones<newline/>
     <figure class="unnumbered scaled-down" id="fig-00017">
-    <media alt="An illustration shows a reaction in which an acid chloride (RCOCl) reacts with blue R’2CuLi and ether to yield a ketone. The chlorine atom is green. The carbonyl oxygen is pink. The ketone shows a carbonyl group bonded to R and blue R’.">
+    <media alt="An acid chloride reacts with diorganocopper-lithium (Gilman reagent) in ether to form an ester.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_012.jpg"/>
     </media>
     </figure></item></list>
@@ -290,19 +290,19 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00005">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00018">
-    <media alt="An illustration shows a reaction in which an acid anhydride (RCO-green O-COR) reacts with water (highlighted in blue) to yield 2 moles of an acid. The carbonyl oxygen is pink. The acid shows R bonded to carbonyl group bonded to blue hydroxyl group.">
+    <media alt="Reaction of an acid anhydride with water gives two equivalents of carboxylic acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_013.jpg"/>
     </media>
     </figure></item>
     <item>Alcoholysis to yield esters<newline/>
     <figure class="unnumbered scaled-down" id="fig-00019">
-    <media alt="An illustration shows a reaction in which an acid anhydride (RCO-green O-COR) reacts with alcohol (highlighted in blue) (R’OH) to yield an ester and an alcohol. The carbonyl oxygen is pink. The ester shows R bonded to carbonyl group bonded to blue OR’. The alcohol shows R bonded to carbonyl group bonded to green oxygen bonded to blue hydrogen.">
+    <media alt="The reaction of an acid anhydride with an alcohol forms an ester and a carboxylic acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_014.jpg"/>
     </media>
     </figure></item>
     <item>Aminolysis to yield amides<newline/>
     <figure class="unnumbered scaled-down" id="fig-00020">
-    <media alt="An illustration shows a reaction in which an acid anhydride (RCO-green O-COR) reacts with 2 moles of ammonia (highlighted in blue) to yield an amide and another product. The carbonyl oxygen is pink. The amide shows R bonded to carbonyl group bonded to blue amino group. The other product shows R bonded to carbonyl group bonded to green oxygen anion bonded to ammonium ion (highlighted in blue).">
+    <media alt="The reaction of an acid anhydride with two equivalents of ammonia gives an amide and an ammonium carboxylate salt.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_015.jpg"/>
     </media>
     </figure></item></list>
@@ -311,25 +311,25 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00006">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00021">
-    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with hydronium ion (highlighted in blue) sodium hydroxide and water to yield a carboxylic acid (RCOOH) and alcohol (green R’O bonded to blue H). The ester shows green OR’. The OH group of carboxylic acid is blue. The carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="An ester is hydrolyzed to a carboxylic acid and alcohol using either acid or base.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_016.jpg"/>
     </media>
     </figure></item>
     <item>Reduction to yield primary alcohols<newline/>
     <figure class="unnumbered scaled-down" id="fig-00022">
-    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with 1. blue LiAlH4 ether 2. hydronium ion (highlighted in pink) to yield two alcohols. The ester shows green OR’. The first alcohol shows R bonded to a carbon that is bonded to two blue hydrogens and a pink hydroxyl group. The second alcohol shows green R’ bonded to green OH. The carbonyl oxygen is highlighted in pink.">
+    <media alt="An ester is reduced to an alcohol using lithium aluminum hydride in ether followed by treatment with acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_017.jpg"/>
     </media>
     </figure></item>
     <item>Partial reduction to yield aldehydes<newline/>
     <figure class="unnumbered scaled-down" id="fig-00023">
-    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with 1. DIBAH (highlighted in blue) toluene 2. hydronium ion (highlighted in green) to yield an aldehyde and an alcohol. The ester shows green OR’. The aldehyde shows R bonded to a carbonyl group bonded to blue hydrogen. The alcohol shows green R’ bonded to green OH. The carbonyl oxygens are highlighted in pink.">
+    <media alt="An ester is partially reduced to an aldehyde using D I B A H in toluene followed by treatment with acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_018.jpg"/>
     </media>
     </figure></item>
     <item>Grignard reaction to yield tertiary alcohols<newline/>
     <figure class="unnumbered scaled-down" id="fig-00024">
-    <media alt="An illustration shows a reaction in which an ester (RCOOR’) reacts with 1. 2 moles of blue R’’ MgX ether 2. hydronium ion (highlighted in pink) to yield a tertiary alcohol and a primary alcohol. The ester shows green OR’. The tertiary alcohol shows R bonded to a carbon that is bonded to two blue R’’ and a pink hydroxyl group. The primary alcohol shows green R’ bonded to green OH. The carbonyl oxygen is highlighted in pink.">
+    <media alt="The reaction of an ester with a Grignard reagent in ether followed by treatment with acid produces an alcohol">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_019.jpg"/>
     </media>
     </figure></item></list>
@@ -338,13 +338,13 @@
     <list mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha" id="list-00007">
     <item>Hydrolysis to yield acids<newline/>
     <figure class="unnumbered scaled-down" id="fig-00025">
-    <media alt="An illustration shows a reaction in which an amide (RCONH2) reacts with hydronium ion (highlighted in blue) or sodium hydroxide water (highlighted in blue) to yield a carboxylic acid and ammonia (highlighted in green). The amide shows R bonded to a carbonyl group bonded to green amino group. The carboxylic acid shows R bonded to a carbonyl group bonded to blue hydroxyl group. The carbonyl oxygens are highlighted in pink.">
+    <media alt="Hydrolysis of an amide to a carboxylic acid using acid or base.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_020.jpg"/>
     </media>
     </figure></item>
     <item>Reduction to yield amines<newline/>
     <figure class="unnumbered scaled-down" id="fig-00026">
-    <media alt="An illustration shows a reaction in which an amide (RCONH2) reacts with 1. blue LiAlH4 ether 2. hydronium ion to yield an amine. The amide shows R bonded to a carbonyl group bonded to green amino group. The carbonyl oxygen is pink. The amine shows R bonded to a carbon that is bonded to blue hydrogens and a green amino group.">
+    <media alt="Reduction of amides to amines using lithium aluminum hydride in ether followed by treatment with acid.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_EC_021.jpg"/>
     </media>
     </figure></item></list>

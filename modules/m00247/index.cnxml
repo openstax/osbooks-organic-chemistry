@@ -8,7 +8,7 @@
   <content>
     <para id="para-00001">When an amine reacts with an acid chloride, an amide is formed. What would happen, though, if a <emphasis effect="italics">diamine</emphasis> and a <emphasis effect="italics">diacid chloride</emphasis> were allowed to react? Each partner would form two amide bonds, linking more and more molecules together until a giant polyamide resulted. In the same way, reaction of a diol with a diacid would lead to a polyester.</para>
     <figure class="unnumbered" id="fig-00001">
-    <media alt="An illustration shows two reactions. In the first reaction a diamine reacts with a diacid chloride to yield a polyamide (nylon). The diamine shows a blue amino group bonded to n number of methylene groups and then another blue amino group. The diacid chloride shows a green chlorine bonded to a carbonyl group that is bonded to m number of methylene groups and then a carbonyl group bonded to green chlorine. Nylon shows a blue nitrogen monohydride with a free bond bonded to n number of methylene groups and then another blue nitrogen monohydride that is bonded to a carbonyl group that is bonded to m number of methylene groups and then a carbonyl group that shows a free bond. A spiral pink line is shown above the free bonds. In the second reaction a diol reacts with a diacid to yield a polyester and water (highlighted in green). The diol shows a blue hydroxyl group bonded to n number of methylene groups and then another blue hydroxyl group. The diacid shows a green hydroxyl group bonded to a carbonyl group that is bonded to m number of methylene groups and then a carbonyl group bonded to green hydroxyl group. Polyester shows a blue oxygen with a free bond bonded to n number of methylene groups and then another blue oxygen that is bonded to a carbonyl group that is bonded to m number of methylene groups and then a carbonyl group that shows a free bond. A spiral pink line is shown above the free bonds. The carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="The first reaction shows a diamine reacting with a diacid chloride to form a polyamide (nylon). The second reaction shows a diol reacting with a diacid to form a polyester and water.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_09_001.jpg"/>
     </media>
     </figure>
@@ -30,27 +30,27 @@
     </thead>
     <tbody>
     <row valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-nylon66.jpg"/></media></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="The structure of adipic acid is a six carbon chain, C1 and C 6 of which are carboxylic acids The structure of hexamethylenediamine is a six carbon chain with amine groups on C1 and C 6."><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-nylon66.jpg"/></media></entry>
     <entry valign="top" align="left">Nylon 66</entry>
     <entry valign="top" align="left">Fibers, clothing, tire cord</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-dacronmylar.jpg"/></media></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="The structure of dimethyl terephthalate is a benzene ring with methyl ester groups para to one another. Ethylene glycol is a two-carbon chain with hydroxyl groups on each carbon."><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-dacronmylar.jpg"/></media></entry>
     <entry valign="top" align="left">Dacron, Mylar, Terylene</entry>
     <entry valign="top" align="left">Fibers, clothing, films, tire cord</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-nylon6perlon.jpg"/></media></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="The caprolactam structure is a seven-membered cyclic cycloheptanone ring in which a nitrogen atom replaces the carbon adjacent to the carbonyl group."><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-nylon6perlon.jpg"/></media></entry>
     <entry valign="top" align="left">Nylon 6, Perlon</entry>
     <entry valign="top" align="left">Fibers, castings</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-lexan.jpg"/></media></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="The structure of diphenyl carbonate comprises of a central carbonyl group attached to two oxygen atom. Each of the oxygen atoms is also attached to a benzene ring. The structure of bisphenol A comprises of a central carbon atom attached to two methyl groups and two benzene rings bearing hydroxyl groups in the 4 position."><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-lexan.jpg"/></media></entry>
     <entry valign="top" align="left">Lexan, polycarbonate</entry>
     <entry valign="top" align="left">Equipment housing, molded articles</entry>
     </row>
     <row valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="Alt Text Placeholder"><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-polyurethane.jpg"/></media></entry>
+    <entry valign="top" align="left" namest="c1" nameend="c2"><media class="unnumbered" alt="Toluene-2,6-diisocyanate comprises of a benzene ring with a methyl group and with isocyanate groups on either side of the methyl group. Poly(but-2-ene) is a four-carbon chain alkene enclosed in brackets with subscript n, with two hydroxyl groups on terminal carbons."><image mime-type="image/jpeg" src="../../media/OChem_21_09_003_T-polyurethane.jpg"/></media></entry>
     <entry valign="top" align="left">Polyurethane, Spandex</entry>
     <entry valign="top" align="left">Fibers, coatings, foams</entry>
     </row>
@@ -61,7 +61,7 @@
     <title>Polyamides (Nylons)</title>
     <para id="para-00003">The best known step-growth polymers are the polyamides, or <emphasis effect="italics">nylons,</emphasis> first prepared in 1930 by Wallace Carothers at the DuPont Company by heating a diamine with a diacid. For instance, nylon 66 is prepared by reaction of adipic acid (hexanedioic acid) with hexamethylenediamine (1,6-hexanediamine) at 280 °C. The designation “66” indicates the number of carbon atoms in the diamine (the first 6) and the diacid (the second 6).</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows a reaction in which adipic acid upon heating with hexamethylenediamine yields nylon 66 and 2n moles of water (highlighted in green). Adipic acid shows a green hydroxyl group bonded to a carbonyl group that is bonded to 4 methylene groups and then a carbonyl group bonded to green hydroxyl group. Hexamethylenediamine shows a blue amino group bonded to a chain of 6 methylene groups and then a blue amino group. Nylon 66 is shown inside parentheses with subscript n. It shows a carbonyl group with a free bond bonded to a chain of 4 methylene groups and then a carbonyl group that is bonded to a blue nitrogen monohydride that is bonded to a chain of 6 methylene groups and then a blue nitrogen monohydride that shows a free bond. A spiral pink line is shown above the free bonds. The carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="The reaction shows the formation of Nylon 6 6 polymer from adipic acid and hexamethylenediamine by heating. The product has a twelve-carbon repeating chain enclosed in parentheses with subscript n.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_09_002.jpg"/>
     </media>
     </figure>
@@ -71,13 +71,13 @@
     <title>Polyesters</title>
     <para id="para-00005">The most generally useful polyester is made by reaction between dimethyl terephthalate (dimethyl 1,4-benzenedicarboxylate) and ethylene glycol (1,2-ethanediol). The product is used under the trade name Dacron to make clothing fiber or tire cord and under the name Mylar to make recording tape. The tensile strength of poly(ethylene terephthalate) film is nearly equal to that of steel.</para>
     <figure class="unnumbered" id="fig-00003">
-    <media alt="An illustration shows a reaction in which Dimethyl terephthalate reacts with Ethylene glycol at 200 degree C to yield a polyester (Dacron Mylar). Dimethyl terephthalate shows benzene with C1 and C4 bonded to a carbonyl group each. Each carbonyl group is bonded to a green methoxide group. Ethylene glycol shows a blue hydroxyl group bonded to a chain of two methylene groups and then another blue hydroxyl group. The structure of Dacron is shown inside parentheses with subscript n. It shows a carbonyl group with a free bond bonded to a benzene that is bonded to a carbonyl group bonded to a blue oxygen that is bonded to a chain of two methylene groups and then a blue oxygen that shows a free bond. The carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="The reaction shows dimethyl terephthalate and ethylene glycol heated at two-hundred degrees Celsius forming polyester Dacron or Mylar.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_09_004.jpg"/>
     </media>
     </figure>
     <para id="para-00006">Lexan, a polycarbonate prepared from diphenyl carbonate and bisphenol A, is another commercially valuable polyester. Lexan has an unusually high impact strength, making it valuable for use in bicycle helmets and laptop cases.</para>
     <figure class="unnumbered scaled-down" id="fig-00004">
-    <media alt="An illustration shows a reaction in which Diphenyl carbonate reacts with Bisphenol A at 300 degree C to yield Lexan and 2n moles of phenol that shows a green hydroxyl group. Diphenyl carbonate shows benzene bonded to a green oxygen bonded to a carbonyl group that is bonded to another green oxygen bonded to a benzene ring. Bisphenol A shows a central carbon bonded to two methyl groups and two benzene rings. Each benzene is bonded to a blue hydroxyl group. The structure of Lexan is shown inside parentheses with subscript n. It shows a central carbon bonded to two methyl groups and two benzene rings. The left benzene is bonded to a blue oxygen that shows a free bond. The right benzene is bonded to a blue oxygen that is bonded to a carbonyl group that shows a free bond. The carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="The reaction shows diphenyl catbonate and Bisphenol A heated at three-hundred degrees Celsius forming polyester Lexan.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_09_005.jpg"/>
     </media>
     </figure>
@@ -86,7 +86,7 @@
     <title>Sutures and Biodegradable Polymers</title>
     <para id="para-00007">Because plastics are too often thrown away rather than recycled, much work has been carried out on developing biodegradable polymers, which can be broken down rapidly in landfills by soil microorganisms. Among the most common biodegradable polymers are poly(glycolic acid) (PGA), poly(lactic acid) (PLA), and poly(hydroxybutyrate) (PHB). All are polyesters and are therefore susceptible to hydrolysis of their ester links. Copolymers of PGA with PLA have found a particularly wide range of uses. A 90/10 copolymer of poly(glycolic acid) with poly(lactic acid) is used to make absorbable sutures, for instance. The sutures are entirely hydrolyzed and absorbed by the body within 90 days after surgery.</para>
     <figure class="unnumbered scaled-down" id="fig-00005">
-    <media alt="An illustration shows the structures of six compounds: Glycolic acid Lactic acid 3-Hydroxybutyric acid Poly(glycolic acid) Poly(lactic acid) and Poly(hydroxybutyrate). Glycolic acid shows a blue hydroxyl group bonded to a methylene group bonded to a carbonyl group that is bonded to a green hydroxyl group. Lactic acid shows a blue hydroxyl group bonded to a methine group bonded to a carbonyl group that is bonded to a green hydroxyl group. The methine group is bonded to a methyl group at the bottom. 3-Hydroxybutyric acid shows a blue hydroxyl group bonded to a methine group bonded to a methylene group bonded to a carbonyl group that is bonded to a green hydroxyl group. The methine group is bonded to a methyl group at the bottom. The structure of poly(glycolic acid) is shown inside parentheses with subscript n. It shows a blue oxygen with a free bond bonded to a methylene group that is bonded to a carbonyl group that shows a free bond. The structure of poly(lactic acid) is shown inside parentheses with subscript n. It shows a blue oxygen with a free bond bonded to a methine group that is bonded to a carbonyl group that shows a free bond. The methine group is bonded to a methyl group at the bottom. The structure of poly(hydroxybutyrate) is shown inside parentheses with subscript n. It shows a blue oxygen with a free bond bonded to a methine group that is bonded to a methylene group bonded to a carbonyl group that shows a free bond. The methine group is bonded to a methyl group at the bottom. In all the structures the carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="The first reaction shows the polymerization of glycolic acid to form poly(glycolic) acid. The second shows polymerization of lactic acid to form poly(lactic) acid, and the third the polymerization of 2-hydroxybutyric acid to form poly(hydroxybutyrate). All three polymerizations require heat.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_09_006.jpg"/>
     </media>
     </figure>

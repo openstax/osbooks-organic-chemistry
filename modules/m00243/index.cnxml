@@ -10,7 +10,7 @@
     <title>Preparation of Acid Anhydrides</title>
     <para id="para-00001">Acid anhydrides are typically prepared by nucleophilic acyl substitution reaction of an acid chloride with a carboxylate anion, as we saw in the previous section. Both symmetrical and unsymmetrical acid anhydrides can be prepared in this way.</para>
     <figure class="unnumbered scaled-down" id="fig-00001">
-    <media alt="An illustration shows a reaction in which Benzoyl chloride reacts with Sodium acetate (highlighted in blue) in the presence of ether to yield Acetic benzoic anhydride. Benzoyl chloride shows benzene bonded to a carbonyl group bonded to green chlorine. The carbonyl oxygen is highlighted in pink. Sodium acetate shows a methyl group bonded to a carboxylate anion bonded to sodium cation. Acetic benzoic anhydride shows benzene bonded to a carbonyl group bonded to a blue oxygen that is bonded to blue acetate group. The carbonyl oxygen is highlighted in pink.">
+    <media alt="Benzoyl chloride reacts with sodium acetate in ether, forming acetic benzoic anhydride. In the product structure, a benzoyl group and an acetyl group are single-bonded to an oxygen atom.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_05_001.jpg"/>
     </media>
     </figure>
@@ -19,7 +19,7 @@
     <title>Reactions of Acid Anhydrides</title>
     <para id="para-00002">The chemistry of acid anhydrides is similar to that of acid chlorides, although anhydrides react more slowly. Thus, acid anhydrides react with water to form acids, with alcohols to form esters, with amines to form amides, and with LiAlH<sub>4</sub> to form primary alcohols. Only the ester- and amide-forming reactions are commonly used, however.</para>
     <figure class="unnumbered scaled-down" id="fig-00002">
-    <media alt="An illustration shows four reactions of an acid anhydride. The structure of acid anhydride is highlighted and shows an R bonded to a carbonyl group bonded to a green oxygen that is bonded to another carbonyl group bonded to R. Hydrolysis yields RCOOH. Alcoholysis with R’OH (highlighted in blue) yields an ester (RCO-blue OR’). Aminolysis with ammonia (highlighted in blue) yields an amide (RCO bonded to blue amino group). Reduction (with H minus) yields an aldehyde (RCHO) and an alcohol in which R is bonded to a carbon that is bonded to two blue hydrogens and a pink hydroxyl group. The carbonyl oxygen atoms are highlighted in pink.">
+    <media alt="The reaction scheme shows conversion of an acid anhydride to a carboxylic acid using water (hydrolysis), ester using alcohol (alcoholysis), amide using ammonia (aminolysis), aldehyde and primary alcohol using hydride ions (reduction).">
     <image mime-type="image/jpeg" src="../../media/OChem_21_05_002.jpg"/>
     </media>
     </figure>
@@ -27,7 +27,7 @@
     <title>Conversion of Acid Anhydrides into Esters</title>
     <para id="para-00003">Acetic anhydride is often used to prepare acetate esters from alcohols. For example, aspirin (acetylsalicylic acid) is prepared commercially by the acetylation of <emphasis effect="italics">o</emphasis>-hydroxybenzoic acid (salicylic acid) with acetic anhydride.</para>
     <figure class="unnumbered scaled-down" id="fig-00003">
-    <media alt="An illustration shows a reaction in which Salicylic acid (o-hydroxybenzoic acid) reacts with Acetic anhydride in the presence of sodium hydroxide and water to yield Aspirin (an ester) and carboxylate (CH3COO minus highlighted in green). Salicylic acid shows benzene with C1 bonded to a carboxyl group and C2 bonded to a blue hydroxyl group. Acetic anhydride shows a methyl group bonded to a carbonyl group that is bonded to a green oxygen bonded to green acetate group. Aspirin shows benzene with C1 bonded to a carboxyl group and C2 bonded to a blue oxygen that is bonded to a carbonyl group bonded to methyl group. The carbonyl oxygens are highlighted in pink.">
+    <media alt="Salicylic acid reacts with acetic anhydride in aqueous sodium hydroxide, giving aspirin and acetate ion. The aspirin structure comprises of a benzene ring with carboxylic acid and methyl acetate groups attached ortho to each other.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_05_003.jpg"/>
     </media>
     </figure>
@@ -36,7 +36,7 @@
     <title>Conversion of Acid Anhydrides into Amides</title>
     <para id="para-00004">Acetic anhydride is also commonly used to prepare <emphasis effect="italics">N</emphasis>-substituted acetamides from amines. For example, acetaminophen, a drug used in over-the-counter analgesics such as Tylenol, is prepared by reaction of <emphasis effect="italics">p</emphasis>-hydroxyaniline with acetic anhydride. Only the more nucleophilic –NH<sub>2</sub> group reacts rather than the less nucleophilic –OH group.</para>
     <figure class="unnumbered" id="fig-00004">
-    <media alt="An illustration shows a reaction in which p-Hydroxyaniline reacts with Acetic anhydride in the presence of sodium hydroxide and water to yield Acetaminophen and carboxylate (CH3COO minus highlighted in green). p-Hydroxyaniline shows benzene with C1 bonded to a blue amino group and C4 bonded to a hydroxyl group. Acetic anhydride shows a methyl group bonded to a carbonyl group that is bonded to a green oxygen bonded to green acetate group. Acetaminophen shows benzene with C4 bonded to a hydroxyl group and C1 bonded to a blue nitrogen monohydride that is bonded to a carbonyl group bonded to methyl group. The carbonyl oxygens are highlighted in pink.">
+    <media alt="The reaction of p-hydroxyaniline and acetic anhydride in the presence of aqueous sodium hydroxide forms an acetate ion and acetaminophen, where the para position of phenol is attached to an acetamide group.">
     <image mime-type="image/jpeg" src="../../media/OChem_21_05_004.jpg"/>
     </media>
     </figure>
