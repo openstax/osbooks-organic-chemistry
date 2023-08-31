@@ -114,7 +114,7 @@
 </table>
 <para id="para-00004">Naming a monofunctional compound is reasonably straightforward, but even experienced chemists often encounter problems when faced with naming a complex polyfunctional compound. Take the following compound, for instance. It has three functional groups, ester, ketone, and <m:math><m:mrow><m:mtext>C</m:mtext><m:mtext>═</m:mtext><m:mtext>C</m:mtext></m:mrow></m:math>, but how should it be named? As an ester with an -<emphasis effect="italics">oate</emphasis> ending, a ketone with an -<emphasis effect="italics">one</emphasis> ending, or an alkene with an -<emphasis effect="italics">ene</emphasis> ending? It’s actually named methyl 3-(2-oxo-6-cyclohexenyl)propanoate.</para>
 <figure class="unnumbered scaled-down" id="fig-00001">
-<media alt="Alt Text Placeholder">
+<media alt="The structure of methyl 3-(2-oxo-6-cyclohexenyl)propanoate. Three functional groups, ketone, double bond, and ester are labeled.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_001.jpg"/>
 </media>
 </figure>
@@ -123,7 +123,7 @@
 <title>Name Part 1. The Suffix: Functional-Group Precedence</title>
 <para id="para-00006">Although a polyfunctional organic molecule might contain several different functional groups, we must choose just one suffix for nomenclature purposes. It’s not correct to use two suffixes. Thus, keto ester <emphasis effect="bold">1</emphasis> must be named either as a ketone with an -<emphasis effect="italics">one</emphasis> suffix or as an ester with an -<emphasis effect="italics">oate</emphasis> suffix, but it can’t be named as an -<emphasis effect="italics">onoate.</emphasis> Similarly, amino alcohol <emphasis effect="bold">2</emphasis> must be named either as an alcohol (-<emphasis effect="italics">ol</emphasis>) or as an amine (-<emphasis effect="italics">amine</emphasis>), but it can’t be named as an -<emphasis effect="italics">olamine</emphasis> or -<emphasis effect="italics">aminol.</emphasis></para>
 <figure class="unnumbered scaled-down" id="fig-00002">
-<media alt="Alt Text Placeholder">
+<media alt="Two structures: Five-carbon chain in which second from left has oxo group and fifth is methyl ester. Five-carbon chain with hydroxyl on second carbon from left and amino on fifth.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_002.jpg"/>
 </media>
 </figure>
@@ -293,7 +293,7 @@
 </tgroup>
 </table>
 <figure class="unnumbered scaled-down" id="fig-00003">
-<media alt="Alt Text Placeholder">
+<media alt="The structures of five compounds named methyl 4-oxopentanoate, 5-amino-2-pentanol, methyl 5-methyl-6-oxohexanoate, 5-carbamoyl-4-hydroxypentanoic acid, and 3-oxocyclohexanecarbaldehyde.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_003.jpg"/>
 </media>
 </figure>
@@ -302,13 +302,13 @@
 <title>Name Part 2. The Parent: Selecting the Main Chain or Ring</title>
 <para id="para-00009">The parent, or base, name of a polyfunctional organic compound is usually easy to identify. If the principal group of highest priority is part of an open chain, the parent name is that of the longest chain containing the largest number of principal groups. For example, compounds <emphasis effect="bold">6</emphasis> and <emphasis effect="bold">7</emphasis> are isomeric aldehydo amides, which must be named as amides rather than as aldehydes according to <link target-id="table-00002"/>. The longest chain in compound <emphasis effect="bold">6</emphasis> has six carbons, and the substance is named 5-methyl-6-oxohexanamide. Compound <emphasis effect="bold">7</emphasis> also has a chain of six carbons, but the longest chain that contains both principal functional groups has only four carbons. Thus, compound <emphasis effect="bold">7</emphasis> is named 4-oxo-3-propylbutanamide.</para>
 <figure class="unnumbered scaled-down" id="fig-00004">
-<media alt="Alt Text Placeholder">
+<media alt="The structure of two compounds named 5-methyl-6-oxohexanamide and 4-oxo-3-propylbutanamide. Both structures have an amide group constituting C 1 position.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_004.jpg"/>
 </media>
 </figure>
 <para id="para-00010">If the highest-priority principal group is attached to a ring, the parent name is that of the ring system. Compounds <emphasis effect="bold">8</emphasis> and <emphasis effect="bold">9</emphasis>, for instance, are isomeric keto nitriles and must both be named as nitriles according to <link target-id="table-00002"/>. Substance <emphasis effect="bold">8</emphasis> is named as a benzonitrile because the  −CN functional group is a substituent on the aromatic ring, but substance <emphasis effect="bold">9</emphasis> is named as an acetonitrile because the  −CN functional group is on an open chain. Thus, their names are 2-acetyl-(4-bromomethyl)benzonitrile <emphasis effect="bold">(8)</emphasis> and (2-acetyl-4-bromophenyl)acetonitrile <emphasis effect="bold">(9)</emphasis>. As further examples, compounds <emphasis effect="bold">10</emphasis> and <emphasis effect="bold">11</emphasis> are both keto acids and must be named as acids, but the parent name in <emphasis effect="bold">10</emphasis> is that of a ring system (cyclohexanecarboxylic acid) and the parent name in <emphasis effect="bold">11</emphasis> is that of an open chain (propanoic acid). Thus, their names are <emphasis effect="italics">trans</emphasis>-2-(3-oxopropyl)cyclohexanecarboxylic acid <emphasis effect="bold">(10)</emphasis> and 3-(2-oxocyclohexyl)propanoic acid <emphasis effect="bold">(11)</emphasis>.</para>
 <figure class="unnumbered scaled-down" id="fig-00005">
-<media alt="Alt Text Placeholder">
+<media alt="The structures of four compounds named 2-acetyl-(4-bromomethyl)benzonitrile, (2-acetyl-4-bromophenyl)acetonitrile, trans-2-(3-oxopropyl)cyclohexanecarboxylic acid, and 3-(2-oxocyclohexyl)propanoic acid.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_005.jpg"/>
 </media>
 </figure>
@@ -317,7 +317,7 @@
 <title>Name Parts 3 and 4. The Prefixes and Locants</title>
 <para id="para-00011">With the parent name and the suffix established, the next step is to identify and give numbers, or <emphasis effect="italics">locants,</emphasis> to all substituents on the parent chain or ring. The substituents include all alkyl groups and all functional groups other than the one cited in the suffix. For example, compound <emphasis effect="bold">12</emphasis> contains three different functional groups (carboxyl, keto, and double bond). Because the carboxyl group is highest in priority and the longest chain containing the functional groups has seven carbons, compound <emphasis effect="bold">12</emphasis> is a heptenoic acid. In addition, the parent chain has a keto (oxo) substituent and three methyl groups. Numbering from the end nearer the highest-priority functional group gives the name (<emphasis effect="italics">E</emphasis>)-2,5,5-trimethyl-4-oxo-2-heptenoic acid. Look back at some of the other compounds we’ve named to see other examples of how prefixes and locants are assigned.</para>
 <figure class="unnumbered scaled-down" id="fig-00006">
-<media alt="Alt Text Placeholder">
+<media alt="(E)-2,5,5-trimethyl-4-oxo-2-heptenoic acid has 7-carbon chain with double bond, methyl group at C 2, oxo at C 4, and two methyl groups at C 5. C 1 is carboxylic acid group.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_006.jpg"/>
 </media>
 </figure>
@@ -328,19 +328,19 @@
 <list list-type="enumerated" id="list-00001">
 <item><emphasis effect="bold">Order of prefixes.</emphasis> When the substituents have been identified, the parent chain has been numbered, and the proper multipliers such as <emphasis effect="italics">di</emphasis>- and <emphasis effect="italics">tri</emphasis>- have been assigned, the name is written with the substituents listed in alphabetical, rather than numerical, order. Multipliers such as <emphasis effect="italics">di</emphasis>- and <emphasis effect="italics">tri</emphasis>- are not used for alphabetization, but the italicized prefixes <emphasis effect="italics">iso</emphasis>- and <emphasis effect="italics">sec</emphasis>- <emphasis effect="italics">are</emphasis> used.<newline/>
 <figure class="unnumbered scaled-down" id="fig-00007">
-<media alt="Alt Text Placeholder">
+<media alt="5-Amino-3-methyl-2-pentanol has a 5-carbon chain. C 1, C 3, and C 4 are bonded to an amino group, a methyl group, and a hydroxyl group, respectively.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_007.jpg"/>
 </media>
 </figure></item>
 <item><emphasis effect="bold">Use of hyphens; single- and multiple-word names.</emphasis> The general rule is to determine whether the parent is itself an element or compound. If it is, then the name is written as a single word; if it isn’t, then the name is written as multiple words. Methylbenzene is written as one word, for instance, because the parent—benzene—is a compound. Diethyl ether, however, is written as two words because the parent—ether—is a class name rather than a compound name. Some further examples follow:<newline/>
 <figure class="unnumbered scaled-down" id="fig-00008">
-<media alt="Alt Text Placeholder">
+<media alt="The structures of four compounds named dimethylmagnesium, isopropyl 3-hydroxypropanoate, 4-(dimethylamino)pyridine, and methyl cyclopentanecarbothioate.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_008.jpg"/>
 </media>
 </figure></item>
 <item><emphasis effect="bold">Parentheses.</emphasis> Parentheses are used to denote complex substituents when ambiguity would otherwise arise. For example, chloromethylbenzene has two substituents on a benzene ring, but (chloromethyl)benzene has only one complex substituent. Note that the expression in parentheses is not set off by hyphens from the rest of the name.<newline/>
 <figure class="unnumbered scaled-down" id="fig-00009">
-<media alt="Alt Text Placeholder">
+<media alt="The structures of three compounds named p-chloromethylbenzene, (chloromethyl)benzene, and 2-(1-methylpropyl)pentanedioic acid.">
 <image mime-type="image/jpeg" src="../../media/OChem_AppA_009.jpg"/>
 </media>
 </figure></item>
