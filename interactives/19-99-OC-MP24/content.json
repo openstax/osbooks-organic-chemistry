@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The Wharton reaction converts an epoxy ketone to an allylic alcohol by reaction with hydrazine. Review the Wolff&#8211;Kishner reaction in Section 19.9 and then propose a mechanism.</p>\n<img class=\"scaled-down\" src=\"media/OChem_19_EC_043.jpg\" alt=\"Wharton reaction shows the conversion of an epoxy ketone to an allylic alcohol and N 2, by reacting with hydrazine using a catalyst containing sodium acetate, and acetic acid.\">",
+  "isSolutionPublic": false
+}
