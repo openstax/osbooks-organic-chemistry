@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Limonene, a fragrant hydrocarbon found in lemons and oranges, is biosynthesized from geranyl diphosphate by the following pathway. Add curved arrows to show the mechanism of each step. Which step involves an alkene electrophilic addition? (The ion OP<sub>2</sub>O<sub>6</sub><sup>4&#8722;</sup> is the diphosphate ion, and &#8220;Base&#8221; is an unspecified base in the enzyme that catalyzes the reaction.)</p>\n<img class=\"scaled-down\" src=\"media/OSX_OrgChem_07_99_Geranyl_img.jpg\" alt=\"A 3-step biosynthesis reaction shows the formation of limonene from geranyl diphosphate.\">",
+  "isSolutionPublic": false
+}
