@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Hydrocarbon <b>A</b> has the formula C<sub>9</sub>H<sub>12</sub> and absorbs 3 equivalents of H<sub>2</sub> to yield <b>B</b>, C<sub>9</sub>H<sub>18</sub>, when hydrogenated over a Pd/C catalyst. On treatment of <b>A</b> with aqueous H<sub>2</sub>SO<sub>4</sub> in the presence of mercury(II), two isomeric ketones, <b>C</b> and <b>D</b>, are produced. Oxidation of <b>A</b> with KMnO<sub>4</sub> gives a mixture of acetic acid (CH<sub>3</sub>CO<sub>2</sub>H) and the tricarboxylic acid <b>E</b>. Propose structures for compounds <b>A</b>&#8211;<b>D</b>, and write the reactions.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_09_EC_041.jpg\" alt=\"The structure of a C7 tricarboxylic acid labeled E.\">",
+  "isSolutionPublic": false
+}
