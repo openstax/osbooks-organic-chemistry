@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>2-Methylpentane (C<sub>6</sub>H<sub>14</sub>) has the mass spectrum shown. Which peak represents M<sup>+</sup>? Which is the base peak? Propose structures for fragment ions of <i>m/z</i> = 71, 57, 43, and 29. Why does the base peak have the mass it does?</p>\n<img src=\"media/OChem_12_EC_003.jpg\" alt=\"The mass spectrum of  2-methylpentane with a base peak at m / z 43 and highest m / z value peaks at 86 and 87.\">",
+  "isSolutionPublic": false
+}
