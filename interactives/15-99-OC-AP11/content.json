@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>In 1932, A. A. Levine and A. G. Cole studied the ozonolysis of <i>o</i>-xylene and isolated three products: glyoxal, 2,3-butanedione, and pyruvaldehyde:</p>\n<img class=\"scaled-down\" src=\"media/OChem_15_EC_009.jpg\" alt=\"Benzene with methyl groups at C 1 and C 2 reacts with ozone in the presence of zinc to form glyoxal, 2,3-butanedione, and pyruvaldehyde.\">\n<p>In what ratio would you expect the three products to be formed if <i>o</i>-xylene is a resonance hybrid of two structures? The actual ratio found was 3 parts glyoxal, 1 part 2,3-butanedione, and 2 parts pyruvaldehyde. What conclusions can you draw about the structure of <i>o</i>-xylene?</p>",
+  "isSolutionPublic": false
+}
