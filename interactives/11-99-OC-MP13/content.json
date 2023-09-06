@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>S<sub>N</sub>2 reactions take place with inversion of configuration, and S<sub>N</sub>1 reactions take place with racemization. The following substitution reaction, however, occurs with complete <i>retention</i> of configuration. Propose a mechanism. (Hint: two inversions = retention.)</p>\n<img class=\"scaled-down\" src=\"media/OChem_11_EC_022.jpg\" alt=\"The reaction of (R)-2-bromopropanoic acid first with one percent sodium hydroxide and water, and then with hydronium ion, forms (R)-2-hydroxypropanoic acid.\">",
+  "isSolutionPublic": false
+}
