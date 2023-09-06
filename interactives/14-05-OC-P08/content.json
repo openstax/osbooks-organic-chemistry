@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following alkenes would you expect to be good Diels&#8211;Alder dienophiles?</p>\n<p><b>(a)</b>&#8201;<img src=\"media/OChem_14_05_014a.jpg\" alt=\"The condensed structural formula reads, H 2 C double bonded to C H C (double bonded to O) C l.\">\n&#8195;<b>(b)</b>&#8201;<img src=\"media/OChem_14_05_014b.jpg\" alt=\"The condensed structural formula reads, H 2 C double bonded to C H C H 2 C H 2 C (double bonded to O) O C H 3.\">\n&#8195;<b>(c)</b><img src=\"media/OChem_14_05_014c.jpg\" alt=\"A cyclohexane ring has a double bond between C 1 and C 2.\">\n&#8195;<b>(d)</b><img src=\"media/OChem_14_05_014d.jpg\" alt=\"In a cyclohexane ring, C 1 is a carbonyl group. C 2 is double bonded to C 3.\">\n&#8195;<b>(e)</b><img src=\"media/OChem_14_05_014e.jpg\" alt=\"In a cyclohexane ring, C 1 is a carbonyl group. C 3 is double bonded to C 4.\"></p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>Good dienophiles: <b>(a)</b>, <b>(d)</b></p>"
+}
