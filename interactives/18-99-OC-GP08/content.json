@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Disparlure, C<sub>19</sub>H<sub>38</sub>O, is a sex attractant released by the female spongy moth, <i>Lymantria dispar.</i> The <sup>1</sup>H NMR spectrum of disparlure shows a large absorption in the alkane region, 1 to 2 <i>&#948;,</i> and a triplet at 2.8 <i>&#948;.</i> Treatment of disparlure, first with aqueous acid and then with KMnO<sub>4</sub>, yields two carboxylic acids identified as undecanoic acid and 6-methylheptanoic acid. (KMnO<sub>4</sub> cleaves 1,2-diols to yield carboxylic acids.) Neglecting stereochemistry, propose a structure for disparlure. The actual compound is a chiral molecule with 7<i>R</i>,8<i>S</i> stereochemistry. Draw disparlure, showing the correct stereochemistry.</p>",
+  "isSolutionPublic": false
+}
