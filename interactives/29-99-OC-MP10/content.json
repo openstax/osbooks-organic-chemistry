@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The amino acid leucine is biosynthesized from <i>&#945;</i>-ketoisocaproate, which is itself prepared from <i>&#945;</i>-ketoisovalerate by a multistep route that involves (<b><span class=\"magenta-text\">1</span></b>) reaction with acetyl CoA, (<b><span class=\"magenta-text\">2</span></b>) hydrolysis, (<b><span class=\"magenta-text\">3</span></b>) dehydration, (<b><span class=\"magenta-text\">4</span></b>) hydration, (<b><span class=\"magenta-text\">5</span></b>) oxidation, and (<b><span class=\"magenta-text\">6</span></b>) decarboxylation. Show the steps in the transformation, and propose a mechanism for each.</p>\n<img class=\"scaled-down\" src=\"media/OChem_29_EC_012.jpg\" alt=\"Alpha-ketoisovalerate reacts to form alpha-ketoisocaproate via the conversion acetyl CoA, and  nicotinamide adenine dinucleotide cation  to H S CoA, carbon dioxide and nicotinamide adenine dinucleotide phosphate hydride.\">",
+  "isSolutionPublic": false
+}
