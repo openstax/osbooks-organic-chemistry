@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The <sup>1</sup>H and <sup>13</sup>C NMR spectra of compound <b>A</b>, C<sub>8</sub>H<sub>9</sub>Br, are shown. Propose a structure for <b>A</b>, and assign peaks in the spectra to your structure.</p>\n<img src=\"media/OChem_13_EC_020.jpg\" alt=\"H N M R shifts: 0, 1.2 (triplet), 2.6 (quartet), 7.1 (singlet), and 7.1 and 7.4 (two doublets). C N M R shifts: 17, 30, 120 (short), 130, and 132.\">",
+  "isSolutionPublic": false
+}
