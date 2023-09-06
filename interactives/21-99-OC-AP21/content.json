@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Propose a structure for a compound, C<sub>4</sub>H<sub>7</sub>ClO<sub>2</sub>, that has the following IR and <sup>1</sup>H NMR spectra:</p>\n<img src=\"media/OChem_21_EC_046.jpg\" alt=\"The I R spectrum of a compound of molecular formula C 4 H 7 C l O 2 shows peaks at 2900 and 1750 wavenumbers as well as several peaks between 1500 and 700 wavenumbers. The proton N M R spectrum shows three signals, a doublet at 1.69, a singlet at 3.79, and a quartet at 4.41 p p m. The signals integrate as 3, 3, and 1 respectively.\">",
+  "isSolutionPublic": false
+}
