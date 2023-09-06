@@ -1,0 +1,183 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 3,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down-30\" src=\"media/OChem_11_EC_014a.jpg\" alt=\"An incomplete reaction between 1S,2S-1,2-dimethylcyclohexanol in sulfuric acid to form unknown product(s).\">",
+        "subContentId": "13592f93-1d53-4aae-85bb-31b353699244"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "11-99-OC-MP04-1",
+        "extraTitle": "11-99-OC-MP04-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down-30\" src=\"media/OChem_11_EC_014b.jpg\" alt=\"An incomplete reaction between 1R,2R-1-chloro-2-methylcyclohexane in sodium methoxide and methanol to form unknown product(s).\">",
+        "subContentId": "73691663-28f4-43ab-816f-be935d13ca2a"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "11-99-OC-MP04-2",
+        "extraTitle": "11-99-OC-MP04-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down-30\" src=\"media/OChem_11_EC_014c.jpg\" alt=\"An incomplete reaction between 1-bromo-2-methylpropane in potassium t-butoxide and T H F to form unknown product(s).\">",
+        "subContentId": "57646ccd-88e1-42ba-84d0-2e500deb15b5"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "11-99-OC-MP04-3",
+        "extraTitle": "11-99-OC-MP04-3"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>Predict the product(s) for each of the following elimination reactions. In each case show the mechanism. What do the mechanisms have in common? Why?</p>"
+}
