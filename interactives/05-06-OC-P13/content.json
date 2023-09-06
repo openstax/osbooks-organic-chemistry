@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>One of the following molecules <b>(a)</b>&#8211;<b>(d)</b> is D-erythrose 4-phosphate, an intermediate in the Calvin photosynthetic cycle by which plants incorporate CO<sub>2</sub> into carbohydrates. If D-erythrose 4-phosphate has <i>R</i> stereochemistry at both chirality centers, which of the structures is it? Which of the remaining three structures is the enantiomer of D-erythrose 4-phosphate, and which are diastereomers?</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_06_003a.jpg\" alt=\"Vertically, aldehyde dashed bond carbon bond carbon dashed bond C H 2 phosphate. C 2 and C 3 both have hydrogen (wedge, left) and hydroxyl (wedge, right).\">\n&#8195;<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_06_003b.jpg\" alt=\"Vertically, aldehyde dashed bond carbon bond carbon dashed bond C H 2 phosphate. C 2 has hydroxyl (left), H on wedges, C 3 has hydrogen (left), hydroxyl on wedges.\">\n&#8195;<b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_06_003c.jpg\" alt=\"Vertically, aldehyde dashed bond carbon bond carbon dashed bond C H 2 phosphate. C 2 has hydrogen (left), hydroxyl on wedges, C 3 has hydroxyl (left), hydrogen on wedges.\">\n&#8195;<b>(d)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_06_003d.jpg\" alt=\"Vertically, aldehyde dashed bond carbon bond carbon dashed bond C H 2 phosphate. C 2 and C 3 both have hydroxyl (wedge, left) and hydrogen (wedge, right).\"></p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>Compound <b>(a)</b> is D-erythrose 4-phosphate, <b>(d)</b> is its enantiomer, and <b>(b)</b> and <b>(c)</b> are diastereomers.</p>"
+}
