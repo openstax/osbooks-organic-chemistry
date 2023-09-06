@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Classify the resonances in the <sup>13</sup>C NMR spectrum of methyl propanoate, CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>CH<sub>3</sub> (Figure 13.20).</p>\n<figure id=\"fig-00201\"><img class=\"scaled-down\" src=\"media/OChem_13_11_006.jpg\" alt=\"The 13 C N M R spectrum of methyl propanoate shows peaks at 0 (T M S), 9, 29, 52, and 175.\">\n<figcaption><sup>13</sup>C NMR spectrum of methyl propanoate, Problem 19.</figcaption>\n</figure>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>&#8722;CH<sub>3</sub>, 9.3 <i>&#948;;</i> &#8201;&#8722;CH<sub>2</sub>&#8722;&#8201;, 27.6 <i>&#948;;</i> C=O, 174.6 <i>&#948;;</i>&#8722;&#8201;OCH<sub>3</sub>, 51.4 <i>&#948;</i></p>"
+}
