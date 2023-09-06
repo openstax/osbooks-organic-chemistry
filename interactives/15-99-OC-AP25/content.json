@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>On reaction with acid, 4-pyrone is protonated on the carbonyl-group oxygen to give a stable cationic product. Using resonance structures and the H&#252;ckel 4<i>n</i> + 2 rule, explain why the protonated product is so stable.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_15_EC_017.jpg\" alt=\"4-Pyrone, when treated wuth acid is protonated at the carbonyl group, the oxygen of which now carries a positive charge.\">",
+  "isSolutionPublic": false
+}
