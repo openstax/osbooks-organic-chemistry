@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Butacetin is an analgesic (pain-killing) agent that is synthesized commercially from <i>p</i>-fluoronitrobenzene. Propose a synthesis.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_21_EC_052.jpg\" alt=\"The structure of butacetin comprises of a para-substituted benzene ring with a carbonyl group attached to a tertiary butyl group as one substituent, and, as the other, an N H group attached to a carbonyl itself attached to a methyl group.\">",
+  "isSolutionPublic": false
+}
