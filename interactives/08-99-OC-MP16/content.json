@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Hydroboration of 2-methyl-2-pentene at 25 &#176;C, followed by oxidation with alkaline H<sub>2</sub>O<sub>2</sub>, yields 2-methyl-3-pentanol, but hydroboration at 160 &#176;C followed by oxidation yields 4-methyl-1-pentanol. Suggest a mechanism.</p>\n<img class=\"scaled-down\" src=\"media/OChem_08_EC_031.jpg\" alt=\"A 2-pathway reaction shows the formation of 2-methyl-3-pentanol and 4-methyl-1-pentanol from 2-methyl-2-pentene at slightly different reaction temperaures.\">",
+  "isSolutionPublic": false
+}
