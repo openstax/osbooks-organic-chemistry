@@ -1,0 +1,237 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 3,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<img src=\"media/OChem_23_01_006a.jpg\" alt=\"The structure of butyraldehyde shows a four-carbon chain carrying a carbonyl group at first carbon and is single-bonded to H and propyl group.\">",
+        "subContentId": "ee1f3f2e-1658-4701-8c14-e69ef1a55d12",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<img src=\"media/OChem_23_EC_201a.jpg\" alt=\"The structure of 2-ethyl-3-hydroxyhexanal shows a six-carbon chain with aldehyde on the first, ethyl on the second, and hydroxyl group on the third carbon.\">"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "23-01-OC-P01-1",
+        "extraTitle": "23-01-OC-P01-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<img src=\"media/OChem_23_01_006b.jpg\" alt=\"The structure of acetophenone shows a benzene ring single-bonded to the carbonyl group at the first carbon. The carbonyl carbon is single-bonded to a methyl group.\">",
+        "subContentId": "6bbc54a1-cee4-4ff2-af9e-1e15b45acebd",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<img src=\"media/OChem_23_EC_201b.jpg\" alt=\"The structure shows a benzene ring attached to the carbonyl carbon that is single-bonded to a methylene group, which single-bonded to a carbon with hydroxyl, methyl, and phenyl groups.\">"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "23-01-OC-P01-2",
+        "extraTitle": "23-01-OC-P01-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<img src=\"media/OChem_23_01_006c.jpg\" alt=\"The structure of cyclopentanone shows a five-membered cyclic ring. The first carbon of the ring is double-bonded to an oxygen atom. Other carbon-carbon bonds are single-bonded.\">",
+        "subContentId": "45fc3416-38bd-427b-aad8-27449636cd02",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<img src=\"media/OChem_23_EC_201c.jpg\" alt=\"The structure shows a cyclopentanol single-bonded via C 1 to C 2 of cyclopentanone.\">"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "23-01-OC-P01-3",
+        "extraTitle": "23-01-OC-P01-3"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>Predict the aldol reaction product of the following compounds:</p>"
+}
