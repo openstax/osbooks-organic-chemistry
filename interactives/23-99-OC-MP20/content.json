@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Cocaine has been prepared by a sequence beginning with a Mannich reaction (Problem 23-45) between dimethyl acetonedicarboxylate, an amine, and a dialdehyde. Show the structures of the amine and dialdehyde.</p>\n<img class=\"scaled-down\" src=\"media/OChem_23_EC_033.jpg\" alt=\"The reaction shows dimethyl acetonedicarboxylate with an amine and dialdehyde, forming a cyclic seven-membered carbonyl compound with a bridged N-methyl group. The structure of cocaine is shown in parenthesis.\">",
+  "isSolutionPublic": false
+}
