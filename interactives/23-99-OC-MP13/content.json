@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The Darzens reaction involves a two-step, base-catalyzed condensation of ethyl chloroacetate with a ketone to yield an epoxy ester. The first step is a carbonyl condensation reaction, and the second step is an S<sub>N</sub>2 reaction. Write both steps, and show their mechanisms.</p>\n<img class=\"scaled-down\" src=\"media/OChem_23_EC_026.jpg\" alt=\"The reaction shows cyclohexanone and ethyl chloroacetate using sodium ethoxide and ethanol, forming an epoxy ester product. The epoxy ring is attached to the first carbon of the cyclohexane ring.\">",
+  "isSolutionPublic": false
+}
