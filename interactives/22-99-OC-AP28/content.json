@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The key step in a reported laboratory synthesis of sativene, a hydrocarbon isolated from the mold <i>Helminthosporium sativum,</i> involves the following base treatment of a keto tosylate. What kind of reaction is occurring? How would you complete the synthesis?</p>\n<img class=\"scaled-down\" src=\"media/OChem_22_EC_048.jpg\" alt=\"A keto tosylate reacts with a base to yield an intermediate which reacts with an unknown reagent, represented by a question mark to yield sativene as a product.\">",
+  "isSolutionPublic": false
+}
