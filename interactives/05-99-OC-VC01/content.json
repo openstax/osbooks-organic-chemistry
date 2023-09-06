@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following structures are identical? (Green = Cl.)</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_EC_001a.jpg\" alt=\"The ball-and-stick model shows a 3-carbon chain. C1 is a carboxylic acid group on the right. A chlorine atom is bonded to C2  above and a methyl group below C2.\">\n<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_EC_001b.jpg\" alt=\"The ball-and-stick model shows a 3-carbon  chain. C1 is a carboxylic acid group  on the left. C2 is bonded to a chlorine atom at the top behind the C2 hydrogen.\">\n<b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_EC_001c.jpg\" alt=\"The ball-and-stick model shows a 3-carbon  chain. C1 is a carboxylic acid group on the left. C2 is bonded to a chlorine atom on the right the methyl group above.\">\n<br><b>(d)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_EC_001d.jpg\" alt=\"The ball-and-stick model shows a 3-carbon  chain. C1 is a carboxylic acid group on the left. C2 is bonded to a chlorine atom in front of the C2 hydrogen\"></p>",
+  "isSolutionPublic": false
+}
