@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>&#945;</i>-Amino acids can be prepared by the Strecker synthesis, a two-step process in which an aldehyde is treated with ammonium cyanide followed by hydrolysis of the amino nitrile intermediate with aqueous acid. Propose a mechanism for the reaction.</p>\n<img class=\"scaled-down\" src=\"media/OChem_24_EC_027.jpg\" alt=\"Aldehyde R C H O reacts with ammonium cyanide and water forming C with R, H, amino, and cyano substituents. Further reaction with hydronium and heat forms an alpha-amino acid.\">",
+  "isSolutionPublic": false
+}
