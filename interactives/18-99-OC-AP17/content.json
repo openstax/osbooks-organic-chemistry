@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Anethole, C<sub>10</sub>H<sub>12</sub>O, a major constituent of the oil of anise, has the <sup>1</sup>H NMR spectrum shown. On careful oxidation with Na<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, anethole yields <i>p</i>-methoxybenzoic acid. What is the structure of anethole? Assign all peaks in the NMR spectrum, and account for the observed splitting patterns.</p>\n<img src=\"media/OChem_18_EC_040.jpg\" alt=\"Proton N M R with shifts at 1.84 (doublet), 3.76 (singlet), 6.09 and 6.36 (multiplets), 6.82 and 7.23 (doublets). Relative areas are 3.00, 3.00, 1.00, 1.00, 2.00, 2.00 respectively.\">",
+  "isSolutionPublic": false
+}
