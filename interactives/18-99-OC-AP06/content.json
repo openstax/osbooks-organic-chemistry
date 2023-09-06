@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Treatment of <i>trans</i>-2-chlorocyclohexanol with NaOH yields 1,2-epoxycyclohexane, but reaction of the cis isomer under the same conditions yields cyclohexanone. Propose mechanisms for both reactions, and explain why the different results are obtained.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_18_EC_035.jpg\" alt=\"Reactions alter trans-2-chlorocyclohexanol to 1,2-epoxycyclohexane and cis-2-chlorocyclohexanol isomer to cyclohexanone, each utilizing sodium hydroxide and water.\">",
+  "isSolutionPublic": false
+}
