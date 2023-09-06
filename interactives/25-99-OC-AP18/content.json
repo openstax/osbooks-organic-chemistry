@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<small style=\"font-variant: small-caps\">L</small>-Gulose can be prepared from <small style=\"font-variant: small-caps\">D</small>-glucose by a route that begins with oxidation to <small style=\"font-variant: small-caps\">D</small>-glucaric acid, which cyclizes to form two six-membered-ring lactones. Separating the lactones and reducing them with sodium amalgam gives <small style=\"font-variant: small-caps\">D</small>-glucose and <small style=\"font-variant: small-caps\">L</small>-gulose. What are the structures of the two lactones, and which one is reduced to <small style=\"font-variant: small-caps\">L</small>-gulose?",
+  "isSolutionPublic": false
+}
