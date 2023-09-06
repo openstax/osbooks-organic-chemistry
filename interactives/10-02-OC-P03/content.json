@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Draw and name all monochloro products you would expect to obtain from radical chlorination of 2-methylpentane. Which, if any, are chiral?</p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>Chiral: 1-chloro-2-methylpentane, 3-chloro-2-methylpentane, 2-chloro-4-methylpentane Achiral: 2-chloro-2-methylpentane, 1-chloro-4-methylpentane\n<br><img class=\"scaled-down\" src=\"media/OSX_OrgChem_10_DD_A-EC10-3a_img.jpg\" alt=\"A condensed formula for 1-chloro-2-methylpentane.\">\n<br><img class=\"scaled-down\" src=\"media/OSX_OrgChem_10_DD_A-EC10-3b_img.jpg\" alt=\"A condensed formula for 2-chloro-2-methylpentane.\">\n<br><img class=\"scaled-down\" src=\"media/OSX_OrgChem_10_DD_A-EC10-3c_img.jpg\" alt=\"A condensed formula for 3-chloro-2-methylpentane.\">\n<br><img class=\"scaled-down\" src=\"media/OSX_OrgChem_10_DD_A-EC10-3d_img.jpg\" alt=\"A condensed formula for 2-chloro-4-methylpentane.\">\n<br><img class=\"scaled-down\" src=\"media/OSX_OrgChem_10_DD_A-EC10-3e_img.jpg\" alt=\"A condensed formula for 1-chloro-4-methylpentane.\"></p>"
+}
