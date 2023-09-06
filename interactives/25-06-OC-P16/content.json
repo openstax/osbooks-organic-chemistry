@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Draw the products you would obtain by reaction of <i>&#946;</i>-<small style=\"font-variant: small-caps\">D</small>-ribofuranose with: <b>(a)</b> CH<sub>3</sub>I, Ag<sub>2</sub>O <b>(b)</b>  (CH<sub>3</sub>CO)<sub>2</sub>O, pyridine</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_25_06_003.jpg\" alt=\"The structure of beta-D-ribofuranose with three axial  O H groups at C 1, C 2, and C 3.  The molecular formula is C 5 H 10 O 5.\">",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<img src=\"media/OChem_25_EC_210a.jpg\" alt=\"Beta-D-Ribofuranose  reacts with iodomethane in the presence of silver oxide to form beta-D-ribofuranose tetramethyl ether in which the hydrogens of the hydroxyl groups are replaced by C H 3 groups \">\n<img class=\"scaled-down-30\" src=\"media/OChem_25_EC_210b.jpg\" alt=\"Beta-D-Ribofuranose reacts with acetic anhydride in pyridine to form beta-D-ribofuranose tetraacetate in which the hydrogens of the hydroxyl groups are replaced by acetate groups\">"
+}
