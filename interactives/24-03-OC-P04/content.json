@@ -1,0 +1,237 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 3,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub> or CH<sub>3</sub>CH<sub>2</sub>CONH<sub>2</sub></p>",
+        "subContentId": "79a3b713-c287-4a1d-843c-932b1750e588",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<p>CH<sub>3</sub>CH<sub>2</sub>NH<sub>2</sub></p>"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "24-03-OC-P04-1",
+        "extraTitle": "24-03-OC-P04-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>NaOH or CH<sub>3</sub>NH<sub>2</sub></p>",
+        "subContentId": "fb746ebf-d7db-4ed0-9f09-e8baf5adb33f",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<p>NaOH</p>"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "24-03-OC-P04-2",
+        "extraTitle": "24-03-OC-P04-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>CH<sub>3</sub>NHCH<sub>3</sub> or pyridine</p>",
+        "subContentId": "6dfa337e-252a-48a4-86d9-54d7887e56b8",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<p>CH<sub>3</sub>NHCH<sub>3</sub></p>"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "24-03-OC-P04-3",
+        "extraTitle": "24-03-OC-P04-3"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>Which compound in each of the following pairs is more basic?</p>"
+}
