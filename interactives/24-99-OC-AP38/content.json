@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>4-Dimethylaminopyridine (DMAP) acts as a catalyst in acyl transfer reactions. DMAP&#8217;s catalytic activity stems from its nucleophilic character at the pyridine nitrogen, not the dimethylamino group. Explain this behavior, taking resonance into account.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_24_EC_058.jpg\" alt=\"The structure of 4-dimethylaminopyridine. It has a pyridine ring linked to a nitrogen connected to two methyl groups.\">",
+  "isSolutionPublic": false
+}
