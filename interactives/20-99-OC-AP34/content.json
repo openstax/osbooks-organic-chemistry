@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following p<i>K</i><sub>a</sub> values have been measured. Explain why a hydroxyl group in the para position decreases the acidity while a hydroxyl group in the meta position increases the acidity.</p>\n<img class=\"scaled-down\" src=\"media/OChem_20_EC_035.jpg\" alt=\"The acid strengths of 4-hydroxybenzoic acid (p K a equals 4.48), benzoic acid (p K a equals 4.19), and 3-hydroxybenzoic acid (p K a equals 4.07) are compared.\">\n",
+  "isSolutionPublic": false
+}
