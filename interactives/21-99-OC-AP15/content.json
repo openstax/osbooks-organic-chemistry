@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>tert</i>-Butoxycarbonyl azide, a reagent used in protein synthesis, is prepared by treating <i>tert</i>-butoxycarbonyl chloride with sodium azide. Propose a mechanism for this reaction.</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_041.jpg\" alt=\"The reaction of tert-butyl chloroformate with sodium azide forming an azide derivative in which the chlorine atom is replaced by an N 3 (azide) group at the carbonyl carbon.\">",
+  "isSolutionPublic": false
+}
