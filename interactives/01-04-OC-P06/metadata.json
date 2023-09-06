@@ -1,0 +1,24 @@
+{
+  "errata_id": "8ab0a6ba2f754bbdaa1fba92f20307ddbee6768cc5f0081b8c44e19073eafbfc",
+  "attachments": [
+    "media/OChem_01_EC_203d.jpg",
+    "media/OChem_01_EC_203c.jpg",
+    "media/OChem_01_EC_203a.jpg",
+    "media/OChem_01_EC_203b.jpg"
+  ],
+  "tags": [
+    "type:practice",
+    "book:stax-orgchem",
+    "context-cnxmod:bba72705-abcf-4238-8d40-5fccbbcc6ea1",
+    "book-slug:organic-chemistry",
+    "module-slug:organic-chemistry:1-4-development-of-chemical-bonding-theory"
+  ],
+  "books": [
+    {
+      "name": "stax-orgchem"
+    }
+  ],
+  "context": [
+    "m00161"
+  ]
+}
