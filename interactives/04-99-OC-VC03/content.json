@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>A trisubstituted cyclohexane with three substituents&#8212;red, green, and blue&#8212;undergoes a ring-flip to its alternate chair conformation. Identify each substituent as axial or equatorial, and show the positions occupied by the three substituents in the ring-flipped form.</p>\n<img class=\"scaled-down\" src=\"media/OChem_04_EC_003.jpg\" alt=\"Ball and stick model of substituted cyclohexane with red, blue, and green spheres at C1, C2, and C5 undergoes ring-flip to form model with all substituents, represented by white circles.\">",
+  "isSolutionPublic": false
+}
