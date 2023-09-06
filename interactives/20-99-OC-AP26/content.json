@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Compound <b>A</b>, C<sub>4</sub>H<sub>8</sub>O<sub>3</sub>, has infrared absorptions at 1710 and 2500 to 3100 cm<sup>&#8211;1</sup> and has the <sup>1</sup>H NMR spectrum shown. Propose a structure for <b>A</b>.</p>\n<img src=\"media/OChem_20_EC_029.jpg\" alt=\"The proton spectrum of C 4 H 8 O 3 shows peaks at 1.26 (triplet), 3.64 (quartet), 4.14 (singlet), and 11.12 (singlet).\">",
+  "isSolutionPublic": false
+}
