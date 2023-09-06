@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>A problem often encountered in the oxidation of primary alcohols to carboxylic acids is that esters are sometimes produced as by-products. For example, oxidation of ethanol yields acetic acid and ethyl acetate:</p>\n<img class=\"scaled-down\" src=\"media/OChem_17_EC_050.jpg\" alt=\"Ethanol reacts with chromium trioxide to form acetic acid and ethylacetate.\">\n<p>Propose a mechanism to account for the formation of ethyl acetate. Take into account the reversible reaction between aldehydes and alcohols:</p>\n<img class=\"scaled-down\" src=\"media/OChem_17_EC_051.jpg\" alt=\"An aldehyde, R C H O reacts with R dash O H to form carbon linked to H , R, O H and O R dash group.\">",
+  "isSolutionPublic": false
+}
