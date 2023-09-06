@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Evidence that cleavage of 1,2-diols by HIO<sub>4</sub> occurs through a five-membered cyclic periodate intermediate is based on the measurement of reaction rates. When diols <b>A</b> and <b>B</b> were prepared and the rates of their reaction with HIO<sub>4</sub> were measured, it was found that diol <b>A</b> cleaved approximately 1 million times faster than diol <b>B</b>. Make molecular models of <b>A</b> and <b>B</b> and of potential cyclic periodate intermediates, and then explain the results.</p>\n<img class=\"scaled-down\" src=\"media/OChem_08_EC_049.jpg\" alt=\"Structure A (cis diol) shows bicyclic heptane with hydroxyls at the top of C2 and C3. Structure B (trans diol) shows a hydroxyl group at the bottom of C 2.\">",
+  "isSolutionPublic": false
+}
