@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>tert</i>-Butyl esters [RCO<sub>2</sub>C(CH<sub>3</sub>)<sub>3</sub>] are converted into carboxylic acids (RCO<sub>2</sub>H) by reaction with trifluoroacetic acid, a reaction useful in protein synthesis <b>(Section 26.7)</b>. Assign <i>E,Z</i> designation to the double bonds of both reactant and product in the following scheme, and explain why there is an apparent change in double-bond stereochemistry:</p>\n<img class=\"scaled-down\" src=\"media/OChem_07_EC_033.jpg\" alt=\"The figure shows tertiary-butyl ester reacts with trifluoroacetic acid to form a carboxylic acid and an alkene.\">",
+  "isSolutionPublic": false
+}
