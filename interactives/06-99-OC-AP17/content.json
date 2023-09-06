@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Ammonia reacts with acetyl chloride (CH<sub>3</sub>COCl) to give acetamide (CH<sub>3</sub>CONH<sub>2</sub>). Identify the bonds broken and formed in each step of the reaction, and draw curved arrows to represent the flow of electrons in each step.</p>\n<img class=\"scaled-down\" src=\"media/OSX_OrgChem_06_99_OChem-06-EC-023_80485-06-u074_P-AcetylCh_img.jpg\" alt=\"A 3-step reaction of acetyl chloride with ammonia. Step 1: ammonia addition to carbonyl; step 2: chlorine is eliminated; step 3: acetamide product is deprotonated by ammonia, ammonium chloride formed.\">",
+  "isSolutionPublic": false
+}
