@@ -1,0 +1,24 @@
+{
+  "errata_id": "659d1f94d624dcf24aebe9a7a8dffcd0c95fdc88d17800b89c8a7ecb53324253",
+  "attachments": [
+    "media/OChem_01_EC_013.jpg",
+    "media/OChem_01_EC_013b.jpg",
+    "media/OChem_01_EC_013c.jpg",
+    "media/OChem_01_EC_013a.jpg"
+  ],
+  "tags": [
+    "type:practice",
+    "book:stax-orgchem",
+    "context-cnxmod:bae84be6-2f44-4cce-83b7-c06c340a68b7",
+    "book-slug:organic-chemistry",
+    "module-slug:organic-chemistry:1-12-drawing-chemical-structures"
+  ],
+  "books": [
+    {
+      "name": "stax-orgchem"
+    }
+  ],
+  "context": [
+    "m00169"
+  ]
+}
