@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The red fox <i>(Vulpes vulpes)</i> uses a chemical communication system based on scent marks in urine. One component of fox urine is a sulfide whose mass spectrum has M<sup>+</sup> = 116. IR spectroscopy shows an intense band at 890 cm<sup>&#8211;1</sup>, and <sup>1</sup>H NMR spectroscopy reveals the following peaks:</p>\n<ul style=\"list-style-type:none\">\n<li>1.74 <i>&#948;</i> (3 H, singlet); 2.11 <i>&#948;</i> (3 H, singlet); 2.27 <i>&#948;</i> (2 H, triplet, <i>J</i> = 4.2 Hz); 2.57 <i>&#948;</i> (2 H, triplet, <i>J</i> = 4.2 Hz); 4.73 <i>&#948;</i> (2 H, broad)</li>\n</ul>\n<p>Propose a structure consistent with these data. [Note: (CH<sub>3</sub>)<sub>2</sub>S absorbs at 2.1 <i>&#948;</i>].</p>",
+  "isSolutionPublic": false
+}
