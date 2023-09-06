@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The primary fate of acetyl CoA under normal metabolic conditions is degradation in the citric acid cycle to yield CO<sub>2</sub>. When the body is stressed by prolonged starvation, however, acetyl CoA is converted into compounds called <i>ketone bodies</i>, which can be used by the brain as a temporary fuel. Fill in the missing information indicated by the four question marks in the following biochemical pathway for the synthesis of ketone bodies from acetyl CoA:</p>\n<img class=\"scaled-down\" src=\"media/OChem_29_EC_018.jpg\" alt=\"Acetyl CoA forms acetoacetyl CoA , which converts water to an unknown reagent and acetoacetate anion,  the acetoacetate anion reacts with unknown reagents to form ketone bodies acetone and 3-hydroxybutyrate.\">",
+  "isSolutionPublic": false
+}
