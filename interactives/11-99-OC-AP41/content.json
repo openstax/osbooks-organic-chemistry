@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The amino acid methionine is formed by a methylation reaction of homocysteine with <i>N</i>-methyltetrahydrofolate. The stereochemistry of the reaction has been probed by carrying out the transformation using a donor with a &#8220;chiral methyl group,&#8221; which contains protium (H), deuterium (D), and tritium (T) isotopes of hydrogen. Does the methylation reaction occur with inversion or retention of configuration?</p>\n<img class=\"scaled-down\" src=\"media/OChem_11_EC_047.jpg\" alt=\"The reaction of homocysteine in the presence of methionine synthase forms methionine, N-methyltetrahydrofolate, and Tetrahydrofolate.\">",
+  "isSolutionPublic": false
+}
