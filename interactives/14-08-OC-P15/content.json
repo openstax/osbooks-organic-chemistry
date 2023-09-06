@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following compounds would you expect to show ultraviolet absorptions in the 200 to 400 nm range?</p>\n<p><b>(a)</b>&#8201;<img src=\"media/OChem_14_08_002a.jpg\" alt=\"In a cyclohexane ring, C 1 is double bonded to C 2. C 4 is double bonded to C 5.\">\n&#8195;<b>(b)</b>&#8201;<img src=\"media/OChem_14_08_002b.jpg\" alt=\"In a cyclohexane ring, C 1 is double bonded to C 2. C 3 is double bonded to C 4.\">\n&#8195;<b>(c)</b>&#8201;<img src=\"media/OChem_14_08_002c.jpg\" alt=\"Two carbons double-bonded to each other. At C 1 there is a cyano group.\">\n&#8195;<b>(d)</b><img src=\"media/OChem_14_08_002d.jpg\" alt=\"The structure of Aspirin has a benzene ring. C 1 is bonded to a carboxylic acid group. C 2 is bonded to acetoxyl group.\">\n&#8195;<b>(e)</b>&#8201;<img src=\"media/OChem_14_08_002e.jpg\" alt=\"A cyclohexadiene ring with double bonded oxygen at C 3 is fused to a cyclohexane ring. Both rings share a methyl group.\">\n<br><b>(f)</b><img src=\"media/OChem_14_08_002f.jpg\" alt=\"Indole has a benzene ring fused to a 5-membered ring made of  four carbons, in which C 2 is double bonded to C 3, and an N-H group at position 1.\"></p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>All except <b>(a)</b> have UV absorptions.</p>"
+}
