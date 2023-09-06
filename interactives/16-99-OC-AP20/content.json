@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The compound MON-0585 is a nontoxic, biodegradable larvicide that is highly selective against mosquito larvae. Synthesize MON-0585 using either benzene or phenol as a source of the aromatic rings.</p>\n<img class=\"scaled-down\" src=\"media/OChem_16_EC_042.jpg\" alt=\"MON-0585 has a central carbon bonded to a benzene ring, two methyl groups, and a phenol group, in which the two carbons next to the O H are each bonded to a tertiaru butyl group.\">",
+  "isSolutionPublic": false
+}
