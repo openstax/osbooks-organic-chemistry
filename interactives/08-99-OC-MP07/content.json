@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the reactions below would result in a product mixture that would rotate plane-polarized light?</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_08_EC_023a.jpg\" alt=\"Cyclohexane ring with double bonded methylene at C1 and dash bonded methyl at C4 reacting with hydrogen, palladium on carbon to form unknown product(s), depicted by question mark.\">\n<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_08_EC_023b.jpg\" alt=\"A reaction shows an oxirane with dash bonded methyl at C2 and wedge bonded methyl group at C3 reacting with hydronium to form unknown product(s), depicted by a question mark.\">\n<br><b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_08_EC_023c.jpg\" alt=\"A reaction shows 1-pentene with wedge-bonded methyl at C3 reactingwith ozone in first step and zinc, hydronium ion in the second step to form unknown product(s), depicted by question mark.\"></p>",
+  "isSolutionPublic": false
+}
