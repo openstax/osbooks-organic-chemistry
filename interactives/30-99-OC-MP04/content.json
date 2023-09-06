@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Coronafacic acid, a bacterial toxin, was synthesized using a key step that involves three sequential pericyclic reactions. Identify them, and propose a mechanism for the overall transformation. How would you complete the synthesis?</p>\n<img class=\"scaled-down\" src=\"media/OChem_30_EC_006.jpg\" alt=\"The reactant reacts with heat in the presence of 185 degree Celsius to give an intermediate. This reacts with an unknown reagent represented as question mark to form coronafacic acid.\">",
+  "isSolutionPublic": false
+}
