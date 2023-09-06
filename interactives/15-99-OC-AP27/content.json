@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>N</i>-Phenylsydnone, so-named because it was first studied at the University of Sydney, Australia, behaves like a typical aromatic molecule. Explain, using the H&#252;ckel 4<i>n</i> + 2 rule.</p>\n<img class=\"scaled-down\" src=\"media/OChem_15_EC_019.jpg\" alt=\"Two interconvertible structures of N-phenylsydnone. In both structures, the nitrogen atom bonded to the benzene ring has a positive charge.\">",
+  "isSolutionPublic": false
+}
