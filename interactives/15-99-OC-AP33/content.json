@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The proton NMR spectrum of a compound with formula C<sub>6</sub>H<sub>5</sub>NCl<sub>2</sub> is shown. The normal carbon-13 and DEPT experimental results are tabulated. The infrared spectrum shows peaks at 3432 and 3313 cm<sup>&#8211;1</sup> and a series of medium-sized peaks between 1618 and 1466 cm<sup>&#8211;1</sup>. Draw the structure of this compound.</p>\n<table class=\"unnumbered\">\n<thead>\n<tr>\n<th style=\"text-align:left;\"><b>Normal Carbon</b></th>\n<th style=\"text-align:left;\"><b>DEPT-135</b></th>\n<th style=\"text-align:left;\"><b>DEPT-90</b></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left;\">118.0 ppm</td>\n<td style=\"text-align:left;\">Positive</td>\n<td style=\"text-align:left;\">Positive</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">119.5</td>\n<td style=\"text-align:left;\">No peak</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">128.0</td>\n<td style=\"text-align:left;\">Positive</td>\n<td style=\"text-align:left;\">Positive</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">140.0</td>\n<td style=\"text-align:left;\">No peak</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n</tbody>\n</table>\n<img src=\"media/OChem_15_EC_025.jpg\" alt=\"The 1 H N M R spectrum of C 6 H 5 N C l 2 shows peaks in parts per million at 4.4 (broad), 6.6 (triplet), and 7.3 (doublet).\">",
+  "isSolutionPublic": false
+}
