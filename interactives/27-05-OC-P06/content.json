@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The conversion of mevalonate 5-phosphate to isopentenyl diphosphate occurs with the following result. Which hydrogen, pro-<i>R</i> or pro-<i>S</i>, ends up cis to the methyl group, and which ends up trans?</p>\n<img class=\"scaled-down\" src=\"media/OChem_27_05_009.jpg\" alt=\"Mevalonate-5-diphosphate represented in wedge-dash form undergoes dehydration to form isopentenyl diphosphate.\">",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>The pro-<i>S</i> hydrogen is cis to the &#8722;CH<sub>3</sub> group; the pro-<i>R</i> hydrogen is trans.</p>"
+}
