@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following molecular model of a dimethyl-substituted biphenyl represents the lowest-energy conformation of the molecule. Why are the two benzene rings tilted at a 63&#176; angle to each other rather than being in the same plane so that their <i>p</i> orbitals overlap? Why doesn&#8217;t complete rotation around the single bond joining the two rings occur?</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_16_EC_018.jpg\" alt=\"The ball-and-stick model has two benzene rings bonded to each other. Each benzene ring also has an ortho methyl group.\">",
+  "isSolutionPublic": false
+}
