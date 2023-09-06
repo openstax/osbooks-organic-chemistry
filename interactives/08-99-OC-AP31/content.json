@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Compound <b>A</b>, C<sub>11</sub>H<sub>16</sub>O, was found to be an optically active alcohol. Despite its apparent unsaturation, no hydrogen was absorbed on catalytic reduction over a palladium catalyst. On treatment of <b>A</b> with dilute sulfuric acid, dehydration occurred and an optically inactive alkene <b>B</b>, C<sub>11</sub>H<sub>14</sub>, was the major product. Alkene <b>B</b>, on ozonolysis, gave two products. One product was identified as propanal, CH<sub>3</sub>CH<sub>2</sub>CHO. Compound <b>C</b>, the other product, was shown to be a ketone, C<sub>8</sub>H<sub>8</sub>O. How many degrees of unsaturation does <b>A</b> have? Write the reactions, and identify <b>A</b>, <b>B</b>, and <b>C</b>.</p>",
+  "isSolutionPublic": false
+}
