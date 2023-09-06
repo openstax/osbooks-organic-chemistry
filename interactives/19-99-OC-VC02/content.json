@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following molecular model represents a tetrahedral intermediate resulting from addition of a nucleophile to an aldehyde or ketone. Identify the reactants, and write the structure of the final product when the nucleophilic addition reaction is complete.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_19_EC_018.jpg\" alt=\"The ball-and-stick model shows a cyclopentane ring with nitrogen atom attached to three-carbon chain with hydroxyl and methyl group on the first carbon, and methyl group on the second carbon.\">",
+  "isSolutionPublic": false
+}
