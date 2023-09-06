@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The hydrolysis of a biological thioester to the corresponding carboxylate is often more complex than the overall result might suggest. The conversion of succinyl CoA to succinate in the citric acid cycle, for instance, occurs by initial formation of an acyl phosphate, followed by reaction with guanosine diphosphate (GDP, a relative of adenosine diphosphate [ADP]) to give succinate and guanosine triphosphate (GTP, a relative of ATP). Suggest mechanisms for both steps.</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_034.jpg\" alt=\"Conversion of succinyl coenzyme A to succinate and G T P. The process involves use of hydrogen phosphate to make an acyl phosphate, followed by reaction with guanosine diphosphate.\">",
+  "isSolutionPublic": false
+}
