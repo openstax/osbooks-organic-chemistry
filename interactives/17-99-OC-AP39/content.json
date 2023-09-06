@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Compound <b>A</b>, C<sub>8</sub>H<sub>10</sub>O, has the IR and <sup>1</sup>H NMR spectra shown. Propose a structure consistent with the observed spectra, and label each peak in the NMR spectrum. Note that the absorption at 5.5 <i>&#948;</i> disappears when D<sub>2</sub>O is added.</p>\n<img src=\"media/OChem_17_EC_056.jpg\" alt=\"An I R spectrum with broad peak around 3400, peaks just below 3000, and peaks at 1500 and 1600 wavenumbers.\">\n<img src=\"media/OChem_17_EC_057.jpg\" alt=\"H N M R spectrum with shifts at 1.16 triplet), 2.55 (quartet), 5.50 (singlet), 6.74 (doublet), and 7.03 (doublet). Relative areas are 3, 2, 1, 2, and 2 respectively.\">",
+  "isSolutionPublic": false
+}
