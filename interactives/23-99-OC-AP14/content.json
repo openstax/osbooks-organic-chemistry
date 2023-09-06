@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>In contrast to the rapid reaction shown in Problem 23-60, ethyl acetoacetate requires a temperature over 150 &#176;C to undergo the same kind of cleavage reaction. How can you explain the difference in reactivity?</p>\n<img class=\"scaled-down\" src=\"media/OChem_23_EC_039.jpg\" alt=\"The reaction of ethyl acetoacetate with sodium ethoxide and ethanol at one hundred fifty degrees Celsius, resulted in the production of two molecules of ethyl acetate.\">",
+  "isSolutionPublic": false
+}
