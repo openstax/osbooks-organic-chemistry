@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The polymeric resin used for Merrifield solid-phase peptide synthesis (Section 26.8) is prepared by treating polystyrene with <i>N</i>-(hydroxymethyl)phthalimide and trifluoromethanesulfonic acid, followed by reaction with hydrazine. Propose a mechanism for both steps.</p>\n<img class=\"scaled-down\" src=\"media/OChem_31_EC_005.jpg\" alt=\"Polystyrene reacts with N-(hydroxymethyl)phthalimide and trifluoromethanesulfonic acid to form an intermediate that further reacts with hydrazine to form resin. The product's structure is inside parentheses with n as the subscript.\">",
+  "isSolutionPublic": false
+}
