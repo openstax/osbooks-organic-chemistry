@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Long-range coupling between protons more than two carbon atoms apart is sometimes observed when <i>&#960;</i> bonds intervene. An example is found in 1-methoxy-1-buten-3-yne. Not only does the acetylenic proton, H<i><sub>a</sub></i>, couple with the vinylic proton H<i><sub>b</sub></i>, it also couples with the vinylic proton H<i><sub>c</sub></i>, four carbon atoms away. The data are:</p>\n<img class=\"scaled-down\" src=\"media/OChem_13_EC_019.jpg\" alt=\"1-Methoxy-1-buten-3-yne structure with hydrogen shifts of 3.08 (alkyne). 4.52 (on C 2), and 6.35 (on C 1). J values are also mentioned.\">\n<p>Construct tree diagrams that account for the observed splitting patterns of H<i><sub>a</sub></i>, H<i><sub>b</sub></i>, and H<i><sub>c</sub></i>.</p>\n",
+  "isSolutionPublic": false
+}
