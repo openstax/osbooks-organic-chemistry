@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following compound is the product initially formed in a Claisen rearrangement, which we&#8217;ll see in Section 18.4. This product is not isolated, but tautomerizes to its enol form. Give the structure of the enol and provide an explanation as to why the enol tautomer is favored.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_15_EC_028.jpg\" alt=\"A reversible reaction shows cyclohexadiene with a carbonyl group at C1 and a 3-carbon chain with terminal double bond at C 2 forming unknown product(s), represented by a question mark.\">",
+  "isSolutionPublic": false
+}
