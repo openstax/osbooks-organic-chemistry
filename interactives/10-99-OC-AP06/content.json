@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>A chemist requires a large amount of 1-bromo-2-pentene as starting material for a synthesis and decides to carry out an NBS allylic bromination reaction. What is wrong with the following synthesis plan? What side products would form in addition to the desired product?</p>\n<img class=\"scaled-down\" src=\"media/OChem_10_EC_021.jpg\" alt=\"Pent-2-ene reacts with N-bromosuccinimide, light, and carbon tetrachloride to form 1-bromopent-2-ene.\">",
+  "isSolutionPublic": false
+}
