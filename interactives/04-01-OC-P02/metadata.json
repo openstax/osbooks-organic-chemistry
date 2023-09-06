@@ -1,0 +1,24 @@
+{
+  "errata_id": "fbb695a71f0cc2311d570ea3bdf9c1fbcb1749147a74211b8d9f1464695b4e70",
+  "attachments": [
+    "media/OChem_04_EC_201c.jpg",
+    "media/OChem_04_EC_201d.jpg",
+    "media/OChem_04_EC_201a.jpg",
+    "media/OChem_04_EC_201b.jpg"
+  ],
+  "tags": [
+    "type:practice",
+    "book:stax-orgchem",
+    "context-cnxmod:ed58bc92-5413-4bc4-bd30-d1a7865026cb",
+    "book-slug:organic-chemistry",
+    "module-slug:organic-chemistry:4-1-naming-cycloalkanes"
+  ],
+  "books": [
+    {
+      "name": "stax-orgchem"
+    }
+  ],
+  "context": [
+    "m00040"
+  ]
+}
