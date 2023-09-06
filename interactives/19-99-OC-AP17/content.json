@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Compound <b>A</b>, C<sub>8</sub>H<sub>10</sub>O<sub>2</sub>, has an intense IR absorption at 1750 cm<sup>&#8211;1</sup> and gives the <sup>13</sup>C NMR spectrum shown. Propose a structure for <b>A</b>.</p>\n<img src=\"media/OChem_19_EC_052.jpg\" alt=\"The C-13 spectrum shows peaks at shifts of 0 (T M S), 38, 42, and 219, measured in parts per million.\">",
+  "isSolutionPublic": false
+}
