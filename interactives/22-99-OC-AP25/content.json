@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Attempted Grignard reaction of cyclohexanone with <i>tert</i>-butylmagnesium bromide yields only about 1% of the expected addition product along with 99% unreacted cyclohexanone. If D<sub>3</sub>O<sup>+</sup> is added to the reaction mixture after a suitable period, however, the &#8220;unreacted&#8221; cyclohexanone is found to have one deuterium atom incorporated into it. Explain.</p>\n<img class=\"scaled-down\" src=\"media/OChem_22_EC_045.jpg\" alt=\"Cyclohexanone is treated first with tert-butylmagnesium bromide and then with deuterium plus to form one percent of the expected addition product and 99 percent of alpha-deuterocyclohexanone.\">",
+  "isSolutionPublic": false
+}
