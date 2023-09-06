@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following bases could be used to deprotonate 1-butyne?</p>\n<p><b>(a)</b><img src=\"media/OChem_09_EC_043a.jpg\" alt=\"The structure of potassium hydroxide.\">\n&#8195;<b>(b)</b><img src=\"media/OChem_09_EC_043b.jpg\" alt=\"The structure of the sodium salt of the methylene anion connected to a sulfonyl group that is further connected to a methyl group.\">\n&#8195;<b>(c)</b><img src=\"media/OChem_09_EC_043c.jpg\" alt=\"The structure of butyllithium.\">\n&#8195;<b>(d)</b><img src=\"media/OChem_09_EC_043d.jpg\" alt=\"The structure of the sodium salt of the methylene anion  of acetone.\"></p>",
+  "isSolutionPublic": false
+}
