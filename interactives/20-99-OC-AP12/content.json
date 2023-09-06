@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Some p<i>K</i><sub>a</sub> data for simple dibasic acids is shown. How can you account for the fact that the difference between the first and second ionization constants decreases with increasing distance between the carboxyl groups?</p>\n<table class=\"unnumbered\">\n<tbody><tr>\n<th><b>Name</b></th>\n<th><b>Structure</b></th>\n<th><b>p<i>K</i><sub>1</sub></b></th>\n<th><b>p<i>K</i><sub>2</sub></b></th>\n</tr>\n<tr>\n<td>Oxalic</td>\n<td>HO<sub>2</sub>CCO<sub>2</sub>H</td>\n<td>1.2</td>\n<td>4.2</td>\n</tr>\n<tr>\n<td>Succinic</td>\n<td>HO<sub>2</sub>CCH<sub>2</sub>CH<sub>2</sub>CO<sub>2</sub>H</td>\n<td>4.2</td>\n<td>5.6</td>\n</tr>\n<tr>\n<td>Adipic</td>\n<td>HO<sub>2</sub>C(CH<sub>2</sub>)<sub>4</sub>CO<sub>2</sub>H</td>\n<td>4.4</td>\n<td>5.4</td>\n</tr>\n</tbody></table>",
+  "isSolutionPublic": false
+}
