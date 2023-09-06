@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Gentiobiose, a rare disaccharide found in saffron and gentian, is a reducing sugar and forms only <small style=\"font-variant: small-caps\">D</small>-glucose on hydrolysis with aqueous acid. Reaction of gentiobiose with iodomethane and Ag<sub>2</sub>O yields an octamethyl derivative, which can be hydrolyzed with aqueous acid to give 1 equivalent of 2,3,4,6-tetra-<i>O</i>-methyl-<small style=\"font-variant: small-caps\">D</small>-glucopyranose and 1 equivalent of 2,3,4-tri-<i>O</i>-methyl-<small style=\"font-variant: small-caps\">D</small>-glucopyranose. If gentiobiose contains a <i>&#946;</i>-glycoside link, what is its structure?</p>",
+  "isSolutionPublic": false
+}
