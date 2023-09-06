@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>For a given <i>α</i> hydrogen atom to be acidic, the C–H bond must be parallel to the <i>p</i> orbitals of the C<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>=</mtext>\n</mrow><annotation encoding=\"LaTeX\">\\text{=}</annotation></semantics></math>O double bond (that is, perpendicular to the plane of the adjacent carbonyl group). Identify the most acidic hydrogen atom in the conformation shown for the following structure. Is it axial or equatorial?</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_22_EC_013.jpg\" alt=\"A ball-stick model of a compound comprising a chair conformation of cyclohexanone with two methyl groups alpha on C 2. Black, gray, and red spheres represent carbon, hydrogen, and oxygen, respectively.\"/>",
+  "isSolutionPublic": false
+}
