@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The step-growth polymer nylon 6 is prepared from caprolactam. The reaction involves initial reaction of caprolactam with water to give an intermediate open-chain amino acid, followed by heating to form the polymer. Propose mechanisms for both steps, and show the structure of nylon 6.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_21_EC_042.jpg\" alt=\"The structure of caprolactam comprises of a seven-membered ring containing a carbonyl group attached to an N H group.\">",
+  "isSolutionPublic": false
+}
