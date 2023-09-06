@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following pairs of structures represent resonance forms?</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_012a.jpg\" alt=\"The first structure has a benzene ring fused to cyclobutene. The second structure has a cyclohexadiene ring, in which C5 and C6 are each double bonded to a methylene group.\">\n&#8195;<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_012b.jpg\" alt=\"Two structures are shown. The first structure has a cyclohexene ring with an oxygen anion at C1. The second structure has a cyclohexanone ring with a negative charge at C2.\">\n&#8195;<b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_012c.jpg\" alt=\"The first structure has a benzene ring bonded to an oxygen anion. The second structure has a cyclohexadiene ring with double bonded oxygen at C1 and negative charge at C2.\">\n<br><b>(d)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_012d.jpg\" alt=\"The first structure has a benzene ring bonded to an oxygen anion. The second structure has a cyclohexadiene ring with double bonded oxygen at C1 and negative charge at C4.\"></p>",
+  "isSolutionPublic": false
+}
