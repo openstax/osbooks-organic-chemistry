@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Succinic anhydride yields the cyclic imide succinimide when heated with ammonium chloride at 200 &#176;C. Propose a mechanism for this reaction. Why do you suppose such a high reaction temperature is required?</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_033.jpg\" alt=\"The reaction shows the conversion of dihydrofuran-2, 5-dione to an amide by heating at two-hundred degrees Celcius in the presence of ammonium chloride.\">",
+  "isSolutionPublic": false
+}
