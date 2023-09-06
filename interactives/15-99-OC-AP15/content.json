@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Cycloheptatrienone is stable, but cyclopentadienone is so reactive that it can&#8217;t be isolated. Explain, taking the polarity of the carbonyl group into account.</p>\n<img class=\"scaled-down\" src=\"media/OChem_15_EC_012.jpg\" alt=\"Cycloheptatrienone has a 7-carbon ring with three alternate double bonds. C 1 is carbonyl group. Cyclopentadienone has a 5-carbon ring with two alternate double bonds. C 1 is carbonyl group.\">",
+  "isSolutionPublic": false
+}
