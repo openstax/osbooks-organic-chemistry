@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Identify the reagents <b>a</b>&#8211;<b>e</b> in the following scheme:</p>\n<img class=\"scaled-down\" src=\"media/OChem_18_EC_048.jpg\" alt=\"Cyclohexanone is transformed into 1-methylcyclohexanol by reagent a; b and c convert 1-methylcyclohexanol to 1-methylcyclohexene and 1-methyl-1-methoxycyclohexane respectively. D converts 1-methylcyclohexene into 1,2-epoxy-1-methylcyclohexane, which is converted by e into (1S,2S)-1-methylcyclohexan-1,2-diol. \">",
+  "isSolutionPublic": false
+}
