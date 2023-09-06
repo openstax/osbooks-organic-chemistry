@@ -1,0 +1,237 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 3,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>CH<sub>3</sub>CH<sub>2</sub>OH and CH<sub>3</sub>OCH<sub>3</sub></p>",
+        "subContentId": "38b52f7f-74b7-4744-8fe2-743fcc6b3c0e",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<p>CH<sub>3</sub>CH<sub>2</sub>OH has an &#8202;&#8722;OH absorption.</p>"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "12-07-OC-P08-1",
+        "extraTitle": "12-07-OC-P08-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>Cyclohexane and 1-hexene</p>",
+        "subContentId": "407602c7-b227-4f4c-a581-37a1113f42fe",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<p>1-Hexene has a double-bond absorption.</p>"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "12-07-OC-P08-2",
+        "extraTitle": "12-07-OC-P08-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>H and HOCH<sub>2</sub>CH<sub>2</sub>CHO</p>",
+        "subContentId": "c595c80e-1099-46be-a43c-f30fb5a7f270",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<p>CH<sub>3</sub>CH<sub>2</sub>CO<sub>2</sub>H has a very broad &#8202;&#8722;OH absorption.</p>"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "12-07-OC-P08-3",
+        "extraTitle": "12-07-OC-P08-3"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>How might you use IR spectroscopy to distinguish between the following pairs of isomers?</p>"
+}
