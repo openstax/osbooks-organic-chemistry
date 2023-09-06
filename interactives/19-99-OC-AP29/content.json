@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The <sup>1</sup>H NMR spectrum shown is that of a compound isomeric with the one in Problem 19-80. This isomer has an IR absorption at 1730 cm<sup>&#8211;1</sup>. Propose a structure. [<i>Note:</i> Aldehyde protons (CHO) often show low coupling constants to adjacent hydrogens, so the splitting of aldehyde signals is not always apparent.]</p>\n<img src=\"media/OChem_19_EC_061.jpg\" alt=\"Proton spectrum shows shifts of 0 (T M S), 2.75 (triplet), 2.95 (triplet), 7.23 and 7.31 (multiplet), and 9.82 (singlet). Relative areas are 2.00, 2.00, 3.00, 2.00, and 1.00 respectively.\">",
+  "isSolutionPublic": false
+}
