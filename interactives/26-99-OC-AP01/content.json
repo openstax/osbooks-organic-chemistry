@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Except for cysteine, only <i>S</i> amino acids occur in proteins. Several <i>R</i> amino acids are also found in nature, however. (<i>R</i>)-Serine is found in earthworms, and (<i>R</i>)-alanine is found in insect larvae. Draw Fischer projections of (<i>R</i>)-serine and (<i>R</i>)-alanine. Are these <small style=\"font-variant: small-caps\">D</small> or <small style=\"font-variant: small-caps\">L</small> amino acids?</p>",
+  "isSolutionPublic": false
+}
