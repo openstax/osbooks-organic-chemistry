@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>In light of your answer to Problem 19-45, propose a mechanism for the formation of 3,5-dimethylisoxazole from hydroxylamine and 2,4-pentanedione.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_19_EC_037.jpg\" alt=\"The structure of 3,5-dimethylisoxazole shows a cyclopentadiene ring with adjacent oxygen and nitrogen atoms. A methyl group is attached to the carbons adjacent to oxygen and nitrogen.\">",
+  "isSolutionPublic": false
+}
