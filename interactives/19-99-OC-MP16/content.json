@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The Meerwein&#8211;Ponndorf&#8211;Verley reaction involves reduction of a ketone by treatment with an excess of aluminum triisopropoxide, [(CH<sub>3</sub>)<sub>2</sub>CHO]<sub>3</sub>Al. The mechanism of the process is closely related to the Cannizzaro reaction in that a hydride ion acts as a leaving group. Propose a mechanism.</p>\n<img class=\"scaled-down\" src=\"media/OChem_19_EC_035.jpg\" alt=\"The reaction shows cyclohexanone with aluminum triisopropoxide, then hydronium ion to yield two products: cyclohexanol and acetone (three-carbon).\">",
+  "isSolutionPublic": false
+}
