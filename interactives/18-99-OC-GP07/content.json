@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The <i>Zeisel method</i> is an old analytical procedure for determining the number of methoxyl groups in a compound. A weighed amount of the compound is heated with concentrated HI, ether cleavage occurs, and the iodomethane product is distilled off and passed into an alcohol solution of AgNO<sub>3</sub>, where it reacts to form a precipitate of silver iodide. The AgI is then collected and weighed, and the percentage of methoxyl groups in the sample is thereby determined. For example, 1.06 g of vanillin, the material responsible for the characteristic odor of vanilla, yields 1.60 g of AgI. If vanillin has a molecular weight of 152, how many methoxyl groups does it contain?</p>",
+  "isSolutionPublic": false
+}
