@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following pairs represent resonance structures?</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_021a.jpg\" alt=\"Lewis structures of acetonitrile oxide: (1) C and N triple bonded, with a positive charge on N, and (2) C and N double bonded, with a positive charge on C.\">\n<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_021b.jpg\" alt=\"Two Lewis structures: First shows a carbonyl group bonded to a methyl group and oxygen anion. Second shows a carbonyl group bonded to a hydroxyl group and a methylene anion.\">\n<br><b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_021c.jpg\" alt=\"Two Lewis structures of protonated benzamide; one is protonated at the N, the other at the O.\">\n<b>(d)</b><img class=\"scaled-down-30\" src=\"media/OChem_02_EC_021d.jpg\" alt=\"First structure: Nitrogen cation bonded to two oxygen anions and double bonded to methylene. Second structure: Nitrogen cation is double bonded to oxygen, single bonded to methylene and oxygen anion.\"></p>",
+  "isSolutionPublic": false
+}
