@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>In step 2 of the citric acid cycle (Figure 29.14), <i>cis</i>-aconitate reacts with water to give (2<i>R</i>,3<i>S</i>)-isocitrate. Does &#8202;&#8211;OH add from the Re face of the double bond or from the Si face? What about &#8202;&#8211;H? Does the addition of water occur with syn or anti geometry?</p>\n<img src=\"media/OChem_29_EC_016.jpg\" alt=\"Cis-aconitate having a three-carbon chain and a double bond reacts with water to form (2 R,3 S)-Isocitrate. The double bond is replaced by single bond in the product.\">",
+  "isSolutionPublic": false
+}
