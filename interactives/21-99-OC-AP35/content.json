@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Propose a structure for the compound with the formula C<sub>19</sub>H<sub>9</sub>NO<sub>2</sub> and the following IR and NMR spectra</p>\n<img src=\"media/OChem_21_EC_061.jpg\" alt=\"The I R spectrum of a compound of molecular formula C 9 H 9 N O 2 shows peaks ranging from 400 to 3000 wavenumbers, signals at 2700 to 2900 and a sharp signal at 2250 wavenumebrs are notable. A strong peak at 1724 wavenumbers is highlighted.\">\n<img src=\"media/OChem_21_EC_062.jpg\" alt=\"The proton N M R spectrum of a compound of molecular formula C 9 H 9 N O 2 shows signals at 1.5 (triplet of integral 3), 4.5 (quartet of integral 2), 7.8 (doublet of integral 2), and 8.2 (doublet of integral 2) p p m.\">\n<img src=\"media/OChem_21_EC_063.jpg\" alt=\"The 13 carbon N M R spectrum of a compound of molecular formula C 9 H 9 N O 2 shows signals at 0, 16, 62, and 163 p p m along with a set of three signals between 115 and 120  p p m and another set of three signals between120 and 130 p p m.\">",
+  "isSolutionPublic": false
+}
