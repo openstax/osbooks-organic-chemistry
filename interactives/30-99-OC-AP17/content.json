@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Bicyclohexadiene, also known as <i>Dewar benzene,</i> is extremely stable despite the fact that its rearrangement to benzene is energetically favored. Explain why the rearrangement is so slow.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_30_EC_021.jpg\" alt=\"Dewar benzene (double bonds at C 2 and C 5, with C 1 bonded to C 4 to produce two fused cyclobutene rings) reacts slowly in heat to form benzene.\">",
+  "isSolutionPublic": false
+}
