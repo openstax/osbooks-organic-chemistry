@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Assign <i>R</i> or <i>S</i> configuration to the following molecule, write the product you would expect from S<sub>N</sub>2 reaction with NaCN, and assign <i>R</i> or <i>S</i> configuration to the product (green = Cl):</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_11_EC_009.jpg\" alt=\"A ball-and-stick model of an alkyl chloride having a double bond. The gray, black, and green spheres represent hydrogen, carbon, and chlorine, respectively.\">",
+  "isSolutionPublic": false
+}
