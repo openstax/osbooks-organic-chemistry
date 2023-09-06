@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Ketones undergo a reduction when treated with sodium borohydride, NaBH<sub>4</sub>. What is the structure of the compound produced by reaction of 2-butanone with NaBH<sub>4</sub> if it has an IR absorption at 3400 cm<sup>&#8211;1</sup> and M<sup>+</sup> = 74 in the mass spectrum?</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_12_EC_013.jpg\" alt=\"2-butanone reacts first with sodium borohydride and then with hydronium ion to form an unknown product represented by a question mark.\">",
+  "isSolutionPublic": false
+}
