@@ -1,0 +1,269 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 5,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down\" src=\"media/OChem_10_EC_019a.jpg\" alt=\"A seven-carbon alkyl chain with a CH3 group on C2 and C6 positions and a Br group on C4 and C5 positions.\">",
+        "subContentId": "0aaeee1d-4123-493c-9891-30ac83304acc"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "10-99-OC-AP01-1",
+        "extraTitle": "10-99-OC-AP01-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down\" src=\"media/OChem_10_EC_019b.jpg\" alt=\"A six-carbon alkene chain with alkene group on C2 and iodine group on C5.\">",
+        "subContentId": "a46aaeee-e261-484b-9e2b-5a0c2648de9e"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "10-99-OC-AP01-2",
+        "extraTitle": "10-99-OC-AP01-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down\" src=\"media/OChem_10_EC_019c.jpg\" alt=\"A six-carbon alkyl chain with Br and CH3 on the C2 position, Cl on the C4 position, and CH3 on the C5 position.\">",
+        "subContentId": "784d8e73-7e2c-44fe-bc01-a4a0d68b4129"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "10-99-OC-AP01-3",
+        "extraTitle": "10-99-OC-AP01-3"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down\" src=\"media/OChem_10_EC_019d.jpg\" alt=\"A six-carbon alkyl chain with a C H 2 Br group on C3 position.\">",
+        "subContentId": "f2076e61-c73e-454f-9bcd-824dc5b5641d"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "10-99-OC-AP01-4",
+        "extraTitle": "10-99-OC-AP01-4"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<img class=\"scaled-down\" src=\"media/OChem_10_EC_019e.jpg\" alt=\"A six-carbon chain with Br on C1, a triple bond C2, and a Cl group on C6.\">",
+        "subContentId": "5dae90ea-be3d-45af-9c11-65b935d02def"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "10-99-OC-AP01-5",
+        "extraTitle": "10-99-OC-AP01-5"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>Name the following alkyl halides:</p>"
+}
