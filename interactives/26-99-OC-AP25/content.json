@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Evidence for restricted rotation around amide <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">O</mi>\n  </mrow>\n  <mtext>═</mtext>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">C</mi>\n  </mrow>\n  <mtext>–</mtext>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">N</mi>\n  </mrow>\n</mrow><annotation encoding=\"LaTeX\">{\\rm O}\\text{═}{\\rm C}\\text{–}{\\rm N}</annotation></semantics></math> bonds comes from NMR studies. At room temperature, the <sup>1</sup>H NMR spectrum of <i>N</i>,<i>N</i>-dimethylformamide shows three peaks: 2.9 <i>δ</i> (singlet, 3 H), 3.0 <i>δ</i> (singlet, 3 H), and 8.0 <i>δ</i> (singlet, 1 H). As the temperature is raised, however, the two singlets at 2.9 <i>δ</i> and 3.0 <i>δ</i> slowly merge. At 180 °C, the <sup>1</sup>H NMR spectrum shows only two peaks: 2.95 <i>δ</i> (singlet, 6 H) and 8.0 <i>δ</i> (singlet, 1 H). Explain this temperature-dependent behavior.</p>\n<img class=\"scaled-down\" src=\"media/OChem_26_EC_020.jpg\" alt=\"The structure of N,N-dimethylformamide, an aldehyde group linked to a nitrogen atom to two methyl groups.\"/>",
+  "isSolutionPublic": false
+}
