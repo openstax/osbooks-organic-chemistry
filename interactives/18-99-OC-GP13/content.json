@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>We saw in <b>Section 17.4</b> that ketones react with NaBH<sub>4</sub> to yield alcohols. We&#8217;ll also see in <b>Section 22.3</b> that ketones react with Br<sub>2</sub> to yield <i>&#945;</i>-bromo ketones. Perhaps surprisingly, treatment with NaBH<sub>4</sub> of the <i>&#945;</i>-bromo ketone from acetophenone yields an epoxide rather than a bromo alcohol. Show the structure of the epoxide, and explain its formation.</p>\n<img class=\"scaled-down\" src=\"media/OChem_18_EC_051.jpg\" alt=\"Acetophenone reacts with bromine to yield alpha-bromo acetophenone; subsequent treatment with sodium borohydride results in an epoxide with unknown structure.\">",
+  "isSolutionPublic": false
+}
