@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Epoxy adhesives are prepared in two steps. S<sub>N</sub>2 reaction of the disodium salt of bisphenol A with epichlorohydrin forms a &#8220;prepolymer,&#8221; which is then &#8220;cured&#8221; by treatment with a triamine such as H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NHCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>.</p>\n<img src=\"media/OChem_21_EC_065.jpg\" alt=\"The reaction of Bisphenol A with epichlorohydrin to form a polymer termed as \">\n<p>Draw structures to show how addition of the triamine results in a strengthening of the polymer.</p>\n",
+  "isSolutionPublic": false
+}
