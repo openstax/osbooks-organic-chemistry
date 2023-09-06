@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>When the compound having a cyclobutene fused to a five-membered ring is heated, (1<i>Z</i>,3<i>Z</i>)-1,3-cycloheptadiene is formed. When the related compound having a cyclobutene fused to an eight-membered ring is heated, however, (1<i>E</i>,3<i>Z</i>)-1,3-cyclodecadiene is formed. Explain these results, and suggest a reason why opening of the eight-membered ring occurs at a lower temperature.</p>\n<img class=\"scaled-down\" src=\"media/OChem_30_EC_027.jpg\" alt=\"Cyclobutene linked to cyclopentane reacts at 270 degree Celsius to form 1,3-cycloheptadiene. Cyclooctane fused to cyclobutene reacts at 190 degree Celsius to form cyclodecadiene.\">",
+  "isSolutionPublic": false
+}
