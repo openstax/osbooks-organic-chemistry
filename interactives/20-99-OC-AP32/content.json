@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The p<i>K</i><sub>a</sub>&#8217;s of five <i>p</i>-substituted benzoic acids (<span class=\"magenta-text\">Y</span>C<sub>6</sub>H<sub>4</sub>CO<sub>2</sub>H) are listed below. Rank the corresponding substituted benzenes (<span class=\"magenta-text\">Y</span>C<sub>6</sub>H<sub>5</sub>) in order of their increasing reactivity toward electrophilic aromatic substitution. If benzoic acid has p<i>K</i><sub>a</sub> = 4.19, which of the substituents are activators and which are deactivators?</p>\n<table summary=\"\" class=\"unnumbered\">\n<tbody>\n<tr>\n<th><b>Substituent Y</b></th>\n<th><img src=\"media/OChem_20_EC_033.jpg\" alt=\"The structure of benzoic acid with a substituent Y placed para to the carboxylic acid group attached to the benzene ring. To the left, p k a term is mentioned.\"></th>\n</tr>\n<tr>\n<td>&#8211;Si(CH<sub>3</sub>)<sub>3</sub></td>\n<td>4.27</td>\n</tr>\n<tr>\n<td>&#8211;CH&#9552;CHC&#8801;N</td>\n<td>4.03</td>\n</tr>\n<tr>\n<td>&#8211;HgCH<sub>3</sub></td>\n<td>4.10</td>\n</tr>\n<tr>\n<td>&#8211;OSO<sub>2</sub>CH<sub>3</sub></td>\n<td>3.84</td>\n</tr>\n<tr>\n<td>&#8211;PCl<sub>2</sub></td>\n<td>3.59</td>\n</tr>\n</tbody>\n</table>",
+  "isSolutionPublic": false
+}
