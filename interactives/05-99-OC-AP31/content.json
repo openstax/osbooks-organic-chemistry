@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>One of the steps in fatty-acid biosynthesis is the dehydration of (<i>R</i>)-3-hydroxybutyryl ACP to give <i>trans</i>-crotonyl ACP. Does the reaction remove the pro-<i>R</i> or the pro-<i>S</i> hydrogen from C2?</p>\n<img class=\"scaled-down\" src=\"media/OChem_05_EC_025.jpg\" alt=\"The dehydration of (R)-3-hydroxybutyryl A C P to form trans-crotonyl A C P.\">",
+  "isSolutionPublic": false
+}
