@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Another step in the pentose phosphate pathway for degrading sugars (see Problem 29-21) is the conversion of ribose 5-phosphate to glyceraldehyde 3-phosphate. What kind of organic process is occurring? Propose a mechanism for the conversion.</p>\n<img class=\"scaled-down\" src=\"media/OChem_29_EC_006.jpg\" alt=\"Ribose-5-phosphate reacts to form glyceraldehyde-3-phosphate and an aldehyde connected to a methylene linked to a phosphate group. Both structures are presented in Fischer projection.\">",
+  "isSolutionPublic": false
+}
