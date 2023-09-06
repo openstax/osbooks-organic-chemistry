@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The proton NMR spectrum for a compound with formula C<sub>10</sub>H<sub>12</sub>O<sub>2</sub> is shown. The infrared spectrum has a strong band at 1711 cm<sup>&#8211;1</sup>. The normal carbon-13 NMR spectral results are tabulated along with the DEPT-135 and DEPT-90 information. Draw the structure of this compound.</p>\n<table class=\"unnumbered\">\n<thead>\n<tr>\n<th><b>Normal Carbon</b></th>\n<th><b>DEPT-135</b></th>\n<th><b>DEPT-90</b></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align:left;\">&#8199;29 ppm</td>\n<td style=\"text-align:left;\">Positive</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">&#8199;50</td>\n<td style=\"text-align:left;\">Negative</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">&#8199;55</td>\n<td style=\"text-align:left;\">Positive</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">114</td>\n<td style=\"text-align:left;\">Positive</td>\n<td style=\"text-align:left;\">Positive</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">126</td>\n<td style=\"text-align:left;\">No peak</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">130</td>\n<td style=\"text-align:left;\">Positive</td>\n<td style=\"text-align:left;\">Positive</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">159</td>\n<td style=\"text-align:left;\">No peak</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n<tr>\n<td style=\"text-align:left;\">207</td>\n<td style=\"text-align:left;\">No peak</td>\n<td style=\"text-align:left;\">No peak</td>\n</tr>\n</tbody>\n</table>\n<img src=\"media/OChem_15_EC_024.jpg\" alt=\"The 1 H N M R spectrum of C 10 H 12 O 2 shows peaks in parts per million at 2.1 (singlet), 3.6 (singlet), 3.7 (singlet), 6.8 (doublet), and 7.1 (doublet).\">",
+  "isSolutionPublic": false
+}
