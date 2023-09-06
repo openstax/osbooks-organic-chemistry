@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The <sup>1</sup>H NMR spectrum shown is that of 3-methyl-3-buten-1-ol. Assign all the observed resonance peaks to specific protons, and account for the splitting patterns.</p>\n<img src=\"media/OChem_17_EC_039.jpg\" alt=\"H N M R spectrum with shifts at 1.76 (singlet), 2.13 (singlet), 2.30 (triplet), 3.72 (triplet), 4.79 (singlet), 4.85 (singlet). Relative areas are 3, 1, 2, 2, 1, 1, respectively.\">",
+  "isSolutionPublic": false
+}
