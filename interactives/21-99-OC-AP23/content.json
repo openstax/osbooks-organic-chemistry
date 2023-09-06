@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following reactivity order has been found for the basic hydrolysis of <i>p</i>-substituted methyl benzoates:</p>\n<p>Y=NO<sub>2</sub> &gt; Br &gt; H &gt; CH<sub>3</sub> &gt; OCH<sub>3</sub></p>\n<p>How can you explain this reactivity order? Where would you expect Y=C<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>≡</mtext>\n</mrow><annotation encoding=\"LaTeX\">\\text{≡}</annotation></semantics></math>N, Y=CHO, and Y=NH<sub>2</sub> to be in the reactivity list?</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_049.jpg\" alt=\"Reaction of a para-substituted methyl benzoate with aqueous base to give the corresponding carboxylate ion and methanol. The substitutent at the para position is represented by the letter Y.\"/>",
+  "isSolutionPublic": false
+}
