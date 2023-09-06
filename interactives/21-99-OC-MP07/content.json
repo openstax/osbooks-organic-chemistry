@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Fats are biosynthesized from glycerol 3-phosphate and fatty-acyl CoA&#8217;s by a reaction sequence that begins with the following step. Show the mechanism of the reaction.</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_031.jpg\" alt=\"The reaction between glycerol-3-phosphate and fatty-acyl coenzyme A in the presence of glycerol-3-phosphate acyltransferase to form 1-acylglycerol-3-phosphate. The glycerol-3-phosphate contains three-carbon vertical chain in which hydroxyl is replaced by phosphate.\">",
+  "isSolutionPublic": false
+}
