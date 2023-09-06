@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>N</i>,<i>N</i>-Diethyl-<i>m</i>-toluamide (DEET) is the active ingredient in many insect-repellent preparations. How might you synthesize this substance from <i>m</i>-bromotoluene?</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_054.jpg\" alt=\"The structure of N, N-diethyl-m-toluamide comrpises of a benzene ring with a carbonyl carbon attached and a methyl group in the meta position. The carbonyl group is also attached to a diethylamine group.\">",
+  "isSolutionPublic": false
+}
