@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Cembrene, C<sub>20</sub>H<sub>32</sub>, a diterpenoid hydrocarbon isolated from pine resin, has a UV absorption at 245 nm, but dihydrocembrene (C<sub>20</sub>H<sub>34</sub>), the product of hydrogenation with 1 equivalent of H<sub>2</sub>, has no UV absorption. On exhaustive hydrogenation, 4 equivalents of H<sub>2</sub> react, and octahydrocembrene, C<sub>20</sub>H<sub>40</sub>, is produced. On ozonolysis of cembrene, followed by treatment of the ozonide with zinc, four carbonyl-containing products are obtained:</p>\n<img class=\"scaled-down\" src=\"media/OChem_27_EC_020.jpg\" alt=\"The structure of four carbonyl-containing compounds, a dialdehyde, a  keto-aldehyde, a dialdehyde, and a keto-aldehyde. \">\n<p>Propose a structure for cembrene that is consistent with its formation from geranylgeranyl diphosphate.</p>",
+  "isSolutionPublic": false
+}
