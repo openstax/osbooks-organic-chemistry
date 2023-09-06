@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>When crystals of pure <i>&#945;</i>-glucose are dissolved in water, isomerization occurs slowly to produce <i>&#946;</i>-glucose. Propose a mechanism for the isomerization.</p>\n<img class=\"scaled-down\" src=\"media/OChem_19_EC_042.jpg\" alt=\"The reaction shows the interconversion of alpha-glucose and beta-glucose through a reversible reaction. The position of the hemiacetal hydroxyl group is axial in alpha and equatorial in beta.\">",
+  "isSolutionPublic": false
+}
