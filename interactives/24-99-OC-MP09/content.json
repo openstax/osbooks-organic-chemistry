@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Chlorophyll, heme, vitamin B<sub>12</sub>, and a host of other substances are biosynthesized from porphobilinogen (PBG), which is itself formed from condensation of two molecules of 5-aminolevulinate. The two 5-aminolevulinates are bound to lysine (Lys) amino acids in the enzyme, one in the enamine form and one in the imine form, and their condensation is thought to occur by the following steps. Use curved arrows to show the mechanism of each step.</p>\n<img src=\"media/OChem_24_EC_024.jpg\" alt=\"Two molecules of enzyme-bound 5-aminolevulinate react to produce four intermediates. This further leads to the final product named Porphobilinogen (P B G).\">",
+  "isSolutionPublic": false
+}
