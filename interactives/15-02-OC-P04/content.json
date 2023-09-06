@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Pyridine is a flat, hexagonal molecule with bond angles of 120&#176;. It undergoes substitution rather than addition and generally behaves like benzene. Draw a picture of the <i>&#960;</i> orbitals of pyridine to explain its properties. Check your answer by looking ahead to <b>Section 15.5</b>.</p>\n<img src=\"media/OChem_15_02_007.jpg\" alt=\"Pyridine has a nitrogen atom in the first position and three alternate double bonds. Nitrogen carries a lone pair of electrons.\">",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>Pyridine has an aromatic sextet of electrons.</p>\n<img src=\"media/OChem_15_EC_202.jpg\" alt=\"Pyridine has three lobes around nitrogen. One lobe has an unpaired electron and one lobe has a lone pair of electrons. Upper lobe of each carbon has an unpaired electron.\">"
+}
