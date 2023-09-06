@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Compound <b>A</b>, C<sub>6</sub>H<sub>12</sub>O, has an IR absorption at 1715 cm<sup>&#8211;1</sup> and gives compound <b>B</b>, C<sub>6</sub>H<sub>15</sub>N, when treated with ammonia and NaBH<sub>4</sub>. The IR and <sup>1</sup>H NMR spectra of <b>B</b> are shown. What are the structures of <b>A</b> and <b>B</b>?</p>\n<img class=\"scaled-down\" src=\"media/OChem_24_10_005.jpg\" alt=\"An illustration shows two parts. The first part shows infrared spectrum of compound B C6H15N wherein the horizontal axis shows wavenumbers in cm to the power minus one starting from 4000 on the left side to 500 on the right side at the interval of 500 cm to the power minus one; the vertical axis shows transmittance in percentage starting from 0 to 100 at the interval of 20 percent. A stretch is shown spread at wavenumber 3500 (60%) and at 3000 (0%). Spikes of different sizes are shown throughout the graph. The second part shows 1H NMR spectrum of compound B. The horizontal axis shows chemical shift (delta) from 10 on the left to 0 ppm on the right at the intervals of 1 delta. The vertical axis shows increasing intensity. The left of spectrum shows chemical shifts 0.88 0.98 and 2.59; relative area are 9.00 5.00. and 1.00. A short peak is shown at 2.6 delta. A medium peak is shown at 1 delta followed by a tall peak at 0.9 delta. A short peak labeled pink &#8220;TMS&#8221; is shown at 0 delta.\">",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>(CH<sub>3</sub>)<sub>3</sub>CCOCH<sub>3</sub>&#8194;&#8203;&#8594;&#8194;&#8203;(CH<sub>3</sub>)<sub>3</sub>CCH(NH<sub>2</sub>)CH<sub>3</sub></p>"
+}
