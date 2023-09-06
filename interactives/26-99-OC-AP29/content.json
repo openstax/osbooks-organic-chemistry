@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Oxytocin, a nonapeptide hormone secreted by the pituitary gland, functions by stimulating uterine contraction and lactation during childbirth. Its sequence was determined from the following evidence:</p>\n<p><b>1.</b> Oxytocin is a cyclic compound containing a disulfide bridge between two cysteine residues.</p>\n<p><b>2.</b> When the disulfide bridge is reduced, oxytocin has the constitution Asn, Cys<sub>2</sub>, Gln, Gly, Ile, Leu, Pro, Tyr.</p>\n<p><b>3.</b> Partial hydrolysis of reduced oxytocin yields seven fragments: Asp-Cys, Ile-Glu, Cys-Tyr, Leu-Gly, Tyr-Ile-Glu, Glu-Asp-Cys, and Cys-Pro-Leu.</p>\n<p><b>4.</b> Gly is the C-terminal group.</p>\n<p><b>5.</b> Both Glu and Asp are present as their side-chain amides (Gln and Asn) rather than as free side-chain acids.</p>\n<p>What is the amino acid sequence of reduced oxytocin? What is the structure of oxytocin itself?</p>",
+  "isSolutionPublic": false
+}
