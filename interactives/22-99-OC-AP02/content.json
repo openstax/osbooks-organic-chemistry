@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Rank the following compounds in order of increasing acidity:</p>\n<p><b>(a)</b><img src=\"media/OChem_22_EC_030a.jpg\" alt=\"The structure of propanoic acid.\">\n&#8195;<b>(b)</b><img src=\"media/OChem_22_EC_030b.jpg\" alt=\"The structure of ethanol\">\n&#8195;<b>(c)</b><img src=\"media/OChem_22_EC_030c.jpg\" alt=\"The structure of diethyl amine where the N H group is bonded to two ethyl groups.\">\n&#8195;<b>(d)</b><img src=\"media/OChem_22_EC_030d.jpg\" alt=\"The structure of acetone where a central carbonyl group is bonded to two methyl groups.\">\n&#8195;<b>(e)</b><img src=\"media/OChem_22_EC_030e.jpg\" alt=\"The structure of pentane-2,4-dione, carbonyl groups being at C 2 and C 4 of a five carbon chain.\">\n&#8195;<b>(f)</b><img src=\"media/OChem_22_EC_030f.jpg\" alt=\"The structure of trichloroacetic acid where a trichloromethyl group is attached to a carboxylic acid group.\"></p>",
+  "isSolutionPublic": false
+}
