@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>We saw in Section 8.7 that bromohydrins are converted into epoxides when treated with base. Propose a mechanism, using curved arrows to show the electron flow.</p>\n<img class=\"scaled-down\" src=\"media/OChem_11_EC_017.jpg\" alt=\"An illustration shows the reaction of a bromohydrin in the presence of NaOH and ethanol to yield epoxide. Bromohydrin shows two carbon atoms single bonded. C1 is single bonded to a hydroxyl group  dash bonded to a hydrogen  and wedge bonded to methyl group. C2 is single bonded to a bromine atom  wedge bonded to a hydrogen  and dash bonded to methyl group. Epoxide shows a 3-membered ring with an oxygen and 2 carbon atoms. Each carbon is dash bonded to a hydrogen and wedge bonded to methyl group.\">",
+  "isSolutionPublic": false
+}
