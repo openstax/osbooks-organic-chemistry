@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following alkyl bromide can be prepared by reaction of the alcohol (<i>S</i>)-2-pentanol with PBr<sub>3</sub>. Name the compound, assign (<i>R</i>) or (<i>S</i>) stereochemistry, and tell whether the reaction of the alcohol results in the same stereochemistry or a change in stereochemistry (reddish brown = Br).</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_10_EC_013.jpg\" alt=\"The ball and stick model of an alkyl bromide that comprises a five-carbon chain joined by single bonds. Black, gray, and red spheres represent carbon, hydrogen, and bromine, respectively.\">",
+  "isSolutionPublic": false
+}
