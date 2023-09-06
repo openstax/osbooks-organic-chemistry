@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following cyclohexane derivative has three substituents&#8212;red, green, and blue. Identify each substituent as axial or equatorial, and identify each pair of relationships (red&#8211;blue, red&#8211;green, and blue&#8211;green) as cis or trans.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_04_EC_004.jpg\" alt=\"The ball and stick model of cyclohexane. C1 is axially bonded to a green sphere. C2 and C5 are equatorially bonded to a blue sphere and a red sphere, respectively.\">",
+  "isSolutionPublic": false
+}
