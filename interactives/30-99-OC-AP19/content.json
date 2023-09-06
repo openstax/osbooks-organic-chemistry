@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Photolysis of the <i>cis</i>-cyclobutene isomer in Problem 30-37 yields <i>cis</i>-cyclododecaen-7-yne, but photolysis of the trans isomer yields <i>trans</i>-cyclododecaen-7-yne. Explain these results, and identify the type and stereochemistry of the pericyclic reaction.</p>\n<img class=\"scaled-down\" src=\"media/OChem_30_EC_023.jpg\" alt=\"Cis cyclobutene isomer undergoes a photochemical reaction to give cis-cyclododecaen-7-yne. The trans-isomer undergoes a photochemical reaction to give trans-cyclododecaen-7-yne. A double bond is between C 1 and C 2.\">",
+  "isSolutionPublic": false
+}
