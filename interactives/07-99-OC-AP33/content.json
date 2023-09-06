@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Vinylcyclopropane reacts with HBr to yield a rearranged alkyl bromide. Follow the flow of electrons as represented by the curved arrows, show the structure of the carbocation intermediate in brackets, and show the structure of the final product.</p>\n<img class=\"scaled-down\" src=\"media/OChem_07_EC_034.jpg\" alt=\"A 2-step reaction shows vinylcyclopropane reacting with hydrogen bromide via abstraction of hydrogen and alkyl shift. The intermediate and products are unknown.\">",
+  "isSolutionPublic": false
+}
