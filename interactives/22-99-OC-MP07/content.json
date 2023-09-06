@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Nonconjugated <i>&#946;</i>,<i>&#947;</i>-unsaturated ketones, such as 3-cyclohexenone, are in an acid-catalyzed equilibrium with their conjugated <i>&#945;</i>,<i>&#946;</i>-unsaturated isomers. Propose a mechanism for the isomerization.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_22_EC_019.jpg\" alt=\"3-cyclohexenone with alpha, beta, and gamma carbons indicated and a double-bond between the beta and gamma carbons reacts with acid to form 2-cyclohexenone with a double-bond between the alpha and beta carbons.\">",
+  "isSolutionPublic": false
+}
