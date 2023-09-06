@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Ergosterol, a precursor of vitamin D, has <i>&#955;</i><sub>max</sub> = 282 nm and molar absorptivity <i>&#1013;</i> = 11,900. What is the concentration of ergosterol in a solution whose absorbance <i>A</i> = 0.065 with a sample pathlength <i>l</i> = 1.00 cm?</p>\n<img class=\"scaled-down\" src=\"media/OChem_14_EC_034.jpg\" alt=\"The wedge-dash structure of ergosterol that has the chemical formula C 28 H 44 O.\">",
+  "isSolutionPublic": false
+}
