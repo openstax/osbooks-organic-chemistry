@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Melamine, used as a fire retardant and a component of the writing surface of white boards, can be prepared from <i>s</i>-trichlorotriazine through a series of S<sub>N</sub>Ar reactions with ammonia. The first substitution takes place rapidly at room temperature. The second substitution takes place near 100 &#176;C, and the third substitution requires even higher temperature and pressure. Provide an explanation for this reactivity.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_16_EC_051.jpg\" alt=\"S-Trichlorotriazine reacts with ammonia to yield melamine. All three chlorine atoms in the reactant are replaced by N H 2 groups in the product.\">",
+  "isSolutionPublic": false
+}
