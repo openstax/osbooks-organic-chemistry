@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Atropine, C<sub>17</sub>H<sub>23</sub>NO<sub>3</sub>, is a poisonous alkaloid isolated from the leaves and roots of <i>Atropa belladonna,</i> the deadly nightshade. In small doses, atropine acts as a muscle relaxant; 0.5 ng (nanogram, 10<sup>&#8211;9</sup> g) is sufficient to cause pupil dilation. On basic hydrolysis, atropine yields tropic acid, C<sub>6</sub>H<sub>5</sub>CH(CH<sub>2</sub>OH)CO<sub>2</sub>H, and tropine, C<sub>8</sub>H<sub>15</sub>NO. Tropine is an optically inactive alcohol that yields tropidene on dehydration with H<sub>2</sub>SO<sub>4</sub>. Propose a structure for atropine.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_24_EC_051.jpg\" alt=\"The structure of tropidene, a bicyclic compound incorporating a nitrogen with a methyl substituent.\">",
+  "isSolutionPublic": false
+}
