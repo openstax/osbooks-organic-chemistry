@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>When the following alcohol is treated with POCl<sub>3</sub> and pyridine, the expected elimination product is formed. However, when the same alcohol is treated with H<sub>2</sub>SO<sub>4</sub>, the elimination product is 1,2-dimethylcyclopentene. Propose a mechanism for each pathway to account for these differences.</p>\n<img class=\"scaled-down\" src=\"media/OChem_17_EC_028.jpg\" alt=\"Propan-2-ylidenecyclobutane reacts with 2-cyclobutylpropan-2-ol. This reacts with sulfuric acid to form 1,2-dimethylcyclopent-1-ene.\">",
+  "isSolutionPublic": false
+}
