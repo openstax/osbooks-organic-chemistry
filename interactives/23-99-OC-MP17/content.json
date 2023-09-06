@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following reaction involves an intramolecular aldol reaction followed by a <i>retro</i> aldol-like reaction. Write both steps, and show their mechanisms.</p>\n<img class=\"scaled-down\" src=\"media/OChem_23_EC_030.jpg\" alt=\"The intramolecular aldol reaction shows ethyl-2-oxo-1-(4-oxopentyl)cyclopentanecarboxylate with sodium ethoxide in ethanol, forming a cyclic nine-carbon chain compound with attached substituents.\">\n",
+  "isSolutionPublic": false
+}
