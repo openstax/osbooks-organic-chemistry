@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Although 2-substituted 2-cyclopentenones are in a base-catalyzed equilibrium with their 5-substituted 2-cyclopentenone isomers, the analogous isomerization is not observed for 2-substituted 2-cyclohexenones. Explain.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_22_EC_041.jpg\" alt=\"2-Methyl-2-cyclohexen-1-one reacts with base to form 6-Methyl-2-cyclohexen-1-one\">",
+  "isSolutionPublic": false
+}
