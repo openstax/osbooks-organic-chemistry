@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>In glycerol metabolism, the oxidation of <i>sn</i>-glycerol 3-phosphate to give dihydroxyacetone phosphate is catalyzed by <i>sn</i>-glycerol-3-phosphate dehydrogenase, with NAD<sup>+</sup> as cofactor. The reaction is stereospecific, occurring exclusively on the Re face of the nicotinamide ring.</p>\n<img class=\"scaled-down\" src=\"media/OChem_29_EC_017.jpg\" alt=\"A reaction with nicotinamide adenine dinucleotide cation oxidizes sn-glycerol-3-phosphate to dihydroxyactone phosphate. Nicotinamide adenine dinucleotide cation converts to nicotinamide adenine dinucleotide hydride\">\n<p>Which hydrogen in the NADH product comes from <i>sn</i>-glycerol 3-phosphate? Does it have pro-<i>R</i> or pro-<i>S</i> stereochemistry?</p>",
+  "isSolutionPublic": false
+}
