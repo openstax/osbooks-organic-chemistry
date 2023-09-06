@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>When a primary alcohol is treated with <i>p</i>-toluenesulfonyl chloride at room temperature in the presence of an organic base such as pyridine, a tosylate is formed. When the same reaction is carried out at higher temperature, an alkyl chloride is often formed. Explain.</p>\n<img class=\"scaled-down\" src=\"media/OChem_11_EC_046.jpg\" alt=\"The reaction of benzyl alcohol with tosyl chloride and pyridine at 60 degrees Celsius yields benzyl chloride.\">",
+  "isSolutionPublic": false
+}
