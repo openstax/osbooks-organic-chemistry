@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Identify the missing reagents <b>a</b>&#8211;<b>f</b> in the following scheme:</p>\n<img class=\"scaled-down\" src=\"media/OChem_20_EC_036.jpg\" alt=\"Reaction of 3-methylbut-1-ene to form 3-methylbutan-1-ol, then 3-methyl-1-bromobutane, then 3-methylpentanoic acid, then 4-methylpentan-1-ol, then 4-methylpentanal, then 4-methyl pentane. Missing reagents in each step indicated using letters a through f.\">",
+  "isSolutionPublic": false
+}
