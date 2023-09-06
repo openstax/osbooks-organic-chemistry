@@ -1,0 +1,24 @@
+{
+  "errata_id": "e11804a1237f431b71f5b051924b15037173836daca34f3be796b3dcff04247d",
+  "attachments": [
+    "media/OChem_05_EC_206a.jpg",
+    "media/OChem_05_EC_206b.jpg",
+    "media/OChem_05_11_008a.jpg",
+    "media/OChem_05_11_008b.jpg"
+  ],
+  "tags": [
+    "type:practice",
+    "book:stax-orgchem",
+    "context-cnxmod:be9ba98e-e1b6-4bce-9d87-0ddf811597ab",
+    "book-slug:organic-chemistry",
+    "module-slug:organic-chemistry:5-11-prochirality"
+  ],
+  "books": [
+    {
+      "name": "stax-orgchem"
+    }
+  ],
+  "context": [
+    "m00060"
+  ]
+}
