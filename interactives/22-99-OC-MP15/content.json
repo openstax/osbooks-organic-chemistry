@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Amino acids can be prepared by reaction of alkyl halides with diethyl acetamidomalonate, followed by heating the initial alkylation product with aqueous HCl. Show how you would prepare alanine, CH<sub>3</sub>CH(NH<sub>2</sub>)CO<sub>2</sub>H, one of the twenty amino acids found in proteins, and propose a mechanism for acid-catalyzed conversion of the initial alkylation product to the amino acid.</p>\n<img class=\"scaled-down\" src=\"media/OChem_22_EC_027.jpg\" alt=\"The structure of diethyl acetamidomalonate where diethyl malonate is substituted with an acetamide group.\">\n",
+  "isSolutionPublic": false
+}
