@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Thiamin diphosphate (TPP), a derivative of vitamin B<sub>1</sub> required for glucose metabolism, is a weak acid that can be deprotonated by a base. Assign formal charges to the appropriate atoms in both TPP and its deprotonation product.</p>\n<img class=\"scaled-down\" src=\"media/OChem_02_EC_028.jpg\" alt=\"Thiamin diphosphate reacts with base forming a product, in which the hydrogen (with p K a 18) at C2 of the 5-membered ring is replaced with a lone pair.\">",
+  "isSolutionPublic": false
+}
