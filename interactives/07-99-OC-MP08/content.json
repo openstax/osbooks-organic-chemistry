@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>epi</i>-Aristolochene, a hydrocarbon found in both pepper and tobacco, is biosynthesized by the following pathway. Add curved arrows to show the mechanism of each step. Which steps involve alkene electrophilic addition(s), and which involve carbocation rearrangement(s)? (The abbreviation H&#8212;A stands for an unspecified acid, and &#8220;Base&#8221; is an unspecified base in the enzyme.)</p>\n<img class=\"scaled-down\" src=\"media/OChem_07_EC_013.jpg\" alt=\"A 5-step reaction shows the formation of epi-Aristolochene. H-A (acid) is used in first step and base in the last step.\">",
+  "isSolutionPublic": false
+}
