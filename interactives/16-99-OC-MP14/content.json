@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>In the <i>Gatterman&#8211;Koch reaction,</i> a formyl group (&#8202;&#8211;&#8202;CHO) is introduced directly onto a benzene ring. For example, reaction of toluene with CO and HCl in the presence of mixed CuCl/AlCl<sub>3</sub> gives <i>p</i>-methylbenzaldehyde. Propose a mechanism.</p>\n<img class=\"scaled-down\" src=\"media/OChem_16_EC_029.jpg\" alt=\"Toluene reacts with carbon monoxide and hydrogen chloride in the presence of copper (1) chloride or aluminum trichloride to form toluene with an aldehyde group in the para position.\">",
+  "isSolutionPublic": false
+}
