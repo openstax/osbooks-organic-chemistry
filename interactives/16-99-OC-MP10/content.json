@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Hexachlorophene, a substance used in the manufacture of germicidal soaps, is prepared by reaction of 2,4,5-trichlorophenol with formaldehyde in the presence of concentrated sulfuric acid. Propose a mechanism for the reaction.</p>\n<img class=\"scaled-down\" src=\"media/OChem_16_EC_025.jpg\" alt=\"Benzene bonded to three chlorine atoms and a hydroxyl group reacts with formaldehyde in the presence of sulfuric acid to form hexachlorophene.\">",
+  "isSolutionPublic": false
+}
