@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The reaction of hydroxide ion with chloromethane to yield methanol and chloride ion is an example of a general reaction type called a nucleophilic substitution reaction:</p>\n<p></p>HO<sup>&#8722;</sup> + CH<sub>3</sub>Cl&#8194;&#8644;&#8194;CH<sub>3</sub>OH + Cl<sup>&#8722;</sup><p></p>\n<p>The value of &#916;<i>H</i>&#176; for the reaction is &#8722;75 kJ/mol, and the value of &#916;<i>S</i>&#176; is +54 J/(K&#183;mol). What is the value of &#916;<i>G</i>&#176; (in kJ/mol) at 298 K? Is the reaction exothermic or endothermic? Is it exergonic or endergonic?</p>",
+  "isSolutionPublic": false
+}
