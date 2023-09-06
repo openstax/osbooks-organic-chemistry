@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The p<i>K</i><sub>a</sub> of acetone, CH<sub>3</sub>COCH<sub>3</sub>, is 19.3. Which of the following bases is strong enough to deprotonate acetone?</p>\n<p><b>(a)</b> KOH (p<i>K</i><sub>a</sub> of H<sub>2</sub>O = 15.7) <b>(b)</b> Na<sup>+</sup> <sup>−</sup>C <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow>\n  <mtext>≡</mtext>\n</mrow><annotation encoding=\"LaTeX\">\\text{≡}</annotation></semantics></math> CH  (p<i>K</i><sub>a</sub> of C<sub>2</sub>H<sub>2</sub> = 25) <b>(c)</b> NaHCO<sub>3</sub> (p<i>K</i><sub>a</sub> of H<sub>2</sub>CO<sub>3</sub> = 6.4)<br/><b>(d)</b> NaOCH<sub>3</sub> (p<i>K</i><sub>a</sub> of CH<sub>3</sub>OH = 15.6)</p>\n\n",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>No: <b>(a)</b>, <b>(c)</b>, <b>(d)</b>; yes: <b>(b)</b></p>"
+}
