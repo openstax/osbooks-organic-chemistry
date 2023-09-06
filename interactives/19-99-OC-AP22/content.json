@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The amino acid methionine is biosynthesized by a multistep route that includes reaction of an imine of pyridoxal phosphate (PLP) to give an unsaturated imine, which then reacts with cysteine. What kinds of reactions are occurring in the two steps?</p>\n<img class=\"scaled-down\" src=\"media/OChem_19_EC_056.jpg\" alt=\"O-succinylhomoserine- P L P imine undergoes a reaction to form an unsaturated imine which further reacts with cysteine to form the final product.\">\n",
+  "isSolutionPublic": false
+}
