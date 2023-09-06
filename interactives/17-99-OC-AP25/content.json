@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Reaction of (<i>S</i>)-3-methyl-2-pentanone with methylmagnesium bromide followed by acidification yields 2,3-dimethyl-2-pentanol. What is the stereochemistry of the product? Is the product optically active?</p>\n<img class=\"scaled-down\" src=\"media/OChem_17_EC_044.jpg\" alt=\"The structure of 3-methyl-2-pentanone. It is a five-carbon chain with keto group on C 2 and methyl group on C 3.\">",
+  "isSolutionPublic": false
+}
