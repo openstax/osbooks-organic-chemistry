@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The triene shown here reacts with 2 equivalents of maleic anhydride to yield a product with the formula C<sub>17</sub>H<sub>16</sub>O<sub>6</sub>. Predict a structure for the product.</p>\n<img class=\"scaled-down\" src=\"media/OChem_14_EC_030.jpg\" alt=\"A cyclohexene with an ethene group at C 2 and a  methylene at C 3 reacts with 2 equivalents of maleic anhydride to form C 17 H 16 O 6.\">",
+  "isSolutionPublic": false
+}
