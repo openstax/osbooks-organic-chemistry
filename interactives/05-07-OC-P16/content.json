@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which of the following structures represent meso compounds?</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_07_005a.jpg\" alt=\"In a cyclopentane ring, C1 and C2 are each wedge bonded to a hydroxyl group and dash bonded to a hydrogen atom.\">\n<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_07_005b.jpg\" alt=\"In a cyclopentane ring, C1 is dash bonded to hydrogen and wedge bonded to the hydroxyl group. C2 is dash bonded to the hydroxyl group and wedge bonded to hydrogen.\">\n<b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_07_005c.jpg\" alt=\"The wedge-dash structure shows cyclopentane ring fusion. C2 of the right cyclopentane is wedge bonded to a methyl group and dash bonded to a hydrogen atom.\">\n<b>(d)</b><img class=\"scaled-down-30\" src=\"media/OChem_05_07_005d.jpg\" alt=\"In a 2-carbon chain, C1 is wedge bonded to the bromine atom and methyl group. C2 is dash bonded to bromine, wedge bonded to a methyl group, and hydrogen atom.\"></p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>Compounds <b>(a)</b> and <b>(d)</b> are meso.</p>"
+}
