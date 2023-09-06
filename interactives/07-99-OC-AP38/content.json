@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Aromatic compounds such as benzene react with alkyl chlorides in the presence of AlCl<sub>3</sub> catalyst to yield alkylbenzenes. This reaction occurs through a carbocation intermediate, formed by reaction of the alkyl chloride with AlCl<sub>3</sub> (R&#8722;Cl + AlCl<sub>3</sub> &#10230; R<sup>+</sup> + AlCl<sub>4</sub><sup>&#8722;</sup>). How can you explain the observation that reaction of benzene with 1-chloropropane yields isopropylbenzene as the major product?</p>\n<img class=\"scaled-down\" src=\"media/OChem_07_EC_036.jpg\" alt=\"Benzene reacts with propyl chloride in the presence of aluminum trichloride to form a benzene ring, in which C1 is bonded to an isopropyl group.\">",
+  "isSolutionPublic": false
+}
