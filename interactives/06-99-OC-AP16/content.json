@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Methoxide ion (CH<sub>3</sub>O<sup>&#8722;</sup>) reacts with bromoethane in a single step according to the following equation:</p>\n<img class=\"scaled-down\" src=\"media/OChem_06_EC_022.jpg\" alt=\"A methoxide ion reacts with ethyl bromide to form ethene, methanol, and a bromide ion.\">\n<p>Identify the bonds broken and formed, and draw curved arrows to represent the flow of electrons during the reaction.</p>",
+  "isSolutionPublic": false
+}
