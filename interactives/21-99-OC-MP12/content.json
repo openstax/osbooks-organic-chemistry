@@ -1,0 +1,183 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 3,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<p>The first step in trapping is reaction of a hydroxyl group on the <i>&#946;</i>-lactamase to open the <i>&#946;</i>-lactam ring of tazobactam. Show the mechanism.</p>",
+        "subContentId": "5b71e1cf-a49c-47c8-abe7-4df8316f2861"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "21-99-OC-MP12-1",
+        "extraTitle": "21-99-OC-MP12-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<p>The second step is opening the sulfur-containing ring in tazobactam to give an acyclic imine intermediate. Show the mechanism.</p>",
+        "subContentId": "4b44ce96-7bf4-4c3f-b1dc-298d8d33a27c"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "21-99-OC-MP12-2",
+        "extraTitle": "21-99-OC-MP12-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": false,
+        "taskDescription": "<p>Cyclization of the imine intermediate gives the trapped <i>&#946;</i>-lactamase product. Show the mechanism.</p>",
+        "subContentId": "98ad4cff-449b-465f-be23-968822509eb2"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "21-99-OC-MP12-3",
+        "extraTitle": "21-99-OC-MP12-3"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>Bacteria typically develop a resistance to penicillins and other <i>&#946;</i>-lactam antibiotics (see <i>Chemistry Matters</i> at the end of this chapter) due to bacterial synthesis of <i>&#946;</i>-lactamase enzymes. Tazobactam, however, is able to inhibit the activity of the <i>&#946;</i>-lactamase by trapping it, thereby preventing a resistance from developing.</p>\n<img class=\"scaled-down\" src=\"media/OChem_21_EC_036.jpg\" alt=\"Reaction of beta-lactamase and tazobactam generates a  trapped beta-lactamase. The reaction proceeds through multiple steps. Tazobactam contain a four-membered lactam ring.\">"
+}
