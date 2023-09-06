@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The chloromethylated polystyrene resin originally used for Merrifield solid-phase peptide synthesis was prepared by treatment of polystyrene with chloromethyl methyl ether and a Lewis acid catalyst. Propose a mechanism for the reaction.</p>\n<img class=\"scaled-down\" src=\"media/OChem_26_EC_014.jpg\" alt=\"A polystyrene resin reacts with chloro(methoxy)methane and tin (IV) chloride to form  a polystyrene linked benzyl chloride resin for use in Merrifield solid-phase peptide synthesis.\">",
+  "isSolutionPublic": false
+}
