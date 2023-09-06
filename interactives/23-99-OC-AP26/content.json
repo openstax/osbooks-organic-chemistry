@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>When 2-methylcyclohexanone is converted into an enamine, only one product is formed despite the fact that the starting ketone is unsymmetrical. Build molecular models of the two possible products and explain the fact that the sole product is the one with the double bond opposite the methyl-substituted carbon.</p>\n<img class=\"scaled-down\" src=\"media/OChem_23_EC_049.jpg\" alt=\"The conversion of 2-methylcyclohexanone to an enamine using a cyclopentane reagent (pyrrolidine) yields a product 1-(6-methylcyclohex-1-enyl)pyrrolidine.\">",
+  "isSolutionPublic": false
+}
