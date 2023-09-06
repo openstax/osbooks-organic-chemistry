@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The smoking salons of the Hindenburg and other hydrogen-filled dirigibles of the 1930s were insulated with urea&#8211;formaldehyde polymer foams. The structure of this polymer is highly cross-linked, like that of Bakelite (Section 31.7). Propose a structure.</p>\n<img class=\"scaled-down\" src=\"media/OChem_31_EC_014.jpg\" alt=\"An incomplete reaction in which urea reacts with formaldehyde to form unknown product(s) indicated by a question mark.\">",
+  "isSolutionPublic": false
+}
