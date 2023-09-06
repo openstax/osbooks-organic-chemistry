@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Propose a structure for compound <b>C</b>, which has M<sup>+</sup> = 86 in its mass spectrum, an IR absorption at 3400 cm<sup>&#8211;1</sup>, and the following <sup>13</sup>C NMR spectral data:</p>\n<p><b>Compound C</b></p>\n<ul style=\"list-style-type:none\">\n<li>Broadband-decoupled <sup>13</sup>C NMR: 30.2, 31.9, 61.8, 114.7, 138.4 <i>&#948;</i></li>\n<li>DEPT-90: 138.4 <i>&#948;</i></li>\n<li>DEPT-135: positive peak at 138.4 <i>&#948;</i>; negative peaks at 30.2, 31.9, 61.8, 114.7 <i>&#948;</i></li>\n</ul>",
+  "isSolutionPublic": false
+}
