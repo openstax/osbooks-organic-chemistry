@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Julius Bredt, discoverer of the structure of camphor, proposed in 1935 that bicycloalkenes such as 1-norbornene, which have a double bond to a bridgehead carbon, are too strained to exist. Explain. (Making a molecular model will be helpful.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_04_EC_015.jpg\" alt=\"The structure of 1-norbornene, in which C1 forms a bridge with C4 through a methylene group. C1 is double bonded to C2.\">",
+  "isSolutionPublic": false
+}
