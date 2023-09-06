@@ -1,0 +1,237 @@
+{
+  "introPage": {
+    "showIntroPage": true,
+    "startButtonText": "Start Exercise"
+  },
+  "progressType": "dots",
+  "passPercentage": 100,
+  "disableBackwardsNavigation": false,
+  "randomQuestions": false,
+  "endGame": {
+    "showResultPage": true,
+    "showSolutionButton": true,
+    "showRetryButton": true,
+    "noResultMessage": "Finished",
+    "message": "Your result:",
+    "scoreBarLabel": "You got @finals out of @total points",
+    "overallFeedback": [
+      {
+        "from": 0,
+        "to": 100
+      }
+    ],
+    "solutionButtonText": "Show solution",
+    "retryButtonText": "Retry",
+    "finishButtonText": "Finish",
+    "submitButtonText": "Submit",
+    "showAnimations": false,
+    "skippable": false,
+    "skipButtonText": "Skip video"
+  },
+  "override": {
+    "checkButton": true,
+    "showSolutionButton": false,
+    "retryButton": true
+  },
+  "texts": {
+    "prevButton": "Previous question",
+    "nextButton": "Next question",
+    "finishButton": "Finish",
+    "submitButton": "Submit",
+    "textualProgress": "Question: @current of @total questions",
+    "jumpToQuestion": "Question %d of %total",
+    "questionLabel": "Question",
+    "readSpeakerProgress": "Question @current of @total",
+    "unansweredText": "Unanswered",
+    "answeredText": "Answered",
+    "currentQuestionText": "Current question",
+    "navigationLabel": "Questions"
+  },
+  "poolSize": 3,
+  "questions": [
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>(CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>CO<sub>2</sub>Et</p>",
+        "subContentId": "5b6d9525-3a08-49ba-baad-3a7da74bfbae",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<img class=\"scaled-down\" src=\"media/OChem_23_EC_206a.jpg\" alt=\"The structure of ethyl-2-isopropyl-5-methyl-3-oxohexanoate shows isopropyl and methyl substituents at second and fifth carbon. A carbonyl is positioned on the third carbon with an ethoxy group on the first carbonyl.\">"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "23-07-OC-P11-1",
+        "extraTitle": "23-07-OC-P11-1"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>Ethyl phenylacetate</p>",
+        "subContentId": "acb380e4-7855-4123-861a-69667cdb125f",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<img class=\"scaled-down\" src=\"media/OChem_23_EC_206b.jpg\" alt=\"The structure of ethyl-3-oxo-2,4-diphenylbutanoate shows two phenyl groups at second and fourth carbon. Two carbonyl groups are positioned on the first and third carbon, with an ethoxy group on first.\">"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "23-07-OC-P11-2",
+        "extraTitle": "23-07-OC-P11-2"
+      }
+    },
+    {
+      "params": {
+        "overallFeedback": [
+          {
+            "from": 0,
+            "to": 100
+          }
+        ],
+        "behaviour": {
+          "inputFieldSize": "10",
+          "enableRetry": true,
+          "ignoreScoring": false,
+          "pointsHost": 1,
+          "linebreakReplacement": " "
+        },
+        "checkAnswer": "Check",
+        "submitAnswer": "Submit",
+        "tryAgain": "Retry",
+        "showSolution": "Show solution",
+        "feedbackHeader": "Feedback",
+        "solutionTitle": "Sample solution",
+        "remainingChars": "Remaining characters: @chars",
+        "notEnoughChars": "You must enter at least @chars characters!",
+        "messageSave": "saved",
+        "ariaYourResult": "You got @score out of @total points",
+        "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+        "ariaCheck": "Check the answers.",
+        "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+        "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+        "isSolutionPublic": true,
+        "taskDescription": "<p>Ethyl cyclohexylacetate</p>",
+        "subContentId": "3730efb1-029b-4314-bcd0-e0659de1ffea",
+        "solution": {
+          "introduction": "",
+          "sample": ""
+        },
+        "keywords": [
+          {
+            "options": {
+              "points": 1,
+              "occurrences": 1,
+              "caseSensitive": false,
+              "forgiveMistakes": false,
+              "feedbackIncludedWord": "keyword",
+              "feedbackMissedWord": "none"
+            },
+            "keyword": "*"
+          }
+        ],
+        "detailedSolution": "<img class=\"scaled-down\" src=\"media/OChem_23_EC_206c.jpg\" alt=\"The structure of ethyl-2,4-dicyclohexyl-3-oxobutanoate shows two cyclohexyl groups at the second and fourth carbon. An ethoxy group is bonded to first carbonyl carbon, and carbonyl is part of third carbon.\">"
+      },
+      "library": "H5P.Essay 1.5",
+      "metadata": {
+        "contentType": "Essay",
+        "license": "U",
+        "authors": [],
+        "changes": [],
+        "title": "23-07-OC-P11-3",
+        "extraTitle": "23-07-OC-P11-3"
+      }
+    }
+  ],
+  "questionSetStimulus": "<p>Show the products you would expect to obtain by Claisen condensation of the following esters:</p>"
+}
