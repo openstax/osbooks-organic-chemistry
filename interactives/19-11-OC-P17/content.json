@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>&#946;</i>-Carotene, a yellow food-coloring agent and dietary source of vitamin A can be prepared by a <i>double</i> Wittig reaction between 2 equivalents of <i>&#946;</i>-ionylideneacetaldehyde and a <i>diylide.</i> Show the structure of the <i>&#946;</i>-carotene product.</p>\n<img class=\"scaled-down\" src=\"media/OChem_19_11_008.jpg\" alt=\"Two moles of beta-ionylideneacetaldehyde reacts with a diylide to form unknown product represented by a question mark.\">",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<img src=\"media/OChem_19_EC_206.jpg\" alt=\"The structure of beta-carotene. It consists of a long hydrocarbon chain comprising alternating single and double bonds. Both the ends have cyclohexene with methyl groups.\">"
+}
