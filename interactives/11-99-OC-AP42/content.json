@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Amines are converted into alkenes by a two-step process called the Hofmann elimination. S<sub>N</sub>2 reaction of the amine with an excess of CH<sub>3</sub>I in the first step yields an intermediate that undergoes E2 reaction when treated with silver oxide as base. Pentylamine, for example, yields 1-pentene. Propose a structure for the intermediate, and explain why it readily undergoes elimination.</p>\n<img class=\"scaled-down\" src=\"media/OChem_11_EC_048.jpg\" alt=\"A reaction of 1-aminopentane first with excess methyl iodide and then with Ag 2 O and water yields 1-pentene.\">",
+  "isSolutionPublic": false
+}
