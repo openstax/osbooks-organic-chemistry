@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Galactose, one of the eight essential monosaccharides (<b>Section 25.7</b>), is biosynthesized from UDP-glucose by galactose 4-epimerase, where UDP = uridylyl diphosphate (a ribonucleotide diphosphate; <b>Section 28.1</b>). The enzyme requires NAD<sup>+</sup> for activity (<b>Section 17.7</b>), but it is not a stoichiometric reactant, and NADH is not a final reaction product. Propose a mechanism.</p>\n<img class=\"scaled-down\" src=\"media/OChem_25_EC_006.jpg\" alt=\"U D P galactose is converted by a N A D cation to U D P-galactose.\">",
+  "isSolutionPublic": false
+}
