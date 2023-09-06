@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following carbocation is an intermediate in the electrophilic addition reaction of HCl with two different alkenes. Identify both, and tell which C&#8722;H bonds in the carbocation are aligned for hyperconjugation with the vacant <i>p</i> orbital on the positively charged carbon.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_07_EC_004.jpg\" alt=\"The ball-and-stick model has a cyclopentane ring. C1 is bonded to an ethyl group. The gray and white spheres represent carbon and hydrogen atoms, respectively.\">",
+  "isSolutionPublic": false
+}
