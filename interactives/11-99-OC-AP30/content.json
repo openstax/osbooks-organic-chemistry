@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Alkynes can be made by dehydrohalogenation of vinylic halides in a reaction that is essentially an E2 process. In studying the stereochemistry of this elimination, it was found that (<i>Z</i>)-2-chloro-2-butenedioic acid reacts 50 times as fast as the corresponding <i>E</i> isomer. What conclusion can you draw about the stereochemistry of eliminations in vinylic halides? How does this result compare with eliminations of alkyl halides?</p>\n<img class=\"scaled-down\" src=\"media/OChem_11_EC_039.jpg\" alt=\"A reaction in which (Z)-2-chloro-2-butenedioic acid forms an alkyne in the presence of sodium amide and hydronium ion.\">",
+  "isSolutionPublic": false
+}
