@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p><i>&#945;</i>-Fenchone is a pleasant-smelling terpenoid isolated from oil of lavender. Propose a pathway for the formation of <i>&#945;</i>-fenchone from geranyl diphosphate. A carbocation rearrangement is required.</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_27_EC_021.jpg\" alt=\"The structure of alpha-fenchone. It is a bicyclo[2.2.1] heptane with two methyls at C 3, one methyl at C 1, and a carbonyl at C 2,\">",
+  "isSolutionPublic": false
+}
