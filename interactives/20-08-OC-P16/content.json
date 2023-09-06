@@ -1,0 +1,49 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>How could you distinguish between the isomers cyclopentanecarboxylic acid and 4-hydroxycyclohexanone by <sup>1</sup>H and <sup>13</sup>C NMR spectroscopy? (See Problem 20-15.)</p>",
+  "isSolutionPublic": true,
+  "solution": {
+    "introduction": "",
+    "sample": ""
+  },
+  "keywords": [
+    {
+      "options": {
+        "points": 1,
+        "occurrences": 1,
+        "caseSensitive": false,
+        "forgiveMistakes": false,
+        "feedbackIncludedWord": "keyword",
+        "feedbackMissedWord": "none"
+      },
+      "keyword": "*"
+    }
+  ],
+  "detailedSolution": "<p>4-Hydroxycyclohexanone: <span class=\"magenta-text\">H</span>&#8211;C&#8211;O absorption near 4 <i>&#948;</i> in the <sup>1</sup>H spectrum and <span class=\"magenta-text\">C</span>&#9552;O absorption near 210 <i>&#948;</i> in the <sup>13</sup>C spectrum. Cyclopentanecarboxylic acid: &#8211;CO<sub>2</sub><span class=\"magenta-text\">H</span> absorption near 12 <i>&#948;</i> in the <sup>1</sup>H spectrum and &#8202;&#8211;<span class=\"magenta-text\">C</span>O<sub>2</sub>H absorption near 170 <i>&#948;</i> in the <sup>13</sup>C spectrum.</p>"
+}
