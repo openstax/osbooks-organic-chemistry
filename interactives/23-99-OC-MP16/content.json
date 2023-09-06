@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The following reaction involves a conjugate addition reaction followed by an intramolecular Claisen condensation. Write both steps, and show their mechanisms.</p>\n<img class=\"scaled-down\" src=\"media/OChem_23_EC_029.jpg\" alt=\"The reaction shows a conjugate addition of dimethyl-5, 5-dimethylhex-2-ynedioate with dimethylcopper lithium forming a product, methyl-2, 4, 4-trimethyl-5-oxocyclopent-1-enecarboxylate.\">",
+  "isSolutionPublic": false
+}
