@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Erythrogenic acid, C<sub>18</sub>H<sub>26</sub>O<sub>2</sub>, is an acetylenic fatty acid that turns a vivid red on exposure to light. On catalytic hydrogenation over a palladium catalyst, 5 equivalents of H<sub>2</sub> are absorbed, and stearic acid, CH<sub>3</sub>(CH<sub>2</sub>)<sub>16</sub>CO<sub>2</sub>H, is produced. Ozonolysis of erythrogenic acid gives four products: formaldehyde, CH<sub>2</sub>O; oxalic acid, HO<sub>2</sub>CCO<sub>2</sub>H; azelaic acid, HO<sub>2</sub>C(CH<sub>2</sub>)<sub>7</sub>CO<sub>2</sub>H; and the aldehyde acid OHC(CH<sub>2</sub>)<sub>4</sub>CO<sub>2</sub>H. Draw two possible structures for erythrogenic acid, and suggest a way to tell them apart by carrying out some simple reactions.</p>",
+  "isSolutionPublic": false
+}
