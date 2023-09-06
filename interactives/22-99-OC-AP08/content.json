@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Which, if any, of the following compounds can be prepared by an acetoacetic ester synthesis? Explain.</p>\n<p><b>(a)</b><img class=\"scaled-down-30\" src=\"media/OChem_22_EC_035a.jpg\" alt=\"The structure of 2-(5-bromophenyl) acetone where a bromine atom is bonded to meta to an acetone group on the benzene ring.\">\n&#8195;<b>(b)</b><img class=\"scaled-down-30\" src=\"media/OChem_22_EC_035b.jpg\" alt=\"The structure of cyclohexyl methyl ketone where a methyl group and a cyclohexane group are bonded to a central carbonyl group.\">\n&#8195;<b>(c)</b><img class=\"scaled-down-30\" src=\"media/OChem_22_EC_035c.jpg\" alt=\"The structure of 4,4-dimethyl-2-pentanone where the carbonyl group is located at C 2 and two methyl groups at C 4.\"></p>",
+  "isSolutionPublic": false
+}
