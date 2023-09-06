@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Propose a structure consistent with the following spectral data for a compound C<sub>8</sub>H<sub>18</sub>O<sub>2</sub>:</p>\n<ul style=\"list-style-type:none\">\n<li>IR: 3350 cm<sup>&#8211;1</sup></li>\n<li><sup>1</sup>H NMR: 1.24 <i>&#948;</i> (12 H, singlet); 1.56 <i>&#948;</i> (4 H, singlet); 1.95 <i>&#948;</i> (2 H, singlet)</li>\n</ul>",
+  "isSolutionPublic": false
+}
