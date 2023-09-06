@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>The infrared spectrum of the compound with the following mass spectrum lacks any significant absorption above 3000 cm<sup>&#8211;1</sup>. There is a prominent peak near 1740 cm<sup>&#8211;1</sup> and another strong peak near 1200 cm<sup>&#8211;1</sup>. Propose a structure.</p>\n<img src=\"media/OChem_12_EC_014.jpg\" alt=\"The mass spectrum of  an uknown compound with a base peak at m / z 88 and a molecular ion at m / z 172.\">",
+  "isSolutionPublic": false
+}
