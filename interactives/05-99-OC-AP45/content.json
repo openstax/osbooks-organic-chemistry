@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>We&#8217;ll see in Chapter 11 that alkyl halides react with hydrosulfide ion (HS<sup>&#8722;</sup>) to give a product whose stereochemistry is inverted from that of the reactant.</p>\n<p>Draw the reaction of (<i>S</i>)-2-bromobutane with HS<sup>&#8722;</sup> ion to yield 2-butanethiol, CH<sub>3</sub>CH<sub>2</sub>CH(SH)CH<sub>3</sub>. Is the stereochemistry of the product <i>R</i> or <i>S</i>?</p>\n<img class=\"scaled-down-30\" src=\"media/OChem_05_EC_031.jpg\" alt=\"The figure shows a reaction where an alkyl bromide reacts with H S anion  to form a thiol compound and a bromide ion.\">",
+  "isSolutionPublic": false
+}
