@@ -45,20 +45,20 @@
     <title>Green Chemistry</title>
     <para id="para-00011">Organic chemistry in the 20th century changed the world, giving us new medicines, food preservatives, insecticides, adhesives, textiles, dyes, building materials, composites, and all manner of polymers. But these advances did not come without a cost: Almost every chemical process produces waste that must be dealt with, including reaction solvents and toxic by-products that might evaporate into the air or be leached into groundwater if not disposed of properly. Even apparently harmless by-products must be safely buried or otherwise sequestered. As always, there’s no such thing as a free lunch. With the good also comes the bad.</para>
     <para id="para-00012">It may never be possible to make organic chemistry completely benign, but awareness of the environmental problems caused by many chemical processes has grown dramatically in recent years, giving rise to a movement called <emphasis effect="italics">green chemistry.</emphasis> Green chemistry is the design and implementation of chemical products and processes that reduce waste and attempt to eliminate the generation of hazardous substances. There are 12 principles of green chemistry:</para>
-   
+
     <list list-type="bulleted" bullet-style="none" id="list-00005">
-    <item><label>&#8195;</label><emphasis effect="bold">Prevent waste</emphasis> – Waste should be prevented rather than treated or cleaned up after it has been created.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Maximize atom economy</emphasis> – Synthetic methods should maximize the incorporation of all materials used in a process into the final product so that waste is minimized.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Use less hazardous processes</emphasis> – Synthetic methods should use reactants and generate wastes with minimal toxicity to health and the environment.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Design safer chemicals</emphasis> – Chemical products should be designed to have minimal toxicity.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Use safer solvents</emphasis> – Minimal use should be made of solvents, separation agents, and other auxiliary substances in a reaction.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Design for energy efficiency</emphasis> – Energy requirements for chemical processes should be minimized, with reactions carried out at room temperature if possible.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Use renewable feedstocks</emphasis> – Raw materials should come from renewable sources when feasible.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Minimize derivatives</emphasis> – Syntheses should be designed with minimal use of protecting groups to avoid extra steps and reduce waste.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Use catalysis</emphasis> – Reactions should be catalytic rather than stoichiometric.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Design for degradation</emphasis> – Products should be designed to be biodegradable at the end of their useful lifetimes.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Monitor pollution in real time</emphasis> – Processes should be monitored in real time for the formation of hazardous substances.</item>
-    <item><label>&#8195;</label><emphasis effect="bold">Prevent accidents</emphasis> – Chemical substances and processes should minimize the potential for fires, explosions, or other accidents.</item>
+    <item><label> </label><emphasis effect="bold">Prevent waste</emphasis> – Waste should be prevented rather than treated or cleaned up after it has been created.</item>
+    <item><label> </label><emphasis effect="bold">Maximize atom economy</emphasis> – Synthetic methods should maximize the incorporation of all materials used in a process into the final product so that waste is minimized.</item>
+    <item><label> </label><emphasis effect="bold">Use less hazardous processes</emphasis> – Synthetic methods should use reactants and generate wastes with minimal toxicity to health and the environment.</item>
+    <item><label> </label><emphasis effect="bold">Design safer chemicals</emphasis> – Chemical products should be designed to have minimal toxicity.</item>
+    <item><label> </label><emphasis effect="bold">Use safer solvents</emphasis> – Minimal use should be made of solvents, separation agents, and other auxiliary substances in a reaction.</item>
+    <item><label> </label><emphasis effect="bold">Design for energy efficiency</emphasis> – Energy requirements for chemical processes should be minimized, with reactions carried out at room temperature if possible.</item>
+    <item><label> </label><emphasis effect="bold">Use renewable feedstocks</emphasis> – Raw materials should come from renewable sources when feasible.</item>
+    <item><label> </label><emphasis effect="bold">Minimize derivatives</emphasis> – Syntheses should be designed with minimal use of protecting groups to avoid extra steps and reduce waste.</item>
+    <item><label> </label><emphasis effect="bold">Use catalysis</emphasis> – Reactions should be catalytic rather than stoichiometric.</item>
+    <item><label> </label><emphasis effect="bold">Design for degradation</emphasis> – Products should be designed to be biodegradable at the end of their useful lifetimes.</item>
+    <item><label> </label><emphasis effect="bold">Monitor pollution in real time</emphasis> – Processes should be monitored in real time for the formation of hazardous substances.</item>
+    <item><label> </label><emphasis effect="bold">Prevent accidents</emphasis> – Chemical substances and processes should minimize the potential for fires, explosions, or other accidents.</item>
   </list>
     <para id="para-00025">The foregoing 12 principles may not all be met in most real-world applications, but they provide a worthy goal and they can make chemists think more carefully about the environmental implications of their work. Real success stories have occurred, and more are in progress. Approximately 7 million pounds per year of ibuprofen (6 billion tablets!) are now made by a “green” process that produces approximately 99% less waste than the process it replaces. Only three steps are needed, the anhydrous HF solvent used in the first step is recovered and reused, and the second and third steps are catalytic.</para>
     <figure class="unnumbered" id="fig-00005">
@@ -237,6 +237,7 @@
     <para id="para-00052"><link class="os-embed" url="#exercise/11-99-OC-MP14"/></para>
     </problem>
     </exercise>
+    <para id="para-00002"><newline/></para>
     <para id="para-00053"><emphasis effect="bold"><span class="red-text">Nucleophilic Substitution Reactions</span></emphasis></para>
     <exercise id="exer-00020">
     <problem id="prob-00020">
