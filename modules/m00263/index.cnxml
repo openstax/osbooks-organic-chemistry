@@ -50,7 +50,7 @@
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_007.jpg"/>
 </media>
 </figure>
-<para id="para-00008">As noted previously, the overall effect of malonic ester synthesis is to convert an alkyl halide into a carboxylic acid while lengthening the carbon chain by two atoms (RX&#8201;→&#8201;RCH<sub>2</sub>CO<sub>2</sub>H).</para>
+<para id="para-00008">As noted previously, the overall effect of malonic ester synthesis is to convert an alkyl halide into a carboxylic acid while lengthening the carbon chain by two atoms (RX → RCH<sub>2</sub>CO<sub>2</sub>H).</para>
 <figure class="unnumbered scaled-down" id="fig-00008">
 <media alt="1-Bromobutane and diethyl malonate react with sodium ethoxide to give hexanoic acid via an intermediate. The intermediate can also react with sodium ethoxide and then methyl iodide to yield 2-methyl hexanoic acid.">
 <image mime-type="image/jpeg" src="../../media/OChem_22_07_008.jpg"/>
@@ -258,7 +258,7 @@
 </media>
 </figure>
 <para id="para-00039">Carbonyl compounds are in an equilibrium with their enols, a process called keto–enol tautomerism. Although enol <emphasis effect="bold">tautomers</emphasis> are normally present to only a small extent at equilibrium and can’t usually be isolated in pure form, they nevertheless contain a highly nucleophilic double bond and react with electrophiles in an <emphasis effect="bold"><emphasis effect="italics">α</emphasis>-substitution reaction</emphasis>. An example is the <emphasis effect="italics">α</emphasis> halogenation of ketones on treatment with Cl<sub>2</sub>, Br<sub>2</sub>, or I<sub>2</sub> in acid solution. Alpha bromination of carboxylic acids can be similarly accomplished by the Hell–Volhard–Zelinskii (HVZ) reaction, in which an acid is treated with Br<sub>2</sub> and PBr<sub>3</sub>. The <emphasis effect="italics">α</emphasis>-halogenated products can then undergo base-induced E2 elimination to yield <emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-unsaturated carbonyl compounds.</para>
-<para id="para-00040">Alpha hydrogen atoms of carbonyl compounds are weakly acidic and can be removed by strong bases, such as lithium diisopropylamide (LDA), to yield nucleophilic enolate ions. The most useful reaction of enolate ions is their S<sub>N</sub>2 alkylation with alkyl halides. The <emphasis effect="bold">Malonic ester synthesis</emphasis> converts an alkyl halide into a carboxylic acid with the addition of two carbon atoms (RX&#8201;→&#8201;RCH<sub>2</sub>CO<sub>2</sub>H). Similarly, the <emphasis effect="bold">acetoacetic ester synthesis</emphasis> converts an alkyl halide into a methyl ketone with the addition of three carbon atoms (RX&#8201;→&#8201;RCH<sub>2</sub>COCH<sub>3</sub>). In addition, many carbonyl compounds, including ketones, esters, and nitriles, can be directly alkylated by treatment with LDA and an alkyl halide.</para>
+<para id="para-00040">Alpha hydrogen atoms of carbonyl compounds are weakly acidic and can be removed by strong bases, such as lithium diisopropylamide (LDA), to yield nucleophilic enolate ions. The most useful reaction of enolate ions is their S<sub>N</sub>2 alkylation with alkyl halides. The <emphasis effect="bold">Malonic ester synthesis</emphasis> converts an alkyl halide into a carboxylic acid with the addition of two carbon atoms (RX → RCH<sub>2</sub>CO<sub>2</sub>H). Similarly, the <emphasis effect="bold">acetoacetic ester synthesis</emphasis> converts an alkyl halide into a methyl ketone with the addition of three carbon atoms (RX → RCH<sub>2</sub>COCH<sub>3</sub>). In addition, many carbonyl compounds, including ketones, esters, and nitriles, can be directly alkylated by treatment with LDA and an alkyl halide.</para>
 </section>
 <section class="summary-reactions" id="sect-00011">
 <title>Summary of Reactions</title>
@@ -498,6 +498,7 @@
 <para id="para-00079"><link class="os-embed" url="#exercise/22-99-OC-AP14"/></para>
 </problem>
 </exercise>
+<para id="para-00085"><newline/></para>
 <exercise id="exer-00042">
 <problem id="prob-00042">
 <para id="para-00080"><link class="os-embed" url="#exercise/22-99-OC-AP15"/></para>
