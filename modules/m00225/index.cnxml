@@ -8,14 +8,14 @@
   <content>
     <section id="sect-00001">
     <title>Infrared Spectroscopy</title>
-    <para id="para-00001">Aldehydes and ketones show a strong <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> bond absorption in the IR region from 1660 to 1770 cm<sup>–1</sup>, as the spectra of benzaldehyde and cyclohexanone demonstrate (<link target-id="fig-00001"/>). In addition, aldehydes show two characteristic C–H absorptions between 2700–2760 and 2800–2860 cm<sup>–1</sup>. These absorbances are important for distinguishing between aldehydes and ketones. The higher-frequency absorbance is sometimes obscured in cases where the compound has numerous saturated C–H groups, but the lower-frequency peak is almost always visible.</para>
+    <para id="para-00001">Aldehydes and ketones show a strong <m:math><m:mrow><m:mtext>C═O</m:mtext></m:mrow></m:math> bond absorption in the IR region from 1660 to 1770 cm<sup>–1</sup>, as the spectra of benzaldehyde and cyclohexanone demonstrate (<link target-id="fig-00001"/>). In addition, aldehydes show two characteristic C–H absorptions between 2700–2760 and 2800–2860 cm<sup>–1</sup>. These absorbances are important for distinguishing between aldehydes and ketones. The higher-frequency absorbance is sometimes obscured in cases where the compound has numerous saturated C–H groups, but the lower-frequency peak is almost always visible.</para>
     <figure class="scaled-down" id="fig-00001">
     <media alt="I R spectra of benzaldehyde with carbonyl peak at 1700 and aldehyde hydrogen peak around 2800, and of cyclohexanone with carbonyl peak around 1700 wavenumbers.">
     <image mime-type="image/jpeg" src="../../media/OChem_19_14_001.jpg"/>
     </media>
     <caption><emphasis effect="bold">Infrared spectra of (a) benzaldehyde and (b) cyclohexanone.</emphasis></caption>
     </figure>
-    <para id="para-00002">The exact position of the <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> absorption is diagnostic of the nature of the carbonyl group. As the data in <link target-id="table-00001"/> indicate, saturated aldehydes usually show carbonyl absorptions near 1730 cm<sup>–1</sup> in the IR spectrum, but conjugation of the aldehyde to an aromatic ring or a double bond lowers the absorption by 25 cm<sup>–1</sup> to near 1705 cm<sup>–1</sup>. Saturated aliphatic ketones and cyclohexanones both absorb near 1715 cm<sup>–1</sup>, and conjugation with a double bond or an aromatic ring again lowers the absorption by 30 cm<sup>–1</sup> to 1685–1690 cm<sup>–1</sup>. Angle strain in the carbonyl group, caused by reducing the ring size of cyclic ketones to four or five, raises the absorption position. Cyclohexanone has its <m:math><m:mrow><m:mtext>C&#x2550;O</m:mtext></m:mrow></m:math> stretch absorbance at 1715 cm<sup>–1</sup> while cyclopentanone’s carbonyl stretch is at 1750 cm<sup>–1</sup> and cyclobutanone’s is at 1785 cm<sup>–1</sup>.</para>
+    <para id="para-00002">The exact position of the <m:math><m:mrow><m:mtext>C═O</m:mtext></m:mrow></m:math> absorption is diagnostic of the nature of the carbonyl group. As the data in <link target-id="table-00001"/> indicate, saturated aldehydes usually show carbonyl absorptions near 1730 cm<sup>–1</sup> in the IR spectrum, but conjugation of the aldehyde to an aromatic ring or a double bond lowers the absorption by 25 cm<sup>–1</sup> to near 1705 cm<sup>–1</sup>. Saturated aliphatic ketones and cyclohexanones both absorb near 1715 cm<sup>–1</sup>, and conjugation with a double bond or an aromatic ring again lowers the absorption by 30 cm<sup>–1</sup> to 1685–1690 cm<sup>–1</sup>. Angle strain in the carbonyl group, caused by reducing the ring size of cyclic ketones to four or five, raises the absorption position. Cyclohexanone has its <m:math><m:mrow><m:mtext>C═O</m:mtext></m:mrow></m:math> stretch absorbance at 1715 cm<sup>–1</sup> while cyclopentanone’s carbonyl stretch is at 1750 cm<sup>–1</sup> and cyclobutanone’s is at 1785 cm<sup>–1</sup>.</para>
     <table summary="" id="table-00001">
     <title>Infrared Absorptions of Some Aldehydes and Ketones</title>
     <tgroup cols="3">
@@ -42,7 +42,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-Unsaturated aldehyde</entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C&#x2550;CHCHO</m:mtext></m:mrow></m:math></entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C═CHCHO</m:mtext></m:mrow></m:math></entry>
     <entry valign="top" align="center">1705</entry>
     </row>
     <row valign="top">
@@ -72,7 +72,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="italics">α</emphasis>,<emphasis effect="italics">β</emphasis>-Unsaturated ketone</entry>
-    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C&#x2550;</m:mtext><m:msub><m:mrow><m:mtext>CHCOCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
+    <entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>C═</m:mtext><m:msub><m:mrow><m:mtext>CHCOCH</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow></m:math></entry>
     <entry valign="top" align="center">1685</entry>
     </row>
     </tbody>
@@ -161,7 +161,7 @@
     </media>
     <caption><emphasis effect="bold">A substance made from the tartaric acid found at the bottom of this wine vat catalyzes enantioselective reactions.</emphasis> (credit: “Pinot Noir fermentation in open vat” by Pipers Brook Vineyard Media/Flickr, CC BY 2.0)</caption>
     </figure>
-    <para id="para-00017">Among the thousands of enantioselective reactions now known, one of the most useful is the so-called Sharpless epoxidation, in which an allylic alcohol, such as geraniol, is treated with <emphasis effect="italics">tert</emphasis>-butyl hydroperoxide, (CH<sub>3</sub>)<sub>3</sub>C&#x2013;OOH, in the presence of titanium tetraisopropoxide and diethyl tartrate (DET) as a chiral auxiliary reagent. When (<emphasis effect="italics">R,R</emphasis>) tartrate is used, geraniol is converted into its 2<emphasis effect="italics">S</emphasis>,3<emphasis effect="italics">S</emphasis> epoxide with 98% selectivity, whereas the use of (<emphasis effect="italics">S,S</emphasis>) tartrate gives the 2<emphasis effect="italics">R</emphasis>,3<emphasis effect="italics">R</emphasis> epoxide enantiomer. We say that the major product in each case is formed with an <emphasis effect="italics">enantiomeric excess</emphasis> of 96%, meaning that 4% of the product is racemic (2% 2<emphasis effect="italics">S</emphasis>,3<emphasis effect="italics">S</emphasis> plus 2% 2<emphasis effect="italics">R</emphasis>,3<emphasis effect="italics">R</emphasis>) and an extra 96% of a single enantiomer is formed. The mechanistic details by which the chiral catalyst works are a bit complex, although it appears that a chiral complex of two tartrate molecules with one titanium is involved.</para>
+    <para id="para-00017">Among the thousands of enantioselective reactions now known, one of the most useful is the so-called Sharpless epoxidation, in which an allylic alcohol, such as geraniol, is treated with <emphasis effect="italics">tert</emphasis>-butyl hydroperoxide, (CH<sub>3</sub>)<sub>3</sub>C–OOH, in the presence of titanium tetraisopropoxide and diethyl tartrate (DET) as a chiral auxiliary reagent. When (<emphasis effect="italics">R,R</emphasis>) tartrate is used, geraniol is converted into its 2<emphasis effect="italics">S</emphasis>,3<emphasis effect="italics">S</emphasis> epoxide with 98% selectivity, whereas the use of (<emphasis effect="italics">S,S</emphasis>) tartrate gives the 2<emphasis effect="italics">R</emphasis>,3<emphasis effect="italics">R</emphasis> epoxide enantiomer. We say that the major product in each case is formed with an <emphasis effect="italics">enantiomeric excess</emphasis> of 96%, meaning that 4% of the product is racemic (2% 2<emphasis effect="italics">S</emphasis>,3<emphasis effect="italics">S</emphasis> plus 2% 2<emphasis effect="italics">R</emphasis>,3<emphasis effect="italics">R</emphasis>) and an extra 96% of a single enantiomer is formed. The mechanistic details by which the chiral catalyst works are a bit complex, although it appears that a chiral complex of two tartrate molecules with one titanium is involved.</para>
     <figure class="unnumbered scaled-down" id="fig-00009">
     <media alt="Catalyst structures and reactions involving geraniol, resulting in specific isomers with distinct carbon-hydrogen arrangements mediated by (R, R)-D E T and (S, S)-D E T compounds.">
     <image mime-type="image/jpeg" src="../../media/OChem_19_14_010.jpg"/>
@@ -179,9 +179,9 @@
         <item><link document="m00219" target-id="term-00004">carbinolamine</link></item>
         <item><link document="m00224" target-id="term-00002">conjugate addition</link></item>
         <item><link document="m00217" target-id="term-00001">cyanohydrin</link></item>
-        <item><link document="m00219" target-id="term-00002">enamine <m:math><m:mrow><m:msub><m:mrow><m:mtext>(R</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>N&#x2013;CR&#x2550;</m:mtext><m:msub><m:mrow><m:mtext>CR</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mtext>)</m:mtext></m:mrow></m:math></link></item>
+        <item><link document="m00219" target-id="term-00002">enamine <m:math><m:mrow><m:msub><m:mrow><m:mtext>(R</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>N–CR═</m:mtext><m:msub><m:mrow><m:mtext>CR</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:mtext>)</m:mtext></m:mrow></m:math></link></item>
         <item><link document="m00221" target-id="term-00003">hemiacetal</link></item>
-        <item><link document="m00219" target-id="term-00001">imine <m:math><m:mrow><m:msub><m:mrow><m:mtext>(R</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C&#x2550;NR)</m:mtext></m:mrow></m:math></link></item>
+        <item><link document="m00219" target-id="term-00001">imine <m:math><m:mrow><m:msub><m:mrow><m:mtext>(R</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>C═NR)</m:mtext></m:mrow></m:math></link></item>
         <item><link document="m00221" target-id="term-00002">ketal</link></item>
         <item><link document="m00211" target-id="term-00002">ketone (R<sub>2</sub>CO)</link></item>
         <item><link document="m00225" target-id="term-00001">McLafferty rearrangement</link></item>
@@ -508,6 +508,7 @@
     <para id="para-00063"><link class="os-embed" url="#exercise/19-99-OC-AP12"/></para>
     </problem>
     </exercise>
+    <para id="para-00088"><newline count="2"/></para>
     <para id="para-00064"><emphasis effect="bold"><span class="red-text">Spectroscopy</span></emphasis></para>
     <exercise id="exer-00043">
     <problem id="prob-00043">
