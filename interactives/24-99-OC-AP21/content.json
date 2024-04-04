@@ -1,0 +1,31 @@
+{
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "inputFieldSize": "10",
+    "enableRetry": true,
+    "ignoreScoring": false,
+    "pointsHost": 1,
+    "linebreakReplacement": " "
+  },
+  "checkAnswer": "Check",
+  "submitAnswer": "Submit",
+  "tryAgain": "Retry",
+  "showSolution": "Show solution",
+  "feedbackHeader": "Feedback",
+  "solutionTitle": "Sample solution",
+  "remainingChars": "Remaining characters: @chars",
+  "notEnoughChars": "You must enter at least @chars characters!",
+  "messageSave": "saved",
+  "ariaYourResult": "You got @score out of @total points",
+  "ariaNavigatedToSolution": "Navigated to newly included sample solution after textarea.",
+  "ariaCheck": "Check the answers.",
+  "ariaShowSolution": "Show the solution. You will be provided with a sample solution.",
+  "ariaRetry": "Retry the task. You can improve your previous answer if the author allowed that.",
+  "taskDescription": "<p>Draw the structure of the amine that produced the <sup>1</sup>H NMR spectrum shown. <img src=\"media/OSX_OrgChem_24_97_OChem-24-EC-208_NMRspec.jpg\" alt=\"Proton spectrum with signals at approximate chemical shifts 0.9 (triplet), 1.4 (multiplet), 2 (broad singlet), and 2.55 (triplet) parts per million.\"> This compound has a single strong peak in its IR spectrum at 3280 cm<sup>&#8211;1</sup>.</p>",
+  "isSolutionPublic": false
+}
