@@ -114,7 +114,7 @@
     </table>
     <example id="exam-00001">
     <title>Predicting Chemical Shifts in <sup>1</sup>H NMR Spectra</title>
-    <para id="para-00004">Methyl 2,2-dimethylpropanoate (CH<sub>3</sub>)<sub>2</sub>CCO<sub>2</sub>CH<sub>3</sub> has two peaks in its <sup>1</sup>H NMR spectrum. What are their approximate chemical shifts?</para>
+    <para id="para-00004">Methyl 2,2-dimethylpropanoate (CH<sub>3</sub>)<sub>3</sub>CCO<sub>2</sub>CH<sub>3</sub> has two peaks in its <sup>1</sup>H NMR spectrum. What are their approximate chemical shifts?</para>
     <para id="para-00005"><title><span class="red-text">Strategy</span></title> Identify the types of hydrogens in the molecule, and note whether each is alkyl, vinylic, or next to an electronegative atom. Then predict where each absorbs, using <link target-id="table-00002"/> if necessary.</para>
     <para id="para-00006"><title><span class="cyan-text">Solution</span></title> The –OCH<sub>3</sub> protons absorb around 3.5 to 4.0 <emphasis effect="italics">δ</emphasis> because they are on carbon bonded to oxygen. The (CH<sub>3</sub>)<sub>3</sub>C– protons absorb near 1.0 <emphasis effect="italics">δ</emphasis> because they are typical alkane-like protons.</para>
     </example>
