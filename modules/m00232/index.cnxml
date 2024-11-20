@@ -6,7 +6,7 @@
     <md:uuid>a01b23b5-cdf7-436e-97f0-2ad6e58f3d89</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">In acidic solution, at low pH, a carboxylic acid is completely undissociated and exists entirely as RCOH. In basic solution, at high pH, a carboxylic acid is completely dissociated and exists entirely as RCO<sub>2</sub><sup>–</sup>. Inside living cells, however, the pH is neither acidic nor basic but is instead buffered to a nearly neutral pH of 3.5–4.5 in humans, a value often referred to as <emphasis effect="italics">physiological pH</emphasis>. In what form, then, do carboxylic acids exist inside cells? The question is an important one for understanding the acid catalysts so often found in biological reactions.</para>
+    <para id="para-00001">In acidic solution, at low pH, a carboxylic acid is completely undissociated and exists entirely as RCO<sub>2</sub>H. In basic solution, at high pH, a carboxylic acid is completely dissociated and exists entirely as RCO<sub>2</sub><sup>–</sup>. Inside living cells, however, the pH is neither acidic nor basic but is instead buffered to a nearly neutral pH of 7.35–7.45. In what form, then, do carboxylic acids exist inside cells? The question is an important one for understanding the acid catalysts so often found in biological reactions.</para>
     <para id="para-00002">If the p<emphasis effect="italics">K</emphasis><sub>a</sub> value of a given acid and the pH of the medium are known, the percentages of dissociated and undissociated forms can be calculated using the <term id="term-00001">Henderson–Hasselbalch equation</term>.</para>
     <para id="para-00003">For any acid HA, we have</para>
     <equation id="eq-00001" class="unnumbered">
