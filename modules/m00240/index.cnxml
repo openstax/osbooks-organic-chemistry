@@ -56,6 +56,9 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
+    <thead><row><entry>Reaction
+    </entry>
+  <entry>Yield</entry></row></thead>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left">• <term id="term-00002">Hydrolysis</term></entry>

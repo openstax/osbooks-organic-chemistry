@@ -29,6 +29,8 @@
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
+<thead><row><entry>Base Strength</entry>
+<entry>p<emphasis effect="italics">K</emphasis><sub>a</sub> size</entry></row></thead>
 <tbody>
 <row valign="top">
 <entry valign="top" align="left"><emphasis effect="bold"><span class="cyan-text">Weaker base</span></emphasis></entry>

@@ -95,6 +95,8 @@
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
+    <thead><row><entry>Variable</entry>
+    <entry>Effects</entry></row></thead>
     <tbody>
     <row valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Substrate</emphasis></entry>
